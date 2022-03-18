@@ -1,0 +1,23 @@
+"0","result <- spacy_parse(texts, tag = TRUE, pos = TRUE)"
+"2","Finding a python executable with spaCy installed...
+"
+"2","spaCy (language model: en_core_web_sm) is installed in C:\Users\Aman\AppData\Local\Microsoft\WindowsApps\python.exe
+"
+"2","Error in py_initialize(config$python, config$libpython, config$pythonhome,  : 
+  C:/Program Files/WindowsApps/PythonSoftwareFoundation.Python.3.9_3.9.2800.0_x64__qbz5n2kfra8p0/python39.dll - Access is denied.
+"
+"2","In addition: "
+"2","Warning messages:
+"
+"2","1: "
+"2","In file.info(x, extra_cols = FALSE) :"
+"2","
+ "
+"2"," cannot open file 'C:\Users\Aman\AppData\Local\Microsoft\WindowsApps\python.exe': The file cannot be accessed by the system
+"
+"2","2: "
+"2","In file.info(x, extra_cols = FALSE) :"
+"2","
+ "
+"2"," cannot open file 'C:\Users\Aman\AppData\Local\Microsoft\WindowsApps\python.exe': The file cannot be accessed by the system
+"

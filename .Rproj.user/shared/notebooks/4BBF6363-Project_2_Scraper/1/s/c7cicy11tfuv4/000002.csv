@@ -1,0 +1,3 @@
+"0","process_programming_list <- function(text_block, list_allowed) {"
+"0","   list_allowed[text_block %in% list_allowed] "
+"0","}"

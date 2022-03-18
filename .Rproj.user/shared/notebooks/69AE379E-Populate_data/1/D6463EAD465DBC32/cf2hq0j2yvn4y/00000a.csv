@@ -1,0 +1,12 @@
+"0","upload_data(""data_science_job_posting"")"
+"2","Warning in for (Cl in classes) if (is(object, Cl)) return(object) :"
+"2","
+ "
+"2"," call dbDisconnect() when finished working with a connection
+"
+"1","[1]"
+"1"," ""data_science_job_posting"""
+"1"," ""movies_metadata""         "
+"1"," ""ratings""                 "
+"1","
+"

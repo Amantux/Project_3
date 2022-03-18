@@ -1,0 +1,8 @@
+"0","current_data <- read.csv(file = paste('Data_set/','data_science_job_posting','.csv', sep = """"), header=TRUE)"
+"2","Warning in file(file, ""rt"") :"
+"2","
+ "
+"2"," cannot open file 'Data_set/data_science_job_posting.csv': No such file or directory
+"
+"2","Error in file(file, ""rt"") : cannot open the connection
+"

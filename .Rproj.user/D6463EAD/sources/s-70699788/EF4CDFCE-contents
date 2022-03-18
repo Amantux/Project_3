@@ -1,0 +1,110 @@
+---
+title: Data 607 Project-Ramen Data
+author: Alex Moyse
+output: 
+  html_document:
+    df_print: paged
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+<H1>The library load in </H1>
+
+```{r}
+library(tidyverse)
+library(openxlsx)
+library(dplyr)
+library(zoo)
+library(varhandle)
+```
+
+<H1> The First look into the data set </H1>
+
+```{r}
+url.data <- "https://www.theramenrater.com/wp-content/uploads/2021/09/The-Big-List-All-reviews-up-to-3950.xlsx"
+raw <-read.xlsx(url.data, sheet ='Reviewed')
+raw
+```
+
+<H2> Looking at the data </H2>
+
+At a high level, this data set looks fairly tame. It doesn't appear to have much irregularity at first glance, but I do want to dig a big more on it. Let's first grab all the unique views in terms of star rating to see if anything needs to be transformed. 
+
+```{r}
+sort(unique(raw$Stars))
+
+```
+
+Taking a quick peek over this, I believe anything with a fraction needs to be rationalized, anything with a NR, NS, Unrated needs to be rmoved, and I need to find the source of the 42xxx values. 
+
+Let's first track down the 42xxx values.
+
+```{r}
+raw[raw$Stars == 42859,]
+```
+
+So this is a rather unique encoding issue. The reviewer in this case separates the broth and noodle ratings. Due to this split, the primary values from Excel is formatted as a date, causing a data issue when its converted into an int. In order to correct this, we will simply exclude the ones that that are present as they are not scored on the same rating system. In addition, we will adjust the encoding in the future, taking into account the varied scoring system. 
+
+```{r}
+data <- raw
+data <- data[(check.numeric(data$Stars)), ]
+data
+data$Stars <- parse_number(data$Stars)
+clean_data <- data[data$Stars <= 5,]
+clean_data
+```
+<H1> Verifying Clean Data </H1>
+
+Now we will follow a similar procedure to ensure that our data is clean, with no irregular values or anything particularly high:
+
+
+```{r}
+
+sort(unique(clean_data$Stars))
+
+```
+
+At this point we can clearly see that the data is reasonably clean, with no values outside of the standard 0-5 scale. Now we will move on to generating the analyitics. 
+
+<H1> Ramen Packet Count by Country </H1>
+
+For this first metric we will find the ramen by country. We will group by the country, creating a new column of the number grouped. At that point we will then save it. 
+
+
+```{r}
+best_Brand_Country <- clean_data %>%
+   group_by(Country) %>%
+   summarise(count = n())
+write.csv(best_Brand_Country,"Ramen_By_Country.csv", row.names = FALSE)
+```
+
+<H1> Finding the best brand </H1> 
+
+For the next stage we will try to discover which brand is objectively the best. In order to do this, we must first think of combined scoring metric to use as there will most likely be more than one brand that has at least 1 perfect 5 rating score. In order to do this we will also see how many different types of ramen has also made the same perfect 5 score, biasing the results to manufacturer who has made the most 5 point ramens. 
+
+```{r}
+best_Brand <- clean_data %>%
+   group_by(Brand) %>%
+   summarise(Stars = mean(Stars), Count = n())
+best_Brand <- best_Brand[order(-best_Brand$Stars),]
+best_Brand
+write.csv(best_Brand,"Best_Ramen_Weighted_Count.csv", row.names = FALSE)
+```
+
+At this point, we have done a similar grouping and sorting method as above, and then we will proceed to save the data. 
+
+<H1> The End </H1>
+
+I have to admit, when I saw a ramen data set I was super excited as its always all kinds of fun to try new kinds of ramen as a snack! I really enjoy making my own noodles and I completely understand some of the scoring metrics separating the ramen and the broth. 
+
+All in all I had a lot of fun fixing and exploring this data set. 
+
+Here is where it is:
+
+https://www.theramenrater.com/resources-2/the-list/
+

@@ -1,0 +1,133 @@
+---
+title: Augmenting View Count data into Superbowl Ads
+author: Alex Moyse
+output: html_document
+---
+
+<h1> Project Background </h1>
+
+  Practically, I wanted to set up the basics of a set for a predictor that links the year, the content, and the 3rd party views on youtube.
+I wanted to practice selenium scraping in R, and this seemed a perfect example as this already has links
+This project made me realize how much more limited RSelenium is than the supported languages are.
+
+This Stack Requires:
+
+1. Docker
+2. Jupyter
+3. Selenium Container
+4. RSelenium
+
+
+  
+<h1> Article Overview </h1>
+
+|   In terms of Article, FiveThirtyEight analyzed and categorized Superbowl commercials. Superbowl ads are remarkably expensive to run, and a lot of thought goes into targeting specific audiences for a commercial. I wanted to look more into the data and determine if one could predict the view count on Youtube after the fact to see if there was any long term impact.Practically, I wanted to set up the basics of a set for a predictor that links the year, the content, and the 3rd party views on YouTube.
+
+|   I wanted to practice selenium scraping in R, and this seemed a perfect example as this already has links. Through scraping, I realized that these were not all OEM hosted, as well as the view count seemed artificially low or high, so I decided to not attempt to make a predictor due to the low data count and sheer variance in the source of the view count.
+
+  
+
+<h1> Sample Data </h1>
+
+
+This is just the head of the raw data from FiveThirtyEight.  
+```{r, echo=TRUE}
+url.data <- "https://raw.githubusercontent.com/fivethirtyeight/superbowl-ads/main/superbowl-ads.csv"
+raw <- read.csv(url(url.data), header = TRUE,)
+knitr::kable(head(raw), "simple")
+```
+
+Here is where we would augment the data with the Selenium Instance
+```{r, eval=FALSE}
+for (row_number in 1:length){
+        remDr$navigate(as.character(raw$youtube[row_number]))
+        Sys.sleep(5.0) #Could not find a way to wait for complete page load, so I threw in a wait to ensure load
+        webElem <- tryCatch({remDr$findElement(using = "css", "[class='view-count style-scope ytd-video-view-count-renderer']")},
+                            error = function(e){ print("Could Not Find Video")})
+        view_number_text <- ""
+        if(!is.null(webElem)){
+            view_number_text <- tryCatch({webElem$getElementText()},
+                                error = function(e){ print("Could Not get View Count Value")})
+        } else {
+            print("I could not find target")
+        }
+        view_number_text = gsub("views", "", view_number_text)
+        view_number_text = gsub(",", "", view_number_text)
+        if (Dev_Checks){
+            print(raw[row_number,]['youtube_url'])
+            print(view_number_text)
+        }
+        raw$Views[row_number] <- view_number_text
+    }
+```
+
+
+Here is where we proceed to remove the Superbowl ads dot com url as well as the YouTube url because they are not needed for the predictor. 
+
+```{r, echo=TRUE}
+url.data <- "https://raw.githubusercontent.com/Amantux/Data607_Assignment1/main/Superbowl_adds_count.csv"
+raw <- read.csv(url(url.data), header = TRUE,) 
+c_dat = subset(raw, select = -c(superbowl_ads_dot_com_url,youtube_url))
+knitr::kable(head(c_dat), "simple")
+```
+
+<h3> Let's Graph the View Count vs Year to see if there are any interesting trends </h3>
+
+```{r, echo=FALSE}
+url.data <- "https://raw.githubusercontent.com/Amantux/Data607_Assignment1/main/Superbowl_adds_count.csv"
+raw <- read.csv(url(url.data), header = TRUE,)
+raw<-raw[!((raw$Views=="Could Not get View Count Value")|(raw$Views=="Could Not Find Video")),]
+c_dat = subset(raw, select = -c(superbowl_ads_dot_com_url,youtube_url))
+plot(x=c_dat$year, y=c_dat$Views,
+pch=18,
+cex=1,
+xlab="Year", ylab="Number of Views",
+main="Year Vs Number of Views (No Lit on Views)",
+)
+```
+
+
+<h3> See how the clusters change when you start limiting the number of views </h3>
+
+
+```{r, echo=FALSE}
+plot(x=c_dat$year, y=c_dat$Views,
+ylim=c(0, 500000),
+pch=18,
+cex=1,
+xlab="Year", ylab="Number of Views",
+main="Year Vs Number of Views (Max 500,000 Views)",
+)
+```
+
+
+```{r, echo=FALSE}
+plot(x=c_dat$year, y=c_dat$Views,
+ylim=c(0, 50000),
+pch=18,
+cex=1,
+xlab="Year", ylab="Number of Views",
+main="Year Vs Number of Views (Max 50,000 Views)",
+)
+```
+<H3> 
+
+|   As you can see there is a high amount of range in the data, with a large portion of advertisements having under 50,000 views. I believe this can be attributed to the variability in the source of the view count. 
+</H3>
+<H2> Findings and Recommendations </H2>
+|   Practically I wanted to develop the data backing a predictor, and I think I could probably do a better job of augmenting
+ This mainly relies on scraping YouTube data, where not all cases actually even have a presence. It may be better
+ to look at the viewership numbers from the Superbowl itself. 
+ In terms of the origin data set, I would love to see a breakdown on time or % of ad as I think that would be interesting!
+  
+|   In addition, this data set pull straight from FiveThirtyEight's Data set, so as time passes, if Fresh_Data and Fresh_Computes are both set to TRUE, with a proper container set up, they will update this whole project with new data. 
+
+<H2> Reference </H2>
+RSelenium-https://cran.r-project.org/web/packages/RSelenium/index.html
+Source Data Article-https://projects.fivethirtyeight.com/super-bowl-ads/
+Source Data Set-https://raw.githubusercontent.com/fivethirtyeight/superbowl-ads/main/superbowl-ads.csv
+rmarkdown-https://rmarkdown.rstudio.com
+  
+  
+  
+  
