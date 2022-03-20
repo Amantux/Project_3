@@ -1,0 +1,115 @@
+---
+title: Data 607 Project-2
+author: Alex Moyse
+output: 
+  html_document:
+    df_print: paged
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+<H1>The library load in </H1>
+
+```{r}
+library(tidyverse)
+library(openxlsx)
+library(dplyr)
+library(zoo)
+library(varhandle)
+library(rvest)
+library(RSelenium)
+library(xml2)
+```
+
+
+```{r}
+library(Rcrawler)
+library(fedmatch)
+library(stringdist)
+library(spacyr)
+
+```
+
+
+Let's first start with making a function that returns a list of programming languages. In terms of extension, it would make a lot of sense to migrate to a NER model. 
+
+
+```{r}
+url.data <- "https://raw.githubusercontent.com/jamhall/programming-languages-csv/master/languages.csv"
+raw <- read.csv(url(url.data), header = TRUE,)
+programming_list <- raw$name
+```
+
+
+```{r}
+process_programming_list <- function(text_block, list_allowed) {
+   list_allowed[text_block %in% list_allowed] 
+}
+```
+
+
+
+
+```{r}
+afind("C++ Reddit test llamas C", c("C++"), method=c('hamming'))
+```
+```{r}
+texts <- "Candidates should have the following background, skills and characteristics: Â Experience developing analytic applications using Java/Scala and related technologies in the Spark/Hadoop ecosystem Seasoned experience with Big Data programming frameworks, such as Apache Spark and Kafka Expert-level proficiency in Scala and Java is must Experience in machine learning techniques, large scale optimization and building/supporting production ML systems is a big plus Bachelorâ€™s degree in a quantitative discipline required (masters or PhD preferred) Â  Â "
+grabl(texts,"Apache", maxDist=1)
+extract(texts, "LLama", maxDist = 1)
+```
+
+```{r}
+result <- spacy_parse(texts, tag = TRUE, pos = TRUE)
+proper_nouns <- subset(result, pos == 'PROPN')
+```
+
+```{r}
+amatch(texts,c("Apache"),maxDist=2)
+```
+
+
+```{r}
+afind("Candidates should have the following background, skills and characteristics: Â Experience developing analytic applications using Java/Scala and related technologies in the Spark/Hadoop ecosystem Seasoned experience with Big Data programming frameworks, such as Apache Spark and Kafka Expert-level proficiency in Scala and Java is must Experience in machine learning techniques, large scale optimization and building/supporting production ML systems is a big plus Bachelorâ€™s degree in a quantitative discipline required (masters or PhD preferred) Â  Â ", c("Java", "Python","Spark"), method=c('cosine'),)
+```
+
+```{r}
+Fresh_Data <- FALSE #This will refresh data (Not using caching from my git)
+Fresh_Computes <- TRUE  # Uses docker to pull and augment data, requires the Selenium Instance
+Dev_Checks <- FALSE #Various Extra Print statements that make debugging easier
+```
+
+
+```{r}
+Rcrawler(Website = "https://www.indeed.com/jobs?q=data%20scientist&l=Cambridge%20MA", no_cores = 4, no_conn = 4, ExtractCSSPat = c(".jobTitle",".companyLocation", ".companyName"), PatternsNames = c("Title","Location", "Company Name"), ManyPerPattern = TRUE, MaxDepth=1)
+```
+```{r}
+ListProjects()
+
+INDEX
+```
+
+
+```{r}
+
+Data<-ContentScraper(Url = "https://www.indeed.com/jobs?q=data%20scientist&l=Cambridge%2C%20MA&vjk=f829f300198f1fc8", CssPatterns = c(".jobTitle",".companyLocation"))
+Data
+#Data<-ContentScraper(Url = "https://www.indeed.com/jobs?q=data%20scientist&l=Cambridge%252C%20MA", CSSPaterns = c(".jobTitle",".companyLocation", ".companyName"))
+
+```
+```{r}
+Rcrawler(Website = "https://www.indeed.com/jobs?q=data%20scientist&l=Cambridge%2C%20MA", no_cores = 4 , no_conn = 4,
+         crawlUrlfilter = c("/rc/","start="), dataUrlfilter = "/rc/",
+         ExtractCSSPat = c(".jobTitle",".companyLocation", ".companyName"), PatternsNames = c("Title","Location", "Company Name"),
+         crawlZoneCSSPat = "td#resultsCol",
+         ManyPerPattern = TRUE, MaxDepth=1
+         )
+```
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

@@ -228,27 +228,49 @@ library(bcputility)</code></pre>
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuI0RCIFNldCB1cCBcbmNvbiA8LSBkYkNvbm5lY3QoUk1hcmlhREI6Ok1hcmlhREIoKSwgdXNlcm5hbWU9XCJyb290XCIsIHBhc3N3b3JkPVwiVGVzdENhc2UxMjMuXCIsIGRibmFtZSA9XCJyZXZpZXdfZGJcIiwgaG9zdD1cImxvY2FsaG9zdFwiKVxuZGJMaXN0VGFibGVzKGNvbilcbmBgYCJ9 -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuI0RCIFNldCB1cCBcbmNvbiA8LSBkYkNvbm5lY3QoUk1hcmlhREI6Ok1hcmlhREIoKSwgdXNlcm5hbWU9XCJyb290XCIsIHBhc3N3b3JkPVwiVGVzdENhc2UxMjMuXCIsIGRibmFtZSA9XCJiYXNpY1wiLCBob3N0PVwibG9jYWxob3N0XCIpXG5kYkxpc3RUYWJsZXMoY29uKVxuYGBgIn0= -->
 <pre class="r"><code>#DB Set up 
-con &lt;- dbConnect(RMariaDB::MariaDB(), username=&quot;root&quot;, password=&quot;TestCase123.&quot;, dbname =&quot;review_db&quot;, host=&quot;localhost&quot;)
+con &lt;- dbConnect(RMariaDB::MariaDB(), username=&quot;root&quot;, password=&quot;TestCase123.&quot;, dbname =&quot;basic&quot;, host=&quot;localhost&quot;)
 dbListTables(con)</code></pre>
 <!-- rnb-source-end -->
+<!-- rnb-output-begin eyJkYXRhIjoiY2hhcmFjdGVyKDApXG4ifQ== -->
+<pre><code>character(0)</code></pre>
+<!-- rnb-output-end -->
 <!-- rnb-chunk-end -->
 <!-- rnb-text-begin -->
 <!-- rnb-text-end -->
 <!-- rnb-chunk-begin -->
-<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxudXBsb2FkX2RhdGEgPC0gZnVuY3Rpb24oZmlsZV9uYW1lKSB7XG4gIGlmIChkYkV4aXN0c1RhYmxlKGNvbiwgZmlsZV9uYW1lKSlcbiAgICBkYlJlbW92ZVRhYmxlKGNvbiwgZmlsZV9uYW1lKVxuICBjdXJyZW50X2RhdGEgPC0gcmVhZC5jc3YoZmlsZSA9IHBhc3RlKCdNb3ZpZV9kYi8nLGZpbGVfbmFtZSwnLmNzdicsIHNlcCA9IFwiXCIpLCBoZWFkZXI9VFJVRSlcbiAgZGJXcml0ZVRhYmxlKGNvbiwgbmFtZSA9IGZpbGVfbmFtZSwgdmFsdWUgPSBjdXJyZW50X2RhdGEsIHJvdy5uYW1lcyA9IEZBTFNFKVxuICBkYkxpc3RUYWJsZXMoY29uKVxufVxuYGBgIn0= -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxudXBsb2FkX2RhdGEgPC0gZnVuY3Rpb24oZmlsZV9uYW1lKSB7XG4gIGlmIChkYkV4aXN0c1RhYmxlKGNvbiwgZmlsZV9uYW1lKSlcbiAgICBkYlJlbW92ZVRhYmxlKGNvbiwgZmlsZV9uYW1lKVxuICBjdXJyZW50X2RhdGEgPC0gcmVhZC5jc3YoZmlsZSA9IHBhc3RlKCdEYXRhX1NldHMvJyxmaWxlX25hbWUsJy5jc3YnLCBzZXAgPSBcIlwiKSwgaGVhZGVyPVRSVUUpXG4gIGRiV3JpdGVUYWJsZShjb24sIG5hbWUgPSBmaWxlX25hbWUsIHZhbHVlID0gY3VycmVudF9kYXRhLCByb3cubmFtZXMgPSBGQUxTRSlcbiAgZGJMaXN0VGFibGVzKGNvbilcbn1cbmBgYCJ9 -->
 <pre class="r"><code>upload_data &lt;- function(file_name) {
   if (dbExistsTable(con, file_name))
     dbRemoveTable(con, file_name)
-  current_data &lt;- read.csv(file = paste(&#39;Movie_db/&#39;,file_name,&#39;.csv&#39;, sep = &quot;&quot;), header=TRUE)
+  current_data &lt;- read.csv(file = paste(&#39;Data_Sets/&#39;,file_name,&#39;.csv&#39;, sep = &quot;&quot;), header=TRUE)
   dbWriteTable(con, name = file_name, value = current_data, row.names = FALSE)
   dbListTables(con)
 }</code></pre>
 <!-- rnb-source-end -->
 <!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxuY3VycmVudF9kYXRhIDwtIHJlYWQuY3N2KGZpbGUgPSBwYXN0ZSgnRGF0YV9TZXRzLycsJ0NsZWFuZWRfRFNfSm9icycsJy5jc3YnLCBzZXAgPSBcIlwiKSwgaGVhZGVyPVRSVUUpXG5gYGAifQ== -->
+<pre class="r"><code>current_data &lt;- read.csv(file = paste(&#39;Data_Sets/&#39;,&#39;Cleaned_DS_Jobs&#39;,&#39;.csv&#39;, sep = &quot;&quot;), header=TRUE)</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
+<!-- rnb-chunk-begin -->
+<!-- rnb-source-begin eyJkYXRhIjoiYGBgclxudXBsb2FkX2RhdGEoXCJHbGFzc2Rvb3IgVVNBIERhdGFzZXRcIilcbmBgYCJ9 -->
+<pre class="r"><code>upload_data(&quot;Glassdoor USA Dataset&quot;)</code></pre>
+<!-- rnb-source-end -->
+<!-- rnb-output-begin eyJkYXRhIjoiWzFdIFwiZGF0YV9zY2llbmNlX2pvYl9wb3N0aW5nXCIgXCJDbGVhbmVkX0RTX0pvYnNcIiAgICAgICAgICBcIkdsYXNzZG9vciBVU0EgRGF0YXNldFwiICAgIFwibGlzdGluZ3MyMDE5XzIwMjJcIiAgICAgICBcbiJ9 -->
+<pre><code>[1] &quot;data_science_job_posting&quot; &quot;Cleaned_DS_Jobs&quot;          &quot;Glassdoor USA Dataset&quot;    &quot;listings2019_2022&quot;       </code></pre>
+<!-- rnb-output-end -->
+<!-- rnb-chunk-end -->
+<!-- rnb-text-begin -->
+<!-- rnb-text-end -->
 
-<div id="rmd-source-code">LS0tDQp0aXRsZTogIlIgTm90ZWJvb2siDQpvdXRwdXQ6IGh0bWxfbm90ZWJvb2sNCi0tLQ0KDQpUaGlzIGlzIGFuIFtSIE1hcmtkb3duXShodHRwOi8vcm1hcmtkb3duLnJzdHVkaW8uY29tKSBOb3RlYm9vay4gV2hlbiB5b3UgZXhlY3V0ZSBjb2RlIHdpdGhpbiB0aGUgbm90ZWJvb2ssIHRoZSByZXN1bHRzIGFwcGVhciBiZW5lYXRoIHRoZSBjb2RlLiANCg0KVHJ5IGV4ZWN1dGluZyB0aGlzIGNodW5rIGJ5IGNsaWNraW5nIHRoZSAqUnVuKiBidXR0b24gd2l0aGluIHRoZSBjaHVuayBvciBieSBwbGFjaW5nIHlvdXIgY3Vyc29yIGluc2lkZSBpdCBhbmQgcHJlc3NpbmcgKkN0cmwrU2hpZnQrRW50ZXIqLiANCg0KYGBge3J9DQpsaWJyYXJ5KFJNYXJpYURCKQ0KbGlicmFyeShEQkkpDQpsaWJyYXJ5KGJjcHV0aWxpdHkpDQpgYGANCg0KYGBge3J9DQojREIgU2V0IHVwIA0KY29uIDwtIGRiQ29ubmVjdChSTWFyaWFEQjo6TWFyaWFEQigpLCB1c2VybmFtZT0icm9vdCIsIHBhc3N3b3JkPSJUZXN0Q2FzZTEyMy4iLCBkYm5hbWUgPSJyZXZpZXdfZGIiLCBob3N0PSJsb2NhbGhvc3QiKQ0KZGJMaXN0VGFibGVzKGNvbikNCmBgYA0KDQpgYGB7cn0NCnVwbG9hZF9kYXRhIDwtIGZ1bmN0aW9uKGZpbGVfbmFtZSkgew0KICBpZiAoZGJFeGlzdHNUYWJsZShjb24sIGZpbGVfbmFtZSkpDQogICAgZGJSZW1vdmVUYWJsZShjb24sIGZpbGVfbmFtZSkNCiAgY3VycmVudF9kYXRhIDwtIHJlYWQuY3N2KGZpbGUgPSBwYXN0ZSgnTW92aWVfZGIvJyxmaWxlX25hbWUsJy5jc3YnLCBzZXAgPSAiIiksIGhlYWRlcj1UUlVFKQ0KICBkYldyaXRlVGFibGUoY29uLCBuYW1lID0gZmlsZV9uYW1lLCB2YWx1ZSA9IGN1cnJlbnRfZGF0YSwgcm93Lm5hbWVzID0gRkFMU0UpDQogIGRiTGlzdFRhYmxlcyhjb24pDQp9DQpgYGA=</div>
+<div id="rmd-source-code">LS0tDQp0aXRsZTogIlIgTm90ZWJvb2siDQpvdXRwdXQ6IGh0bWxfbm90ZWJvb2sNCi0tLQ0KDQpUaGlzIGlzIGFuIFtSIE1hcmtkb3duXShodHRwOi8vcm1hcmtkb3duLnJzdHVkaW8uY29tKSBOb3RlYm9vay4gV2hlbiB5b3UgZXhlY3V0ZSBjb2RlIHdpdGhpbiB0aGUgbm90ZWJvb2ssIHRoZSByZXN1bHRzIGFwcGVhciBiZW5lYXRoIHRoZSBjb2RlLiANCg0KVHJ5IGV4ZWN1dGluZyB0aGlzIGNodW5rIGJ5IGNsaWNraW5nIHRoZSAqUnVuKiBidXR0b24gd2l0aGluIHRoZSBjaHVuayBvciBieSBwbGFjaW5nIHlvdXIgY3Vyc29yIGluc2lkZSBpdCBhbmQgcHJlc3NpbmcgKkN0cmwrU2hpZnQrRW50ZXIqLiANCg0KYGBge3J9DQpsaWJyYXJ5KFJNYXJpYURCKQ0KbGlicmFyeShEQkkpDQpsaWJyYXJ5KGJjcHV0aWxpdHkpDQpgYGANCg0KYGBge3J9DQojREIgU2V0IHVwIA0KY29uIDwtIGRiQ29ubmVjdChSTWFyaWFEQjo6TWFyaWFEQigpLCB1c2VybmFtZT0icm9vdCIsIHBhc3N3b3JkPSJUZXN0Q2FzZTEyMy4iLCBkYm5hbWUgPSJiYXNpYyIsIGhvc3Q9ImxvY2FsaG9zdCIpDQpkYkxpc3RUYWJsZXMoY29uKQ0KYGBgDQoNCmBgYHtyfQ0KdXBsb2FkX2RhdGEgPC0gZnVuY3Rpb24oZmlsZV9uYW1lKSB7DQogIGlmIChkYkV4aXN0c1RhYmxlKGNvbiwgZmlsZV9uYW1lKSkNCiAgICBkYlJlbW92ZVRhYmxlKGNvbiwgZmlsZV9uYW1lKQ0KICBjdXJyZW50X2RhdGEgPC0gcmVhZC5jc3YoZmlsZSA9IHBhc3RlKCdEYXRhX1NldHMvJyxmaWxlX25hbWUsJy5jc3YnLCBzZXAgPSAiIiksIGhlYWRlcj1UUlVFKQ0KICBkYldyaXRlVGFibGUoY29uLCBuYW1lID0gZmlsZV9uYW1lLCB2YWx1ZSA9IGN1cnJlbnRfZGF0YSwgcm93Lm5hbWVzID0gRkFMU0UpDQogIGRiTGlzdFRhYmxlcyhjb24pDQp9DQpgYGANCg0KYGBge3J9DQpjdXJyZW50X2RhdGEgPC0gcmVhZC5jc3YoZmlsZSA9IHBhc3RlKCdEYXRhX1NldHMvJywnQ2xlYW5lZF9EU19Kb2JzJywnLmNzdicsIHNlcCA9ICIiKSwgaGVhZGVyPVRSVUUpDQpgYGANCg0KYGBge3J9DQp1cGxvYWRfZGF0YSgiR2xhc3Nkb29yIFVTQSBEYXRhc2V0IikNCg0KYGBgDQoNCg==</div>
 
 
 

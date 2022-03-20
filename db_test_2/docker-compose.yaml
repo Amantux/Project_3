@@ -1,0 +1,14 @@
+services:
+  sql-server-db:
+    container_name: sql-server-db
+    image: microsoft/mssql-server-linux:2019-latest
+    ports:
+      - "1433:1433"
+    environment:
+      SA_PASSWORD: "example"
+      ACCEPT_EULA: "Y"
+  adminer:
+    image: adminer
+    restart: always
+    ports:
+      - 8081:8080

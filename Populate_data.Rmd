@@ -15,7 +15,7 @@ library(bcputility)
 
 ```{r}
 #DB Set up 
-con <- dbConnect(RMariaDB::MariaDB(), username="root", password="TestCase123.", dbname ="review_db", host="localhost")
+con <- dbConnect(RMariaDB::MariaDB(), username="root", password="TestCase123.", dbname ="basic", host="localhost")
 dbListTables(con)
 ```
 
@@ -23,8 +23,18 @@ dbListTables(con)
 upload_data <- function(file_name) {
   if (dbExistsTable(con, file_name))
     dbRemoveTable(con, file_name)
-  current_data <- read.csv(file = paste('Movie_db/',file_name,'.csv', sep = ""), header=TRUE)
+  current_data <- read.csv(file = paste('Data_Sets/',file_name,'.csv', sep = ""), header=TRUE)
   dbWriteTable(con, name = file_name, value = current_data, row.names = FALSE)
   dbListTables(con)
 }
 ```
+
+```{r}
+current_data <- read.csv(file = paste('Data_Sets/','Cleaned_DS_Jobs','.csv', sep = ""), header=TRUE)
+```
+
+```{r}
+upload_data("Glassdoor USA Dataset")
+
+```
+

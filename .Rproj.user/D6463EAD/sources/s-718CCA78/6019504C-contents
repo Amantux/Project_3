@@ -1,0 +1,40 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+library(RMariaDB)
+library(DBI)
+library(bcputility)
+```
+
+```{r}
+#DB Set up 
+con <- dbConnect(RMariaDB::MariaDB(), username="root", password="TestCase123.", dbname ="basic", host="localhost")
+dbListTables(con)
+```
+
+```{r}
+upload_data <- function(file_name) {
+  if (dbExistsTable(con, file_name))
+    dbRemoveTable(con, file_name)
+  current_data <- read.csv(file = paste('Data_Sets/',file_name,'.csv', sep = ""), header=TRUE)
+  dbWriteTable(con, name = file_name, value = current_data, row.names = FALSE)
+  dbListTables(con)
+}
+```
+
+```{r}
+current_data <- read.csv(file = paste('Data_Sets/','Cleaned_DS_Jobs','.csv', sep = ""), header=TRUE)
+```
+
+```{r}
+upload_data("Glassdoor USA Dataset")
+
+```
+
