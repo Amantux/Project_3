@@ -1,7 +1,0 @@
-Use statistical analysis, machine learning, pattern recognition, and data visualization along with domain knowledge and subject-specific models to solve science, engineering, and commercial problems
-Solve challenging data science problems by developing novel and/or adapting existing computational methods
-Debugging and performance tweaking in Python
-Taking ownership over parts of an application and collaborating on global issues Understand and enjoy working in a micro services based architecture
-Hands-on experience in PostgreSQL, SQL Server, Oracle, RESTFul,GIT, API, JSON, Statistical Analysis, Machine Learning, Pattern Recognition,
-Knowledge in Data Visualization, Numpy, Pandas, Scipy, Matplotlib, Soup, Scrapy, Teradata,NoSQL, Redis, Elastic Search, Mongo, Django, Flask, Pyramid, SVN, Mercurial,Linear Algebra and Optimization
-Knowledge in Hypothesis Testing, Monte Carlo Simulation, Clustering
