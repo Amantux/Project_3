@@ -42,14 +42,24 @@ writeCorpus(x, path = "./corpus")
 ```
 
 ```{r}
+x <- Corpus(DirSource("./corpus"), readerControl = list(language="lat"))
+```
+Start Here if you are pulling from git
+
+```{r}
+x <- loadcorpus(files = "all", corpus.dir = "./corpus", encoding = "UTF-8")
+```
+
+```{r}
 inspect(x[1:2])
 ```
 ```{r}
+x <- tm_map(x, content_transformer(tolower))
 x <- tm_map(x, removeWords, stopwords("english"))
 ```
 
 ```{r}
-dtm <- DocumentTermMatrix(x[1:1000])
+dtm <- DocumentTermMatrix(x)
 ```
 
 ```{r}
@@ -58,5 +68,9 @@ inspect(dtm)
 
 ```{r}
 findAssocs(dtm, "data", 0.40)
+```
+
+```{r}
+inspect(DocumentTermMatrix(x, list(dictionary = c("data", "python"))))
 ```
 

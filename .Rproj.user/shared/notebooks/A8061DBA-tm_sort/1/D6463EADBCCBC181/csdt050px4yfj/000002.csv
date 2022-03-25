@@ -1,0 +1,4 @@
+"0","x <- tm_map(x, content_transformer(tolower))"
+"2","Error in tm_map(x, content_transformer(tolower)) : 
+  could not find function ""tm_map""
+"
