@@ -1,0 +1,148 @@
+---
+title: "DATA607 Project 3"
+author: "MEAO - A. Moyse, A. Elsaeyed, C. Alvarez, P. O'Flaherty"
+date: '2022-03-22'
+output:
+  html_document:
+    highlight: pygments
+    theme: spacelab
+    toc: true
+    toc_float: true
+  pdf_document: default
+editor_options: 
+  chunk_output_type: console
+---
+
+<!--
+Additional pieces:
+Visio data output file?
+
+Parameterize different portions of it and throw it through cognitive services on Azure?
+
+Text files, pull whole page down to the character, per section and flatten
+
+different tables: relationship or non relationship
+
+mongo databricks PKID
+
+Keyword selection algorithm
+
+-->
+
+<br>
+
+* * *
+
+# Data Driven Analysis of Most Important Data Science Skills
+
+## Getting Started
+
+### Instructions
+
+### Proposed Implementation
+
+Our goal is to use multiple data sets from Kaggle to:
+
+ + create a rough association between job titles and pay bands
+ + identify skill sets in job listings using a codex
+ + assign a value to individual skill sets using the above
+
+A flex for the project would be to create a shiny app with embedded salary predictors based on:
+ + location
+ + 
+
+### Libraries and tech
+
+**Here we load our libraries and explain the different tech used.**
+
+***LOAD LIBRARY CHUNK***
+
+Fuzzy wuzzy
+
+* * *
+
+## Data
+
+We transform the data from a one to very many creating a really wide table out of the data.
+
+The fifth table is the first four views unioned together.
+
+Subsecting and mapping the database
+
+Create views that are queries that are pre-cached and preprocessed
+
+Data Collection:
+ + Job title
+ + skill set
+ + pay
+ + location
+
+
+***NOTE: Transition to next section***
+Because there's a lot of job listings without pay we need to create a pay predictor based on Job Title.
+
+***NOTE: anything interesting to say about location being a factor in predicting pay but why it's not necessary to include here?)***
+
+
+* * *
+
+## Pay bands
+
+
+
+***ENTER AHMED PIECE***
+
+* * *
+
+## Skills
+
+Originally we wanted to pursue two codexes, one for soft skills that are more likely to be multiple word patterns, and a second for hard skills which are more likely to be single word patterns.
+
+Ultimately by using the fuzzy wuzzy library we didn't need to use different methods for single versus multiple word patterns and so we collapsed the codex into one.
+
+We started with a premade list of 100 different skills and our final was created by reading the job listings.
+
+***ENTER CARLOS PIECE***
+
+* * *
+
+## Analysis
+
+
+
+* * *
+
+## Predictor Algorithm
+
+***NOTE: This may replace the Analysis section if we go the classifier route.***
+
+How does the classifier work?
+
+Creating a prediction algorithm?
+
+Predictor-based algorithm, I have these parameters and this is what we're extracting out and key it in.
+
+* * *
+
+## Concluding Remarks
+
+### Decisions made
+
+**Data**
+Initially we wanted to scrape job listings from job boards like Indeed and LinkedIn; However we ran into issues with being able to collect data at scale.  The kaggle datasets allowed us to pursue our lines of analysis as a proof of concept.  The natural progression of the project would be to duplicate it using current, scraped job listings.
+
+**Predictors**
+Because we have so much data from the job listings, an interesting project would be to create salary predictors based on location, job title, and required skills.
+
+**neo4j vs. MongoDB**
+
+### Resources
+
+ + Here is a tutorial for web scraping in  [RSelenium](http://joshuamccrain.com/tutorials/web_scraping_R_selenium.html)
+ + [Trello](https://trello.com) is a way to collective track and prioritize elements of a project
+ + [neo4j](https://neo4j.com/developer/get-started/) is database system which organizes data based on association
+ + [docker](https://docs.docker.com/compose/gettingstarted/) is a way to create instances of an environment to run your code.  It's a best in practice because any docking container you create would be identical across computers.
+ 
+* * *
+
+
