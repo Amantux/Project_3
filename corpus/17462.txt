@@ -1,0 +1,24 @@
+The Job Details are as follows:
+
+ROLE OVERVIEW
+
+The Software Engineer will be a key member of a small, focused product team working to create new platforms that BAM’s data analysts, data scientists, quantitative investors, and researchers can rely on for sourcing data sets. The ideal candidate is obsessed with creating high quality software, loves working with data in all its myriad forms, enjoys thinking and debating about the best solutions to complex problems, and has the ability to push forward and get things done. If you’re the kind of person who gets excited by the prospect of wrapping your mind around a different problem each day, we’d love to chat with you.
+
+Among other things, the Software Engineer will:
+Devise and develop data solutions leveraging various cloud-based data, database, and distributed computing technologies.
+Gain a deep understanding of data requirements and utilization for quantitative investment, in order to help drive prioritization and design decisions.
+Help in partnering with end users in order to understand and flesh out requirements as well as provide occasional first level support.
+Apply creativity and lateral thinking in order to craft high performance solutions to loading and serving large amounts of investment data.
+Work and collaborate as part of a globally distributed engineering team.
+Create software that is well commented, well understood, well tested, and well documented – quality above all!
+QUALIFICATIONS & REQUIREMENTS:
+Degree in Computer Science or closely related field
+A passion for data and experience in applying that passion to high quality data products
+Strong knowledge of software engineering best practices, object oriented concepts, and the ins and outs of data-focused development
+Data-oriented experience with languages such as Python, Rust, Scala, Java, C#, etc. (We work primarily in Python, but feel that the right candidate can come from any language background.)
+Intermediate or better knowledge of SQL and experience writing production queries against one or more SQL DBMS
+Experience with basic DevOps techniques, including CI/CD and infrastructure-as-code
+Experience working in at least one cloud environment. Familiarity with AWS a big plus
+5+ years of professional software development experience. Financial industry exposure a plus but not at all required
+Self-starter who is not afraid to ask questions and who can thrive in a fast-paced and agile environment where a one-line email can morph into a weeks-long project
+Humble, team-player who wants to win

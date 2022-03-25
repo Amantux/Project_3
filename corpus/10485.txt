@@ -1,0 +1,85 @@
+**This position can be based anywhere in the US; preferred location is Washington DC Metro Area**
+
+The BAO Analytics & Informatics Team supports government and nonprofit clients solving the world's most intractable problems, such as the HIV/AIDS epidemic, human trafficking, the management of non-communicable diseases, malaria prevention, and childhood mortality. As data scientists, we bring to bear advanced statistical and analytics practices to develop solutions that are absurdly useful. Our past and current clients work in more than 60 countries and include the U.S. State Department, USAID, CDC, Ministries of Health across Sub-Saharan Africa, the World Health Organization, International Rescue Committee, Pathfinder International, the President's Malaria Initiative, and Cordaid.
+
+This Data Scientist will primarily support our team's work at PEPFAR, but will also assume leadership responsibilities as part of the BAO Analytics & Informatics Team, specifically with respect to developing and providing new and innovative solutions across a broad array of BAO clients.
+
+Qualifications:
+
+High comfortability coding in R, especially using Tidyverse packages and any packages helpful for interfacing with Excel documents (readxl, openxlsx, tidyxl, etc.).
+
+Experience in developing and deploying custom R packages including unit tests.
+
+Experience in managing code in a git workflow.
+
+Ability to work effectively in a 100% virtual work environment.
+
+Willingness to travel to Washington, D.C. 2-3 times a year for meetings.
+
+Preferable: Experience performing in a developer role as part of a team operating under Scrum principles.
+
+Knowledge of DHIS2 desirable, but not required.
+
+Knowledge of PEPFAR MER indicators desirable, but not required.
+
+Educational background related to data science preferable.
+
+Please include link to Github/Jira/Bitbucket/etc. profile if possible, or other examples of work products. We get especially giddy when you send us links to any R packages you've helped develop.
+
+Responsibilities:
+
+As part of the PEPFAR team, this Data Scientist will be expected to:
+
+Work as part of a Scrum team, fully participating in Scrum ceremonies and development processes.
+
+Assist in preparing code and features for deployment as part of production R package available as part of a public GitHub repository.
+
+Assist in quality assurance processes, e.g., code/configuration review and testing.
+
+Write and maintain software tests across R packages.
+
+Provide customer service and package maintenance associated with deployed code.
+
+Assist in developing web-based, R Shiny interfaces to allow users to execute code in a self-service environment.
+
+Follow prescribed data security measures and carry out all work with a security first mindset.
+
+As a member of the broader BAO Analytics & Informatics Team, this Data Scientist will be expected to:
+
+Assist in developing and implementing new and innovative data science solutions to serve the broader group of BAO clients.
+
+Represent BAO at conferences, trainings, and other events, with occasional responsibilities to present work to large groups.
+
+Meet with potential and existing BAO clients to assess their analytics needs and consult about potential data science solutions
+
+Why BAO Systems?
+
+Make a positive impact on global public health while working in a fun, collaborative and flexible environment. We're a nimble, close-knit group that values our teams opinion and contribution, allowing for everyone to make an impact to the work and company culture.
+
+BAO Systems is the largest US-based DHIS 2 consulting and hosting firm in North America. We're changing how Governments, NGOs and international agencies, collect, analyze and report their data and improve health outcomes in the developing world.
+
+We're truly a multinational company. Our HQ is in Washington, D.C., with staff in the UK, Norway, Switzerland and Nigeria. Located at the Georgetown Waterfront along the Potomac River with easy access to lunch spots, shops, trails and parks.
+
+Perks
+
+Fun, relaxed work environment
+
+401k with 4% match
+
+Excellent health, vision, and dental coverage for team members and their families
+
+Short and Long-Term disability insurance (fully covered)
+
+Life Insurance (fully covered)
+
+Generous, flexible PTO and family leave
+
+Flexible work schedules—work how you can be most productive
+
+Company events and happy hours (DC HQ)
+
+Snacks and drinks in the office (DC HQ)
+
+Use of on-site gym (a good gym, not a terrible hotel gym) (DC HQ)
+
+dvCm9y19vK

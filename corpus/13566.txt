@@ -1,0 +1,38 @@
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challenges—and we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The Research & Development centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every day—working for a safer, healthier, and more secure nation and world.
+
+MITRE’s Infrastructure and Networking Technical Center is looking for a senior technical leader with extensive data science knowledge who is excited about applying their background to communications networks to enhance automation and intelligent control. The Lead Data Scientist for Network Analysis and Control will work at the intersection of data science and network automation. With the growth of programmable networking substrates at both the control and data planes, networks are primed to move beyond predetermined configurations to operations modified by learning about the mission, environment, and current network state. This unique position will offer the opportunity to drive the direction of research in this area and impact the nation’s most important and critical infrastructure. In this role, you will be working with enterprise networks supporting our national defense and other government agencies, as well as wireless networks, satellite communications and operational technology infrastructure, all supporting critical missions.
+
+The Lead Data Scientist must have an entrepreneurial spirit, a willingness to take risks, and a desire to advance the state of the art in networking. This position will require direct application of data science principals, experience with complex communication networks, and an understanding of network-focused data analytics and automation. If this sounds like you, and you have five plus years of professional experience in this area, then put it to work in this senior technical leadership position by joining us in MITRE’s Infrastructure and Networking Technical Center.
+
+Key Functions:
+Develop data analytics approaches to predict network behaviors or detect behavioral anomalies in the environment
+Design data analytic systems to support network automation and network security initiatives and projects for multiple government agencies and sponsors
+Offer technical leadership in the area of data science to government sponsors and internally within the department
+Work in cross-discipline teams serving as the subject matter expert in the area of data analytics and data science
+Lead innovation and research activities including internal R&D efforts
+Serve as a subject matter expert and trusted advisor to government sponsors
+Minimum Qualifications:
+BS and 8 years related experience
+Applicants selected for this position will be subject to a government security investigation and must meet eligibility requirements for access to classified information or applicants who are eligible for security clearances
+Possess an active Secret level security clearance
+Required Qualifications:
+BS in Computer Science, Mathematics, or a similar field with at least five years of experience in relevant positions
+Hands-on software development skills (Python, Scala, Java)
+Experience working with Big Data tools (e.g. Spark, Hadoop, Elasticsearch, Kafka)
+Prior experience working with databases (e.g., PostgreSQL, Oracle, MySQL, MongoDB, Neo4j)
+Experience conducting original research using data science techniques, including machine learning, statistical modeling, and data visualization
+Working knowledge of data science workflow from data wrangling and cleaning to exploratory analysis all the way through to reporting and visualization
+Working knowledge of various machine learning paradigms (deep learning, reinforcement learning, neural networks, etc.) with an understanding of mathematical underpinnings of various models
+Experience performing data analytics in cloud environments, particularly AWS
+Understanding of traditional IP networking (including architecture, protocol design and analysis)
+Demonstrated ability to take risk and achieve significant work program or organizational outcomes
+Excellent written and verbal communications skills
+Ability to obtain and maintain a Top-Secret and above level security clearance
+Preferred Qualifications:
+Advanced degree in Computer Science, Mathematics, or related field, with a focus on machine learning
+Experience developing prototype data science applications and deploying at-scale against Big Data
+Familiarity with programmable control plane (e.g. SDN) and data plane technologies (e.g. P4)
+Exposure to operational technology (OT) networks and relevant protocols commonly leveraged in these environments (e.g. DNP3, MODBUS)
+Understanding of the applicability of machine learning models to network and distributed systems
+Proven track record of proposing and leading R&D initiatives and successfully transitioning to operational environment
+MITRE’s workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITRE—and make a difference with us. For more information please visit https://www.mitre.org/careers/working-at-mitre. U.S Citizenship is required for most positions.

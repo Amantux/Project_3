@@ -1,0 +1,111 @@
+Knowledge of data warehouse implementation process, from business requirements
+through logical modeling, physical database design, data sourcing and data
+transformation, data loading, SQL, end-user tools, database and SQL performance
+tuning
+
+Minimum_Education_And_Experience
+
+Bachelor's Degree or Associate's Degree and 2 years of related experience or
+high school diploma and 4 years of related experience.
+
+Preferred_Education_And_Experience
+Data Warehouse
+3+ years of Data Warehouse experience, specifically OBIA (version
+.2 or higher) and/or PeopleSoft EPM
+Understanding of dimensional modeling to front-end report/dashboard
+design
+ETL
+3+ ETL/E-LT experience
+3+ years DataStage developer experience - Version 8.x required
+3+ years DataStage job level performance tuning experience
+1+ years DataStage administration experience
+1+ years DataStage environment performance tuning experience
+Experience with ODI Version .0 or higher within the context of
+OBIA
+OBIEE
+3+ years OBIEE 11g/12c
+2+ years experience setting-up and configuring OBIEE security
+repository and RPD file security
+Understanding of the OBIEE environment
+3+ years Oracle 12c/19c databases
+Ability to analyze query plans, indexes, and locking behavior
+Build detailed source to target maps
+Understanding of dimensional and normalized modeling concepts
+Dedication, teamwork and commitment to quality are essential
+A strong customer-oriented focus and desire to achieve results
+Ability to work effectively with business and systems management and
+staff
+Demonstrated ability to analyze current processes and recommend process
+improvements
+Excellent organization, teamwork, problem-solving, and communication
+(verbal and written) skills
+Ability to work well with people at all levels of the organization and a
+handle of fast paced, dynamic environment where competing interests and
+working multiple priorities is the norm
+Strong Unix shell scripting experience required
+Good working knowledge of job scheduling and monitoring tools
+Past experience within Higher Education and/or supporting PeopleSoft
+Applications (Campus Solutions, HCM, Financials)
+Essential_Duties_And_Responsibilities
+ETL/Data Modeling 20%
+Designs, develops, tests and troubleshoots complex ELT processes in
+accordance with business requirements and service level agreements
+Extends the data model to house additional structures as needed to meet
+functional requirements
+Designs/customizes fact tables, aggregate tables, and dimensions.
+Develops ETL audits and controls to ensure quality of data meets or
+exceeds defined standards and thresholds
+OBIEE 20%
+Possess a complete understanding of the OBIEE environment, from
+dimensional modeling to front-end report/dashboard design
+Design, develop and customize RPD in a multi-user development environment
+Create and administer MUDE
+Configure and merge RPD's (three-way and/or multi-user patch-based merge
+process)
+Migrate OBIEE RPD and catalog objects
+Establish and maintain OBIEE security
+Create detail documentation of data models, RPD customizations and
+complex report design
+Data Warehouse Architecture 20%
+Have a strong understanding of the OBIA architecture including physical
+data models, ETL, logical business models and subject areas
+Reviews requirements, architecture and design components of projects
+General Technical Functions 20%
+Reviews requirements, architecture and design components of projects
+Provide mentoring and training services for both coworkers and business
+customers
+Create detail technical documentation
+Troubleshoots and diagnoses complex software problems
+Provides for best practices and standards
+Strong understanding of database concepts including views, tables and
+indexing
+Team Collaboration 15%
+Works with the technical business analyst to understand the design/
+mapping document. Provides feedback, as needed to add clarification
+Works with technical business analysts to resolve any incidents
+Works with application developers, business partners, management and Data
+Warehouse team.
+Communicates open items and issues to key stakeholders, including
+management, development teams, and business areas
+Other duties as Assigned 5%
+
+Additional_Information
+May work around standard office conditions.
+Repetitive use of a keyboard at a workstation.
+Some travel may be required.
+Uses standard office equipment.
+Requires occasional evening or weekend hours.
+Important Message
+All employees serve as a representative of the University and are
+expected to display respect, civility, professional courtesy,
+consideration of others and discretion in all interactions with members
+of the UT Dallas community and the general public.
+UT Dallas does not discriminate on the basis of race, color, religion,
+sex (including pregnancy), sexual orientation, gender identity, gender
+expression, age, national origin, disability, genetic information, or
+veteran status in its programs and activities, including in admission and
+enrollment. For inquiries regarding non-discrimination policies, contact
+the Director of Institutional Equity at
+or the Title IX Coordinator at , or call
+.
+Show moreShow less

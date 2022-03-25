@@ -1,0 +1,39 @@
+HMS makes the healthcare system work better for everyone. We fight fraud, waste, and abuse so people have access to healthcare—now and in the future. Using innovative technology and powerful data analytics, we help government and commercial payers reduce costs, increase quality, and achieve regulatory compliance. We also help consumers take a more active role in their own health. Each year, we save our clients billions of dollars while helping people live healthier lives. At HMS, you will develop new skills and build your career in a dynamic industry while making a difference in the lives of others.
+
+We are seeking a passionate and intellectually curious Senior Big Data Engineer for our Data Engineering team. Data Engineering team is responsible for creating data pipelines in big data space including data lake and data warehouse in AWS (Amazon Web Services) cloud environment. We build data contracts with operational systems and analytical systems.
+
+Essential Responsibilities:
+Design, implement, and test major subsystems of AWS cloud platform and core service offerings using the Scrum agile framework
+Develop and follow best practices relative to design, implementation, and testing
+Prototype new ideas or technologies to prove efficacy and usefulness in production
+Develop SOAP (Simple Object Access Protocol) and REST (Representational State Transfer) APIs (Application Programming Interfaces) to integrate with partners and customers in real-time
+Build a service structure on AWS capable of being deployed and scaled to run a variety of platform components dynamically
+Build a next-generation tools platform for creating, managing and deploying multi-channel outreach campaigns in the AWS cloud
+Construct a state-of-the-art data lake on AWS using Amazon EMR, and Apache Spark, NiFi, Kafka, and Cassandra
+Design & develop data pipelines for batch & streaming data sets using open source/ AWS tech stack
+Mentor junior team members as a senior member of the Engineering team
+Non-Essential Responsibilities:
+Other duties as assigned
+Knowledge, Skills and Abilities:
+Command-level knowledge of Java and Python programming, and the fundamentals of computer science, data structures and programming
+Basic knowledge for distributed computing
+Knowledge of the challenges associated with “big data” and how to build systems that scale seamlessly
+Ability to learn new technologies, and apply critical thought to system design
+Ability to communicate well
+Work Conditions and Physical Demands:
+Primarily sedentary work in a general office environment
+Ability to communicate and exchange information
+Ability to comprehend and interpret documents and data
+Requires occasional standing, walking, lifting, and moving objects (up to 10 lbs.)
+Requires manual dexterity to use computer, telephone and peripherals
+May be required to work extended hours for special business needs
+May be required to travel at least 10" of time based on business needs
+Minimum Education:
+The knowledge typically acquired during the course of attaining a Bachelor’s degree in Computer Science, Mathematics, or related discipline is required. A combination of education and experience may be used in lieu of a diploma.
+Minimum Related Work Experience:
+6 years’ experience designing and delivering production software
+5 years’ experience designing and implementing big data high performance operational systems
+Proven experience using the Microsoft development tools and stack, e.g., TFS, Github, Eclipse, JVM, etc
+Nothing in this job description restricts management’s right to assign or reassign duties and responsibilities to this job at any time.
+
+EOE including disability/veteran.

@@ -1,0 +1,37 @@
+PeerStreet is a leading marketplace for investing in real estate backed loans (www.PeerStreet.com). Data is the foundation of our operational processes, ranging from loan underwriting, lender acquisition, loan servicing, to product decision making. It is imperative for the company to have easy access to high quality data, both internal and external, in order to continuously optimize our operations and derive insights into how we can continue to improve our product and service offerings on both sides of the marketplace.
+
+We are looking for a talented detail-oriented Data Analyst with a strong technical background and one who is passionate about developing elegant and impactful solutions to data reporting problems and creating an environment that allows users to dive deep into financial and user data with cutting-edge analytics and data insights. Your day-to-day will involve close collaboration with Engineering, Product, and Business organizations.
+
+The Lender Experience group works on creating the best origination and funding experience for our lenders. The team builds software that helps both internal and external users manage the loan origination process and track the entire lifecycle of a loan.
+
+The Financial Operations group works on our banking and transactions systems that move hundreds of millions of dollars monthly all while managing the vast complexity, integrations and various reporting needs. These systems handle all purchase, payment, draw, and distribution transactions at PeerStreet and are the foundation for both sides of the marketplace.
+
+The Investor Experience group is responsible for creating a world-class experience for our investors, from initial investment to portfolio management.
+
+Each group consists of one or more self-sufficient teams that each include product managers, designers, engineers, quality assurance and data, and each works closely with both our internal stakeholders and our customers to develop innovative solutions.
+
+We're moving fast and transforming real estate finance. Join us if you want to make a huge impact on a very visible commercial product and transform an entire industry.
+
+Key Responsibilities:
+Develop and maintain high quality, maintainable dashboards & reports for internal and external stakeholders.
+Partner with product managers, engineers and business stakeholders to become a source data expert.
+Run ad hoc analyses to answer specific business or product questions that translate into.
+Identify and develop methods of using PeerStreet data sets to enable scalable self-service data solutions for stakeholders.
+Evangelize our data internally and teach reporting skills to other members of the organization.
+Collaborate with a broad range of stakeholders, including the executive team, on translating data insights into smarter decisions and applications.
+Requirements:
+
+
+2+ years experience in data analysis or business intelligence.
+Solid understanding of relational databases and data modeling.
+Excellent SQL skills.
+Excellent communication skills, both written and spoken.
+Authorization to work in the United States without sponsorship.
+Bonus Points:
+Bachelor's degree (or better) in a STEM field
+Finance or real estate experience.
+Experience with self-service BI systems (Tableau, Sisense, etc)
+Experience with managing ETL processes (dbt, Airflow, etc)
+PeerStreet is an award-winning software platform for investing in real estate debt, acting as a two-sided marketplace that serves both investors and private lenders. Much like Amazon and Airbnb have aligned buyers and sellers through their marketplace, PeerStreet does the same, connecting investors with unprecedented access to quality real estate investments and lenders with global, diversified capital sources.
+
+We're a private financial technology company backed by Andreessen Horowitz, Thomvest, and Felicis Ventures, among others. Founded in 2013, PeerStreet continues to grow at a rapid pace, and has already funded well over $2 billion in loans through our platform. We strive to ensure our best-in-class company culture grows with us by investing in our employees so they can perform at their best. And we walk the walk, with company equity, unlimited PTO, full health coverage, company-wide celebrations (in and out of the office), and more. So join us at our sunny headquarters in El Segundo, CA, and help us transform the real estate investing industry—forever and for the better.

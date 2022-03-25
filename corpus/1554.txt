@@ -1,0 +1,19 @@
+Job Title: ETL Data Engineer
+Job Location: Mountain View, CA
+Job Duration: 6 Months
+
+Job Description:
+Informatica ETL
+Oracle SQL
+Linux
+Must be able to bring up new architecture/design for ETL processing
+Minimum 8+ years' experience in Data/Warehousing
+Python or Scala with good ETL/ELT skills.
+Good exposure and knowledge on using HIVE and MPP databases (like REDSHIFT,Vertica etc..)
+Candidate must be able to use Python/Scala with Spark and AWS for writing ETLs
+Good exposure on writing ETL using Spark
+Good SQL query writing skills
+AWS Services like REDIS,EMR,EC2,Glue,s3,Cloudwatch etc.
+
+
+#LI-FRESH

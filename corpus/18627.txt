@@ -1,0 +1,122 @@
+The Senior Data Center Delivery Engineer supports projects
+related (but not limited) to data center storage, data protection and
+virtualization (server/desktop/network). The Sr. Data Center Engineer will be
+responsible for include designing, configuring, maintaining, and
+troubleshooting customer specific architectures. The position is
+Federally focused and the engineer will need to operate within a Department of
+Defense/Classified environment.
+Key Areas of Responsibility
+Provides Professional Services to include
+design, planning, and configuration to support the delivery of projects
+focused around various datacenter technologies.
+Conduct throughput analysis, problem
+solving, and infrastructure planning
+Installation and configuration of virtual
+environments using VMware (ESXi and Horizon) and Microsoft Windows (MS
+Server, Active Directory, MS SQL, SCCM)
+Configure networking protocols such as
+VXLAN on NX-OS within a Cisco Nexus environment
+Install and configure different
+compute/storage platforms that includes 3 Tier and Hyperconverged
+Infrastructure (HCI)
+Participate in various client projects
+intended to continually improve/upgrade network infrastructures
+Assist in the management of projects using
+CDWG's project management methodology
+Regularly interface with technical and
+business staff of customers, including the project sponsor and
+stakeholders of projects in more complex engagements
+Serve as technical point of contact on
+customer engagements
+Manage time and expense to meet or exceed
+expectations defined in the Statement of Work
+Provide high quality content deliverables
+using the appropriate document templates
+Ensure solution is implemented as designed
+to the customer’s satisfaction and approval
+Work with Professional Services Managers,
+OEMs, Project Managers and customers to manage expectations and timelines
+to ensure expectations and commitments are being met
+Educates the customer on solution as
+appropriate throughout the life of the project or service life
+The information in
+this position description is intended to convey information about the key
+responsibilities and requirements of the position. It is not an exhaustive list of the skills,
+efforts, duties, responsibilities or working conditions associated with the
+opportunity. Responsibilities are
+subject to change.
+
+Qualifications
+
+Minimum Qualifications
+7+ years of data center
+experience
+7+ years of Federal
+and/or DoD experience
+DoD/OPM Secret
+Clearance/ Sensitive Compartmented Information (TS/SCI)
+CCNA Route/Switch
+certification
+VMware Certified
+Associate (VCA)
+Microsoft Certified
+Solutions Expert (MCSE) Certification
+DoD 8570 level II IAT Certification
+Other
+Required Qualifications
+Experience with
+implementing Defense Information Systems Agency (DISA) Secure Technical
+Implementation Guidelines (STIGs) within a Department of Defense
+environment.
+Experience with
+remediating identified Information Assurance Vulnerability Alerts (IAVAs)
+within DoD systems
+Hands-on
+troubleshooting skills utilizing various physical/virtual network inspection
+and monitoring tools on various platforms
+Strong experience with
+network topology and routing protocols
+Hands-on designing and
+management of network infrastructure
+Experience with data
+center infrastructure utilization such as back-up power, generator technology,
+batteries and HVAC
+Cisco NX-OS (Nexus)
+experience
+Experience managing
+large Active Directory environments
+Willing to travel (50 -
+70%)
+Be confident and
+actively participating in team support by proposing and implementing solutions
+Strong interpersonal,
+written, and oral communication skills
+Strong organization and
+communication skills
+Effective communication
+skills with an appreciation for the appropriate ways to interact with managers,
+coworkers, customers and vendors.
+Highly self-motivated
+and directed with keen attention to detail
+Able to work and
+complete tasks without being micromanaged
+
+
+Preferred
+Qualifications
+Bachelor degree in business,
+computer science, a related technical degree or equivalent
+IAT Level III or IAM
+Level II or higher
+CCNP Route/Switch
+certification or CCIE
+VMware Certified
+Professional (VCP)
+Ability to work
+weekends and/or off hours as necessary to meet clients' needs
+Hands-on programming
+using CLI and scripting to automate processes
+In-depth knowledge of
+Python/PowerShell or equivalent scripting
+Hands-on knowledge of
+Software Defined Datacenters

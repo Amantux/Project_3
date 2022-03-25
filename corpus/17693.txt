@@ -1,0 +1,33 @@
+Job Description
+At 12traits we believe the path to a better future lies in unlocking the true potential of humankind. We do this through harmonizing human behavior data with psychological trait sets, leveraging a multitude of scientifically valid data perspectives that allow us to understand human beings more deeply and sustainably than ever before: ushering in a new era of personalized experiences, starting in gaming, optimized for human potential and health.
+
+Elevating the human experience is at the core of everything we do. That core is realized through our human-facing machine learning algorithms, our unparalleled understanding of a user within any given environment, and our ability to personalize experiences in real time.
+
+As a data engineer, you’ll work closely with data scientists, engineers, psychometricians, as well as UX designers and researchers to actualize the potential derived from combining some of the richest behavioral data sets available with cognitive data. You'll not only get to push your own boundaries, but the boundaries of artificial intelligence.
+
+WHAT YOU WILL OWN AND DRIVE
+Implementation, improvement and maintenance of our data pipeline.
+Job orchestration and deployment.
+Management of our data stores (Bigquery, Cloud Storage, MySQL etc.)
+Understand existing database architecture and study the needs of the business team to propose new solutions and design
+Data ingestion jobs to help our data science team be at their best.
+Proactively seek new value-add opportunities for customers and convert those new opportunities to realized value.
+Advising and implementing best practices in multiple technical domains
+Python codebase with pandas DataFrame.
+
+WHAT YOU NEED TO BRING TO THE TABLE
+Experienced in IT with at least 2-3 years in a direct Data Engineer position.
+Experience with real time data streaming tools (e.g. Apache Kafka, AWS Kinesis)
+Hands-on experience with leading commercial Cloud platforms, preferably GCP
+A good understanding of Software Development Life Cycle, Disaster Recovery and Data Resiliency.
+Experience working in Agile/Scrum environments
+A portfolio of activities / a side project that showcases your intellectual curiosity
+Software engineering skills: Python
+
+WHAT MAKES YOU STAND OUT
+Familiarity with Lambda Architecture, GCS, Bigquery.
+Detail-oriented, with excellent analytical, technical and problem-solving skills
+Good ability to derive and design technical specifications from general product requirements
+Experience building personalization or recommendation engines
+Experience with Machine Learning/Data Science
+Familiarity with and interest in psychometric data

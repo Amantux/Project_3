@@ -1,0 +1,43 @@
+Required:
+1. Bachelor's Degree in Information Technology or Computer
+Science or similar field of study
+2. 84 months of experience in business analysis in
+Information Technology on SDLC projects; including developing business cases, gap analysis, functional and non-function requirements, test cases/plans and participating in User Acceptance Testing (UAT) and reviewing UAT results.
+3. 84 months of experience using recognized business analysis methodologies (such as JAD sessions) to elicit business needs and requirements from stakeholders, and developing/revising flow charts, and process models describing as-is or to be system and business processes
+4. 60 months experience working for State, Federal or Local government agencies.
+5. 60 months of experience querying and interrogating data using complex SQL on DB2 or Oracle platforms using tools such as SQL query tools and using MS Access.
+6. 24 months experience with Medicaid and/or health care industry data and its analysis
+7. 60 months of experience analyzing and developing reporting needs/reports from three perspectives: senior management, power user, and ad hoc, using industry standard (e.g. Cognos, OBIEE) reporting software.
+8. 24 months experience with working in a Project
+Management office, working with Project Managers and teams,
+and using standardized methodologies (such as waterfall and
+agile) and templates, participating in the evaluation of project
+readiness for deployment.
+Requested Documentation Please submit copy of resume, certification, and degree.
+The Medicaid Data Warehouse Bureau is the primary
+repository for Medicaid in New York State and is the main
+provider of Business Intelligence about Medicaid Data. The
+Bureau is comprised of two functional areas, the Medicaid
+Data Warehouse (MDW) and the Medicaid Analytics
+Performance Portal (MAPP).
+The MDW includes the Medicaid Information Services Center,
+a Data Warehouse, business Intelligence capabilities,
+reporting capabilities, and user support and litigation
+requests. MAPP includes Delivery System Reform Incentive
+Payment (DSRIP), Health Homes and Value Based Payment
+(VBP) projects
+The Business Analyst will work closely Medicaid Data Warehouse (MDW) program staff, vendor staff, and other stakeholders to define and develop requirements all aspects of the MDW.
+Specific duties include:
+" Analyzes, develops and revises flow charts, process models and technical specifications describing as-is or to-be Information Technology (IT) systems or business processes
+" Prioritizes IT system requirements and gains stakeholder
+agreement for IT projects or business process change documents detailing the project
+" Assists with developing presentations to justify and explain IT system or business process requirements.
+Evaluates the outcomes of systems testing, and confirms that the results are consistent with the system or business process specifications
+" Reviews proposals from staff and recommends to management the criticality of revising system or business process requirements during and after IT system implementation, if applicable
+" Determines the impact of software and hardware releases on the IT system
+" Assists with the development of training related to business
+systems implementation for users
+" Writes Queries
+" Assists in querying Data sources to determine the validity of
+project outputs
+" Documents data architecture

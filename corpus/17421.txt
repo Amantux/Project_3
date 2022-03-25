@@ -1,0 +1,41 @@
+No Relocation Assistance Offered
+# 81883 - New York, New York, United States
+
+Note: This is an evergreen requisition, so if and when there is a job opening, the Company will contact only those individuals who have submitted resumes that match the skills, experience, and other requirements of the job opening. These candidates will receive an invitation link to apply to the specific job and must apply again in order to be considered for it.
+
+We are looking for a savvy Data Engineer to join our growing team of analytics experts. Data Engineers will be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up. The Data Engineer will support our software developers, data analysts and data scientists on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects. They must be self-directed and comfortable supporting the data needs of multiple teams, systems and products. The right candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data initiatives.
+
+Responsibilities for Data Engineer
+Create and maintain optimal data pipeline architecture,
+Assemble large, complex data sets that meet functional / non-functional business requirements.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources
+Assist with data-related technical issues and support their data infrastructure needs.
+Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader.
+Work with data and analytics experts to strive for greater functionality in our data systems.
+Qualifications for Data Engineer
+We are looking for a candidate with 0-4 years of experience in a Data Engineer role
+Bachelor’s degree required, Graduate degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field is preferred
+Working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+Experience building and optimizing ‘big data’ data pipelines, architectures and data sets.
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Strong analytic skills related to working with unstructured datasets.
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+A successful history of manipulating, processing and extracting value from large disconnected datasets.
+Experience supporting and working with cross-functional teams in a dynamic environment.
+They should also have experience using the following software/tools:
+Experience with relational SQL and NoSQL databases: MongoDB, Neo4j, etc
+Experience with cloud services: GCP, AWS, etc
+Experience with object-oriented/object function scripting languages: Python, Java, etc.
+Experience with big data tools: Hadoop, Spark, Kafka, etc.
+Experience with Data Flow, Data Pipeline and workflow management tools: Cloud Composer, Airflow, Luigi, etc
+Equal Opportunity Employer
+Colgate is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity, sexual orientation, national origin, ethnicity, age, disability, marital status, veteran status (United States positions), or any other characteristic protected by law.
+
+Are you interested in working for Colgate-Palmolive? You can apply online and attach all relevant documents such as a cover letter and resume or CV. Applications received by e-mail are not considered in the selection process. Become part of our team. We look forward to your application.
+
+Colgate-Palmolive is a leading global consumer products company, tightly focused on Oral Care, Personal Care, Home Care and Pet Nutrition. Colgate sells its products in over 200 countries and territories around the world under such internationally recognised brand names as Colgate, Palmolive, elmex, Tom’s of Maine, Sorriso, Speed Stick, Lady Speed Stick, Softsoap, Irish Spring, Protex, Sanex, Elta MD, PCA Skin, Ajax, Axion, Fabuloso, Soupline and Suavitel, as well as Hill’s Science Diet and Hill’s Prescription Diet.
+
+For more information about Colgate’s global business, visit the Company’s web site at http://www.colgatepalmolive.com. To learn more about Colgate Bright Smiles, Bright Futures® oral health education programme, please visit http://www.colgatebsbf.com. To learn more about Hill's and the Hill’s Food, Shelter & Love program please visit http://www.hillspet.com. To learn more about Tom’s of Maine please visit http://www.tomsofmaine.com.
+
+Reasonable accommodation during the application process is available for persons with disabilities. Please contact Application_Accommodation@colpal.com with the subject "Accommodation Request" should you require accommodation.

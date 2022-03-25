@@ -1,0 +1,42 @@
+About Beam
+
+Beam Dental was founded in 2012 by three engineers who saw the opportunity to make dental services more accessible using technology. The Beam Brush, which launched the company, was one of the earliest examples of the ‘Internet of Things’, where everyday objects can enable incredible new understanding and capability. Today, Beam Dental has parlayed its industry passion into the fastest growing provider of dental insurance in the US, with a mission to offer businesses best in class dental coverage and close the gap on the over 100 million Americans who don’t have dental insurance today.
+
+Joining Beam Dental Means
+
+• Working for a complex and dynamic business, simultaneously operating across insurance, CPG manufacturing, IOT, and dental services
+• Being challenged to improve every day by a diverse and diversely skilled team
+• Engaging in an active, intense, and fun work environment
+• Being a decision maker and ‘owner’ of your subject matter
+• Joining in our mission to forever change the way people access dental services
+• Being a person of high character, high EQ, and amazing talent
+
+The Role
+
+Beam is looking for a data engineer to join our Data Management team. In this role, you will be working cross-functionally with business domain experts, analytics, and engineering teams to design and implement our Data Lakehouse model (Data Lake + Data Warehouse). You will design, implement and scale data pipelines that transform data into actionable information that enables decision making. You will drive initiatives to formalize data governance and quality assurance. You will have a significant part in building a solid data foundation for a data-driven company.
+
+What You Will Bring
+
+You're an engineer with a passion for data and information. You possess a strong knowledge of both data modeling and engineering. You're confident with cloud technologies and infrastructure like AWS. You're comfortable working independently while collaborating across various business and technical teams to deliver scalable solutions. You are unafraid to tackle the unfamiliar and bring clarity to complex concepts.
+What You Will Do
+Ingest multiple internal and external systems into our data lake using batch and streaming concepts.
+Build and scale data warehouse systems that support complex analysis across the business.
+Design, build, and own data pipelines that deliver information that drives the business forward.
+Work with business domain experts to transform business processes into data models that are understandable and used across the company.
+Partner with data analysts and engineering teams to build foundational data sets that are trusted, well understood, and aligned with business strategy in order to enable self-service through BI tools.
+Work with analytics and business teams to build predictive analytics solutions using machine learning.
+Serve as a primary data expertise resource who will help drive decisions on tooling, testing, and process to improve data quality.
+Define and manage SLAs for data sets that support production services.
+Implement an Incident Response Framework to handle situations that disrupt data availability to the business.
+What Skills Will Help You Be Successful
+3+ years of experience working as engineer with cloud data architecture (AWS) in an Agile, TDD environment
+Strong knowledge of data modeling methods and approaches (partitioning, star and snowflake, dimensional modeling) as well as how to scale those models over time
+Recent accomplishments working with object, relational, and columnar data stores such as Redshift
+Experience working with Python, Java, or other data-oriented programming languages
+An understanding of containerization technologies and orchestration tools
+Experience with workflow orchestration tools such as Airflow and running it on Kubernetes
+Exceptional communication and critical thinking skills
+Experience working in a healthcare technology environment is a plus
+Visa sponsorship or transfer not available for this position.
+---------------------------------------
+Beam believes a diverse and inclusive environment is key to building a great company and a great product. We are committed to creating an environment that is welcoming for people of all backgrounds, and encourage everyone to apply. Beam is an Equal Opportunity Employer and does not discriminate on the basis of race, color, gender, sexual orientation, gender identity or expression, religion, disability, national origin, protected veteran status, age, or any other status protected by applicable national, federal, state, or local law.

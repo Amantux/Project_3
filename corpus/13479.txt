@@ -1,0 +1,28 @@
+Knowledge Services is seeking a Data Scientist for either a contract-to-hire OR direct hire opportunity in Indianapolis, IN.
+
+Data Scientist Responsibilities
+Design, develop and deploy production-ready algorithms at scale
+Design develop and maintain data collection pipelines from diverse sources, large scale structured and unstructured data
+Design, develop and maintain pipelines for machine learning model training and development
+Drive optimization, testing and tooling to improve quality of solutions
+
+Data Scientist Qualifications
+Experience and expertise in using Spark in combination with pySpark, Scala or Java, either on-premise or Cloud
+2+ years experience of software engineering in python/Scala
+Experienced in software engineering using Java or C++ would be a plus
+Experience with relational database and SQL (Postgres, Redshift, SQL Server)
+Expert knowledge of distributed computing, RDD and optimization techniques
+Experience with NoSQL and streaming platforms, e.g. Kafka, MongoDB, Neo4j is a plus
+Experience with advanced analytics and modern machine learning techniques is a plus
+Experience with developing software products for cloud platform, e.g. AWS, Azure, GCP is a plus
+Experience with cloud native services such as AWS EMR, Azure databricks, HDInsight, Sagemaker is a plus
+Proficiency with APIs, containerization and orchestration is a plus
+Comfortable on Linux for both development and operations
+Bachelor’s degree in Computer Science, Engineering or a similar field is required
+Physical Requirements:
+Job frequently requires sitting, handling objects with hands.
+Job occasionally requires standing, walking, reaching, talking, hearing, and lifting up to 25 pounds.
+Vision requirements: Ability to see information in print and/or electronically.
+We are an Equal Opportunity Employer. We do not discriminate on the basis of race, religion, color, sex, age, national origin or disability.
+INDIT
+ISDPD

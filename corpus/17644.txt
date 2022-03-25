@@ -1,0 +1,50 @@
+Req ID: 177552
+
+The Job
+
+Warner Bros. has been entertaining audiences for more than 90 years through the worlds most-loved characters and franchises. Warner Bros. employs people all over the world in a wide variety of disciplines. We're always on the lookout for energetic, creative people to join our team.
+
+WB Technology combines Warner Bros. industry-leading technologists and disciplines to ensure global alignment with business strategy and accelerated delivery of innovative technology solutions studio- and industry-wide. From pre-production through archiving, the WBT organization will provide critical business and technology intelligence and services to all Studio business units. WBT manages the Studios enterprise systems and solutions, emerging platforms, information security, consumer intelligence, content mastering and delivery, and more.
+
+The WBT Data Intelligence group is seeking an enthusiastic Data Engineer to join our growing team. As a Data Engineer at WB, you will be responsible for the creating data engineering components using Snowflake in an AWS ecosystem. The Engineer will also be responsible for hands on development of high-quality scalable enterprise data solutions and data services, managing product launches and maintenance from inception to launch and through continuous delivery.
+
+The ideal candidate must collaboratively partner across the organization to understand Warner Bros. business functions and data requirements. The engineer will translate those into data products, software features and services to allow Warner Bros. to continue to innovate. The candidate must be able to implement seamless data services across cross-functional teams and continually improve upon key performance indicators. You must also be an experienced problem-solver and be comfortable navigating ambiguity and influencing. You will work closely with product managers, project managers, data architects and data engineers to implement and maintain data pipelines leveraging emerging and established data technologies. You will need to be able to work in a constantly changing, fast-paced environment and must be able to adapt to new technologies and new ideas. You must be detail oriented, with a strong affinity for data and analytics to support business decisions.
+
+The Daily
+Work closely with the business and technical project manager to understand the business requirement and translate into technical specs.
+Provide analysis reports and estimations.
+Design, develop, install, test and maintain data integrations from a variety of formats including files, database extracts and external APIs into data stores (including Snowflake, Elastic, S3, etc) using ETL tools, techniques and programming languages like Python, Spark, SQL, etc.
+Build high-performance data engineering algorithms and prototypes.
+Create flexible data models, tune queries and ETL components.
+Manage job orchestration using tools like Airflow.
+Research possible customization for tuning, cost optimization, performance enhancements, data reliability and quality.
+Ensure that all solutions meet the business/company requirements for solution data reliability, quality and disaster recovery.
+Own the application/data end-to-end from requirements to post production working closely with other teams. Provide engineering leadership by actively advocating best practices and standards for software engineering.
+Collaborate with other team members such as data architects, data scientists etc.
+Consistently contribute into the project management practices using Agile method.
+Present the prototype to the stakeholders and leadership.
+The Essentials
+Bachelors degree in Computer Science or related field.
+Minimum of 5 years of data analytics/data engineering, complex ETL/ELT experience in database systems like Snowflake, Teradata, etc. using Python.
+Minimum 5 years of experience in using SQL/NoSQL, JSON and XML data structures.
+Minimum 5 years of big data technologies including Hadoop, Apache Spark, Snowflake and AWS Suite of technologies (S3, EMR, Lambda).
+Minimum 3 years of Experience using Restful APIs for ETL purposes.
+Expert problem solver with strong analytical skills.
+Expert in SQL (Snowflake, Teradata) and Python.
+Expert in ETL/ELT tools and techniques.
+Experience using big data tools (Hadoop, Map-reduce, Elastic search, Kinesis, Kafka, Solr).
+Experience using AWS technologies (EMR, S3, Kinesis, Lambda).
+Experience using Restful APIs for ETL purposes.
+Experience using Git or SVN and Jira.
+Experience using Spark (Scala/Java), Spark SQL and Spark Streaming is a plus.
+Experience in Segments, MParticle, Adobe Site Catalyst or any other similar digital analytics product products is a plus.
+Experience in Tableau is a plus.
+Strong communication skills and proficient in Excel, Word, PowerPoint, MS Project and MS Visio Snowflake.
+Ability to work independently or collaboratively.
+Detail oriented with strong organization and prioritization skills.
+Entertainment and/or Social Media experience a plus
+Demonstrated ability to work well under time constraints.
+Must be able to work flexible hours, including possible overtime, when necessary.
+Must be able to maintain confidentiality.
+Management has the right to add or change duties and job requirements at any time.
+177552

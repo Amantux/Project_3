@@ -1,0 +1,31 @@
+Do you want your voice heard and your actions to count?
+
+Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), the 5th largest financial group in the world (as ranked by S&P Global, April 2018). In the Americas, were 14,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, developing positive relationships built on integrity and respect. Its part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. Were a team that accepts responsibility for the future by asking the tough questions and owning the solutions. Join MUFG and be empowered to make your voice heard and your actions count.
+
+Job Summary
+
+This opening is for a leadership role for Application Performance Management. The individual will be leading multiple APM initiatives: $4M CA Wily Replacement, SMC Replacement (Dynatrace Synthetics), OpenShift and AWS monitoring and integration with Service Now and Jenkins CI/CD DevOps.
+
+This individual will lead a small core team to expand and enhance our application performance management capabilities in support of Core Banking transformation, Pillar 2 and Pillar 3 Data Center Modernization and APR.
+The individual should have a minimum 5+ years of experience, including 2 years of management experience, with excellent verbal and written communication skills. The individual should be able to comfortably present to multiple levels of management and be able to work well with various technical groups including: applications, systems and database engineers.
+Major Responsibilities:
+Collaborate with Development and QE teams to support the design of performance tests, provide application performance tuning recommendations and ensure that any applications deployed will properly scale and meet expected SLAs. For performance, availability, scalability and stability.
+tools to measure, detect, isolate and resolve performance issues found during application development performance testing including measuring, monitoring and capturing required infrastructure & application performance metrics, logs and reports
+Administer, maintain and support APM suite of tools.
+Monitoring and Reporting for existing applications/systems and infrastructure on-prem and AWS
+Create automated solution for data collection and reporting for existing applications for Performance and Availability for multi tier container and microservice applications running on Docker and OpenShift in AWS
+Provide monthly reports to stakeholders
+Administration of APM tools: Administer, support and maintain APM tools including instrumentation, configuration, creation of dashboards and reporting
+Production Support- performance troubleshooting for applications/systems
+Root cause analysis, heapdump, core dump, thread dump and other log analysis, code profiling, packet tracing, event tracing, resource analysis
+APM tuning and diagnostic (heap dump/thread dump),
+Dynatrace administration (1-2 years)
+Experience with administering agent and network based APM tools for performance and availability monitoring
+Good SQL skills, some coding in python or equivalent
+1 Year experience with AWS and Kubernetes preferred
+Basic statistical analysis skills and graphical skills
+The above statements are intended to describe the general nature and level of the work being performed. They are not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified.
+
+We are proud to be an Equal Opportunity / Affirmative Action Employer and committed to leveraging the diverse backgrounds, perspectives, and experience of our workforce to create opportunities for our colleagues and our business. We do not discriminate in employment decisions on the basis of any protected category.
+
+A conviction is not an absolute bar to employment. Factors such as the age of the offense, evidence of rehabilitation, seriousness of violation, and job relatedness are considered in all employment decisions. Additionally, its the banks policy to only inquire into a candidates criminal history after an offer has been made. Federal law prohibits banks from employing individuals who have been convicted of, or received a pretrial diversion for, certain offenses.

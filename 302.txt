@@ -1,0 +1,30 @@
+Job Description
+Title: Data Scientist
+Location:Remote (SF/CT/MN/AZ/NY/WI)
+Duration: 12 Months
+MUST:- 2 plus years of financial services experience is a MUST
+Job Responsibilities:
+As an AI/NLP Data Scientist you will be responsible for building AI and Data Science models with the main focus on data extraction and insights from a form or any text corpora. You will need to rapidly prototype various algorithmic implementations and test their efficacy using appropriate experimental design and hypothesis validation.
+Responsible for big data/analytics projects that gather and integrate large volumes of data. Specializes in developing and programming methods, processes, and systems to consolidate and analyze unstructured, diverse big data sources to generate insights and solutions for client services and product enhancement. Acquires data from multiple data sources to perform analysis. Implements and validates predictive models as well as create and maintain statistical models with a focus on big data. Identifies, analyzes and interprets trends or patterns in complex data to provide answers to business questions as well as provide recommendations for action. Interprets data and analyzes results using various advanced statistical techniques and tools. Presents data and analysis in a clear and concise manner allowing the audience to quickly understand the results and recommendations and make data-driven decisions. Collaborates with various partners to prioritize requests/needs and provide a holistic view of the analysis. Measures and monitors the results of applied recommendations and presents adjustments. Ensures all data acquisition, sharing and results of applied recommendations are compliant with company standards.
+
+Basic Qualifications:
+Bachelor's degree in a quantitative field such as statistics, computer science, engineering or applied mathematics, or equivalent work experience
+8 plus years of relevant experience
+Preferred Skills/Experience:
+PhD or MS in Computer Science, Computational Linguistics, Artificial Intelligence with a heavy focus on NLP/Text mining with 5 years of relevant industry experience.
+Creativity, resourcefulness, and a collaborative spirit.
+Knowledge and working experience in one or more of the following areas: Natural Language Processing, Clustering, and Classifications of Text, Question Answering, Text Mining, Information Retrieval, Distributional Semantics, Knowledge Engineering, Search Rank and Recommendation.
+Deep experience with text-wrangling and pre-processing skills such as document parsing and cleanup, vectorization, tokenization, language modeling, phrase detection, etc.
+Proficient programming skills in a high-level language (e.g. Python, R, Java, Scala)
+Being comfortable with rapid prototyping practices.
+Being comfortable with developing clean, production-ready code.
+Being comfortable with pre-processing unstructured or semi-structured data.
+Experience with statistical data analysis, experimental design, and hypothesis validation.
+Project-based experience with some of the following tools:
+Natural Language Processing (e.g. Spacy, NLTK, OpenNLP or similar)
+Applied Machine Learning (e.g. Scikit-learn, SparkML, H2O or similar)
+Information retrieval and search engines (e.g. Elasticsearch/ELK, Solr/Lucene)
+Distributed computing platforms, such as Spark, Hadoop (Hive, Hbase, Pig), GraphLab
+Databases ( traditional and NoSQL)
+Proficiency in traditional Machine Learning models such as LDA/topic modeling, graphical models, etc
+Familiarity with Deep Learning architectures and frameworks such as Pytorch, Tensorflow, Keras

@@ -1,0 +1,36 @@
+Description
+
+
+Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), the 5th largest financial group in the world (as ranked by S&P Global, April 2018) with total assets of over $2.9 trillion (106.2 (JPY) as of March 30, 2018) and 150,000 colleagues in more than 50 countries. In the U.S., were 13,000 strong, working together to positively impact every customer, organization, and community we serve. We achieve this by delivering on our values, putting people first, fostering long-term relationships built on honesty and mutual understanding, and inspiring the best in each other. This is all part of our inclusive, high-performing culture supported by Total Rewards that include our cash balance pension plan. Join a team thats working to fulfill its vision to be the worlds most trusted financial group.
+Job Summary:
+
+Perform the on-boarding of application/infrastructure into the IAM eco-system including, risk assessment of IAM controls, access management analysis, roles and associated entitlements to determine segregation of duties and least privilege. Enable privilege access management and integrate application/infrastructure with request and user access certification tools. Report control gaps to management and provide support to application owners throughout the process
+Major Responsibilities:
+Review access control methodology and continuously monitor the control effectiveness among MUFG assets
+Perform Risk assessment to measure the risk level, control gap, introduce preventive control and report risks to management on MUFG assets
+Analyze and design risk assessments that govern Security Access Profiles (SAP) and Privilege Account Management
+Identify security violations and inefficiencies and report risks to management
+Implement security improvements by assessing current situation, evaluating trends and anticipating requirements based on internal threats
+Onboard IAM applications to IAM Eco-system, ability to perform technical configuration and perform risk assessment on information system to determine technical access control gaps, report and assist in remediation
+
+Qualifications
+Bachelors degree preferably in Computer Science
+At least 3+ years security analysis related experience preferably within a financial services firm
+Good understanding around database, OS, software engineering concepts
+Good understanding in use of C#, RDBMS, Office Suite, Windows, Unix, PowerShell
+Knowledge of RSA Identity Access life cycle governance is desirable
+Strong understanding of information security risk analysis, Identity Access Management and access control methodologies with working knowledge of business applications
+Effective technical writing skills and follow ethical security principles
+Able to work in a team environment as a productive and supportive team player
+Able to balance effort between multiple assigned tasks and achieve automation goals
+Desired Certifications:
+
+Certified Information System Security Professional (CISSP)
+Certified Ethical Hacker (CEH)
+Security Analyst (CSA)
+CAPM
+The above statements are intended to describe the general nature and level of the work being performed. They are not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified.
+
+We are proud to be an Equal Opportunity / Affirmative Action Employer and committed to leveraging the diverse backgrounds, perspectives, and experience of our workforce to create opportunities for our colleagues and our business. We do not discriminate in employment decisions on the basis of any protected category.
+
+A conviction is not an absolute bar to employment. Factors such as the age of the offense, evidence of rehabilitation, seriousness of violation, and job relatedness are considered in all employment decisions. Additionally, its the banks policy to only inquire into a candidates criminal history after an offer has been made. Federal law prohibits banks from employing individuals who have been convicted of, or received a pretrial diversion for, certain offenses.

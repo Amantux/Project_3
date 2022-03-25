@@ -1,0 +1,63 @@
+Job description
+
+Groupon North America’s pricing & promotions team is responsible for giving our customers the right price and the right incentives to drive revenue and profitability. Through the tweaking of key business levers, like price, promotion and price display, our mission is to maximize conversion and deliver a great customer experience.
+
+We are looking for a creative and innovative data scientist to drive strategic initiatives that will propel the future growth of Groupon. As part of this team you will focus on various data science problems including but not limited to experiment design, deal price elasticity, customer promotion sensitivity, price display testing and pricing program selection.
+
+Responsibilities:
+
+Design, implement, and deploy scalable algorithms and models that utilize large amounts of data for enhancing pricing, determining sensitivity to promotions, increasing conversion, and improving user experience
+
+Analyze historical data and build forecasting systems to determine future business opportunities and metrics
+
+Utilize advanced data mining and machine learning to personalize the user experience, increase user engagement and improve core business metrics
+
+Conduct A/B test to predict contribution impacts from new models and algorithms
+
+Collaborate with Engineering, Central Data Science, Product Management & various Marketing teams to data-driven insights that improve performance
+
+Be a key part of setting pricing and promotional strategy
+
+Qualifications:
+
+Master’s degree or higher in Statistics or related field and 2+ years of relevant experience in data science and predictive modeling;
+
+Professional experience with:
+
+Predictive modeling, recommender system, data mining, machine learning, statistical analysis, and A/B testing;
+
+Email marketing campaigns in a big data environment is highly preferred;
+
+R, Python, Spark, or similar data science modeling language;
+
+Deployment of production data science models to drive business value;
+
+SQL queries for data analysis on Teradata, Hive or similar parallel database;
+
+*NIX environment is desired
+
+Who We Are, How We Work
+
+We provide a global marketplace where people can buy just about anything, anywhere, anytime. We’re enabling real-time commerce across an expanding range of categories including local businesses, travel destinations, consumer products, and live or lively events. At the same time, we are providing advertising options and tools that merchants can use to grow and manage their businesses. Culturally, we believe that great people make great companies and that starting with the customer and working backward moves us forward. Community matters to us on an internal, local and global scale—it’s fundamental to our company’s growth and to the well-being of the world at large. We also value self-awareness, candor, lunch and WiFi. If we match with you, please apply to join us.
+
+Industry
+
+Internet
+
+Employment type
+
+Full-time
+
+Experience
+
+2+ years
+
+Job function
+
+Data scientist, statistician, big data analyst
+
+Groupon's purpose is to build strong communities through thriving small businesses. To learn more about the world's largest local ecommerce marketplace, click here for the latest Groupon news. Plus, be sure to check out the values that shape our culture, guide our strategy and make our company a great place to work. And just don't take our word for it. Hear from real Groupon team members and learn more about our employee resource groups . If all of this sounds like something that's a great fit for you, then click apply and let's see where this takes us.
+
+Groupon is an Equal Opportunity Employer
+
+Qualifications for employment, promotion, and other terms and conditions of employment are based upon the ability to perform the job. Equal-employment opportunities are provided to all applicants and employees without regard to race, creed, religion, color, age, national origin, sex, disability, medical condition, sexual orientation, gender identity or expression, genetic information, ancestry, marital status, military discharge status (excluding dishonorable discharge), veteran status, citizenship status, or other legally protected status. We are all responsible for maintaining this policy. Groupon is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may contact us at hraccommodations@groupon.com. If you have concerns related to Groupon’s equal employment opportunities, you may contact Groupon's Ethics Reporting Service Ethicspoint.

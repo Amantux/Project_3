@@ -1,0 +1,41 @@
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities — we're just getting started.
+
+The Community Threat Intel Espionage team is dedicated to protecting the users of the Facebook family of applications (e.g. Facebook, Instagram, WhatsApp, Oculus) from advanced threat/Nation State actors. Our investigators must possess deep knowledge of advanced threat actors, including their tactics, techniques, and procedures, as well as an understanding of the overall threat landscape and geopolitical climate. Using this knowledge, we leverage a variety of data sources including internal data, open-source intelligence, and third party private intelligence to detect and track adversary groups both on and off the Facebook platform. In order to be successful, our investigators must be able to extract, assimilate, and correlate a wide variety of data to not only track known activity but also to surface previously unidentified activity and develop novel and effective strategies to disrupt attackers.
+
+We look for people who have a strong desire to solve complex problems and develop new solutions, often involving collaboration with different teams across the company. Necessary skills include competence with Python, SQL, and data science, as well as a background in producing threat intelligence products.
+
+RESPONSIBILITIES
+
+Conduct exploratory analysis of espionage cases in order to develop classifiers for improved detection of malicious activity
+
+Lead quantitative analysis projects from start to finish including all aspects of data analysis (e.g. processing, cleaning, verifying the integrity of data used for analysis, statistical analysis, visualizations) and communicating results
+
+Partner with analysts, engineers and cross-functional teams to turn analyses into opportunities to detect and mitigate future espionage activity
+
+Support the creation of predictive models for automated detection systems (from feature selection to building and optimization of machine-learning models)
+
+Explore additional data sources that can be used to help identify new opportunities to signal bad actor behavior
+
+MINIMUM QUALIFICATIONS
+
+BA/BS in Computer Science, Math, Physics, Engineering, Statistics or other technical field
+
+Experience performing data science in the security field
+
+2+ years experience working post-college in a quantitative role
+
+Experience in SQL or other programming languages. Development experience in at least one scripting language (PHP, Python, Perl, etc.)
+
+Knowledge of statistical analysis
+
+Experience with a statistical package such as R, Python, etc.
+
+Experience working cross-functionally and experience translating technical content to a non-technical audience
+
+PREFERRED QUALIFICATIONS
+
+Experience in a similar role performing analytics on a huge scale
+
+Passion for protecting users on Facebook with deep interest in understanding threat actor behavior and utilizing data to mitigate risk to our users
+
+ Founded in 2004, Facebook’s mission is to give people the power to build community and bring the world closer together. People use Facebo...

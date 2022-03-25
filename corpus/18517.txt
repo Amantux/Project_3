@@ -1,0 +1,63 @@
+Site Name: UK - London - Brentford, USA - North Carolina - Research Triangle Park, USA - Pennsylvania - Upper Providence
+Posted Date: Jul 13 2020
+
+Are you looking for a challenging opportunity to work in an area where cutting edge science meets cutting edge technology with an aim of delivering drugs to patients in need across a broad range of pharmaceutical areas including genetics, functional genomics, clinical, biopharma and others ? If so, this Data Engineer - Manager role could be an exciting opportunity to explore.
+
+The Data & Compute Delivery (DCD) Data Engineering team is a crucial component of the environment and are responsible for delivery of data pipelines populating and maintaining data for scientific use in HPCs, Cloud and the R&D Information Platform (RDIP).
+
+We are looking for a passionate and enthusiastic individual who will own and deliver on the strategy for data movement in a variety of scientific areas by working closely with people who are involved in the generation, handling and consumption of such data that includes Data & Computational Science (DCS), R&D Tech, different vendors and the larger R&D organization. The senior data engineer needs to be able to apply technologies in a DataOps environment to solve big data problems and to develop innovative big data solutions based on defined business requirements. The successful candidate must be able to learn and work independently, lead pipeline development efforts and collaborate effectively with co-workers.
+
+This role will provide YOU the opportunity to lead key activities to progress YOUR career, these responsibilities include some of the following:
+Partner with data strategy leads to translate R&D strategy and conceptual data flows into pipelines
+Partner with the metadata leads to translate conceptual data models into physical database/tables optimized for data analytics in RDIP using established environments and tools
+Lead the design and build of data acquisition and processing pipelines including but not limited to the creation/maintenance of appropriate artifacts
+Ensure the preservation of data integrity from source to target state including but not limited to the acquisition of appropriate metadata and the incorporation of appropriate QC checks into the pipelines
+Surface opportunities to improve data quality and/or increase efficiency to DSD Leads
+Support the use and growth of the Data Engineering DataOps environment, influence strategy and roadmap for the curation toolset, work with R&D and Tech to prioritize enhancements
+Lead in the monitoring and tracking of data quality and data flow dynamic
+Provide Tier 3 support for production pipelines
+Support DCS and broader R&D in self-service/exploratory efforts
+Influence vendor roadmaps, work with R&D and Tech to prioritize DataOps enhancements, and onboard these tools or enhancements
+Ensure the quality consistency and availability of guidance documentation of end users of the tools to support high quality outputs
+Extend current pipelines to support clinical biomarkers
+Assess GxP readiness as it related to the upstream data pipelines and develop a plan for addressing any gaps
+Why you?
+Basic Qualifications:
+
+
+We are looking for professionals with these required skills to achieve our goals:
+Computer Science, Bioinformatics, or related degree; 10+ years experience in data movement, data wrangling and delivery of data or analytics pipelines
+Experience architecting, implementing and maintaining, data or analytic pipelines.
+Leadership experience.
+Experience with Big Data technologies (ideally Cloudera stack including HDFS, Hive, Impala and Spark), Cloud-based offerings (Microsoft Azure, GCP, AWS, etc), and corresponding tools.
+Experience with open source software, bioinformatics tools and languages such as SQL, R, Perl, Python, Java, and ETL tools.
+Preferred Qualifications:
+
+
+If you have the following characteristics, it would be a plus:
+Experience with data movement and management in the Pharmaceutical industry or related scientific fields.
+Strong background and experience in LIMS systems, Next Generation Sequencing (NGS) workflows, Cloud computing and HPC systems.
+Understanding of diverse omic data types including RNA-Seq, DNA-Seq, Chip-Seq, WES, WGS, ATAC-seq, microbiome, proteomic, metabolomic data etc. from different sources.
+Familiarity with data mining, machine learning and artificial intelligence techniques
+Strong interpersonal skills and effective communication of complex concepts to stake holders with wide range of expertise.
+Why GSK?
+
+
+Our values and expectationsare at the heart of everything we do and form an important part of our culture. These include Patient focus, Transparency, Respect, Integrity along with Courage, Accountability, Development, and Teamwork. As GSK focuses on our values and expectations and a culture of innovation, performance, and trust, the successful candidate will demonstrate the following capabilities:
+Operating at pace and agile decision-making using evidence and applying judgement to balance pace, rigour and risk.
+Committed to delivering high quality results, overcoming challenges, focusing on what matters, execution.
+Continuously looking for opportunities to learn, build skills and share learning.
+Sustaining energy and well-being.
+Building strong relationships and collaboration, honest and open conversations.
+Budgeting and cost-consciousness
+*LI-GSK
+
+If you require an accommodation or other assistance to apply for a job at GSK, please contact the GSK Service Centre at 1-877-694-7547 (US Toll Free) or +1 801 567 5155 (outside US).
+
+GSK is an Equal Opportunity Employer and, in the US, we adhere to Affirmative Action principles. This ensures that all qualified applicants will receive equal consideration for employment without regard to race, color, national origin, religion, sex, pregnancy, marital status, sexual orientation, gender identity/expression, age, disability, genetic information, military service, covered/protected veteran status or any other federal, state or local protected class.
+
+Important notice to Employment businesses/ Agencies
+
+GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK's commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.
+
+Please note that if you are a US Licensed Healthcare Professional or Healthcare Professional as defined by the laws of the state issuing your license, GSK may be required to capture and report expenses GSK incurs, on your behalf, in the event you are afforded an interview for employment. This capture of applicable transfers of value is necessary to ensure GSKs compliance to all federal and state US Transparency requirements. For more information, please visit GSKs Transparency Reporting For the Record site.

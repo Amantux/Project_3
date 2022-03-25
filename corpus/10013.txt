@@ -1,0 +1,51 @@
+Bachelor’s or Master’s degree in a quantitative field such as Statistics, Applied Mathematics, Physics, Engineering, Computer Science, or Economics
+
+2+ years of relevant working experience in an analytical role involving data extraction, analysis, statistical modeling, and communication
+
+2+ years of experience with data querying languages (e.g. SQL, Hadoop/Hive, Scala) and statistical/mathematical software (e.g. R, Matlab, Stata)
+
+Business/Team Introduction
+
+The Amazon Demand Forecasting team seeks a Data Scientist with strong analytical and communication skills to join our team. We develop sophisticated algorithms that involve learning from large amounts of data, such as prices, promotions, similar products, and a product’s attributes, in order to forecast the demand of over 190 million products world-wide. These forecasts are used to automatically order more than $200 million worth of inventory weekly, establish labor plans for tens of thousands of employees, and predict the company’s financial performance. The work is complex and important to Amazon. With better forecasts we drive down supply chain costs, enabling the offer of lower prices and better in-stock selection for our customers.
+
+Data Scientist Responsibilities
+
+In a typical day, you will work closely with talented machine learning scientists, statisticians, software engineers, and business groups. Your work will include cutting edge technologies that enable implementation of sophisticated models on big data. As a successful data scientist in our Demand Forecasting team, you are an analytical problem solver who enjoys diving into data, is excited about investigations and algorithms, can multi-task, and can credibly interface between technical teams and business stakeholders. Your analytical abilities, business understanding, and technical savvy will be used to identify specific and actionable opportunities to solve existing business problems in Demand Forecasting, through collaboration with engineering, research, and business teams. Your expertise in synthesizing and communicating insights and recommendations to audiences of varying levels of technical sophistication will enable you to answer specific business questions and innovate for the future.
+
+Major responsibilities include:
+
+Translating Demand Forecasting business questions and concerns into specific analytical questions that can be answered with available data using statistical and machine learning methods; working with engineers to produce the required data when it is not available
+
+Providing feedback to our science and engineering teams on the applicability of technical solutions from the business perspective
+
+Presenting critical data in a format that is immediately useful to answer questions about the inputs and outputs of Demand Forecasting systems and improving their performance
+
+Communicating verbally and in writing to business customers with various levels of technical knowledge, educating them about our systems, as well as sharing insights and recommendations
+
+Improving upon existing Demand Forecasting statistical or machine learning methodologies by developing new data sources, testing model enhancements, running computational experiments, and fine-tuning model parameters for new forecasting models
+
+Supporting decision making by providing requirements to develop analytic capabilities, platforms, pipelines and metrics then using them to analyze trends and find root causes of forecast inaccuracy
+
+Formalizing assumptions about how demand forecasts are expected to behave, creating definitions of outliers, developing methods to systematically identify these outliers, and explaining why they are reasonable or identifying fixes for them
+
+Utilizing code (Python, R, Scala, SQL etc.) for analyzing data and building statistical and machine learning models and algorithms
+
+Amazon.com is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation
+
+Experience processing, filtering, and presenting large quantities (Millions to Billions of rows) of data
+
+Superior verbal and written communication skills with the ability to effectively advocate technical solutions to scientists, engineering teams and business audiences
+
+Proven ability to convey rigorous technical concepts and considerations to non-experts
+
+Natural curiosity and desire to learn
+
+Fluency in a scripting or computing language (e.g. Python, Scala, C++, Java, etc.)
+
+Depth and breadth in quantitative knowledge. Excellent quantitative modeling, statistical analysis skills and problem-solving skills. Sophisticated user of statistical tools.
+
+Combination of deep technical skills and business savvy to interface with all levels and disciplines within our and our customer’s organizations
+
+Demonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment
+
+Experience in forecasting and time series is a plus

@@ -1,0 +1,13 @@
+Job Description:
+
+Mandatory Skills:
+Knowledge and experience in API development, AI/ML, SageMaker, Data Lake, Data Analytics, Cloud Monitoring, and Analytics.
+Strong cloud programming skills with experience in API and AWS Lambda functions or any other scripting languages like Python / Bash using Python and Node.js.
+Good understanding in using AWS CLI, Cloud formation, Terraform, Ansible with troubleshooting experiences.
+Strong knowledge of Cloud Security practices and IAM Policy preparation for AWS.
+Good to have:
+Knowledge of experience with implementing containers using AWS container services cloud-native container orchestrators in AWS.
+Strong working experience with AWS services as EC2, RDS, API Gateway, Lambda, DynamoDB, Elastic Cache, ECS, ALB/NLB Load Balancers, S3, EBS, VPC Networking, Secret Manager, Parameter Store, etc.
+Ability to participate in fast-paced DevOps and System Engineering teams within Scrum agile processes.
+Experience with DevOps tools will be an added advantage.
+Know-how of working with Python / Bash scripting will help.

@@ -1,0 +1,43 @@
+CircleUp harnesses the power of machine learning and predictive analytics to discover some of the fastest-growing companies in the consumer & retail sector. Our mission is to help entrepreneurs thrive by giving them the resources and capital they need. We are building a predictive data system called "Helio" to bring the data-driven revolution that has occurred in the public markets to the private markets, starting with consumer & retail.
+
+We are working on challenging problems in information retrieval, entity resolution, and machine learning. We are developing an in-depth knowledge graph of all private companies by mining vast amounts of data to successfully rewrite the rules on how private companies are evaluated.
+
+We are looking for a data scientist who will be responsible for a variety of different projects, including data collection, data analysis, and algorithm development. You will be working closely with engineers, product managers, and business development to move our data infrastructure forward. Prior experience with economic research is a big plus.
+
+CircleUp has been named one of the Top 5 Most Disruptive Companies in Finance by CNBC, one of the 50 Best FinTech Innovators by KPMG, Top 3 Most Innovative Companies within Data Science by Fast Company and one of America's Most Promising Companies by Forbes. We are backed by top-tier investors including Google Ventures, Union Square Ventures (backers of Etsy/Kickstarter), and the ex CEOs/Presidents of Goldman Sachs, Morgan Stanley, Thomson Reuters, the Stanford Endowment and Capital One.
+
+Responsibilities:
+
+Collect structured and unstructured data on private companies
+
+Be able to build, clean and analyze new and existing data pipelines
+
+Build end to end algorithms for assessing early stage consumer companies for growth equity investments
+
+Build causal and interpretable models
+
+Build reproducible backtests for proposed models / algorithms
+
+Work cross functionally with key stakeholders in engineering, product, and business development to help decide & prioritize what to build
+
+Come up with creative ways to find and use data that significantly impacts our key business metrics
+
+We get excited about those with:
+
+6+ years of experience working as a Data Scientist using modern technologies
+
+Excellent communication skills – Must be able to articulate their analysis and methodologies clearly and communicate insights in an easily accessible way to the team
+
+Must be excited about working in a fast and changing environment where solutions have not been already defined
+
+Ability to write code in at least one scripting language, preferably Python
+
+Experience with machine learning
+
+Not required, but nice to have:
+
+College Degree in statistics, computer science, engineering, physical sciences, economics or related technical field
+
+Strong background in Economics or economic research is a big plus
+
+Prior experience as a quantitate researcher at a quantitative investment firm/hedge fund is a big plus

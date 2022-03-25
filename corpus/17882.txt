@@ -1,0 +1,60 @@
+Job Description
+
+Position Summary:
+
+
+The Engineer, Data Warehouse will work as part of the Data Warehouse team within Constellation Brands Information Technology (CBIT) department. The mission of the Data Warehouse team is to bring together CBI’s systems, processes and information, in order to deliver the right information at the right time to the business community. The Engineer, Data Warehouse will be responsible for the implementation of our ETL processes and database development. Working mostly with internal team members to implement business requirements based on defined architectural direction, implement integration patterns and follow existing naming standards. This individual is expected execute the business requirements into the ETL processes and data models. In addition, this person will be expected to participate in design reviews, level 3 support, risk assessment and the derivation of future enhancements.
+
+Responsibilities:
+Perform requirement Gap Analysis against existing design to determine required modifications
+Develop logical and physical data models
+Create source to target data mappings to support ongoing development
+Develop technical design documents to define the flow of data and data standardization
+Develop using existing Database Object Naming Standards, Schemas, Tables, Columns, Indexes
+Collaborate with existing Data Warehouse resources to establish consistent architecture patterns to support development
+Collaborate with Enterprise Architect to establish consistent Integration Patterns
+Perform Level 3 support duties as required
+Work from technical specifications to develop technical solutions
+Focus on developing domain knowledge across all areas of the organization to become a true business technologist for the company
+Support and maintain the principles established through the SDLC Design
+Perform other duties as assigned by Manager
+Qualifications:
+
+Degree in Information Systems, Computer Science or equivalent experience is required
+2+ years of development experience with relational databases (Oracle, SQL Server, DB2, Teradata)
+2+ years of hands on experience as an ETL developer with experience in design
+Must have experience with software development, testing methodologies and models (Waterfall, Spiral, RAD, Agile, etc)
+Ability to understand ETL technical/functional specifications
+Must have experience with one or more ETL tools (ODI, OWB, Informatica, MSIS, WMB)
+Should have experience in loading data into Oracle database from flat files, excel spreadsheet, XML files using utilities (like SQL Loader) or other ETL tools
+Experience in Linux and ftp/sftp a plus
+Experience with AWS, Java API, LDAP, ADF is a plus
+Experience working with SAP data structures is a plus
+Conceptual, logical and physical data modeling through use of data modeling tools is a plus
+Experience working with BI tools (MicroStrategy, Cognos, OBIEE, Tableau, MS Power BI etc.) is a plus
+ADA Physical/Mental/Workplace Requirements:
+Occasional lifting to 25 lbs
+Sitting, working at desk/personal computer for extended periods of time
+Primary work environment is professional corporate office
+Must be able to travel commercially and internationally
+Must have a valid driver’s license
+Must have a valid passport
+Location
+
+Victor, New York
+
+Additional Locations
+
+Canandaigua, New York, Chicago, Illinois, San Antonio, Texas
+
+Job Type
+
+Full time
+
+Job Area
+
+Information Technology
+
+Equal Opportunity
+
+Constellation Brands is committed to a continuing program of equal employment opportunity. All persons have equal employment opportunities with Constellation Brands, regardless of their sex, race, color, age, religion, creed, sexual orientation, national origin or citizenship, ancestry, physical or mental disability, medical condition (cancer or genetic characteristics), marital status, gender (including gender identity or gender expression), familial status, military or veteran status, genetic information, pregnancy, childbirth, breastfeeding, or related conditions (or any other group or category within the framework of the applicable discrimination laws and regulations).

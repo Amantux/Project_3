@@ -1,0 +1,55 @@
+About IST Research
+
+IST Research creates technology to address human security challenges. We built the Pulse Platform to address some of the most urgent human security issues faced by the world’s most vulnerable populations, specifically transnational crime and global extremism. Our Pulse Platform is used to engage with populations around the world to provide insight into their thinking and engaging them in a two-way conversation. Pulse also has the added capability of scraping open data across the surface, deep, and dark web to provide a robust view of the Information Environment in which one is operating.
+
+Position Details
+
+IST Research is seeking a full-time data scientist to support on-site customer operations for a government customer. This position will involve studying data from various social media platforms and other online sources, investigating and pursuing the development of methods to analyze and extract information from the data (for example, classification models, trend analysis, clustering, threat detection), and making recommendations for / supporting the development of cloud-based machine learning systems to support customer operations. An ideal candidate should enjoy working in ambiguous and highly flexible work environments, solving complex problems dealing with current/future national security issues.
+
+Location: Fort Belvoir, VA
+
+Requirements:
+
+At least 2 years of Python & R experience on the job, including some machine learning work
+
+Experience with ElasticSearch and distributed computing frameworks
+
+Coursework in computer science as well as statistics, data science, or machine learning
+
+Comfortable with and knowledge of basic statistics and machine learning including probability sampling, statistical significance, classification methods, supervised/unsupervised learning
+
+An interest in cutting-edge and challenging engineering and data science problems
+
+Experience in performing investigations of criminal or illicit groups/networks is a plus
+
+Active TS/SCI
+
+IST Research Values
+
+At IST Research, culture is a driving force and culture fit is a critical aspect of candidate selection and success. Here are the Values we subscribe to as an organization and if they resonate with you and you have the appropriate skills and experience, you’re encouraged to apply.
+
+"Afghanistan + Burning Man"
+
+At IST we do some really weird stuff. We are operating in parts of the world that no one else is operating. We seek teammates that can take off their western lens and operate as "good strangers" around the world. There is a serious focus on Hospitality in the Afghan culture that we want to embrace as we travel the world and welcome others to our spaces. Burning Man's self-reliance, civic responsibility, and participation principles ring true for us here.
+
+"Sledge Hammer"
+
+Be prepared to deliver impact like a sledgehammer; we do not work on easy problems or answer trivial questions. We are fighting human trafficking, battling propaganda machines, and bypassing oppressive regimes. The pace at IST Research is intense and we have found that it really isn't for everyone. These waters are deep, fast, and wide. If you can’t swim at the outset, you’ll drown. If you can swim, you’ll be fine-and you’ll get better at swimming as the time goes on, we are teammates counting on each other all of the time.
+
+"No Other Room"
+
+We often assume that our good ideas must, surely, not be original; that someone else must be currently working on the same thing and that somewhere there is a room full of very smart people working to solve this problem right now. Over and over we have proven to ourselves that there is no other room. We are the team that break open communications in the hardest to reach parts of the world and start conversations with the most vulnerable populations to improve their lives.
+
+"Lewis and Clark"
+
+Charting your own path is the name of the game at IST Research. As an extreme meritocracy, there is no pre-described career path here. Your path is the one you create through your own efforts and ideas. Our goal is to find teammates that are fearless explorers and then allow them to chart their own course. We function in an interesting combination of ambiguity and autonomy. We want you to chart your own path without fear of micromanaging. Blazing your own trail is not only allowed, it's encouraged.
+
+"Addams Family"
+
+Our HQ is in a big old house (might be haunted) in Historic Fredericksburg and the people of the company behave (and sometimes misbehave) like a family. We are diverse in habit and thought, but the diversity makes us stronger. There is much wrapped up in this value but think about the raw, honest conversations that happen around the dinner table, the unwavering support you get during trying times, the chaos surrounding large family events, and the fact that sometimes you just have to do some things that aren't your favorite but the family needs it done.
+
+Awards
+
+IST Research has been recognized by Inc. Magazine as one of the Fastest Growing Companies 3 years in a row - https://www.inc.com/profile/ist-research as well as being honored as an Inc. Magazine ‘Best Workplaces’ winner - https://www.inc.com/profile/ist-research-corp
+
+Learn more at: https://www.istresearch.com IST Research is an equal opportunity employer. All aspects of employment including the decision to hire, promote, discipline, or discharge, will be based on merit, competence, performance, and business needs. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, genetic information, gender, sexual orientation, gender identity or expression, veteran status, or any other status protected under federal, state, or local law.

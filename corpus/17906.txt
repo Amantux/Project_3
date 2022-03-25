@@ -1,0 +1,32 @@
+Job Description
+Company Description
+
+NOCD is an award-winning digital health company focused on identifying people with obsessive-compulsive disorder (OCD) and managing them using evidence-based treatment. Although OCD affects over 181 million people globally, is ranked by the W.H.O. as a top 10 most disabling condition, and costs 3X more to treat than depression, over 90% of the OCD population isn’t able to access effective care due to stigma and misdiagnosis. As a result, OCD patients often go untreated and suffer in silence, which is why it’s nicknamed "the secret illness.”
+
+NOCD is solving this global problem by identifying OCD patients online and managing them using our evidence-based OCD treatment platform. Inside NOCD, members can access a licensed mental health professional with specialty training in OCD who can offer online diagnostic interviews, video-based tele-therapy sessions, and message-based support. In between each session, members can access moderated support communities and tech-enabled therapeutic tools to ensure they have constant support whenever their provider isn’t around. In an integrated model using our app, researchers at Columbia Medical Center found it to be effective in reducing symptoms of OCD.
+
+Today, NOCD manages the largest community of OCD patients in the world. We’re financially supported by 7wire Ventures, Chicago Ventures, Meridian Street Capital, and Hyde Park Angels. We’re changing the world and need other like-minded individuals to accelerate and expand our efforts.
+
+Job Description
+Lead data analysis projects to generate actionable insights and implement those insights into the company's product.
+Collaborate with the product development cycle to measure effectiveness of features and contribute to the direction of the product.
+Coordinate with our clinical team to understand what can be done to accelerate positive outcomes.
+Help sales teams understand what is important to share and show how data can be used to shed light on the misunderstood nature of OCD.
+Work with marketing team to identify what channels resonate with our users and what types of content to make
+Present findings to team
+Qualifications
+Expert in SQL and high-level languages such as Python
+Expert in maintaining data warehouses and ETL pipelines (our data warehouse today is MySQL and ETL is done through periodic python scripts)
+Experience with Business Intelligence Solutions for consuming the final datasets (we currently use metabase)
+Strong computer science fundamentals, algorithms, data structures
+Excellent communication skills
+Authorized to work in the U.S
+Willing to work full time out of our Chicago office
+Additional Information
+Casual, challenging, and engaging startup environment with an outstanding mission driven team atmosphere
+Competitive compensation
+Comprehensive benefits package, including medical, dental, vision coverage, and 401(k).
+Flexible PTO policy
+Awesome office on Michigan Avenue, ability to work remotely
+Onsite amenities including a fitness center
+NOCD is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees. Therefore, we provide employment opportunities without regard to age, race, ethnicity, national origin, religion, disability, sex, gender identity or sexual orientation, or any other protected status in accordance with applicable law

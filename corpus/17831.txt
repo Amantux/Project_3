@@ -1,0 +1,38 @@
+Founded in 2016, Leaf Trade is a technology company whose platform facilitates ordering and fulfillment in highly regulated cannabis markets. Using the features on Leaf Trade’s platform, vendors can streamline all order fulfillment processes, increase sales through custom storefronts, and generate powerful reports and analytics. Dispensaries can leverage Leaf Trade’s tools to discover trending products through its data-driven shopping process, easily request samples and marketing materials, and manage orders from their customers from start to finish. Headquartered in Chicago, Leaf Trade is partnered with five of the largest multi-state cannabis operators and itself operates in 16 states.
+About the Role
+Leaf Trade is a fast-paced, high-growth startup in a marketplace that is multiplying in size every day. To continue to lead the marketplace and provide additional value to our clients, we are expanding our capabilities in data science and predictive analytics.
+We are looking for a self-managing, organized and intelligent candidate to take on the responsibility of ingesting, staging, and analyzing large transactional datasets. You will manage and prioritize all quantitative analysis projects, and deliver business-quality results partnering with our development team to build products based on your work.
+You will provide interesting and actionable insights into the business at a macro - and client level, and build robust predictive analysis tools to help guide internal and client decision making. You will expose your data products via API endpoints that can be used to deliver customer-facing features.
+Most of all, you will be a part of the heart of our team, touching all aspects of the business and working with a top-quality team that is driven by data, excellence, and customer experience.
+Key Responsibilities:
+Architect and design a data warehouse from the ground up.
+Create and manage ETL operations.
+Determine the most effective way to store, report, and leverage data for data science.
+Ability to deliver ad-hoc reporting and identify trends in ad-hoc requests to determine and then build out reporting features that benefit all clients.
+Basic Qualifications:
+5+ years of SQL experience
+5+ years of experience setting up database environments, database schema, and managing deploys/ updates to the schema.
+3+ years of experience with ETL tooling.
+3+ years of architecting data warehouses.
+BONUS POINTS FOR CANDIDATES WITH…
+A bachelor’s degree in Actuarial Science, Math, Statistics, Engineering, Data Science, Computer Science or other related majors, or equivalent experience.
+Solid experience with Python or Ruby on Rails.
+Data visualization knowledge including the usage of Tableau or Power BI.
+Experience configuring infrastructure components via code, ideally using Terraform, is a plus.
+Experience with AWS, Azure, or Google Cloud Platform (GCP)
+Familiarity with scientific tools such as R or SPSS is a plus.
+Experience in data visualization.
+Published apps, websites, or contributed to open source libraries (feel free to include with application).
+Strong intellectual curiosity and passion to learn.
+Excellent organizational, communication, and time management skills.
+Ability to take complex/ technical ideas and distill them into simple and intuitive code.
+Comfortable performing in a fast-paced and ever-evolving business.
+Ability to analyze and apply creative problem solving both independently and collaboratively within a team.
+Benefits
+Competitive salary and meaningful equity
+Health insurance
+Vacation days, sick days, and corporate holidays
+Complimentary gym membership
+Fast growth environment with potential for quick upward mobility
+Vibrant company culture within a casual environment
+Leaf Trade is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law.

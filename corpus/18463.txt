@@ -1,0 +1,29 @@
+About us:
+Oncora is an oncology software and data company dedicated to helping physicians and scientists collect and use real-world data to improve outcomes for cancer patients. Our products include: a workflow integrated data capture software system for radiation oncology, a data warehouse to amass real-world, regulatory-grade oncology data, a predictive model API with machine learning algorithms to power partner software, and a life sciences partner product leveraging automated medical image analysis to advance new technologies in the fight to cure cancer. We work with world-leading cancer centers such as MD Anderson and Northwell Health, and our team is mission-driven to its core.
+
+About the role:
+We are looking for a talented software engineer with expertise in medical imaging to join our team to help develop infrastructure and algorithms to leverage medical images to learn from every cancer patient. We are a close-knit team trying to tackle a very large problem, so we need teammates that are ultimately accountable to themselves and continuously push themselves, the product and the organization forward. You will play a vital role in developing imaging infrastructure and algorithms and will work closely with our CEO on strategic projects.
+
+What you will be doing:
+Support medical imaging analysis through Oncora’s platform
+Develop Oncora’s platform to support the acquisition of relevant medical images
+Implement automated analysis pipelines using tools like gdcm, pynifti, pydicom
+Contribute to the architecture and design of the Oncora platform
+Work with complex algorithms, from creation to implementation
+
+Things that we look for:
+1-3 years of relevant experience
+Preferably M.S. or Ph.D. with a focus on medical imaging
+Experience developing applications and pipelines using python or R
+Experience working with images and image metadata and DICOM networking
+Solid understanding of good programming practices
+
+Compensation, Benefits, and Perks:
+Salary: $80-110k plus stock options
+401k (no match currently) and health insurance
+Flexible vacation
+Allowances: eBooks, online courses, workstation setup
+Events: Team happy hours, dinners, and lectures from oncologists, scientists, entrepreneurs
+Work with smart, passionate people on a product that will have a direct impact on the quality of life for cancer patients
+
+Oncora Medical is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, age, sex, religious creed, disability, ancestry, national origin, sexual orientation, gender identity, or gender expression.

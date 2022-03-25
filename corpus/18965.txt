@@ -1,0 +1,78 @@
+High performing team members. Challenging projects. A stable and profitable company. And a great place to work! This is what you can expect if you join the Catapult Systems team. Founded in 1993 and headquartered in Austin, Texas, Catapult is an award-winning Microsoft National Solution Provider, recently being named Microsoft's 2019 Partner of the Year for PowerApps and Modern Workplace, as well as Partner of the Year Finalist for Power BI.
+
+What do we attribute our award-winning success to? The people we hire, of course! We provide you the tools and leadership that you need to be successful, enable you to make decisions, and we trust your judgment. This type of ownership and independence, and an ongoing commitment to solving real business problems through the innovative use of Microsoft technologies, has resulted in Catapult being voted one of the best places to work year after year!
+
+It is a very exciting time of growth for Catapult, and we are currently hiring a Security and Infrastructure Engineer with a diverse technical background to provide technical expertise and leadership for our expanding Security and Endpoint management teams across the U.S.
+
+What will my role be?
+
+As an integral part of Catapult's growing infrastructure solutions team, you will architect and lead EM+S implementations, Endpoint management services, version/technology migrations, and infrastructure management for Catapult clients. In this role, you will work with our clients to design the architecture, roadmap the build out, and deploy the solutions (partial or full suite). You will also be instrumental in supporting the Catapult sales team with new account pursuits and solution positioning.
+
+Some of your activities will include:
+Working with technical managers and staff to understand client infrastructure
+Coaching and mentoring team members regarding client interaction and work delivery
+Setup and configuration of Azure AD Premium to support SSO & MFA
+Azure AD Rights Management, Identity, and Conditional Access
+Building and deploying EM+S solutions to meet client needs and requirements
+Enrolling and managing devices with Intune and SCCM
+Guiding client transitions to Endpoint Manager and co-management
+Developing, updating, and managing PowerShell scripting for automation
+Assisting clients with security incident response and remediation of any related infrastructure situations
+What's required?
+First and foremost, you should enjoy security and have a passion for sharing knowledge!
+Ability to engage in customer settings and discern client business needs
+Desire to work in a team environment and ability to work across organization functional boundaries
+Ability to make decisions, manage time effectively to a delivery plan/schedule and take ownership of delivery assignments both independently and within teams
+Advanced organizational skills with demonstrated ability to organize teams towards a common objective/goals
+Technical Skills
+Active Directory, Azure Active Directory, ADFS, Hybrid Domain
+MS Security Stack & EM+S
+Azure Identity Management and Conditional Access
+Experience multi-factor authentication (MFA) and RMS
+Microsoft Information Protection
+Azure Information Protection
+Privileged Identity Management
+Azure ATP
+Experience working with ATA (Advanced Threat Analytics)
+Azure Security Center
+O365 ATP Tools (Phishing & Malware) & Threat Intelligence
+O365 Data Loss Prevention
+O365 Threat Intelligence
+O365 Security Center
+Cloud App Security
+Good working knowledge of Azure Infrastructure
+Windows 10, Windows Hello, Windows Defender, Windows Defender ATP, Windows Information Protection & Windows Defender Security Center
+Microsoft Endpoint Config Manager & Intune
+Network Fundamentals - DNS, TCP/IP, Firewalls, Port Settings, etc.
+MS Server & Services
+Web Services, DNS, & Security Certificates
+Functional knowledge PowerShell and Azure Automation
+A bachelor's degree in Computer Science or equivalent
+The ability to travel part-time.
+What would set me apart?
+Certifications
+MS-500
+AZ-500
+MS-900
+Microsoft 365 Certified: Security Administrator
+Microsoft 365 Modern Desktop Administrator
+CompTIA Security+
+CISSP
+Azure Sentinel (a plus)
+• SQL Server (a plus)
+• Functional knowledge of Exchange Online
+Ideally, you will reside in one of our current regions where we have an office, but it's not mandatory:
+Austin, TX
+Denver, CO
+Phoenix, AZ
+Tampa, FL
+Dallas, TX
+San Antonio, TX
+Houston, TX
+So what are you waiting for?? If you are passionate about being a leader and want to work with smart people that are committed to accomplishing great things, then apply today!
+
+Catapult offers an outstanding benefits package including 401(k) match, paid time off, flex spending accounts, identity theft protection, and medical, dental, and life insurance – just to name a few.
+
+Catapult continually named among the Best Places to Work!
+
+Catapult is an Equal Opportunity Employer

@@ -1,0 +1,137 @@
+At American Family Insurance, we’re driven by our customers and employees. That’s why we provide more than just a job – we provide opportunity. Whether you’re already part of our team in search of a new challenge or new to our company and ready for what’s next, you’re in the right place. Every dream is a journey that starts with a single step. Start your journey right here. Join our team. Bring your dreams.
+
+Job ID:
+R14533 Data Engineering Manager (Open)
+Summary:
+Leads the development of data processing systems and interfaces, which support data science efforts, with a focus on enabling scalable, high performance, distributed computing environments. Researches new data processing technologies, building prototypes as needed, and participating in related leadership activities. Contributes to the implementation of machine learning and statistical algorithms, including making them more efficient and scalable. As a leader of the engineering team and in collaboration with the Data Science team, works closely with scientists and contributes to the modeling and data mining efforts.
+
+Job Description:
+
+
+Primary Accountabilities
+
+Data Science Infrastructure Design, Development, and Operations
+Lead architectural planning, design, development, deployment, and management of analytical environments capable of ingesting, processing, and analyzing large, diverse data sets containing structured and unstructured elements.
+Determines high level system integrations, primary dependent systems and infrastructure needed to implement the proposed business idea.
+Analyzes architecture portfolios to assess opportunities for improvement and identify changes needed to meet strategic business needs.
+Modify analytical architectures over time as technologies and DSAL needs evolve.
+Data Science Research Support
+Participate in the definition and planning of analytical projects to solve complex business problems as the key technical resource in the areas of data processing and scalable analytical and computational platforms.
+Support quick turnaround for data science projects that provide time sensitive insights by facilitating ingestion, transformation, and processing of data, by developing software or scripting for efficient analytical processing, by rapidly deploying visualization or business intelligence tools and dashboards, or by contributing other technical skills, including software development, as appropriate.
+Maximize the predictability, efficiency, effectiveness, and maintainability of data science-related infrastructure elements with a focus on analytical compute environments.
+Develop means for automating data- and analytics-related systems and processes, as appropriate, to support data science activities.
+Lab Environment Operational Oversight
+Communicates and applies master data management practices as defined by American Family`s Enterprise Data Management as well as the Strategic Data & Analytics divisions, processes and guiding principles to the Lab`s data environment.
+Establishes and federates the standards and processes for the effective governance, quality, integrity, and timeliness of all data accessed, ingested and exported within the Lab infrastructural systems.
+Manages contractual terms and fulfillment from third party vendors for both technical products and services.
+Technology Strategy
+Analyzes business and technology trends related to data architecture, data engineering, data management, and high performance computing to provide expertise to management and resources within DSAL, the Venture Capital group, and other areas of the Business Development division.
+Participates in the development of policies, standards, and guidelines that direct the selection, development, implementation, and use of architecture technologies within the unit.
+Function in a collaborative technical consultancy role to routinely contribute technical expertise in discussions with senior management.
+Strategies Linked to the Division’s Business Goals/Results
+Establishes, communicates, and implements departmental plans, objectives, and strategies.
+Participates as a member of the Management Team.
+Maintains an active awareness of American Family's business environments, corporate culture, and structure to support key decision-making.
+Management/Leadership for Department or Unit
+Manages direct reports, systems, and projects to achieve department/unit goals in accordance with Company policies and practices.
+Prepares and analyzes department/unit plans and reports.
+Provides leadership by exhibiting influence and expertise, thus affecting the results of the operating area.
+Creates an effective work environment by developing a common vision, setting clear objectives, expecting teamwork, recognizing outstanding performance, and maintaining open communications.
+Develops staff through coaching, providing performance feedback, providing effective performance assessments, and establishing performance & development plans.
+Specialized Knowledge & Skill Requirements
+Demonstrated experience providing customer-driven solutions, support or service
+Advanced knowledge and experience using a variety of programming languages to implement and operate data science infrastructure assets (e.g., Scala, Python, Java, R, C/C++).
+Demonstrated entrepreneurial experience working with technology focused startups.
+Demonstrated experience developing and managing complex technical projects involving parallel or distributed computing, including Hadoop, the Apache Stack (Spark, Storm, Kafka, etc.), and related technologies.
+Demonstrated experience working across a broad range of information technology domains, including application, data, infrastructure, and security with specific expertise in design, development, and deployment of data- and analytics-related platforms and tools.
+Demonstrated experience working with or on a Data Science team and familiarity with data mining and machine learning techniques.
+Extensive knowledge and understanding of data management strategies and roadmaps as well as data architectural design models.
+Familiarity with a wide variety of data formats and processing methodologies.
+Familiarity with relational database design and SQL scripting.
+Strong willingness to adapt, pivot, and learn as needed to address emerging opportunities and challenges.
+Willingness to contribute technically in whatever manner is needed to get the job done.
+Travel Requirements
+This position requires travel up to 5% of the time.
+Additional Job Information:
+
+
+This role will require candidates to be strong technically and have had some prior leadership experience. Candidates should be able to demonstrate ability in Python, SQL, and knowledge of operating in a cloud environment.
+
+Offer to selected candidate will be made contingent on the results of applicable background checks.
+
+Offer to selected candidate is contingent on signing a non-disclosure agreement for proprietary information, trade secrets, and inventions.
+
+Relocation assistance is available.
+
+Stay connected: Join our Talent Community!
+
+LI:DB1
+
+At American Family Insurance, we’re driven by our customers and employees. That’s why we provide more than just a job – we provide opportunity. Whether you’re already part of our team in search of a new challenge or new to our company and ready for what’s next, you’re in the right place. Every dream is a journey that starts with a single step. Start your journey right here. Join our team. Bring your dreams.
+
+Job ID:
+R14533 Data Engineering Manager (Open)
+Summary:
+Leads the development of data processing systems and interfaces, which support data science efforts, with a focus on enabling scalable, high performance, distributed computing environments. Researches new data processing technologies, building prototypes as needed, and participating in related leadership activities. Contributes to the implementation of machine learning and statistical algorithms, including making them more efficient and scalable. As a leader of the engineering team and in collaboration with the Data Science team, works closely with scientists and contributes to the modeling and data mining efforts.
+
+Job Description:
+
+
+Primary Accountabilities
+
+Data Science Infrastructure Design, Development, and Operations
+Lead architectural planning, design, development, deployment, and management of analytical environments capable of ingesting, processing, and analyzing large, diverse data sets containing structured and unstructured elements.
+Determines high level system integrations, primary dependent systems and infrastructure needed to implement the proposed business idea.
+Analyzes architecture portfolios to assess opportunities for improvement and identify changes needed to meet strategic business needs.
+Modify analytical architectures over time as technologies and DSAL needs evolve.
+Data Science Research Support
+Participate in the definition and planning of analytical projects to solve complex business problems as the key technical resource in the areas of data processing and scalable analytical and computational platforms.
+Support quick turnaround for data science projects that provide time sensitive insights by facilitating ingestion, transformation, and processing of data, by developing software or scripting for efficient analytical processing, by rapidly deploying visualization or business intelligence tools and dashboards, or by contributing other technical skills, including software development, as appropriate.
+Maximize the predictability, efficiency, effectiveness, and maintainability of data science-related infrastructure elements with a focus on analytical compute environments.
+Develop means for automating data- and analytics-related systems and processes, as appropriate, to support data science activities.
+Lab Environment Operational Oversight
+Communicates and applies master data management practices as defined by American Family`s Enterprise Data Management as well as the Strategic Data & Analytics divisions, processes and guiding principles to the Lab`s data environment.
+Establishes and federates the standards and processes for the effective governance, quality, integrity, and timeliness of all data accessed, ingested and exported within the Lab infrastructural systems.
+Manages contractual terms and fulfillment from third party vendors for both technical products and services.
+Technology Strategy
+Analyzes business and technology trends related to data architecture, data engineering, data management, and high performance computing to provide expertise to management and resources within DSAL, the Venture Capital group, and other areas of the Business Development division.
+Participates in the development of policies, standards, and guidelines that direct the selection, development, implementation, and use of architecture technologies within the unit.
+Function in a collaborative technical consultancy role to routinely contribute technical expertise in discussions with senior management.
+Strategies Linked to the Division’s Business Goals/Results
+Establishes, communicates, and implements departmental plans, objectives, and strategies.
+Participates as a member of the Management Team.
+Maintains an active awareness of American Family's business environments, corporate culture, and structure to support key decision-making.
+Management/Leadership for Department or Unit
+Manages direct reports, systems, and projects to achieve department/unit goals in accordance with Company policies and practices.
+Prepares and analyzes department/unit plans and reports.
+Provides leadership by exhibiting influence and expertise, thus affecting the results of the operating area.
+Creates an effective work environment by developing a common vision, setting clear objectives, expecting teamwork, recognizing outstanding performance, and maintaining open communications.
+Develops staff through coaching, providing performance feedback, providing effective performance assessments, and establishing performance & development plans.
+Specialized Knowledge & Skill Requirements
+Demonstrated experience providing customer-driven solutions, support or service
+Advanced knowledge and experience using a variety of programming languages to implement and operate data science infrastructure assets (e.g., Scala, Python, Java, R, C/C++).
+Demonstrated entrepreneurial experience working with technology focused startups.
+Demonstrated experience developing and managing complex technical projects involving parallel or distributed computing, including Hadoop, the Apache Stack (Spark, Storm, Kafka, etc.), and related technologies.
+Demonstrated experience working across a broad range of information technology domains, including application, data, infrastructure, and security with specific expertise in design, development, and deployment of data- and analytics-related platforms and tools.
+Demonstrated experience working with or on a Data Science team and familiarity with data mining and machine learning techniques.
+Extensive knowledge and understanding of data management strategies and roadmaps as well as data architectural design models.
+Familiarity with a wide variety of data formats and processing methodologies.
+Familiarity with relational database design and SQL scripting.
+Strong willingness to adapt, pivot, and learn as needed to address emerging opportunities and challenges.
+Willingness to contribute technically in whatever manner is needed to get the job done.
+Travel Requirements
+This position requires travel up to 5% of the time.
+Additional Job Information:
+
+
+This role will require candidates to be strong technically and have had some prior leadership experience. Candidates should be able to demonstrate ability in Python, SQL, and knowledge of operating in a cloud environment.
+
+Offer to selected candidate will be made contingent on the results of applicable background checks.
+
+Offer to selected candidate is contingent on signing a non-disclosure agreement for proprietary information, trade secrets, and inventions.
+
+Relocation assistance is available.
+
+Stay connected: Join our Talent Community!
+
+LI:DB1

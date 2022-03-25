@@ -1,0 +1,26 @@
+The Technical Data Analyst/Architect is responsible for designing and maintaining accurate descriptive, predictive, and prescriptive analytical solutions that will provide meaningful intelligence to the end user. Design, implement and automate accurate ETLs.
+
+Essential Duties and Responsibilities
+Collect business requirements to develop high-quality analytical solutions across all departments in organization. Generate, maintain, and automate business visualizations/dashboards/KPIs in Tableau
+Define and document data warehousing/ETL requirements through implementation and testing. Use of JSON/SQL to schedule and pipe data to (Snowflake) EDW using (Mitto) ETL tool.
+Validation and reconciliation of big data sets using SQL and relational data bases.
+Train and coach staff on using/building visualizations in Tableau.
+Excellent documentation skills to accurately and succinctly document SQL code. Actively contribute to data dictionaries.
+Contribute to the continuous improvement of the overall data infrastructure.
+Perform other duties as assigned.
+Minimum Qualifications
+Bachelors degree in analytics, mathematics, computer science, engineering, business or related field.
+2+ years experience in analytics, business intelligence, data architecture, data science or equivalent.
+Experience with data visualization software (preferably Tableau), SQL and advanced Excel skills required.
+Strong understanding of data and ETL architecture principals and data warehousing principles/techniques.
+Experience with Snowflake and JSON preferred.
+Background in pharmaceutical and/or health care industry a plus.
+Strong interpersonal and communication skills.
+Ability to balance multiple tasks simultaneously.
+Attention to details.
+Some travel may be necessary.
+Remote may be considered for the right candidate. Salary DOE
+
+Headquartered in Lehi Utah USA, Civica, Inc. is a nonprofit, non-stock corporation formed in 2018 by hospitals, health care systems, and philanthropists that uses a new economic model to prevent shortages and provide a reliable supply of quality generic drugs at a fair price.
+
+The Civica model brings together hospital systems and drug manufacturers to work collaboratively, ensuring both stable and fairly priced generic drugs for hospitals and fair profits at predictable volumes for manufacturers.

@@ -1,0 +1,22 @@
+Jump is committed to building a world class direct trading business. We are a significant contributor to the orderly trading of a variety of asset classes worldwide including equities, futures, commodities, currencies and fixed income markets while providing liquidity on over 100 venues. As a Direct Trading Support engineer, you have an opportunity be responsible for weekend operation of the direct trading environment. This includes onboarding new direct trading participants, providing technical knowledge to the business development process for identifying new direct trading opportunities, working with developers to design and implement new features, and building new tools to scale and understand the trading system. The hours for this role are 6pm – 6am CT, Friday – Sunday, as well as all Singapore holidays.
+
+What you'll do:
+Providing front-line response to incidents and outages
+Assisting parties through the onboarding and conformance process
+Responding to internal and external support requests
+Implementing configuration changes and software upgrades
+Creating tools to automate configuration management, deployment, monitoring, and troubleshooting
+Creating tools to assist in the analysis of data collected through the trading system
+Planning long-term roadmap for the trading system, from capacity to tools to software features
+Working with developers to design and implement features in the trading system
+Skills you'll need:
+At least 4 years' experience supporting a production trading environment and supporting trading counterparties
+Comfortable with Python and the ability to write and understand simple to moderate scripts
+Experience with devops/CICD tools such as Jenkins, ansible, git
+Good knowledge of FIX protocol
+Demonstrated ability to exercise discretion in making decisions
+Ability to successfully manage multiple tasks in a fast-paced environment
+Excellent English communication skills, both written and oral
+A rigorous, detail-oriented approach to operations
+Ability to handle shared operational and periodic on-call duties
+Ability to work overnight weekend hours, as well as attend ad hoc meetings with the team during standard Chicago business hours on a weekly basis

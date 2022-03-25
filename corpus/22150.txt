@@ -1,0 +1,30 @@
+Department Overview:
+Fitch Ratings has launched a Data Tribe to support the collection, management and governance of financial data used across the entire firm. Within the Data Tribe is a Data Platform Center of Excellence (“CoE”). This team is responsible for designing and implementing our next generation data architecture. With a focus on building platforms for reuse and harnessing leading-edge technologies, the Data Platform CoE will work with agile squads across Fitch to support the efficient collection, management and delivery of data. The Data Platform CoE builds scalable, forward-thinking, and cost-effective platforms in partnership with Fitch’s technology and business groups..
+Who we are looking for:
+Someone who understands how to be an effective liaison between the Data Platform CoE and its “customers”. You’re an energetic team member that understands the requests of our customers, and delivers solutions to meet that need. You have a passion for working with people and teams to help them improve and deliver their best work. You are an experienced business systems analyst with experience in financial services data, who understands the compliance and risk environment. You’ll deliver excellent and highly detailed specifications and analysis to help your squad build world-class data solutions.
+Key responsibilities:
+• Drive analysis of complex data to ensure lineage tracing, technical monitoring and quality monitoring requirements are well understood.
+• Participate in Use Case Squads to capture data processing and consumption needs that the Platform CoE can automate.
+• Provide Acceptance Criteria for testing
+• Provide feedback, clarify requirements and answer questions to Data Platform lead
+• Participate in backlog grooming and prioritization
+• Work closely with sponsors and management at all levels to understand goals & objectives
+• Identify system and product interdependencies
+• Identify continuous improvement opportunities & best practices to progress CoE mission
+Requirements:
+• Bachelor’s degree in Computer Science, Finance or Business Management, or equivalent experience
+• Agile practitioner capabilities & experience working with or in Agile teams pursing complex engineering work
+• 3-5+ years of practical, hands-on experience as a data engineer, architect, or analyst
+• Experience in coaching and development a team of engineering professionals.
+• Ability to think creatively and brainstorm to find solutions for challenges
+• A continuous improvement mind-set and dedication to uncovering better ways of working
+• Excellent communications and people-interaction skills
+• Commitment to organization’s new way of working through greater collaboration & breaking down of siloes
+• Knowledge of database design and modeling, including relational, object, graph, and document databases.
+• Excellent data mining skills
+• Experience with ETL platforms, ingestion patterns, and data stewardship (Talend)
+• Knowledge of messaging and streaming (Oracle AQ, JMS, Kafka, Amazon Kinesis)
+• Familiarity with data governance and lineage systems (Collibra, Octopai, Kylo)
+Fitch is an equal opportunity employer that employs people across the full spectrum of society. Fitch works hard to create a workplace with an emphasis on inclusion, innovation and merit. By valuing diversity and equality in our workplace, we believe it adds strength to our business.
+Fitch is committed to providing global securities markets with objective, timely, independent and forward-looking credit opinions. To protect Fitch’s credibility and reputation, our employees must take every precaution to avoid conflicts of interests or any appearance of a conflict of interest. Should you be successful in the recruitment process at Fitch Ratings you will asked to declare any securities holdings and other potential conflicts for you and your Family Members prior to commencing employment. If you, or your Family Members, have any holdings that may conflict with your work responsibilities, they must be sold before beginning work. In certain roles, employees and their Family Members may be limited to investments in diversified mutual funds only.
+For more information about this policy, please visit the Code of Ethics and Conduct page.

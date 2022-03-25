@@ -1,0 +1,61 @@
+Truckstop.com is hiring a Senior Software Development Engineer in Test at any of our locations.
+
+
+About Truckstop.com
+
+Truckstop.com is one of the largest online freight matching services in the trucking industry, providing a one-stop connection between carriers and brokers. Founded in 1995 as the first freight-matching marketplace to hit the Web, Truckstop.com has grown to provide load planning, transportation management, route optimization, real-time rates, powerful negotiation tools, and other logistics solutions. Clickhere to learn more about Truckstop.com’s history.
+
+Truckstop.com is backed by ICONIQ Capital, a privately-held financial advisory and technology growth equity investment firm. ICONIQ is a trusted advisor fostering meaningful strategic relationships across industries to source powerful ideas, magnify global impact and support a new generation of entrepreneurs and companies.
+
+About our Culture
+
+Truckstop is a destination where talented individuals can build an epic career. It is a place where talent feels connected, fulfilled and equipped to do what they do best while having fun doing it. We call our employees Partners because we are deeply interdependent upon each other to achieve remarkable things together. We believe that for talent to be their best selves, we must enable them with the freedom to exercise their own judgment, and provide them with the autonomy to experiment, to innovate, and test where they can go, so they can do something they never thought they could. Each of our Partners is unique. Be you is the message we foster. We look for Partners who are aware of, and who are confident in their talents and who are passionate about serving others. We will achieve massive success when you can be yourself.
+
+E pluribus unum -Out of many, one
+
+We look for Partners who enjoy working in a One Team mindset environment. By combining our unique personalities, experiences, skills and knowledge we can accomplish amazing feats together!
+
+Truckstop.com does not utilize third party vendors for recruiting, nor accept unsolicited resumes from recruiters, staffing agencies or employment firms.
+
+Position Summary:
+
+
+The Software Development Engineer in Test (SDET) works as part of a team within a fast-paced, fun, challenging and creative environment in order to achieve team-oriented goals. The SDET will provide analysis and testing of enhancements, modifications, and new development for our software products and services; work as a member of an Agile Squad within the Technology organization; and work directly with the software developers to ensure that the project deliverables work properly before they become available to the end users. The ideal Software Development Engineer in Test is one well-versed in agile methodologies, has a constant focus on improving the QA process, is excellent at communication and can thrive in a fast-moving, hyper-growth environment.
+
+Essential Job Functions:
+Skilled at Agile software development, TDD, and CICD
+Develop, run, and maintain automated tests and test automation framework using tools like RestSharp, RunScope, Postman, and Cypress for microservices and web-based applications
+Collaborate with other squad or tribe members to define test automation needs prior to deployment
+Analyze projects and stories to prepare test plans, test cases, and test data for automation
+Execute needed automated tests and prepare test summary reports with findings
+Report, troubleshoot issues, and identify location of defects for resolution
+Lead specific test automation process improvements, and create Proof of Concepts as needed to assist in the decision-making process
+Assist with the creation of test automation architecture and frameworks, and advocate their usage with other SDETs
+Contribute to defining Technical direction, planning, escalating issues, and providing constructive feedback to ensure team success.
+Provide recommendations towards development of new code, redesign, or reuse of existing code
+Mentor multiple team members and lifts the skills, technical expertise of those around them
+Create and maintain documentation that can be easily consumed by others
+Advocates for and mentors others in software quality principles and practices
+Displays initiative and loves learning about software development
+Highly skilled at preventing bugs, finding bugs, and crushing bugs
+Projects a positive attitude and works well in fast-paced environment
+Exhibits proactive problem-solving skills
+Excellent time management and organizational skills
+Demonstrates history of learning new technologies
+Is considered an expert by peers and is recognized for high quality and quantity of hands-on technical contributions
+Collaborates across squads and disciplines to solve problems and resolve technical issues
+Team player and strong communicator
+Skilled at providing and receiving feedback at all levels across the organization.
+Other duties as assigned
+Background& Experience Required:
+
+Bachelor's Degree or above in Computer Science, Software Engineering, Information Systems, or related software programming fields.
+Have at least 7 years of experience in Agile software development
+Hands-on experience with SaaS architecture, microservices, and API testing tools such as Postman, RunScope, ReadyAPI, RestAssured, RestSharp, etc.
+Software development skills: Object Oriented Design, C#, .Net, JavaScript, Angular, Xunit, CICD, SQL, GitLab
+Software development knowledge nice-haves: Java, iOS, Linux, Maven, TestNG, Protractor, Cypress, Docker, Kubernetes, HTML, DOM/POM, Xpath, TDD, AWS, Azure, Ionic, Jmeter
+Working knowledge of Visual Studio& VS Code
+Knowledge or experience with software quality assurance principles and practice
+Physical Demands:
+
+Minimum physical exertion. While performing the duties of this position, the employee is frequently required to sit, communicate, reach and manipulate objects, tools or controls. The position requires mobility. Duties involve moving materials weighing up to 5 pounds on a regular basis. Manual dexterity and coordination are required over 75% of the work period while operating equipment such as computer keyboard and mouse.

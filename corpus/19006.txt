@@ -1,0 +1,28 @@
+Onica is an APN Premier Consulting Partner. As a full spectrum AWS integrator, we assist hundreds of companies to realize the value, efficiency, and productivity of the cloud. We take customers on their journey to enable, operate, and innovate using cloud technologies from migration strategy to operational excellence and immersive transformation.
+
+If you like a challenge, you'll love it here, because we're solving complex business problems every day, building and promoting great technology solutions that impact our customers' success. The best part is, we're committed to you and your growth, both professionally and personally.
+
+Overview
+
+At Onica you will be part of a team designing, automating, and deploying services on behalf of our customers to AWS in a way that allows these services to automatically heal themselves if things go south. We have deep experience applying DevOps techniques in virtually every industry. Every week is different and the problems you will be challenged to solve are constantly evolving. We know and understand DevOps. We build solutions using infrastructure-as-code so our customers can refine and reuse these processes again and again - all without having to come back to us for additional deployments.
+
+What you'll be doing
+Linux/Windows administration, automated deployments, scripting (Bash/PowerShell/Python)
+Working with customers engineering teams on a wide variety of projects
+Writing infrastructure as code (CloudFormation, Terraform)
+Qualifications & Experience
+
+Required:
+Proficient in networking and network security
+Solid understanding of the overall Cloud infrastructure (EC2, RDS, S3, VPC, CloudFormation etc.)
+You are comfortable interacting with customers and have the ability to communicate as well as educate
+Some experience with any of the following C#, Node.js, Python, Ruby, Go
+AWS Certifications
+Nice to Have:
+Service architecture and containerization, such as Docker, Kubernetes
+Continuous Integration/Deployment: Git, TFS, Jenkins etc.
+Knowledgeable of configuration management frameworks such as Puppet, Chef or Ansible
+Experience with data at scale, MySQL, MSSQL, Postgres, DynamoDB, Mongo, ElasticSearch
+Knowledgeable about HIPAA, PCI and other security frameworks and standards
+Solid understanding of AWS infrastructure
+If you get a thrill working with cutting-edge technology and love to help solve customers' problems, we'd love to hear from you. It's time to rethink the possible. Are you ready?

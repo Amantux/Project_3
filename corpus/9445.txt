@@ -1,0 +1,75 @@
+About Opendoor
+
+At Opendoor, we’re on a mission to make it simple to buy and sell homes. The traditional process is broken, with an average home taking over 90 days to sell and costing thousands of dollars. We make buying and selling a home stress-free and instant. We’ve built an exceptional team, have raised over $300 million from top-notch investors and are growing fast, buying and selling more than $100 million of homes per month.
+
+We’re seeking an exceptional Data Scientist to join us in building data products at the core of the company. We build valuation models, predictive modeling infrastructure, and lead growth experiments. Day to day, it’s a mix of machine learning, crowdsourcing, exploratory data analysis, feature extraction, and software engineering.
+
+As a Data Scientist You Will...
+
+Improve our industry-leading home valuation model using millions of real-estate transactions and complementary datasets
+
+Rapidly prototype features and predictive models
+
+Build ML pipelines in production
+
+Identify, research, and analyze new data sources to improve model accuracy
+
+Become a domain expert in real-estate
+
+Coordinate with product, engineering, and operations to understand impact and trade-offs of modeling improvements
+
+We’re looking for teammates who bring:
+
+Commitment to rigorous analysis and production-quality code
+
+Passion for building solid data infrastructure
+
+A love of tackling complexity in real-world datasets such geo data and transaction data
+
+Experience in one of Python, R, Java, Scala, Julia; if R or Julia, candidate must be able to make algorithms scale
+
+Familiarity with basic classes of ML algorithms, concepts in feature extraction and selection
+
+Ability and desire to communicate your analysis with clarity and precision
+
+Resourcefulness and pragmatism
+
+Who you’ll work with:
+
+Ian Wong - Ian is an Opendoor co-founder who cares about mixing good math with good engineering to solve hard problems. He previously built fraud detection systems at Square and products at Prismatic.
+
+Nelson Ray - Nelson is a data scientist who was formerly on the AdWords team at Google. He enjoys food, wine, and experimentation. He hosts Opendoor’s blind wine tastings and will rank your performance based on the KL Divergence.
+
+Brian Bloniarz - Brian's interested in any problem where computers, data and the real world meet. He's built automated trading systems in stocks and now in houses [hint: houses are more interesting].
+
+… and the rest of our team!
+
+Opendoor values Openness
+
+Our team celebrates our diverse backgrounds, being open about who we are and what we do allows us to be better. Individuals seeking employment at Opendoor are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, sexual orientation, gender identity or other protected status under all applicable laws, regulations, and ordinances.
+
+This position is for employment at will and not for any definite time period.
+
+More About Us
+
+Want to learn more about us and how we are revolutionizing the home buying and selling process? Learn more about us on our website, check out our profile on The Muse to learn more about our culture from our team members, or read our blog posts to hear about the work we are doing.
+
+We Offer the Following Benefits and Perks:
+
+Full medical, dental, and vision with optional 70% coverage for dependents
+
+Flexible vacation policy
+
+Educational budget to invest in your career development and growth
+
+Fitness/Commuter Benefit stipend
+
+Generous parental leave
+
+Paid time off to volunteer
+
+Please note that these benefits and perks are available only to Full Time team members and do not apply to contract roles.
+
+Opendoor values Openness
+
+Our team celebrates our diverse backgrounds. We believe that being open about who we are and what we do allows us to be better. Individuals seeking employment at Opendoor are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, sexual orientation, gender identity or other protected status under all applicable laws, regulations, and ordinances.

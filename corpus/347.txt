@@ -1,0 +1,230 @@
+Read what people are saying about working here. 
+
+Job Description
+
+At Wells Fargo, we want to satisfy our customers’ financial needs and help them succeed financially. We’re looking for talented people who will put our customers at the center of everything we do. Join our diverse and inclusive team where you’ll feel valued and inspired to contribute your unique skills and experience.
+
+Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.
+
+Consumer Banking is an industry leader in supporting homeowners and consumers, in addition to operating one of the most extensive banking franchises in the country. We serve mass market, affluent, and small business customers; as well as provide home and personal lending. Our focus is on delivering an exceptional experience for our customers through financial advice and guidance coupled with providing the products and services that will help them realize their financial hopes and dreams. We’ve built our team of top professionals by rewarding their accomplishments and ensuring they have what's needed to succeed.
+
+As a lead data scientist in Wells Fargo Enterprise Complaints Data, Analytics, and Reporting (CDAR) you will be responsible for recognizing opportunities to improve the customer experience through the use of artificial intelligence (AI) and machine learning (ML). More specifically, you will build models that evaluate and improve the customer experience by combining both unstructured voice of customer (e.g. Natural Language Processing (NLP), Speech) data, structured operational data (e.g. loan payment behaviors) and customer interaction data (e.g. web events).
+
+This job requires some general knowledge of financial products, portfolios, and markets, as well as familiarity with analytic techniques used to create, validate, implement or report on machine learning models. Data involved typically very large, structured or unstructured, and from multiple sources. This role will help the organization grow, develop, and improve our existing machine learning approaches with natural language technology. The role will be to provide expert advice and implementation of appropriate natural language processing solutions across the organization with regards to customer complaints, help identify organizational gaps, and to help create model validation documentation guidance.
+
+Job responsibilities include:
+
+Developing machine learning and other AI models with Python, R, or other languages and tools
+
+Combining Natural Language Processing techniques and other analytic techniques to extract useful information from both unstructured and structured data
+
+Translating and summarizing complex analysis into understandable, actionable insights and recommendations that directly drive effective business strategy
+
+Thinking creatively and identifying opportunities to leverage machine learning in order to improve the Wells Fargo customer experience
+
+Retrieve, combine and transform data from numerous information systems
+
+Scale analytics solutions to Big Data with Hadoop, Spark/PySpark and other Big Data tools
+
+Support technical build-out and/or support of databases, query tools, reporting tools, BI tools, dashboards, etc. that enable analysis, modeling, and/or data visualization.
+
+Responsible for performing highly complex activities related to creation, implementation, documentation, validation, articulation and defense, on-going maintenance of complex models grounded in theory used to quantify, analyze and manage customer complaints.
+
+Typically focus on the theory and/or advanced mathematics behind the analyses. Applies knowledge of business, customers, and/or products/services/portfolios to synthesize data to 'form a story' and align information to contrast/compare to industry perspective.
+
+May interface with regulators and auditors.
+
+Mentors lower level staff.
+
+Experience with the following:
+
+Python
+
+SciPy
+
+Keras/Tensorflow
+
+ML/NLP experience (design/development/training)
+
+Sharepoint
+
+Ability to communicate to different audiences (software engineers, product managers, senior management and regulators) both verbally and in writing
+
+Capability to multi-task and finish work within strict timelines and provide timely requests for information and follow-up questions
+
+Eagerness to contribute collaboratively on projects and discussions
+
+Attention to detail in both analytics and documentation
+
+As a Team Member Manager, you are expected to achieve success by leading yourself, your team, and the business. Specifically you will:
+
+Lead your team with integrity and create an environment where your team members feel included, valued, and supported to do work that energizes them.
+
+Accomplish management responsibilities which include sourcing and hiring talented team members, providing ongoing coaching and feedback, recognizing and developing team members, identifying and managing risks, and completing daily management tasks.
+
+Required Qualifications
+
+A master's degree or higher in a quantitative field such as mathematics, statistics, engineering, physics, economics, or computer science
+
+6+ years of experience in an advanced scientific or mathematical field
+
+Other Desired Qualifications
+
+Proficiency in Micros
+
+Highly prefer advanced degree in business, computer science or other analytics field
+
+Proficiency in Microsoft applications such as Word, PowerPoint, Excel and Visio. Experience with Sharepoint development and usage.
+
+General knowledge of financial products, portfolios, and markets, as well as familiarity with analytic techniques used to create, validate, implement or report on machine learning models.
+
+Experience in model building or model validation and associated documentation
+
+Ability to communicate to different audiences (software engineers, product managers, senior management and regulators) both verbally and in writing
+
+Capability to multi-task and finish work within strict timelines and provide timely requests for information and follow-up questions
+
+Eagerness to contribute collaboratively on projects and discussions
+
+Attention to detail in both analytics and documentation
+
+Take initiatives and drive each project to completion with minimal guidance while effectively managing multiple projects at a time.
+
+Demonstrated analytical and quantitative problem-solving skills
+
+3+ years of industrial Data Science experience, with expertise in NLP (CNN, RNN, GRU, Seq2Seq, PoS tagging, Entity Extraction, Word Embeddings, NER, etc.)
+
+Have published NLP research
+
+Have NLP related deep learning experience
+
+Have deployed large scale Data Science solutions: Java, Python, C++
+
+Job Expectations
+
+Ability to travel up to 10% of the time
+
+Disclaimer
+
+All offers for employment with Wells Fargo are contingent upon the candidate having successfully completed a criminal background check. Wells Fargo will consider qualified candidates with criminal histories in a manner consistent with the requirements of applicable local, state and Federal law, including Section 19 of the Federal Deposit Insurance Act.
+
+Relevant military experience is considered for veterans and transitioning service men and women.
+
+Wells Fargo is an Affirmative Action and Equal Opportunity Employer, Minority/Female/Disabled/Veteran/Gender Identity/Sexual Orientation.
+
+CONSUMER BNKG
+ 
+
+Job Description
+
+At Wells Fargo, we want to satisfy our customers’ financial needs and help them succeed financially. We’re looking for talented people who will put our customers at the center of everything we do. Join our diverse and inclusive team where you’ll feel valued and inspired to contribute your unique skills and experience.
+
+Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.
+
+Consumer Banking is an industry leader in supporting homeowners and consumers, in addition to operating one of the most extensive banking franchises in the country. We serve mass market, affluent, and small business customers; as well as provide home and personal lending. Our focus is on delivering an exceptional experience for our customers through financial advice and guidance coupled with providing the products and services that will help them realize their financial hopes and dreams. We’ve built our team of top professionals by rewarding their accomplishments and ensuring they have what's needed to succeed.
+
+As a lead data scientist in Wells Fargo Enterprise Complaints Data, Analytics, and Reporting (CDAR) you will be responsible for recognizing opportunities to improve the customer experience through the use of artificial intelligence (AI) and machine learning (ML). More specifically, you will build models that evaluate and improve the customer experience by combining both unstructured voice of customer (e.g. Natural Language Processing (NLP), Speech) data, structured operational data (e.g. loan payment behaviors) and customer interaction data (e.g. web events).
+
+This job requires some general knowledge of financial products, portfolios, and markets, as well as familiarity with analytic techniques used to create, validate, implement or report on machine learning models. Data involved typically very large, structured or unstructured, and from multiple sources. This role will help the organization grow, develop, and improve our existing machine learning approaches with natural language technology. The role will be to provide expert advice and implementation of appropriate natural language processing solutions across the organization with regards to customer complaints, help identify organizational gaps, and to help create model validation documentation guidance.
+
+Job responsibilities include:
+
+Developing machine learning and other AI models with Python, R, or other languages and tools
+
+Combining Natural Language Processing techniques and other analytic techniques to extract useful information from both unstructured and structured data
+
+Translating and summarizing complex analysis into understandable, actionable insights and recommendations that directly drive effective business strategy
+
+Thinking creatively and identifying opportunities to leverage machine learning in order to improve the Wells Fargo customer experience
+
+Retrieve, combine and transform data from numerous information systems
+
+Scale analytics solutions to Big Data with Hadoop, Spark/PySpark and other Big Data tools
+
+Support technical build-out and/or support of databases, query tools, reporting tools, BI tools, dashboards, etc. that enable analysis, modeling, and/or data visualization.
+
+Responsible for performing highly complex activities related to creation, implementation, documentation, validation, articulation and defense, on-going maintenance of complex models grounded in theory used to quantify, analyze and manage customer complaints.
+
+Typically focus on the theory and/or advanced mathematics behind the analyses. Applies knowledge of business, customers, and/or products/services/portfolios to synthesize data to 'form a story' and align information to contrast/compare to industry perspective.
+
+May interface with regulators and auditors.
+
+Mentors lower level staff.
+
+Experience with the following:
+
+Python
+
+SciPy
+
+Keras/Tensorflow
+
+ML/NLP experience (design/development/training)
+
+Sharepoint
+
+Ability to communicate to different audiences (software engineers, product managers, senior management and regulators) both verbally and in writing
+
+Capability to multi-task and finish work within strict timelines and provide timely requests for information and follow-up questions
+
+Eagerness to contribute collaboratively on projects and discussions
+
+Attention to detail in both analytics and documentation
+
+As a Team Member Manager, you are expected to achieve success by leading yourself, your team, and the business. Specifically you will:
+
+Lead your team with integrity and create an environment where your team members feel included, valued, and supported to do work that energizes them.
+
+Accomplish management responsibilities which include sourcing and hiring talented team members, providing ongoing coaching and feedback, recognizing and developing team members, identifying and managing risks, and completing daily management tasks.
+
+Required Qualifications
+
+A master's degree or higher in a quantitative field such as mathematics, statistics, engineering, physics, economics, or computer science
+
+6+ years of experience in an advanced scientific or mathematical field
+
+Other Desired Qualifications
+
+Proficiency in Micros
+
+Highly prefer advanced degree in business, computer science or other analytics field
+
+Proficiency in Microsoft applications such as Word, PowerPoint, Excel and Visio. Experience with Sharepoint development and usage.
+
+General knowledge of financial products, portfolios, and markets, as well as familiarity with analytic techniques used to create, validate, implement or report on machine learning models.
+
+Experience in model building or model validation and associated documentation
+
+Ability to communicate to different audiences (software engineers, product managers, senior management and regulators) both verbally and in writing
+
+Capability to multi-task and finish work within strict timelines and provide timely requests for information and follow-up questions
+
+Eagerness to contribute collaboratively on projects and discussions
+
+Attention to detail in both analytics and documentation
+
+Take initiatives and drive each project to completion with minimal guidance while effectively managing multiple projects at a time.
+
+Demonstrated analytical and quantitative problem-solving skills
+
+3+ years of industrial Data Science experience, with expertise in NLP (CNN, RNN, GRU, Seq2Seq, PoS tagging, Entity Extraction, Word Embeddings, NER, etc.)
+
+Have published NLP research
+
+Have NLP related deep learning experience
+
+Have deployed large scale Data Science solutions: Java, Python, C++
+
+Job Expectations
+
+Ability to travel up to 10% of the time
+
+Disclaimer
+
+All offers for employment with Wells Fargo are contingent upon the candidate having successfully completed a criminal background check. Wells Fargo will consider qualified candidates with criminal histories in a manner consistent with the requirements of applicable local, state and Federal law, including Section 19 of the Federal Deposit Insurance Act.
+
+Relevant military experience is considered for veterans and transitioning service men and women.
+
+Wells Fargo is an Affirmative Action and Equal Opportunity Employer, Minority/Female/Disabled/Veteran/Gender Identity/Sexual Orientation.
+
+CONSUMER BNKG Wells Fargo & Company (NYSE: WFC) is a nationwide, diversified, community-based financial services company with $1.9 trillion in assets. ...

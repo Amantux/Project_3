@@ -1,0 +1,30 @@
+PicnicHealth is a San Francisco-based, venture-backed health tech startup with the mission of empowering patients by giving them the ability to own, use, and share their medical history, to cure their disease. We give patients the first truly useful personal health record by collecting, abstracting, their medical history, and providing it back in a unified timeline. With our research collaborations, patients can contribute their anonymized medical data to create research registries -- which allow Academic and Life Science companies to better understand disease, and how it manifests in the real world.
+
+The Opportunity
+
+At PicnicHealth, biostatistics and data science are at the core of how we transform Real World Data (RWD) into insights for our research partners. We're seeking an experienced data scientist or biostatistician to deliver that insight on a daily basis to achieve both internal, and external research goals. Unlike clinical trial data, RWD is non-randomized, and has a unique set of challenges that you would be a key proponent in solving. As an early member of our Research team, you will have the flexibility and remit to work on all aspects of research product and scientific portfolio, bringing a lasting impact on the future of PicnicHealth.
+
+Our ideal team member will have biostatistical experience, with curiosity and ability to find creative solutions to meaningful clinical questions. You are an analytical thinker with experience working with RWD. You are excited by the prospect of rolling up your sleeves to tackle meaningful problems each and every day. You are a kind, passionate, and collaborative problem-solver who seeks and gives candid feedback. You are motivated to be amazing in your role and, ultimately, to improve patient care.
+
+As a Data Scientist / Biostatistician at PicnicHealth you will:
+Use PicnicHealth's large, multi-disease real-world dataset to answer some of the most critical clinical questions
+Become a subject matter expert on our data and its capabilities
+Transform real-world clinical data into actionable insights using machine learning, robust statistical methods, and compelling data visualizations in formats accessible to a wide range of end users
+Work with a cross-functional team to define and clarify analytic requirements, develop analysis plans, ensure data quality standards, and create publication-ready methods and results
+Generate ideas for analyses to shape future projects
+Collaborate with a team of clinicians, product managers, and software engineers to help develop, commercialize, and deliver analytics products
+Lead technical initiatives that further our understanding of RWD and methods to generate real world evidence
+Contribute to the growth and development of the PicnicHealth team by mentoring fellow team members and participating in recruitment efforts
+Develop and manage relationships with external partners (including life science companies, regulatory agencies, academic institutions, and health technology assessment bodies) to advance the integration of our analytic products through demonstrated value
+Publish scientific work in peer-reviewed journals
+You're a strong candidate if:
+You hold a Master's degree with 4 years of industry experience or PhD (or equivalent) in a quantitative discipline, such as biostatistics, epidemiology, applied statistics, health economics, or a related discipline
+You love working with data and have experience exploring it with a critical and thoughtful eye
+You are proficient in R/Python/SQL (or another programming language and are committed to becoming an expert in R/Python and SQL)
+You are an excellent communicator, both oral and written, and can effectively adapt your tone, content, and approach to diverse audiences
+You are self-motivated, flexible, proactive, and enjoy coming up with elegant and innovative solutions to challenging problems
+You know how to balance attention to detail with execution against tight timelines
+You are passionate about our grassroots patient-centric mission to improve healthcare through technology
+You are an ideal candidate if you also have experience:
+Consulting in the life sciences
+Working with longitudinal EMR data

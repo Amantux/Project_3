@@ -1,0 +1,27 @@
+Job Description
+
+Why consider OPI, and why do people dig working here?
+Variety of consulting; new technologies, projects, and people on a regular basis.
+Stability; we’ve been around since 1996 and have a diverse mix of clients and technologies to keep us busy, very busy. And we keep a bench. If you’re not on a project, you’re writing software for our internal business functions or you’re learning new technologies. It’s in our benefit to make our consultants as marketable as possible. That’s good for your career.
+No politics or management; we don’t get in the way. Why sit in meetings all day when you can code and be productive?
+Awesome benefits; free healthcare for your entire family (yes, free), 24 days of PTO + 10 days of sick time, quarterly profit sharing bonuses, you get paid OT, company trips (to Mexico), 3 company lake cabins/homes, various quarterly company events, new Macbook Pro’s, free beer/soda, chips, candy, and so much more.
+You work with the best. Do an Object Partners search on LinkedIn and see the types of talent we hire. You truly get to work with intelligent, passionate engineers that share the same goal of building great software the right way.
+Low company overhead. It all means more money back into our consultants pockets (profit sharing) or company trips and events to share in the financial success.
+
+Qualifications
+
+Architecture and design of highly available/scalable distributed systems.
+Design and development of streaming data platforms using Kafka Streams, Spark, Flink, Storm, Beam or Cloud Dataflow.
+Experience with functional/event-driven programming.
+NoSQL technologies such as ElasticSearch or Cassandra.
+Messaging technologies such as RabbitMQ, Kafka or Kinesis.
+SQL on Hadoop technologies such as Hive, Impala or Presto.
+Cloud services such as AWS, Azure, GCP or OpenStack.
+JVM languages such as Java, Groovy, Kotlin or Scala.
+Service frameworks such as Spring Boot, Ratpack, Vert.x, or Play.
+Knowledge of data analytics, visualization and governance.
+Knowledge of operating big data production solutions at scale.
+Knowledge of CI/CD pipelines and DevOps culture.
+Passion for software development. Someone that loves what they do, that aren’t just in it for a paycheck. Do you have dev projects going on at home at all times?
+New projects, new teams, new technologies means having to adjust and learn all the time. You might get thrown on a DevOps project as well, so having the ability to jump in and get your feet wet without hesitation is important. If you don’t want to grow and learn, we’re not a fit.
+Positive, can-do attitude. We can teach the technology, but we can’t teach how to approach client challenges with a positive, helpful demeanor. The best consultants aren’t the most technical (although that sure helps), it’s the consultant that will do whatever it takes to see a client be successful, no matter what they throw at you.

@@ -1,0 +1,125 @@
+We’re looking for a data scientist to join Patagonia’s Product Responsibility team within the Materials Innovation and Development team. The Materials and Product Data Scientist (MPDS) is responsible for reporting Patagonia’s materials and trim use as well as incorporating new and existing product and environmental impact data into automated analytic systems. The MPDS will share data in an easy to understand way using existing tools such as Tableau. The focus of the data science and analytics will be on product and material use, environmental impacts, and reduction efforts. This position will work closely with stakeholders from across the company to identify high priority data needs and provide clear explanations of how best to interpret and use the data that is generated. This position will require strong data science and analytic skills, a great deal of self-sufficiency, great communication skills, and the ability to work effectively with various teams within the company.
+
+What You’ll Do
+
+The MPDS will work closely with the Sr. Manager of Product Responsibility and Product Environmental Researchers on the following essential job functions:
+
+Data Management: Oversees management of the Materials Innovation and Development team’s data analytics system. Such oversight includes:
+
+Manages the Materials Innovation and Development team’s material, product and trim use data and reporting.
+
+Executing data management processes including timely and accurate data collection from key internal and external data sources, validation and analysis.
+
+Prototype and refine data models, reports, and dashboards.
+
+Integrate materials and environmental impact data with existing Patagonia data systems.
+
+Lead project QA, validation, and data quality.
+
+Administer data governance practices including data sharing agreements and process documentation.
+
+Identify long term materials and product data storage strategy.
+
+Develop systems: Improve current product and material environmental impact data collection. Desired improvements to current data include:
+
+Formulate scope and objectives for new product and materials environmental data projects, define project requirements by identifying key deliverables, phases and timelines.
+
+Incorporating fabric costs, projected product sales, and actual product sales data.
+
+Creating and automating the ability to compare product and material environmental impacts to future hypothetical impacts.
+
+Ability to integrate new raw material (RM) specific LCA data into existing data system that is currently based on the larger Material Sustainability Index (MSI) data set.
+
+Consistently track and update data with supply chain specific environmental impact reductions
+
+Ability to integrate and automate facility specific data into RM database to account for in potential renewable energy use in the supply chain.
+
+Data Analysis:
+
+Conduct data analysis to identify trends & overarching data insights for key business owners.
+
+Standardize process and tools to capture, integrate and manage data and ensure data quality.
+
+Support data requests needs for Product teams.
+
+Complete ad hoc material and product environmental data requests and reports as requested.
+
+Reporting and Communication: The MPDS will be a key contributor to the department’s reporting efforts to ensure all internal and external stakeholders understand our product and materials environmental impacts and impact reductions. Duties include but are not limited to:
+
+Develop and implement business processes to automate and streamline environmental product reporting efforts including the scoring for the “Cause No Unnecessary Harm” Principle in the Quality Scoring process.
+
+Prepare Material Developers with environmental data on fabrics to ensure that environmental improvements are identified when they are working with Product Line Managers to make fabric selections.
+
+Ensure material and product environmental data and dashboards are created for Sr. Director of Material Innovation and Development in preparation for the fall and spring board meetings.
+
+Work with Sr Manager of Product Responsibility to collaborate with marketing and PR to develop thoughtful PR, web, and other marketing around various environmental impact reduction metrics and stories.
+
+Participate in Materials Innovation and Development Department meetings, trainings and innovation summits.
+
+Excellent written and verbal communication skills, including experience facilitating meetings, providing stakeholder updates, and highlighting areas of project risk or challenges.
+
+Experience You Bring
+
+Bachelor’s degree in Data Science, Math, Economics or a related field.
+
+Minimum 3 years’ experience in data management and analytics.
+
+2 or more years of full-time complex project management experience coordinating and prioritizing multiple workstreams to achieve strategic objectives.
+
+Advanced Excel data manipulation skills
+
+Experience in a scripting language (Python, STATA, R, etc.)
+
+Experience using Alteryx to create workflows that include data ingestion, cleaning, derivation, modeling, and output.
+
+Advanced experience with Tableau or other business intelligence tools and the ability to create data visualization dashboards.
+
+Ability to convey complex concepts in a clear way and tailor information for the appropriate audiences.
+
+High degree of proficiency in MS Office applications including Outlook, Excel, Word, PowerPoint, etc.
+
+Comprehensive research and analytical skills; ability to gather information quickly and to synthesize it into actionable information.
+
+Excellent, demonstrated collaboration skills.
+
+Strong information seeking skills and drive to deliver results.
+
+Strategic, business process-oriented thinker.
+
+Experience working in a cross-functional team environment across various business units and ability to work well with all levels of staff including executives.
+
+Positive outlook, diplomatic and adept at conflict resolution.
+
+Strong English verbal and written communication skills.
+
+Ability to work in a fast-paced and deadline-oriented environment.
+
+Self-starter/learner, able to work independently.
+
+Familiarity with outdoor sports, Patagonia products, and our commitment to social and environmental responsibility.
+
+Preferred Qualifications and Experience
+
+Master’s Degree in Data Science, Math, Economics, or a related field.
+
+5 or more years of fulltime complex data science experience.
+
+Physical Requirements
+
+Must be able to sit for extended periods of time.
+
+Must be able to stand for extended periods of time.
+
+Ability to look at a computer screen for extended periods of time.
+
+Ability to maintain a composed and professional demeanor within a flexible and noisy work environment.
+
+Must be able to travel a minimum of 10% of work time in a rolling 12-month period, internationally and domestically, utilizing various transportation methods.
+
+Employee Conduct
+
+It is the responsibility of every employee to contribute to a positive work environment through cooperative and professional interactions with co-workers, customers and suppliers.
+
+Equal Employment Opportunity
+
+All qualified applicants will receive consideration for employment without discrimination on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability, or any other factors prohibited by law.

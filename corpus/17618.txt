@@ -1,0 +1,25 @@
+mGage is looking for a passionate, hard-working, and talented senior software engineer to design and develop innovative software solutions for the mobile messaging space.
+
+Celebrating our 20th year, mGage delivers billions of mobile messages monthly across channels including SMS, MMS, RCS, and Push. As we continue to grow our business, we are looking for engineers to take our software to the next level.
+
+Responsibilities:
+Design and develop software for product initiatives, using a variety of technologies including: Java, J2EE, Oracle, PostgreSQL, JavaScript, HTML, Angular
+Investigate, prototype and deliver creative, highly scalable solutions
+Work in an exciting Agile/Scrum environment to deliver high quality software
+Analyze and troubleshoot user-reported issues with application functionality
+Requirements:
+Bachelor’s degree in Computer Science or equivalent experience.
+Expertise in:
+building high performance, scalable and available platforms using Java
+multiple programming languages (Java, JavaScript, Ruby)
+NoSQL databases (Cassandra)
+Troubleshooting problems
+Proficiency in:
+Web Application Development (JavaScript, CSS, HTML, React)
+Deploying applications to virtual environments using automation (Ansible, Jenkins, Docker)
+Configuring and managing cloud-based infrastructure
+Cloud services (AWS EC2/S3, VMware)
+Building REST APIs& Documentation
+Message Queues (Artemis, RabbitMQ)
+Caching data (Redis)
+Communicating issues and recommending solutions in a clear concise manner

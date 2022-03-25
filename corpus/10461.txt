@@ -1,0 +1,41 @@
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities — we're just getting started.
+
+Marketing Science R&D is an interdisciplinary team of data scientists focused on research that improves measurement and ads delivery on our platform. The team's expertise spans domains, including causal inference, survey methodology, machine learning, cryptography and privacy, and location and identity prediction algorithms. We develop methodologies, design and prototype solutions, and partner with our engineering and product colleagues to scale these solutions for the benefit of millions of advertisers. We're looking for a PhD candidate Data Science Intern with expertise in cryptography or privacy preserving technology. The role would focus on developing new systems and technologies to securely receive, process, and present data that is received through various channels on and off Facebook. Team members will pursue deep technical knowledge of advertising and user identity systems at Facebook, and research new frameworks to advance these systems while maintaining a focus on security and privacy principles.
+
+RESPONSIBILITIES
+
+Research opportunities to leverage new systems or technologies to improve both user privacy and ads systems
+
+Design and develop prototypes with scalable validation frameworks for ongoing evaluation
+
+Work both independently and build cross-functional relationships with Engineering and Product to shape long-term product roadmaps with a balance of technical rigor and strategic considerations
+
+Learn new tools, systems and languages quickly as required by the particular project you are working on
+
+Apply communication skills to engage diverse audiences on technical topics and nuanced insights
+
+MINIMUM QUALIFICATIONS
+
+Currently has, or is in the process of obtaining, a PhD degree economics, political science, sociology, statistics, computer science or a related quantitative field
+
+Strong proficiency in common scripting and query languages like Python and SQL
+
+Programming and scripting experience in a UNIX environment to develop scalable research prototypes
+
+Proficiency designing and implementing analytical and/or algorithmic solutions, tailored to particular business needs and tested on large data sets
+
+Must obtain work authorization in country of employment at the time of hire and maintain ongoing work authorization during employment
+
+PREFERRED QUALIFICATIONS
+
+Applied experience leveraging machine learning or advanced statistical modeling
+
+Advanced coding experience for cryptography in another language (e.g. C++, JS.)
+
+Experience with online advertising, targeting, optimization and measurement systems and advertising technology platforms (ad servers, DSPs, DMPs, etc.)
+
+Familiarity with network and web security protocols such as TLS, IPSec etc
+
+Demonstrated proficiency in communicating ideas externally via academic papers and conference presentations
+
+Facebook is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may contact us at accommodations-ext@fb.com.

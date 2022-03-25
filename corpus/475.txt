@@ -1,0 +1,33 @@
+*******Please Apply using this link: https://app.smartsheet.com/b/form/2cb8018ed6a041b0870e3cd056c286ab
+Our Focus
+In aviation safety, we seek to minimize the potential for harm to the flying public. To support this
+effort, we collect vast amounts of operational and simulation data. How can we use statistical
+analyses and data science to analyze this data and effect meaningful change to aviation safety? If
+this sounds interesting to you, GGTI seeks a Data Scientist to join its Data Science & Analytics Team.
+What’s the Job?
+· Preprocessing, cleansing, and verifying integrity of data that can be provided as input for
+advanced analytics
+· Ad-hoc analysis and presentations of results for technical and non-technical audiences
+· Feature selection, model building and optimization using machine learning techniques
+· Building regression, classification, association models
+· Building anomaly detection systems
+About You
+You are an experienced Data Scientist with an advanced degree in a quantitative discipline. You will be able to discover information hidden in vast amounts of aviation data, including operation and simulated data, and provide recommendations to managements at various levels. Along with working with air traffic domain experts, you will be able to apply data mining techniques, perform statistical analyses, and build high quality predictive models and causal analyses of safety issues. You can analyze large, complex, multi-dimensional datasets with R and/or Python and Business Intelligence (BI) tools such as Tableau. In addition, you have some familiarity with SQL.
+What do you need to qualify?
+*
+· 10+ years of professional work experience in a quantitative field
+· A Ph.D. or Master’s Degree in operations research, applied statistics, Computer Science (data mining, machine learning stream) or a related quantitative discipline
+· Deep understanding of statistical and predictive modeling concepts, machine-learning approaches, clustering and classification techniques, and recommendation and optimization algorithms
+· Excellent applied statistics skills, such as distributions, statistical testing, regression, etc.
+· Excellent understanding of common machine learning techniques and algorithms, such as K-means, k-NN, Bayesian Networks, SVM, Decision trees, ensemble methods etc.
+· Experience with common data science toolkits, such as Python, R, Weka, NumPy, MatLab, etc. Proficiency in at least one of these (preferably Python)
+· Experience with data visualization tools, such as D3.js, Tableau etc.
+· Experience with Amazon Web Services
+· Some experience with NoSQL databases, such as MongoDB, Cassandra, or HBase
+· Ability to pass a Federal Government background investigation to obtain a Public Trust clearance.
+· Current U.S. Citizen/Green Card-holder
+Stand-out Skills
+Deep learning with TensorFlow, Torch, or similar
+Spark, Hadoop, or similar
+SQL, Java or C/C++.
+*******Please Apply using this link: https://app.smartsheet.com/b/form/2cb8018ed6a041b0870e3cd056c286ab

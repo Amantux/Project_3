@@ -1,0 +1,1 @@
+"0","x <- tm_map(x, removeWords, stopwords(""english""))"

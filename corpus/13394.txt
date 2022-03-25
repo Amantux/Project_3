@@ -1,0 +1,32 @@
+Job Description
+Our client is looking for strong Data Scientists who will be primarily responsible for retraining various predictive models using new data source and techniques with the goal to outperformance the existing models.
+
+Responsibilities:
+
+- Retrain existing predictive models using new data source and possibly new advanced techniques
+
+- Work comfortably with multi-terabyte and billion+ rows of data
+
+- Perform rigorous model evaluation, design hypothesis tests, oversee test execution and result evaluation
+
+Required skills/experience:
+
+- Advanced degree in Machine Learning, Applied Math, Computer Science, Economics, Statistics or a related quantitative field
+
+- At least 5 years recent experience building predictive models using SAS EG and SAS EM
+
+- Proficiency in SAS Enterprise Miner/ Enterprise Guide/ Base SAS is critical
+
+- Proficiency in Python and R in addition to SAS is a plus
+
+- Solid understanding of advanced statistical concepts, especially related to modelling is a must
+
+- Experience working with SQL Server, Google Cloud Platform/Google Big Query and Hadoop ecosystem
+
+Preference will be given to candidates with:
+
+- Practical experience in Neural Network, Random Forest, SVM and any other boosting techniques
+
+- Background in collaborative filtering, data mining, machine learning, optimization or statistical theory
+
+-

@@ -1,0 +1,57 @@
+Data Engineer
+
+The mission of Bayer Crop Science is centered on developing agricultural solutions for a sustainable future that will include a global population projected to eclipse 9.6 billion by 2050. We approach agriculture holistically, looking across a broad range of solutions from using biotechnology and plant breeding to produce the best possible seeds, to advanced predictive and prescriptive analytics designed to select the best possible crop system for every acre.
+
+To make this possible, Bayer collects terabytes of data across all aspects of its operations, from genome sequencing, crop field trials, manufacturing, supply chain, financial transactions and everything in between. There is an enormous need and potential here to do something that has never been done before. We need great people to help transform these complex scientific datasets into innovative software that is deployed across the pipeline, accelerating the pace and quality of all crop system development decisions to unbelievable levels.
+
+What you will do is why you should join us:
+
+Be a critical senior member of a data engineering team focused on creating distributed analysis capabilities around a large variety of datasets
+
+Take pride in software craftsmanship, apply a deep knowledge of algorithms and data structures to continuously improve and innovate
+
+Work with other top-level talent solving a wide range of complex and unique challenges that have real world impact
+
+Explore relevant technology stacks to find the best fit for each data set
+
+Pursue opportunities to present our work at relevant technical conferences
+
+Google Cloud Next 2019: https://www.youtube.com/watch?v=fqvuyOID6v4
+
+GraphConnect 2015: https://www.youtube.com/watch?v=6KEvLURBenM
+
+Project your talent into relevant projects. Strength of ideas trumps position on an org chart
+
+If you share our values, you should have:
+
+At least 2 years experience with Go
+
+Proven experience (2 years) building and maintaining data-intensive APIs using a RESTful approach
+
+Experience with stream processing using Apache Kafka
+
+A level of comfort with Unit Testing and Test Driven Development methodologies
+
+Familiarity with creating and maintaining containerized application deployments with a platform like Docker
+
+A proven ability to build and maintain cloud based infrastructure on a major cloud provider like AWS, Azure or Google Cloud Platform
+
+Experience data modeling for large scale databases, either relational or NoSQL
+
+Bonus points for:
+
+Experience with protocol buffers and gRPC
+
+Experience with: Google Cloud Platform, Apache Beam and or Google Cloud Dataflow, Google Kubernetes Engine or Kubernetes
+
+Experience working with scientific datasets, or a background in the application of quantitative science to business problems
+
+Bioinformatics experience, especially large scale storage and data mining of variant data, variant annotation, and genotype to phenotype correlation
+
+Additional Info:
+This role is open as we underestimated the amount of effort required for funded projects, and we have additional work coming in.
+Will sit in G Building.
+As we see no obvious end to the solutions we are developing and supporting, our preference is to continue the role for as long as feasible with conversion potential. We await leadership guidance on the ability to convert, but my understanding is they are becoming more supportive of conversion.
+Soft Skills: Always and forever the ability to patiently listen and empathize with collaborators as we try to understand one another.
+We are open to remote candidates, but preference for local candidates. If local, they must work onsite. Only open to candidates who have prior experience working remotely. Make sure it is clearly listed on the resume where they worked remotely. Please include in the Supplier Partner Summary what tools they used to work remotely.
+Will interview 60 min video webex interviews.

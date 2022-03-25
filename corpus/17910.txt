@@ -1,0 +1,29 @@
+We all depend on healthcare throughout our lifetimes, for ourselves, and our families and friends, but it is notoriously difficult to navigate and understand. As an industry that comprises 20% of the US economy we think healthcare should work better for all of us. At Collective Health we believe it's time for a new day in healthcare where as members we are informed and empowered to make the right care choices when the decisions are urgent and critical.
+
+At Collective Health, we care about creating a culture of diversity, openness, and transparency, while engaging our intellectual curiosity, and problem solving skills. In this role, you will be part of a team rebuilding our member eligibility platform.As an engineering team, we believe good code is easy to read and understand. We expect all of our engineers to continually teach as well as learn.
+
+We've got a ton of interesting problems to solve around distributed systems, data pipelines, data analytics and predictions, system reliability, security, privacy, and more. If you're passionate about tackling hard problems while making a real difference in the world, we'd love to talk!
+
+As a Senior Backend Engineer, you will:
+Drive the continued design and development of our backend systems
+Work on scaling our integrations for claims to help us increase our TAM
+If you're someone that:
+Enjoys building well-engineered systems
+Has 5+ years of software engineering work experience
+Is well-versed in Java
+Communicates clearly up, down and across teams
+Experience with data ingestion is a plus
+Experience with modern streaming and/or eventing systems is a plus
+Balances getting things done with making things perfect
+Takes pride in mentoring other developers
+Loves working with a team of awesome, collaborative co-workers
+Likes to be involved in the decision making process, taking into account the needs of our customers as well as our companyOur Tech Stack
+Our backend services follow micro services architecture written using Java and Spring; we use Cloud services (AWS). Collective Health stores data in a set of PostgreSQL databases and utilizes Python & Spark for large scale data workloads. We have both Angular/template-based model and React-driven architecture for our front end.
+
+Collective Health is a technology company simplifying employer healthcare to make health insurance work for everyone. With more than 200,000 members and over 45 enterprise clients—including Pinterest, Red Bull, Restoration Hardware, Activision Blizzard, and more—our technical and customer experience teams are reinventing the healthcare experience for forward-thinking employers and their people across the U.S.
+
+Collective Health is headquartered in San Francisco, CA, with additional offices in Chicago, IL, and Lehi, UT. Founded in 2013, Collective Health is backed by the SoftBank Vision Fund, DFJ Growth, PSP Investments, NEA, GV, G Squared, Founders Fund, Maverick Ventures, Mubadala Ventures, Sun Life, and other leading investors. For more information, visit us at https://www.collectivehealth.com
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+Collective Health

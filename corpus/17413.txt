@@ -1,0 +1,26 @@
+AddThis Sharing Buttons
+Share to FacebookFacebookFacebookShare to TwitterTwitterTwitterShare to LinkedInLinkedInLinkedIn
+
+We’re looking for experienced Python engineers who would enjoy the challenge of designing and building applications to provide insights into a highly dynamic and expansive data set. Working with user-generated content at scale poses some unique problems so we highly value creative technical minds that can imagine solutions and bring them to reality.
+
+Responsibilities:
+Designing and building scalable systems that can collect, store, retrieve and transform data coming from a variety of different sources including APIs, Postgres, Solr, S3 and Cassandra.
+Designing and implementing maintainable API’s that support our end-user applications.
+Selecting appropriate data storage and retrieval methods and technologies.
+Designing data-structures and optimizing queries that deal with millions of rows of data.
+Creating reusable and maintainable code, automated tests and clear documentation.
+Optimizing your code to run in a high-performance real-time environment that generates billions of events a day.
+Supporting the software and systems you write and deploy in our production environment.
+Collaborating across engineering, product and data teams to solve technical and business issues.
+About You:
+5+ years experience building non-trivial, data-centric python applications and API’s in a Linux environment
+Experience designing and implementing scalable systems processing large amounts of data
+2+ years building back-end services and APIs in Django or Flask
+Thorough understanding of common internet networking technologies, including TCP, HTTP, DNS.
+Expertise working with RDBMS, including schema design, writing SQL for complex multi-table queries and optimizing query performance
+Expertise in using Git and Git branching models
+You enjoy working as a part of a collaborative team and demonstrate an open mindset.
+Strong communication skills: able to clearly articulate, defend and document design decisions and work with a cross-discipline team
+A love of problem-solving and a sense of imagination
+AddThis Sharing Buttons
+Share to FacebookFacebookFacebookShare to TwitterTwitterTwitterShare to LinkedInLinkedInLinkedIn

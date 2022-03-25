@@ -1,0 +1,37 @@
+Infiswift Technologies is looking for a strong data science internship for the team that is developing an exciting IoT+AI application for one of our multi-billion-dollar customers. This application optimizes a complex manufacturing pipeline by applying various mathematical/statistical/data science techniques, including machine learning on the data from hundreds of sensors. The goal is to increase the rate of production by reducing bottlenecks and predicting and preventing downtime that would save hundreds of millions of dollars for them.
+
+Job Responsibilities
+
+As an intern, these are the specific job duties the candidate is expected to perform.
+
+Analyze the data that’s collected from the various sensors in the manufacturing plant and devise mathematical/statistical models to identify the bottlenecks
+
+Analyze the processing times for various equipment and determine the components that need improvement on an hourly/daily//weekly/monthly basis
+
+Determine the causes of downtimes of various components and construct a pareto chart or equivalent to understand the top reasons why the plant is down.
+
+Using mathematical models, graphs and statistics, provide recommendation to the manufacturing plant owner on the priority (based on ROI) to improve the various components
+
+Suggest maintenance schedule for various components by analyzing their downtime patterns and coming up with appropriate proactive measures based on the data analysis
+
+Use techniques like machine learning to augment the data analysis wherever applicable
+
+Design, code and test various computer algorithms to do the above tasks automatically in the optimization software.
+
+Qualifications
+
+Please note we are open to candidates who have completed or are completing non-traditional education paths, with a focus on demonstrated knowledge and ability based on the qualifications below.
+
+Minimum qualifications:
+
+Solid problem solving skills in mathematics and statistics.
+
+Ability to design and implement statistical as well as machine learning algorithms for the above-mentioned application.
+
+Ability to write solid code in Python and NodeJs with minimal supervision to implement, test and verify the above algorithms.
+
+Bachelor’s Degree or relevant experience in Computer Science or Electrical Engineering, Mathematics, Statistics.
+
+How to Apply
+
+We need the candidate to be able to work from our headquarters in Milpitas, CA. This role is an internship role for 40 hours/week. If you are interested and meet the minimum eligibility requirements, please send your resume to careers@infiswift.tech.

@@ -1,0 +1,21 @@
+At Roche Sequencing Solutions, we are driven to transform healthcare with next-generation sequencing (NGS) technologies and applications.
+
+We are seeking a self-motivated Principal Data Scientist, Bioinformatics to join our Nanopore Sequencer Data Science group, where we collaborate with experimentalists and algorithm developers to build the Roche single-molecule DNA sequencer. If you enjoy working in cross-functional teams, applying data analysis skills to develop creative solutions, and driving bioinformatics deliverables for product development, we want to hear from you!
+
+Responsibilities:
+Collaborate with scientists and other engineering groups, understand their data-science and bioinformatics requirement and propose solutions and lead them to completion.
+Help design, analyze, and interpret single-molecule sequencing experiments using custom and standard analysis tools.
+Develop and improve algorithms for next-generation sequencing based diagnostics products. Develop and modify analyses that depend on standard next-generation sequencing analysis tools.
+Write clean, maintainable, documented code using best engineering practices in the industry (design patterns, TDD, peer review, CI, automated testing etc.).
+Prepare documentation and participate in design reviews.
+Define in-depth statistical error profiles and their impact on secondary and tertiary analysis.
+Document analysis procedures and results and present findings in meetings.
+Utilize knowledge of bioinformatics, including machine learning, statistical modeling, and data visualization to help analyze and develop sequencing technology.
+Requirements:
+PhD in Bioinformatics, Biostatistics, Computation Biology, Computer Science or related technical/scientific field with a minimum of 2 years of direct related professional experience.
+Experience in the use of high-level programming languages such as Python (preferred), Java and R for complex data analysis.
+Experience with data visualization and report generation.
+Experience with next generation sequencing a plus.
+Roche is an equal opportunity employer.
+
+Research & Development, Research & Development > Modelling & Simulation

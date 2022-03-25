@@ -1,0 +1,43 @@
+Amazon Lab126 is an inventive research and development company that designs and engineers high-profile consumer electronics. Lab126 began in 2004 as a subsidiary of Amazon.com, Inc., originally creating the best-selling Kindle family of products. Since then, we have produced groundbreaking devices like Fire tablets, Fire TV, Amazon Echo and Amazon Show. The Amazon Devices group delivers delightfully unique Amazon experiences, giving customers instant access to everything, digital or physical.
+
+Work hard. Have fun. Make history.
+
+The ROLE
+
+The Medical Data Scientitst should be an expert familiar with all of the data warehousing technical components (e.g. ETL, Reporting, Data Model), infrastructure (e.g. hardware and software) and their integration. The ideal candidate will be responsible for developing overall architecture and high level design. The candidate must have extensive experience with Star Schemas, Dimensional Models, and Datamarts. The individual is expected to build efficient, flexible, extensible, and scalable ETL design and mappings. Excellent written and verbal communication skills are required as the candidate will work very closely with diverse teams.
+
+Responsibilities include:
+· Apply broad knowledge of technology options, technology platforms, design techniques and approaches across the data warehouse life cycle phases to design an integrated, quality solution to address the business requirements
+· Ensure completeness and compatibility of the technical infrastructure to support system performance, availability and architecture requirements
+· Design and plans for the integration for all data warehouse technical components
+· Provide input and recommendations on technical issues to the project manager
+· Responsible for data design, data extracts and transforms
+· Develop the implementation and operation support plans
+· Lead architecture design and implementation of next generation BI solution.
+· Build robust and scalable data integration (ETL) pipelines using SQL, EMR, Python and Spark.
+· Mentor and develop other DE's and BIE's.
+· Build and deliver high quality data architecture to support business analyst, data scientists, and customer reporting needs.
+· Interface with other technology teams to extract, transform, and load data from a wide variety of data sources.
+· Continually improve ongoing reporting and analysis processes, automating or simplifying self-service support for customers
+
+Basic Qualifications
+
+
+
+*Bachelor's degree or higher in a quantitative/technical field (e.g. Computer Science, Statistics, Engineering).
+*10+ years of relevant experience in one of the following areas: Data engineering, database engineering, business intelligence or business analytics.
+*5+ years of hands-on experience in writing complex, highly-optimized SQL queries across large data sets.
+*5+ years of experience in scripting languages like Python etc.
+
+Preferred Qualifications
+
+*Proven success in communicating with users, other technical teams, and senior management to collect requirements, describe data modeling decisions and data engineering strategy
+*Experience providing technical leadership and mentoring other engineers for best practices on data engineering
+*Knowledge of software engineering best practices across the development life cycle, including agile methodologies, coding standards, code reviews, source management, build processes, testing, and operations
+*Masters in computer science, mathematics, statistics, economics, or other quantitative field
+*Data Science / Medical experience preferred
+
+Lab126 is part of the Amazon group of companies and is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us
+
+More information on OFCCP requirements for job descriptions can be found on the Managers Toolkit&gtHiring&gtRecruiting&gtJob Descriptions on Inside Amazon. The short training linked below can help explain why these revisions are necessary.
+Learn about EEO and Hiring the Best!

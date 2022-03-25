@@ -1,0 +1,31 @@
+About Netskope
+Today, there's more data and users outside the enterprise than inside, causing the network perimeter as we know it to dissolve. We realized a new perimeter was needed, one that is built in the cloud and follows and protects data wherever it goes, so we started Netskope to redefine Cloud, Network and Data Security.
+
+Since 2012, we have built the market-leading cloud security company and an award-winning culture powered by hundreds of employees spread across offices in Santa Clara, San Francisco, Seattle, Bangalore, London, Melbourne, and Tokyo. Our core values are openness, honesty, and transparency, and we purposely developed our open desk layouts and large meeting spaces to support and promote partnerships, collaboration, and teamwork. From catered lunches and office celebrations to employee recognition events and social professional groups such as the Awesome Women of Netskope (AWON), we strive to keep work fun, supportive and interactive.Visit us at Netskope Careers and follow us on Twitter @Netskope and Facebook.
+
+Responsibilities
+Partner closely with our development teams and product managers to architect and build features that are highly available, performant and secure
+Develop innovative ways to smartly measure, monitor & report application and infrastructure health
+Gain deep knowledge of our application stack
+Experience improving the performance of micro-services and solve scaling/performance issues
+Capacity management and planning
+Function well in a fast-paced and rapidly-changing environment
+Participate with the dev teams in a 24X7 on-call rotations.
+Basic Qualifications:
+A minimum of 3-5 years of general Site Reliability Engineering (SRE) experience.
+3-5 years of experience with large scale clustered Kafka streaming deployments.
+Coding/Programming (C/ C++/ Python/ GO/ Java Etc)
+2+ years experience in troubleshooting Linux/ Unix
+Experience with Data structure and Algorithms
+Experience in Software Design
+Experience in System design and architecture
+Preferred Qualifications:
+Hands-on working with private or public cloud services in a highly available and scalable production environment.
+Experience with Linux/Unix
+Experience with continuous integration and deployment automation tools such as Jenkins, Ansible etc.
+Knowledge of distributed systems a big plus.
+Previous experience working with geographically-distributed coworkers.
+Strong interpersonal communication skills (including listening, speaking, and writing) and ability to work well in a diverse, team-focused environment with other SREs, developers, Product Managers, etc
+Education:
+BSCS or equivalent required, MS strongly preferred
+#LI-SS1

@@ -1,0 +1,41 @@
+Company:
+Qualcomm Technologies, Inc.
+Job Area:
+Engineering Group, Engineering Group > ASICS Engineering
+Job Overview:
+
+
+Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform 5Gs potential into world-changing technologies and products. This is the Invention Age - and this is where you come in.
+
+Qualcomm is a company of inventors that unlocked 5G, ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform 5Gs potential into world-changing technologies and products. This is the Invention Age - and this is where you come in.
+
+The DTECH group is a part of the Global SOC organization, which designs SOCs for our mobile, compute, and automotive platforms. DTECH is responsible for innovation in methodology for design implementation and analysis, as well as timing signoff, thermal signoff, low power design, technology evaluation, and test chip design. DTECH also has significant contributions in design of digital process monitors and root causing and resolving design related issues on product silicon.
+
+Primary Job Responsibilities:
+Design Interface to Silicon Teams
+Track design related yield issues
+Root cause yield issues from the design side
+Develop new methodologies to understand and prevent yield failures on future products and revisions
+Understand and analyze silicon data including diagnostics data and process monitor data
+Work with silicon test engineering teams, process technology teams, design teams, and methodology teams to gather data, analyze, and effect changes to design
+Minimum Qualifications
+Bachelor's degree in Science, Engineering, or related field.
+5+ years ASIC design, verification, or related work experience.
+Preferred Qualifications
+Good understanding of transistor-level digital design
+Prefer exposure to automated place and route flows as well
+Understanding of static timing analysis and timing methodology
+HSPICE and PTSI simulation
+Automation using Perl, Python, TCL, etc.
+Prefer a basic understanding of silicon processing and silicon test engineering
+Ability to work and collaborate with varied teams, such as methodology, physical design, circuit design, process technology and test engineering
+Innovative with broad knowledge of design and methodology
+Excellent problem solving and analysis skills are a must
+Excellent written and verbal communication and presentation skills.
+8+ years ASIC design, verification, or related work experience.
+MS in Electrical Engineering or higher preferred with 5-10 years experience
+Applicants: If you are an individual with a disability and need an accommodation during the application/hiring process, please call Qualcomm’s toll-free number found here for assistance. Qualcomm will provide reasonable accommodations, upon request, to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. Qualcomm is an equal opportunity employer and supports workforce diversity.
+
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.
+
+EEO Employer: Qualcomm is an equal opportunity employer; all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or any other protected classification.

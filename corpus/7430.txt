@@ -1,0 +1,159 @@
+Read what people are saying about working here. 
+
+Description
+
+DS/ML stack:
+
+Languages: Python, PySpark, SQL
+
+Data Tools: Spark, AWS RedShift, AWS Athena, pandas, numpy, scipy, parquet
+
+Modeling Tools: SparkML, scikit-learn, Tensorflow, Tensorflow-Serving, Keras (Tensorflow and Theano backend)
+
+Algorithms: Classifications, Regressions, Neural Networks, Time series, Graphs
+
+Visualization: Tableau or similar
+
+Infrastructure: AWS (including S3, EMR, EC2, Lambda)
+
+What will you do?
+
+Understand business decisions that need to be supported by data e.g. risk of readmission to hospital
+
+Identify relevant internal or external data sources for various business needs
+
+Research the state of a problem and existing solutions then quickly summarize research
+
+Help identify new business opportunities and value propositions from existing data
+
+Utilize raw or aggregated data to build predictive models in SPARK, sql, or Python
+
+Understand quality of models and impact on business problems
+
+Communicate summaries of analyses and predictive modeling efforts to product and business teams
+
+Communicate insights to stakeholders in data engineering, product and clinical teams.
+
+Become expert on projects to help strategize plans of attack in terms of technology and team education.
+
+Ensure that all security procedures within their area of responsibility are carried out to achieve compliance with security policies and standards.
+
+Leading multiple initiatives across both existing and innovative work
+
+Provide continuous mentoring to junior resources
+
+We are looking for someone with:
+
+7+ year’s professional experience as a data scientist or machine learning engineer
+
+7+ year’s professional experience working in quantitative computational role
+
+5+ year’s professional experience working with big data and relational databases
+
+Very strong knowledge of advanced applied data science (machine learning, neural networks, etc.), mathematical modeling, computational, statistical, data mining techniques (regression, decision trees, clustering etc.), as well as dimensionality reduction techniques
+
+Strong hands-on modeling experience in a business environment with a goal of productionalizing models.
+
+Strong experience using machine learning and deep learning packages
+
+Strong experience with data manipulation, analysis and visualization
+
+Proven track record of fully understanding the scope, commitment to quality, and end-to-end ownership to meet upon agreed timelines.
+
+Quick learner that can manage multiple projects at the same time successfully
+
+Developed and designed real-time prediction software
+
+Strong experience mentoring junior colleagues
+
+Excellent written and verbal communication skills
+
+Advanced degree in physics, applied mathematics, statistics or related field is preferred
+
+Healthcare industry experience is a plus
+
+About Us
+
+Remedy Partners delivers software and services that enable payers, employers and at-risk providers to organize and finance healthcare delivery around a patient's episode of care. For healthcare providers, Remedy Partners’ software, analytics and administrative services support bundled payment contracts with Medicare and Commercial Insurers, often through shared-risk partnerships. For payers, Remedy Partners empowers the development of bundled payment contracting programs and guides development of bundled payment networks. Remedy Partners presently delivers its services to partners at more than 1,000 healthcare locations nationwide.
+
+Please note that all Remedy employees are required to adhere to all organizational policies, the Code of Conduct and participate in all compliance-related training and education.
+
+ 
+
+Description
+
+DS/ML stack:
+
+Languages: Python, PySpark, SQL
+
+Data Tools: Spark, AWS RedShift, AWS Athena, pandas, numpy, scipy, parquet
+
+Modeling Tools: SparkML, scikit-learn, Tensorflow, Tensorflow-Serving, Keras (Tensorflow and Theano backend)
+
+Algorithms: Classifications, Regressions, Neural Networks, Time series, Graphs
+
+Visualization: Tableau or similar
+
+Infrastructure: AWS (including S3, EMR, EC2, Lambda)
+
+What will you do?
+
+Understand business decisions that need to be supported by data e.g. risk of readmission to hospital
+
+Identify relevant internal or external data sources for various business needs
+
+Research the state of a problem and existing solutions then quickly summarize research
+
+Help identify new business opportunities and value propositions from existing data
+
+Utilize raw or aggregated data to build predictive models in SPARK, sql, or Python
+
+Understand quality of models and impact on business problems
+
+Communicate summaries of analyses and predictive modeling efforts to product and business teams
+
+Communicate insights to stakeholders in data engineering, product and clinical teams.
+
+Become expert on projects to help strategize plans of attack in terms of technology and team education.
+
+Ensure that all security procedures within their area of responsibility are carried out to achieve compliance with security policies and standards.
+
+Leading multiple initiatives across both existing and innovative work
+
+Provide continuous mentoring to junior resources
+
+We are looking for someone with:
+
+7+ year’s professional experience as a data scientist or machine learning engineer
+
+7+ year’s professional experience working in quantitative computational role
+
+5+ year’s professional experience working with big data and relational databases
+
+Very strong knowledge of advanced applied data science (machine learning, neural networks, etc.), mathematical modeling, computational, statistical, data mining techniques (regression, decision trees, clustering etc.), as well as dimensionality reduction techniques
+
+Strong hands-on modeling experience in a business environment with a goal of productionalizing models.
+
+Strong experience using machine learning and deep learning packages
+
+Strong experience with data manipulation, analysis and visualization
+
+Proven track record of fully understanding the scope, commitment to quality, and end-to-end ownership to meet upon agreed timelines.
+
+Quick learner that can manage multiple projects at the same time successfully
+
+Developed and designed real-time prediction software
+
+Strong experience mentoring junior colleagues
+
+Excellent written and verbal communication skills
+
+Advanced degree in physics, applied mathematics, statistics or related field is preferred
+
+Healthcare industry experience is a plus
+
+About Us
+
+Remedy Partners delivers software and services that enable payers, employers and at-risk providers to organize and finance healthcare delivery around a patient's episode of care. For healthcare providers, Remedy Partners’ software, analytics and administrative services support bundled payment contracts with Medicare and Commercial Insurers, often through shared-risk partnerships. For payers, Remedy Partners empowers the development of bundled payment contracting programs and guides development of bundled payment networks. Remedy Partners presently delivers its services to partners at more than 1,000 healthcare locations nationwide.
+
+Please note that all Remedy employees are required to adhere to all organizational policies, the Code of Conduct and participate in all compliance-related training and education.

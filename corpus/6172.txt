@@ -1,0 +1,24 @@
+Machine learning engineer   This position (Full Time) is based in Mountain View, CA, reporting to the CTO.  Responsibilities
+
+  Design and develop machine learning models to solve specific problems in the healthcare/medical domain. Perform feature engineering, apply the latest published research, and tune model hyperparameters to achieve high model performance.   Train models on large volumes of data across many different kinds of sensor signals.  Work with platform software engineers to deploy the ML models to Production and integrate them into customer-facing features on the Twins platform.   Measure model performance and continuously improve over time.  Qualifications   Bachelor’s degree in Computer Science, Math, or Statistics; Masters or PhD would be a plus
+
+ Experience with building Production-quality ML models to solve real-world problems, using techniques like Deep Neural Networks, Gradient Boosting, etc. ○ Experience with TensorFlow, scikit-learn, or related technologies. ○ Experience developing software in Python; experience in other languages like Java would be a plus.   Strongly desired: ○ Experience with sequence learning, including Recurrent Neural Networks, LSTM, Attention Networks, etc. ○ Experience with pattern recognition and anomaly detection.   2+ years of experience in machine learning; 4+ years in overall software engineering is preferred   Strong knowledge of linear algebra, calculus, statistics   Strong verbal communication skills; able to translate ML technology and statistics to non-ML experts   Domain experience in healthcare, biosensors, or related areas would be a plus, but is not required  
+
+Job Summary
+
+                             
+                     
+                         Location 
+                             Mountain View, CA 94035 
+                     
+                 
+                             
+                     
+                         Job type 
+                         Full Time, Employee 
+                     
+                 
+                 
+                     
+                         Posted 
+                         4 Days ago

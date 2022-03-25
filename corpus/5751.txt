@@ -1,0 +1,127 @@
+Read what people are saying about working here. 
+
+Overview
+
+Nashville, Tenn.-based Bridgestone Americas, Inc. is the U.S. subsidiary of Bridgestone Corporation, the world’s largest tire and rubber company. Bridgestone Americas and its subsidiaries develop, manufacture and market a wide range of Bridgestone, Firestone and associate brand tires to address the needs of a broad range of customers, including consumers, automotive and commercial vehicle original equipment manufacturers, and those in the agricultural, forestry and mining industries.
+
+The companies are also engaged in retreading operations throughout the Western Hemisphere and produce air springs, roofing materials, and industrial fibers and textiles. The Bridgestone Americas family of companies also operates the world’s largest chain of automotive tire and service centers.
+
+Guided by its global corporate social responsibility (CSR), commitment Our Way to Serve, Bridgestone embraces its responsibility as a global leader by striving to improve the way people move, live, work and play.
+
+Position Summary
+
+The "Senior Data Scientist I" is a technically advanced role in Analytics and also requires a medium level of business skills. According to company needs at any given time, this teammate will perform and lead any medium scale advanced statistical analysis using techniques that are needed by the business with moderate supervision. This Analyst performs the analyses while also technically supervising less experienced Analysts in those and other techniques as applicable. This role will also communicate effectively on multiple levels, using highly technical language with other Analysts and translating technical results clearly and effectively for Manager-Level and below teammates. Despite this being a technical role, this teammate’s business skills are high enough to develop professional relationships with managers outside of Analytics that instill trust in the Analytics methodologies. Performs primarily medium scale statistical analyses or medium scale modeling projects independently.
+
+Responsibilities
+
+Builds new predictive/descriptive models, evaluate current effectiveness of old models, design experiments/campaigns and analyze the resulting data, perform post-hoc (correlational) analysis when experimental designs (causational analyses) are not feasible and explains the limitations of the results, advises analytical data programmers on quality and infrastructure needs/challenges, etc.
+
+Majority of time spent coding is on creation of new code
+
+Write large blocks of code that will be run repetitively with moderate efficiency
+
+Perform several of these types of analysis depending on capability to satisfy the need of the organization and project:
+
+Sample Selection / Stratification
+
+Experimental Design
+
+Categorical Data Analysis
+
+Linear Regression
+
+Non-Parametric Analysis
+
+Multivariate Analysis
+
+Survey Design and Analysis
+
+Survival Analysis
+
+Time Series Analysis
+
+Forecasting
+
+Optimization
+
+Simulation Models
+
+Decision Trees
+
+Heuristic Models
+
+Algorithmic Models
+
+Translating analytical results, presenting to Director-Level executives and below, and making recommendations for improvements in the areas of application
+
+Creation of intermediate technical documentation
+
+Identifies and with limited involvement from more experienced analysts resolves data issues (such as missing values and invalid data)
+
+Creates basic transformations of data independently and intermediate transformations with limited involvement from more experienced analysts
+
+Applies basic techniques for handling small sample sizes independently and applies intermediate techniques with limited involvement from more experienced analysts
+
+Perform large scale statistical analysis or medium scale modeling projects independently or in collaboration with other Analysts.
+
+Apply skills learned in previous roles to the business using Python.
+
+Mentors less experienced Analysts, and interacts professionally with leaders outside of Analytics.
+
+Depending on teaching proficiency, formally train or assist in the formal training of less experienced Analysts.
+
+Partner with more experienced Analysts on large scale modeling projects.
+
+Technically supervising, mentoring, coaching, and training all less senior analysts on advanced statistical techniques and how to apply them to business problems
+
+Qualifications
+
+MS degree in Analytics, Statistics, or Mathematics fields and 3-6 years of Analytics experience or PhD degree and 2-4 years of Analytics experience
+
+2+ years of Python, R, or SAS programming experience in previous roles (Python experience preferred).
+
+Expertise acquired through prior experience in applying statistical/mathematical techniques in 1 or more business units/focus areas (Operations, Supply Chain, Real-Estate, Pricing, Marketing, Manufacturing).
+
+Able to analyze business data using 2 or more of the Statistical/Mathematical Specialties below:
+
+Sample Selection / Stratification
+
+Experimental Design
+
+Categorical Data Analysis
+
+Linear Regression
+
+Non-Parametric Analysis
+
+Multivariate Analysis
+
+Survey Design and Analysis
+
+Survival Analysis
+
+Time Series Analysis
+
+Forecasting
+
+Optimization
+
+Simulation Models
+
+Decision Trees
+
+Heuristic Models
+
+Algorithmic Models
+
+Intermediate Statistical ability, able to apply techniques as appropriate for medium data sets with <= 50 variables (columns)
+
+Must be a proficient storyteller able to explain complicated statistical analyses, techniques, and results to non-statistical audiences of Director-level Executives and below.
+
+Capable of working and communicating directly with Manager-level and below to scope the technical needs of medium scale, medium-value projects and ad-hock analyses.
+
+Capable of assisting in the technically supervising junior level Statistical Analysts / Data Scientists
+
+Capable of writing basic technical documents of small analytics without assistance.
+
+ The Bridgestone Americas family of enterprises includes more than 50 production facilities and 55,000 employees throughout the Americas. ...

@@ -1,0 +1,38 @@
+The Genesys Cloud Analytics platform is the foundation on which decisions are made that directly impact our customer’s experience as well as their customers’ experiences. We are a data-driven company, handling tens of millions of events per day to answer questions for both our customers and the business. From new features to enable other development teams, to measuring performance across our customer-base, to offering insights directly to our end-users, we use our terabytes of data to move customer experience forward.
+
+In this role, you’ll partner with software engineers, product managers, and data scientists to build and support a variety of analytical big data products. The best person will have a strong engineering background, not shy from the unknown, and will be able to articulate vague requirements into something real. We are a team whose focus is to operationalize big data products and curate high-value datasets for the wider organization as well as to build tools and services to expand the scope of and improve the reliability of the data platform as our usage continues to grow on a daily basis.
+
+Summary:
+Develop and deploy highly-available, fault-tolerant software that will help drive improvements towards the features, reliability, performance, and efficiency of the Genesys Cloud Analytics platform.
+Actively review code, mentor, and provide peer feedback.
+Collaborate with engineering teams to identify and resolve pain points as well as evangelize best practices.
+Partner with various teams to transform concepts into requirements and requirements into services and tools.
+Engineer efficient, adaptable and scalable architecture for all stages of data lifecycle (ingest, streaming, structured and unstructured storage, search, aggregation) in support of a variety of data applications.
+Build abstractions and re-usable developer tooling to allow other engineers to quickly build streaming/batch self-service pipelines.
+Build, deploy, maintain, and automate large global deployments in AWS.
+Troubleshoot production issues and come up with solutions as required.
+This may be the perfect job for you if:
+You have a strong engineering background with ability to design software systems from the ground up.
+You have expertise in Java, Python or similar programming languages.
+You have experience in web-scale data and large-scale distributed systems, ideally on cloud infrastructure.
+You have a product mindset. You are energized by building things that will be heavily used.
+You have engineered scalable software using big data technologies (e.g. Hadoop, Spark, Hive, Presto, Flink, Samza, Storm, Elasticsearch, Druid, Cassandra, etc).
+You have experience building data pipelines (real-time or batch) on large complex datasets.
+You have worked on and understand messaging/queueing/stream processing systems.
+You design not just with a mind for solving a problem, but also with maintainability, testability, monitorability, and automation as top concerns.
+Technologies we use and practices we hold dear:
+Right tool for the right job over we-always-did-it-this-way.
+We pick the language and frameworks best suited for specific problems. This usually translates to Java for developing services and applications and Python for tooling.
+Packer and ansible for immutable machine images.
+AWS for cloud infrastructure.
+Infrastructure (and everything, really) as code.
+Automation for everything. CI/CD, testing, scaling, healing, etc.
+Flink and Kafka for stream processing.
+Hadoop, Hive, and Spark for batch.
+Airflow for orchestration.
+Druid, Dynamo, Elasticsearch, Presto, and S3 for query and storage.
+About Genesys
+
+Every year, Genesys® delivers more than 70 billion remarkable customer experiences for organizations in over 100 countries. Through the power of the cloud and AI, our technology connects every customer moment across marketing, sales and service on any channel, while also improving employee experiences. Genesys pioneered Experience as a ServiceSM so organizations of any size can provide true personalization at scale, interact with empathy, and foster customer trust and loyalty. This is enabled by Genesys CloudTM, an all-in-one solution and the world’s leading public cloud contact center platform, designed for rapid innovation, scalability and flexibility. Visit www.genesys.com.
+
+Genesys is an equal opportunity employer committed to diversity in the workplace. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, disability, veteran status, and other protected characteristics. #LI-AR2

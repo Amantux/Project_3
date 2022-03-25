@@ -1,0 +1,42 @@
+Overview
+
+
+The Data Engineer participates in the design and build of modern data products that comprise of raw data stores (data lakes) and cleansed data repositories, populated by batch or streaming data pipelines. The Data Engineer works with a team to create a robust, sustainable and flexible design and leads the technical delivery using Agile delivery frameworks like Scrum or Kanban.
+
+Responsibilities
+Developing and managing data processes to ensure that data is available and usable
+Creation and automation of data pipelines and platforms
+Managing and monitoring data quality via automated testing frameworks (Data Driven Testing, TDD, etc.)
+Working closely with Architects, Data Scientists, and DevOps to design, build, test, deliver, and maintain sustainable and highly scalable data solutions
+Researching data acquisition and evaluating suitability
+Integration of data management solutions into client environment
+Actively managing risks to data and ensuring there is a data recovery plan
+Building data repositories such as: data warehouses, data lakes, and operational data stores, etc.
+Qualifications
+3+ years relevant professional work experience.
+Experience and expertise in the following:
+Creating robust and extensible data pipelines for production systems
+Use of cloud platforms, preferably AWS
+Creating secure, performant, and well-modeled data stores
+Common analytical platform architectural patterns (Star Schema, data integration patterns, ABAC, data quality frameworks etc.)
+Data lake design patterns and technology options (schema on read, metadata capture, search framework)
+Use of scripting languages, preferably Python
+Familiarity with NoSQL databases
+Source code version control management using git
+Project experience using the Scrum or Kanban framework.
+Professionalism; to include written and oral communication – the ability to communicate collaboratively in front of a whiteboard. An ability to understand your audience and adjust your communication style to fit
+Aptitude and desire for learning new technologies.
+Technically savvy, entrepreneurial spirit who thrives in environments that reward self-initiative and resourcefulness.
+About Excella
+
+
+Excella is a leading provider of Agile software development and data and analytics solutions to clients in the federal, commercial and non-profit sectors. We believe that great work leads to great things –- our experts measure success by the positive impact we make on our clients, community, and colleagues. We are growing fast and need passionate, innovative people who love working with technology and are ready to make an impact.
+
+Here's what you can expect from us:
+You'll work with great people who love what they do: our team includes published authors, certified trainers, and internationally renowned speakers.
+We have a "bring your own device" workplace and will share the cost of a new computer of your choice -- Mac or PC. It's up to you.
+We'll invest in your career by providing 3 days of paid professional development every year, including travel and registration fees to attend classes and conferences, in addition to tuition assistance for degrees and certifications.
+Starting day one, every employee is bonus eligible and receives 15 days of paid vacation, 6 federal holidays, and 4 floating holidays.
+You can bike, drive, or metro to work -- our commute reimbursement plan has you covered.
+You'll have fun! We hold monthly social events all year long, including a summer event for you and your family.
+Excella is an equal opportunity/affirmative action employer. All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age, or any other characteristic protected by law.

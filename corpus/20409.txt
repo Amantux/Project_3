@@ -1,0 +1,32 @@
+Responsibilities:
+The Discovery Data Analyst is responsible for the day-to-day management of discovered asset data. This includes the identification and resolution of discovery errors, managing data coming into the CMDB, and performing data quality audits to enable accurate and up-to-date information. The Discovery Data Analyst will use ServiceNow Discovery, along with other asset management tools.
+
+Specific Deliverables:
+Handle tactical-level Technology Asset Management (TAM) activities including the development of various reports (e.g., asset inventory, data quality report)
+Manage to the established TAM process, procedures, policies, and technologies and adhere with overarching TAM strategy as it relates to discovery and CMDB data management
+Implement updates to the Warner Bros. data model based on continuous improvement initiatives
+Manage the TAM discovery schedule by tracking scanned subnets and update the discovery schedule based on new subnets or requirements
+Report on discovery errors and provide recommendations for remediation
+Work with the network team and asset owners to resolve outstanding discovery errors
+Report on CMDB data quality and provide recommendations for remediation
+Work with asset owners to resolve data quality issues
+Execute maintenance activities on the asset inventory to align to meeting TAM KPIs
+Execute credential management process by scheduling meetings with asset owners to onboard their credentials into ServiceNow
+Pull exports from associated ServiceNow tables and generate reports and dashboards
+Conduct analysis on exports to calculate field completeness percentage
+Pull list of errors from ServiceNow based on Subnet or from discovery schedules
+Bucket errors by type (i.e. Credentials, Network, etc.) and work with associated parties for resolution
+Create custom probes / Discovery patterns as necessary
+Requirements:
+Bachelor's degree in Information Technology or related discipline preferred, or equivalent work experience.
+4-5 years of ServiceNow ITAM experience (Discovery experience preferred)
+Detailed understanding of IT Asset Management principles and processes
+Skills in identifying, communicating and resolving complexed business problems
+Track record of delivery within technology environments. Highly analytical in problem solving with the ability to apply innovative thinking
+Proficiency using Microsoft Office 365 (Word, Excel, PowerPoint, Teams)
+Knowledge of the information system environment, including both hardware and software. Understanding of key physical & virtual operating systems and hardware data attributes (processors, cores, etc.).
+Knowledge of VMware Virtual Center, Microsoft SCCM, Software and Hardware discovery tools, and Active Directory, as well as Unix/Windows Operating systems and networking
+Advanced interpersonal skills ability to work effectively with internal contacts and vendors
+Strong communication and presentation skills
+Demonstrate ability to meet tight deadlines as well as coordinate, prioritize and communicate project statuses to internal customers and stakeholders.
+The Company is an equal opportunity employer and makes employment decisions on the basis of merit and business needs. The Company will consider all qualified applicants for employment without regard to race, color, religious creed, citizenship, national origin, ancestry, age, sex, sexual orientation, genetic information, physical or mental disability, veteran or marital status, or any other class protected by law. To comply with applicable laws ensuring equal employment opportunities to qualified individuals with a disability, the Company will make reasonable accommodations for the known physical or mental limitations of an otherwise qualified individual with a disability who is an applicant or an employee unless undue hardship to the Company would result.

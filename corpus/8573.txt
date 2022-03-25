@@ -1,0 +1,75 @@
+Company Overview
+
+At Memorial Sloan Kettering (MSK), we’re not only changing the way we treat cancer, but also the way the world thinks about it. By working together and pushing forward with innovation and discovery, we’re driving excellence and improving outcomes.
+
+For the 28th year, MSK has been named a top hospital for cancer by U.S. News & World Report. We are proud to be on Becker’s Healthcare list as one of the 150 Great Places to Work in Healthcare in 2018, as well as one of Glassdoor’s Employees’ Choice Best Place to Work for 2018. We’re treating cancer, one patient at a time. Join us and make a difference every day.
+
+Job Description
+
+WHEN APPLYING: Please include (as a single PDF) both a resume and a cover letter; in the letter, we’d love to hear about the most impactful project you’ve worked on recently.
+
+Strategy Analytics and Patient Access
+
+The Strategy Analytics team (within the Department of Strategy & Innovation) leverages data to shape strategic decisions at Memorial Sloan Kettering Cancer Center and solve problems that measurably impact the lives of our patients and staff. We were awarded the 2012 INFORMS Prize for “repeatedly applying the principles of advanced analytics and operations research / management science in pioneering, varied, novel, and lasting ways.” We encourage analysts’ technical and business skill development in a variety of ways, including conferences and external workshops, internal training and journal clubs, creating analytical tools and best practices, and developing our own in-house R package.
+
+This position is part of the Embedded Analytics Program and has dual reporting to (1) the Senior Director of Patient Access for goal setting and project implementation and (2) the Analytics Manager for technical supervision and mentorship. Embedded Analytics allows our analysts to be a full member of an operational team to truly understand their needs and ensure sustainable implementation of work, while still being part of a diverse and energizing community of analytics experts.
+
+The Patient Access Service (PAS) is the front-door for the majority of Memorial Sloan Kettering’s patients. A team of 70+ Care Advisors and nurses is charged with helping patients access MSK clinicians by collecting information about their medical history and treatments, identifying the right sub-specialist to provide expert care, and coordinating appointment logistics.
+
+The Role and Projects
+
+We are seeking a Senior Data Scientist / Strategic Consultant who will serve as the lead on projects crucial to ensuring MSK’s growth and allowing patients continued access to our clinicians’ expertise. This will involve defining and scoping analyses, collecting and managing data, performing statistical and mathematical modeling, developing new tools and systems, and disseminating actionable insights. This will be as part of a team of two, in partnership with the current Data Scientist embedded with the Patient Access Service.
+
+You will:
+
+Serve as an analytical thought partner to Patient Access leadership, especially the Senior Director, Clinical Director, and 8 front-line managers
+
+Become deeply versed in the operational needs of Patient Access and own the strategic roadmap for iteratively developing analytical products in support of those needs
+
+Manage individual analytical products and projects (both independently and in collaboration with the current Data Scientist) from "question to answer" including problem framing, data collection and validation, exploratory analysis, statistical modeling, visualization, synthesis, and ongoing maintenance of reusable tools
+
+Effectively communicate actionable insights and see them through to implementation
+
+Sample projects include:
+
+Growth Planning and Strategy: PAS leadership collaborates closely with clinicians and administrators on how to grow and manage their services. How can we provide them additional data and insights to guide clinician recruitment and practice management?
+
+Call Center Operations: Patient demand is variable and changing. How can we define optimal staffing and training policies so as to maximize service levels while maintaining staff satisfaction?
+
+Patient Experience: How can we collect timely and relevant data about patients’ experience of becoming an MSK patient while being respectful of their time and emotional state? How can we surface insights from this data to improve PAS operations?
+
+Qualifications
+
+We are looking for an analytics professional who has both deep technical skills and a passion for applying them to real-world problems in partnership with non-technical stakeholders. Our successful analysts typically have the below qualifications:
+
+You have a proven track record (4-7 years of experience) of using analytics and data science to impact key business decisions
+
+You’re a strong consultant skilled at partnering with non-technical stakeholders to turn vague business problems into crisp analytical projects
+
+You know how to choose the right technical approach for a question (from a statistical model to a dashboard and everything in between) and know that the simplest solution is often the best
+
+You’re a storyteller, able to synthesize knowledge from a variety of sources and clearly communicate complex topics to non-technical audiences
+
+You’ve conducted reproducible analyses using R, Python, or a similar language
+
+You’ve built beautiful production-grade dashboards using Tableau or a similar BI tool
+
+You’re deeply comfortable with relational databases and SQL
+
+You have a solid understanding of common statistical methods (especially regression models and probability)
+
+You’re curious and self-motivated, and you thrive when working autonomously. You know when to run with something and when to ask for help.
+
+You have a bachelor’s degree in a quantitative field (e.g. statistics, economics, operations research, mathematics) or equivalent training, fellowship, or work experience
+
+Nice-to-have qualifications (but definitely not requirements) would include a master’s degree and prior experience in healthcare or call center operations.
+
+WHEN APPLYING: Please include (as a single PDF) both a resume and a cover letter; in the letter, we’d love to hear about the most impactful project you’ve worked on recently.
+
+#LI-POST
+
+Closing
+
+MSK is an equal opportunity and affirmative action employer committed to diversity and inclusion in all aspects of recruiting and employment. All qualified individuals are encouraged to apply and will receive consideration without regard to race, color, gender, gender identity or expression, sexual orientation, national origin, age, religion, creed, disability, veteran status or any other factor which cannot lawfully be used as a basis for an employment decision.
+
+Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job or to perform your job. Examples of reasonable accommodation include making a change to the application process or work procedures, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.

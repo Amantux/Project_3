@@ -1,0 +1,83 @@
+Data Engineer
+
+Prescient Holdings Group, LLC is looking for extraordinary people to join our team!
+
+Prescient Holdings Group (PHG) is a healthcare company providing pharmaceutical management solutions to payers, patients, and providers. We are focused on developing the most effective strategies for optimizing drug access and spend through our suite of formulary and rebate services. PHG is currently searching for a dynamic addition to its team. If you’re interested in a career within a customer-focused, team-oriented environment that rewards innovation, quality, integrity and collaboration, we welcome your application.
+
+Why join Prescient? Because our success is dependent on you; innovative professionals with top notch skills who thrive on opportunity, high performance, and teamwork. We look for individuals who want to work on a team that cares about making a difference in the value of healthcare.
+
+The Scoop:
+
+Using industry best practices for data architecture and management, the Data Engineer plans, designs, and optimizes custom application databases. Such activities involve understanding of the business processes the application data supports, interacting with development teams and end-users to determine application data access requirements, transaction rates, volume analysis, data modification/transformation needs, and other pertinent data required to maintain integrated databases and support business processes. Designs data access methodologies for optimal use of the data environments. Makes recommendations on and implements data-driven tuning exercises.
+
+What You Get To Do:
+Analyzes, designs and develops enterprise data and information architecture
+Creates conceptual, logical, and physical data models
+Develops ETL processes to automate data ingestion and processing
+Serves as database subject matter expert (SME); assists developers and analytics staff with SQL Queries as well as stored procedures
+Organizes data and tune data environments for optimal performance while managing cloud compute and storage costs
+Establishes data standards and ensure data quality
+Supports data cataloging and data governance activities
+Works within Azure Cloud environment
+Mentors software engineers on best practices related to data access and management
+What You Need:
+
+Education and/or Experience
+For consideration, candidates will need a Bachelor's degree (or equivalent combination of education and experience) along with at least eight (8) plus years’ related experience
+Prior experience in PBM, pharmaceutical or managed health care industry preferred
+Computer Skills
+
+To perform this job successfully, an individual must have:
+Hands on experience developing complex SQL queries and stored procedures (T-SQL)
+Experience developing data ingestion and processing solutions (ETL using SSIS)
+Experience creating conceptual, logical, and physical data models
+Knowledge of Microsoft SQL Server best practices
+Familiarity with Microsoft Azure services (Azure SQL, Data Factory, Data Lake Store, Power BI)
+Certificates, Licenses, Registrations
+None required
+Azure Data Engineer Associate certification is highly desired
+Other Skills and Abilities
+Experience with healthcare data (drug information, formulary, etc.)
+Knowledge of HIPAA standards
+Working knowledge of database and data-access concepts
+Proficiency in identifying data patterns, trends and anomalies
+Understanding of web applications and/or other distributed application architectures
+Knowledge of SQL Server performance tuning, key configuration parameters, and version features
+Analytical and problem-solving skills
+Ability to work in a fast-paced and dynamic environment
+Requirements gathering and analysis
+Proven experience promoting process improvement
+Familiarity with software development fundamentals
+Good verbal/writing communication as well as interpersonal skills
+Travel - This position may require occasional domestic travel and attendance maybe required at various local conferences and meetings.
+
+The Perks:
+
+Medical / Dental / Vision / Wellness Programs
+
+Paid Time Off / Company Paid Holidays
+
+401K with Company match
+
+Life and Disability Insurance
+
+Tuition Reimbursement
+
+Employee Referral Bonus
+
+This position is eligible for Employee Referral Bonus at Level II
+
+EOE, M/F/D/V
+
+OSHA/ADA:
+
+To perform this job successfully, the successful candidate must be able to perform each essential duty satisfactorily. The requirements listed are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+Disclaimer:
+
+The above statements are intended to describe the general nature and level of work being performed by people assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified.
+
+Job Type: Full-time
+
+Work Remotely:
+Temporarily due to COVID-19

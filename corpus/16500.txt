@@ -1,0 +1,43 @@
+Power the Possibilities
+The CDK Global technology team is looking for collaborative innovators who are passionate about making their mark on emerging enterprise software products. We’re building and developing cloud technology for the automotive retail industry
+that will change the landscape for automotive dealers, original equipment manufacturers (OEMs) and the customers they serve.
+
+Be Part of Something Bigger
+Each year, more than three percent of the U.S. gross domestic product (GDP) is attributed to the auto industry, which flows through our customer, the auto dealer. It’s time you joined an evolving marketplace where research and development
+investment is measured in the tens of billions. It’s time you were a part of something bigger.
+
+We’re expanding our workforce – engineers, architects, developers and more – onboarding early adopters who can optimize, pivot and keep pace with ever-evolving development roadmaps and applications.
+
+Join Our Team
+Growth potential, flexibility and material impact on the success and quality of a next-gen, enterprise software product make CDK an excellent choice for those who thrive in challenging, fast-paced engineering environments.
+The possibilities for impact are endless. We have exceptional opportunities to evolve our industry by driving change through new technology.
+
+If you’re ready for high-impact, you’re ready for CDK.
+
+Description and Responsibilities:
+
+We are looking for a motivated and experienced data scientist to join our R&D organization. Our Data Science team in R&D works to incorporate advanced analytics into the automotive industry. The ideal candidate will have a mix of skills including engineering best practices, statistical expertise, and a strong business sense. Your work could vary from building a recommendation model that finds someone the perfect vehicle, to identifying which parts on a vehicle are likely to fail and when. Your responsibilities will extend beyond modeling to the entire data science pipeline, including building out our data lake with new sources, performing exploratory analysis, building pipelines to transform data, and providing summary results to business leaders. Our data science efforts are still in their early stages, so you will play a critical role designing our analytics science infrastructure. You will need to take initiative, and be capable of finding solutions where there is no clear path forward.
+
+POSITION CAN BE BASED IN SAN JOSE, CA OR AUSTIN, TX
+
+Required Skills and Experience:
+Bachelor’s degree in a quantitative field
+3-5 years of experience as a data scientist
+Expertise with Python, including the data science stack (Pandas, Numpy, Scikit-learn)
+Background in a variety of modeling techniques including recommendation systems, neural networks, XGBoost, NLP, and time-series forecasting.
+Expertise using SQL for querying data
+Cloud experience, AWS preferred
+Proficient using Docker to deploy machine learning solutions
+Experience exposing data science solutions as REST APIs and Batch processes
+Familiar with big data technologies: Hadoop, Spark, and Hive
+Experience with version control systems, CI/CD pipelines, and Agile workflow
+Ability to take ill-defined business problems and translate them into actionable plans
+Comfort with ambiguity and ability to act under uncertainty
+Ability to communicate with engineers, data scientists, and nontechnical audiences
+Preferred Skills:
+Graduate degree in a quantitative field
+Experience with NoSQL databases
+Experience with streaming data and analytics using Kafka, Spark Streaming, or equivalent system
+CDK Global knows you have passions outside of work. You have family, friends, sporting events, and lots of things going on. That’s why we offer a comprehensive benefits package to not only take care of you but your family as well. All of our benefits are effective the first day of employment including 401K matching, paid time off to re-energize, donate your time to volunteer in your community, and tuition reimbursement to name a few.
+
+At CDK, we pride ourselves on having a diverse workforce. We value and celebrate the uniqueness of individuals and the different perspectives they provide. We offer equal opportunity employment regardless of race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability status, age, marital status, or protected veteran status.

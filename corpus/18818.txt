@@ -1,0 +1,57 @@
+About Dexcom:
+
+Founded in 1999, Dexcom, Inc. provides continuous glucose monitoring technology to help patients and their clinicians better manage diabetes. Since our inception, we have focused on better outcomes for patients, caregivers, and clinicians by delivering solutions for people with diabetes - while empowering our community to take control of diabetes.
+
+Functional Description: Technical Individual Contributor
+
+Summary:
+
+Are you a data engineer that thrives in a highly collaborative, high growth company? Dexcom has an exciting opportunity for an experienced Sr Data Engineer to provide technical expertise for the projects, functions, and strategic objectives of the Supply Chain team. This is a new position on a growing team that will partner with multiple functions (IT, Manufacturing Operations, Quality Assurance, R&D, Finance, Commercial Operations, vendors, contract manufacturers) to implement an analytics function for Supply Chain. Along with working to provide data for key operating metrics and insights, Dexcom is the place where you can use your data integration expertise for good in the world.
+
+Essential Duties and Responsibilities:
+Design, build, and maintain processes to integrate data for supply chain and manufacturing.
+Design, build, and maintain processes to transform source data into dimensional data models and views.
+Gather business requirements from technical and non-technical stakeholders to develop supply chain key performance indicators for reports and dashboards.
+Design, build, and maintain dashboards across multiple supply chain functions.
+Partner with cross-functional teams to facilitate data access and deployment.
+Document and troubleshoot database performance or availability issues, and data quality issues.
+
+
+Required Qualifications:
+Quick learner
+Highly attentive to detail and accuracy
+SQL programming skills, including the use of SQL analytic functions
+Experience using BI software (i.e., Tableau, Power BI) to create reports and dashboards
+Experience with Microsoft Office software (i.e., Excel, PowerPoint, Outlook, Visio)
+Understanding of database structures and data integration procedures
+Ability to research and communicate data modeling approaches for selected use cases
+Ability to research and implement data visualization best practices
+Ability to effectively prioritize and execute tasks to meet deadlines
+Experience working in a team-oriented, collaborative environment
+Strong English written and oral communication skills
+Preferred Qualifications:
+Experience working with Google Cloud Platform and cloud technologies a plus
+Experience working with ERP software tools (i.e., Oracle, SAP) a plus
+Experience using and operating one or more data integration tool sets (i.e., SnapLogic, Talend, Informatica, etc.) a plus
+Knowledge of supply chain and manufacturing operations a plus
+Experience using document, task, defect, requirement and test case management systems such as Oracle Agile PLM, Jira, GitHub, Jama, Confluence, etc. a plus
+Experience and Education Requirements:
+Typically requires a Bachelor’s degree in a technical discipline, and a minimum of 5-8 years related experience or Master’s degree and 2-5 years equivalent industry experience or a PhD and 0-2 years experience.
+Certifications and/or degrees in Computer Science or Data Engineering preferred but not required
+Travel Required: 0% -25%
+
+Language Skills: Must be able to communicate effectively in English. Ability to read and interpret documents such as safety rules, operating and maintenance instructions, and procedure manuals. Ability to write routine reports and correspondence. Ability to speak effectively before groups of customers or employees of organization.
+
+Physical Demands: The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. May be required to perform the following Physical Activity: Standing, walking, sitting, using hands, handle or feel, reach with hands and arms, climb or balance, stoop, kneel, crouch, or crawl, talk or hear, taste or smell. May be required to lift 0 lbs. to over 100 lbs.
+
+Work Environment: The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. May be exposed to the following environmental conditions: Wet or humid conditions, work near moving parts, work in high - precarious places, fumes or airborne particles, toxic or caustic chemicals, outdoor weather conditions, extreme heat (non-weather), extreme cold (non-weather), risk of electric shock, work with explosives, risk of radiation, vibration. The noise level in this work environment can range from quiet to very loud.
+
+Please note: The information contained herein is not intended to be an all-inclusive list of the duties and responsibilities of the job, nor are they intended to be an all-inclusive list of the skills and abilities required to do the job. Management may, at its discretion, assign or reassign duties and responsibilities to this job at any time. The duties and responsibilities in this job description may be subject to change at any time due to reasonable accommodation or other reasons.
+
+#LI-EF1
+
+An Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+
+If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact Talent Acquisition at talentacquisition@dexcom.com.
+
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Dexcom. Only authorized staffing and recruiting agencies may use this site or to submit profiles, applications or resumes on specific requisitions. Dexcom does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to the Talent Acquisition team, Dexcom employees or any other company location. Dexcom is not responsible for any fees related to unsolicited resumes/applications.

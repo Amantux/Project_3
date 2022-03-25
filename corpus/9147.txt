@@ -1,0 +1,55 @@
+About the team
+
+Zillow Group is currently seeking a Data Scientist to join the Agent Analytics team in our Seattle office. Our team is tasked with absorbing billions of rows of data from dozens of sources, organizing them, analyzing them, and visualizing them to help inform both short- and long-term decision-making.
+
+Our structure is very flat and you will soon find yourself communicating directly with Senior Leadership. Each team member focuses on a cross-section of the Zillow Group community. Below are some of the areas in which our Data Scientists focus their energy.
+
+Business. Build data-driven insights to fuel the future of Zillow Group’s Agent business. Find opportunities for innovation and assess performance of current initiatives.
+
+Sales. Analyze the intersection of human behavior, incentive structures, and sales process to build a more efficient sales force.
+
+Marketing. Develop strategies for marketing efforts through a wide range of marketing channels and measure their performance.
+
+Tools. Create data-focused information products from billions of data points we collect every single day for internal and external clients.
+
+About the role
+
+Once you're here, you'll work to make important, strategic decisions that influence the direction of the company. More specifically:
+
+Dive into Zillow's internal and third party data (think Hive, Presto, SQL Server, Redshift, Python, Mode Analytics, Tableau, R) to make strategic recommendations (e.g., personalized user flows, segmented marketing audiences, more accurate forecasts).
+
+Assist in the prioritization and development of new product features and business initiatives. Compile and analyze data describing the performance of those initiatives (e.g., AB tests, pilots, incrementality tests).
+
+Develop a common language and approach to analyzing and communicating information and insights across teams.
+
+Create, maintain, and document a robust set of metrics to monitor day-to-day bug detection and long-term performance tracking.
+
+Tell stories that describe analytical results and insights in meetings of all sizes with diverse audiences.
+
+Consult with business partners and provide insight to a variety of non-technical audiences to ensure that all levels of Zillow Group make data-driven decisions.
+
+Who you are
+
+You will not shy away from complexity or uncertainty. You will develop a deep understanding of our mission, business models, and personas. We want you to use that intuition you've developed (both in business and real life) to find opportunities for growth and cultivate insights from our massive data sets. We're looking for a seasoned data scientist who has:
+
+An undergraduate or Master's degree in a quantitative field (e.g. science, engineering, economics, finance, statistics, or similar) or demonstrable experience within data science and analytics.
+
+1+ years of work experience involving quantitative data analysis and complex problem solving (preferably focused on consumer-facing internet products).
+
+Foundational analytical skills (proven understanding of SQL, command of Excel, and experience using R and/or Python) and a Tableau pro.
+
+Experience directly querying multi-terabyte-sized data sets (e.g. with Hive and Presto) including clickstream data and raw data ingested from non-standard platforms (e.g., homegrown systems).
+
+An understanding of concepts, terminology, and measurement issues related to web traffic.
+
+Strong written, verbal, and visual communication skills to concisely communicate in a way that provides context, offers insights, and minimizes misinterpretation.
+
+The skills to work cross-functionally and push business partners to focus on realistic goals and projects.
+
+Get to know us
+
+Zillow Group houses the largest portfolio of real estate brands on mobile and the web. We are on a mission to rewire the real estate transaction and are building transformational tools and services that make it easier for everyone to find and get into a home they love. We are working to create an on-demand real estate transaction experience for every stage of the home lifecycle - for buyers, sellers, renters and borrowers - and we're well on our way. No matter what job you're in, you will play a critical role in making this vision a reality for millions of people.
+
+At Zillow Group, we're powered by our inclusive work culture, where everyone has the support and resources to do the best work of their careers. Our efforts to streamline the real estate transaction is supported by our passion to empower people and enrich lives around everything home, a deep-rooted culture of innovation, a fundamental commitment to Equity and Belonging, and world-class benefits. But, don't just take our word for it. Read our reviews on Glassdoor and recent recognition from multiple organizations, including: Fortune 100 Best Companies to Work For (#69), Fortune Best Workplaces for Diversity (#38), Fortune Best Workplaces for Parents (#31), Fortune Best Workplaces for Women (#20), Fatherly's Best Workplaces for New Dads (#37), JUST Capital 100 Company (#69), Bloomberg Gender Equality Index constituent.
+
+Zillow Group is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees. Therefore, we provide employment opportunities without regard to age, race, color, ancestry, national origin, religion, disability, sex, gender identity or expression, sexual orientation, or any other protected status in accordance with applicable law. If there are preparations we can make to help ensure you have a comfortable and positive interview experience, please let us know.

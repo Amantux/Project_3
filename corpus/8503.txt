@@ -1,0 +1,41 @@
+Responsibilities
+
+The Senior Data Scientist is responsible for developing machine learning predictive analytics models by applying advanced statistical and computational methods, and innovating use of data to support UCLA Health Sciences initiatives that drive clinical, financial and operational improvement. The incumbent is expected to understand the clinical, financial and operational issues to be solved and to determine targeted individual and/or linked healthcare data sets (structured and unstructured). The incumbent leverages machine learning tools and algorithms best-suited to solve these issues, interprets outputs, and presents findings to various levels of stakeholders and technical experts.
+
+Qualifications
+
+Master's degree in Computer Science, Mathematics, Statistics, Engineering, or other computational/quantitative field is highly desired. PhD is preferred.
+
+5 or more years of advanced data analysis experience and expertise in diverse statistical, data mining techniques and technologies including: Neural networks; deep learning; Naïve Bayes; regression, random forest, clustering, text mining, social network analysis;
+
+Natural Language Processing (NLP); supervised and unsupervised machine learning, model validation, testing, and communication; and Machine Learning frameworks like scikit-learn, Tensorflow, Keras, pandas, etc.
+
+Experience working with Microsoft Azure cloud based technologies is preferred
+
+Proficiency with a statistical language: R or Python is required and analytical documentation: Jupyter or iPython notebook is preferred
+
+Strong programming skills: shell scripting, Python, Perl, C++, SQL and Java are preferred
+
+Experience working with Tableau, Power BI, matplotlib, ggplot2 or similar data visualization tool is required
+
+Experience with healthcare data and/or EHR data is preferred
+
+Demonstrated experience synthesizing and analyzing large data and making program recommendations based on that data is required
+
+Excellent written and communication skills explaining complex quantitative models to business stakeholders, management and executives
+
+Experience performing statistical analysis to quantify the limitations of models
+
+Ability to take the inferences from data and produce decisions from it that will optimize objectives
+
+Ability to transfer knowledge and concepts to the team that is implementing the actual system
+
+Ability to grasp data and see patterns or make inferences at a high level
+
+Strong problem-solving and metadata skills
+
+Strong staff development, leadership and coaching skills
+
+Strong organizational and interpersonal skills will be needed in our collaborative and fast-paced team
+
+Demonstrated ability to influence and shape consensus, lead group discussions and presentations to clinical and business operations leaders from across the organization

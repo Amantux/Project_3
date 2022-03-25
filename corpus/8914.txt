@@ -1,0 +1,49 @@
+This role will report to our VP, Data Science.
+
+What will you do?
+
+Understand business decisions that need to be supported by data e.g. risk of readmission to hospital
+
+Identify relevant internal or external data sources for various business needs
+
+Research the state of a problem and existing solutions then quickly summarize research
+
+Help identify new business opportunities and value propositions from existing data
+
+Utilize raw or aggregated data to build predictive models in SPARK, SQL, or Python
+
+Ensure that all security procedures within their area of responsibility are carried out to achieve compliance with security policies and standards.
+
+DS/ML stack:
+
+Languages: Python, PySpark, SQL
+
+Data Tools: Spark, AWS RedShift, AWS Athena, pandas, numpy, scipy, parquet
+
+Modeling Tools: SparkML, scikit-learn, Tensorflow, Tensorflow-Serving, Keras (Tensorflow and Theano backend)
+
+Algorithms: Classifications, Regressions, Neural Networks, Time series, Graphs
+
+Visualization: Tableau or similar
+
+Infrastructure: AWS (including S3, EMR, EC2, Lambda)
+
+We are looking for someone with:
+
+1+ year’s professional experience as a data scientist or machine learning engineer
+
+1+ year’s professional experience working in quantitative computational role
+
+1+ year’s professional experience working with big data and relational databases
+
+Strong experience using machine learning and deep learning packages
+
+Strong experience with data manipulation, analysis and visualization
+
+Solid knowledge of advanced applied data science (machine learning, neural networks, etc.), mathematical modeling, computational, statistical, data mining techniques (regression, decision trees, clustering etc.), as well as dimensionality reduction techniques
+
+Proven track record of fully understanding the scope, commitment to quality, and end-to-end ownership to meet upon agreed timelines.
+
+Bachelors degree or greater in physics, applied mathematics, statistics or related field is required
+
+Healthcare industry experience is a plus

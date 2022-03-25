@@ -1,0 +1,79 @@
+Read what people are saying about working here. 
+
+Functional Description:
+
+Designs, develops and programs methods, processes, and systems to consolidate and analyze unstructured, diverse “big data” sources to generate actionable insights and solutions for client services and product enhancement. Interacts with product and service teams to identify questions and issues for data analysis and experiments. Develops and codes software programs, algorithms and automated processes to cleanse, integrate and evaluate large datasets from multiple disparate sources. Identifies meaningful insights from large data and metadata sources; interprets and communicates insights and findings from analysis and experiments to product, service, and business managers.
+
+About Dexcom:
+
+Founded in 1999, Dexcom, Inc. provides continuous glucose monitoring technology to help patients and their clinicians better manage diabetes. Since our inception, we have focused on better outcomes for patients, caregivers, and clinicians by delivering solutions for people with diabetes - while empowering our community to take control of diabetes.
+
+Responsibilities:
+
+Use techniques from supervised and unsupervised machine learning, statistical analysis and predictive modeling to build knowledge of glucose behavior.
+
+Work directly with partners in Clinical Research and R&D to execute advanced forms of analytics on diabetes-centric and other Dexcom data.
+
+Work with the academic and business community to develop new methods and to contribute to research in the area of advanced analytics on continuous glucose data.
+
+Generate new platform requirements for the Dexcom data engineering group to enhance the analytics capabilities of the platform.
+
+Assist in requirements definition, project scoping, timeline management, and results documentation to ensure professional relationship management.
+
+Develop data products in an interdisciplinary and collaborative environment.
+
+Required Qualifications:
+
+A proven passion for generating insights from data, with a strong familiarity with the higher-level trends in data growth, open-source platforms, and public data sets.
+
+Degree in an analytical or technical field (e.g. applied mathematics, physics, computer science, bioinformatics, physical chemistry, data science)
+
+Knowledge of high level programming languages such as Python, Java or C++ and source control tools such as github.
+
+Strong knowledge of statistical methods generally, and particularly in the areas of machine learning.
+
+Experience with open-source statistical languages and packages including python libraries pandas, numpy, scipy, sklearn and seaborn.
+
+Experience working with cloud databases and/or distributed computing platforms, and their query interfaces, such as SQL, Hive, Spark, Google Cloud BigQuery or Dataproc.
+
+Familiarity with visualization software and techniques (including Jupyter Notebook, Google Cloud Datalab).
+
+A strong business-orientation, able to select the appropriate complex quantitative methodologies in response to specific business goals
+
+A team player, capable of conducting independent research, who is excited by and motivated by hard technical challenges
+
+Results-driven, self-motivated, self-starter
+
+Excellent written and verbal communications skills, with a proven ability to translate complex methodologies and analytical results to higher-level business insights and key take-aways
+
+Ability to travel as-needed to meet with customers
+
+Preferred Qualifications:
+
+Experience working hands-on with large-scale data sets in a cloud environment such as the Google Cloud Platform.
+
+Experience in high level programming languages, including Python, Java, or C++.
+
+Experience in Outcomes Based Research.
+
+Demonstrated ability to collaborate in a Clinical Research and Big Data team.
+
+Experience implementing algorithms for classification, regression, sampling, matrix decomposition and graph factorization in production software.
+
+Experience with machine learning libraries such as MLlib, PyTorch and TensorFlow.
+
+Advanced degree (Ph.D. or Masters) in an analytical or technical field (e.g. applied mathematics, physics, computer science, bioinformatics, physical chemistry, data science)
+
+List of published papers in graduate field of training or expertise.
+
+Experience/Education:
+
+Typically requires a Bachelor’s degree in a technical discipline, and a minimum of 2-5 years related experience or Master’s degree and 0-2 years’ equivalent experience.
+
+An Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+
+If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact Talent Acquisition at talentacquisition@dexcom.com.
+
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Dexcom. Only authorized staffing and recruiting agencies may use this site or to submit profiles, applications or resumes on specific requisitions. Dexcom does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to the Talent Acquisition team, Dexcom employees or any other company location. Dexcom is not responsible for any fees related to unsolicited resumes/applications.
+
+ Founded in 1999, Dexcom, Inc provides continuous glucose monitoring technology to help patients and their clinicians better manage diabet...

@@ -1,0 +1,87 @@
+a.dialogApplyBtn {
+display: none;
+}
+
+
+
+Data Engineering Manager
+
+Company Name:
+
+Lyondell Chemical Company
+
+Location:
+
+Houston, TX, US, 77010
+
+#job-location.job-location-inline {
+display: inline;
+}
+
+Req ID:
+
+72986
+
+Facility:
+
+One Houston Center-130
+
+Department:
+
+Digital Transformation
+
+Division:
+
+Global Business Services
+
+LyondellBasell (NYSE: LYB) is one of the largest plastics, chemicals and refining companies in the world. Driven by its employees around the globe, LyondellBasell produces materials and products that are key to advancing solutions to modern challenges like enhancing food safety through lightweight and flexible packaging, protecting the purity of water supplies through stronger and more versatile pipes, improving the safety, comfort and fuel efficiency of many of the cars and trucks on the road, and ensuring the safe and effective functionality in electronics and appliances. LyondellBasell sells products into more than 100 countries and is the world's largest producer of polypropylene compounds and the largest licensor of polyolefin technologies. In 2020, LyondellBasell was named to Fortune Magazine's list of the "World's Most Admired Companies" for the third consecutive year.
+Basic Function
+LyondellBasell has embarked upon a strategic digital transformation journey, to provide value focused and scalable digital and advanced analytics solutions across LyondellBasell’s enterprise. Through leading and working closely with other Data Engineers, Data Scientists, business domain experts, and IT, the Manager of Data Engineering will have the opportunity to provide significant tangible business value through leading, developing and deploying scalable Data Engineering capabilities on high value problems. This requires a team of innovative, energetic, productive, and humble individuals who demonstrate LyondellBasell’s core values in the application of Data Engineering pipelines and workflows on each project.
+Roles & Responsibilities
+Place emphasis on delivering value through leading data engineering pipelines and solutions, through excellent problem solving, development, and implementation of scalable solutions
+Work collaboratively with Data Scientists and business SMEs (Process Engineers, Automation Engineers, Reliability Engineers, other business domain experts) in providing data pipelines and workflows which are critical to delivering data driven solutions on high impact problems
+Work collaboratively with IT to develop and ensure proper architecture, security, exception handling, testing, and code development standards are adhered to
+Architect and lead the development of data workflows and pipelines necessary for algorithm and ML solution deployment and maintenance for chemical manufacturing domains including predictive maintenance, reliability, preventing downtime, industrial automation and optimization, demand forecasting, and improving health and safety
+Leverage deep data engineering, architecture, advanced technologies, software development expertise, and code development standards to lead the delivery of advanced analytics projects
+Architect, define, and lead the development of technical platforms, frameworks, and applications, to provide data, business intelligence, and information
+Network internally and externally to build relationships that foster technology transfer and collaboration
+Assist with leading the promotion of digital transformation, training and development of other Data Engineers, Data Analysts, and other peers throughout the organization
+Min. Qualifications
+BS in Computer Science, Software Engineering, Computer Engineering, or related technical field. MS or PhD strongly preferred
+9+ years professional hands on technical experience developing and implementing Data Engineering workflows, pipelines, and applications or 7+ years’ experience with PhD.
+3+ years’ experience leading Data Engineering projects, other Data Engineers, and Software Developers
+High level of enthusiasm and a love of data and software development
+Strong quantitative and problem-solving skills, including strong data, technical, and mathematical knowledge and skills
+Strong Python, SQL, and JavaScript programming and scripting skills
+Strong experience with stream-processing systems, Big Data querying tools, MapReduce, MongoDB, Cassandra, integration of data from multiple data sources, ETL techniques and frameworks, and/or messaging systems
+Proficiency and expertise in Real Time historian data, SQL, NoSQL, and NewSQL database technologies
+Experience working with large structured and unstructured data and technologies
+Experience with modern Data Engineering, ML and Data Science libraries such as Pandas, NumPy, Scikit-Learn, NLTK, Seaborn, Dplyr
+Specialty skills in large scale computing, cluster computing, and cloud computing (Azure preferably)
+Experience with Linux, Unix, Git, and software development testing frameworks
+Specialized experience in providing data engineering solutions in various Data Science domains, such as Predictive Maintenance, Forecasting, Real Time streaming analytics, Image Analysis leveraging deep learning methodologies, and optimization
+Preferred Qualifications
+MS strongly preferred, with a PhD preferred
+9+ years professional hands on technical experience developing and implementing Data Engineering workflows, pipelines, and applications
+Strong programming and scripting skills in C#, C++, Java, Julia, or Scala
+Experience with Azure DevOps, Jupyter Notebooks, or VS Code
+Experienced working with Data Scientists on architecting and delivering scalable, end to end advanced analytics solutions
+Knowledge of ML techniques & algorithms, such as ANNs, SVM, GBM, Decision Forests, Clustering algorithms
+Experience with GPU technology, NVIDIA data science development stacks, and CUDA programming
+Competencies
+Builds effective teams
+Collaborates
+Cultivates innovation
+Customer focus
+Demonstrates courage
+Drives results
+Ensures accountability
+Instills trust and exemplifies integrity
+
+Must be at least 18 years of age and must be legally authorized to work in the United States (US) on a permanent basis without visa sponsorship.
+
+LyondellBasell does not accept or retain unsolicited résumés or phone calls and/or respond to them or to any third party representing job seekers.
+
+LyondellBasell is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age, veteran status, and other protected characteristics. The US EEO is the Law poster is available here.
+
+Nearest Major Market: Houston

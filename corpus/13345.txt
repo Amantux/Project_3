@@ -1,0 +1,40 @@
+The Mission Systems Sector Analytics & Insights team is looking for a Sr. Principal Data Scientist to lead analytics for data-driven insights, resulting in more informed decisions ultimately reducing uncertainty and increasing sector-wide performance at an accelerated rate. The ideal candidate is adept at creating data mining architectures/models/protocols, statistical reporting, and data analysis methodologies to identify trends in large data sets. Analysis may have many applications such as to address a business issue or provide a competitive advantage for the organization. Requires strong statistical and data visualization skills.
+
+Must have a proven ability to drive business results with a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes. They must be comfortable working with a wide range of stakeholders and functional teams in an agile environment with an emphasis on driving collaboration, quality and speed to market.
+
+This position is in support of the Digital Engineering Center located in Fairfax, VA and requires experience managing and integrating disparate data sources.
+
+Roles & Responsibilities:
+
+• Lead cross-sector analytics challenges with strong data science background.
+• Implement strong foundational data science practices within the team, lead peer reviews and code sharing.
+• Work with stakeholders throughout the organization to identify opportunities for leveraging data to drive business solutions.
+• Connect to existing databases and analyze data from databases to help drive business decisions across a variety of functions.
+• Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+• Use predictive modeling to help proactively affect business outcomes
+Coordinate with different functional teams to implement models and monitor outcomes.
+
+Qualifications:
+
+Basic Qualifications:
+
+Senior Principal Data Scientist - Bachelor's degree in Computer Science, Statistics, Mathematics, or another quantitative field with 9+ years' experience or a Master's degree in Computer Science, Statistics, Mathematics, or another quantitative field with 7+ years' experience
+
+• Experience developing machine learning models and leveraging statistical analysis to identify insights and trends in big data using Python and/or R
+• Experience in SQL or other database querying language
+• Experience developing data visualizations in Tableau and Python
+• Strong ability to collaborate with stakeholders and communication skills.
+• Strong problem solving skills to manipulate data and draw insights from large data sets
+• Proven ability to learn and master new software, technologies and techniques
+• Ability to obtain a security clearance and US Citizenship
+
+Preferred Qualifications:
+
+• Experience with Agile and Scrum methodologies (Rally, Jira)
+• Experience leading data science projects with a team of data scientists
+• Strong background with BI tools such as Tableau, SAP Lumira or Power BI
+• Experience building and deploying production dashboards.
+• Knowledge of new machine learning and visualization libraries in Python
+• Experience developing custom Python packages for others to use
+
+Northrop Grumman is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity/Affirmative Action Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO/AA and Pay Transparency statement, please visit www.northropgrumman.com/EEO. U.S. Citizenship is required for most positions.

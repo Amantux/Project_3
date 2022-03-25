@@ -1,0 +1,33 @@
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.Facebook is seeking a forward thinking experienced Engineer to join the Production Operations team within Data Center Operations. Our data centers, and the tens of thousands of servers installed in them, are the foundation upon which our rapidly scaling infrastructure efficiently operates and upon which our innovative services are delivered. Facebook is at the leading edge of the global data center industry both in terms of how data centers are designed and operated. This person should enjoy working in a fast paced environment where adaptability and flexibility will be key to their success. This position is permanent and will be based in Fort Worth, Texas.We seek an IT professional with advanced hands-on technical skills in Networks, Server Hardware and Linux (ideally in a Data Center environment). Having extensive knowledge of managing servers and performing complex projects in a large-scale distributed data center environment is a core competency of this individual.The candidate should also have deep knowledge and experience in at least one of the following core areas: Networking, Project Management, Tool and Automation, Hardware and OS repair.
+
+Responsibilities:
+
+Perform deep dives and analyze complex technical issues within the data center, ranging from automated tooling to hardware failures and network issues.
+Work as a technical lead with cross functional teams on large scale data center projects and initiatives.
+Provide cross data center support and identify potentially larger issues, displaying effective communication when something is identified.
+Work with internal hardware teams and vendors to help resolve complex technical issues, maintain high hardware quality levels and influence future design to ensure ease of serviceability.
+Understand/analyze issues and be able to update and develop scripts and smaller sets of software.
+Use data to drive maximum server fleet up-time and utilization rates, by understanding hardware failure rates and SLAs to customers. Identify trends and systemic issues in the fleet and drive resolution.
+Mentor team members to evaluate and identify better ways to resolve issues and define updates to tools and processes.
+Provide guidance and mentor technical leads and the go-to technical resource for management.
+Build cross functional relationships and have the ability to influence policies and procedures to improve global data center operations.
+Participate in an on-call rotation.
+Mininum Qualifications:
+
+BS, BA or BEng in technical field or commensurate experience.
+5+ years of infrastructure or related experience.
+Knowledge of Linux and hardware systems support in an Internet operations environment.
+Knowledge of the interdependencies of data center functions and technologies.
+Experience managing multiple projects within the same time schedule.
+Knowledge of enterprise level networking and storage equipment installs.
+Knowledge of out-of-band/lights-out server communication methods, such as IPMI and serial console.
+Time and project management experience.
+Experience in modifying and developing in commonly used scripting or programming languages.
+Proven communication skills.
+Preferred Qualifications:
+
+Experience in providing technical guidance to external vendors.
+Experience in a large-scale data center environment.
+Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.
+
+Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.

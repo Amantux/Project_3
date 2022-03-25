@@ -1,0 +1,19 @@
+The Personalization team makes deciding what to play next easier and more enjoyable for every listener. From Daily Mix to Discover Weekly, we’re behind some of Spotify’s most-loved features. We built them by understanding the world of music and podcasts better than anyone else. Join us and you’ll keep millions of users listening by making great recommendations to each and every one of them.
+
+Spotify is looking for a Data Engineer to join us. You will build data driven solutions to bring music and digital media experiences to hundreds of millions of active users and millions of creators by matching fans with creators in a personal and relevant way. You will take on complex data-related problems using some of the most diverse datasets available — user behaviors, acoustical analysis, revenue streams, cultural and contextual data, and other signals across our broad range of mobile and connected platforms. Above all, your work will impact the way the world experiences art.
+
+What you'll do:
+Build large-scale batch and real-time data pipelines with data processing frameworks like Scalding, Scio, Storm, Spark and the Google Cloud Platform.
+Use best practices in continuous integration and delivery.
+Help drive optimization, testing and tooling to improve data quality.
+Collaborate with other software engineers, ML experts and stakeholders, taking learning and leadership opportunities that will arise every single day.
+Work in multi-functional agile teams to continuously experiment, iterate and deliver on new product objectives.
+Who you are:
+You know how to work with high volume heterogeneous data, preferably with distributed systems such as Hadoop, BigTable, and Cassandra.
+You know how to write distributed, high-volume services in Java or Scala.
+You are knowledgeable about data modeling, data access, and data storage techniques.
+You appreciate agile software processes, data-driven development, reliability, and responsible experimentation.
+You understand the value of partnership within teams.
+We are proud to foster a workplace free from discrimination. We strongly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better product for our users and our creators. This is something we value deeply and we encourage everyone to come be a part of changing the way the world listens to music.
+You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be brilliant. So bring us your personal experience, your perspectives, and your background. It's in our differences that we will find the power to keep revolutionizing the way the world listens.
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world’s most popular audio streaming subscription service with a community of more than 286 million users.

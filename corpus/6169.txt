@@ -1,0 +1,101 @@
+SparkPost is the world’s #1 email sender, trusted by customers like Atlassian, LinkedIn, Intercom, and Oracle to dramatically increase email performance. We send more than 37% of the world’s business email, more than 5 trillion messages a year. SparkPost’s unmatched data footprint and signals help leading enterprises break through the email noise to drive top-line results.
+
+Investing in the right capabilities to provide insights and automation to our customers for better email inboxing, engagement, and conversion is essential to what we do. As part of that mission, we collect and analyze vast quantities of event data to help us understand a customer’s current performance and how to drive improved performance and ROI.
+
+We're looking for a Senior Data Science to join our Data Science team, working out of either our Columbia, MD or San Francisco, CA offices. This position reports directly to the VP of Data Science.
+
+You will play a significant role in the design and development of innovative and impactful customer-facing data products, enabling SparkPost’s continued market leadership. While your focus will be on research, modeling, and prototyping, you will work with product management, engineering, and customer-facing teams to envisage new features and products and assist with operationalizing your research.
+
+Who You Are
+
+You have a passion for and a proven track record of building innovative data products with large-scale datasets.
+
+You have a strong competency in data science and software engineering practices.
+
+You have practical expertise with developing prototyping data products, data pipelines, exploratory data analysis, machine learning, and familiarity with productionizing machine learning-based applications.
+
+You love working on challenging problems that involve applying your business domain knowledge, data science, and software development experience.
+
+You can effectively work across teams and functions to deliver high-impact results.
+
+You’re passionate about learning new skills and technologies and enjoy mentoring and teaching others.
+
+What The Role Is
+
+Working closely with the product management and engineering teams, and your data science teammates, you will identify and prototype data product opportunities using your data analysis, machine learning and software development skills.
+
+You will collaborate closely with the engineering team as they productionize the data products you’ve prototyped, acting as an advisor when necessary.
+
+As a key member of our growing data science team, you will actively participate in the development and embedding of data science best practices, and the selection of tools and frameworks.
+
+Qualifications
+
+Bachelor’s Degree with a preference for M.S. or Ph.D. in Computer Science, Mathematics, Statistics, Engineering, or related technical discipline.
+
+At least 5 years of programming experience in Python or Scala.
+
+At least 5 years of data science practices experience: cleaning data, developing pipelines, exploratory data analysis, modeling and model evaluation, and data visualization.
+
+At least 3 years experience using tools and libraries such as scikit-learn, pandas, numpy, PyTorch or Keras, Tensorflow, and Jupyter.
+
+At least 2 years experience with Apache Spark, ideally in a YARN configuration.
+
+At least 2 years experience developing data solutions using Amazon Web Services.
+
+Experience with Kubernetes would be valued.
+
+Experience with Natural Language Processing would be valued.
+
+At least 5 years of experience working with Linux-based OSes.
+
+ 
+
+SparkPost is the world’s #1 email sender, trusted by customers like Atlassian, LinkedIn, Intercom, and Oracle to dramatically increase email performance. We send more than 37% of the world’s business email, more than 5 trillion messages a year. SparkPost’s unmatched data footprint and signals help leading enterprises break through the email noise to drive top-line results.
+
+Investing in the right capabilities to provide insights and automation to our customers for better email inboxing, engagement, and conversion is essential to what we do. As part of that mission, we collect and analyze vast quantities of event data to help us understand a customer’s current performance and how to drive improved performance and ROI.
+
+We're looking for a Senior Data Science to join our Data Science team, working out of either our Columbia, MD or San Francisco, CA offices. This position reports directly to the VP of Data Science.
+
+You will play a significant role in the design and development of innovative and impactful customer-facing data products, enabling SparkPost’s continued market leadership. While your focus will be on research, modeling, and prototyping, you will work with product management, engineering, and customer-facing teams to envisage new features and products and assist with operationalizing your research.
+
+Who You Are
+
+You have a passion for and a proven track record of building innovative data products with large-scale datasets.
+
+You have a strong competency in data science and software engineering practices.
+
+You have practical expertise with developing prototyping data products, data pipelines, exploratory data analysis, machine learning, and familiarity with productionizing machine learning-based applications.
+
+You love working on challenging problems that involve applying your business domain knowledge, data science, and software development experience.
+
+You can effectively work across teams and functions to deliver high-impact results.
+
+You’re passionate about learning new skills and technologies and enjoy mentoring and teaching others.
+
+What The Role Is
+
+Working closely with the product management and engineering teams, and your data science teammates, you will identify and prototype data product opportunities using your data analysis, machine learning and software development skills.
+
+You will collaborate closely with the engineering team as they productionize the data products you’ve prototyped, acting as an advisor when necessary.
+
+As a key member of our growing data science team, you will actively participate in the development and embedding of data science best practices, and the selection of tools and frameworks.
+
+Qualifications
+
+Bachelor’s Degree with a preference for M.S. or Ph.D. in Computer Science, Mathematics, Statistics, Engineering, or related technical discipline.
+
+At least 5 years of programming experience in Python or Scala.
+
+At least 5 years of data science practices experience: cleaning data, developing pipelines, exploratory data analysis, modeling and model evaluation, and data visualization.
+
+At least 3 years experience using tools and libraries such as scikit-learn, pandas, numpy, PyTorch or Keras, Tensorflow, and Jupyter.
+
+At least 2 years experience with Apache Spark, ideally in a YARN configuration.
+
+At least 2 years experience developing data solutions using Amazon Web Services.
+
+Experience with Kubernetes would be valued.
+
+Experience with Natural Language Processing would be valued.
+
+At least 5 years of experience working with Linux-based OSes.

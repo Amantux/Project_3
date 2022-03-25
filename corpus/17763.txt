@@ -1,0 +1,21 @@
+Role: Sr. Talend Data Engineer
+Location: Los Angeles, CA
+
+Skills: Data Warehousing Concepts, MySQL, ETL, AWS, Talend, Redshift, Big Data, Quality Assurance, AWS CLI, Data warehousing, QA
+
+Responsibilities:
+Requirement Gathering and design of data warehouse and ETL process.
+Architectural design for Migration of legacy data from Mysql to Amazon Redshift
+Developing Talend ETL Batch jobs to extract data from Parquet file and then load data into Redshift data base.
+Designed job orchestration, audit and logging framework of ETL using Talend
+Work on Talend Administrative Center for Job scheduling and Talend User Management
+Code deployment process and code version control using GitHub
+Perform AWS DevOps activities related to deployment of ETL jobs on Dev, QA and Prod environment
+Coordinate with offshore teams for development tasks
+Required skills:
+Analysis, Design, Develop, and Support of ETL applications which includes strong experience on Data Warehouse Good understanding and best practice of Data Warehousing Concepts, involved in Full Development life cycle of Data Warehousing Analyze, design and develop ETL strategies and processes, writing ETL specifications
+Experience in Talend Open Studio (6.x7.x) for Data Integration, Data Quality and Big Data.
+Expertise on Talend Data Integration suite and Bigdata Integration Suite for Design and development of ETL Bigdata code and Mappings for Enterprise DWH ETL Talend Projects.
+Widespread experience in using Talend features such as context variables, triggers, connectors for Database and flat files.
+Hands on Involvement to design Jobs used Context Variables to Parameterize Talend Jobs Tracking Daily Data load, Monthly Data extracts and send to client for their verification.
+For any queries, contact Praveen at 760-307-4276 or praveen@dantatechnologies.net

@@ -1,0 +1,46 @@
+Get your career started at eHealth
+
+
+eHealthInsurance has many exciting career opportunities in a number of locations, across various functions. Come join us today!
+
+COMPANY DESCRIPTION:
+
+eHealth, Inc. is the parent company of eHealthInsurance Services Inc., and is headquartered in Mountain View, California with a marketing office in San Francisco, California. Founded in 1997, eHealth was responsible for the nation’s first online sale of a health insurance policy. With over 3 million sold members, eHealthInsurance is the leading online source of health insurance for individuals, families and small businesses.
+
+eHealthInsurance presents complex health insurance information in an objective, user-friendly format, enabling the research, analysis, comparison and purchase of health insurance products that best meet consumers' needs. Licensed to market and sell health insurance in all 50 states and the District of Columbia eHealthInsurance has developed partnerships with more than 180 health insurance companies, offering more than 10,000 health insurance products online.
+
+Position Summary:
+
+We are looking for a highly motivated and a passionate Software Engineer in our Carrier Integration Engineering team to support and help support existing and build next generation integration platforms. You should have technical background and experience in requirement gathering, design, development, and testing and cross-functional team communications. You will support and build mission critical, high availability, fault tolerant and secure connections and interfaces to exchange membership data with insurance providers and payment data with payment gateway providers. You should be solution-centric, results-oriented, and experienced in agile development methodology. You are ambitious, talented, and driven to make the team and project successful. You should have excellent verbal and written communication skills.
+
+Type: Full Time – Regular, located in Austin, TX
+
+Responsibilities:
+Write code to support existing and new feature development.
+Work with product managers, internal and external partners to gather and learn requirements and help those translate into technical specifications and code.
+Partners Champion- You will be eHealth’s Carrier Integration platform expert while leading technical discussions, implementing projects and providing necessary production support.
+Write quality code and meaningful unit test cases.
+Required Skills:
+2+ years of industry experience in software application development and support.
+Excellent team player who is willing to work with global cross-functional teams.
+Self-motivated, Can do attitude and ability to work with minimal supervision.
+Loves to produce meaningful and quality code and documentation.
+Good understanding of software development life cycle and AGILE methodologies.
+Excellent programming skills, understanding of data structures, algorithms and design patterns.
+Experience in data integration using different protocols (http/s, sFTP, SOAP).
+Experience in data transformation to/from XML, JSON, flatfiles. EDI 834 is a plus.
+Experience in design and development of SOAP, RESTful Webservices and Microservices.
+Development experience in open source and Java technologies including Spring, Springboot, CXF, Google Guice, Mybatis, Jersey, Hibernate, Struts, JSP, HtmlUnit.
+Working experience with Java development IDEs (Eclipse, Intelij), versioning control systems (GIT, svn etc.), JIRA, SOAPUI, Postman.
+Working knowledge with AWS is a plus
+Experience with Docker Containers, Microservice development using Docker, Kubernetes on AWS is plus
+Experience writing documentation using WIKI, Confluence, Sharepoint is a plus.
+Experience with relational databases (MySql/Oracle), data retrieval from relation databases and document-based databases (MongoDB knowledge a plus).
+Experience with data routing, integrations and transformation tools like Apache NiFi, Streamsets, Altova Mapforce, Informatica is a plus.
+Working experience with security standards is a plus.
+Experience in HIPAA standards like ANSI 834, 820 is a plus.
+Excellent verbal and written communication skills.
+BS/MS in Computer Science or related field
+eHealth is an Equal Employment Opportunity employer. It is our policy to provide equal opportunity to all employees and applicants and to prohibit any discrimination because of race, color, religion, sex, national origin, age, marital status, sexual orientation, genetic information, disability, protected veteran status, or any other consideration made unlawful by applicable federal, state or local laws. The foundation of these policies is our commitment to treat everyone fairly and equally and to have a bias-free work environment.
+
+If you are interested in applying for employment with eHealth and need special assistance or an accommodation to apply for a posted position contact us at: accommodations@ehealthinsurance.com.

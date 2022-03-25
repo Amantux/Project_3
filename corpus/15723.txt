@@ -1,0 +1,127 @@
+Gathi Analytics is a relentlessly client-focused group who builds ground-breaking data solutions for Smart Cities, Payment Services, Healthcare, Finance, and so much more. Gathi Analytics leverages proprietary frameworks and methodologies to deliver solutions faster, without compromising quality. We help our clients gain data insights they never thought possible and understand their data assets in ways they never could before. If this sounds like you, please read on.
+
+About the Data Modeler Role
+
+This role is responsible for building Relational and Dimensional Models for Integration Layer, Semantic Layer & Audit Layer. (proficiency in Kimball). Design and Build Conceptual, Logical, Physical Data Models and Create Physical Data Structures (DDLs). Create Source to Target Data Mapping rules with the business transformation rules by discussing with business users. Extensive experience in Solution design, Data architecture, Data modeling, Data integration and Business Analytics design and development.
+
+Responsibilities
+
+· Build Relational and Dimensional Models for Integration Layer, Semantic Layer & Audit Layer. (proficiency in Kimball)
+
+· Design and Build Conceptual, Logical, Physical Data Models and Create Physical Data Structures (DDLs).
+
+· Create Source to Target Data Mapping rules with the business transformation rules by discussing with business users.
+
+· Extensive experience in managing cross functional teams, leading the development, gathering Business Requirements, Analysis, Design, and Implementations of various functionalities of Data Warehouse, Business Intelligence, ERP applications and Big Data- Hadoop Solutions.
+
+· Expert in Agile Data Warehouse, Enterprise Architecture using Industry model Framework Methodology, Data Modeling using E/R and Dimension Models, Conceptual, Logical and Physical Models for large scale DW and DL implementations.
+
+· Expertise in the design of the Conceptual, Subject area Logical and Physical Data Models using Erwin and/or ER Studio Suite.
+
+· Experience in Data model design frameworks and techniques pioneered by Ralph Kimball and Bill Inman.
+
+· Experience in Industry Financial or/and Insurance Data Models: Teradata FSLDM and IBM BDW data Model Frame works and Insurance ACORD framework and capability models.
+
+· Experience in Master Data management, Metadata Management solutions and Data Governess Policies and Procedures.
+
+· Worked on Big data projects involved Hadoop technologies and Data Lake reference architecture and Frameworks.
+
+· Optional - Worked on Cassandra Data Modeling, NoSQL Architecture, policies, and procedures.
+
+· Experience in understanding the Business requirements and translating them into detailed design along with Technical specifications.
+
+· A plus - Exposure to software engineering techniques like Micro services, Event Driven Architecture, using event streaming technologies like Kafka.
+
+· Worked closely with cross functional teams to effectively co-ordinate, manage Business user expectations and adhere to organizational architectural standards and policies.
+
+· Experience in Data Lake framework, Data Ingestion and Processing – Analyze various sources and develop the code to ingest the data into Hadoop Data Lake.
+
+· Good experience in Big Data –Hadoop solution implementation for Operational Reporting and Analytics using HIVE, SPARK & SPARK SQL, Sqoop and other Hadoop eco system projects.
+
+· Good exposer and experience on Cloud based data stores- AWS Cloud on Big data specialty – Redshift, S3 etc.
+
+· Expert in Agile software development and release management using Scrum Process. Hands on Experience with Agile software development Tools such as JIRA.
+
+· Manage stakeholder expectations with continuous engagement through status reports, proactive communication on new opportunities and issues.
+
+· Design solution architecture, conducts analysis and development of applications and proof of concepts
+
+· Acts as subject matter expert related to the effective use of analytical or BI methodologies, particularly those related to decision tree, time series data, forecasting, or data visualization and dashboard design.
+
+· Build different design patterns, data architecture, Cloud technology stack (AWS/Azure)
+
+· Continuous learning and keep track of the latest developments in business/ technical advancements
+
+· Demonstrate the compassion to lead and bring value to the architecture portfolio
+
+Experience
+
+· 8+ years IT experience, with focus on Data Modeling, Data solutioning.
+
+· 8+ years’ experience with SQL (ability to read/write/manipulate queries)
+
+· 8+ years of strong solution architecture experience in variety of IT positions. Recent 5+ years of experience must be on solution/systems/ enterprise architecture with large scale complex IT systems
+
+· 5+ years’ experience working in an Agile/Scrum environment
+
+· Experience and knowledge in handling Fortune 500 companies.
+
+· Warehouse architectures including ETL design, staging, transformations
+
+· Star-schemas, cubes, dimensional modeling
+
+· Database platform layouts and configurations
+
+· Demonstrated ability to work in a fast-paced, highly technical environment
+
+· Excellent communications skills, both written and verbal
+
+· Troubleshooting complex system issues, handle multiple tasks simultaneously and translate user requirements into technical specifications
+
+· Excellent written and verbal communication skills.
+
+· Conduct current state assessment and map opportunities and organizational goals to target state architecture and roadmap.
+
+· Working creatively and analytically in a problem-solving and fast-paced agile development environment.
+
+· Experience in knowledge of MapReduce, HBase, Pig, MongoDB, Cassandra, Impala, Oozie, Mahout, Flume, Zookeeper/Sqoop and Hive
+
+· Strong database fundamentals including SQL, performance, and schema design.
+
+Education
+
+Bachelor’s degree in Computer Science, Information Technology, or related field preferred but equivalent experience may be substituted.
+
+Preferred Qualification
+
+· Background in Data Warehouse and Business Intelligence
+
+· Strong understanding of programming languages like Java, Scala, or Python.
+
+· 6+ years of strong ETL experience on either Information, Ab-Initio, Talend, DataStage, Syncsort.
+
+· Designing and implementing Data security and privacy controls.
+
+· Experience with version control tools like Git, SVN
+
+· 10+ years of experience building large scale data models using ERWIN or equivalent tool for larger and medium enterprise.
+
+· Experience in Spark, Hive, Hadoop, Kafka, Columnar Databases.
+
+· Experience in designing solutions for multiple large data warehouses with a good understanding of cluster and parallel architecture as well as high-scale or distributed RDBMS and/or knowledge on NoSQL platforms.
+
+If this role sounds like you, we invite you to apply. Our recruiting team will be in touch shortly with qualified candidates regarding next steps.
+
+Gathi Analytics is an equal opportunity employer and provides opportunities for advancement, compensation, training, and growth according to individual merit, without regard to race, color, religion, sex (including pregnancy), national origin, sexual orientation, gender identity, marital status, age, genetic information, disability, veteran-status, or any other characteristic protected under applicable Federal, state, or local law.
+
+Job Types: Full-time, Contract
+
+Salary: $65.00 - $70.00 per hour
+
+Experience:
+overall: 10 years (Required)
+Data modeler: 8 years (Required)
+Education:
+Bachelor's (Required)
+Location:
+San Antonio, TX (Required)

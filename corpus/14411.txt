@@ -1,0 +1,25 @@
+Job Description
+Job Overview
+
+We are looking for a Data Engineer to join our growing team of analytics experts, where you will have the opportunity to author and manage data pipelines from ingest to insights and all the plumbing in between. The Data Engineer will support our data scientists with both existing and net new projects, ensuring that data delivery is consistent and optimized. The right candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data initiatives.
+
+Responsibilities for Data Engineer
+Create and maintain optimal data pipeline architecture.
+Assemble large, complex data sets to meet functional and non-functional business requirements.
+Author the pipeline code required for optimal extraction, transformation, and loading of data from a wide variety of data sources.
+Work with Data Scientists and Systems Engineers to design data delivery architecture.
+Work with stakeholders including the Executive and Product teams to assist with data-related technical issues and support their data insight needs.
+Create data tools for team members that assist them in building and optimizing our products.
+Qualifications for Data Engineer
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases. PostgreSQL administration familiarity a plus.
+Strong Python scripting skills. Ruby a plus.
+Familiarity with API endpoint interactions and techniques for handling query complications.
+Understanding of Containerization, Micro-Service, and Server-less a strong plus.
+Strong analytic skills related to working with unstructured datasets.
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+Working knowledge of message queuing, stream processing, and highly scalable data stores.
+Experience supporting and working with cross-functional teams in a dynamic environment.
+The ideal candidate would have 3+ years of experience in a Data Engineer role, or 5+ years in any Software Engineering role with demonstrable familiarity of the Data Engineering/Science space. Work experience, academic instruction, and/or code portfolio will all considered.
+Powered by JazzHR
+
+sEaphUQBLW

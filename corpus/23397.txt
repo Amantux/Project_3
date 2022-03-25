@@ -1,0 +1,40 @@
+Job Description
+Job Title Business Data Steward
+
+Location Tempe, Arizona
+
+Duration 2020-08-03 to 2020-12-31
+
+Description:
+
+The Business Data Steward is responsible for overseeing the life cycle of a set of business data elements.
+
+Specifically, they are responsible for defining and implementing policies and procedures for the day-to-day operational and administrative management of systems and data.
+
+The Business Data Stewards is ultimately responsible for establishing data-quality metrics and requirements, including defining the values, ranges, and parameters that are acceptable for each data element.
+
+They also work with the business and technology teams to establish procedures for detection and correction of data-quality issues and collaborate to establish policies, procedures, and internal controls affecting the quality of data.
+
+Primary Responsibilities:
+Responsible for defining key data elements (KDE's) and identifying data assets within their own data domains.
+Responsible for data quality and data accuracy across a set of business data elements.
+Responsible for contributing to the development and maintenance of a business data dictionary that is aligned to physical data assets and the business glossary for the definition and maintenance of a group's data landscape including end-to-end data flows/transformations and data lineage.
+Partners with the data governance team to ensure solutions adhere to the organization's data principles and guidelines.
+Owns group's data assets including reports, data warehouse, etc.
+Responsible for solving data related issues and communicating resolutions with other solution domains.
+Qualifications:
+Knowledge of basic data management principles and concepts
+Knowledge of how to create data standards, determine business data requirements, and business rules.
+Ability to work collaboratively with analysts, architects, modelers, business and technical teams
+Proficiency in SQL for generating quality assessments and insight generation
+Excellent communication skills with both business and technical audiences
+Subject matter knowledge of bank operations and/or financial services
+Ability to leverage multiple tools to create and maintain necessary data stewardship outputs
+3+ years of experience fulfilling the role of a Data Steward
+Experience working within a data or reporting team as an analyst, modeler or data steward
+Experience creating and using data models and data definitions
+Experience implementing and enforcing data access control mechanisms.
+Experience with improving data quality and resolving data deficiencies.
+Experience with data lifecycle management.
+Expertise in relationship building with different roles and level in the organization.
+Bachelor's degree in business or technology; master's preferred

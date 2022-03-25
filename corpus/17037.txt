@@ -1,0 +1,62 @@
+About Ethoca
+
+Do you want to be part of an innovator that is changing the ecommerce landscape and reinventing the way global merchants and issuers combat fraud through collaboration? If you’re excited by shattering expectations and making a contribution that will turn stale thinking into breakthrough ideas, Ethoca is the place for you. We welcome the challengers and thought leaders. We want the agile, creative risk-takers who can address challenges with an open mind, the freedom to innovate and the strength to dominate. Ethoca’s growth is explosive, and only great problem-solvers, collaborators and thinkers can help us take it to the next level. If that sounds like you, keep reading.
+
+Before Ethoca, every day merchants and issuers would identify thousands of confirmed or suspected fraudulent transactions in isolation. They had no way of bridging this costly – and completely avoidable – divide. When Ethoca introduced Ethoca Alerts in 2010, it revolutionized the industry’s approach to fighting ecommerce fraud. Ethoca Alerts closes the information gap between card issuers and merchants, giving merchants unprecedented direct access to issuers’ cardholder-confirmed fraud intelligence. As part of Ethoca’s collaboration-based network, for the first time merchant businesses have a window of opportunity to act on fraud that has already been confirmed by Ethoca’s global network of card issuers.
+
+The successful candidate can be based in Austin, St. Louis or Toronto.
+
+The Position:
+
+Ethoca is seeking a Senior Data Engineer to join our team in Toronto to drive data enablement and explore big data solutions within our technology landscape. The role is visible and critical as part of a high performing team – it will appeal to you if you have an effective combination of domain knowledge, relevant experience and the ability to execute on the details.
+
+You will bring cutting edge software and full stack development skills and data lake experience while working with massive data volume. You will own this – our teams are small, agile and focused on the needs of the high growth fintech marketplace. You will be working across functional teams within Ethoca and Mastercard to deliver on our data strategies.
+
+We are committed in making our systems resilient and responsive yet easily maintainable on premise and on cloud.
+
+Your Challenge:
+
+Own the development of ETL/ELT, data movement, streaming and non-streaming data with a solid background in development of reports/dashboards, applications, services, user interfaces while maintaining and scaling existing solutions.
+
+Existing solutions are built on data that resides in the SAP HANA data warehouse, we expect the successful candidate will always pay attention to detail: configuration, maintenance, security and reliability of data and Data Services in the different environments as we build out a state-of-the-art analytics foundation (on premise and on cloud).
+
+Qualifications:
+Tenured in the fields of Computer Science/Engineering or Software Engineering
+Bachelor's degree in Computer Science, or a related technical field including programming
+Experience with cloud infrastructure management and automation (preferably Azure)
+Experience with software development and configuration automation is a must have
+Expertise in designing, analyzing, and troubleshooting large-scale systems
+Capability to debug, optimize code, and automate routine tasks
+Hands-on experience with building data lake solutions, streaming analytics solutions and code development across environments (i.e. DevOps)
+Here’s what sets you apart:
+Data warehousing/data lake development experience
+Strong data modeling and data integration experience
+Strong SQL and higher-level programming languages
+Good understanding of data warehouse/data lake design patterns and best practices
+Solid understanding of data ingestion (i.e. streaming platforms like Kafka)
+Strong experience with data integration tools – ETL/ELT tools (i.e. Apache NiFi, Azure Data Factory, Pentaho, Talend)
+Experience working:
+In a Data Warehousing and BI environment with understanding of warehousing concepts
+With Source Control System (SCS) is a must – preferably “Git” source control
+Systematic problem-solving approach, with effective communication skills and a sense of drive
+Strong understanding and working knowledge of Continuous Integration and Continuous Deployment concepts
+Excellent written and verbal communication skills
+Top notch problem solving and analytical skills
+Plan and own deployments, migrations and upgrades to minimize service impacts with mitigation plans
+Understand and tune performance across all physical and logical dimensions
+Support Ethoca’s architects and analysts as they design and build effective, agile applications
+Use your experience to help shape and scale the future of our development and production infrastructure
+Work efficiently within a high security, PII and PCI-DSS Level 1 environment
+Self-starter that explores opportunities for efficiencies and propose options to bridge gaps that exists
+Nice to have:
+Scripting experience with one or more of the following:
+Java and Java Script, Python, R
+Experience working with analytics and data processing engines like Apache Spark/Storm
+Experience with application development
+Experience working with SAP HANA or Teradata
+Experience in data mining, machine learning algorithms and tools
+Ideally you have experience in banking, e-commerce, credit cards or payment processing and exposure to both SaaS and premises-based architectures. In addition, you have a post-secondary degree in computer science, mathematics or a quantitative science and a few years of increasingly responsible work experience.
+
+To apply, please visit: mastercard.jobs or https://mastercard.jobs/toronto-can/senior-data-engineer/2B400D4C9F4345E2B2039B9AB1845623/job/
+
+At Ethoca, we welcome job applications from qualified individuals without regard to race, color, religion, sex, national origin, age, disability, ancestry, family care status, veteran status, marital status, or any other lawfully protected status in every jurisdiction in which we operate. We are committed to a diverse workforce that provides fair and equal opportunity for all employees and candidates.

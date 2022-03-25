@@ -1,0 +1,53 @@
+Description
+
+Raymond James is looking for a Senior Data Scientist to join its Data Science team. This individual will be responsible for architecting, designing and building enterprise-scale machine learning applications as a core service.
+
+Responsibilities:
+
+Analyzes system requirements, participates in all phases of the machine learning project.
+
+Performs in a lead role developing and unit testing the algorithms and models, guiding the process through formal QA and user acceptance and implementation to production.
+
+Provides a proactive interface between project stakeholders and senior management team to ensure complete and accurate definitions of business requirements and delivery of business applications.
+
+Develops, prepares, presents and maintains technical documentation, implementation plans, staffing recommendations, work breakdown structures and schedules.
+
+Performs project risk assessments, including identifying key risk factors, providing effective mitigation strategies and assigning contingency action plans to both schedules and budgets.
+
+Manages overall delivery, including applying established methodologies, using change control templates and processes; serving as a liaison with internal customers and external suppliers; and communicating regularly with project stakeholders.
+
+Qualifications
+
+Master’s or higher degree in Computer Science, Electrical Engineering or a related quantitative field and five to seven (5-7) years of work experience; or a combination of education, training and experience.
+
+5+ years of experience in using machine learning and data mining techniques to analyze complex (structured, unstructured and semi-structured) data
+
+3+ years of Natural Language Processing (NLP) experience in implementing solutions with common NLP frameworks and libraries in Python (NLTK, spaCy, gensim) or Java (Stanford CoreNLP, NLP4J)
+
+Common NLP techniques, such as
+
+o Pre-processing (tokenization, part-of-speech tagging, parsing, stemming)
+
+o Semantic analysis (named entity recognition, sentiment analysis)
+
+o Modeling and word representations (TF-IDF, LSA, LDA, word2vec)
+
+Proficiency in data engineering and working with SQL and NoSQL databases
+
+Experience working with large data sets and big data technologies
+
+Experience using GitHub for version control and collaboration
+
+Strong drive to implement solutions, working with various external vendors and internal business units throughout Raymond James.
+
+Strong interpersonal, written and verbal communication skills.
+
+Identify, build and manage key relationships across all levels of the organization.
+
+Strong analytical skills with the ability to solve complex problems.
+
+Ability to optimize work processes, multi-task and handle multiple projects with demonstrated follow-through.
+
+Licenses/Certifications:
+
+None required.

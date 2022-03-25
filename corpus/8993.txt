@@ -1,0 +1,47 @@
+Who We Are
+
+We started Clinc in 2015 with the mission to use the best advancements in academic research, science and technology to create a meaningful and tangible impact on the world. Since then, we have seen exponential growth delivering cutting-edge technology at global scale, and empowering people to lead more enjoyable lives with conversational AI. We are a passionate group of change-makers inspired by the world’s most difficult challenges and a gritty resolve to take them on. If you want to influence the future of AI and make our world a better place to live, join us.
+
+Job Overview
+
+We are looking for a full-stack software developer who will support our Core AI team in orchestrating our data archival process, as well as analyzing such data to develop powerful insights. The end goal of the data scientist role is to make sure every piece of crowdsourced data, training data, and production data is accumulated, organized, and maintained for the Core AI team to consume for various research projects, as well as to provide useful insights about the data.
+
+The ideal candidate is someone experienced with building web services and/or microservice-based architectures to design data collection pipelines. The ideal candidate is also someone who would maintain such large amounts of data in an organized and intuitive fashion. Lastly the ideal candidate is able to provide quick and meaningful insights from such large data.
+
+Responsibilities for Data Scientist
+
+Design and orchestrate a data archival pipeline within a microservice-based system architecture.
+
+Maintain large amounts of text data in an organized and meaningful fashion that is easily consumable for various research and production projects.
+
+Work cross-functionally with the infrastructure team and product team in deploying such data archival pipeline on-prem or on cloud instances.
+
+Create access, search, and visualization tools for textual data.
+
+Design and implement a versioning system for various datasets.
+
+Analyze large amounts of data for insight that could lead to meaningful research problems.
+
+Contribute to research projects involved with improving overall data quality.
+
+Qualifications for Data Scientist
+
+Experience creating data architectures.
+
+Experience using statistical computer languages to manipulate data and draw insights from large data sets.
+
+Knowledge of a variety of machine learning techniques, and their real-world application and use cases.
+
+Knowledge of advanced statistical techniques and concepts.
+
+Experience with designing and implementing web servers.
+
+Experience working with microservice architectures/Docker/Containerization.
+
+A drive to learn and master new technologies and techniques in a fast paced environment.
+
+A master’s degree is a nice-to-have.
+
+Culture, Diversity and Inclusivity
+
+Clinc has a proven commitment to diversity and inclusion. We strive to create a hiring environment in which all people feel they are equally respected and valued, irrespective of gender identity or expression, sexual orientation, ethnicity, age, religion, citizenship or any other characteristic.

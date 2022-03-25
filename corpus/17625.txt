@@ -1,0 +1,48 @@
+Vertical Mass is searching for a world class Data / Backend Engineer to join our team. This role is vital to designing and building back-end systems to support our clients data needs. We are looking for a passionate engineer to build simple, efficient, and scalable solutions for complex problems. In this role you will:
+Design, implement, and maintain reliable systems to retrieve, normalize, and store consumer data
+Design, implement, and manage scalable, cloud-hosted solutions to store data in support of our underlying systems and client needs
+Assist with all parts of our internal analytics system (ETL, Redshift, Airflow)
+Work with marketing, finance, and sales to help define and implement reporting solutions for clients
+Provide technical support and advice to analytics and data visualization teams
+Develop a comprehensive system of automated audit procedures to identify and alert on discrepancies / integrity issues
+Create, document, and maintain various ETL processes
+Write code to interface with 3rd party platform services
+Technical Requirements
+
+The successful candidate needs to be able to clear roadblocks, reduce complexity, and increase performance while reducing risks. We are looking for:
+Deep knowledge of the AWS stack and infrastructure
+Athena
+Redshift/Lambda
+ECS/Docker/ECR
+S3
+RDS
+Kinesis Firehose
+Application Load Balancing
+Cloudwatch and monitoring
+Experience in high volume data processing via batch and streaming
+Experience with Data Warehouse design and query issues
+Experience with the following languages/frameworks
+Python
+Go
+Shell Scripting
+PostgreSQL
+Apache Airflow (good to have)
+Aerospike (good to have)
+Terraform
+Education and Experience
+BS in Computer Science or Related Field (MS preferred)
+Excellent technical, written, and verbal interpersonal communication skills
+5+ years of backend engineering experience building products from ideation to launch
+Benefits
+
+Vertical Mass offers a competitive benefits package including health, 401k, and 10 days paid time off. We also offer flexible work arrangements with occasional remote work possible.
+
+About Vertical Mass
+
+Vertical Mass is the world's leading data platform and co-op for Sports, Music, Pop Culture, and Entertainment audiences.
+
+More than 350 clients like Google, P&G, and Fox Television leverage the Vertical Mass data management platform to collect data on their consumers, understand those audiences via our business insights products, and monetize those audiences through smarter marketing. Our platform processes 500M monthly unique users, making it the richest known data set of entertainment and sports audiences.
+
+Vertical Mass is headquartered in LA and is backed by Greycroft, Formation 8, Sierra Wasatch, SV Angel, Live Nation/Ticketmaster, several sports team owners and other top strategic investors.
+
+Powered by JazzHR

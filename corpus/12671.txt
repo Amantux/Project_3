@@ -1,0 +1,27 @@
+New England Biolabs is seeking a Data Scientist to build, improve and utilize the varied and complex data sources we use to make excellent biological products.
+
+NEB provides a world-class working environment including high quality computational infrastructure, skilled colleagues, and opportunities to exchange knowledge with internal and external scientists.
+
+Primary Responsibilities:
+
+Construct, extend, and maintain scientific software tools used at NEB to study enzymes and their activities. Collaborate with members of the Research, Product Development, Production, and Quality Control groups to identify patterns and trends in quantitative scientific data.
+
+Required Qualifications and Experience:
+Degree in a computational field and meaningful experience working with varied and complex datasets.
+Software development skills (Ruby, Python, R, or others).
+Appreciation for simple, high-quality, maintainable software.
+Enthusiasm for data modeling, storage and visualization.
+Demonstrated oral and written communication skills.
+Strong work ethic, emphasizing both efficiency and quality of work.
+Accessible evidence of software development history (e.g., GitHub).
+Passion for learning.
+Interest in applications of biologically derived tools to address important challenges.
+Preferred Qualifications and Experience:
+Expertise with high volume analysis of data from many sources.
+Experience with virtualization technologies (kubernetes, cvmfs, lxc).
+Experience with infrastructure automation tools (Ansible, Chef, Salt, etc.)
+Modern web development skills (HTML5, Rails, Vue.js, etc.).
+Cluster computing and scientific workflow frameworks (Galaxy, Nextflow, snakemake, CWL, etc.).
+New England Biolabs, Inc. is an Equal Opportunity/Affirmative Action Employer of Minorities, Females, Disabled and Protected Veterans and a participating employer in the Employment Verification (E-Verify) program. More in-depth details of EEO are available here.
+
+If you need an accommodation for any part of the employment process because of a medical condition or disability, please send an email to hr@neb.com or call 978-927-5054 to let us know the nature of your request.

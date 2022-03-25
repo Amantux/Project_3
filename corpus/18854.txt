@@ -1,0 +1,27 @@
+The AmazonFresh and Prime Now teams are seeking a Software Development Engineer to join our team that is focused on building mission critical software used by Amazon customers.
+
+As an engineer on the team youll drive improvements to our technology, collaborating with sharp engineers and highly-engaged users to ship code continuously. We have many domains ranging from highly-scalable transactional backend systems, to complex optimization problems, to customer facing mobile apps, so if you love building world-class software of any type, most likely we have a place for you.
+
+Were truly an agile shop: we work closely with users, deliver features with high frequency, can pivot on a dime when needed, and are aggressive about test coverage, refactoring and paying off technical debt. Were looking for software development leaders who share our passion for continuously improving the customer experience, who are motivated by challenging problems in distributed systems, algorithms, and HCI and who love writing great code. If you have an entrepreneurial spirit, know how to deliver, are deeply technical, highly innovative and long for the opportunity to build pioneering solutions to challenging problems, we want to talk to you.
+
+Amazon is an Equal Opportunity-Affirmative Action Employer Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation / Age
+
+
+
+
+Basic Qualifications
+
+· Bachelors Degree in Computer Science or related field
+· 3+ years professional experience in software development
+· Experience with object oriented design and service oriented architecture
+· Strong CS fundamentals with data-structures and algorithms
+· Proficiency in, at least, one modern programming language such as C, C++, Java, C#, etc.
+
+Preferred Qualifications
+
+· Experience building scalable, available, and low-latency systems
+· Experience with machine learning and feedback loops
+· Experience using functional programming languages
+· Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations
+· Familiarity with cloud computing
+· Strong sense of ownership, bias for action, urgency, and drive

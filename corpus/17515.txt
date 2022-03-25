@@ -1,0 +1,39 @@
+Help us move the world with images!
+Getty is embarking on its next wave of innovation in visual storytelling and how to put the perfect image or video in our customer’s hands, be it for a society-changing headline or a brand’s next big campaign—truly moving the world with images.
+
+Getty Images is the most trusted and esteemed source of visual content in the world, with over 200 million assets available through its industry-leading sites www.gettyimages.com and www.istock.com. The Getty Images website serves creative, business and media customers in almost 200 countries and is the first place people turn to discover, purchase and share powerful content from the world's best photographers and videographers.
+
+Getty Images works with over 200,000 contributors and hundreds of image partners to provide comprehensive coverage of more than 130,000 news, sport and entertainment events, impactful creative imagery to communicate any commercial concept and the world's deepest digital archive of historic photography.
+
+Getty Images is the starting point for our customers imagery search. Customers are confident that they are going directly to the best source of content, and that Getty's search engine will surface only the most relevant content to them and have the tools they need to refine and explore creatively.
+
+Our customers will be able to communicate effortlessly with Getty Images, in their quest to find the right imagery. Using text, voice, or visual channels, they will have the ability to describe their content needs creatively and thoroughly. Getty Images' search will eliminate the barrier that exists between a creative art director and a technical researcher.
+
+Who you are:
+Getty Images Inc. is looking for a Data Engineer that enjoys working across the entire life-cycle of Machine Learning projects and takes pride in deploying high-quality ML and data workflows.
+
+The mission of the Data Science team at Getty Images Inc. is to leverage internal and third-party data to inform other groups on how to interact with its customer base. We achieve this goal by 1) building automated solutions that apply best-in-class Machine Learning and Engineering practices and 2) continuous interactions with stakeholders to identify critical needs that deliver results relevant to the business. As a Data Engineer on the Data Science team, you will have end-to-end autonomy and ownership of your projects, and will work closely with other business units to develop creative solutions to a variety of problems.
+
+Your next challenge
+You will join a team of highly-collaborative and curious Data Scientists and Data Analysts that are comfortable working with a diverse set of tools, and willing to take initiative on their ideas. As a member of the team, you will have the chance to define the technical architecture that serves as the foundation for upstream analytical projects, and accelerate the delivery of a robust portfolio of Data Science models.
+
+Your primary goal will be to catalyze the development and deployment of full-stack Machine Learning pipelines. You will have the opportunity to continuously develop and ship code in our production environment, and will be empowered to implement a variety of data-centric architectures that support critical operational initiatives.
+
+You will also interact with the entirety of Getty Images Inc. technology stack, and collaborate with data infrastructure, platform and cloud engineers to design and build a production-level data ecosystem that aligns with business function requirements and capable of handling large-scale structured and unstructured data. You will also have the opportunity to continuously evaluate and provide guidance on the use of new technologies.
+We value learning and development, and you will be given every opportunity to work on projects that excite you. You will get to lead and innovate as a thought-leader within Getty Images, and will sit at the intersection of Engineering, Marketing and Leadership to inform, influence, support, and execute on our decisions.
+What you’ll need:
+You have prior experience working as a Data Engineer, preferably in a product or customer-focused organization.
+You are extremely comfortable working with Python and have a working knowledge of Cloud services and Tools, as well as standard engineering tools such as Git, Linux and SQL.
+You have experience building streaming and batch data pipelines and are comfortable working within a large-scale distributed environment with open source tools such as Hadoop, Hive, Airflow and Spark.
+You can independently execute on a project, from ideation to delivery to stakeholders, and can pro-actively interact with other engineers at Getty Images to access necessary resources or data.
+You understand, or have interest learning about, the real-world advantages and drawbacks of various Machine Learning techniques, and have applied those to a variety of datasets.
+Nice to Have:
+A M.S. or PhD. in computer science, statistics, economics/econometrics, natural science or any other equivalent quantitative project is preferred. If you are self-taught and believe you are a good fit for this role, or have significant work experience, we would love to hear from you as well.
+Previous experience in an analytical role, and experience working with teams of Data Scientists and Data Analysts.
+Experience having managed or contributed to the use of Business Intelligence platforms such as Looker and Snowflake.
+Experience with Marketing platforms such as Google Analytics and SA 360.
+Due to the current conditions and impact of Covid-19, this key position will work from home and will require relocating to New York in the future. As we do not have a timeline to when conditions improve, we are prepared to offer flexibility with the timeline to relocate including relocation assistance.
+
+Visit Getty Images at www.gettyimages.com to learn more about how the company is advancing the unique role of still and moving imagery in communication and business, and enabling creative ideas to come to life. For company news and announcements, visit our Press Room, and for the stories and inspiration behind our content, visit Stories & Trends. Find Getty Images on Facebook, Twitter, Instagram, LinkedIn, Pinterest and Tumblr, or download the Getty Images app where you can explore, save and share the world's best imagery.
+
+Getty Images is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. Getty Images believes that diversity is critical to our success in moving the world with images and is committed to creating an inclusive, mutually respectful environment which celebrates diversity. We seek to hire on the basis of merit, competence, performance, and business needs.

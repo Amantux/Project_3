@@ -1,0 +1,41 @@
+Data Scientist  
+The client is seeking individuals with strong IT technical skills,   predictive modeling skills, specialized modeling and research methods   background as well as strong processes, optimization and simulation skills. 
+
+ Requirements:   
+Experience translating high-level project requirements into     technical tasks. 
+Data manipulation and data engineering experience involving     structured and unstructured data. 
+Data manipulation expertise involving data extractions, data     matching between multiple systems, transformations, cleansing, and loading. 
+Experience with big data and cloud platforms and toolset. 
+Ability to engineer and create complex research datasets by     manipulating typically large volume transactional data for use by     operations research analysts, economists and statisticians in     advanced analytical research and studies. 
+Experience in developing predictive, prescriptive, optimization,     and forecasting models, including the use of contemporary techniques     such as support vector machines, neural networks, and gradient boosting. 
+Experience in interpreting results from statistical and     mathematical models. 
+Experience in advance data visualizations and interpretation.  
+   
+ Skills/Software   
+Data Modeling, NLP and Machine Learning experience 
+Required: SQL Server (preferable in distributed environment, e.g.     Greenplum, Apache Hawq). 
+Required: Experience in R, Python, or SAS for complex data     manipulation, statistical analysis, and machine learning. 
+Required: Experience with data visualization tools (e.g., Tableau,     Bokeh, D3) or elastic stack (Kibana). 
+Experience with modern machine learning libraries, including     Keras, TensorFlow, PyTorch, MXNet, or MADlib. 
+Experience using peer-collaboration tools, e.g., Confluence. 
+Experience using GIT or other version control systems.  
+ - provided by Dice
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Woodlawn, MD 21207 
+                     
+                 
+                             
+                     
+                         Posted 
+                         2 Days ago 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         6874_31eee3dddc4043bd9adf5663e110b8b6

@@ -1,0 +1,29 @@
+About the Company:
+
+PlaceIQ is a leading data and technology provider that powers critical business and marketing decisions with location data, analytics and insights. An early industry pioneer, PlaceIQ has become the standard for fueling better decisions by marketers, analysts and publishers through powerful, location-based consumer insights, real-world measurement and attribution.
+
+With PlaceIQ, companies can uncover opportunities within the consumer journey by learning about and connecting with location-based audiences, measuring real-world ROI and applying insights that drive intelligent marketing and successful business outcomes.
+
+About the Engineering Organization:
+
+Having already assembled an exceptionally skilled and passionate team of developers and data scientists, we are looking for world-class engineers who want to take location-data understanding to a new frontier, where it connects with real-world behavior. We love building regression models, classification algorithms, data visualizations, and geo-spatial clustering, within our location-data platform, which processes terabytes of data daily to generate the fundamentals of location-data products. PlaceIQ Engineers live for huge challenges and deliver in a fast paced, agile environment. Our unique culture breeds excellence and embraces creativity as we look to innovate and drive our business forward. If you have a passion for imagining and building technology solutions that will make an immediate impact in an untapped space, we want to talk to you!
+
+At PlaceIQ, you will get the opportunity to process structured and unstructured data to extract value from it. You will be developing new data products, working alongside Data Scientists, and Product Managers, and validating the products to produce a better understanding of the real world.
+
+The role will be to:
+Develop data-products, with adjoining data-pipelines, engineered to high standards of performance, efficiency, and reliability
+Generate and implement Machine-Learning algorithms, with Data-Scientists
+Ensure data quality, with testing on a product and pipeline level
+Implement automation of the data pipelines & software releases
+Collaborate with internal teams to gather requirements for data-products
+Provide some ongoing support, monitoring, and maintenance of deployed products
+Preferred Qualifications:
+Experience with least one Object-Oriented language: Scala, Java, C++
+Familiarity with Apache Spark or Hadoop MapReduce,
+Familiarity in building ETL/Data-pipelines.
+Experience in UNIX/Linux environments with Bash/Python scripting.
+Experience with SQL in an RDBMS e.g.: MySQL, PostgreSQL.
+Experience with distributed databases would be a huge bonus: e.g.: Hbase, Cassandra, MongoDB with streaming platforms e.g.: Kafka, RabbitMQ,
+Understanding of Machine-Learning algorithms, and computational modeling would be a bonus
+Exposure to an Agile Scrum software development environment will be a plus as well
+BA/BS/MS in Computer Science/Engineering or related technical field.

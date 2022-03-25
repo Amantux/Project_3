@@ -1,0 +1,46 @@
+Here at Daybreak, we make great games that bring people together: to build them and to play them. Together we have built and introduced some of the most famed and beloved gaming franchises to millions of players worldwide including H1Z1®, DC Universe Online, PlanetSide®, and EverQuest®.
+
+We are obsessed with the entire creation process and the passion for play is what makes us one with our players. From group raiding epics in Norrath to watching our favorite streamers ravage zombies in the post-apocalypse, we are devoted to delivering the ultimate gaming experience to our communities.
+
+Let's make games better together! Are you up for the challenge? Here's some specifics on what we're looking for...
+
+A self-motivated BI Engineer to help develop and manage our current data pipeline. The person in this role report to the Technical Director of the Platform group and will be integral in designing the underlying data organization and structure for multiple games, designing logging and telemetry, writing and enforcing guidelines for data logging, writing ETL processes and managing a cloud-based data platform.
+
+Day to day responsibilities:
+Become an expert on all aspects of Daybreak's data infrastructure
+Develop, maintain and optimize Daybreak's current data pipeline which includes but isn't limited to data from commerce sales, live games, platform operations, third-party vendors, and social media
+Responsible for quality control and auditing of databases to ensure validity of data
+Provide hands-on implementation and subject-matter expertise around data warehouse and ETL subsystems
+Monitors production databases for potential migration issues
+Implements data streams through collaboration with other departments
+Help analysts with reporting tasking and data meaning/location.
+Experience and Qualifications:
+Mastery of SQL and Excel
+Strong knowledge in determining current data structures and systems and how to integrate new data sources and feeds into our current pipeline
+Experience with writing ETLs
+Experience with building data warehouses and dimensional modeling
+Knowledge and understanding of best practices for development including query optimization, version control, code reviews, and documentation
+Creative thinker and strong aptitude for finding answers to business inquiries
+Basic C#, Java, or other high level language programming knowledge
+Some understanding of Python
+Comfortable working with massive volumes of unstructured data and dealing with ambiguity
+Experience with TB/PB level data systems
+Experience with HDFS and Columnar data systems
+4+ years of experience in areas of data management, development and business intelligence
+Bachelor's degree in Applied Mathematics or Computer Science
+Excellent verbal and written communication skills
+Pluses:
+Snowflake Experience
+Finance Experience
+Gaming industry experience
+Familiarity with Games as a Service and Free to play business models
+Amazon S3 experience
+Amazon Kinesis experience
+Vertica Experience
+About Daybreak San Diego:
+
+Our headquarters is where gaming and San Diego culture; Creating a vibrant work environment that epitomizes our belief that every day should be well played. From our four-legged canine friends who can accompany us to work each day to company celebrations, the perks of working at Daybreak San Diego extend well beyond the beautiful weather in this prime location.
+
+Exceptional employee benefits: 18 days PTO first year; Robust Medical, Dental, Vision insurance coverage for entire family; Company matched 401k vested immediately; Flex Spending Accounts, generous tuition reimbursements, ultra-creative environment, bring your dog to work with you.
+
+**Daybreak Games is an Equal Opportunity Employer, committed to Diversity in the workplace.**

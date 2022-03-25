@@ -1,0 +1,25 @@
+Data Scientist
+
+The Data Science team works closely with our product, customer success, and sales teams; we work to make sure teams are asking the right questions and then find those answers. Our data informs us of the impact we are having on the world, and our team is crucial to architecting and building our data infrastructure. We also design and use data analysis tools that increase our data's scalability, accuracy, and accessibility. We understand our company's goals and proactively inform their direction with data so that our product can help more teams do great things.
+
+As a Data Scientist at Asana, you'll help us ask the right questions and answer them rigorously. You'll work closely with our Product and Business teams to understand their goals and proactively inform their direction with data. You'll keep taking on new responsibilities as you grow—from defining core metrics to building machine learning models and keeping the data flowing in our pipelines.
+
+What you'll achieve
+Designing and analyzing experiments to measure the impact of new product features
+Investigating high-level questions like "What are the collaborative patterns of the most successful teams using Asana?"
+Adding new metrics and aggregations to our data warehouse to make new classes of questions answerable
+Building models to predict the growth trajectory of different customer segments
+About you
+Bachelor Degree in Computer Science, Math, Statistics, Engineering, a related quantitative field, or equivalent experience.
+3+ years of experience in applying data science techniques to drive technical product development and decision-making
+Strong technical background in computer science, statistics, math, information science, or another quantitative field
+Fluency in at least one modern language useful for data processing (e.g. Python, Scala)
+Proficiency with relational data modeling and SQL
+Expertise in statistical methods and experimental design and analysis
+Experience with distributed data processing systems (e.g. Spark, Redshift)
+Background in advanced statistical modeling (e.g. GLM, mixed effects) and/or machine learning
+About us
+
+Asana helps teams orchestrate their work, from small projects to strategic initiatives. More than 75,000 organizations and millions of users rely on Asana, including AirAsia, AllBirds, Grab, KLM Air France, Kohl's, Sephora, Traveloka, and Viessmann. Asana has been named a Top 5 Best Workplace and the #1 Best Workplace in the Bay Area by Fortune three years in a row, and one of Glassdoor's and Inc.'s Best Places to Work. With nine global offices, including a San Francisco headquarters and flagship offices in Dublin, New York, Sydney, and Tokyo, Asana is always looking for curious, collaborative, and mission-driven people to help us enable the world's teams to work together effortlessly.
+
+Our goal is to ensure that Asana upholds an inclusive environment where all people feel that they are equally respected and valued, whether they are applying for an open position or working at the company. We welcome applicants of any educational background, gender identity and expression, sexual orientation, religion, ethnicity, age, citizenship, socioeconomic status, disability, and veteran status, and we'd love to learn about what you can add to our team.

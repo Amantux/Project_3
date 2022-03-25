@@ -1,0 +1,28 @@
+About Foundation Medicine:
+
+Foundation Medicine began with an idea, to simplify the complex nature of cancer genomics, bringing cutting-edge science and technology to everyday cancer care. Our approach generates insights that help doctors match patients to more treatment options and helps accelerate the development of new therapies. Foundation Medicine is the culmination of talented people coming together to realize an important vision, and the work we do every day impacts real lives. We are looking for a Data Scientist to join us in our mission to help achieve improved outcomes for cancer patients with data-driven insights & initiatives.
+
+We now have more high-quality data than ever before, which allows us to answer hard questions in clinical oncology that were previously out of reach. As Data Scientist you will lead our efforts on analyzing real-world clinical and genomic data. Your focus will be on clinical use cases, such as biomarker-based outcomes analyses, examining correlates of genomics and clinical outcomes, clinical utility of next-generation sequencing, and the impact of diagnostics on patient care. You'll join a mission-driven team of data scientists with diverse expertise and grow your analytical toolbox. Together, you'll partner with product managers, engineering, and domain experts in oncology and genomics to advance the field.
+
+To support your work, you will have access to the richest real world cancer genomics and clinical datasets; these include FoundationCORE, a repository of comprehensive genomic profiles and pathology images from 250,000+ patient tumor samples tested by Foundation Medicine, and our landmark clinicogenomic database developed in partnership with Flatiron Health, which contains 40,000+ genomic profiles paired with longitudinal clinical annotations (including treatments, response, and survival). This is an opportunity to apply your expertise to a unique and powerful dataset to help advance cancer care for patients and researchers.
+
+Desired Skills and Experience:
+Expertise in analyzing clinical health data, particularly survival/outcomes analyses.
+Expertise in biostatistics, epidemiology, and/or statistical genetics.
+Proficiency with statistical analysis software and/or scripting languages (R and/or Python preferred, but are amenable to others).
+Responsibilities:
+Lead our efforts to shape the evolving landscape of clinical oncology with real-world evidence.
+Support commercial data science projects as part of a cross-functional team.
+Co-author case studies and peer-reviewed publications.
+Contribute to a learning culture with conference presentations, journal clubs, etc. to share what you learn and enrich collaborations across Foundation Medicine.
+Qualifications:
+PhD in Biostatistics, Epidemiology, Bioengineering, or a related field; or MS with 3-5 years related work experience.
+Experience with longitudinal electronic health/medical records is a plus but not required.
+Experience in oncology (clinical oncology, cancer biology, and/or cancer bioinformatics) is a plus but not required.
+Proficiency in a database query language (e.g. SQL) is a plus.
+Those with publications or projects directly related to analyses of clinical and/or genomic data preferred. Please submit a publication list (Pubmed or Google Scholar profile accepted).
+Foundation Medicine is proud to be an Equal Opportunity and Affirmative Action employer and considers all qualified applicants for employment without regard to race, color, religion, sex, gender, sexual orientation, gender identity, ancestry, age, or national origin. Further, qualified applicants will not be discriminated against on the basis of disability or protected veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also FMI's EEO Statement and EEO is the Law and Supplement. If you have a disability or special need that requires accommodation, please let us know by completing this form. (EOE/AAP Employer)
+
+To all recruitment agencies: Foundation Medicine does not accept agency resumes. Please do not forward resumes to our jobs alias, Foundation Medicine employees or any other organization location. Foundation Medicine is not responsible for any fees related to unsolicited resumes.
+
+SDL2017

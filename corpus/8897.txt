@@ -1,0 +1,55 @@
+Job Description
+
+Design, develop, test, deploy and maintain machine learning techniques for Merkle data products. The products include identify, feature generation, propensity models, look-alike models and segmentation for hundreds of millions of online and offline B2C customers. Products run on Amazon Web Services (AWS) and use terabytes of behavioral, demographic and attitudinal data.
+
+Key Responsibilities
+
+Automate classification modeling and segmentation
+
+Improve the reach and accuracy of Merkle’s identity graph using machine learning
+
+Deploy on public cloud infrastructure
+
+Stay current on applicable machine learning techniques and their associated programing methods
+
+Automate statistical quality assurance tests
+
+Act as an internal subject-matter expert for new statistics and machine learning techniques
+
+Qualifications
+
+Key Skills and Experience
+
+At least 2 years of experience in digital or ad tech
+
+Bachelor’s degree in Computer Science, Applied Statistics or an equivalent quantitative field
+
+Strong understanding of the digital ecosystem (DSPs, DMPs, Addressable TV, web analytics, site optimization)
+
+ Cross-discipline team collaboration
+
+Deep SQL expertise
+
+Strong Python or R skills
+
+Understanding of basic machine learning techniques such as regularized regression analysis, random forests and clustering
+
+Active curiosity of new(ish) techniques such as matrix factorization, multi-layer neural nets or t-SNE
+
+Other Desired Skills
+
+Experience developing in and deploying on public clouds such as Amazon Web Services, Azure or Google Cloud.
+
+Experience using distributed computing frameworks like Spark and Hive
+
+Experience using cutting edge ML package such as XGBoost, Tensorflow, PyTorch and Scikit-learn
+
+Ability to learn with minimal oversight
+
+Creative, original thinker
+
+Ability to work productively in a distributed team
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines. At Merkle, we believe that a diverse environment improves us as a community and as a business. We want to foster an environment of growth, where all ideas and contributions are encouraged. We need this culture of courage to continue to thrive in our fast-paced industry. We embrace differences of opinion. We value diversity of experience and thought, which help us to challenge and define industry-leading solutions, and support our goal of being a great place to work.

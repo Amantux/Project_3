@@ -1,0 +1,35 @@
+Job Description
+Data Engineer
+
+OVERVIEW OF THE COMPANY
+
+Under the corporate banner, we produce and distribute content through some of the worlds leading and most valued brands, including: News, Sports, the Network, and the Television Stations. We empower a diverse range of creators to imagine and develop culturally significant content, while building an organization that thrives on creative ideas, operational expertise and strategic thinking.
+
+JOB DESCRIPTION
+
+We are building state of the art software and algorithms to improve the way that our media company transacts, interact with consumers and customers, and make vital business decisions with large revenue impacts. Advertising technology plays a very important role toward these goals, so as a Data Engineer supporting the Data Science team in the Ad Ops department, you will frame, pose and translate business problems to build AI-powered solutions that directly contribute to data products. You will analyze the content and advertising data and work on linking the two together and get the opportunity to work on complex data pipelines and on the latest cloud-based technologies like AWS lambda, SageMaker, and Apache Spark.
+
+A SNAPSHOT OF RESPONSIBILITIES
+Create and maintain data pipelines and process data to derive insights form it
+Collaborate with product management and engineering departments to understand company needs and devise solutions
+Analyze ad-server logs to keep track of thousands of ad campaigns on multiple devices and multiple types of digital content
+Implement methods to measure KPIs in presence of noise over long periods of time
+Develop and monitor models
+Analyze user behavior on Web, linear and digital TV
+Build and maintain cloud-based systems on AWS and other cloud providers
+Reconcile data arriving at high speed from multiple diverse sources
+Optimize models for on-device and multi-modal intelligence
+WHAT YOU WILL NEED
+Experienced Data Engineer with a BS, MS in a quantitative field (CS, Engineering, Physics, etc.)
+Experience with AWS infrastructure
+Python ML packages, BOTO, Postgres/Redshift
+Experience with Python. Knowledge of one or two other programming languages
+Strong knowledge of relational and distributed databases
+General knowledge and familiarity with digital advertising ecosystem and stack
+Log analysis. Experience with ad server logs a plus
+Experience working with third party data APIs
+Knowledge of Spark and distributed data systems
+Experience with AWS lambda and SageMaker a plus
+Knowledge of Alteryx workflows will be a plus
+Statistical Analysis/Inference will be a plus
+resumes to annie@ingenium.agency

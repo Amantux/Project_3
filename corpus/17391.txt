@@ -1,0 +1,33 @@
+ComResource is looking for a Principal Data Engineer.
+
+We need a person with significant experience with Cassandra, is well-versed in spring/spring cloud/spring boot, and has experience in distributed computing, ideally with microservices and message-based architectures.
+
+Essentials:
+Front End
+Single Page Web Application (JavaScript, HTML, CSS)
+Ember
+Ember data (ORM for the JS)
+https with OAUTH 2.0 based authentication
+built with ember-cli (broccoli based)
+foundation/sass layout and styling
+dependencies managed with bower and npm
+Unit tested with qunit
+Acceptance tested with geb/cucumber (browser automation)
+Back End Services
+Java Services exposed to front end over REST
+Spring Boot based
+Developed as stand-alone microservices
+Heavy use of OSS (spring, apache family, Netflix OSS)
+Unit and integration testing with JUnit
+Back End Infrastructure
+Cassandra (high performance, fault-tolerant, distributed columnar data store)
+Elasticsearch (high performance, fault-tolerant, distributed index, and search server)
+Kafka (high performance, fault-tolerant, distributed messaging infrastructure)
+Deployment Infrastructure
+Amazon Web Services (cloud hosting)
+Docker (container hosting)
+Mesos / Marathon (container management)
+Jenkins (deployment automation)
+New Relic / Data Dog / Cloud Watch (monitoring and alerting)
+ELK (Elastic Search, Logstash, Kibana, for log aggregation)
+Pivotal Cloud Foundry

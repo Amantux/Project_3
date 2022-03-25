@@ -1,0 +1,57 @@
+Our Futureforce University Recruiting program is dedicated to attracting, retaining and cultivating talent. Our interns and new graduates work on real projects that affect how our business runs, giving them the opportunity to make a tangible impact on the future of our company. With offices all over the world, our recruits have the chance to collaborate and connect with fellow employees on a global scale. We offer job shadowing, mentorship programs, talent development courses, and much more.
+
+Job Category
+
+Products and Technology
+
+Job Details
+
+Salesforce Commerce Cloud is the global leader of Cloud based (SaaS) E-Commerce solutions that enable the world’s premier retailers to maintain a robust online shopping presence. We empower our clients to improve their ROI by giving them the tools to effortlessly design and deploy seamless E-Commerce sites across traditional web, mobile, tablet and in-store applications. Commerce Cloud provides a highly scalable, integrated cloud platform that allows our clients to rapidly launch and manage multiple e-commerce stores, initiate unique marketing campaigns, and drive customer traffic across a global footprint. Our model serves for an environment of constant innovation which extends to our technology and internal company culture. Come join our team and over 500 retailers across more than 2000 sites around the world in seeing why we say at Commerce Cloud, “Move faster, Grow faster.”
+
+We are looking for a top-notch data scientist to join the Commerce Cloud Einstein team at our office in Cambridge, Massachusetts. The Einstein product suite allows retailers and e-commerce companies to leverage real-time shopper data from across the globe to personalize customer interactions across the ecommerce ecosystem. We do this by capturing data from every customer touch point, mining behavioral signals using machine learning and advanced predictive algorithms and overlaying deep retail domain knowledge. Commerce Cloud Einstein technology enables merchandisers and marketers to drive substantial engagement and revenue.
+
+The successful candidate will work with world-class database gurus, software engineers and data scientists on expanding the personalization and machine learning capabilities of the Einstein platform. If you have a passion for machine learning and experience with personalization and recommender systems, and a demonstrated history of delivering results, then we are very interested in talking to you.
+
+Responsibilities
+
+Contribute to the research, design and construction of cutting-edge personalization systems that touch hundreds of millions of shoppers annually
+
+Apply emerging AI technologies (e.g., deep learning, reinforcement learning ) to product, shopper and business-user data to take recommender systems and contextual personalization to the next level, as well as to devise new data products for use by digital commerce teams.
+
+Rapidly iterate and develop algorithmic/model-based approaches, based on machine learning techniques, to retail prediction/targeting problems
+
+Work closely with Engineering & Product teams to "productionize" winning approaches
+
+Qualifications
+
+Must-Have :
+
+Practical experience/ Knowledge in machine learning / deep learning / personalization / reinforcement learning
+
+MS with 2+ years of experience or PhD in quantitative discipline with ideally internship experience / publications
+
+Fluent in building/prototyping machine learning models and algorithms and wrangling large datasets
+
+Proficient in using Python (e.g., numpy, scipy, scikit-learn, tensorflow, theano, keras) to implement machine learning models and algorithms
+
+Proficient in shell scripting, SQL and Unix/Linux command-line tools
+
+Ability to summarize and clearly convey technical topics to non experts
+
+Ideally:
+
+Demonstrated experience with actually shipping code, getting data science into production
+
+Public Cloud AWS/GCP/Azure/Alicloud experience
+
+Some low level programming experience ( C/C++/Fortran/Java/Go etc.)
+
+Experience with big data & emerging technologies (Cassandra/Spark/Flink/Vowpal )
+
+You can explain how Factorization Machines get around the overfitting problem when using second-order interactions
+
+You have presented a paper at RecSys / ICML / NIPS / CVPR (or a similar conference)
+
+Posting Statement
+
+Salesforce.com and Salesforce.org are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Headhunters and recruitment agencies may not submit resumes/CVs through this Web site or directly to managers. Salesforce.com and Salesforce.org do not accept unsolicited headhunter and agency resumes. Salesforce.com and Salesforce.org will not pay fees to any third-party agency or company that does not have a signed agreement with Salesforce.com or Salesforce.org.

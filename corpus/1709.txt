@@ -1,0 +1,85 @@
+Position Summary:
+
+The Behavioral Health and Justice Related Services (BHJRS) Unit seeks to reduce stigma, increase behavioral health awareness across systems, strengthen community and cross-system capacity, support recovery and resilience, and increase early intervention and access to behavioral health services. To fill this position, BHJRS seeks qualified candidates who are passionate about making Philadelphia’s behavioral health and justice systems more efficient and effective in responding to individuals with mental health issues and substance abuse disorders.
+
+To assist in accomplishing these goals, BHJRS has developed the new and important position of Research and Information Analyst. In this position, the Information Analyst will be responsible for researching, collecting data and performing statistical analysis needed to monitor trends and patterns. Responsibility for the design, implementation and maintenance of computer-based management information systems necessary for the evaluation and analysis of ongoing programs or trends is an important aspect of the work. Experience with SQL databases and analysis software is required.
+
+The Information Analyst is also required to have an advanced understanding of the function and
+utilization of queries and data tables. This position will take primary responsibility for “getting the data right,” managing and preparing data from various contributors for a variety of web applications, reports, graphs, charts, and other pertinent documentation. Candidates must be able to organize raw data, produce actionable insights, and effectively communicate this new information through data visualizations and messaging.
+
+Duties and Responsibilities:
+ Conduct analytical and statistical research; make recommendations on data collection and analysis methods to ensure data is reliable and understandable; synthesize and interpret information, translate quantitative and qualitative data into visuals and reports for varying audiences
+ Design research questions and projects; prepare comprehensive reports, graphs and tables; track and report on key performance indicators for programs and projects
+ Design and construct computer files and analytical processes and output reports for research projects
+ Design new or recommend modifications to current systems and programs, based on assessed needs using query languages, report writers, interactive database programs, spreadsheets and/or application generators; performs related duties which include quality assurance of computer databases, designing source and output documents, developing schedules for the input of data, and testing new programs
+ Design and improve the process by which data is collected and stored to identify, track, and monitor all individuals served by the behavioral health system in Philadelphia (including those hospitalized, incarcerated, and in the community) using Microsoft SQL Server, Qlik Sense, R, and Excel.
+ Consult with various departments (internal and external) to understand the sources of incoming raw data and address the administrative, clinical, and legal needs of forensic individuals
+ Determine database structural requirements by analyzing and programming multiple sources of data, configuring the operationalization of such data, and determine the optimal presentation, and evaluation systems via SQL, Qlik Sense, R, and Excel.
+ Transform various incoming data sources into usable and compatible format for SQL importing
+ Follow database architectural and design projects to completion and provide continued training and support regarding functionality
+ Analyze the reporting needs in and between several departments (internal and external) and develop the most efficient methods to utilize the current data, identifying additional needs, and building additional reporting by collecting raw data and translating the information to IS for standardized and novel reporting purposes
+ Provide data and graphics for projects in an efficient and timely manner and present information in a succinct and creative manner
+ Initiate research projects that are data-driven, which directly address incoming questions from internal staff and external partners
+ Serve as a liaison between the clinical/administrative/justice partners and the Data Unit for all research, data, and database needs
+ Possess an understanding of specific data-driven questions and build and manipulate queries in SQL to answer such questions
+
+Skills Required:
+ Conducting research projects and determining appropriate research methods utilizing current research techniques
+ Performing complex statistical analysis
+ Using computer software packages to manage and produce data such as tables, maps and/or graphic displays
+ Written analysis and oral presentation
+ Ability to translate complicated data into useful information
+ Advanced experience with SQL databases
+ Advanced understanding of R and Excel
+ Advanced understanding of queries and data tables
+ Excellent quantitative and data analysis skills
+ Understanding of data management and storage infrastructures
+ Ability to initiate and drive projects to completion with minimal guidance
+ Ability to build key data sets to empower operation and exploratory analysis
+ Ability to write queries to extract data for reporting or information requests
+ Extremely strong attention to detail and accuracy
+ Knowledge of statistics and experience using statistical packages for analyzing large data-sets (Excel, SAS, SPSS, R)
+ Excellent written and verbal communication skills with the ability to collaborate and work with others; share information in a clear and concise manner
+ Ability to effectively communicate theoretical and analytical concepts and findings, both orally and in writing
+ Ability to prioritize and respond to requests with speed and agility
+ Proficiency in critical thinking and usage of problem-solving skills
+
+Education and Experience:
+Familiarity with health data is a plus.
+All candidates must have the following:
+ Bachelor’s Degree in Information Management, Computer Science, Statistics, Criminology, Criminal Justice, Psychology, Public Health, Sociology or a related field of study.
+ At least one year of experience in a technical field performing data analytics, modeling, and statistical analyses
+ At least one year of experience producing detailed data-driven reports and analyses, which has included utilizing a database program and spreadsheets for information reporting and analysis
+ At least one year of experience acquiring and using data in various formats (JSON, XML, CSV, Excel, etc.) from various sources (APIs, files downloaded from the web, hand- curated data-sets, packages of scripts, etc)
+ At least one year of experience using SQL databases
+ At least one year of experience with R and Excel
+ At least one year of experience checking data for accuracy at both individual data point and summary level
+Ability to travel throughout Philadelphia on foot or public transportation.
+
+Equal Opportunity Employment:
+PMHCC, Inc. is committed to equal opportunity. It is our policy to support equal employment for all employees and applicants without regard to race, religion, color, sex, sexual preferences, age, national origin, disability, behavioral health status, military status or any other characteristic protected by law.
+
+Americans with Disabilities Act:
+Employees as well as applicants who are currently, or become disabled, must be able to perform the functions of the job with either reasonable accommodation or unaided. PMHCC, Inc. will examine reasonable accommodations on a case by case basis in accordance with the law.
+
+Job Type: Full-time
+
+Pay: $54,086.00 per year
+
+Experience:
+SQL databases, R and Excel: 1 year (Required)
+checking data for accuracy: 1 year (Required)
+performing data analytics, modeling, and statistical analyse: 1 year (Required)
+using data in various formats (JSON, XML, CSV, etc.): 1 year (Required)
+producing detailed data-driven reports and analyses: 1 year (Required)
+Education:
+Bachelor's (Required)
+Work Location:
+One location
+Benefits:
+Health insurance
+Dental insurance
+Vision insurance
+Retirement plan
+Paid time off
+Tuition reimbursement

@@ -1,0 +1,48 @@
+Alignment Healthcare is a data and technology driven healthcare company focused partnering with health systems, health plans and provider groups to provide care delivery that is preventive, convenient, coordinated, and that results in improved clinical outcomes for seniors.
+
+We are experiencing rapid growth (backed by top private equity firms), our Data Services and BI team is looking for the best and brightest Business Intelligence (BI) Engineers. Data drives the way we make decisions. We love our customers and understanding them better makes it possible to provide the best clinical outcome and care experience.
+
+We are currently seeking a solid Data Engineer who has expertise in both back-end data processing technologies as well as building cutting edge data visualizations to provide self-service actionable analytics products. This position will play a key role in design and development of a cloud-based Data Intelligence and Analytics services.
+
+Responsibilities
+Translate business requirements into specifications that will be used to implement the required reports and dashboards.
+Work with business units to gather requirements, development and delivery of business intelligence & reporting services.
+Develops and implements business intelligence & analytics to support organizational initiatives.
+Build rich and dynamic dashboards using out-of-box features, customizations and visualizations.
+Design and publish custom dashboards and web applications for business functions, stakeholders and corporate users around the company.
+Design, model, develop & optimize BI solutions to meet data management and data reporting objectives.
+Design and model data flows and procedures ensuring data quality and integrity
+Working with data engineers and application engineers to ensure that data sets feeding the analytics platforms are tuned for optimal performance.
+Work with power users of the analytics/reporting tools to advice on best practices for the business Intelligence reporting.
+Troubleshoot and resolve issues with the processes used and the content produced by the BI platform.
+Work with business stakeholders to define and improve standardized and ad-hoc analytics/reporting capabilities.
+Work as part of the BI team to maintain and develop all components of the BI platform.
+Provide ongoing maintenance support through troubleshooting, report modifications and optimization.
+Provide input into the technical architecture and the data warehouse technology stack.
+Create functional and technical design documents and maintain documentation for all reports and dashboards created or modified
+Creates and maintains positive, cohesive work environment.
+Qualifications
+BS Computer Science, IT or equivalent and/or equivalent experience.
+7+ years of business intelligence, reporting and web application development experience.
+5+ years of experience with BI/Reporting software products (Power BI, Tableau) and knowledge of Healthcare Industry standards and requirements.
+3+ years of experience in web/mobile application development.
+Expertise in HTML, JavaScript and CSS.
+Experience with various JavaScript based data visualization frameworks and libraries.
+5+ years database experience with MS SQL Server.
+5+ years of experience in healthcare industry with proven understanding of data terminology.
+Healthcare Experience and Clear understanding & working knowledge of HIPAA protocols.
+Extensive hands-on an experience with Microsoft’s Power-BI/ SSAS/Azure Data Factory and other cloud based BI and Reporting services.
+Extensive experience on web applications and Java scripting
+Extensive experience on Advance Analytics tools like -Azure ML, CRAN R Library, Azure Cognitive Services.
+Experiences on Hadoop /Spark and Azure Data Platform is a plus
+Statistics foundation with working knowledge of control charts, statistical significance and study design.
+Strong appreciation of timeliness and the ability to multitask and accomplish assigned tasks within project timelines.
+Demonstrated ability to build partnerships and maintain cohesive relationships.
+Demonstrated ability planning, organizing and executing multiple complex analytics projects.
+Ability to effectively present information and respond to questions from groups of managers and customers.
+Excellent human relations and verbal/written communication skills.
+Experience with Azure, AWS or GCP is a plus
+Microsoft SQL Server, Power BI or Azure Certification
+Alignment Healthcare, LLC is proud to practice Equal Employment Opportunity and Affirmative Action. We are looking for diversity in qualified candidates for employment: Minority/Female/Disable/Protected Veteran.
+If you require any reasonable accommodation under the Americans with Disabilities Act (ADA) in completing the online application, interviewing, completing any pre-employment testing or otherwise participating in the employee selection process, please contact careers@ahcusa.com.
+(function() { var ac = document.createElement('script'); ac.type = 'text/javascript'; ac.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'click.appcast.io/pixels/grpeople1-1573.js?ent=8&t=' + new Date().getTime(); var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ac, s); })();

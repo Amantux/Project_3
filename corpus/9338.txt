@@ -1,0 +1,37 @@
+Are you passionate about defending online users against abuse, spam, and manipulation? Do you love working on challenging problems that require a multi-disciplinary approach, creative solutions, and rapid product iterations? Will you be proud to work with a real-time, scalable system that serves millions of users daily? If so, you should join us.
+
+Who We Are
+
+The Scaled Enforcement Heuristics team is responsible for proactively keeping spam and abuse off of Twitter; informing product with expert knowledge about malicious behavior; and rapid prototyping of stateful heuristics. Our team’s mission is to ensure good users see high quality content and to proactively prevent abuse and malicious automation on Twitter. We work with some of the world’s most highly-scaled distributed systems, handling hundreds of millions of tweets and engagements each day, to make Twitter safer and limit the spread of misinformation, abusive, and spammy content on the platform. As a member of this team, you’ll be working on our company's #1 priority: growing the collective health, openness, and civility of public conversation on Twitter.
+
+What You’ll Do
+
+We believe passion and personality matter. We’re looking for someone who can help us engineer stateful, complex heuristics to proactively combat spam and abuse across multiple product surface areas, rapidly prototype new signals, and use your domain knowledge to size opportunities and inform product decisions. As a technical team member, you will work with data scientists, analysts, engineers, and product managers across multiple teams and orgs to improve overall platform health.
+
+Who You Are
+
+If this role sounds like a great match, you probably have:
+
+Multiple years of experience combating spam and abuse and a passion for being one step ahead of malicious actors
+
+A knack for developing, testing, and productionizing complex and stateful rules and heuristics
+
+Skills to apply advanced statistical techniques to model user behavior, identify causal impact and attribution, and define, build and benchmark-related metrics
+
+Background working with Javascript, Python, Scala, and SQL on large scale datasets
+
+Familiarity with standard software engineering methodology, e.g. unit testing, code reviews, design documentation
+
+Experience using data visualization tools (e.g, Tableau, Zeppelin) to share ongoing insights.
+
+A strong desire to improve the health of public conversation and discourse
+
+Strong communication skills to enable collaboration with product and policy teams
+
+Thoughtful perspectives, empathy, creativity, and a positive attitude to solve problems at scale
+
+Here’s all the legal good stuff:
+
+We are committed to an inclusive and diverse Twitter. Twitter is an equal opportunity employer. We do not discriminate based on race, ethnicity, color, ancestry, national origin, religion, sex, sexual orientation, gender identity, age, disability, veteran, genetic information, marital status or any other legally protected status.
+
+San Francisco applicants: Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.

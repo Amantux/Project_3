@@ -1,0 +1,40 @@
+Job Description
+Quadratic, a wholly owned subsidiary of The Richards Group, provides advanced analytics, digital analytics, data solutions, and relationship marketing services to more than 100 brands across a wide range of verticals.
+
+We’re searching for an analyst who shares our passion for data, analysis, modeling, learning, and continuous improvement. Like all team members, this person must be incredibly curious, empathetic, sincere, hardworking, and a problem-solver. Quadratic requires a healthy balance between thinking and doing, between attention to detail and
+outside-the-box thinking. Our clients’ needs are constantly evolving, and they count on us to help them move forward.
+
+Analysts in our Data Intelligence discipline apply knowledge and passion to solve math, business, and/or technology problems for clients, helping them make better, faster decisions. Experience working across a range of data environments (from structured SQL environments to cloud-enabled data lakes) is a prerequisite for success. You will work with everything from enterprise, digital, sensor, marketing, economic, and open-end research responses in a collaborative environment. Determining which approach(es) for storing, blending, accessing, and presenting has/have the most merit is a core day-to-day responsibility.
+
+The ideal candidate will have fluency in query logic, stored procedure development, and API development. Preferable: Python, Java, other languages used for automating processes (R or other statistical language/tools), SSIS, or other ETL (e.g., Alteryx) tools.
+
+Responsibilities
+Process large data sets and develop workflow automations (Alteryx, etc.)
+Use data analytics software (SQL, SAS, R, etc.) to clean and organize large data sets to be used in analyses
+Develop metadata tables and related database structures to support design and implementation
+Develop reports and dashboards (Tableau, Power BI, Google Data Studio, etc.) and provide analytic insights to cross-discipline stakeholders
+Conduct fuzzy matching, data standardization, and data appends to structure and augment data for use in analysis
+Use web scraping to create additional data sets (e.g., via Python)
+Work with current team to develop or acquire new learning in technologies or techniques to provide added value to our clients
+Data environment and visualization requirements gathering
+Process documentation
+Acquire data from primary and secondary data sources, and maintain databases and data analysis systems
+Work with cross-discipline teams to investigate discrepancies across multiple data sources
+API development and management
+Identify, analyze, and interpret trends or patterns in complex data sets
+Perform ad hoc quantitative analysis to answer unique and challenging business questions
+Adapt and learn to help answer the question at hand in the best way possible
+Effectively present analytical methods and results to internal stakeholders and clients with varying levels of technical expertise
+Peer code review
+
+Requirements
+Undergraduate degree in statistics, economics, mathematics, computer science, engineering, or related quantitative field; master’s degree preferred
+Two or more years of professional experience preferred
+Demonstration of strong SQL skills including development of stored procedures
+Advanced level of experience in at least one data manipulation platform (Python, Alteryx)
+Knowledge of common marketing analytics techniques such as media mix models, multivariate testing, A/B testing, segmentation, and attribution algorithms is desired
+Data visualization experience through tools such as Tableau or Power BI
+Highly organized, with the ability to manage multiple projects in a fast-paced environment
+Ability to work independently and within a team structure to discuss methodology, results, and recommendations
+Ability to present findings and recommendations in a clear and compelling way
+Ability to creatively solve problems and understand the implications of new information on current client

@@ -1,0 +1,61 @@
+As Senior Data Scientist in Healthcare, you will be our ambassador and representative at our client engagements. You will be in charge of analyzing a wide range of unstructured data (text, audio, image) to address problems for our customers through attentive listening, astute planning, and out of the box thinking to develop solutions and reporting results in an engaging manner. The role will be responsible for directing and mentoring Data Scientists and Associate Data Scientists to analyze complex data, generate insights, and create solutions as needed across a variety of tools and platforms. The ideal candidate for this position will possess ability to lead team based research and generate insights from large data sets with a hands on/can do attitude of servicing/managing day to day data requests and analysis.
+
+Specific duties include but not limited to:
+
+Direct efforts to implement and validate predictive models based on statistical/NLP insights
+
+Direct efforts to prepare, transform and annotate client datasets
+
+Create compelling visualizations for client reporting
+
+Manage client communications and relationships
+
+Mentor Data Scientists and Associate Data Scientists
+
+General Required Competencies:
+
+Time Allotment:
+
+Required Education and Experience:
+
+Bachelor's degree in Computer Science, Applied Math, Statistics, or a scientific field. Master's degree a plus
+
+Have 3 to 6 years experience working with data & analytics (including school)
+
+Have 2+ years experience working with NLP, text analytics
+
+Have 1+ years experience in a client facing role
+
+Knowledge of embedding models (word2vec, GloVe)
+
+Strong statistics knowledge (multinomial Gaussian, tstatistics,etc…)
+
+Command of data science principles (regression, Naive Bayes, time series, clustering, P/R, AUROC, etc…)
+
+Knowledge of neural networks
+
+Knowledge of machine learning principles
+
+Excellent verbal and written skills
+
+Proven collaborator, thriving on teamwork
+
+Demonstrated proficiency in Python with numpy, scikit-learn,pandas
+
+Demonstrated proficiency with SpaCy, gensim
+
+Familiarity with Spark or PySpark
+
+Experience with SQL (mysql, postgresql, or sqlite)
+
+Experience with noSQL (mongo, elasticsearch)
+
+Experience with Hadoop (hdfs cli)
+
+Proven ability to present to technical and nontechnical audiences
+
+Ability to serve as liaison between business and analytics professionals
+
+Ability to work in a fast paced, intellectually challenging environment
+
+Superior relationship building skills

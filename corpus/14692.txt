@@ -1,0 +1,39 @@
+POSITION PURPOSE:
+
+The Data Analyst will be part of the OWI Analytic team, working closely with our business partners, proactively developing and delivering analytic solutions. The primary deliverables include creating data visualization such as Dashboards, Charts, Histograms and Projective Analysis. This will be accomplished by utilizing OWI data architecture, data workflows from local data sources.
+
+OWI is a fast-paced and dynamic organization. Individuals will be handling multiple activities in a team as well as individual contributor environment.
+
+DUTIES, TASKS AND RESPONSIBILITIES:
+Experience and expertise creating visualizations that provide business insights for our global customers. Examples: Pie Charts, Dashboards, Cash-flow projections with Histograms– Projections analysis– Financial Analysis – KPI’s Service level Agreements
+Expertise in SQL, independently mine data to translate Business data needs into creative visualizations.
+Performance tuning specific to Tableau data sets– requires in depth understanding of data.
+Assist the Enterprise Data Warehouse team create, design data models that will be published to our Tableau environment.
+Assess data quality, design data quality management procedures, clean and correct data quality defects, establish data governance.
+Experienced utilizing HANA studio including calculations and analytical views, data base schemas, creating attribute user/role creation.
+Assist setting up security, Analytic privileges, user integration services, SQL script, SLT, SDA, SDI and HANA Live solution models.
+Demonstrate critical thinking, analytical skills, and employ judgment to offer thoughtful, concise input toward resolutions of problems.
+Assist team building the BW4HANA modeler including standard and custom development and deployment of EWD design building BW objects e.g. Composite Providers, Advanced DSO’s, ODS Views, Data Sources, Data Loading using SLT.
+Requires the skill set to work with a wide range of stakeholders and functional teams and data analysts/scientists to develop data visualizations that provide business insights
+Finance/Operations/Sales/Marketing/IT functional leads PTP/PTM/RTR etc.
+Projects management capabilities - include requirements gathering, design, deployment, and change request, future enhancements management
+Capabilities to build/design prototypes to demo to stakeholders - peer groups, Business partners, and senior leaders.
+Training and support peers and stakeholders e.g. Subject Matter Expert (SME) throughout the report creations and support - troubleshooting, analysis of results.
+Leadership skills needed to successfully promote ideas, coordinate work activities, and plan deliverables within a project team.
+
+
+SKILLS, KNOWLEDGE AND ABILITIES:
+
+
+Advanced expert database handling languages (SQL and variants)
+Experience with data analytics, diagrams, data dictionary, data mapping, normalize de-normalize, agile data modeling
+Practical skill sets in BI and Data visualization tools
+Working knowledge of ETL
+Working knowledge of SAP
+Basic Project Management and Business Process modeling
+Minimum Bachelor’s Degree in Engineering Technology, Computer Science, or closely related field.
+A minimum of 3 years’ experience in Tableau, SAP Data Governance, SAP Data Services (Data Extract, Data Profiling, de-duplication)
+Advanced competency in Tableau and Alteryx
+Excellent verbal and written communication skills with a strong focus on the ability to clearly articulate and discuss technical issues with both technical and business personnel.
+Bachelor’s degree in computer science, Math or a related IT field or equivalent work experience in an IT field required
+Strong analytical skills, able to effectively solve problems in a timely manner

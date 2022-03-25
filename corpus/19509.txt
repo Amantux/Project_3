@@ -1,0 +1,39 @@
+Requires: Public Trust
+
+Our client has a complex, secure infrastructure and desires to deploy their suite of applications to Docker Enterprise using Kubernetes. They are aware that there are many different installation options and a significant amount of design/configuration is required. They are seeking substantial help to identify the options, weigh the pros/cons, and assist with the installation:
+
+Installing Kubernetes on-prem to a secure, firewalled infrastructure
+
+Integration with Docker Enterprise
+
+Configuring Kubernetes Networks and Services to interoperate with external applications and resources.
+
+Deploying with different rollout methodologies (Blue-Green, Canary etc.) using Kubernetes.
+
+Support substantial time on ground in Jacksonville, FL
+
+Project Description: To meet the scope and objectives for DON ERP deployment to COMFRC, COMFRC must complete system changes to its existing portfolio of NAVAIR Depot Maintenance Systems (NDMS). Although the Functional Design Specification (FDS) documentation has not been delivered, COMFRC is proceeding, in a limited capacity, with its agile systems development lifecycle (SDLC) for impacted systems and operational processes. Current development efforts include:
+
+Replacing DIFMS interfaces (12 direct interfaces plus 5 indirect interfaces that pass data between applications)
+
+Modifying applications to encompass Chargeable Object and supporting attributes that replace JON
+
+Deleting/Modifying application validations for JON, CON, Project and Shop
+
+Implement command legacy systems into success migration into Navy ERP under very short deadline given by leadership
+
+Day-to-Day: Onsite work at site in Jacksonville, FL. The team that these resources will be brought into are is a functioning team whom knows and is already working well into a developed agile system development lifecycle. It is a must for the resources to be able to step into the enviroment with little to no training.
+
+Expected Deliverables: Develop new database tables as needed
+
+Design and implement data collection, validation, enrichment, and correction processes to be used first in mock data load process and then for BSO/Command migration
+
+Develop new interface agreements or modification of existing interface agreements as required
+
+Coordinate Technical Working Groups (TWG), which shall consist of the principal working level stakeholders
+
+Develop test scripts for all interface connections in cooperation with SMEs and external business partners
+
+Utilize discovery to help support end-state planning, standardization, and system consolidation
+
+Recommend the path forward for system environment and business process strategy of Aviation Depot Maintenance (COMFRC)

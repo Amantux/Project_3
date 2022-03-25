@@ -1,0 +1,53 @@
+JOB POSTING – Research Scientist – RI Radiology Neuroradiology/Neuroimaging/Artificial Intelligence
+Full time: Main Campus; Mon-Fri 8 AM – 5 PM
+We are seeking a Research Scientist - in Artificial Intelligence/Advanced Neuroimaging within the Department of Radiology at Nationwide Children’s Hospital in Columbus, Ohio. Nationwide Children’s is the second largest pediatric hospital and research institute in the United States, and the academic partner of The Ohio State University. The candidate will receive mentorship from leading clinician-investigators and the opportunity to work within a dynamic multidisciplinary hospital environment.
+The Department of Radiology utilizes cutting-edge MRI technology and advanced sequences including diffusion, perfusion, functional, spectroscopy, elastography, and multinuclear imaging. Large-volume datasets are available for multiple populations including neuro-oncology, epilepsy, genomics, neonatology, and psychology. Computing facilities are housed in the Pediatric Advanced Imaging Resource (PAIR) Lab, a translational imaging group with rich capabilities for quantitative neuroimaging analysis, 3D visualization, and anatomic modeling.
+
+The candidate will have or be close to completing a PhD in computer science, engineering, physics, mathematics, or a related field, with prior experience and publications in medical imaging. This position will focus on deep learning and big data analytics to assess disease biomarkers and develop analytical/predictive models for pediatric neuroimaging. Experience with radiomics and deep learning algorithms is highly desired, in particular feature extraction/qualification and neural network design. A strong background in functional/structural MRI techniques and computer programming (MATLAB, Python, R) is required. Familiarity with various neuroimage segmentation, processing and analysis tools (SPM, FSL, AFNI, ANTs, FreeSurfer) will be helpful in the development of specialized pipelines for pediatric clinical applications.
+Applicants should possess an interest in interdisciplinary collaboration, passion for self-directed learning and development, and desire for mentorship toward an academic career. It is expected that this work will lead to impactful research publications, future grant funding, and the opportunity for long-term employment.
+
+Why Nationwide Children's Hospital?
+The moment you walk through our doors, you can feel it. When you meet one of our patient families, you believe it. And when you talk with anyone who works here, you want to be part of it, too. Welcome to Nationwide Children’s Hospital, where Passion Meets Purpose.
+Here, Everyone Matters. We’re 13,000 strong. And it takes every single one of us to improve the lives of the kids we care for, and the kids from around the world we’ll never even meet. Kids who are living healthier, fuller lives because of the knowledge we share. We know it takes a Collaborative Culture to deliver on our promise to provide the very best, innovative care and to foster new discoveries, made possible by the most groundbreaking research. Anywhere.
+Ask anyone with a Nationwide Children’s badge what they do for a living. They’ll tell you it’s More Than a Job. It’s a calling. It’s a chance to use and grow your talent to make an impact that truly matters. Because here, we exist simply to help children everywhere.
+Nationwide Children’s Hospital. A Place to Be Proud.
+What Will You Be Doing?
+1.
+Apply radiomic analysis to large MRI datasets and correlate with clinomic and genomic data.
+2.
+Design, train, and validate neural networks for medical image analysis, in conjunction with the informatics group at CRI.
+3.
+Optimize computational pipelines to perform pediatric brain segmentation, processing, and analysis.
+4.
+Record and analyze data from research studies. Help support neuroimaging research efforts within the hospital, CRI, and The Ohio State University.
+5.
+Prepare and publish scientific papers from the results of the research work. Present findings at local (particularly CRI research meetings) and national research forums. Contributes to grant submissions to obtain funding from external agencies.
+
+What Are We Looking For?
+To fulfill this role successfully, you must possess these minimum qualifications and experience:
+PhD. in computer science, engineering, physics, mathematics, or a related field.
+Background in data science and machine learning.
+Research experience in medical image processing and analysis.
+Good technical writing and communication skills.
+Your Benefits, Your Wellness:
+As an employer, Nationwide Children’s recognizes the importance of the benefits we offer. We also recognize the importance of balancing your work and personal needs. Our benefits and Employee Wellness package is designed to:
+Empower you to be a conscientious health care consumer through educational and wellness activities
+Establish a work environment that promotes health and well-being
+Support your financial protection and security in retirement
+Most of our positions are benefits’ eligible from day 1.
+Minimum Physical Requirements:
+Percent of time spent on:
+25% Designing and developing protocols
+25% Performing research work
+25% Recording and analyzing data generated by research study
+10% Preparing scientific and technical papers
+03% Liaison with OSU researchers
+02% Miscellaneous paperwork associated with research
+Minimum physical requirements:
+100% Kneeling / reaching
+100% Finger dexterity
+100% Talking / hearing / seeing
+33% Lifting / carrying weight 0-20 pounds for 1-5 minutes
+Pressure in this position will vary depending on the workload. The workload will be heavy but manageable most of the time. Pressure may arise in the face of deadlines associated research and manuscript writing.
+The above list of duties is intended to describe the general nature and level of work performed by individuals assigned to this classification. It is not to be construed as an exhaustive list of duties performed by the individual so classified, nor is it intended to limit or modify the right of any supervisor to assign, direct, and control the work of employees under his/her supervision.
+EOE/M/F/Disability/Vet

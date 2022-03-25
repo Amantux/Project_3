@@ -1,0 +1,56 @@
+Cloud Software Engineer
+
+We are looking for engineers who want to make a lasting impact on our enterprise grade Kubernetes offering, Cisco’s Digital Networking Architecture, also known as Cisco DNA.
+
+What You'll Do
+
+
+You are deeply motivated platform engineer with background in building PaaS or similar shared software platforms. Ideal candidate must have experience building, shipping and operating software-as-a-service (SaaS) product. Ideal candidate would have done such products using Cloud Native Principles and exposed to cloud technologies. The product being delivered is both a platform and a service. The emphasis of this role is to both do hands-on implementation and to influence and guide the platform development to be highly operable and efficient. This can only be accomplished by a candidate with substantial real-world experience actually building, deploying and operating distributed systems using cloud technologies.
+
+You are a polyglot who loves learning new programming languages and systems. Furthering your learning has always been a goal of yours. Even if you have not yet worked with Kubernetes, you find deployment, provisioning, and containerization technologies fascinating.
+
+Who You'll Work With
+
+
+Cisco is transforming the networking industry. To make this happen, we are heavily investing in team responsible for The Network. Intuitive. We are disrupting the industry by building a new networking platform that can learn, adapt, and secure itself at the speed of today’s businesses. This Digital Network Architecture platform automates network management and provides our customers with state-of-the-art analytics and insights. This team's innovations span artificial intelligence, machine learning, analytics, IoT, security, automation, and more.
+
+Who You Are
+You thrive in a team that is part of cutting edge, high impact projects and are motivated by delivering industry transforming solutions on an aggressive schedule
+Someone who is motivated by challenges; handles pressure; is passionate; driven; and can deliver quality results
+You are curious to learn new technologies and collaborate with fellow engineers to raise the bar to create team success
+Contribute to a culture of continuous learning and improvement
+Troubleshoot production problems
+Solve customer problems through close collaboration with a diverse product team
+Participate in on-call rotations (if called, we will make sure you have adequate recovery time)
+Basic Qualifications
+5-10 years with Bachelors/Master's Degree in Computer Engineering
+Linux system development exposure, familiarity with Virtualization, Containers & Microservices.
+Experience with ELK stack or similar log management tool
+Experience with designing and developing customized tools, scripts and dashboards
+Experience with Kubernetes, Docker, or cloud deployment technologies
+Experience with Test Driven Development (TDD)
+Strong foundation in model driven
+4+ years in one or more of the programming languages Python/Java/Go development experience
+2+ years in Agile engineering experience
+2+ years of experience with Cloud computing (AWS/Azure/GCP)
+Desired Qualifications
+We understand from experience that not ticking every box on the skills sections stops many from applying. You should apply if you feel you are the right person for the job and have the aptitude to learn and deliver results.
+Professional software development experience with at least one object-oriented language like Go, Java, Python
+You know your way around CI/CD platforms and tools
+Ability to dive into a large polyglot codebase and contribute as you learn
+Demonstrable ability to research problems and break them into discrete parts
+Ability to ramp-up quickly and contribute to a production codebase
+Demonstrated mentor and technical team leader in a professional software team
+On-call experience with production grade systems
+Why Cisco
+
+
+At Cisco, each person brings their unrival talents to work as a team and make a difference.
+
+Yes, our technology changes the way the world works, lives, plays and learns, but our edge comes from our people.
+We connect everything – people, process, data and things – and we use those connections to change our world for the better.
+We innovate everywhere - From launching a new era of networking that adapts, learns and protects, to building Cisco Services that accelerate businesses and business results. Our technology powers entertainment, retail, healthcare, education and more – from Smart-Cities to your everyday devices.
+We benefit everyone - We do all of this while striving for a culture that empowers every person to be the difference, at work and in our communities.
+Colorful hair? Don’t care. Tattoos? Show off your ink. Like polka dots? That’s cool. Pop culture geek? Many of us are. Be you, with us! #WeAreCisco
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

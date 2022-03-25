@@ -1,0 +1,45 @@
+Description:  
+About us: 
+Target is an iconic brand, with ~2000 stores nationwide and a growing e-commerce channel. The retail business is about anticipating customer s needs and providing them with a great shopping experience. Target does this with an eclectic mix of art and science   human creativity married with artificial intelligence. 
+Target s A. I. mission is based in Sunnyvale, CA with ~100 scientists and engineers, and growing rapidly to address a wide range of important and interesting A. I. problems across Demand Forecasting, Supply-Chain, Pricing, Personalization, Marketing and more. The team consists of some of the best mathematicians, statisticians, and computer scientists in the country, many of whom also have significant depth in retail business knowledge. 
+While we are still early in our journey in deploying A. I. in our business, we have made great progress in developing domain-specific techniques spanning Deep Learning, Stochastic Optimization, Functional Programming, Distributed Systems, Causal Analysis, to name a few. We continue to look for elite talent in these areas to take our capabilities further and to be able to deploy our algorithms at scale to propel our business and serve our customers. 
+
+Our culture has the following ingredients:  
+
+Diversity and Inclusion:  We believe that diversity and inclusion are of core importance not only when creating great in-store experiences for our guests, but also when building our teams. Read more about our commitment to diversity and inclusion 
+
+Personal Life:  We value our team members for who they are, not just what they can get done. We are parents, hobbyists, community members, and more, and are able to offer flexibility to our team members' schedules and work arrangements so that they can flourish both inside and outside of work. 
+
+Learning: We allocate 20% of our time to further develop our technical strengths in A. I. by taking courses and by working on self-initiated projects. We are active participants in open source communities, and some of us are prominent contributors to online communities like Quora, StackOverflow. 
+
+Teaching:  Many of us come from an academic background, so sharing our knowledge is part of our DNA. Some of us who are experts in specific areas mentor other team members. We hold technical talks both internally and through public meetups. We also teach at Stanford University as a way of giving back to the community. 
+(Legal Disclaimer) Core responsibilities of this job are described within this job description.  Job duties may change at any time due to business needs. 
+About You: 
+We're looking for a significantly experienced data scientist/statistician/econometrician with either a background or a keen interest in the Retail business. The ideal candidate would have a Ph. D. in either of Mathematics, Statistics, Physics, Computational/Statistical Engineering, Mathematical Economics or a similar discipline. The ideal candidate would have at least 7 years of experience working with large data to estimate models of real-world/business, with at least some experience with consumer behavior modeling. Machine Learning and programming skills are required at the level of building prototypical models and guiding developer teams to do feature engineering and implementing statistical models in production (the candidate himself/herself is not expected to write production software or to develop production ML pipelines).  
+This role is about developing a comprehensive model that forecasts customer demand for products we sell in stores or on our. com channel.  
+Requirements : 
+M. S./Ph. D. in Mathematics, Statistics, Economics, Physics,Computer Science, or in a related Statistical or Computational Engineering major (or equivalent research experience) 
+7+ years of experience working with largedata to estimate models ofreal-world business, with at least some non-trivial experience with econometricmodeling of consumer behavior 
+Significant expertise in Machine Learning  in both theory andpractice 
+Proficient in Python or R to be ableto develop prototypical models/algorithms 
+Excellent written and verbal communicationskills  
+Target will consider for employment qualified applicants with criminal histories in a manner consistent with the San Francisco and Los Angeles Fair Chance Ordinances. 
+
+Job Summary
+
+                             
+                     
+                         Location 
+                             Sunnyvale, CA 94087 
+                     
+                 
+                             
+                     
+                         Posted 
+                         1 Days ago 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         2365_a319eb5fca0f4ecc5219ebf1ad5f0056

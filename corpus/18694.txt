@@ -1,0 +1,37 @@
+LMI has an immediate need for a DevOps Engineer (AWS/Cloud) in our Digital Services group. LMI DevOps teams use the latest technologies, databases, and components in a fast paced agile team environment to provide creative and cost effective solutions to our clients. This position is located in our San Antonio, TX, office. The role can also be worked out of our Austin, TX or McLean, VA offices.
+LMI is a consultancy dedicated to improving the business of government, drawing from deep expertise in advanced analytics, digital services, logistics, and management advisory services. Established as a private, not-for-profit organization in 1961, LMI is a trusted third party to federal civilian and defense agencies, free of commercial and political bias. We believe government can make a difference, and we seek talented, hardworking people who share that conviction.
+
+The developer must have a solid understanding of cloud-native architecture concepts and have knowledge of best practices for high availability, scalability, resilience, performance, and security requirements in the cloud. Experience with AWS Lambda or Microsoft Azure Functions required. Collaborate to define best practices and standards around DevOps and service resilience while also building reusable automation libraries / APIs that can be applied across an enterprise.
+Develop software applications using Agile methodology
+Work independently to complete implementation projects
+Identify and implement best-practice solutions to client requirements
+Collect requirements and develop cloud-native applications
+Use modern software development and DevOps practices
+Advise on Cloud DevOps best practices
+
+Required:
+Bachelor’s degree in a technical field
+At least 3 years professional experience in designing, executing and supporting Cloud environments
+Must have an “automate everything possible” mindset, no “point and click to configure” need apply
+Experience in Infrastructure as Code (IaC) development either with Terraform (AWS or Azure), Cloud Formation templates (AWS), or Resource Manager templates (Azure)
+Experience with the IaC controlled setup and maintenance of basic Cloud services such as ALBs, ELBs, VPCs, VNETs, S3, ECS, EC2, RDS, Azure SQL, Blob Storage, and SES
+Experience with the IaC controlled setup and maintenance of serverless Cloud services such as Azure Functions, Azure App Service, AWS Lambda, and Fargate
+Experience with source control of IaC through Git
+Experience with creating and maintaining cloud native alarms and events for further automation and monitoring
+Experience with implementing and maintaining best practices in cloud security around access control, data, and monitoring
+Experience with the deployment of containers (Docker) into cloud services such as ECS, Fargate, Kubernetes (Azure or AWS), Azure Container Instances, Azure Batch, etc.
+Experience with DevOps and Agile engineering practices and being an infrastructure team member on a DevOps or Agile team
+Experience with the automated setup and maintenance of Windows based applications such as IIS, SQL Server, and SSRS via PowerShell
+Linux scripting knowledge (Bash, Python, etc.)
+Experience with continuous integration/continuous deployment (CI/CD) tools, services and methodologies (Azure DevOps, Bamboo, Jenkins, CodeBuild, CodePipeline, CodeDeploy, Atlassian Suite etc.)
+Experience with AWS developer services such as CodeStar, CodeDeploy, CodeBuild, CodePipeline, and X-Ray.
+Strong interpersonal and listening skills and the ability to effectively interact with all levels of LMI personnel and clients
+Able to contribute to a professional work environment by demonstrating integrity, promoting teamwork, and fostering positive communication
+Able to work in a deadline-oriented environment
+Preferred:
+Master’s degree
+One or more Cloud certifications such as Amazon Web Services (AWS) Certified DevOps Engineer, AWS Certified Solutions Architect, or Microsoft Azure DevOps Engineer
+Ability to obtain or maintain a government security clearance is required, for which you must be a US citizen. Applicants selected for this position may be subject to a government security investigation and must meet eligibility requirements for access to classified information.
+#LI-SH1
+
+LMI is an Equal Opportunity Employer-all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.

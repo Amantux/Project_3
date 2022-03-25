@@ -1,0 +1,32 @@
+We have an update on the job description.
+
+Please see:
+
+Location Preferences/Possible Travel: 100% onsite with some remote flexibility. . Only considering candidates to work onsite in Oakland. If candidate is open to relocating themselves, please feel free to submit. Parking is not free and KP does NOT reimburse. Must take public transport or pay (near Bart).
+Remote: no, 100% onsite. However due to Covid19, this position will work remotely until the Covid19 restrictions are lifted.
+Position may extend/convert to FTE based on budget needs and budget. ONLY submit candidates who are eligible to convert to FTE.
+
+Position Title: Data/BI Engineer
+
+Top 3-5 Daily Responsibilities:
+• Gather and translate business data and reporting requirements into technical design and build reporting database across multiple data sources to meet business reporting needs.
+• Work with business partners to gather and understand requirements, analyze data, design data model, develop detailed source-to-target mapping from multiple sources, develop ETL/ELT, test and validate, trouble-shoot and develop fixes, etc.
+• Write complex SQL code across multiple data sources to produce the data and reporting that meet business needs.
+• Analyze data quality across multiple databases, proactively identify and resolve issues
+• Work with BI dashboard developer to produce accurate, easy to read, useful information
+
+Top 3-5 Required Skills:
+• 3+ years of experience working with business partners to translate data and reporting needs to database design and reporting tables.
+• 3+ years of experience designing and implementing dimensional and 3NF data marts in SQL Server, Snowflake, (Nice to have: Snowflake, Azure or other data platforms.)
+• 3+ years of experience with designing and developing scalable and reliable ETL/ ELT process across multiple complex data sources using advanced SQL, Stored Procedures and SSIS.
+• Experience working with business partners to produce reporting that meet their needs
+
+Desired Skills: (not required)
+• Cloud data platform experience (Snowflake, Azure or others)
+• Multi-channel Marketing data experience
+• BI dashboard development experience (Tableau, Power BI, etc.)
+
+Soft Skills:
+Proactive, take initiatives, open to learn but also open to share knowledge
+Communicate effectively with technical and non-technical partners
+Collaborative team player

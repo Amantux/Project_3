@@ -1,0 +1,40 @@
+At Development InfoStructure Inc. (Devis) we are dedicated to providing exceptional IT consulting services and solutions to Federal, State and Local Governments as well as the international development community.
+
+Our primary mission is to satisfy the goals and objectives of our customers, and we approach problems as opportunities to invest our time in developing long-term solutions and assets. We are passionate about our work and about creating an environment where everyone is supported to perform while maintaining a healthy work-life balance. We know that the best investment we can make is in our people!
+
+Overview
+
+Devis is currently seeking a AWS Data Engineer with strong experience and a hands-on builder/developer mindset to join one of our programs in Arlington, VA.
+
+Specific responsibilities include but not limited to:
+Design, develop and maintain BI Solution using Redshift, Tableau & Alteryx
+Optimize Redshift Data warehouse by implementing workload management, sort keys & distribution keys
+Responsible for developing and building the data pipeline from scratch, starting from extraction from on prem to moving it over to processing and final output
+Required Skills and Qualifications
+4+ years of experience using databases such as Oracle, MS SQL Server
+1+ year of hands on experience with ETL/ELT using AWS DMS or Glue or Amazon Redshift Architecture
+1+ year of AWS Pipeline knowledge to develop ETL preferably using Alteryx for data movement to Redshift
+Strong knowledge on AWS environment and Service knowledge with S3 storage understanding
+Strong knowledge multiple cloud technologies including VPC, EC2, S3, Amazon API Gateway, DynamoDB, SimpleDB, and AWS Route 53
+Should understand nuances of moving data from RDBMS sources to Columnar DB (Redshift)
+Hands on experience in Data Warehouse (DW) and BI tools
+Project experience with AWS Data Lakes, Analytics services, and AWS Cloud migrations
+Experience with Databricks/Spark
+Data modeling skills a plus
+Working knowledge of AWS infrastructure and security configuration
+Apache Spark programming using Python would be preferred but not required
+Education / Certifications
+A Bachelors Degree in relevant or related field
+work experience will be considered in lieu of a Degree
+AWS CSA Associate Certification
+Clearance Requirements
+Must be a U.S. Citizen with an active Secret clearance
+Additional Perks/Benefits
+Competitive salary compensation
+Commuter benefits that include free on-site parking or SmartTrip reimbursement
+SEP Retirement Savings Plan
+Flexible, results oriented work environment
+Performance Bonuses
+Devis is an AA/EOE/M/F/Disabled/VET Employer committed to providing equal employment opportunity without regard to an individual’s race, color, religion, age, gender, sexual orientation, veteran status, national origin or disability.
+
+Powered by JazzHR

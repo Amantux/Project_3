@@ -1,0 +1,14 @@
+Ocient is searching for Software Engineers with strong problem-solving skills and a passion for computer science to help build and test the next generation OLAP database system. You will work closely with some of Chicago's most talented software engineers to solve complex problems involving distributed systems, query optimization, metadata storage, web services, and more.
+
+Qualifications:
+Currently enrolled in a BS, MS, or PhD program in computer science, computer engineering, or related technical field
+Strong understanding and application of data structures and algorithms
+Authorization to legally work in the United States
+Ability to speak and write in English fluently
+Preferred Qualifications:
+Experience with systems software development on Linux
+Experience with full-stack web development
+Experience with high performance, parallel computing
+About Ocient:
+
+Ocient is a Chicago-based, venture-funded startup building a SQL compliant, exabyte-scale database platform that achieves better performance than Hadoop and NoSQL systems. It is a distributed system optimized for NVMe drives, RDMA networks and high core count processors and is written in C++. We are led by a management team with seven successful startup exits, including Cleversafe which was one of the largest software startup exit in Chicago's history.

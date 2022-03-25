@@ -1,0 +1,44 @@
+Amazon Web Services (AWS) is one of Amazons fastest growing businesses. We are passionate about thinking big, innovating on behalf of our customers, and tackling problems at scale. Cloud computing is disrupting, and we are eagerly seeking talented, entrepreneurial-minded individuals to join us as we continue to build on the AWS platform. AWS is the largest cloud provider in the world, serving nearly 1/3 of all internet traffic.
+
+With rapid growth of AWS services and features comes great responsibility to ensure their security. AWS Application Security Team owns the Application Security Review story for all products built at AWS. To keep up with the AWS growth, security reviews must scale through automation. The AWS Application Security Team is looking for a motivated engineer with strong analytical skills, data-driven and quantitative mentality, responsible for building automation to scale security reviews, including threat modeling. This position requires to deliver results in the face of ambiguity and imperfect knowledge, foster constructive dialogue and seek resolution when confronted with disagreement. Amazons Leadership Principles of Dive Deep, Invent and Simplify, and Customer Obsession will be called upon daily.
+
+Core Responsibilities:
+
+Interact with various groups to develop a deep understanding of security requirements, security reviews, and threat modeling
+
+Apply automated reasoning techniques to reason about security requirements of AWS services
+
+Design, build, and test Software Solutions for automation of security reviews and threat modeling
+
+Directly represent the team to business leaders and technical staff at all levels of the company
+
+Demonstrate exceptional judgment, integrity, communication skills, and impact
+
+
+
+
+
+
+Basic Qualifications
+
+MS degree or higher in Computer Science or similar field or equivalent work experience
+
+7+ years experience in software development
+
+7+ years experience designing and implementing large-scale systems
+
+
+
+Preferred Qualifications
+
+· Experience designing and implementing large-scale distributed systems
+· Experience designing and implementing services that use graph databases
+· Experience modeling and analyzing complex systems
+· Experience with automated reasoning techniques and formal methods
+· Experience with security reviews and threat modeling
+· Meets/exceeds Amazons leadership principles requirements for this role
+· Meets/exceeds Amazons functional/technical depth and complexity for this role
+
+Please reach out to AWS Recruiter, Courtney Schumm (@schummc) for more information.
+
+Amazon.com is an Equal Opportunity Employer Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age

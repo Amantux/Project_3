@@ -1,0 +1,36 @@
+Role: Sr. Data Engineer
+Location: Chandler, AZ - 1 position San Francisco , CA or New Jersey - 1 position
+Required Technologies: Python
+
+Job Description:
+
+Senior Data Engineer
+
+Years of Experience Required: 10+ Years
+
+Key Responsibilities:
+End to end ownership of ETL data pipelines, from ingestion of data to consumption by business intelligence and advanced analytics teams.
+Design and build an automated, self-service data platform, freeing teams to focus on customer features and analysis.
+Evolve existing tools and framework to support new scalability requirements as well new functionality as needed.
+Identify and drive new solutions to enhance the development cycle to increase development productivity.
+Work with product owners to identify and mature upcoming business needs and develop technical backlog to answer those needs in a timely manner.
+Work with team to identify and resolve technical debt to improve the team's throughput.
+
+Skills:
+Strong communication skills.
+Deep experience designing and implementing highly scalable, distributed application systems.
+5+ years' experience building data pipelines.
+5+ years' experience programming in Python
+Extensive knowledge in fine tuning SQL, understanding optimizers, and execution plans.
+Extensive experience architecting complex data models to handle millions of transactions.
+Experience in application design and Implementation using agile practices & TDD.
+Experience leveraging open source data infrastructure projects, such as Apache Spark, Kafka, Flink.
+Strong understanding of software development life cycle and release management
+Past experience integrating with Oracle, Microsoft SQL Server
+Self-motivated, independent, team-player
+
+Preferred Skills:
+
+SQL Server DB
+
+Diverse Lynx LLC is an Equal Employment Opportunity employer. All qualified applicants will receive due consideration for employment without any discrimination. All applicants will be evaluated solely on the basis of their ability, competence and their proven capability to perform the functions outlined in the corresponding role. We promote and support a diverse workforce across all levels in the company.

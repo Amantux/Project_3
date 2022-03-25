@@ -1,0 +1,165 @@
+Read what people are saying about working here. 
+
+Purpose of the Job
+
+The services that Elsevier provides are becoming increasingly dependent on Smart Content to support Elsevier’s corporate strategy of greater volume, types and sophistication of content. Elsevier is looking for a Data Scientist with a focus on Machine Learning, NLP, and Statistical techniques to help build state of the art applications for the health sciences domain. Hands on coding of NLP/ML/statistical algorithms is an absolute must.
+
+The data scientist will participate in the design, prototyping and implementation of TDM/ML and automation applications for our businesses. These applications have two main goals: cost savings by building workflow efficiencies or revenue generation by working directly on products or product capabilities. You will work closely with both the nursing education and health sciences teams. Sample projects may include extracting medical information from electronic health care records, recommender systems for adaptive nursing and education, integrating big data sets to perform predictive analytics, classifying and curating our image assets, content enrichment pipelines for clinical decision support and search algorithms.
+
+You will also work closely with the EMMeT (Elsevier Medical Merged Taxonomy) team providing data analytics on EMMeT and related terminologies to support decision-making, designing automated approaches to bulk updates, ontology validation and terminology mappings, and will bring ML/NLP expertise to the team. You will work with a team of medical experts, as well as product leads to determine how to best build and leverage semantic capabilities. Knowledge of database query language (SQL) and scripting language (Python) are mandatory. Experience with Natural Language Processing application is necessary, and experience with medical terminologies such as UMLS, SNOMED CT, ICD-9, ICD-10, CPT, LOINC etc is a plus.
+
+Main Activities and Responsibilities
+
+Text and data mining
+
+Bring active experience in to the organization on extraction text and data information from structured and unstructured data. Applying and developing these techniques, the data scientist will drive the implementation of automated indexing and annotation processes. Also well-versed in machine learning, he or she will bring new processes into the organization in order to improve (in cost and time-efficiency) the data excerption processes in Elsevier. This work includes the application of Elsevier's taxonomy and ontology assets to a wide variety of content - as well as drive developments in the application of and expansion on these vocabularies.
+
+Data analytics to support businesses and products
+
+Analyze extracted information to drive such processes as automated and manual data cleansing. Data analytics can also be used to identify research trends, drive decision for content acquisition, or merging big data sets to perform predictive analytics. Using visualizations tools to present the extracted data to be ready for consumption will be another key ability.
+
+Contribute expertise on ML/NLP
+
+Serve as an NLP/Machine Learning expert in the health sciences team. The Data Scientist is also part of the wider team Content Transformation and Analytics team. Contributing NLP/ML/AI expertise for product and process innovation, this person will be a trusted resource in new development projects in Elsevier. The person will connect with IT developers and (content) subject matters experts, translating information needs into software development. As a specialist member of the team, the data scientist will serve as a specialist in his/her own field.
+
+Proving and showcasing methodology
+
+This person will prove the utility of new methods in a scientifically sound way. To show the value of new types of extraction and techniques, visualization and presentation of the value of the extracted data will be another key ability.
+
+Task and manage external data science teams or suppliers
+
+Serves as a point of contact for projects that are executed via external data science teams or suppliers. Manage the interaction with the suppliers, provide tasks based on project needs, and ensure timely delivery of results leading to positive outcome
+
+Qualifications
+
+Functional and Technical Competencies
+
+Skills
+
+Proven development experience in some relevant implementation platforms for ML/NLP tasks – proficiency in Python (preferred), SQL, and R
+
+Experience working with Big Data and applying advanced algorithms specifically in the Health Sciences domains
+
+Experience using *nix systems, open source software, libraries and cloud computing
+
+Proven experience with text normalization and processing, writing NLP, Parsers, and Spell checkers
+
+Familiarity with ML/NLP/data science applications to some healthcare problem is a requirement.
+
+Experience with supervised and unsupervised learning; model building, validation, and testing using state of art ML algorithms such as random forest, SVM, Logistic Regression, Bayesian modeling
+
+Familiarity with taxonomy applications across scientific and healthcare disciplines is a plus
+
+Experience with internationalization, validation techniques, and using statistical techniques in decision making.
+
+Able to work with a variety of stakeholders at the mid and senior management level
+
+Behaviors
+
+Ability to drive new developments and implement process changes and disruptive technologies in the organization.
+
+Familiarity with agile software development.
+
+Good communication and documentation skills with the ability to convey complex technical concepts to non-technical professionals.
+
+Adopts pragmatic approach when choosing and implementing the right technologies to solve a problem, and develops with success metrics
+
+Education, Knowledge, Skills and Experiences
+
+University graduate (Master of PhD level) computer science, data science, computational biology, bioinformatics, computational linguistics, physics, mathematics, statistics or any other quantitative discipline.
+
+Technical or Research experience working in Machine Learning and Natural Language Processing (NLP) especially in entity extraction, word-sense disambiguation, information clustering and data mining required.
+
+Experience with automation of workflows in the health domain is highly valued; knowledge of validation techniques, and using statistical techniques in decision making also valued.
+
+Candidates with PhD plus postdoc experience and/or industry experience are preferred.
+
+Elsevier is a global information analytics business that helps institutions and professionals progress science, advance healthcare and improve performance for the benefit of humanity. We help researchers make new discoveries, collaborate with their colleagues, and give them the knowledge they need to find funding. We help governments and universities evaluate and improve their research strategies. We help doctors save lives, providing insight for physicians to find the right clinical answers, and we support nurses and other healthcare professionals throughout their careers.
+
+Elsevier provides digital solutions and tools in the areas of strategic research management, R&D performance, clinical decision support, and professional education; including ScienceDirect, Scopus, SciVal, ClinicalKey and Sherpath. Elsevier publishes over 2,500 digitized journals, including The Lancetand Cell, more than 35,000 e-book titles and many iconic reference works, including Gray’s Anatomy. Elsevier is part of RELX Group, a global provider of information and analytics for professionals and business customers across industries. www.elsevier.com
+
+Elsevier employs over 7,000 people in more than 70 offices worldwide. We are an employer of choice, attracting and developing talented and creative people who thrive in a challenging and fast-paced environment. We offer an excellent compensation and benefits package as well as a real opportunity for career growth in a growing organization. Elsevier is an equal opportunity employer: qualified applicants are considered for and treated during employment without regard to race, color, creed, religion, sex, national origin, citizenship status, disability status, protected veteran status, age, marital status, sexual orientation, gender identity, genetic information, or any other characteristic protected by law. If a qualified individual with a disability or disabled veteran needs a reasonable accommodation to use or access our online system, that individual should please contact 1.877.734.1938 or accommodations@relx.com.
+
+ 
+
+Purpose of the Job
+
+The services that Elsevier provides are becoming increasingly dependent on Smart Content to support Elsevier’s corporate strategy of greater volume, types and sophistication of content. Elsevier is looking for a Data Scientist with a focus on Machine Learning, NLP, and Statistical techniques to help build state of the art applications for the health sciences domain. Hands on coding of NLP/ML/statistical algorithms is an absolute must.
+
+The data scientist will participate in the design, prototyping and implementation of TDM/ML and automation applications for our businesses. These applications have two main goals: cost savings by building workflow efficiencies or revenue generation by working directly on products or product capabilities. You will work closely with both the nursing education and health sciences teams. Sample projects may include extracting medical information from electronic health care records, recommender systems for adaptive nursing and education, integrating big data sets to perform predictive analytics, classifying and curating our image assets, content enrichment pipelines for clinical decision support and search algorithms.
+
+You will also work closely with the EMMeT (Elsevier Medical Merged Taxonomy) team providing data analytics on EMMeT and related terminologies to support decision-making, designing automated approaches to bulk updates, ontology validation and terminology mappings, and will bring ML/NLP expertise to the team. You will work with a team of medical experts, as well as product leads to determine how to best build and leverage semantic capabilities. Knowledge of database query language (SQL) and scripting language (Python) are mandatory. Experience with Natural Language Processing application is necessary, and experience with medical terminologies such as UMLS, SNOMED CT, ICD-9, ICD-10, CPT, LOINC etc is a plus.
+
+Main Activities and Responsibilities
+
+Text and data mining
+
+Bring active experience in to the organization on extraction text and data information from structured and unstructured data. Applying and developing these techniques, the data scientist will drive the implementation of automated indexing and annotation processes. Also well-versed in machine learning, he or she will bring new processes into the organization in order to improve (in cost and time-efficiency) the data excerption processes in Elsevier. This work includes the application of Elsevier's taxonomy and ontology assets to a wide variety of content - as well as drive developments in the application of and expansion on these vocabularies.
+
+Data analytics to support businesses and products
+
+Analyze extracted information to drive such processes as automated and manual data cleansing. Data analytics can also be used to identify research trends, drive decision for content acquisition, or merging big data sets to perform predictive analytics. Using visualizations tools to present the extracted data to be ready for consumption will be another key ability.
+
+Contribute expertise on ML/NLP
+
+Serve as an NLP/Machine Learning expert in the health sciences team. The Data Scientist is also part of the wider team Content Transformation and Analytics team. Contributing NLP/ML/AI expertise for product and process innovation, this person will be a trusted resource in new development projects in Elsevier. The person will connect with IT developers and (content) subject matters experts, translating information needs into software development. As a specialist member of the team, the data scientist will serve as a specialist in his/her own field.
+
+Proving and showcasing methodology
+
+This person will prove the utility of new methods in a scientifically sound way. To show the value of new types of extraction and techniques, visualization and presentation of the value of the extracted data will be another key ability.
+
+Task and manage external data science teams or suppliers
+
+Serves as a point of contact for projects that are executed via external data science teams or suppliers. Manage the interaction with the suppliers, provide tasks based on project needs, and ensure timely delivery of results leading to positive outcome
+
+Qualifications
+
+Functional and Technical Competencies
+
+Skills
+
+Proven development experience in some relevant implementation platforms for ML/NLP tasks – proficiency in Python (preferred), SQL, and R
+
+Experience working with Big Data and applying advanced algorithms specifically in the Health Sciences domains
+
+Experience using *nix systems, open source software, libraries and cloud computing
+
+Proven experience with text normalization and processing, writing NLP, Parsers, and Spell checkers
+
+Familiarity with ML/NLP/data science applications to some healthcare problem is a requirement.
+
+Experience with supervised and unsupervised learning; model building, validation, and testing using state of art ML algorithms such as random forest, SVM, Logistic Regression, Bayesian modeling
+
+Familiarity with taxonomy applications across scientific and healthcare disciplines is a plus
+
+Experience with internationalization, validation techniques, and using statistical techniques in decision making.
+
+Able to work with a variety of stakeholders at the mid and senior management level
+
+Behaviors
+
+Ability to drive new developments and implement process changes and disruptive technologies in the organization.
+
+Familiarity with agile software development.
+
+Good communication and documentation skills with the ability to convey complex technical concepts to non-technical professionals.
+
+Adopts pragmatic approach when choosing and implementing the right technologies to solve a problem, and develops with success metrics
+
+Education, Knowledge, Skills and Experiences
+
+University graduate (Master of PhD level) computer science, data science, computational biology, bioinformatics, computational linguistics, physics, mathematics, statistics or any other quantitative discipline.
+
+Technical or Research experience working in Machine Learning and Natural Language Processing (NLP) especially in entity extraction, word-sense disambiguation, information clustering and data mining required.
+
+Experience with automation of workflows in the health domain is highly valued; knowledge of validation techniques, and using statistical techniques in decision making also valued.
+
+Candidates with PhD plus postdoc experience and/or industry experience are preferred.
+
+Elsevier is a global information analytics business that helps institutions and professionals progress science, advance healthcare and improve performance for the benefit of humanity. We help researchers make new discoveries, collaborate with their colleagues, and give them the knowledge they need to find funding. We help governments and universities evaluate and improve their research strategies. We help doctors save lives, providing insight for physicians to find the right clinical answers, and we support nurses and other healthcare professionals throughout their careers.
+
+Elsevier provides digital solutions and tools in the areas of strategic research management, R&D performance, clinical decision support, and professional education; including ScienceDirect, Scopus, SciVal, ClinicalKey and Sherpath. Elsevier publishes over 2,500 digitized journals, including The Lancetand Cell, more than 35,000 e-book titles and many iconic reference works, including Gray’s Anatomy. Elsevier is part of RELX Group, a global provider of information and analytics for professionals and business customers across industries. www.elsevier.com
+
+Elsevier employs over 7,000 people in more than 70 offices worldwide. We are an employer of choice, attracting and developing talented and creative people who thrive in a challenging and fast-paced environment. We offer an excellent compensation and benefits package as well as a real opportunity for career growth in a growing organization. Elsevier is an equal opportunity employer: qualified applicants are considered for and treated during employment without regard to race, color, creed, religion, sex, national origin, citizenship status, disability status, protected veteran status, age, marital status, sexual orientation, gender identity, genetic information, or any other characteristic protected by law. If a qualified individual with a disability or disabled veteran needs a reasonable accommodation to use or access our online system, that individual should please contact 1.877.734.1938 or accommodations@relx.com.
+
+ Elsevier is a global information analytics company that helps institutions and professionals progress science, advance healthcare, open s...

@@ -1,0 +1,26 @@
+General Skills
+Ability to learn and apply new technologies quickly
+Excellent problem-solving abilities
+Ability to work both independently and as part of a team
+Ability to multi-task in a dynamic environment
+Excellent verbal and communication skills
+Experience with Agile development methodologies
+Qualifications
+BS in Computer Science or Business, Statistics or similar (with significant computer coursework)
+5+ years of professional software development experience in the area of analytical platform development.
+3+ years of experience in data platforms.
+Responsibilities
+Design, develop, and maintain analytical data models and metrics using highly scalable and modern technology that make up the analytical platform.
+Participate in multi-disciplinary projects with our applications and analytics teams
+Work with business to understand requirements and build out analytical solutions while working with the architecture and operations teams to maintain best practices and standards.
+Contribute to our teams growing set of development platforms, tools, and processes.
+Required Skills:
+Experience in working on big data systems and technologies with emphasis on the AWS EMR Apache Spark and Snowflakes
+Strong knowledge and experience in any of the following reporting tool: Tableau, Microstrategy or Apache Superset.
+Proficiency in any of the two high level languages such as Java, Scala, Python Golang or Perl.
+Experience with any two of the highly scalable, low latency big data systems like Snowflakes, Dynamo, Auora, MongoDB, RedShift, etc.
+Preferred Skills
+Knowledge of any of the two JavaScript, Node.js, Angular.js, Vue.js or React js
+Strong knowledge of AWS services like Step Function, Elastic Search, Lambda, Kinesis .
+Knowledge of ETL tools like Talend, DBT is a plus.
+Knowledge of AWS Sagemaker, Forecast, Machine Learning.

@@ -1,0 +1,177 @@
+The Lown Institute has a full-time position for a Data Scientist to join our collegial and talented team working on projects to improve our health care system. The Data Scientist should have a passion for data, for improving the healthcare system, and for creating solutions that have impact. The successful candidate will spend time working both independently and as part of a highly collaborative team focused on specific deadlines. While this is an individual contributor role, the ideal candidate should be able to collaborate with others to solve complex problems.
+
+The Data Scientist’s primary responsibility will be for developing SAS code to support data analysis, data cleansing, and data integration with other applications including SQL. The Data Scientist will also be responsible for developing analytics and reporting solutions. The role will require optimizing and maintaining data, creating data tables, and writing code to provide the team with tools to synthesize and transform complex data sets into functional modules for analysis and reporting. Familiarity with statistical modelling is essential.
+
+Required Qualifications
+
+Undergraduate or graduate degree in statistics, public health, epidemiology, biostatistics, computer science, or informatics
+
+Mandatory 3+ years of working experience
+
+Experience in statistical methods, particularly survival analysis, Cox regression and multilevel modeling
+
+Proficiency in SAS
+
+Ability to understand and work with complex data sets and relationships
+
+Significant experience with advanced data analysis, including computer programming skills needed to carry out analysis and understanding of the theoretical basis of these methods
+
+Working expertise with relational datasets and database management software
+
+Proficiency in SQL, R, Python, or a similar programming language strongly preferred (willingness to learn is required)
+
+Experience with Medicare or commercial claims data strongly preferred
+
+Strong communication and collaborative research skills
+
+Ability to drive projects independently with moderate support
+
+Intermediate proficiency in object-oriented languages such as C#, Java, or C++, or other comparable language(s) are also desirable
+
+In addition to the primary responsibilities, we are looking for a programmer who is able to support other statistical applications, and is able to implement statistical models in a self-guided manner
+
+Strong command of verbal and written English
+
+Outstanding critical thinking and attention to detail
+
+Time management skills to complete work within allocated time frames
+
+Additional Qualifications:
+
+Ability to appropriately summarize and effectively communicate results
+
+Experience with healthcare billing and coding
+
+Understanding of claims data, how data is stored in analytical platforms, and how to use and apply claims data
+
+An exceptional candidate will also have taken some courses in discrete mathematics, and will demonstrate skills in mathematical reasoning beyond those taught in elementary calculus. Engineering courses can further serve to strengthen a candidate’s application in the absence of higher-level math.
+
+Core responsibilities and specific duties:
+
+Managing the day-to-day activities of the Lown Institute data projects
+
+Extract, clean, and validate data in preparation for analysis, starting from raw data in a large relational database
+
+Use advanced data analysis methods (from machine learning, artificial intelligence, statistics, epidemiology, etc) to assist in building predictive models of healthcare outcomes from a large integrated administrative records database with over 100 million patients (2 trillion+ rows, 22,000+ columns of data).
+
+Translate requirements into functional code and solutions.
+
+Establish credibility and strong working relationship with the entire team to review design and code for adherence to established standards and best practices
+
+Maintain our repository and relevant documentation
+
+Design, build, and maintain efficient, reusable, and reliable code
+
+Ensure the best possible performance, quality, and responsiveness of code
+
+Identify bottlenecks and bugs, and devise solutions to mitigate and address these issues
+
+Help maintain code quality, organization, and automatization
+
+Help write algorithms
+
+Assist non-SAS developers when needed with miscellaneous development tasks
+
+Additional Tasks
+
+Carry out exploratory analyses and prepare reports summarizing results
+
+Assist in publishing papers on our findings, systems, and methodology
+
+Implementing and configuring reporting solutions
+
+Data visualization and dashboarding
+
+Compensation: competitive based on experience.
+
+How to Apply: Applicants should submit a cover letter and CV to hr@lowninstitute.org.
+
+ 
+
+The Lown Institute has a full-time position for a Data Scientist to join our collegial and talented team working on projects to improve our health care system. The Data Scientist should have a passion for data, for improving the healthcare system, and for creating solutions that have impact. The successful candidate will spend time working both independently and as part of a highly collaborative team focused on specific deadlines. While this is an individual contributor role, the ideal candidate should be able to collaborate with others to solve complex problems.
+
+The Data Scientist’s primary responsibility will be for developing SAS code to support data analysis, data cleansing, and data integration with other applications including SQL. The Data Scientist will also be responsible for developing analytics and reporting solutions. The role will require optimizing and maintaining data, creating data tables, and writing code to provide the team with tools to synthesize and transform complex data sets into functional modules for analysis and reporting. Familiarity with statistical modelling is essential.
+
+Required Qualifications
+
+Undergraduate or graduate degree in statistics, public health, epidemiology, biostatistics, computer science, or informatics
+
+Mandatory 3+ years of working experience
+
+Experience in statistical methods, particularly survival analysis, Cox regression and multilevel modeling
+
+Proficiency in SAS
+
+Ability to understand and work with complex data sets and relationships
+
+Significant experience with advanced data analysis, including computer programming skills needed to carry out analysis and understanding of the theoretical basis of these methods
+
+Working expertise with relational datasets and database management software
+
+Proficiency in SQL, R, Python, or a similar programming language strongly preferred (willingness to learn is required)
+
+Experience with Medicare or commercial claims data strongly preferred
+
+Strong communication and collaborative research skills
+
+Ability to drive projects independently with moderate support
+
+Intermediate proficiency in object-oriented languages such as C#, Java, or C++, or other comparable language(s) are also desirable
+
+In addition to the primary responsibilities, we are looking for a programmer who is able to support other statistical applications, and is able to implement statistical models in a self-guided manner
+
+Strong command of verbal and written English
+
+Outstanding critical thinking and attention to detail
+
+Time management skills to complete work within allocated time frames
+
+Additional Qualifications:
+
+Ability to appropriately summarize and effectively communicate results
+
+Experience with healthcare billing and coding
+
+Understanding of claims data, how data is stored in analytical platforms, and how to use and apply claims data
+
+An exceptional candidate will also have taken some courses in discrete mathematics, and will demonstrate skills in mathematical reasoning beyond those taught in elementary calculus. Engineering courses can further serve to strengthen a candidate’s application in the absence of higher-level math.
+
+Core responsibilities and specific duties:
+
+Managing the day-to-day activities of the Lown Institute data projects
+
+Extract, clean, and validate data in preparation for analysis, starting from raw data in a large relational database
+
+Use advanced data analysis methods (from machine learning, artificial intelligence, statistics, epidemiology, etc) to assist in building predictive models of healthcare outcomes from a large integrated administrative records database with over 100 million patients (2 trillion+ rows, 22,000+ columns of data).
+
+Translate requirements into functional code and solutions.
+
+Establish credibility and strong working relationship with the entire team to review design and code for adherence to established standards and best practices
+
+Maintain our repository and relevant documentation
+
+Design, build, and maintain efficient, reusable, and reliable code
+
+Ensure the best possible performance, quality, and responsiveness of code
+
+Identify bottlenecks and bugs, and devise solutions to mitigate and address these issues
+
+Help maintain code quality, organization, and automatization
+
+Help write algorithms
+
+Assist non-SAS developers when needed with miscellaneous development tasks
+
+Additional Tasks
+
+Carry out exploratory analyses and prepare reports summarizing results
+
+Assist in publishing papers on our findings, systems, and methodology
+
+Implementing and configuring reporting solutions
+
+Data visualization and dashboarding
+
+Compensation: competitive based on experience.
+
+How to Apply: Applicants should submit a cover letter and CV to hr@lowninstitute.org.

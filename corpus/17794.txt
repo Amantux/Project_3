@@ -1,0 +1,19 @@
+Our client is searching for an experienced Enterprise Data Engineer to join their team in Chicago. Enterprise Data Engineers build pipelines that support datasets used by all investment teams and strategies across the firm. They manage the firm’s most critical data sets and focus on applying software development best practices to solve complex data challenges. The expectation is that the data engineer has sound programming skills, strong business acumen, and a strong interest in finance.
+Responsibilities:
+Develop solutions that enable internal analysts to efficiently extract insights from data. This includes owning the ingestion (web scrapes, S3/FTP sync, bespoke processes), transformations (Python, Perl) and interface (API, schema design, events, etc.)
+Build tooling and automation around data pipelines that improve the efficiency, quality and resiliency of the data platform
+Partner with internal analysts, quants and data scientists to design, develop, test and deploy solutions that answer fundamental questions about financial markets.
+Take on an entrepreneurial mentality by building and selling your own ideas. The company works in an evolving space and they expect you to help design their evolution by challenging the status quo and independently identifying opportunities to improve the entire data organization.
+
+Requirements:
+A passion for working with data and developing software to address data processing challenges
+Proficiency with Python, C++, Java or equivalent
+Proficiency with RDBMS, NoSQL, distributed compute platforms such as Spark, Dask or Hadoop
+Prior experience building data pipelines from structured or unstructured data preferably including web crawlers
+Prior work developing BI tooling and/or application development for data analytics
+Advanced technical communication skills
+Working knowledge of statistics, predictive analytics or machine learning techniques
+Strong business acumen with prior experience in investment research or direct exposure to product or data science teams AND passionate about using data for investment decisions
+
+If you would like to be considered for the position of Enterprise Data Engineer or wish to discuss the role further then please leave your details below. Your resume will be held in confidence until you connect with a member of our team
+Email: info@njf.com or call London (0207 604 4444,) New York (212 400 4845) or Chicago (312 204 72176) to speak to a member of our team. Thank you

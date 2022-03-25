@@ -1,0 +1,24 @@
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.Become part of a data science team in an org Spark AR that provides a start-up-like atmosphere while working on cutting-edge technology within Facebook. The mission of the Spark Org is to build a world class platform for Augmented Reality (AR). Our Data Science team helps enact this mission by shaping both product strategy and R&D decisions through the careful use of data while also supporting new and existing product launches: AR effects and capabilities, underlying AR tech (i.e. our face trackers, our plane detectors, etc.) and new AR use cases (AR Ads, AR Games, etc.). The technology we build is used across the Facebook family of apps. This means that data scientists on this team will be uniquely positioned to inform data-driven product strategy and influence teams across the family of apps!
+
+Responsibilities:
+
+Own the data-driven insights for a large portion of our platform business.
+Initiate and lead cross-functional data science and modeling projects with multiple contributors.
+Aggregate and analyze complex data sets across multiple teams to identify and interpret large scale trends and patterns to help drive strategy across several teams.
+Apply statistical techniques to understand groups of users, their engagement with the platform, and the performance of the platform itself.
+Work with members of the team and multiple partners to surface strategic issues and overall direction to product group leadership.
+Use technologies and methods such as Dataswarm, Hive, Python, R, SQL to create deep scalable and repeatable insights that will empower the team while informing roadmap and team priorities.
+Effectively communicate results and insights to the product team and company leadership.
+Mininum Qualifications:
+
+MS degree in a quantitative discipline (e.g., statistics, operations research, econometrics, computer science, applied mathematics, physics, electrical engineering, industrial engineering) or equivalent experience
+8+ years experience doing quantitative analysis or statistical modeling
+Knowledge of at least one modeling framework (e.g., Scikit-Learn, TensorFlow, SAS, R, MATLAB)
+Experience influencing product strategy through data-centric presentations (to product, business, and other stakeholders)
+Experience extracting and manipulating large datasets
+Development experience in any scripting language (PHP, Python, Perl, etc.)
+Proven experience influencing cross-functional partners and work across teams
+Preferred Qualifications:
+Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.
+
+Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.

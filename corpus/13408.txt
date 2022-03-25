@@ -1,0 +1,24 @@
+DS/ML stack:
+Languages: Python, Spark, SQL
+Algorithms: Classifications, Regressions, Neural Networks, Time series, Graphs
+Infrastructure: AWS (EMR, EC2, S3, etc)
+Visualization: Tableau or similar
+What will you do?
+Develop and/or use various algorithms to build predictive models within a healthcare (e.g. risk of readmission to hospital).
+Collaborates with business & product teams to understand their problems and goals, develop predictive modeling approaches, statistical analysis, data reports and performance metrics.
+Performs analyses of structured and unstructured data to solve multiple and/or complex business problems using advanced statistical techniques and mathematical analyses and broad knowledge of the organization and/or industry.
+Use strong knowledge in algorithms and predictive models to investigate problems, detect patterns and recommend solutions.
+Use strong programming skills to explore, examine and interpret large volumes of data in various forms.
+Comfortable reading academic oriented literature and collaborating with subject matter experts to inform better predictive models.
+We are looking for someone with:
+3+ year’s professional experience as a data scientist or machine learning engineer
+1+ year’s professional experience working with big data and relational databases
+Strong hands-on modeling experience building predictive models
+Strong knowledge of advanced applied data science (machine learning, neural networks, etc.), mathematical modeling, computational, statistical, data mining techniques (regression, decision trees, clustering etc.), and dimensionality reduction techniques.
+Strong experience with data manipulation, analysis and visualization.
+Strong experience mentoring junior colleagues
+Advanced degree in physics, applied mathematics, statistics or a related field is preferred
+Healthcare industry experience is a plus
+About Signify Health
+
+Signify Health partners with leading health plans, healthcare providers, biotechnology and pharmaceutical companies, and technology companies to improve the quality of life by providing comprehensive care where and when it's needed most. In addition, Signify Health delivers software and services that enable payers, employers and at-risk providers to organize and finance healthcare delivery around a patient’s episode of care. With an innovative logistics and clinical workflow technology platform, exhaustive data set, and an unparalleled national clinical network, the company provides tech-enabled care services to vulnerable populations within the routine of their daily lives to improve health and quality of life. Signify Health delivers its services to partners at more than 1,000 healthcare locations nationwide and serves well over one million health plan members each year, providing health risk evaluations, complex care management, outcomes-based pharma services, and specialized medical services in the home and other convenient locations. Signify Health has multiple offices in Texas with additional locations in Connecticut, New York and South Dakota. To learn more, please visit www.signifyhealth.com.

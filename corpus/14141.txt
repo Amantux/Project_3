@@ -1,0 +1,30 @@
+The Amazon Web Services (AWS) Center for Quantum Computing in Pasadena, CA, is looking to hire a Quantum Research Scientist in the Test and Measurement group. You will join a multi-disciplinary team of theoretical and experimental physicists, materials scientists, and hardware and software engineers working at the forefront of quantum computing. You should have a deep and broad knowledge of experimental measurement techniques.
+
+Candidates with a track record of original scientific contributions will be preferred. We are looking for candidates with strong engineering principles, resourcefulness and a bias for action, superior problem solving, and excellent communication skills. Working effectively within a team environment is essential. As a research scientist you will be expected to work on new ideas and stay abreast of the field of experimental quantum computation.
+
+Basic Qualifications
+
+· PhD in physics, applied physics, or electrical engineering
+· Depth and breadth in experimental test and measurement techniques
+· Proficient in a scientific programming environment (one or more of Julia, Python, Mathematica, MATLAB)
+· Excellent skills in problem solving, organization, and communication
+· Thrives in a collaborative environment
+· Curiosity/capability to research and learn new techniques or technical topics as needed
+· Comfortable working in a diverse group and contributing to an inclusive culture
+· Experience working closely with scientists and engineers having a wide range of technical skill levels
+· Experience with four of the following:
+-Low-noise measurement analysis and techniques
+-RF test equipment and circuit analysis
+-Construction of high-performance test setups
+-Troubleshooting and operation/construction of cryogenic hardware
+-Setup of highly structured automated data taking and analysis
+-Nanofabrication of chip scale devices
+-Design and layout of chip scale devices
+
+Preferred Qualifications
+
+· Experience in testing superconducting microwave/RF circuits
+· Strong command of the basic toolset for analyzing superconducting circuits (circuit Lagrangians and Hamiltonians, canonical quantization, etc.)
+· Experience in multi-qubit calibration and testing
+· Experience in gate optimization and system identification
+· Familiarity with a variety of quantum computing architectures and algorithms

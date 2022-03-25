@@ -1,0 +1,25 @@
+The Philadelphia District Attorneys Office (DAO), led by District Attorney Larry Krasner, is committed to the mission of providing fair and just prosecution to all Philadelphians. DA Krasner believes that justice is best achieved through policies grounded in research, data, and science. Holding true to these commitments, the DAO has improved its capabilities to process data, craft policy, and conduct research. As we continue to modernize a progressive and fast-paced office, we aim to be responsive, forward thinking, and collaborative.
+
+The Data Engineer will join an innovative team of researchers, lawyers, analysts, and software engineers in the development and deployment of applications to support prosecution, analytics, data-driven policy, and public transparency. They will support DA Krasners targeted areas for informed reform, including charging, diversion, sentencing, focusing on the most serious crimes, preventing violence, enhancing harm reduction, and ameliorating disparities in the criminal justice process. The Data Engineer will work with both the development and research and analytics teams to create tools to help transform and structure our data to help developers and analysts to access our data quickly, accurately, and efficiently. The Data Engineer will be expected to:
+Build and maintain the DAO data warehouse to house both internally created data, administrative data, and other data from external partners about the criminal justice system and the welfare of individuals associated with the criminal justice system.
+Create and build tools and libraries, to help our developers and analysts query the data warehouse expertly
+Maintain a cloud-based development environment for a team of analysts to work in
+Evangelize and educate teams across the DAO on standard methodologies around data services development, data privacy and security, as well as improving efficiency
+Help the DAO improve our data operations by automating manual processes, optimizing data storage and delivery, re-designing infrastructure for scalability
+Work with our DATA Lab to enable and optimize their data and data services usage
+Qualifications
+
+A Bachelors or Masters degree in Computer Science, Software Engineering, Mathematics or related technical discipline is preferred, but not required. Additional years of experience exceeding the minimum requirement as well as a proven track record of work may stand in for a degree. The preferred candidate will also have or demonstrate:
+Ability to professionally deal with changing environments, be self-directed; and given broad direction, be able to prioritize work and allocate time and resources effectively;
+Experience with or knowledge of: web application security concerns and solutions to mitigate those concerns;
+Familiarity with Bitbucket, Git, or similar version control systems;
+Experience with developing and maintaining custom and non-proprietary software based data platform infrastructure services
+Experience with a systems language such as C, C++, C#, Go, Java or Scala
+Experience with a scripting language such as Python, PHP, or Ruby
+Experience developing data solutions using storage platforms like S3, Cassandra, Hbase, and using data warehouse systems like Snowflake, Redshift, Cosmos DB, or BigQuery
+Experience developing applications and solutions using data ecosystem components such as Spark, Flink, Solr, Redis, InfluxDB, Elasticsearch
+Experience working with cloud services such as AWS, Google Cloud, Azure
+Experience with building and integrating logging, alerting, and monitoring as an integral part of data platform services
+Enthusiasm to collaborate, innovate, and solve problems;
+A proven ability to prioritize work in a team and independently, and handle multiple complex tasks simultaneously;
+Experience working in the legal field/with attorneys and a knowledge of the criminal justice system are both a plus.

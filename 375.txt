@@ -1,0 +1,74 @@
+Company Information
+
+Solid reputation, passionate people and endless opportunities. Thats Travelers. Our superior financial strength and consistent record of strong operating returns mean security for our customers and opportunities for our employees. You will find Travelers to be full of energy and a workplace in which you truly can make a difference.
+
+Target Openings
+
+1
+
+Job Description Summary
+
+The Personal Insurance Business Intelligence and Analytics organization has an exciting opportunity for a Senior Business Systems Consultant. This role will focus on preparation and automation of data from many sources, to enable the implementation and monitoring of predictive models and data assets. This position will provide the opportunity to work with many different tools and technologies, as well as deep insight into our strategic and exploratory data sources. Successful candidates will be able to perform analyses on and transformations to complex data sources, both internal and external. You should be comfortable working with SQL, as well as a general data science programming language, such as Python. Experience working with a big data platform and/or a cloud platform is a plus.
+
+The hire will be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up. The Data Engineer will support our software developers, database architects, data analysts and data scientists on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects. They must be self-directed and comfortable supporting the data needs of multiple teams, systems and products. The right candidate will be excited by the prospect of optimizing or even re-designing our companys data architecture to support our next generation of products and data initiatives.
+
+Primary Job Duties & Responsibilities
+Create and maintain optimal data pipeline architecture.
+Assemble large, complex data sets that meet functional / non-functional business requirements.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS big data technologies.
+Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+Keep our data separated and secure across national boundaries through multiple data centers and AWS regions.
+Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader.
+Work with data and analytics experts to strive for greater functionality in our data systems.
+Independently perform Data Acquisition, Prep and Exploration:
+Reviews, prepares, designs, integrates data, and tests.
+Able to diagnose and correct data issues
+Implements data cleansing/quality solutions.
+Apply and develops data derivations, business transformation rules, and data requirements.
+Data Solutions & Analytic Implementations:
+Operationalize and automate well defined data products independently.
+Build, test, and implement analytic processes, including pilots and proof of concept.
+Assist in training business users on data products/analytic environment.
+Apply knowledge of current industry trends and techniques to formulate solutions within the context of assigned projects.
+Data Culture:
+Continue to develop insurance and business intelligence knowledge while learning how work assignments address business issues.
+Understand Travelers standards, processes, and environmental landscape.
+Incorporate core data management competencies - data governance, data security, data quality.
+Share knowledge with peer users on data or analytic products.
+Perform other duties as assigned.
+Minimum Qualifications
+High school diploma or equivalent required.
+Five years of experience supporting business technology systems required.
+Education, Work Experience, & Knowledge
+Bachelors degree in Business, MIS, or other related field preferred.
+Three to five years of relevant experience with data tools, techniques and manipulation preferred.
+Job Specific Technical Skills & Competencies
+Technical Knowledge: Intermediate knowledge of data tools, techniques, and manipulation preferred. Examples (but not limited to): Big data and Cloud platforms Programming languages - SQL, Spark, Python, MongoDB, Hive, AWS, GitHub, MapReduce
+Visualization platforms: Microstrategy, Qlikview
+Delivery methodology: Agile
+Business Perspective (Advanced):
+Uses knowledge of internal and external factors impacting the property casualty industry to make decisions.
+Technology (Advanced):
+Uses, leverages and maintains proficiency with corporate and job specific technology as it evolves (e.g., hardware, software, business unit applications and systems tools).
+Analytical Thinking (Advanced):
+Identifies current or future problems or opportunities, analyzes, synthesize and compares information to understand issues, identifies cause/effect relationships and explores alternative solutions to support sound decision making.
+Relationship Management (Advanced):
+Seeks out, builds, fosters and maintains productive relationships, networks or alliances to meet goals and achieve results.
+Communication (Advanced):
+Demonstrates effective verbal, written, and listening communication skills.
+Facilitation (Advanced):
+Uses and adjusts style and technique to assist group process and understanding.
+Teamwork (Advanced):
+Works together in situations when actions are interdependent and a team is mutually responsible to produce a result.
+Conflict Management (Advanced):
+Brings conflicts into the open and resolves them collaboratively.
+Change Management / Resilience (Advanced):
+Remains energized and focused in the face of ambiguity, change or strenuous demands.
+Risk Taking (Intermediate):
+Identifies, assesses, manages and takes intelligent risks to attain objectives
+Environmental / Work Schedules / Other
+Travel may be required
+Equal Employment Opportunity Statement
+
+Travelers is an equal opportunity employer.

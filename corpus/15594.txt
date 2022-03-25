@@ -1,0 +1,30 @@
+Data Engineer
+Chargify | San Antonio, TX, USA
+
+Chargify, a Scaleworks portfolio business is seeking an individual that is driven, intensely curious, and smart to join our team of developers, engineers, and data scientists. One day you might work with our front-end development team strategizing how to coordinate APIs and workflows to serve up historical data to customers. The next day you might assist our Operations team in getting our Data Scientists the data they need to compare the effectiveness of pricing strategies. The ideal candidate has a strong software engineering background, but gravitates towards building scalable data products.
+
+Role Responsibilities
+Ensure the reliability, efficiency, and scalability of the ETL system
+Work closely with the development and data science teams to redesign data warehouse schemas
+Perform and automate data preparation for internal consumption upon request
+You’ll have opportunities to work on high impact projects that improve data availability/quality and provide reliable access to data for the analytics team and the rest of the business
+
+Requirements
+Experience with solution building and architecting with AWS
+Expertise in data pipeline tools such as Airflow or Luigi
+Expertise in SQL, SQL Tuning, schema design
+Expertise in Ruby and Python, particularly with ensuring data quality across multiple datasets used for analytic purposes
+Experience with database systems including MySQL, Elasticsearch, Postgres, Redshift, etc.
+Great communication skills
+Working knowledge of Jupyter
+Bonus points for:
+Bachelor’s degree in Computer Science, Computer Engineering, or equivalent field
+Elasticsearch expertise
+Worked with data infrastructure in a SaaS product
+Knowledge of statistical sciences
+Have worked with marketing organizations or advertising technologies
+Have worked with Data Scientists
+
+*No visa sponsorship is available for this position*
+
+We are an equal opportunity employer and do not discriminate against protected characteristics. We guarantee that all candidates will be given the same consideration.

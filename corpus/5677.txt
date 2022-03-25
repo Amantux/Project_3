@@ -1,0 +1,33 @@
+Read what people are saying about working here. 
+
+Los Gatos, California
+
+Science and Analytics
+
+The culture of experimentation and data-informed decision making led by Science & Analytics lies at the heart of Netflix product Innovation, and allows us to continuously evolve and improve the Netflix experience for our members around the globe.
+
+In this role, you will collaborate with data scientists, engineers, and product managers to identify opportunities for new approaches to experimentation at Netflix. You’ll take end-to-end responsibility for all aspects of collaborative data science projects, including researching the statistical methodology, setting responsibilities and timelines, and ensuring that the end deliverable is correct, performant, and meets user requirements. You will collaborate with our platform teams to integrate new methodologies into our testing infrastructure, and communicate and evangelize these new ideas to colleagues across the company. In success, you will create and orchestrate project-focussed cross-functional working groups, set the strategic agenda for projects, ramp up on any new tools required to guide them to completion, track down bugs, and everything in between.
+
+This is a highly visible position, sitting at the intersection between Science and Analytics, experimentation platform, and product innovation. There is ample opportunity for project ownership, and to have tangible impacts that will benefit decision making across the Netflix product organization. For a sense of some of the ways that Netflix is advancing experimentation, have a look at blog posts on making faster decisions, quasi experimentation, fast bootstrapping on large data sets, and interleaving test designs. In this role, scaling new methods from working prototypes to efficient implementation on our production platforms is of primary importance, and to do so you’ll be partnering with an active mathematical engineering group.
+
+About you
+
+Experience guiding and executing cross-functional data science projects to completion, while remaining hands-on.
+
+Practical, hands-on experience with a wide variety of applied statistical methods.
+
+Great judgement and instincts, gained from experience, that allow you to identify what is an essential versus a nice-to-have on a project, and to make good choices about trade-offs (e.g., between simplicity vs generality, exactness vs speed).
+
+Experience ramping up on necessary context in new domains.
+
+Deep experience with R or Python (and familiar with the other) and with SQL and running ETL; exposure to additional languages preferred.
+
+Great interpersonal skills, and experience building and maintaining strong partnerships with data scientists, engineers, and other less technical stakeholders.
+
+Well-honed communication skills, and the ability to tailor explanations of statistical concepts to a variety of audiences.
+
+Culture
+
+Netflix offers amazing colleagues, constantly evolving technology, and fascinating data science opportunities. We embrace diversity and inclusion, and we are always on the lookout for stunning colleagues who bring new perspectives. Our unique culture emphasizes Freedom & Responsibility, and permeates our way of work - hopefully it resonates with you as much as it does with us.
+
+ Netflix, Inc. is an online movie rental subscription service in the United States, providing approximately 7.5 million subscribers access...

@@ -1,0 +1,32 @@
+Company Details
+
+A trusted insurance carrier since 1886, Continental Western Group (CWG) offers a broad array of commercial insurance products for businesses in 13 states from the Rocky Mountains to the Great Lakes. Our goal is to be the strong, local and trusted choice for independent insurance agents and customers.
+
+About W. R. Berkley Corporation
+W. R. Berkley Corporation, founded in 1967, is one of the nation’s premier commercial lines property casualty insurance providers. Each of the operating units in the Berkley group participates in a niche market requiring specialized knowledge about a territory or product. Our competitive advantage lies in our long-term strategy of decentralized operations, allowing each of our units to identify and respond quickly and effectively.
+
+Responsibilities
+
+The success of CWG is built on the contributions of our employees using their talents and passion to strengthen our customer-driven culture. We encourage, invest and are committed to our employees’ ongoing education and career development. We are currently recruiting for a Data Scientist Intern. This role will perform some of the following objectives:
+
+Adapts and develops rating methodologies for both existing and new company products using advanced techniques to incorporate new variables, etc., in pursuit of a competitive advantage and creation of economic profit opportunities. Helps shape the overall advanced analytics strategy for the organization.Identifies, retrieves, and prepares data in support of actuarial analysis through R, SQL, Python, Essbase and other data sources. Includes internal data (exposure, premium, loss, claims, price, etc.) and various forms of external data (bureau loss costs, bureau trends, macroeconomic data, market share, market pricing, etc.)
+
+Ensures the accuracy and suitability of data for the business need at hand. Manipulates data, performs preliminary analysis and interprets data through various analytics platforms. Summarizes and presents recommendations.Supports the transformation of business intelligence tools from static reporting to dashboards and development of simple to complex applications (R Shiny apps, Python Django etc.), increasing data visualization and availability, supporting cross-division collaboration, and operationalizing advanced analytics.
+
+Supports the actuarial function in identifying segments with profitable growth potential and underperforming segments. Assists in proposing corrective actions to improve profitability.
+
+Performs advanced analytics and modeling techniques including but not limited to generalized linear modeling and other forms of multivariate analysis. This role is expected to build, refine and improve existing models as well as develop new techniques and applications to different areas of the company.
+
+In addition to regular modeling responsibilities, this person will use critical thinking skills and apply advanced modeling techniques, including but not limited to AI/Machine Learning, to provide insights and solve business problems including techniques such as classification and regression trees, random forests, neural networks, clustering, and other machine learning techniques.
+
+May participate in other department deliverables and activities such as enterprise risk management (including support for catastrophe management), economic capital modeling, rate reviews, loss reserving and planning. Provides innovation and leadership when applicable.
+
+Leads the innovation and efficiency efforts related to tools and analysis in support of Underwriting’s pricing decisions with respect to large accounts as well as small commercial portfolio price adequacy analyses.
+
+Qualifications
+
+Education & Experience
+
+Currently pursuing a Bachelor’s or Master Degree and/or any technical degree in areas such as Computer Science, Math, Statistics, Applied Mathematics, or similar studies
+
+Recent graduates in areas described above will be considered. Strong practical experience with large datasets, analytical problem solving in a business environment or through relevant course work and/or thesis, with strong programming skills in either R or Python. Experience in conceptualizing and designing statistical models to address business

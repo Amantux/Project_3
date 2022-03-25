@@ -1,0 +1,82 @@
+Jobs Itility-US
+
+Data Engineer
+
+Working in teams (consisting of Hadoop data engineers, Hadoop data warehouse engineers, and platform engineers) that are building and managing Hadoop stacks. The teams install, configure and manage Hadoop ecosystem components.
+
+As Hadoop data engineer, you are responsible for the functional part of provisioning data – e.g. building data ingestion pipelines and data connectors. You work closely with the data scientists and business intelligence engineers who are using this data to create analytical models.
+
+After taking inventory of an application, all found servers, storage, network and database configurations will be transferred to the new data center. To efficiently execute this migration, we use a strict step-by-step plan, as one might find in a factory.
+
+We need your expertise
+
+
+You are well acquainted with the complete Hadoop stack. In addition, you have practical experience of being part of a DevOps team. Further requirements:
+Bachelor of Science / master’s degree in Computer Science, System Administration, or any other IT infrastructure or software related study with a passion for the automation side of IT infrastructure
+Minimum two to three years of relevant work experience
+Capable of building/operating highly available, distributed systems of data extraction, ingestion, and processing of large data sets of structured, semi-structured and unstructured data
+Experience in building data products incrementally and integrating and managing data sets from multiple sources
+Data quality oriented
+Familiar with data architecture including data ingestion pipeline design, Hadoop information architecture
+Hortonworks Certified Hadoop Developer and/or Cloudera Certified Hadoop Developer and/or Certified Hadoop Administrator
+Knowledge of continuous integration & delivery tooling: e.g. Jira, Git, Jenkins, Bamboo
+Coding proficiency in at least one modern programming language (Python, Ruby, Java)
+Strong verbal and written communication skills
+Good documenting capabilities
+You have a hands-on mindset, a strong customer focus, a problem-solving orientation and can show fast results
+You have a clear focus on results and quality.
+Willingness to travel to the Netherlands if required for training or project work
+Bachelor of Science / master’s degree
+Minimum 3-5 years of relevant work experience within an enterprise environment
+Advanced knowledge of RHEL 6 & 7
+Advanced knowledge of VMWare 5 & 6; VCAP5-DCD, VCDX5-DCV preferred
+Experience with Cisco UCS manager and NetApp FAS / ScaleIO storage solutions
+Experience with databases (MSSQL, Oracle) preferred
+Strong verbal and written communication skills
+Good documenting capabilities
+Willingness to travel to the Netherlands if required for training or project work
+
+Meet Itility
+
+
+At Itility we believe in merging technology and data to drive our customers one step beyond. Itility digital consultants are experts in data, cloud, software, and IT infrastructure.
+
+Our culture can be described as ‘no-nonsense, with passion’. Working at Itility is about working with people, staying close to our customers.
+
+We work for large enterprises and innovative startups. Acting as the ‘digital twin’ of customers, we work shoulder-to-shoulder to exceed business goals and push the boundaries of what you thought was possible.
+
+Do you like to go above and beyond? Do you want to work with passion for what you do, in a team of people fueled by the same passion?
+
+Then we would love to meet you!
+
+You believe in
+Build efficient and highly reliable data ingestion pipelines for the Hadoop stack
+Own data quality and data knowledge around all data that you touch
+Work side-by-side with software engineers and data scientists in designing modeled data sets to be used in many different applications, from proof-of-concept to production
+Understand the entire life cycle of data that flows through any systems for which you are responsible
+Pay constant attention and effort to the reliability of your pipelines
+Reports to the Itility project manager, working in close harmony with team members and interfacing with the standing IT organization.
+
+Location
+
+
+San Jose, CA.
+
+
+Contact person
+
+
+Apply now
+
+Share:
+
+
+Share on linkedin
+
+Share on twitter
+
+Share on facebook
+
+Share on whatsapp
+
+Share on email

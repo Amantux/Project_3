@@ -1,0 +1,79 @@
+Business Unit:
+
+The Next Generation Access Networks organization is a highly agile, fast paced and dedicated group responsible for the network serving our customers representing over 400,000 miles of fiber-coax plant and the delivery of 115+ Tbps of edge capacity to our customers. We lead and oversees the delivery of every service and every bit that is delivered to the home. The group also owns the design, development, construction and incubation of next-gen access architectures for residential, multi-family, and commercial networks. This includes the delivery of DOCSIS 3.1 powered gig Internet services, The transition to NFV/SDN on the Access network by virtualizing the CMTS core and transition to new digital nodes. The software applications we are building is a containerized, microservice-based, cloud-deployed services.We are working to bring X1 innovation and the power of network virtualization and software defined networks to the data delivery world. This role will be changing the industry forever!
+
+The Software Engineer will take an essential part of the software development as well as oversee and actively manage operational tech challenges in our Core Virtualization project. We are looking for a collaborative and results oriented developer who has depth in development, operations technical analysis & development life cycle (Agile & Devops) . The engineer will be highly powered to design and lead operational needs to reach to the highest levels of system availability.
+
+OUR TEAM:
+
++ We value mutually respect and encourage diversity of opinion.
+
++ We value curiosity and experimentation and strive for continuous improvement.
+
++ We value team cohesion and strive to keep individual ego in check.
+
++ We value simplicity in our architecture and code and strive to be detail oriented.
+
++ We value joy in our work and strive for work-life harmony.
+
++ We value personal and team ownership and strive for mutual trust.
+
++ We value judicious refactoring and question the status quo.
+
+RESPONSIBILITIES:
+
++ Write tested, production-ready code
+
++ Participate in design and architecture sessions
+
++ Build effective deployment and monitoring systems
+
++ Support production environments
+
++ Perform code reviews
+
++ Participate in software release and deployment activities managed under an agile software development approach
+
++ Collaborate constructively with team members
+
+PREFERRED QUALIFICATIONS:
+
++ BS in Computer Science, Computer Engineering or related technical field or equivalent practical experience.
+
++ Experience in one of the following: C++, Java, Go, Python
+
++ Experience in Switching and Routing with hands on experience with Cisco/Juniper switches.
+
++ Knowledge of networking protocols: HTTP/S, TCP, UDP, multicast, BGP, ISIS
+
++ Experience in any of the following: Redis, RabbitMQ, Kafka, Docker, Kubernetes.
+
++ Good current knowledge of Unix/Linux environments
+
++ Experience in code optimization and high-performance computing.
+
++ Experience in Test-driven development/test automation, continuous integration, and deployment automation
+
++ Good communicator, able to analyze and clearly articulate complex issues and technologies understandably and engagingly.
+
++ Great design and problem-solving skills, with a strong bias for architecting at scale.
+
++ Adaptable, proactive and willing to take ownership.
+
++ Keen attention to detail and high level of commitment.
+
++ Comfortable working in a fast-paced agile environment. Requirements change quickly and our team needs to constantly adapt to moving targets.
+
++ Familiarity with microservice architecture and containerized deployment.
+
++ Familiarity with distributed systems, asynchronous messaging, and network protocols.
+
++ Familiarity with data serialization formats like XML, JSON and protocol buffers
+
++ Experience with scripting tools such as Python is a plus
+
++ Knowledge of operational support tool technologies: ELK, Splunk, Prometheus, InfluxDB, Grafana
+
++ High level of accountability - takes ownership of problems and sees them through to resolution
+
+Comcast is an EEO/AA/Drug Free Workplace

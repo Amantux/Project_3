@@ -1,0 +1,111 @@
+Who we are
+
+Fueled by a fundamental belief that having access to financial services creates opportunity, PayPal (NASDAQ: PYPL) is committed to democratizing financial services and empowering people and businesses to join and thrive in the global economy. Our open digital payments platform gives PayPal’s 277 million active account holders the confidence to connect and transact in new and powerful ways, whether they are online, on a mobile device, in an app, or in person. Through a combination of technological innovation and strategic partnerships, PayPal creates better ways to manage and move money, and offers choice and flexibility when sending payments, paying or getting paid. Available in more than 200 markets around the world, the PayPal platform, including Braintree, Venmo and Xoom, enables consumers and merchants to receive money in more than 100 currencies, withdraw funds in 56 currencies and hold balances in their PayPal accounts in 25 currencies.
+
+When applying for a job you are required to create an account, if you have already created account - click Sign In.
+
+Creating an account will allow you to follow the progress of your applications.
+
+Note:
+
+Provide full legal first Name/Family Name
+
+DO: Capitalize first letter of First and Last Name. Example: John Smith
+
+DON'T: Capitalize entire First and/or Last Name. Example: JOHN SMITH
+
+NOTE: Use correct grammar for Names with multiple cases. Example: McDonald or O'Connell
+
+Provide full address details
+
+Resume is required
+
+Multiple attachments can be uploaded including Resume and Cover Letter for each application
+
+Job Description Summary:
+
+Our Global Credit Risk Analytics team is looking for a seasoned data scientist to work on our next generation CECL-compliant loss forecasting models. Leveraging state of the art machine learning/econometrics techniques together with PayPal’s huge proprietary database you will predict and quantify account-level credit risk which will drive PayPal’s credit-related loss reserves. Ideal candidates are experienced in machine learning / statistical modelling, have a credit risk background and experience with complex big data environments. You will be required to drive projects and solutions from start to finish. Having a strong sense of accountability coupled with a passion for delivering crisp data insights and the ability to tell stories through data are essential. Experience with IFRS9, and understanding of CECL loss forecasting models is a plus.
+
+Job Description:
+
+Our Global Credit Risk Analytics team is looking for a seasoned data scientist to work on our next generation CECL-compliant loss forecasting models. Leveraging state of the art machine learning/econometrics techniques together with PayPal’s huge proprietary database you will predict and quantify account-level credit risk which will drive PayPal’s credit-related loss reserves. Ideal candidates are experienced in machine learning / statistical modelling, have a credit risk background and experience with complex big data environments. You will be required to drive projects and solutions from start to finish. Having a strong sense of accountability coupled with a passion for delivering crisp data insights and the ability to tell stories through data are essential. Experience with IFRS9, and understanding of CECL loss forecasting models is a plus.
+
+Specific Responsibilities
+
+Build, run and document CECL-compliant loss prediction models
+
+Perform model validation and performance monitoring
+
+Ongoing enhancement of model performance using innovative features and algorithms
+
+Analyze large volumes of internal and external data using common data science tools (SAS, SQL, R, Python, etc.) to deliver unique insights into relationships across a wide array of products, platforms, customers, merchants, and experiences.
+
+Work closely with Accounting and Finance teams to align on definitions, loss predictions and address variation in loss predictions
+
+Communicate complicated analytic results in brief, concise, and brilliant formats best suited to senior audiences
+
+Manage and improve the process of data collection, ingestion, manipulation, and display for risk related reporting processes
+
+Collaborate with all aspects of the PayPal Credit business including a broad range of partners to plan and deliver fully developed solutions for Risk analytics and reporting
+
+Lead the planning, development, and delivery of analytic projects from start to finish; includes all stages of project identification, stakeholder engagement, project management, and closeout
+
+Interact regularly with analytic professional communities (INFORMS, CFA Institute etc.) and educational resources to maintain an understanding of the best practices industry-wide
+
+Functional Skills & Behaviors
+
+Machine learning / econometrics
+
+Solid technical / data-mining skills and ability to work with large volumes of data; extract and manipulate large datasets using common tools such as SQL, SAS, Hadoop, or other programming/scripting languages (Python, Perl, R, etc.) to translate data into business decisions/results
+
+Be data-driven and outcome-focused
+
+Must have good business judgment with demonstrated ability to think creatively and strategically
+
+Takes personal ownership; Self-starter; Ability to drive projects with minimal guidance and focus on high impact work
+
+Learns continuously; Seeks out knowledge, ideas and feedback.
+
+Looks for opportunities to build skills, knowledge and expertise.
+
+Comfortable with ambiguity and frequent context-switching in a fast-paced environment
+
+Qualifications
+
+Proven experience in the ideation, research, discovery, development, implementation, and ongoing monitoring of quantitative solutions for consumer credit or small business credit
+
+3+ years of experience in consumer credit or small business credit-related position
+
+Well-formed foundation of education and work experience in Data Science and Risk Analysis, preferably in applied data science, statistics, mathematics, or computer science
+
+Familiarity with data engineering, data management, data modelling, standard ETL techniques including extract, de-duping, cleansing, integration, and aggregation
+
+Proven experience using common data science tools like R and Python to rapidly solve business problems, preferably with respect to a credit/lending risk organization
+
+Demonstrated ability to influence critical business outcomes in a matrix based, global environment
+
+Excellent verbal and written communication and collaboration skills to effectively communicate with both business and technical development teams
+
+At a minimum, candidate must have a bachelor’s degrees in a quantitative discipline (e.g. statistics, data science, computer science, engineering, operations research, or mathematics); preferably an advanced degree
+
+Experience with CECL is a plus (Current Expected Credit Loss)
+
+Subsidiary:
+
+PayPal
+
+Travel Percent:
+
+0
+
+Primary Location:
+
+Timonium, Maryland, United States of America
+
+Additional Locations:
+
+New York, Wilmington
+
+We're a purpose-driven company whose beliefs are the foundation for how we conduct business every day. We hold ourselves to our One Team Behaviors which demand that we hold the highest ethical standards, to empower an open and diverse workplace, and strive to treat everyone who is touched by our business with dignity and respect. Our employees challenge the status quo, ask questions, and find solutions. We want to break down barriers to financial empowerment. Join us as we change the way the world defines financial freedom.
+
+Paypal provides equal employment opportunity (EEO) to all persons regardless of age, color, national origin, citizenship status, physical or mental disability, race, religion, creed, gender, sex, pregnancy, sexual orientation, gender identity and/or expression, genetic information, marital status, status with regard to public assistance, veteran status, or any other characteristic protected by federal, state or local law. In addition, PayPal will provide reasonable accommodations for qualified individuals with disabilities.

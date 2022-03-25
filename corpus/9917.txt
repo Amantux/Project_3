@@ -1,0 +1,39 @@
+Do you have a passion for data and machine learning? Do you want to apply it to protecting people against cybercriminals? Would you like to work with a diverse, talented, and highly collaborative team of data scientists, security researchers and other specialists? Would it make you proud to tell your friends and family that the work you do protects half a billion people in over a hundred countries around the world?
+
+We are seeking an experienced Data Scientist to help us grow and modernize our clean software classifications. Here's a bit about us. Microsoft Defender Advanced Threat Protection (WDATP) is a unified platform for preventative protection, post-breach detection, automated investigation, and response. Our team, the MDATP Endpoint Protection team, focuses on pre-breach detection - blocking and preventing threats before they can cause harm to people or to businesses. On our security research team, machine learning is a fundamental part of how we protect customers. That's where you come in.
+
+As a data scientist on our team, you will partner with our researchers, engineers, and other data scientists to design, build, and deploy state-of-the-art machine learning to protect customers. In your day-to-day work, you will build machine learning pipelines, vet experiments, incorporate quality monitors, and ship successful models to production.
+
+At Microsoft, you’ll have access to vast amounts of threat-related data from billions of endpoints and other sources. You will have the opportunity to collaborate with partners across Microsoft who have decades of security and ML expertise. We also offer many company-sponsored classes and conferences that focus on data science, ML, and engineering excellence. Microsoft provides phenomenal community, tools, and technologists to grow your expertise in this field. Best of all, on the MDATP team, you'll be able to apply that expertise to protecting people.
+
+Responsibilities
+
+Monitor and analyze data to uncover classification gaps
+
+Identify performant features and models and make them universally accessible to our team and partners across Microsoft.
+
+Provide technical leadership to our team by reviewing problem sets, proposing prediction models, and reviewing experiments and models.
+
+Act as a resident expert for machine learning, statistics, and experiment design.
+
+Qualifications
+
+2 years of professional experience in experiment design and applied machine learning predicting outcomes in large-scale, complex datasets.
+
+Proficiency in R, Azure ML, Python, or other statistics/ML tools.
+
+Moderate coding skills. SQL or similar required. C# or other languages strongly preferred.
+
+Outstanding communication and collaboration skills. You can learn from and teach others.
+
+Strong drive for results. You have a proven record of shepherding experiments to create successful shipping products/services.
+
+Experience with prediction in adversarial (threat) environments highly desirable.
+
+A Masters or Ph.D degree with coursework in Statistics, Data Science, Experimentation Design, and Machine Learning highly desirable.
+
+#WDATPRED, #WDATPEPPRes
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.

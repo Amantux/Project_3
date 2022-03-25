@@ -1,0 +1,52 @@
+Job Description
+What We Do
+Kalderos delivers technology that solves the challenges facing the US healthcare system. At Kalderos, we develop technology solutions with a focus on simplifying the complex coordination of drug discount programs from exhaustive data services to intelligent reporting to issue resolution.
+
+To learn more: https://www.kalderos.com/company/about
+
+What Senior Data Scientists Do
+
+The Data Science team’s mission at Kalderos is to maximize the trust of all participants in our Drug Discount Management Platform. This starts with having trust in each other as a team, then expanding it to do this work in three primary ways: building differentiated datasets, measuring what matters, and optimizing the right process transparently. If that means a model, great! If that means working with design to develop a different product approach, also great! Below are some possible day to day tasks for a senior data scientist at Kalderos.
+Build, test, deploy, and maintain supervised or unsupervised learning models. Work with internal teams that operationalize that work to ensure their output is high quality and continually improving for end-users
+Lead data science projects technically, while gathering requirements and keeping stakeholders informed of progress.
+Create and evangelize technical best practices for the data science team so that other team members can fall into the pit of success. Ensure model quality is high and ensure others can do so as well
+Have an eye towards the future, ensuring that the team stays ahead of the curve internally and externally by generating buy-in for new things to try, or rethinking old ways of doing things.
+Learn a new programming language, data science technique, or about the pharmaceutical industry - we continually build our skills and explore new things.
+
+What We Are Looking For
+4+ years of work experience as a Data Scientist in a full-time role in which you have owned significant portions of projects
+Ability to write high-quality machine learning and data analysis code in R or Python that have been used in software products
+Some ways you may demonstrate this are:
+Describing models you have deployed and its measured impact over a baseline
+Open GitHub Repositories or portfolios
+Talking through lessons learned and pitfalls of a deployed model
+Listing technologies you have used to deploy a model
+Ability to take complex information and communicate it clearly for different stakeholders, both technical and non-technical
+Some ways you may demonstrate this are:
+Talks or presentations you have given in the past
+Speaking through your work history in a phone interview
+High-quality data visualizations that communicate complex information clearly
+Candidates must be authorized to work in the US.
+
+What May Set You Apart
+Experience in healthcare or pharmaceuticals
+Open source contributions to popular data science tools
+Experience with data engineering tools such as Airflow
+Experience working with Azure or similar public cloud
+Experience working with SQL Server or similar databases
+Experience with JIRA and project management methodologies
+
+If you think you meet some of the list of the above, but not everything, that’s perfectly fine! We encourage you to apply regardless. At Kalderos, we know talent comes in many forms, and we’re willing to look beyond a set of rigid criteria to find the right teammate.
+
+Company Perks
+401K plan with matching
+Healthcare Benefits
+Flexible Schedule and a fair PTO system that allows for a healthy work life balance
+Opportunity to work on new technologies and learn new skills
+Celebration, education, and training stipend
+
+To learn more: https://www.kalderos.com/company/culture
+
+Kalderos is an equal opportunity workplace. We are committed to equal opportunity regardless of race, color, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or veteran status.
+
+Due to the circumstances of the COVID-19 pandemic, Kalderos has decided to protect our current and future employees by shifting to an entirely remote workforce. We will continue to operate, interview, onboard, and work remotely. Please be aware that some of our roles will not be remote long-term and will return to an office setting once we're safe to do so following the guidance of local health authorities and the CDC.

@@ -1,0 +1,47 @@
+Read what people are saying about working here. 
+
+Position Description
+
+Demonstrates up-to-date expertise in Software Engineering and applies this to the development, execution, and improvement of action plans
+
+Leads and participates in medium- to large-scale projects
+
+Leads the discovery phase of medium to large projects to come up with high level design
+
+Leads the work of other small groups of four to six engineers, including offshore associates, for assigned Engineering projects
+
+Models compliance with company policies and procedures and supports company mission, values, and standards of ethics and integrity
+
+Provides and supports the implementation of business solutions
+
+Provides support to the business
+
+Troubleshoots business and production issues
+
+Minimum Qualifications
+
+Proficient coding with any of the languages: Python, R, Java, C++.
+
+Solid knowledge of Operations Research topics including Mixed Integer Programming, Combinatorial Optimization Problems.
+
+Experience of using commercial/open-source solvers such as Gurobi, Xpress, CPLEX.
+
+Problem solving skills / Abstract thinking – ability to understand a real-life problem, make the right judgement of problem statement, and give a feasible design of solution.
+
+Additional Preferred Qualifications
+
+Previous experience with using meta-heuristics such as Simulated Annealing, Tabu Search, Ant Colony Optimization
+
+Previous experience with Transportation/Supply Chain
+
+Previous experience with building production optimization engine for large scale problems
+
+Company Summary
+
+The Walmart eCommerce team is rapidly innovating to evolve and define the future state of shopping. As the world’s largest retailer, we are on a mission to help people save money and live better. With the help of some of the brightest minds in technology, merchandising, marketing, supply chain, talent and more, we are reimagining the intersection of digital and physical shopping to help achieve that mission.
+
+Position Summary
+
+RovR team manages large scale production combinatorial optimization systems that solve several transportation optimization problems like last mile vehicle routing. We are looking for an Operations Research Scientist who can solve optimization challenges in supply chain and take the solution to production. You will be working with a team of world class researchers and engineers to solve problems like real time driver scheduling for a large fleet of vehicles. You will also get take your solution to scale leveraging the unique capabilities of Walmart’s private cloud infrastructure.
+
+ Think you know Walmart? Think again. Our top-notch, integrated team is changing the way the world shops and harvesting exciting career-ca...

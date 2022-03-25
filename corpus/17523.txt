@@ -1,0 +1,46 @@
+At Rockstar Games, we create the games we would want to play ourselves.
+
+A career at Rockstar is about being part of a team working on some of the most creatively rewarding, large-scale projects to be found in any entertainment medium. You would be welcomed to a friendly, inclusive environment where you can learn, and collaborate with some of the most talented people in the industry.
+
+Rockstar New York is seeking a Data Engineer to join a team focused on building a cutting edge game analytics platform and tools to better understand our players and enhance their experience in our games. This is a full-time permanent position based out of Rockstar's unique game development studio in the heart of downtown Manhattan.
+
+The ideal candidate will be skilled in developing complex ingestion and transformation processes with an emphasis on reliability and performance. In collaboration with other data engineers, database administrators, and developers, the candidate will empower the team of analysts and data scientists to deliver data driven insights and applications to company stakeholders.
+
+WHAT WE DO
+The Rockstar Analytics team provide insights and actionable results to a wide variety of stakeholders across the organization in support of their decision making.
+We work together with a number of departments to design and implement data and pipelines.
+We collaborate as a global team to develop cutting-edge data pipelines, data products, data models, reports, analyses and machine learning applications.
+RESPONSIBILITIES
+ETL Design and Development - Assist in the development of a big data platform in Hadoop using pipeline technologies such as Spark, Oozie, and more to support a variety of requirements and applications.
+Warehouse Design and Development - Set the standards for warehouse and schema design in massively parallel processing engines such as Hadoop and Vertica while collaborating with analysts and data scientist in the creation of efficient data models.
+Implement and support big data tools and frameworks such as HDFS, Hive, and Impala.
+Implement and support streaming technologies such as Kafka and Spark.
+Assist in the development of deployment automation and operational support strategies.
+Deliver near-real time and non-near-real-time data and applications to a team of analysts and data scientists who create insights and analytics applications for our stakeholders.
+QUALIFICATIONS
+7+ years of work experience with ETL, data modeling, and business intelligence big data architectures.
+4+ years of experience with the Hadoop ecosystem (Map Reduce, Spark, Oozie, Impala, HBase, etc.) and big data ecosystems (Kafka, Cassandra, etc.).
+Expert in at least one SQL language such as T-SQL or PL/SQL.
+Experience developing and managing data warehouses on a terabyte or petabyte scale.
+Strong experience in massively parallel processing & columnar databases.
+Experience working in a Linux environment.
+Experience with Python and shell scripting.
+Deep understanding of advanced data warehousing concepts and track record of applying these concepts on the job.
+Ability to manage numerous requests concurrently and strategically, prioritizing when necessary.
+Good communication skills.
+Dynamic team player.
+A passion for technology - we are looking for someone who is keen to leverage their existing skills and seek out new skills and solutions.
+PREFERRED
+Experience in real-time analytics applications.
+Knowledge of the video game industry.
+Experience with Python, Java or Scala programming languages.
+Experience in implementing a machine learning pipeline.
+Experience with Vertica.
+Experience with Tableau administration.
+HOW TO APPLY
+
+Please apply with a resume and cover-letter demonstrating how you meet the skills above. If we would like to move forward with your application, a Rockstar recruiter will reach out to you to explain next steps and guide you through the process.
+
+Rockstar is proud to be an equal opportunity employer, and we are committed to hiring, promoting, and compensating employees based on their qualifications and demonstrated ability to perform job responsibilities.
+
+If you've got the right skills for the job, we want to hear from you. We encourage applications from all suitable candidates regardless of age, disability, gender identity, sexual orientation, religion, belief, or race.

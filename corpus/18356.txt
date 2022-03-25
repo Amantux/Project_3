@@ -1,0 +1,26 @@
+Slyce is the market leader in the emerging technology of image recognition and visual search. Over the past few years, we've been busy raising capital, growing our team, and signing deals with 25+ of the leading retailers in the US including Home Depot, Bed Bath & Beyond, Neiman Marcus, and Macy's. We are a close-knit team with ambitious goals and we're excited to drive our cutting-edge technology further into the marketplace and have fun doing it.
+
+Our technology allows consumers to submit a photo or scan an image using their mobile device and Slyce will recognize what it contains and match it to products sold by retailers that have integrated our technology. The focus of our approach is to take our core services and white label our technology into retailers' apps and mobile web. We also drive experiences with our core consumer apps, including SnipSnap, which reaches more than 5 million monthly users.
+
+About the role
+On a typical day, you may work on a new feature, develop a new algorithm, help construct a dataset, discover and fix a software bug, message a customer to understand the problem they're trying to solve, or improve your team's tools. PS: There is no typical day.
+You will perform data and concrete analysis with human intuition, build data pipelines and develop tools to enable machine learning models to learn from data.
+As you get to know our existing data streams and customer goals, you will recommend new types and methods of data collection, new ways to process data, and discover new patterns between many different types of data that provide value to customers.
+As you get to know our existing data streams and customer goals, you will recommend new types and methods of data collection, new ways to process data, and discover new patterns between many different types of data that provide value to customers.
+You will regularly deploy solutions to enable the team to release small, frequent iterations to customers via mobile apps, the web, and embedded systems.
+Effective communication is extremely important. You will work with a diverse array of people, both inside and outside of Slyce to create the best products and solutions possible.
+About You
+MS in Computer Engineering, Computer Science, Electrical Engineering or equivalent practical experience.
+Proficient in Python, C/C++ or Rust
+Deep understanding of software systems fundamentals
+You are actively interested in developing and deploying AI on a fleet of devices to improve people's shopping experience.
+Experience with or exposure to creating highly available, scalable, low-latency, global systems.
+A track record of pursuing self directed side projects, research, or open source projects.
+Innate curiosity and a desire to explore solutions in a small, highly focused team.
+You take pride in your work and ownership of the solutions you build.
+Technologies we use:
+Python, C++, Rust
+Javascript, React, Angular-JS
+TensorFlow, TensorRT
+MySQL, MongoDB, Kafka, Kubernetes
+AWS, GCP

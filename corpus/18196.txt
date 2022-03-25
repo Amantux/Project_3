@@ -1,0 +1,51 @@
+Job Description
+
+Make Next Happen Now. For over 30 years, Silicon Valley Bank (SVB) has helped innovative companies and their investors move bold ideas forward, fast. SVB provides targeted banking services to companies of all sizes in innovation centers around the world.
+
+The Information Management team at Silicon Valley Bank is responsible for delivering data solutions that support all lines of business across the organization. This includes providing data integration services for all batch, near real-time, real-time and streaming data movement; managing and enhancing the Data Lake, Data Warehouse and dependent data marts; and providing support for analytics and business intelligence consumers.
+
+Do you get excited when you see data? Constantly looking for value in Data? If that is you, we are looking for you – Data engineers to work out of our Global Development Center (GDC) in Tempe, AZ. As a Data Engineer, you will build, append and enhance our existing Data Lake, Enterprise data warehouse and Data Marts. You will get an opportunity to closely work with internal vertical and business teams, understand the core functionality of banking applications and associated data. You will build data pipelines, tools, and reports that enable analysts, product managers, and business executives.
+
+Key Responsibilities:
+
+Design and Build ETL jobs to support SVB’s Data Lake, Enterprise data warehouse
+
+Write Extract-Transform-Load (ETL) jobs and Spark/Hadoop jobs to calculate business metrics
+
+Provision data for regulatory reporting needs
+
+You will also have the opportunity to display your skills in the following areas: Cloud, Big Data technologies, Design, implement, and build our enterprise data platform (EDP).
+
+Design data schema and operate internal data warehouses and SQL/NoSQL database systems
+
+Monitor and troubleshoot operational or data issues in the data pipelines
+
+Drive architectural plans and implementation for future data storage, reporting, and analytic solutions
+
+Bachelor's degree in Computer Science, Mathematics, Statistics, Finance, related technical field, or equivalent work experience
+
+5 years of relevant work experience in analytics, data engineering, business intelligence or related field, and 5 years professional experience
+
+2 years of experience in cloud technology: Amazon Web Services
+
+2 years of experience in implementing big data processing technology: Glue, Kafka, Apache Spark, Python etc.
+
+2 years of experience in implementing ETL technologies: Informatica, BODS, SSIS etc.
+
+Experience using SQL queries, experience in writing and optimizing SQL queries in a business environment with large-scale, complex datasets
+
+Detailed knowledge of data warehouse technical architecture, infrastructure components, ETL and reporting/analytic tools and environments
+
+Preferred Qualifications
+
+Graduate degree in Computer Science, Mathematics, Statistics, Finance, related technical field
+
+Strong ability to effectively communicate with both business and technical teams
+
+Demonstrated experience delivering actionable insights for a consumer business
+
+Coding proficiency in at least one modern programming language (Ruby, Java, etc.)
+
+Basic Experience with Cloud technologies
+
+Experience in banking domain is a plus

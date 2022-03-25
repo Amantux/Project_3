@@ -1,0 +1,55 @@
+The role of the Sr. Data Scientist is to work on business impact-driven AI and ML projects with an emphasis on predictive solutions. This role will require extensive experience using a variety of data mining/data analysis tools and methods, building and implementing machine learning models, using/creating algorithms, creating/running simulations, and deploying and monitoring solutions in production settings. The Senior Data Scientist must have a proven ability to drive business results with their data-based insights and must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes.
+
+Job Responsibilities:
+
+Develop proof-of-concept (POC) data science solutions for business use-cases as specified by key stakeholders
+
+Specify data requirements to solve a given use case
+
+Analyze and visualize data to draw insights and validate hypotheses
+
+Identify the best approach / algorithms to solve a given use case
+
+Prototype algorithms using Python and/or other languages with appropriate libraries and frameworks
+
+Present solutions / findings to senior management
+
+Continuous research to stay updated with state-of-the-art artificial intelligence, machine learning, and data science tools & solutions
+
+Work with engineering teams to productize solutions
+
+Skills & Qualifications:
+
+MS/PhD in Computer Science, Mathematics or related discipline (or equivalent experience)
+
+3 – 8 years of data science, machine learning, deep learning, NLP experience
+
+Excellent communication skills – verbal, written and presentation
+
+Experience working with relational (i.e., SQL) and NoSQL (i.e., MongoDB, Cassandra, ElasticSearch) database technologies
+
+Experience in distributed analytic processing technologies a plus (e.g., Spark, Hadoop ecosystem technologies)
+
+Hands-on experience with one or more major cloud-based ML platforms: Azure / GCP / AWS.AWS experience preferred.
+
+Strong machine learning background including experience working with the following classes of algorithms:regression, classification, clustering, dimensionality reduction, sequence models, time series analysis, association rule mining, text mining (NLP), and ensembles.
+
+Deep understanding of model evaluation metrics like AUC, RMSE, log-loss, entropy and statistical concepts like P-value, T-test, F-test
+
+Demonstrable experience in Exploratory Data Analysis, Data Wrangling and Data Storytelling
+
+Python programming experience a must
+
+Familiarity with one or more common deep learning frameworks (Tensorflow, MXNet, Keras, PyTorch, etc.)
+
+Experience with common Python data analysis and machine learning frameworks (scikit-learn, xgboost, scipy, numpy, pandas)
+
+Comfortable working in Linux/Unix environments
+
+Familiarity with existing Machine Learning APIs (e.g., Microsoft Azure Machine Learning API, Amazon Machine Learning API, Google Prediction API, etc.) is a plus
+
+Experience deploying commercial machine learning products at scale a plus
+
+Familiarity with one or more high-performance programming languages (e.g., Java, C++, Scala) a plus
+
+Familiarity with code versioning tools and software testing frameworks and methodologies a plus

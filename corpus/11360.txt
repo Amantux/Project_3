@@ -1,0 +1,143 @@
+JOB SUMMARY
+
+Responsible for executing the full-scope of advanced analytic projects with the objectives of creating causal inferences, correlations, predictions, and recommendations for improvements to business processes, and the metrics to monitor those improvements. Requires a strong command of data science oriented techniques and algorithms as well as a demonstrated practical ability to determine where to invest time, synthesize actionable findings across diverse assignments, and present these findings to an audience with varying levels of background in analytics.
+
+MAJOR DUTIES AND RESPONSIBILITIES
+
+Actively and consistently support all efforts to simplify and enhance the customer experience
+
+Plan and lead the execution of the analytics life-cycle, leveraging significant experience in leading this type of work in previous roles
+
+Make technical decisions for the organization
+
+Coordinate technical activities across projects and the organization
+
+Interact with various stakeholders to understand their business needs, communicate project status and develop relationships to ensure satisfaction
+
+Leverage multiple data sources to produce intelligent data products that solve the needs of business and engineering for business intelligence, operational analytics, descriptive models, predictive models, diagnostic models, and prescriptive models
+
+Provide technical oversight and expertise for activities including experimental design, machine learning, ad-hoc analytics, and statistics
+
+Increase speed to delivery by architecting and implementing automated solutions across the data and analytics lifecycle
+
+Research and develop machine learning models and algorithms for data analysis and discovery.
+
+Assist in making strategic recommendations and implementations for data architectures, data collection processes, and analytics platform integration.
+
+Execute the full-scope of advanced analytic techniques
+
+Perform problem formulation, requirements analysis, and planning
+
+Responsible for data surveying, profiling, and pre-processing
+
+Responsible for interpretation of results – for both causal inferences and predictive sensitivity and specificity
+
+Synthesize appropriate recommendations for action and changes
+
+Help teach and explain techniques and tools used to a broad set of business-intelligence, data, and analytics professionals with varied backgrounds
+
+Exercise thought leadership and discretion in tailoring the tools, approaches, and data used to meet the needs of the particular problem
+
+Deliver results using metrics-driven analysis, and communicating the costs and tradeoffs of ideas to stakeholders and top management
+
+Make technical decisions for the organization
+
+Coordinate technical activities across projects and the organization
+
+Interact with various stakeholders to understand their business needs, communicate project status and develop relationships to ensure satisfaction
+
+Leverage multiple data sources to produce intelligent data products that solve the needs of business and engineering for business intelligence, operational analytics, descriptive models, predictive models, diagnostic models, and prescriptive models
+
+Provide technical oversight and expertise for activities including experimental design, machine learning, ad-hoc analytics, and statistics
+
+Increase speed to delivery by architecting and implementing automated solutions across the data and analytics lifecycle
+
+Research and develop machine learning models and algorithms for data analysis and discovery.
+
+Assist in making strategic recommendations and implementations for data architectures, data collection processes, and analytics platform integration.
+
+REQUIRED QUALIFICATIONS
+
+Skills/Abilities and Knowledge
+
+Expert-level skills and experience with a statistical scripting language such as R, Python, Matlab, etc. in support of advanced analytics
+
+Advanced-level skills with databases, including SQL and utilizing data stored in complex schemas
+
+Broad experience and solid theoretical foundation on the modeling process using a variety of algorithms
+
+Data profiling, distributions, confidence intervals, hypothesis testing
+
+Holdout for testing, cross-validation
+
+Data pre-processing, exploratory data analysis using a variety of techniques
+
+Regression and classification using techniques such as linear models, GLMs, and tree-based methods
+
+Interpretation of model results, consideration of causality, treatment of multicollinearity
+
+Strong synthesis and presentation skills
+
+Ability to communicate results and recommendations to a wide variety of audiences including executive leadership
+
+Strong understanding of data architecture, data warehouse and data marts
+
+Demonstrated ability and desire to continually expand skill set, and learn from and teach others
+
+Experience with Teradata: SQL, UDFs, interpreting explain plans, basic performance-tuning, and use of database catalog
+
+Knowledge of other relevant tools such as SAS, SPSS, Alteryx, Linux
+
+Knowledge of other relevant techniques such as text analysis and text mining
+
+Familiarity with the open-source ecosystems surrounding R (CRAN), Python (PyPi), and/or Hadoop
+
+Extracting data and delivering complete analytics and machine learning products primarily using Python; secondary experience with R, Java, Javascript, C, C++, Scala, or Julia is an asset
+
+Experience with other database and data store technologies, such as NoSQL, key-value, columnar, graph, and document.
+
+Visualization or BI tools, such as Tableau, Looker, Microstrategy, RapidMiner, or anything Microsoft Power BI
+
+Creating proof of concept experiments for analytics, machine learning, or visualization tools that includes hypothesis, test plans, and outcome analysis
+
+Program, product, or project management experience delivering analytics results
+
+Strong background in Linux/Unix/CentOS and Windows installation and administration
+
+Ability to identify and resolve end-to-end performance, network, server, cloud, and platform issues
+
+Excellent pattern recognition and predictive modeling skills
+
+Experience with Hadoop, Spark, and/or Snowflake
+
+Keen attention to detail with the ability to effectively prioritize and execute multiple tasks.
+
+Education
+
+Master’s degree in a data science, engineering discipline, computer science, statistics, applied math, or related field.
+
+Related Work Experience
+
+5+ Years - User and system admin ownership with Linux/Unix/CentOS and Windows.
+
+5+ Years - Hands-on working experience with RDBMS, SQL, scripting, and coding.
+
+3+ Years - Developing and deploying machine learning and analytics models.
+
+PREFERRED QUALIFICATIONS
+
+Skills/Abilities and Knowledge
+
+Operations-research background, in particular focused on large labor operations such as field ops, technical support, and sales
+
+Background with cable and/ or telecommunications
+
+WORKING CONDITIONS
+
+Office environment
+
+Charter Technical Engineering Center
+
+Highly collaborative and innovative work space
+
+Occasional Travel

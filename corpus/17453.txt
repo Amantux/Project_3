@@ -1,0 +1,44 @@
+Data Engineering at B12
+
+B12's engineering team views software as a craft, but improving the world as the reason to practice it. Our engineers are responsible for prioritizing, conceptualizing, co-designing, building, testing, and engaging users for any concept we are building out. We're generalists in encouraging each other to experience the full stack, but we're also aware of each other's preferences in the stack. We mentor and teach where we can, both inside and outside of the company.
+
+We value sharing our work with the outside world. Our team has published papers on forming expert flash teams and machine-mediated worker hierarchies. We've baked our research into Orchestra, the system that coordinates our expert and machine teams, and released Orchestra into open source to contribute our software back to the community.
+
+We're looking for a Data Engineer to help us answer critical questions our business faces while improving our data systems and architecture to support greater variety, volume, and velocity of data and data sources. We hope our engineers have more longevity than any one tool we use, but here is a sampling of our current thoughts about technology:
+We build our product on Python/Django and JavaScript/React.
+We store blobs in Amazon's S3, munch on them in Amazon's EC2, develop in Docker, and deploy containers to Amazon's Elastic Beanstalk.
+We believe Postgres should be the first system you consider when you think about persisting structured data.
+We religiously clean and centralize data in Amazon's Redshift, and are able to answer most any question in SQL. We recently wrote our 1000th query in Metabase!
+Before building complex statistical machine learning models, we build simple ones we can understand. Rarely, we build complex models.
+We have near-full test coverage on the backend, and are making progress on our frontend and integration tests.
+We set up continuous integration and deployment because, while this model comes with its own pains, we've disliked being on fixed release schedules on previous projects.
+We like to move fast and support point-in-time recovery :).
+As a Data Engineer, you will
+Collaborate with operational teams including sales, marketing, and customer success.
+Contribute to infrastructure that enables and informs B12's analytical efforts.
+Write SQL queries and reusable views that enable various analyses including funnel, retention, and performance reporting.
+Use Python to clean data, send it to various systems including our data warehouse and operational services, and perform feature engineering to power the creation of predictive models.
+Build rules-based models and statistical machine learning models in Python using packages like scikit-learn.
+You'd be a good fit if
+You are fluent in SQL and Python.
+You have experience building and using data infrastructure, including systems like Postgres and Redshift.
+You've used reporting tools like Metabase, Tableau, or Looker in the past.
+You know that no dataset is ever pristine, but love to interrogate, structure, and clean data.
+You've contributed to extract-transform-load pipelines to collect data from disparate sources and centralize them in a data warehouse.
+You feel comfortable managing your time and deciding amongst competing priorities.
+You have worked with non-engineering teams and are comfortable explaining technical solutions to them.
+You are passionate about the future of work.
+You enjoy learning and teaching.
+You have strong written and verbal communication skills in English.
+You care about and want to contribute to our mission of helping people do meaningful work.
+Don't fear
+We don't have a minimum number of years of experience for this role. We highly favor talent and interest.
+Some candidates may see this list and feel discouraged because they don't match all the items. Please apply anyway: there's a good chance you're more wonderful than you think you are.
+B12 is a safe place for human beings. We are dedicated to building a diverse and inclusive team with a wide range of backgrounds and experiences, each helping us understand our customers better, and strengthen our team. We particularly encourage you to apply if you identify as a woman, are a person of color or other underrepresented minority, or are a member of the LGBTQIA community.
+How to apply
+
+
+Please provide:
+A pointer to your CV, resume, LinkedIn profile, or any other summary of your career so far.
+Some informal text introducing yourself and what you are excited about.
+If you have a profile on websites like GitHub or other repositories of open source software, you can provide that as well. If you don't have one, it's still very possible for us to get along just fine!

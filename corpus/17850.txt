@@ -1,0 +1,47 @@
+Job Description
+Level Ex is transforming the way medical professionals hone their skills by practicing high-risk procedures and earning training credit with the latest medical devices and diagnostic treatments in our industry-leading 3D mobile games. In less than four years, Level Ex has exponentially grown, hiring top talent from the video games industry, the digital health ecosystem, and leading medical institutions. Our clients include top 20 pharmaceutical, biotech, and medical device companies including Baxter, Pfizer, Merck, and Medtronic, as well as leading medical associations.
+
+We're now looking for an experienced Data Engineer who can build and refine a centralized data warehouse that is efficient, flexible, and scalable in a pioneering domain that combines mobile games data with healthcare provider data. We need a self-starter that will marshall the company’s data and surface it to business users and data scientists, and that will develop data pipelines to fuel data applications and business intelligence.
+
+What You’ll Be Doing with Us
+Architect, build and refine data warehouse that is scalable, efficient, and flexible, as new games and features are introduced.
+Develop and maintain ETL pipelines from multiple data sources -- telemetry, sales, product cost, marketing, etc -- to fuel data applications and business intelligence.
+Implement best-practices with metadata files and data models. Documenting pipeline details, changes to telemetry, and other important information.
+Load new data sources into a centralized data warehouse.
+Discovering and fixing data quality, structure and integrity issues.
+Defining telemetry details to add or change existing event data. Identifying data and structure needed in order to analyze mobile games with different design patterns.
+Leading large projects on a data & analytics roadmap.
+Deploying and supporting predictive models to optimize marketing or operations.
+Writing and monitoring JIRA/development tickets.
+
+Who We Want to Meet
+3+ years of experience working as a data architect or engineer.
+3+ years of experience in building data pipelines.
+3+ years of writing SQL.
+B.S. or M.S. in Computer Science, Mathematics, Statistics, Economics, Analytics, Engineering or equivalent combination of education and experience.
+Strong working knowledge of one or more of the following tools -- Python, Scala, R, Spark, AWS.
+Ability to collaborate effectively and work as part of a team at a growing start-up.
+
+Bonus Points Awarded For
+M.S. or Ph.D. in Computer Science, Mathematics, Statistics, Economics, Analytics, Engineering or equivalent combination of education and experience.
+Experience working on mobile game analytics and/or on medical analytics.
+Experience in AWS and Snowflake.
+Experience in architecting data structures for business intelligence.
+
+How We Make You Happy
+Multiple health insurance plans with 100% company-paid premiums
+401(k) with company-paid match
+Dental and vision insurance
+Pre-tax flex spending and commuter accounts
+Paid vacation, sick days and holidays
+Downtown Loop location convenient to public transportation, and plenty of nearby food options
+Unlimited cold brew and gourmet coffee, kombucha, Bevi sparkling water, and craft beer
+Full kitchen and food options including breakfast, and both healthy and comfort snacks
+Team after-hours events, like Board Game Night
+Interested?
+Just upload your resume or LinkedIn profile PDF below to apply. We look forward to hearing from you and exploring the possibilities.
+
+Level Ex is an Equal Opportunity Employer (EOE).
+
+No Agencies or Recruiters, please.
+Legal authorization to work in the U.S. is required. We will not sponsor individuals for employment visas, now or in the future, for this job.

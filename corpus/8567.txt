@@ -1,0 +1,101 @@
+Job ID: 3188417 
+
+Full/Part-Time: Full-time
+
+Regular/Temporary: Regular 
+
+Listed: 2019-03-29
+
+Location: New York, United States of America
+
+For candidates applying for positions in the US:
+
+Deutsche Bank is an Equal Opportunity Employer - Veterans/Disabled and other protected categories. Click these links to view the “ EEO is the Law ” poster and pay transparency statement.
+
+Position Overview
+
+Job Title: Data Scientist
+
+Corporate Title: Vice President
+
+Location: New York, NY
+
+About Deutsche Bank
+
+We are Germany’s leading bank with strong positions in Europe and significant presence in the Americas and Asia Pacific. We’re driving growth through our strong client franchise, investing heavily in digital technologies, prioritizing long-term success over short-term gains, and serving society with ambition and integrity. We serve our clients’ real economic needs in commercial and investment banking, retail banking and transaction banking, and provide ground-breaking products and services in asset and wealth management. That means a career packed with opportunities to grow and the chance to shape the future of our clients.
+
+Department
+
+At Deutsche Bank, good compliance is everybody’s responsibility. The Compliance department’s core functions support good compliance practice to prevent and detect violations of all applicable laws, rules and principles that observe high standards of individual behavior and business conduct.
+
+Working closely with the business, compliance professionals ensure that our risk based program is both globally effective and locally anchored to our key divisional businesses. As an independent and robust second level control function, the Compliance Department seeks to manage compliance risk and deepen the culture of compliance at Deutsche Bank through the development and management of strategies that are sustainable and increases the trust of our clients.
+
+Overview
+
+Reporting to the Global Co-Heads of Compliance Surveillance, this role will drive and assist with global efforts to strengthen Surveillance’s detection capabilities across trade and electronic communications surveillance through new scenario implementation and enhancements employing advanced techniques such as quantitative measurements and analytics. He/she will partner with Compliance Surveillance Product Heads, Change Management, and Corporate Technology to provide solutions for sophisticated surveillance and improved investigative applications. Currently the platform consumes millions of trading events, electronic communications and voice recordings per day. We require someone having experience researching and investigating signals, integrating these into models, and communicating the output effectively to the Surveillance team through visualizations.
+
+This is a small but rapidly expanding team developing an industry leading platform within the area of detecting possible market abuse using advanced analytics and is a top program that has high visibility.
+
+Key Responsibilities:
+
+Data sourcing, discovery and analytics using a variety of tools, visualization and scripting
+
+Hands on analytics and application of data science techniques, such as statistical modelling and predictive analysis, to provide transformative proposals
+
+Creation of models, reports and visualization solutions providing interpretation and insight into business data and processes
+
+Issue identification and analysis techniques, such as pattern analysis and root cause analysis, to help identify why issues occur and propose solutions
+
+Work with other analysts to develop and implement data analytics procedures and best practices
+
+Collaborate with small teams of analysts on analytic work streams
+
+Managing their own time and helping the team meet their sprint goals
+
+Engaging stakeholders within Compliance Surveillance and working with Corporate Technology and front office systems representatives on target state design decisions and technology enablement
+
+You will have:
+
+Experience with python or other scripting languages
+
+Experience using Machine Learning and Deep Learning libraries such as MLlib, TensorFlow
+
+Experience working with Hadoop (Spark/PySpark, Hive, Impala)
+
+Experience with ETL (Extract, Transform and Load) tools (Pentaho, Informatica, etc.) experience desirable
+
+Ideally using the output from machine learning and statistical modeling techniques in identifying patterns and signals
+
+University Degree/MSc in a Quantitative Discipline (Computer Science, Machine Learning, Statistics, Mathematics, Physics, Operations Research, Engineering, Economics/Econometrics)
+
+Excellent skills with tools for analyzing trade event across the Hadoop space – e.g. Cloudera Data Science Workbench; Impala; Hive etc
+
+Experience in distributed analytic engines, preference is Apache Spark / pyspark and associated ecosystem (e.g. MLlib, Elastic search, Kibana)
+
+Strong mathematical/statistical/computer science fundamentals, being able to logically construct and apply a model from first principles
+
+Experience working in Global teams
+
+Experience solving complex data problems and ability to identify issues and propose solutions
+
+The ability to prioritize key deliverables
+
+Experience within a banking environment advantageous
+
+You will be:
+
+An ability to work well within a team, including the ability to understand and effectively influence others 
+
+A professional business demeanor and attitude
+
+Strong interpersonal skills, that will enable them to build strong, open dialogue-based relationships with relevant stakeholders
+
+Action–oriented, with a strong focus on completing tasks on time with accuracy and efficiency, while working independently and with minimum direction
+
+Ability to think critically
+
+Ability to show initiative and react quickly to changes in priorities
+
+Regulation, Compliance & Anti-Financial Crime
+
+Regulation, Compliance and Anti-Financial Crime (AFC) protects the integrity and reputation of Deutsche Bank. It manages the Bank’s risks and help to avert unintentional rule breaches and conflicts of interest. At the same time, we also advise the bank on ethical conduct and governance issues and keep the bank up to date on regulatory and political challenges.

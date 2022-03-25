@@ -1,0 +1,27 @@
+SUMMARYData Analytics team is looking for a smart, data-savvy data engineer to help us re-invent our data and analytics platforms. You should have a deep passion for understanding and solving data issues and bring logic, enthusiasm and an analytical approach to work issues.
+
+RESPONSIBILITIES
+
+Drive engineering efforts to design, develop, and test data-driven solutions
+Drive the optimization, testing and tooling that will improve data quality
+Improve performance, availability and scalability of our backend systems
+Partner with engineering, product and operations teams to design tech solutions
+Utilize CI/CD throughout the development, automation and testing lifecycle
+Deliver updates in different backend components and
+Contribute strategy and tactics to the long-term roadmap for enterprise data strategy
+
+REQUIREMENTS
+
+3+ years(TM) experience building large scale big data applications in a business setting
+Excellent SQL and database knowledge
+Ability to pull data from disparate sources, (RDBMS, Excel), and deliver to Cloud data lake
+Hands-on experience with Python, Ruby, Scala, and/or Java.
+Knowledge/experience using AWS, Snowflake or other Cloud technology
+Proficient with Linux commands and environments
+Demonstrated ability to learn new languages.
+Bachelor(TM)s degree in an analytic or technical field, (Math, Stat, Computer Science, etc.)
+
+PREFERENCES
+
+Hands-on experiences with data processing, reporting or analysis tools
+Experiences with Hadoop/Spark/Kafka/Presto/etc.

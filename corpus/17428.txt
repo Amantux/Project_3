@@ -1,0 +1,24 @@
+Point72’s Market Intelligence Data (MI Data) group is a service-focused business committed to driving high quality fundamental research powered by advanced data analytics to help inform investment decisions at Point72. The MI Data – Sourcing function identifies, acquires, and onboards the data required to create MI Data products. Our team members are essential to the process of turning data into real value – we ask them to be strategic and innovative in their hunt for information and expect them to partner closely with our Compliance team when obtaining new data sets.
+What you’ll do
+As a Web Scraping focused Data Engineer, you will be responsible for extracting and ingesting data from websites using web crawling tools. In this role you will own the creation process of these tools, services, and workflows to improve crawl/ scrape analysis, reports and data management. We will rely on you to test the data and the scrape to insure accuracy and quality. You will own the process to identify and rectify any issues with breaks as well as scale scrapes as needed.
+What’s required
+Experience running large scale web scrapes
+Solid Python knowledge
+Familiarity with Linux/UNIX, HTTP, HTML, Javascript and Networking
+Familiarity with techniques and tools for crawling, extracting and processing data (e.g. Scrapy, pandas, mapreduce, SQL, BeautifulSoup, etc).
+Experience with system monitoring/administration tools
+Experience with version control, open source practices, and code review
+Experience with applications designed to display archived web content
+Great communication skills (written and Spoken in English)
+Bachelor's Degree in Computer Science or a related field or the equivalent demonstrated experience
+
+We take care of our people
+We invest in our people, their careers, their health, and their well-being. We want you to concentrate on success and leave the rest to us. When you work here, we provide:
+Fully-paid health care benefits
+Generous parental and family leave policies
+Mental and physical wellness programs
+Tuition assistance
+A 401(k) savings program with an employer match and more
+
+About Point72
+Point72 Asset Management is a global firm led by Steven Cohen that invests in multiple asset classes and strategies worldwide. Resting on more than a quarter-century of investing experience, we seek to be the industry’s premier asset manager through delivering superior risk-adjusted returns, adhering to the highest ethical standards, and offering the greatest opportunities to the industry’s brightest talent. We’re inventing the future of finance by revolutionizing how we develop our people and how we use data to shape our thinking. For more information, visit www.Point72.com/working-here.

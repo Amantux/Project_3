@@ -1,0 +1,31 @@
+Posted: Apr 16, 2020
+Role Number:
+200143795
+The Software Delivery team is looking for a Software Engineer to build services and solve distributed computing problems in support of the development of Apple's operating systems.
+In the position you will have the opportunity to join a development team that fosters a culture of innovation and continuous improvement.
+
+Responsibilities will include:
+Understanding Apple's operating system development workflow and developing new applications to allow them to scale on cloud technologies.
+Adapting existing software services in novel ways to support new operating system features.
+Developing meta data services and web APIs.
+Key Qualifications
+Passion for continually learning and exploring new technologies.
+Understanding of distributed system fundamentals like consistency and availability.
+Familiar with application and service monitoring tools and techniques.
+Knowledge of cloud platforms and virtualization technologies.
+Development experience with Go, Python or Scala.
+Excellent collaborative skills, with strong written and verbal communication.
+Description
+This job will provide you with:
+A team of highly skilled coworkers ready to both mentor and learn from you.
+Unique distributed computing problems with an open mind on how they can be solved.
+The opportunity to collaborate with talented engineering teams across a wide range of technology disciplines.
+The freedom to take ownership and create great software.
+Education & Experience
+We don’t require formal qualifications since mindset and demonstrated ability are more important.
+
+These are not hard requirements but this position might be of interest if you have experience with or a desire to learn about:
+- Cloud orchestration technologies such as Kubernetes or Mesos.
+- Distributed compute systems like MapReduce, Spark, and Beam.
+- Message buses such as Kafka or Rabbit MQ.
+- BLOB storage technologies.

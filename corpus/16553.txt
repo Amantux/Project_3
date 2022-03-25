@@ -1,0 +1,37 @@
+By applying for this role, you could choose to work in the following locations:
+US - Remote US
+Los Angeles
+Sunnyvale
+San Francisco
+
+Are you a Data Scientist or ML Engineer who’s interested in tackling very challenging adversarial problems and passionate about defending online users against abuse, spam, and manipulation? Do you love working on complicated problems that require a multi-disciplinary approach, creative solutions, and rapid product iterations? Will you be proud to work on a real-time, scalable system that serves millions of users daily? If so, you should join us.
+
+About Twitter:
+
+
+Twitter serves the public conversation by encouraging people all over the world to connect, learn, debate, and solve problems together. Joining the team today means you’ll make the conversations of tomorrow possible. It’s not always easy, but nothing worth doing ever is.
+
+What You’ll Do:
+
+
+You will be a key member of the Integrity Data Science (IDS) team within Health Engineering. Our team supports Trust & Safety, Public Policy, Legal, and Product teams to research, detect and mitigate platform manipulation and other malicious activity. Your work will directly influence how Twitter develops systems and tools to counteract attempted manipulation of critical conversations on the platform.
+
+As such, you will:
+Conduct analyses to learn from our vast amount of data and develop new detection techniques using heuristics or Machine Learning algorithms.
+Write complex data flows using Spark, Scalding, Scala, Python and SQL.
+Use Graph processing to model user and engagement data allowing to detect platform manipulations and inauthentic behaviors.
+Work with engineering to implement detection and mitigation at scale, as well as tools to assist agents in their investigations.
+Communicate findings to executives and multi-functional product teams.
+Who You Are:
+
+Capable of operation at senior level or above as a Data Scientist or ML Engineer.
+3 plus years of industry or graduate level research experience working on platform manipulation, or relevant security issues.
+A self-starter who is capable of learning on the job, takes initiative, and can thrive within a large team. You can pivot from blockers and develop an innovative approach when there are no precedents.
+You form sound hypotheses for largely unknown problems (through a combination of product domain knowledge and logical reasoning) and quickly iterate on data exploration.
+Passionate about protecting open conversations on Twitter. You are a strategic problem solver and are able to synthesize methodology and data into meaningful product and/or public policy strategy from your analyses.
+Here’s all the legal good stuff:
+
+
+We are committed to an inclusive and diverse Twitter. Twitter is an equal opportunity employer. We do not discriminate based on race, ethnicity, color, ancestry, national origin, religion, sex, sexual orientation, gender identity, age, disability, veteran, genetic information, marital status or any other legally protected status.
+
+San Francisco applicants: Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.

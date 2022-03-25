@@ -1,0 +1,74 @@
+Job Description
+
+At Wells Fargo, we want to satisfy our customers financial needs and help them succeed financially. Were looking for talented people who will put our customers at the center of everything we do. Join our diverse and inclusive team where youll feel valued and inspired to contribute your unique skills and experience.
+
+Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.
+
+Wells Fargo Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure footprint; provides information security; and enables continuous banking access through in-store, online, ATM, and other channels to Wells Fargos more than 70 million global customers.
+
+Technology is going through a tremendous transformation and this is a very exciting time to join our team! The Chief Technology Office (CTO) is leading technology transformation in a multi-cloud technology ecosystem delivering products and innovative solutions at scale that are stable, secure, and always on. This includes Cloud and Agile implementation, engineering, architecture, and all the tools, products, and training that will enable team members to achieve our transformation.
+
+We are hiring a Junior Site Reliability Engineer (SRE) to be part of the new enterprise Site Reliability Engineering (SRE) practice within CTO. We believe that "Hope is not a Strategy" and we solve operational issues through code through Agile Methodology.
+
+We are looking for a junior-level SRE who enjoys and thrives on solving complex problems through innovation impacting change at scale. You will join an elite team of 15 SREs driving Technology's transformation by introducing enterprise capabilities and products, launching new platforms, building tools, automating away complex issues, and integrate with the latest technology. The engineers will combine experience across software engineering and systems engineering/administration to work closely with CTO Teams including Architecture, Cloud, CI/CD, Application Hosting, Observability, Continuous Testing, and Capacity Management to ensure products and services we provide to customers are always on.
+
+This Engineer will be responsible for assisting with and participating in the following activities:
+Introduce new enterprise capabilities to solve operational issues in a multi-cloud technology landscape
+Assess application availability for applications onboarding to SRE capturing SLOs/SLIS and implement Error Budget
+Assist in onboarding of 10 critical applications to SRE
+Develop original and/or complex code, provide coding guidance/review, as well as develop documentation
+Instrument applications for enterprise observability through Application Monitoring, Logging, Visualization, Analytics, and AI/ML
+Introduce continuous improvement by developing self-healing/autonomic capabilities, automation, API, and CI/CD integration
+Continuously test for performance, functional, regression, smoke, destructive, resiliency, and orchestrate chaos testing
+Explore continuous inspection capabilities code quality to identify problems before they manifest in production
+Share support responsibilities for critical applications identifying systemic issues, conducting blameless post mortems, root cause analysis, and introduce strategic solutions in code that solve the problem once and for all eliminating repeat issues.
+Introduce and expand AIOps capabilities, build machine learning (ML) models and algorithms, and robotic process automation (RPA)
+Approach solutions and interactions with focus on customer experience
+
+Apply technical experience with one or more of the following:
+Software Development: Java, JavaScript (React, Angular), Go, C/C++, Scala, R
+OS & Platform: AWS, Lamda, PCF, Kubernetes, OpenShift, Linux, Azure, Windows, VMware
+CI/CD & Automation: Jenkins, Gitlab, SonarQube, Artifactory, Ansible, Puppet, Apigee
+Observability/Monitoring: DataDog, Grafana, Prometheus, ELK (Elasticsearch, Logstash, Kibana), Kafka, CloudWatch, Jaeger, Zipkin, Kinesis, Apache Airflow, AppDynamics
+
+Apply working knowledge and/or experience in one or more of the following areas:
+AIOps: Moogsoft, BigPanda, UIpath, Robotic Processing, Artificial Intelligence (AI) and Machine Learning (ML) Frameworks
+Operations Tools: ServiceNow, PagerDuty, Microsoft Teams, Symphony/Slack, Remedy, IBM Netcool
+Data/Data Structures: Oracle, SQL, Mongo, Hadoop, Cloudera, Spark
+Testing: Gremlin, Chaos Monkey, Selenium, jmeter, Blazemeter, Performance Center, Perfecto, Gherkin, DevTest
+Capacity Management: Turbonomics, BMC Truesight
+
+Required locations listed on job posting. Relocation assistance is available for this position.
+
+Required Qualifications
+5+ years of application development and implementation experience
+2+ years of development experience with languages such as Python, Java, Scala, or R
+Desired Qualifications
+Excellent verbal, written, and interpersonal communication skills
+Cloud computing experience
+Incident Management System experience
+Configuration Management Tools experience
+Experience with Agile Scrum (Daily Standup, Sprint Planning and Sprint Retrospective meetings) and Kanban
+Excellent verbal, written, and interpersonal communication skills
+Other Desired Qualifications
+Experience with system administration across multiple platforms
+Experience with software development languages such as JavaScript (React, Angular), Go and C/C++
+Experience with one or more CI/CD & Automation tools: Jenkins, Gitlab, SonarQube, Artifactory, Ansible, Puppet, Apigee
+Experience with one or more Observability/Monitoring tools: DataDog, Grafana, Prometheus, ELK (Elasticsearch, Logstash, Kibana), Kafka, CloudWatch, Jaeger, Zipkin, Kinesis, Apache Airflow, AppDynamics
+Knowledge of and/or experience with one or more of the following: AIOps (Moogsoft, BigPanda, UIpath), Robotic Processing, Automation, Artificial Intelligence (AI)/Machine Learning (ML) Frameworks, Data Structures, Testing Tools, Capacity Management
+Job Expectations
+Willingness to work on-site at stated location on the job opening
+Ability to travel up to 15% of the time
+Street Address
+
+NC-Raleigh: 1100 Corporate Center Dr - Raleigh, NC
+NY-New York: 100 Park Ave - New York, NY
+AZ-Chandler: 2600 S Price Rd - Chandler, AZ
+MN-Minneapolis: 255 2nd Ave S - Minneapolis, MN
+
+Disclaimer
+
+All offers for employment with Wells Fargo are contingent upon the candidate having successfully completed a criminal background check. Wells Fargo will consider qualified candidates with criminal histories in a manner consistent with the requirements of applicable local, state and Federal law, including Section 19 of the Federal Deposit Insurance Act.
+
+Relevant military experience is considered for veterans and transitioning service men and women.
+Wells Fargo is an Affirmative Action and Equal Opportunity Employer, Minority/Female/Disabled/Veteran/Gender Identity/Sexual Orientation.

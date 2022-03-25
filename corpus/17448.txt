@@ -1,0 +1,36 @@
+Job Description
+
+
+The New York Times is seeking inventive and motivated data engineers at all levels of experience to join the Data Engineering group. In this role, you will build critical data infrastructure that surfaces data and insights across the company.
+
+About Us
+
+Our Data Engineering teams are at the intersection of business analytics, data warehousing, and software engineering. As Maxime Beauchemin wrote in “The Rise of Data Engineering”, ETL and data modeling have evolved, and the changes are about distributed systems, stream processing, and computation at scale. They’re about working with data using the same practices that guide software engineering at large.A strong data foundation is essential for The New York Times and we’re responsible for it. We use our data infrastructure to power analytics and data products and to deliver relevant experiences to our customers in real-time. We enable our company to validate strategic decisions, make smarter choices, and react to the fast changing world. We are part of a New York based technology organization with a remote-friendly workplace that includes engineers around the world. We value transparency and openness, learning, community, and continuous improvement. Check out the Times Open blog, which is written by engineers and other technical team members, and follow @nytdevs on Twitter to see what we’re up to.
+
+About the Job
+
+We focus on the software engineering related to data replication, storage, centralized computation, and data API’s. We provide customers and partners with data tools, shared frameworks, and data services. These are the foundational core of our group which enables ourselves and others to work with data from a common underpinning. Our tools and services enable our group to scale and avoid blocking others.We reduce data redundancy by creating systems and datasets that serve as sources of record. We enable discovery and governance of our data. We support key business goals like growing our digital subscriber base, understanding how our customers use our products, and retaining our print subscribers.
+
+As a data engineer, you will:
+Run and support a production enterprise data platform
+Design and develop data models
+Work with languages like Java, Python, Go, Bash, and SQL
+Build batch and streaming data pipelines with tools such as Spark, Airflow, and cloud-based data services like Google’s BigQuery, Dataproc, and Pub/Sub
+Develop processes for automating, testing, and deploying your work
+About You
+
+To thrive in this role, you are excited about data and motivated to learn new technologies. You are comfortable collaborating with engineers from other teams, product owners, business teams, and data analysts and data scientists. You are own and shape your technical domain area and move the related business goals forward. You are eager to resolve upstream data issues at the source instead of applying workarounds. You analyze and test changes to our data architectures and processes, and determine what the possible downstream effects and potential impacts to data consumers will be.
+
+Benefits and Perks:
+Make an impact by supporting our original, independent and deeply reported journalism.
+We provide competitive health, dental, vision and life insurance for employees and their families
+We support responsible retirement planning with a generous 401(k) company match.
+We offer a generous parental-leave policy, which we recently expanded in response to employee feedback. Birth mothers receive 16 weeks fully paid; non gestational parents receive 10 weeks, also fully paid.
+We are committed to career development, supported by a formal mentoring program and $8,000 annual tuition reimbursement.
+We have frequent panel discussions and talks by a wide variety of news makers and industry leaders.
+Join a community committed to the richness of diversity, experiences and talents in the world we cover, supported by a variety of employee resource groups.
+#LI-AM1
+
+The New York Times is committed to a diverse and inclusive workforce, one that reflects the varied global community we serve. Our journalism and the products we build in the service of that journalism greatly benefit from a range of perspectives, which can only come from diversity of all types, across our ranks, at all levels of the organization. Achieving true diversity and inclusion is the right thing to do. It is also the smart thing for our business. So we strongly encourage women, veterans, people with disabilities, people of color and gender nonconforming candidates to apply.
+
+The New York Times Company is an Equal Opportunity Employer and does not discriminate on the basis of an individual's sex, age, race, color, creed, national origin, alienage, religion, marital status, pregnancy, sexual orientation or affectional preference, gender identity and expression, disability, genetic trait or predisposition, carrier status, citizenship, veteran or military status and other personal characteristics protected by law. All applications will receive consideration for employment without regard to legally protected characteristics. The New York Times Company will consider qualified applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local \"Fair Chance\" laws.

@@ -1,0 +1,31 @@
+Now Hiring a Data Engineer
+
+Ability to maintain an Interim Secret Clearance is Required
+
+As a Data Engineer you will use cutting edge cloud and data technologies to streamline services to our clients. Join our team of Data and Cloud professionals and accomplish what others only dream of. Must be able to maintain an Interim Secret Clearance. Must be able to commute to Austin, Texas.
+Conduct preliminary data evaluation and database structure, optimize and standardize if necessary.
+Work with SME and ATF EDW team to build the scripts for the CGI Dashboard view
+Importing NESS data into EDW
+Creating Reports in PowerBI that are high value for field or executives
+NESS data visualized in the CGI Dashboard
+NESS Data Validation with emphasis on data from other ATF databases
+Work with NESS Dev team to identify best solutions for incorporating RMS data into NESS
+Translate business needs into longterm architecture solutions
+Review, simplify and optimize existing data import process from various sources such as NIBIN, etrace and various RMS imports
+Evaluate re usability of current data for additional analyses.
+Review object and data models and the metadata repository to structure the data for better management and quicker access
+Profile of Success
+Bachelor's degree in an IT-related field and two years of experience
+Proven experience developing Big Data solutions in the Azure space
+Extensive experience with the Azure suite (Azure Data Lake, Azure Data Factory, Azure SQL Data Warehouse, Data Lake Analytics, HDInsight, Machine Learning, and Stream Analytics)
+SQL Server 2014/2016 experience
+Experience using Spark, Hive, Pig, and Scala
+Comfortable with Microsoft Full Stack (SSAS/SSIS/SSRS)
+In-depth knowledge of Data Warehousing and ETL/ELT
+Proven ability to work with clients to understand requirements and to envision solutions
+Possess DoD 8570 security certification
+Desirable Skills
+Background with Data Science tools such as R, Python, and SAS is a plus
+Microsoft related certifications such as the MCSD/MCSE
+Experience with Tableau
+Experience working with Hadoop ecosystem

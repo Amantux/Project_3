@@ -1,0 +1,35 @@
+JOB SUMMARY
+The associate data scientist is responsible for executing the full-scope of advanced analytic techniques with the objectives of creating causal inferences, predictions, and recommendations for improvements to risk management processes, and the metrics to monitor those improvements. Build predictive models as necessary to support the decisions. This position requires a strong command of techniques and algorithms as well as a demonstrated practical ability to determine where to invest time, synthesize actionable findings across diverse assignments, and present these findings to an audience with varying levels of background in analytics. This position is responsible for formulating and managing projects, and working with key customers in order to establish roadmaps, present results, and resolve issues.
+MAJOR DUTIES AND RESPONSIBILITIES
+Actively and consistently supports all efforts to simplify and enhance the customer experience.
+Model data management for validation (e.g. holdout, cross-validation)
+Selection of appropriate algorithms and execution
+Responsible for interpretation of results for both causal inferences and predictive effectiveness
+Synthesize appropriate recommendations for action and changes
+Present findings, suggested actions and changes to a broad audience, and manage follow-ups and execution
+Help teach and explain techniques and tools used to a broad set of business-intelligence, data, and analytics professionals with
+varied backgrounds
+Provide coaching and mentoring to achieve a high-performing team
+Manage internal client relationships, including issue resolution, and overall accountability for results and client satisfaction
+Exercise thought leadership and discretion in tailoring the tools, approaches, and data used to meet the needs of the particular problem
+Perform other duties as required
+REQUIRED QUALIFICATIONS
+Skills /Abilities and Knowledge
+Ability to read, write, speak and understand English
+Experience with SAS and/or R and/or Python (including relevant packages) in support of advanced analytics
+Skilled with relational databases, including SQL and utilizing data stored in complex schemas
+Expert-level logical and analytic skills
+Broad experience and solid theoretical foundation on the modeling process using a variety of algorithms
+Data pre-processing, exploratory data analysis using a variety of techniques
+Regression and classification using linear and logistical models, and tree-based methods
+Interpretation of model results, consideration of causality, treatment of multicollinearity
+Strong synthesis and presentation skills
+Ability to communicate results and recommendations to a wide variety of audiences
+Basic understanding of data architecture, data warehouse and data marts
+Demonstrated ability and desire to continually expand skill set, and learn from and teach others
+Education
+Bachelors Degree in Computer Science, Physics, Analytics, Math, Statistics or Quantitative Analysis
+Preferred: Masters degree in computer science, mathematics, statistics, operations research or other quantitatively-focused field
+Related Work Experience
+3+ years of Predictive modeling development and validation
+2+ years with packages such as SQL/R/SAS

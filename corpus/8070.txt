@@ -1,0 +1,43 @@
+An Inspire data scientist will have the opportunity to work on various data science projects across the Inspire portfolio (Arby's, BWW, Rusty Taco, and Sonic). This role will facilitate the end-to-end development, testing, and monitoring of analytical models for one or multiple of our brands.
+
+KEY RESPONSIBILITIES:
+
+Model building-spending time to build scalable models according to project and stakeholder needs
+
+Data imputation + QA-working with data in various forms (data lake, SQL, raw) to input into models
+
+Data collection-working with various APIs and external data sources to automate data ingestion
+
+Code review-partnering with other data scientists to peer-review production code
+
+Data management-working with our Cloud data team to ensure data supports ongoing analysis
+
+EDUCATION QUALIFICATIONS:
+
+Required Minimum: A bachelor's degree or graduate degree, in Computer Science, Statistics, Engineering, Science, or Mathematics
+
+EXPERIENCE QUALIFICATION:
+
+Required Minimum: 1-3 years of practical experience with data mining and analytics, database structure and ETL, predictive modeling, machine learning, and statistical programming languages
+
+REQUIRED KNOWLEDGE, SKILLS or ABILITIES:
+
+Expertise in statistical programming (e.g. R, Python, and/or Spark)
+
+Experience with relational databases (e.g. SQL)
+
+Ability to work with messy, or unstructured data sets
+
+Understanding of the principles of statistics and analytical methodology
+
+Passion for the restaurant industry and data-driven decision-making
+
+Overall high level of personal integrity, humility, and sense of humor
+
+Minimal travel required
+
+DECISION MAKING AUTHORITY:
+
+Will own aspects of data ingestion and model building of his/her pieces of the code pipeline
+
+ DIRECT REPORTS: None

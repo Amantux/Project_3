@@ -1,0 +1,47 @@
+Job Description
+
+CACI is seeking a cleared Cloud Operations Engineer to be responsible for both facilitating internal development efforts and maintaining site reliability for our line-of-business software as a service (SaaS) products. This position will work closely with multi-discipline teams to optimize performance and security on our infrastructure and to assist incident management in production environments. Key responsibilities for this role include facilitating application upgrades, building infrastructure enhancements, and managing ongoing tasks in an Agile environment at San Antonio, TX.
+
+This is your opportunity to work with a highly talented engineering team that builds technology that bridges software and intelligence community needs. Our client engagement processes, the way we collaborate, operate, and deliver value provides an unparalleled opportunity to grow and advance. Choose us and make delivering innovative work part of your extraordinary career!!
+
+What Youll Get to Do:
+Actively participate as a member of a diverse Agile engineering team tasked with developing, deploying, and maintaining a multi-tenant, multi-platform infrastructure to provide lab IT enclaves
+Integrate, secure, and operate lab enclaves across Azure, Amazon Web Services (AWS), Google Cloud, and on-premises vSphere
+In the lab core services enclaves, you might provision, install, configure, monitor, and maintain applications, platform services, and/or operating systems (Windows and/or Linux) on both public and private virtual machine (VM) infrastructures in order to implement, manage, and maintain the envisioned security model and provide certain centralized services to tenants
+Youll Bring These Qualifications:
+An active TS/SCI clearance
+Bachelors degree in Computer Science, IT, or related technical discipline
+5+ years of related IT engineering experience
+2+ years of professional experience in a cloud platform environment
+DoD 8570 Information Assurance Management (IAM) or Information Assurance Technical (IAT) Level II Certification (or higher level) required
+Solid communication skills in technical, business, and client interactions
+Demonstrated ability to coordinate with clients and team members to identify and resolve issues
+Experience working in a dynamic and collaborative environment (i.e., Agile)
+These Qualifications Would be Nice to Have:
+Working knowledge or experience with the following technologies:
+Amazon Web Services (AWS) Commercial Cloud Services (C2S), Amazon Machine Image (AMI), Jenkins Continuous Integration/Delivery (CI/CD), Docker, Kubernetes, Mesosphere Datacenter Operating System (DC/OS), Marathon, Ansible, Databricks
+AWS - CloudFormation, Terraform, Lambda, Identity Access Management (IAM), Simple Storage Service (S3), Simple Notification Service (SNS), Simple Queue Service (SQS), Virtual Private Cloud (VPC), Elastic Compute Cloud (EC2) for RHEL and CentOS
+Java 8, Python, Scala, Groovy, Perl, and Bash scripts
+AWS Cloud/Linux, NiFi, Kafka, Spark, ElasticSearch, Hadoop, Zookeeper, Accumulo, Logstash, Filebeat, and Kibana
+Microservices, Representational State Transfer (REST) and Simple Object Access Protocol (SOAP) Web Services, CXF, JAX-WS (SOAP), JAX-RS (REST), RESTEasy, Mule, Red Hat Fuse ESB, Secure Sockets Layer (SSL), Swagger
+Hibernate 4, Spring 4.1, Spring Security 3.1, OAuth2, Camel, ActiveMQ, PicketLink, Java Persistence API (JPA), iBatis 2.2, XDoclet, Velocity, Gradle, Ant 1.8, JAXB, Castor, Axis, Jersey MongoDB, MarkLogic, XQuery
+Document Object Model (DOM), Java Architecture for XML Binding (JAXB), Xerces, XML Spy, XPath, XJC Binding Compiler, Xalan, Simple API for XML (SAX), Java API for XML Processing (JAXP)
+Spring Model-View-Controller (MVC), Enterprise Java Beans (EJB) 3.0, Struts 1.2, JavaServer Pages (JSP), Servlets, eXtensible Markup Language (XML), Java Message Service (JMS), Java Database Connectivity (JDBC), eXtensible Stylesheet Language (XSL)
+JBoss Enterprise Application Platform (JBoss EAP) 6.4, WebLogic 11g, Sun App Server 8.1, WebSphere, Tomcat
+Oracle 12c, PostgreSQL, DynamoDB, SQL Server, Sybase, Oracle Data Warehouse
+JIRA
+Experience working in Government cloud environment and Agile engineering environment
+Amazon Web Services (AWS) Certification (Developer, DevOps, or Architect)
+CompTIA Security+ Certification
+What We Can Offer You:
+Weve been named a Best Place to Work by the Washington Post.
+Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives.
+We offer competitive benefits and learning and development opportunities.
+We are mission-oriented and ever vigilant in aligning our solutions with the nations highest priorities.
+For over 55 years, the principles of CACIs unique, character-based culture have been the driving force behind our success.
+
+Job Location
+
+US-San Antonio-TX-SAN ANTONIO
+
+CACI employs a diverse range of talent to create an environment that fuels innovation and fosters continuous improvement and success. At CACI, you will have the opportunity to make an immediate impact by providing information solutions and services in support of national security missions and government transformation for Intelligence, Defense, and Federal Civilian customers. CACI is proud to provide dynamic careers for employees worldwide. CACI is an Equal Opportunity Employer - Females/Minorities/Protected Veterans/Individuals with Disabilities.

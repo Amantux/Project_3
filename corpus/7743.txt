@@ -1,0 +1,35 @@
+OM1 is a leading healthcare technology company focused on providing outcomes measurement and predictive analytics for value-based and personalized healthcare. Leveraging big clinical data, standardized outcomes measures, and artificial intelligence technology, OM1 delivers a scientifically robust and clinically meaningful approach to enable stakeholders across the healthcare ecosystem to improve clinical and financial outcomes with more precise information for better decision-making.
+
+We are seeking a Data Scientist to be part of the team which is responsible for developing and deploying the Artificial Intelligence solutions of OM1. We use Machine Learning, Natural Language Processing and Deep Learning. We strive to be innovative while ensuring that our solutions deliver tangible value to multiple stakeholders. We strive to provide solutions that predict and enable improvement of patient outcomes and lives in multiple medical conditions. We work closely with our in-house Medical Doctors to ensure that we solve important problems. With Clinical Informaticists and Biostatisticians to ensure medical rigor in our solutions. With Software Engineers to ensure that our deployments meet rigorous quality, speed and patient privacy standards. We interact directly with OM1’s customers to ensure that our final product is well understood and valued and addresses real needs in an impactful way.
+
+In your role you will:
+
+Use our standardized, linked data
+
+Define multiple AI problems with no limitations on sophistication of the algorithms that can be used to solve them, as long as our practical objectives are met
+
+Interact with Medical experts to ensure rigor of the approach that you have chosen
+
+Rigorously derive statistical performance metrics and be prepared to communicate them
+
+Derive corroborating evidence that will help the Medical expert see the value of the AI solutions from their viewpoint
+
+Work within the Data Science code base architecture to render your solutions production ready
+
+Develop solutions that read large volumes of data and produce insights in real time.
+
+Requirements
+
+Experience with Machine Learning, Natural Language Processing, Deep Learning
+
+Hands-on experience coding in Python or other advanced programming languages.
+
+Experience working with large datasets using SQL
+
+Experience with Unix.
+
+Bachelor's Degree required. Masters preferred.
+
+At least 2 years' experience working with large datasets
+
+Background in Machine Learning and strong interest in further developing expertise.

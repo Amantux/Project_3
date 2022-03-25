@@ -1,0 +1,29 @@
+Network Engineer (Data Capture)
+ID: 1182138
+Job Location: Chicago
+Department: Technology
+Targeted Start Date: Immediate
+Type: Regular
+DRW is a technology-driven, diversified principal trading firm. We trade our own capital at our own risk, across a broad range of asset classes, instruments and strategies, in financial markets around the world. As the markets have evolved over the past 25 years, so has DRW - maximizing opportunities to include real estate, cryptoassets and venture capital. With over 1,000 employees at our Chicago headquarters and offices around the world, we work together to solve complex problems, challenge consensus and deliver meaningful results. It's a place of high expectations, deep curiosity and thoughtful collaboration.
+
+Do you love working on and supporting network capture devices? Is diving to the gory bits of packets your thing? Are names like Corvil, Endace, and Net Scout music to your ears? Have you ever thought you could build your own? If so, DRW may be the home for you!
+
+As a Network/Linux Capture Engineer, you will be responsible for supporting our firm-wide, business-critical network capture solution. Alongside your colleagues, you will monitor the health and utilization of the environment to detect and prevent problems, and ensure reliable data capture. Help us maintain and improve this vital infrastructure component through rigorous testing in our lab environment.
+
+What you'll be working on:
+Managing and supporting our network capture production and testing environments
+Tuning Linux subsystems, with a focus on I/O and reliability
+Time synchronization technologies
+Packet capture debug and analysis
+Evaluating and recommending new capture hardware and software solutions
+Working with configuration management tools, ideally Ansible or Puppet
+You will be right at home if you have:
+Ethernet tapping experience
+Understanding of OSI model Layer 1
+Extensive Linux support and engineering experience in a high availability corporate environment
+Scripting and automation experience with one or more of the following: bash, Python, Ruby
+Solid understanding of the Linux networking stack
+Experience configuring network devices
+For more information about DRW's processing activities and our use of job applicants' data, please view our Privacy Notice at https://drw.com/privacy-notice.
+
+California residents, please review the California Privacy Notice for information about certain legal rights at https://drw.com/california-privacy-notice.

@@ -1,0 +1,32 @@
+Job Description
+Sr. Microsoft Database Engineer
+12+months with possible extension
+Location: Jacksonville-Fl
+
+• The SDE is expected to develop best practices for the engineers and standards for code and for table design.
+• The SDE is expected to own and promote these standards and practices.
+• The SDE is aware of the big picture for the data across multiple systems and platforms and shapes the overall implementation of the code and processes
+• Create, modify, and support all SQL Server physical database models.
+• Some level of database administration experience is needed but not primary function of job.
+• Write complex T-SQL to support the functionality of the system being designed/supported.
+• Lead code and design reviews
+• Create, modify, and support SQL Agent Jobs as necessary.
+• Work closely with the business and technology teams to ensure the database is meeting the needs
+• Work closely with the database administrators to forecast storage, disaster recovery, and archiving needs.
+• Support production with diagnosing, troubleshooting, performance tuning, and resolving issues.
+• Participate in a regular on-call rotation
+• Create standards and best practices for database design and development
+• Research and evaluate third-party tools to increase efficiency
+• Act as a mentor for other team members
+• Take ownership and prove to be a subject matter expert in one or more business areas.
+• Participate in the R&D phase of the SDLC to provide high-level estimates of effort and scope for new projects.
+• Bachelor’s degree in Computer Science or equivalent plus 5+ years of related work experience
+• 5+ years of experience in developing and supporting Microsoft SQL Server databases
+• Understanding of database design/architecture in a Microsoft SQL Server environment
+• MCDBA and/or MCITP: Database Administration certifications
+
+Thanks and Regards,
+Ali Khan
+APN Software Services, Inc.
+39899 Balentine Drive, Suite 385, Newark, CA 94560
+Direct: 510.402.4704 | Fax: 510.623.5055 | ali@apninc.com

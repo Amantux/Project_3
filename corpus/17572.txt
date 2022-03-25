@@ -1,0 +1,39 @@
+Data Engineer
+Type - C2C / C2H / W2 / FT
+Duration – 12-18 Months
+Location – NYC, NY (it could be remote. Post that, location is NYC)
+Only GC or USC
+We are looking for a self-motivated Data Engineer to join our data platform team. The candidate will be responsible for expanding and optimizing our data platform and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. The ideal candidate is an experienced data pipeline builder who enjoys optimizing data systems and building them from the ground up. The Data Engineer will support our software developers, database architects, data analysts and data scientists on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects. They must be self-directed and comfortable supporting the data needs of multiple teams, systems and products. The right candidate will be excited by the prospect of optimizing and/or re-designing our data architecture to support next generation of products and data initiatives.
+
+Responsibilities:
+
+• Gather requirement from Product Owner team; groom the userstories for the requirements and plan the stories for each sprints for project delivery.
+• Design the database objects and develop procedures, functions, packages with scalability and high performance
+• Extensively work in collections and table type objects with multiple level nested tables
+• Work with stakeholders including Managemet team, Product Owners and Architecture teams to assist with data-related technical issues and support thier data infrastructure needs.
+• Identify, design and implement internal process improvements: automating manual process and optimizing data delivery.
+• Maintain the source codes using version control tools like github and work with DevOps team for seamless deployment of database objects to various environments.
+• Prepare Conceptual, Logical and Physical data models for the Databases using tools like Erwin Data Modeler.
+
+Technologies and Tools:
+
+Oracle 11g/12c, Toad for Oracle, Linux, Putty, GitHub, Rally,
+Nice to have: Informatica, Python, Aurora, and Hive
+
+Qualifications:
+
+Experience building and optimizing Oracle databse objects like Packages, Procedures, Functions and SQL queries.
+Advanced hands-on SQL knowledge and experience working with relational databases for data querying and retrieval.
+Experince in performance tuning of DB using Collections and Bulk operations.
+Experience in Agile Methodology practice for continuous delivery of the project increments.
+
+Nice to have:
+Experience with big data frameworks/tools: Hadoop, AWS, Kafka, Spark, etc.
+Experience with relational SQL and NoSQL databases, including Oracle, Hive, HBase.
+Experience performing root cause analysis on data and processes to answer specific business questions and identify opportunities for improvement.
+Experience with data security.
+Experience with Java and/or Python
+Working with product owners to review the requirement, analyze the business logic, and translate that to the details tasks of the particular user stories in Rally;
+Participate daily scrum meetings to collaborate with other scrum team members;
+Working closely with team members to implement the requirement captured in the Rally user stories;
+Deliver the commitment made to the program increment (PI).

@@ -1,0 +1,64 @@
+Job Description
+Company Mission and Highlights:
+
+mPulse Mobile, the leader in mobile health engagement, drives improved health outcomes and business efficiencies by engaging individuals with tailored and meaningful dialogue. mPulse Mobile combines technology, analytics and industry expertise that helps healthcare organizations activate their consumers to adopt healthy behaviors. With 9 years, 60+ healthcare customers, and more than a hundred million messages sent annually, mPulse Mobile has the data, the experience and the technology to drive healthy behavior change.
+
+Our Core Values:
+Model Integrity and Collaboration
+Drive Innovation and Thought Leadership
+Support Decision Making at All Levels
+Create Value for Clients by Empowering Consumers
+Improve Customer Experience Through Simple Design
+Celebrate Success… Often
+Purpose of the Role:
+
+The mission of the Data Science and Analytics (DSA) team at mPulse is to uncover insights from data in order to help drive better patient engagement and health outcomes. We are looking at everything from tactical optimizations to broad level strategic direction that is grounded in data evidence and heavy analytical rigor.
+
+This requires a multidisciplinary blend of data science, behavioral science, and business strategy, all applied in tandem to discover key insights that lie hidden in our data sets. The Data Engineer will help build a research-based and data-driven approach to optimize mobile customer engagement. This role will focus on deep diving into a broad variety of exploratory initiatives to improve segmentation, tailoring and personalization of mobile engagement.
+
+Duties and Responsibilities:
+Working with the data science and data analytics team to refine and develop data science and analytics (DSA) product roadmap
+Support Redshift cluster management including monitoring, performance tuning, and optimization
+Responsible for data loads and data extracts via Airflow DAG and python code.
+Engaging in exploratory A/B studies to extract data features and determine the relative value of multiple data types
+Building rich and interactive data visualizations to display findings from A/B studies, to guide and inform exploratory data analysis, and to deepen customer engagement
+Understanding and applying data mining techniques, including NLP, clustering algorithms and regression analysis to generate deep insight and discover effective solutions to challenging problems
+Skills, Abilities, and Experience:
+2-5 years of experience in a corporate, start-up, or research environment
+2-5 years of experience mentoring data analysts (corporate) or graduate students (academia)
+2-5 years of experience in Airflow DAG creation, debugging and maintenance
+2-5 years of experience in PostgreSQL and Elasticsearch
+Strong background and solid skills in interactive data visualization (Tableau, Django, Shiny, D3.js)
+Experience in research methods, exploratory data analysis, and machine learning
+Intense intellectual curiosity – strong desire to always be learning
+Analytical, creative, and innovative approach to solving difficult problems
+Minimum Qualifications:
+4 year BS/ BA Degree in Computer Science, Computer Engineering or other related field
+2 years of direct experience as a data engineer or working directing in data engineering / data science.
+1-2 years of experience with Python (Pandas, NumPy, sciKit-learn), SQL and R
+*Please note, due to the requirements of this position, responses may automatically disqualify you from moving forward in the application process. Please review minimum qualifications thoroughly before applying.
+
+Behavioral Competencies:
+Customer Focused
+Attention to Detail
+Independent Self-Starter
+Highly Organized
+Critical Thinker
+Problem Solver
+Excellent Communicator
+Ability to Prioritize
+Team Work & Collaboration
+Multi-Tasker with Strong Sense of Urgency
+The Perks:
+Enjoy Flexible PTO and flexible work hours
+Full Vision, Dental and Healthcare - all individual premiums paid by mPulse!
+401K Program with a 4% match
+3 Weeks Paid Maternity/Paternity Leave
+Weekly team lunches to celebrate victories
+Paid Parking as well as Car Pooling incentives
+Laptop fitness stations
+Ping pong conference table and Foosball
+Free snacks and drinks
+Powered by JazzHR
+
+XkixHHJBSj

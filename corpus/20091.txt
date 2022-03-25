@@ -1,0 +1,35 @@
+Job Description Quantitative Data Analyst/Developer - Delta One eTT
+Who we are:
+We are a fast-paced high-energy small global team that continually leverages a unique mix of quantitative and technology skills to create disruptive electronic trading products to drive business revenues, while efficiently managing operational risk, and ensuring high control standards. Our three core areas are (1) Electronic & Systematic Risk Trading (2) Quantitative Pricing (3) Data.
+
+Electronic & Systematic Risk Trading:
+We built the ETF Nitro platform, one of the largest off-exchange cross -product, dynamic auto-hedging and automated risk-trading platforms for ETFs on the street. The platform prices block liquidity, and hedges orders in fractions of a second by tapping into various sources of liquidity. We aim to build, fine-tune, and improve technologies and quantitative strategies to effectively systematically trade risk across different product types.
+
+Quantitative Pricing:
+We developed a quantitative pricing platform which systematically prices hundreds of ETFs covering over 20K stocks, 80 currencies and across over 100 exchanges.
+
+Data:
+Data sourcing, managing, and analytics are a huge part of what we do. We use different sources of data, in addition to our synthetically derived prices, in doing quantitative analytics with the aim of improving our trading and pricing platform. Data ware-housing, enrichment, consolidation, structuring, and normalization for millions of data points across thousands of ETFs and Indexes are part of our day-to-day function.
+
+Job Details:
+You will contribute to developing innovative electronic trading quantitative analytics, technologies and products. As our team is small and very entrepreneurial, we are very results driven and believe every member from the most junior to the most senior brings a unique value and is pivotal to the team's success.
+
+We are looking for someone who is not afraid to challenge the status quo and is open to being challenged with thinking creatively and finding solutions to questions that sometimes have never been asked.
+
+We are looking for someone having the following skills.
+
+" Strong C# .NET Skills
+" Good knowledge of Unix, Linux
+" Strong programming skills in C# with experience developing highly performant multithreaded applications.
+" Good Database skills
+" Comfort with basic Math and Statistics
+" Experience with Equity and Futures execution venue and some exposure to Market Microstructure
+" Some knowledge of Low latency Market Data
+" Knowledge of Index & ETF composition data
+" Some understanding of Futures, ETFs, Swaps
+" Some understanding of Liquidity Transformation
+" Theoretical Pricing
+" Algorithmic Trading and Hedging Strategies
+" Basic knowledge of Financial Modeling and Forecasting
+" Working knowledge of Machine Learning algorithms is a nice-to-have
+" Working knowledge of Quantitative Back-testing with Matlab, R, or python is useful

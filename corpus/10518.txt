@@ -1,0 +1,51 @@
+Lucidworks is shaping the future of digital experiences, AI, and machine learning by reimagining the power and value of search to create all-new, human-centered experiences. We’re a Leader in Gartner’s 2018 Magic Quadrant for Insight Engines, and we are obsessed with helping the world’s best enterprises deliver breakthrough experiences that transform business and increase user engagement. Our ambitious, empowered team is focused on helping our customers meet their loftiest goals. Fusion, our advanced development platform, gives these enterprises the capabilities to design, develop, and deploy intelligent search at any scale.
+
+Our roots are in Solr, the global search standard used by 90 percent of Fortune 500 companies, and our team includes leading search and discovery contributors and committers as well as many of the world's foremost search and machine learning innovators. We’re serious about the impact of our products to catalyze results for our customers, and about building a team that delivers meaningful results across a growing worldwide community.
+
+The Role
+
+As a Data Scientist you will be =responsible for research, design, experiment and prototype end to end solutions for search-related analytical problems, collaborate with consultants and customers to learn user needs, gather data and validate preliminary results, explore new machine learning/AI technologies, bring in industry best practice and applicable ideas from academia into product, collaborate with engineering team putting algorithms into production. Research area examples includes deep learning, recommendation system, text mining, voice and image analysis, A/B testing, relevance tuning/assessment, data quality, time series and anomaly detection.
+
+Duties and Responsibilities
+
+Analyze large scale data using machine learning algorithms, NLP, parallel computing environments such as Spark and Deep learning packages such as Keras, Tensorflow and Pytorch.
+
+Keep abreast of the latest developments in the field by continuous learning and proactively champion promising new methods relevant to the problems at hand.
+
+Explore and compare methods and packages in the NLP, speech and computer vision field.
+
+Collaborate with customers to help them solve challenging problems and prototyping new ML methods using customer data.
+
+Required Experience and Skills
+
+Candidates must also have an understanding of common machine learning algorithms, knowing when to and not to use which algorithm on which type of problem, pros and cons of each algorithm, impacts of different parameter settings.
+
+Experience with at least two of the computing languages including Python, Spark, Java, Scala, Lucene, Solr.
+
+Hands on experience with Keras, Tensorflow or Pytorch.
+
+Have strong background in NLP field.
+
+Working on a Computer Science, Statistics or Mathematics degree (or related field or have demonstrable programming skills).
+
+Be able to code an algorithm from scratch based on paper or ideas.
+
+Data engineering knowledge is a strong plus: e.g. familiarity with Kubernetes, Docker, Javascript, Angular, CSS, NodeJS, RDBMS, JDBC.
+
+Strong written and verbal communication skill.
+
+The drive to work independently and cultivate change
+
+Hands-on collection, creation, editing, tagging, and curating knowledge assets
+
+Past experiences with recommender systems is highly valued.
+
+Resourcefulness – willing to jump in, work with both opportunity and constraint, and leverage existing resources to accomplish goals
+
+Team player - confident collaborating with a diverse community of people and personalities across geographies, backgrounds, and professional abilities
+
+Strong interpersonal, written, and communication skills
+
+Empathy and care for all stakeholders of Lucidworks, including employees, executives, partners, and guest
+
+Lucidworks believes in the power of diversity and inclusion to help us do our best work. We are an Equal Opportunity employer and welcome talent across all aspects of background, orientation, origin, identity, status, and category in an inclusive and non-discriminatory way. Applicants receive consideration without bias and based on the relevant talents, skills, and experiences they offer to our company. Thank you for your interest and we look forward to learning more about you.

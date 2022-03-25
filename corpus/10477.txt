@@ -1,0 +1,63 @@
+Do you want to be part of Microsoft's journey in making Azure hugely successful?
+
+Do you want to build the next generation of cloud services that can manage and operate itself by predicting, detecting, and mitigate outages automatically?
+
+Do you want to build Artificial Intelligence/Machine Learning solutions to solve real-world technical and business problems?
+
+Do you enjoy working with planetary scale data?
+
+If these challenges excite you, this is the opportunity for you!
+
+Azure Production Infrastructure Engineering (PIE) team is hiring a data scientist to help us create an intelligent cloud system that learns from all the Azure operational data and makes Azure operation fully automated with minimal human effort to achieve the highest level of reliability and efficiency.
+
+Azure PIE team is responsible for providing all the foundational systems and tools to build, operate, and support entire Azure and many Microsoft Cloud Services. These systems and tools include engineering CI/CD pipeline, deployment tool, incident management, change management, monitoring, automation framework, data analytics, and etc. Many of these products serve both internal Microsoft engineers and external Azure users. As Azure continues to grow rapidly in scale, capabilities, and complexity, we are investing heavily in AI/ML space to revolutionize how we manage and operate Azure by building intelligence into every part of our service infrastructure. For example, from all the monitors and incident data, how can our system automatically predict a customer impacting outage and prevent it from happening? When outage happens, how to automatically identify the root cause, correlate different services' impact and apply mitigation to minimize the customer impact?
+
+As a data scientist in the Azure PIE team, you will have vast amount of data to analyze and work with. Working with a variety of Azure service teams closely, you will combine their domain knowledge with the data and generate insights to help improve Azure reliability, engineering efficiency, and supportability. Based on the learnings, you will also create algorithms and machine learning models that can make high confidence decisions and recommendations quickly based on data from multiple sources. Once these models are validated and proven, you will work with our engineering teams to integrate them into production systems and build a scalable pipeline to continuously train and improve. This is a very strategic role in the Azure PIE organization for our AI/ML investment and has great potential business impact and career growth opportunity.
+
+Responsibilities
+
+Your responsibilities include but not limited to:
+
+Data analytics and insight generation
+
+AI/ML Model creation and experimentation
+
+Feature engineering and data engineering
+
+Domain knowledge understanding
+
+Integrating ML capabilities into production system at scale
+
+Collaborate with Microsoft Researchers on strategic projects
+
+Author technical papers and presentations, and publish them internally and externally
+
+Qualifications
+
+B.S. in an STEM major is required and M.S. is preferred
+
+3 or more years of industry experience in analytics, data science, or operations research
+
+Outstanding ability in programming and implementing algorithms
+
+Outstanding ability in data cleansing, wrangling, visualization, and exploratory data analysis
+
+Outstanding expertise in statistical analysis, data mining, and machine learning
+
+Demonstrated ability in problem solving with data and scientific methods
+
+Demonstrated analytical ability, problem deconstruction, statistical competency, and scientific rigor
+
+Demonstrated ability to effectively engage, collaborate, and collaborate with stakeholders, including effective prioritization, clear communication, and delivery of actionable data-derived insights
+
+The most successful candidates will possess the ability to learn as well as design new techniques from textbooks or research papers and apply them to the business problem at hand
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+
+#PIEJobs
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+
+#Azure #Cloud

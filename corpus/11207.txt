@@ -1,0 +1,39 @@
+Description:
+
+Inscripta is developing the world's first scalable platform for benchtop Digital Genome Engineering. The company’s advanced CRISPR-based platform, consisting of an instrument, reagents, and software, will offer a fully automated workflow that enables multiplexed, trackable editing of cells at an unprecedented scale. Inscripta’s goal is to empower scientists whose gene editing research is stifled by current technical and licensing limitations. By providing this unique platform and engaging in collaborative business practices, such as making its MAD7 CRISPR nuclease free for research purposes, the company enables scientists to realize a new era of biological discovery. Due to rapid growth Inscripta has an opening for an exceptional Data Scientist candidate to help develop applications using this platform. The position can be located in Boulder, CO or in Pleasanton, CA.
+
+Summary
+
+Genome engineering promises to revolutionize the way we do biology. We are looking for an experienced computational scientist to join us to help build our mammalian applications team. The ideal candidate has experience building tools for single cell ‘omics analysis and interpretation. This role involves both analysis of internal and customer data, as well as working with internal and external scientists to design experiments and develop new applications on our benchtop genome engineering platform. Experience with genome editing is a plus, but not a requirement. This role can either be an individual contributor role (Senior or Staff Scientist) or a management role (Associate Director).
+
+Responsibilities
+
+Develop novel approaches to analyzing data from large, genome editing screens employing a variety of phenotypes.
+
+Work with early adopters to define & complete early access and beta programs.
+
+Work with customers to develop novel applications on the Inscripta platform.
+
+Design experiments that allow us to rigorously test our platform and provide feedback to our product development team.
+
+Perform data analysis, interpretation and presentation.
+
+Attend conferences and present scientific results.
+
+Requirements:
+
+A PhD in biology, genomics, genetics, computational biology or a related field and an additional 5-10 years’ experience required.
+
+Extensive experience with informatic analysis, particularly single cell transcriptomic and genomic analysis required.
+
+Experience applying new technology to solve biological questions a plus.
+
+Molecular biology and NGS experience required.
+
+Experience with genome editing methods is a plus.
+
+Strong written and verbal communication skills needed.
+
+Expertise in probability & statistics, machine learning, high dimensional and high throughput data analysis and fundamentals of data science, including data manipulation, transformation, pattern recognition and visualization are a plus.
+
+Inscripta offers a competitive base salary, bonus plan, benefits package and stock options to all team members. Join us and work with a great team of people developing the world's first scalable platform for benchtop Digital Genome Engineering. Inscripta is headquartered in Boulder, CO with offices in Pleasanton and San Diego, CA. This position can be located in our Boulder or Pleasanton location, but if located in Pleasanton, regular travel to Boulder will be required.

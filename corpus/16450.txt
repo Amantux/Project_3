@@ -1,0 +1,39 @@
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.In this role, your primary responsibility will be to partner with key stakeholders and lead the development of an analytics program to support and enable the continued growth critical to Facebook's Data Center organization. You will be responsible for creating end to end analytics programs, from data sourcing to surfacing insights and driving action, for various aspects of Facebook's global data center operations. You will also help translate data and identify efficiency opportunities. You will be expected to use data to provide meaningful recommendations and actionable strategies to key stakeholders, and develop best practices, including streamlining of data sources and related programmatic initiatives.
+The ideal candidate will have a passion for working in white space and creating impact from the ground up in a fast-paced environment. Additionally, you will have a proven track record of thought leadership and impact in developing similar analytics and metrics-based programs. This position is part of the Infrastructure Data Center team and located in Menlo Park, CA.
+
+Responsibilities:
+
+Leverage data and business principles to create and drive large scale FB Data Center programs
+Define and develop the program for metrics creation, data collection, modeling, and reporting the operational performance of Facebooks data centers
+Work cross-functionally to define problem statements, collect data, build analytical models and make recommendations
+Be a self-starter, motivated by a passion for developing the best possible solutions to problems
+Identify and implement streamlined processes for data reporting and communication
+Use analytical models to identify insights that are used to drive key decisions across the organization
+Routinely communicate metrics, trends and other key indicators to leadership
+Provide leadership and mentorship to other members of the team
+Lead and support various ad hoc projects, as needed, in support of Facebooks Data Center strategy
+Build and maintain data driven optimization models, experiments, forecasting algorithms and capacity constraint models
+Leverage tools like R, Tableau, PHP, Python, Hadoop & SQL to drive efficient analytics
+Mininum Qualifications:
+
+Degree in an analytical field (e.g. Computer Science, Engineering, Mathematics, Statistics, Operations Research, Management Science)
+3+ years of experience in a role with data analysis and metrics development
+3+ years of hands-on experience analyzing and interpreting data, drawing conclusions, defining recommended actions, and reporting results across stakeholders
+3+ years of SQL development experience writing queries
+3+ years of hands-on project management experience
+3+ years of experience with data visualization tools
+3+ years of experience with packages such as R, Tableau, SPSS, SAS, STATA, etc.
+2+ years of experience with scripting in Python or PHP
+Experience leveraging data driven models to drive business decisions
+Experience using data access tools and building visualizations using large datasets and multiple data sources
+Experience thinking analytically
+Experience communicating data to all organizational levels
+Experienced with packages such as NumPy, SciPy, pandas, scikit-learn, dplyr, ggplot2
+Knowledge of statistics and optimization techniques
+Hands-on experience with medium to large datasets (i.e. data extraction, cleaning, analysis and presentation)
+Preferred Qualifications:
+
+Technical knowledge of data center operations
+Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.
+
+Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.

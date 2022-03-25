@@ -1,0 +1,35 @@
+At eBay, you will be part of a purpose driven community dedicated to creating a bold and versatile work environment. In eBay Payments, you will be an integral member of a growing organization that inspires passion, courage and inventiveness - creating the future of global commerce and making an important, positive impact on millions of eBay sellers and shoppers around the world. If you are looking for a special place to take your Payments career to the next level, we want to talk with you!
+
+Risk Management is at the core of Payments done well and we are hiring curious, driven, and courageous experts to transform our business unit to enable eBay's next generation Payments strategy. Our focus is to ensure the integrity of our marketplace for buyers and sellers who transact with us every single day. The scope of our charter includes Risk Management Strategy, Policy, Decision Sciences, and Policy Operations.
+
+We are looking for a highly talented and self-motivated data scientist to join our Decision Science team. Decision Science contains both data scientists and software engineers responsible for creating and implementing state of the art machine learning algorithms for fraud detection and risk assessment in support of Risk Management. The primary responsibility of this role is to assist in algorithm development inside of a high throughput, low latency, big data environment.
+
+Primary Job Responsibilities
+
+The data scientist will support the risk department, leveraging big data technologies to aggregate, transform, and perform meaningful feature engineering that includes structured transactional data, unstructured natural language data, and image-based data. You will perform feature engineering and statistical analysis across heterogeneous sources of structured/text/images, and build algorithmic solutions to reduce fraud, monitor our buyers and sellers, and intermediate payments to improve the overall eBay experience. As a member of the decision science team, you will research and develop new methodologies and techniques to improve the overall effectiveness of risk management. You will mine and analyze massive amount of unique internal and external data to gain deep business knowledge and insight on customer activity and usage behaviors and their relationships with fraud, credit risks, and other types of behaviors. You will act as the technical owner of projects that may require significant customization of existing analytic tools, techniques, processes or development of new ones. Perform statistical data analysis and understanding, ensure data quality, and develop tracking and reporting systems to determine the effectiveness of models, rules, and other risk initiatives and programs. Design and create systems to structure, aggregate, and turn petabytes of messy information into statistically significant features for modeling purposes. Problem sets are focused around fraud and risk management to include models to prevent fraudsters from listing and monetizing on the platform, thwarting registration attacks, and risk scoring our customers.
+
+Required Skills and Experience:
+Advanced degree in Computer Science or quantitative field, MS/PHD preferred
+Entry to mid-level role.
+Experience in SQL, relational databases
+Experience with Big Data technology: Hadoop framework: Hive, Spark, CUDA, etc. a plus.
+Expertise in machine learning packages Python, R
+Strong knowledge of 1 or more scripting and programming languages (Python, Java, Scala, etc.)
+Proven background and applied knowledge of Natural Language Processing (NLP), Computer Vision and low-level vision. Modern Frameworks such as Google BERT, OpenNLP.
+Strong Background in Image Feature Engineering
+Background in a variety of modeling techniques: LSTM, Convolutional Neural Network, Deep Neural Networks, Statistical NLP, Gradient Boosted Trees.
+Strong analytical skills with good problem-solving ability
+
+This website uses cookies to enhance your experience. By continuing to browse the site, you agree to our use of cookies
+
+View our privacy policy
+
+View our accessibility info
+
+eBay Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at talent@ebay.com. We will make every effort to respond to your request for disability assistance as soon as possible.
+
+For more information see:
+
+EEO is the Law Poster
+
+EEO is the Law Poster Supplement

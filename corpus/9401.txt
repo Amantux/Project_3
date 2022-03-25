@@ -1,0 +1,35 @@
+WeWork is the platform for creators, providing hundreds of thousands of members across the globe space, community, and services that enable them to do what they love and craft their life's work. Our mission is to build a world where people work to make a life, not just a living, and our own team members are central to that goal.
+
+WeWork has accumulated a vast amount of business data, together with external data sources, we are tackling a wide range of interesting and business-critical problems:
+
+Forecast demand for workspace in short and long term horizons; provide data-driven guidance for WeWork’s expansion around the world.
+
+Develop innovative pricing strategies for WeWork spaces and services.
+
+Build customer models to drive sales, reduce churn, improve member happiness and company bottom line.
+
+Responsibilities
+
+You will lead or participate in the whole life cycle of the analyses, modeling and data solutions:
+
+Understand WeWork’s core products and offerings, identify critical data problems, design and implement data-driven approaches for quantitative analyses and solutions.
+
+Understand WeWork’s proprietary data and external data sources, gather data and automate data pipelines.
+
+Develop algorithms and build models to solve business problems. Develop metrics and dashboards to measure and track the value of the solutions.
+
+Interpret the findings from the analyses and identify WeWork growth opportunities.
+
+You will work closely with data engineers, business analysts, and operations. WeWork is a place people help each other.
+
+Requirements
+
+M.S./Ph.D. in Statistics, Computer Science, Mathematics, Economics, or other related quantitative fields.
+
+Strong data intuition, deep knowledge in data modeling, statistical inference, machine learning, and other quantitative approaches; causal analysis is a plus.
+
+Experience with manipulating large scale datasets and operating on cloud data platforms. Proficiency in Python, R, or other programming languages. Familiarity with SQL and ETL scripts.
+
+Strong communication skills, both written and verbal.
+
+Practical experience in building and shipping data solutions in the real world is a plus.

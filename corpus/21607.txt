@@ -1,0 +1,31 @@
+Job Summary
+
+The Marketing Technology team works alongside the Labels (2K, Private Division, Rockstar Games, Social Point) Marketing, Community and PR teams, managing and supporting the underlying technology stack used for Paid, Owned and Earned Marketing activity.
+
+The primary purpose of the role is to enable and further empower these teams to do what they do best – produce outstanding content. This means helping streamline their processes, alleviate bottlenecks and provide data for meaningful metrics, leveraging technology. ­­
+
+Working as part of the MarTech team the Marketing Technology Data Analyst (MTDA) must have a broad range of skills. The responsibilities include the ability to work with data engineers to develop robust end to end data pipelines of disparate data into consistent usable data. This role also requires the ability to manage emergent requests to a timely resolution.
+
+The role requires a fast-paced and agile approach, with a strong focus on delivery and enabling change within a creative and rapidly changing environment. It’s demanding, but incredibly rewarding as you can directly see the results of your efforts reflected in the teams you’re working with, whilst working with leading edge technology and Marketing strategies.
+
+Essential Functions
+Maintain stable, scalable data pipelines that cleanse, structure and integrate disparate big data sets into a readable and accessible format for end user analyses and targeting using stream and batch processing architectures.
+Collaborate with Data Engineers to incorporate new data sources with end to end ETL.
+Maintain and update documentation for data pipelines including enterprise wide data dictionary.
+Respond to alerts as needed to Define and implement monitoring and alerting policies for data solutions.
+Work with internal clients to maintain business readiness through the resolution of emergent issues.
+Desired Skills and Experience
+Experience with large data sets and distributed computing (Hive/Hadoop)
+2+ years of experience with detailed knowledge of data warehouse technical architectures, infrastructure components, ETL/ ELT and reporting/analytic tools.
+1+ years of hands-on experience working with AWS technologies stack including Redshift, RDS, S3, EMR, Treasure Data, Snowflake or similar solutions build around Hive/Spark etc.
+2+ years of hands-on experience in using advanced SQL queries (analytical functions), experience in writing and optimizing highly efficient SQL queries.
+Proven track record of delivering big data solutions – batch and real-time.
+Comfort in working with business customers to gather requirements and gain a deep understanding of varied datasets.
+Experienced in testing and monitoring data for anomalies and rectifying them.
+Knowledge of software coding practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes, testing, and operations.
+Technologies you will work with
+Presto SQL
+Hive SQL
+Digdag
+Embulk
+Python

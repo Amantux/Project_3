@@ -1,0 +1,35 @@
+Metabolon is building the data sources and analytical tools that will help humanity understand life. Our metabolomics platform measures over 1000 biologically important molecules. This gives us an unprecedented measure of the biological state of cells, organisms, and patients. By itself, this is a valuable tool for precision medicine. When combined with other -omics data, it is the Rosetta Stone that will help us understand gene function.
+
+We are looking for a data scientist with a passion for modern machine learning approaches to extract insights from our growing collection of biological data and build production systems leveraging the resulting insights.
+
+Possible Projects Include:
+
+Metabolon’s coverage of the metabolite space is an order of magnitude greater than our nearest competitor. With this, we have assembled a large corpus of characteristics corresponding to the detection of individual metabolites. This role will leverage this curated data resource to improve the automation of metabolite detection.
+
+Metabolon’s instrument accuracy, reproducibility, and comparability are field leading. Nonetheless, current mass spectrometer analysis is limited to relative quantitation (ex. how abundant a substance is relative to something else). Our technical sophistication has allowed us to push the boundary of this limitation and approximate absolute quantitation (ex. the concentration of a substance in a mixture). This role will leverage our data to predict absolute concentrations (with corresponding confidence/distributional bounds). Coupled with our best in world metabolite coverage, this is a killer app.
+
+Metabolon’s historical data and continual integration with large cohort studies enable us to characterize phenotypes (ex. disease states) and their underlying metabolomic (and potential other -omics) sources to an unprecedented degree. This role will leverage their skills to extract meaningful structures (ex. an underlying structure which might consume a metabolic profile and output a “distance” to a disease state) in support of biological insights into fundamental questions of human health.
+
+Examples of Useful Experience:
+
+Excellent data scientists come from a wide variety of backgrounds. The list below is neither exhaustive nor completely required; if you can code and think your talents can help us, start a conversation even if not all the boxes below are checked.
+
+ML projects involving large, complex data sets
+
+Design and deployment of highly scalable ML architectures
+
+Custom performance monitors for models with autonomous improvement capabilities
+
+Conversant (can scale, design, and deploy) in Tensorflow, Pytorch, or equivalent
+
+Experience in advanced biological data analysis
+
+Experience integrating ML software with a professional software engineering team
+
+Metabolon offers a comprehensive benefits program including health, dental, disability and life insurance coverage, a 401(k) savings plan, and paid time off.
+
+Metabolon is an Equal Employment/Affirmative Action employer m/f/d/v EO 13201.
+
+Principals only, no agencies. We are not able to sponsor H1B candidates
+
+Metabolon offers a comprehensive benefits program including health, dental, disability and life insurance coverage, a 401(k) with matching savings plan, and paid time off.

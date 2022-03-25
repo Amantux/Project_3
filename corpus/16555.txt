@@ -1,0 +1,33 @@
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.In this role, your primary responsibility will be to partner with key stakeholders and lead strategic and quantitative analysis to support and enable the continued growth critical to Facebooks Data Center organization. As we plan to grow our Data Center organization, we need to leverage data to drive decisions and introduce automation, predictability & optimization to allow us to operate efficiently and reliably at scale. Our data scientist team identifies business problems and solves them by using various numerical techniques, algorithms, and models in Statistical Modeling, Machine Learning, Operations Research, and Data Mining. You will have the opportunity to work on a broad spectrum of areas such as hardware or Equipment Failure Prediction, Operational Tools Automation, Demand Forecasting, Alert Optimization, Supply Chain Optimization, Inventory & Capacity Planning, Process Design & Optimization, and Financial Modeling. This is a full-time role based in Fremont, CA.
+
+Responsibilities:
+
+Architect and build pragmatic, scalable, and statistically rigorous solutions for data center infrastructure problems by leveraging or developing state-of-the-art statistical and machine learning methodologies on top of Facebook's unparalleled data infrastructure.
+Partner with internal stakeholders on projects to identify and articulate opportunities, see beyond the data to identify solutions that will raise the bar for decision making.
+Collaborate with cross-functional data and product teams across business applications to access and manipulate data, explain data gathering requirements, make recommendations, display results, and build efficient and scalable analytics solutions.
+Analysis of operational data and user behavior to improve overall business performance.
+Define, compute, track, and continuously validate business metrics with descriptive and predictive analytics.
+Architect, build and maintain data driven machine learning models, experiments, forecasting algorithms, and optimization models.
+Mentor others as needed on best practices for design and implementation of cutting-edge analytics solutions.
+Communicate final recommendations and drive decision making.
+Mininum Qualifications:
+
+MS in a quantitative field such as Computer Science, Quantitative Finance, Math, Statistics, Physics or a related Engineering degree.
+Experience with Machine Learning, Statistics, or other data analysis tools and techniques.
+Experience with statistics methods such as forecasting, time series, hypothesis testing, classification, clustering or regression analysis.
+Experience writing testable code and shipping code into production.
+Experience using version control tools such as git or mercurial.
+7+ years experience in building models and developing algorithms for machine learning, statistics, mathematical programming, and simulation in industry and/or academia.
+7+ years experience in managing and analyzing large-scale structured and unstructured data using R or Python.
+7+ years experience in SQL in big data environments (i.e. Hadoop) and data modeling.
+Experience with scientific computing and analysis packages such as NumPy, SciPy, Pandas, Scikit-learn, dplyr, or ggplot2.
+Experience with machine learning libraries and packages such as PyTorch, Caffe2, TensorFlow, Keras or Theano.
+Experience with data visualization libraries such as Matplotlib, Pyplot, ggplot2.
+Preferred Qualifications:
+
+PhD in Computer Science or relevant fields.
+Knowledge of deep learning research.
+Familiarity with object-oriented programming languages (such as C++ or Java) and visualization tools (such as Tableau).
+Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.
+
+Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.

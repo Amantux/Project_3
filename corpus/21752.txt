@@ -1,0 +1,17 @@
+What are they doing: Building a UI out that district managers can interact with and potentially store managers. They are moving the store data exchange from an old legacy system that is IBM and integrating with other systems. Data is currently coming from multiple places and they are working to consolidate it and have more effective data.
+
+Reason:Currently stores are opening/closing without a lot of notice due to COVID or might only have a drive thru open. This data exchange is going to benefit customers real time updates on store addresses, phone numbers, and open/closed status.
+
+SOFT SKILLS:
+Strong influencing skills
+Great communication
+Ability to work independently from the immediate team to be able to gather requirements
+Must be able to handle ambiguity. This is a moving piece with changes coming often
+Top 3:
+Experience with master data management systems: if they have built a new one bigger bonus
+Know their way around querying a database
+Dealing with Ambiguity-change directions quickly in this project
+Details about work: Define the new terminology and get everyone to agree on this. Pulling together data that has been around for 20 years. Has needs to be cleaned up. Open to non-local candidates. Have a preference towards local.
+Retail experience not required. Not necessary for this role. Easy data to get your head around. Common knowledge of design, doesn't have to be an expert.
+Need to ask questions of business partners on what they are doing with some of that data.
+60-90 day roadmap.ramping them up: sit down with all key players to understand it from everyone's angle. Walk them through the structure. PM is very organized running KanBan board showing everyone what their assignment is. Walk through it a few times a wek with the team. Keeps track of upcoming interviews in discovery mode. Visibility calendar of what is coming up and how it is assigned out. Structured platform

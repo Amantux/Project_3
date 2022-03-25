@@ -1,0 +1,30 @@
+Chime is the largest and fastest-growing player in the challenger-banking space, providing mobile and online banking technology in the U.S. on behalf of partner banks and facilitating over 10M accounts with no physical branches. We're a technology company relentlessly focused on helping our members achieve financial peace of mind. That's why we offer access to an award-winning bank account that doesn't charge a ton of traditional bank fees, can give members early access to their paychecks, and enables members to grow their savings automatically. And we're just getting started. We are proud of our mission, devoted to our members, and passionate about applying technology to the challenge of making financial health a reality for everyone.
+
+We have one of the most experienced management teams in Fintech and have raised over $800M in funding from DST, General Atlantic, Iconiq, Coatue, Dragoneer, Menlo, Access, Forerunner, and others. If you're looking to join a fast-growing company with a beloved, daily-use product and an authentic mission that puts people first, we want to meet you.
+
+About the Role
+
+As a Lead BI / Visualization Analyst, you will democratize data and drive data-obsessed decisioning for all employees by helping to lead and manage Chime's Looker instance. In this particular role, you will lead Looker administration - managing the governance that allows for responsible data democratization and decisioning with trainings, guidance, style guides, access controls and SQL / LookML code reviews.
+
+You will additionally assist the BI / Visualizations team in the creation and adoption of visualizations and also train the broader Chime organization how to create their own Looks and dashboards.
+
+Responsibilities
+Create governance, guidance, code reviews and access controls so that we maintain consistency, quality and business confidentiality as we scale dashboarding across our org.
+Foster a data driven culture with your passion for telling stories with data and your skill surfacing insights through analytics and visualizations.
+Influence change by not only creating insights through visualizations, but also presenting your recommendations to a variety of levels.
+Collaborate with business leaders and executives across Chime to align reporting and visualizations to business needs, with Data Engineers to optimize our data, and within Analytics to generate ideas and create consistency.
+Requirements
+5+ years of experience in business intelligence and visualizations, some of which has been in Looker specifically - you have managed the data backbone of the visualization hub (Looker, Tableau) used by a small-to-medium business.
+Expertise in visualizations both from a technical perspective (data and queries) and an "art of telling the story" perspective.
+Experience democratizing data and BI - upskilling organizations to make data insights self-serve.
+Passion for maintaining consistency and quality as visualizations are scaled broadly.
+Experience creating style guides, coding reviews, governance processes and access controls.
+Strong SQL skills - familiarity with window functions would be a good sign.
+Experience working across organizations with various levels and stakeholders to prioritize dashboarding needs and align reporting to business needs.
+What we offer
+Competitive salary based on experience, medical and dental benefits, as well as a 401k match
+Free snacks and drinks, plus weekly catered lunches.
+Flexible vacation policy.
+Monthly happy hours and company events.
+A challenging and fulfilling opportunity to join one of the most experienced teams in FinTech and help create a completely new kind of banking service.
+We know great work isn't done alone. We're building a team of individuals to Chime in with their different strengths to benefit our employees and members. We strongly believe that different backgrounds and ideas are a competitive advantage; we hire candidates of any race, color, ancestry, religion, sex, national origin, sexual orientation, gender identity, age, marital or family status, disability, Veteran status, and any other status. Chime is proud to be an Equal Opportunity Employer and will consider qualified applicants with criminal histories in a manner consistent with the San Francisco Fair Chance Ordinance. If you have a disability or special need that requires accommodation, please let us know. To learn more about how Chime collects and uses your personal information during the application process, please see the Chime Applicant Privacy Notice.

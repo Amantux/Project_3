@@ -1,0 +1,28 @@
+This is what you’ll do:
+You’ll take the adventure of a lifetime. Rivian is pushing the boundaries of what can be done in a vehicle; you’ll help us do that. You’ll work with a team of top-notch engineers and scientists to build in-vehicle tools tracking vehicle performance and reliability metrics. You’ll create a framework for monitoring and assessing vehicle health that has never been done.
+· Build ground-up models to predict vehicle wear and need for service based on vehicle diagnostic signals
+· Work closely with engineers to scale physics-based models from a vehicle prototype to entire Rivian fleet
+· Develop models describing vehicle and drive unit performance based on manufacturing assembly data
+· Create performance-based metrics and acceptability thresholds at the edge
+· Work with available in-vehicle signals to provide early detection of unique wear mechanisms
+· Create the foundation for a data driven, edge-based fault detection platform that will run on all Rivian vehicles
+This is what you’ll need:
+· Awesomeness
+· Passion for building an amazing product
+· Interest in working on a unique team with diverse technical backgrounds to create a ground-breaking vehicle application
+· MS/PhD in Computer Science, Mathematics, Physics, or related field
+· 3-5 years experience working with hardware systems, automotive preferred
+· Excellent Python and/or R programming skills
+· Strong experience with weakly supervised and unsupervised learning methodologies
+· Strong ability to work and communicate with many different teams of stakeholders
+· Ability to own all project data science needs, while collaborating with firmware and mechanical engineers working alongside you; ability to thrive in a close-knit cross-functional environment.
+· Experience with mechanical and/or audio systems preferred
+· Excellent communication skills, ability to explain complex concepts to non-data science teammates
+This is where you’ll work:
+Department: Reliability Diagnostics
+Location: Palo Alto, CA
+Rivian Description:
+Rivian is on a mission to keep the world adventurous forever. This goes for the emissions-free Electric Adventure Vehicles we build, and the curious, courageous souls we seek to attract.
+As a company, we constantly challenge what’s possible, never simply accepting what has always been done. We reframe old problems, seek new solutions and operate comfortably in areas that are unknown. Our backgrounds are diverse, but our team shares a love of the outdoors and a desire to protect it for future generations.
+We operate development centers in Plymouth, MI, Irvine CA and San Jose, CA, and Surrey, England, as well as a manufacturing facility in Normal, Illinois.
+Rivian is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: Rivian is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Rivian are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Rivian will not tolerate discrimination or harassment based on any of these characteristics. Rivian encourages applicants of all ages.

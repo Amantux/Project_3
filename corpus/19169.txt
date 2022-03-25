@@ -1,0 +1,33 @@
+Give hope. Give health. Make your mark in the fight against cancer.
+
+At Accuray, we make a direct and powerful impact on the lives of cancer patients every day — helping them live longer, better lives. But our commitment to innovation offers a truly unique opportunity: the chance to change the fight against cancer — helping to develop, introduce and support new treatment delivery systems and software that will give new hope and new health to cancer patients and cancer survivors around the world
+
+Accuray develops, manufactures and sells radiotherapy systems that make cancer treatments shorter, safer, personalized and more effective, ultimately enabling patients to live longer, better lives. Our radiation treatment delivery systems in combination with fully-integrated software solutions set the industry standard for precision and cover the full range of radiation therapy and radiosurgery procedures.
+
+Job Description
+
+Summary:
+
+The role will be part of a team to develop software using C++ in a Linux environment working on different software units/layers for the CyberKnife application. Projects may include smaller development tasks to larger UI/workflow updates using Qt trolltech. These will include design, development, implementation, and testing from input requirements. Collaborate with the team where your skillset and contribution are utilized towards a fun and exciting product line that helps cancer patients.
+
+Essential Duties and Responsibilities:
+This is a highly diverse role that will code in C++ for business logic/server-side and utilize Qt for UI design/client-side.
+Design and Develop software as part of a team responsible for the maintenance, support, and improvement of the CyberKnife Treatment Delivery System.
+Work with a cross-functional team and customers to understand requirements, and build a robust, effective system to meet them.
+Implement new features and infrastructure improvements in a Linux based C++ environment.
+Qualifications:
+
+a. Required
+B.S. in Computer Science or equivalent work experience
+Proven skills in C/C++ programming, OOP, STL, and Object-Oriented design
+Excellent written and verbal communication skills
+A passion to make a difference in the area of cancer therapy
+b. Preferred or Desired
+Experience with Qt trolltech, OpenGL, and 3D volumetric / rendering
+Client/server application development using C++ & multi-threading
+Experience with large data models, zmq, and google protobuf
+Understanding of rigid transformations, networking, and digital imaging
+Experience working in medical device software development
+EEO Statement
+
+At Accuray Our commitment to patient-first outcomes drives an inclusive and collaborative work environment where the best ideas rise to the top — and everyone works to push them further. We value diversity in both the professional and personal backgrounds of our employees, as this variety adds rich energy to every team, every project and every work day. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or national origin – including individuals with disabilities and veterans.

@@ -1,0 +1,35 @@
+Description:
+
+We take pride in the intelligence and integrity of our team and champions. NextRev team members experience a challenging and exciting work environment, a competitive salary & benefits package, and a training program that endorses professional growth. We seek experienced technology professionals with advanced knowledge, a can-do attitude, and commitment to mission success. We are committed to fostering a people-centric culture of respect, honesty, integrity, and hard work. We train like champions, are committed to our customers’ satisfaction, place high value on our team, and we put family and health first. Our dedication to putting our values into practice creates long-term benefits for customers, team members, and the communities we serve.
+
+ONLY THOSE WITH AN ACTIVE TS/SCI WITH FULL-SCOPE POLYGRAPH CAN BE CONSIDERED .
+
+Requirements:
+
+Data Engineering:
+
+Background in mathematics, computer science, engineering, or information management systems
+
+Professional experience performing data pipeline/ETL processing:
+
+Extracting data from existing sources (databases, flat files, application programming interfaces) · Transforming/Cleaning/Normalizing data to optimize for analysis
+
+Automating the loading/ingestion of data into consolidated repositories (data warehouses, data lakes, analytic sandboxes) · Strong knowledge of database design, query (SQL), and optimization
+
+Data Science:
+
+Demonstrated ability to engage with customers to understand and anticipate changing needs and requirements; anticipate substantive questions, and formulate qualitative and quantitative research designs to answer them.
+
+Considerable knowledge in research and analysis skills demonstrated by identifying and extracting relevant data; applying qualitative and quantitative methods to the analysis of data; highlighting key issues and relationships from a base of information; relating and comparing data from different sources; drawing conclusions supported by the data; and distilling analyses into formats appropriate for both technical and non-technical audiences.
+
+Demonstrated experience with managing and transforming structured and unstructured data
+
+Strong experience with Python and/or R core functionality as well as the applicable libraries/packages for data transformations, statistical analysis, visualization, and machine learning
+
+Desired but not Mandatory Skills
+
+Tableau
+
+Experience with Databricks / Apache Spark
+
+Next Rev Technologies is an Equal Opportunity employer that does not tolerate behavior, harassment, discrimination or prejudice based on race, color, religion, sex, national origin, age, or disability.

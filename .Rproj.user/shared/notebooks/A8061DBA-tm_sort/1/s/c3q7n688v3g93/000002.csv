@@ -1,0 +1,9 @@
+"0","library(RMariaDB)"
+"0","library(DBI)"
+"0","library(bcputility)"
+"0","library(tm)"
+"2","Warning:"
+"2"," package ‘tm’ was built under R version 4.1.3
+"
+"2","Loading required package: NLP
+"

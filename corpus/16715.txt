@@ -1,0 +1,34 @@
+Posted: May 21, 2020
+Role Number:
+200133136
+The Apple Media Products Engineering team is one of the most exciting examples of Apple’s long-held passion for combining art and technology. These are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And they do it on a substantial scale, meeting Apple’s high expectations with high performance to deliver a huge variety of entertainment in over 35 languages to more than 150 countries.
+
+These engineers build secure, end-to-end solutions. They develop the custom software used to process all the creative work, the tools that providers use to deliver that media, all the server-side systems, and the APIs for many Apple services.
+
+Thanks to Apple’s unique integration of hardware, software, and services, engineers here partner to get behind a single unified vision. That vision always includes a deep commitment to strengthening Apple’s privacy policy, one of Apple’s core values. Although services are a bigger part of Apple’s business than ever before, these teams remain small, forward-thinking, and multi-functional, offering greater exposure to the array of opportunities here.
+
+Are you passionate about analyzing data patterns for large scale search engines? As part of AMP, you will be a product specialist and analyze of a diverse portfolio of Apple Media Product human evaluations tasks. The team represents the user’s perspective as they vet new features being introduced to AMP. Your day-to-day responsibilities will include analyzing and creating innovative ideas to help improve AMP search and recommendations features, and reporting systematic issues to leadership, engineering, and product teams.
+Key Qualifications
+At least 5 years industry experience
+Deep understanding of the software development for machine-learned products and services, and how analytics and human evaluation data can help improve those products
+Self-sufficient in analyzing and drawing conclusions about the quality and product opportunity from raw and refined product data
+Good product sense, with the ability to translate between product goals, business goals and technical requirements for data analytics
+Self-motivated and proactive, with demonstrated creative and critical thinking capabilities
+Outstanding communication and presentation skills, written and verbal, to all levels of an organization
+Innate capability to, directly and indirectly, influence large teams for success
+Excellent applied statistics skills, such as hypothesis testing, experimental design, sample size determination and non-parametric statistics
+Experience with big data systems and distributed computing, such as Hadoop
+Experience with common data science toolkits, such as R, pandas, dplyr, NumPy, etc
+Experience with data visualization tools, such as GGplot, etc
+Proficiency in using query languages such as SQL, Hive and SparkSQL
+Experience with programming languages such as Scala, Spark or Python
+Description
+Lead the product vision and project execution for all data infrastructure, analytics, and offline evaluation for an AMP product line (App Store, Music, Books, etc.)
+Champion an industry-leading privacy-focused strategy for product measurement, human evaluation, and analytics.
+Own and evangelize best practices for product analysis, measurement, and instrumentation. Lead human evaluation design and management exercises.
+Evaluate and improve the quality of KPIs for key products by analyzing customer pain points. Empower others to understand and leverage data for decision making.
+Ensure the measurement of new features are designed and instrumented in every release cycle. Productize dashboards that help product teams to improve Search & Recommendations every day.
+Work with leadership to build a strategy that allows us to leverage our data to create automatic feedback loops that improve the AMP products.
+Keep teams focused on the right priorities to meet aggressive deadlines; clearly, communicate project progress to leads and executive team.
+Education & Experience
+Master’s Degree in Computer Science, Statistics, Applied Math or related discipline. PhD preferred.

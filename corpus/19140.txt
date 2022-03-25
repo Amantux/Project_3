@@ -1,0 +1,45 @@
+At CrowdStrike we’re on a mission - to stop breaches. Our groundbreaking technology, services delivery, and intelligence gathering together with our innovations in machine learning and behavioral-based detection, allow our customers to not only defend themselves, but do so in a future-proof manner. We’ve earned numerous honors and top rankings for our technology, organization and people – clearly confirming our industry leadership and our special culture driving it. We also offer flexible work arrangements to help our people manage their personal and professional lives in a way that works for them. So if you’re ready to work on unrivaled technology where your desire to be part of a collaborative team is met with a laser-focused mission to stop breaches and protect people globally, let’s talk.
+
+About the Team:
+
+The data engineering team is on a mission to create a hyper scale data lake, which helps finding bad actors and stop breaches. The team builds and operates systems to centralize all of the data the falcon platform collects, making it easy for internal and external customers to transform and access the data for analytics, machine learning, and threat hunting. As an engineer on the team you will contribute to the full spectrum of our systems, from foundational processing and data storage, through scalable pipelines, to frameworks, tools and applications that make that data available to other teams and systems.
+
+Job Responsibilities :
+Design, develop, and maintain a data platform that processes petabytes of data
+Participate in technical reviews of our products and help us develop new features and enhance stability
+Continually help us improve the efficiency of our services so that we can delight our customers
+Help us research and implement new ways for both internal stakeholders as well as customers to query their data efficiently and extract results in the format they desire
+Qualifications for Data Engineer :
+
+We are looking for a candidate with a BS and 5+ years or MS and 3+ years in Computer Science or related field. They should also have experience with the following software/tools -
+A solid understanding of algorithms, distributed systems design and the software development lifecycle
+Solid background in Java/Scala and a scripting language like Python
+Experience building large scale data pipelines
+Strong familiarity with the Apache Hadoop ecosystem including : Spark, Kafka, Hive, Apache Presto, etc.
+Experience with relational SQL and NoSQL databases, including Postgres/MySQL, Cassandra, DynamoDB
+Good test driven development discipline
+Reasonable proficiency with Linux administration tools
+Proven ability to work effectively with remote teams
+Experience with the following tools is desirable :
+Go
+Kubernetes
+Jenkins
+Parquet
+Protocol Buffers/GRPC
+#LI-JF1
+
+Benefits of Working at CrowdStrike:
+Market leader in compensation and equity awards
+Competitive vacation policy
+Comprehensive health benefits + 401k plan
+Paid parental leave, including adoption
+Flexible work environment
+Wellness programs
+Stocked fridges, coffee, soda, and lots of treats
+We are committed to building an inclusive culture of belonging that not only embraces the diversity of our people but also reflects the diversity of the communities in which we work and the customers we serve. We know that the happiest and highest performing teams include people with diverse perspectives and ways of solving problems so we strive to attract and retain talent from all backgrounds and create workplaces where everyone feels empowered to bring their full, authentic selves to work.
+CrowdStrike is an Equal Opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex including sexual orientation and gender identity, national origin, disability, protected veteran status, or any other characteristic protected by applicable federal, state, or local law.
+CrowdStrike participates in the E-Verify program.
+
+Notice of E-Verify Participation
+
+Right to Work

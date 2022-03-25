@@ -1,0 +1,29 @@
+Job Description
+Company Overview
+
+An American multinational company headquartered in Redwood City, California, that specializes in internet connection and data centers. The company leads in global colocation data center market share, with 200 data centers in 24 countries on five continents.
+
+Job Responsibilities:
+
+We are looking for a Senior Data Engineer with advanced knowledge of SQL and intermediate knowledge of Python. Nice to have (but not required) beginner or intermediate level java experience. Your primary focus will be the writing complex SQL queries, optimizing them and development of all server-side backend data processing logic, ensuring high performance using Python and SQL.
+Develop and maintain scalable ETL pipelines, build new pipelines and facilitate API integrations to support new requirements.
+Writing complex SQL queries to serve new requirements for ETL, data analysis and debugging.
+Writing SQL functions, procedures as required based on the requirements
+Finetune or optimize queries to support the increasing volume of data.
+Debug Python code, modify and enhance Python ETL applications based on the requirements on Linux environment.
+Writing reusable and efficient code in Python and SQL.
+Write unit, functional, regression tests for enhanced feature, maintain engineering documentation.
+Communicate closely with all product owners, Business and engineering teams to develop approaches for data platform architecture.
+Skills:
+Basics of Computer Science - OOPS, Data Structures and Algorithms.
+Basic understand of regular Linux commands and usage.
+5+ years of experience having hands on experience in writing, debugging and optimizing SQL queries, function and stored procedures.
+3+ years of experience with hands on experience in writing, debugging Python code on Linux.
+Experience writing python applications that interact with ORM (Object Relational Mapper) libraries.
+Knowledge of XML and JSON parsing with unit test and debugging skills.
+Willingness and ability to learn new tools/languages as needed.
+Process oriented with excellent oral and written communication skill with a desire for customer service.
+An excellent team player and communicator who can work effectively with cross functional teams and ability to navigate ambiguity.
+Powered by JazzHR
+
+N0WQZGog2K

@@ -1,0 +1,38 @@
+Company
+
+Kharon is a research and data analytics firm that examines critical issues at the intersection of global security and the economy. Enabled by a proprietary technology platform connecting customers with expert analysts, Kharon produces structured, qualitative research and analysis for financial institutions and multinational organizations.
+
+We are experts in assessing and analyzing markets impacted by regulatory risk, sanctioned actors, political upheaval, violent conflict, and corruption. Our approach to research and analysis utilizes open-source research methods, network analysis, and data analytics to generate insights into some of today's most complex policy, regulatory, and security issues.
+
+This position is located in Los Angeles, CA.
+
+About You
+
+The successful candidate will be intelligent, accomplished, and energetic as demonstrated by his or her academic and professional credentials. They will be passionate about telling stories through data. This position requires creative and proactive critical thinking skills, an insatiable appetite for current events, foreign affairs and international policy, and an ability to manage priorities in meeting deadlines.
+
+Individuals with additional experience in business intelligence research, conflict and illicit finance analysis, banking sector risk management and compliance, and other national security-related matters may wish to apply.
+
+Role & Responsibilities
+Work closely with expert researchers to mine large online datasets and design workflows to supercharge investigations.
+Communicate the potential business value of new datasets or insights from existing datasets.
+Perform exploratory analysis on large datasets to identify potential insights.
+Acquire, clean, standardize, transform, structure, and store data.
+Develop modules to extract data from documents and identify entities and relationships.
+Maintain data integrity and consistency across multiple databases and applications.
+Build dashboards and visualizations to convey status, changes, and analysis of data.
+Research and learn new frameworks, languages, and technologies as needed.
+Skills & Experience
+Web crawling and scraping (i.e. Scrapy, Selenium, BS4).
+SQL and NoSQL databases (i.e PostgreSQL, DynamoDB, Neo4J, MongoDB).
+Search frameworks (i.e. Elasticsearch).
+Extracting, cleaning, and structuring data from unstructured or semi-structured sources.
+Proficiency in Python.
+Familiarity with data visualization libraries (i.e. D3.js, Seaborn).
+Professional engineering habits, including commenting code and version control (Git).
+Demonstrated experience in self-directed, primary-source research.
+Qualifications
+1+ years professional and relevant experience.
+Bachelor’s degree in a related field, or equivalent self-study and demonstrated technical proficiency.
+Bonus
+Demonstrated knowledge of key international security and business issues through professional or academic experience.
+Proficiency in a foreign language, for example: Spanish, French, Portuguese, Arabic, Farsi, Russian, Ukrainian, Turkish, Chinese, Korean, Japanese.

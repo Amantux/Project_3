@@ -1,0 +1,67 @@
+Job Description
+
+Important Note: During the application process, ensure your contact information (email and phone number) is up to date and upload your current resume when submitting your application for consideration. To participate in some selection activities you will need to respond to an invitation. The invitation can be sent by both email and text message. In order to receive text message invitations, your profile must include a mobile phone number designated as Personal Cell or Cellular in the contact information of your application.
+
+At Wells Fargo, we want to satisfy our customers financial needs and help them succeed financially. Were looking for talented people who will put our customers at the center of everything we do. Join our diverse and inclusive team where youll feel valued and inspired to contribute your unique skills and experience.
+
+Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.
+
+Wells Fargo Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure footprint; provides information security; and enables continuous banking access through in-store, online, ATM, and other channels to Wells Fargos more than 70 million global customers
+
+The Chief Technology Office (CTO) is leading technology transformation in a multi-cloud technology ecosystem delivering products and innovative solutions at scale that are stable, secure, and always on. This includes Cloud and Agile implementation, engineering, architecture, and all the tools, products, and training that will enable team members to achieve our transformation.
+
+We are hiring a Site Reliability Engineer (SRE) to join the new enterprise Site Reliability Engineering (SRE) practice within CTO. We believe that "hope is not a strategy" and we solve operational issues through code. We are looking for an SRE who enjoys and thrives on solving complex problems through innovation impacting change at scale. You will join an elite team of 15 SREs driving technology's transformation by introducing enterprise capabilities and products, launching new platforms, building tools, automating away complex issues, and integrate with the latest technology.
+
+Key Responsibilities Include:
+Leverage experience as a software and systems engineer to ensure the applications onboarded to SRE are available, have full stack observability, are integrated with CI/CD and always on by introducing continuous improvement through code and automation, continuous testing, and provide operational insight through analytics.
+Instantiate Site Reliability Engineering practice at Wells Fargo to ignite the practice, principles, and culture through leading by example. Assist in training the organization by building the practice within CTO and partnering with the Lines of Business to establish embedded SRE teams, contribute to the Wells Fargo SRE Playbook, Engineering Academies, Tech Talks, and Demo's.
+Onboard 10 critical customer journeys and applications to SRE working within CTO and Lines of Business to assess the availability of critical business flows, identify service level objectives and indicators, instrument applications for observability, onboard to CI/CD pipeline taking advantage of continuous testing, introduce continuous improvement, and conduct destructive and resiliency testing to reach 99.995% availability for the firm's critical products/services leading to improved customer experience and customer satisfaction.
+Introduce enterprise capabilities, tools, and innovation to improve availability in a multi-cloud ecosystem by evolving observability, monitoring, logging, CI/CD integration, continuous testing (performance, smoke, regression, functional, chaos), continuous improvement, and standardization/automation of key SRE metrics and IT Service Operations processes.
+Evolve AIOps, ChatOps, NoOps, and introduce self healing and autonomic capabilities solving for complex operational and systemic issues with precision including building and training models, automating cognitive processes, leveraging Robotic Process Automation, Unified Communication, and AI/ML to improve availability of products to customers.
+Share support responsibilities for critical applications and customer journeys onboarded to SRE including remediation of issues through Agile, conduct blameless post mortems, root cause analysis and continuous improvement to solve problems with the goal of no repeats.
+Apply technical expertise with one or more of the following:
+Software Development: Java, JavaScript (React, Angular), Go, C/C++, Scala, R
+OS & Platform: AWS, Lamda, PCF, Kubernetes, OpenShift, Linux, Azure, Windows, VMware
+CI/CD & Automation: Jenkins, Gitlab, SonarQube, Artifactory, Ansible, Puppet, Apigee
+Observability/Monitoring: DataDog, Grafana, Prometheus, ELK (Elasticsearch, Logstash, Kibana), Kafka, CloudWatch, Jaeger, Zipkin, Kinesis, Apache Airflow, AppDynamics
+Apply experience in one or more of the following areas:
+AIOps: Moogsoft, BigPanda, UIpath, Robotic Processing, Artificial Intelligence (AI) and Machine Learning (ML) Frameworks
+Operations Tools: ServiceNow, PagerDuty, Microsoft Teams, Symphony/Slack, Remedy, IBM Netcool
+Data/Data Structures: Oracle, SQL, Mongo, Hadoop, Cloudera, Spark
+Testing: Gremlin, Chaos Monkey, Selenium, jmeter, Blazemeter, Performance Center, Perfecto, Gherkin, DevTest
+Capacity Management: Turbonomics, BMC Truesight
+Required locations listed on job posting. Relocation assistance is available for this position.
+
+Required Qualifications
+7+ years of application development and implementation experience
+5+ years of development experience with languages such as Python, Java, Scala, or R
+1+ year of build-deploy automation and configuration experience within the Linux and Unix environment
+Desired Qualifications
+Good verbal, written, and interpersonal communication skills
+3+ years of experience with Cloud technologies
+Incident Management System experience
+Configuration Management Tools experience
+Experience with Agile Scrum (Daily Standup, Sprint Planning and Sprint Retrospective meetings) and Kanban
+Excellent verbal, written, and interpersonal communication skills
+Other Desired Qualifications
+Experience with system administration across multiple platforms
+Experience with one or more CI/CD & Automation tools: Jenkins, Gitlab, SonarQube, Artifactory, Ansible, Puppet, Apigee
+Experience with one or more Observability/Monitoring tools: DataDog, Grafana, Prometheus, ELK (Elasticsearch, Logstash, Kibana), Kafka, CloudWatch, Jaeger, Zipkin, Kinesis, Apache Airflow, AppDynamics
+Knowledge of and/or experience with one or more of the following: AIOps (Moogsoft, BigPanda, UIpath), Robotic Processing, Automation, Artificial Intelligence (AI)/Machine Learning (ML) Frameworks, Data Structures, Testing Tools, Capacity Management
+Experience with software development languages such as JavaScript (React, Angular), Go and/or C/C++
+Job Expectations
+Willingness to work on-site at stated location on the job opening
+Ability to travel up to 15% of the time
+Street Address
+
+MN-Minneapolis: 255 2nd Ave S - Minneapolis, MN
+AZ-Chandler: 2600 S Price Rd - Chandler, AZ
+NY-New York: 100 Park Ave - New York, NY
+NC-Raleigh: 1100 Corporate Center Dr - Raleigh, NC
+
+Disclaimer
+
+All offers for employment with Wells Fargo are contingent upon the candidate having successfully completed a criminal background check. Wells Fargo will consider qualified candidates with criminal histories in a manner consistent with the requirements of applicable local, state and Federal law, including Section 19 of the Federal Deposit Insurance Act.
+
+Relevant military experience is considered for veterans and transitioning service men and women.
+Wells Fargo is an Affirmative Action and Equal Opportunity Employer, Minority/Female/Disabled/Veteran/Gender Identity/Sexual Orientation.

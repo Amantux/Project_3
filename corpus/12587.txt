@@ -1,0 +1,50 @@
+228384                                                                                Lead Data Scientist                                                                          Washington, DC                                                                          Contract                                                                          6+ Months                                                                          88.35                                                                          1                                                                                      Lead Data Scientist
+
+Pay Rate: $88.35/ HR
+
+
+JOB DESCRIPTION:
+The U.S. Citizenship and Immigration Services (USCIS), Office of Information Technology (OIT) is seeking to acquire highly qualified cross-functional Data Scientists and developers. The Transformation Data Science Services (TDSS) II team will be part of an ecosystem, participating with federal employees, and other contractors, in a team-based Development and Operations (DevOps) approach to deliver business value (the performance measurements, Key
+Performance Parameters (KPPs) are established in Operational Requirements Document (ORD)) frequently, costeffectively, responsively, and with high quality. The TDSS II teams shall provide Data Analytics Services within the DevOps framework; perform analysis of the USCIS
+Electronic Immigration System (USCIS ELIS) and related data for forecasting and system growth analysis. This
+analysis is intended to support data-driven decision-making, as well as development of automated dashboards and
+tools, which provide analytic insight to ELIS program.
+
+
+Responsibilities:
+Oversee a team of 11-16 Data Scientists, Data Analysts, Data Engineers, and DevOps Engineers who will: · Deliver
+code from creation, to running in the pipeline, to deployment and sustainment with zero downtime deployment
+(ZDD).
+· Utilize the ELIS roadmap to conduct an exploratory statistical analysis for each ELIS line of business.
+· Translate business requirements into technical requirements. · Provide estimation and planning support.
+· Apply an analytics-driven approach, including machine learning, to surface unusual patterns or behaviors during
+case processing.
+· Conduct ELIS data analysis to measure efficiency and effectiveness of new ELIS functionality.
+· Define sensible metrics to build descriptive, predictive and prescriptive models.
+· Extract, transform and load (ETL) structured and unstructured data into Databricks Unified Analytics Platform.
+· Perform analytics in Databricks Unified Analytics Platform.
+· Store methods that are employed for the Statistical Data Analysis and Reporting along with each analysis in GitHub.
+· Develop and sustain Program Dashboard with Tableau and open source tools.
+· Comply with ELIS DevOps development, testing, and standard operational procedures (SOP).
+· Collaborate with other vendors, stakeholders, and government employees to collect data needed to aid decisionmaking.
+· Maintain good configuration and data management methods.
+· Use DHS USCIS approved methods and tools.                                                                                      496                                          
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Washington, DC 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         228384

@@ -1,0 +1,7 @@
+8+Years of overall IT Experience
+Can program using Spark with Python and Scala
+Understands Hive and Hadoop configuration
+Understands different file formats in the Hadoop environment and how to organize data for query performance.
+Supporting number of tools: Data Lake sync, SMFDB population, Metadata sync
+Tuning of the cluster for performance optimization with Spark and Presto.
+Understand the different formats parquet, Avro and snappy

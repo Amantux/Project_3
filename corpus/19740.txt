@@ -1,0 +1,35 @@
+Req ID: 94114
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Cloud Engineer to join our team in Irving, Texas (US-TX), United States (US).
+
+Key responsibilities will be:
+Automate E2E cloud onboarding processes and integrate with CI/CD pipeline – will include account request, creation, environment build and integration, account quarantine, and deletion.
+Develop automatic repave of environment to meet security requirements and eliminate risks (automated deployment and tear down).
+Develop automation in accordance with Security framework focusing on multi-region enablement, auto-remediation, and logging consistency.
+Establish cloud monitoring protocols and tools that feed designated issue management system.
+Assess repeat issues as part of DevOps rotation and develop automation to eliminate operational tasks.
+Build custom tool integrations to resolve operational, engineering and billing challenges.
+Write and publish consistent APIs.
+Build inventory and automate collection, maintenance and controls.
+Deliver automated test and release protocols.
+Minimum Requirements:
+4+ years experience managing a Public Cloud: AWS, GCP, or Azure
+4+ years of DevOps experience
+4+ years of experience with configuration management systems
+Desired Qualifications:
+Public Cloud (AWS, GCP, Azure) Certifications – Professional level preferred with 2+ years managing public cloud-based infrastructure
+DevOps/Scrum experience and certifications; proven track record of successful sprint planning and delivery
+Experience with configuration management systems (Chef, Ansible)
+Experience with modern tools such as Atlassian (Jira, Confluence)
+Expertise in multiple version control systems (Git, GitHub, BitBucket)
+Specific experience with Infrastructure as Code (IaC)
+Experience with performance testing and analysis tools (AppDynamics, Splunk)
+Fluency in Linux environments (Redhat)
+Scripting and programming skills (Python, Java, JavaScript)
+About NTT DATA Services
+
+NTT DATA Services is a global business and IT services provider specializing in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.
+
+NTT DATA Services is an equal opportunity employer and will consider all qualified applicants for employment without regard to race, gender, disability, age, veteran-status, sexual orientation, gender identity, or any other class protected by law.

@@ -1,0 +1,89 @@
+THE PURPOSE:
+
+The Applied Data Scientist will be part of Machine Intelligence & Analytics Department. This team works closely with all other teams to develop, deliver and maintain data driven products and backend analytics platforms for the discovery, interpretation, communication, and exploitation of meaningful patterns in data. In addition, this team will develop and maintain an analytic pipeline for acquisition, storage, and processing data types of interest to feed real-time artificial intelligent system behaviors. The Machine Intelligence & Analytics Department will architect data systems supporting machine learning applications, develop custom toolchains for analysis and exploration, and work with DevOps and IT to host and scale intelligent applications.
+
+Ultimately, we will design reliable, scalable, real-time (or near-real time) applications that make Hyperloop a reality. We are seeking candidates with various levels of experience to join our team of qualified, diverse individuals at our Los Angeles facility.
+
+THE ROLE:
+
+Perform extract, transform, and load operations on large datasets from many complex, heterogeneous data sources
+
+Explore, interpret, and analyze datasets for patterns of interest and opportunities for incorporating data driven machine intelligence to vehicle, transportation, and logistics software systems
+
+Research, evaluate, and determine the best fit of analytical tools and techniques
+
+Develop or modify existing machine learning tools and libraries as needed
+
+Develop visualizations of key parameters and relationships to provide insight into data and underlying system.
+
+Develop, evaluate and adapt advanced machine learning algorithms to transportation and logistics problem domain
+
+Design and create data mining architectures/models/protocols, statistical reporting, and data analysis methodologies
+
+Enhance, scale, and deploy real-time analytics capabilities, models, and visualizations within production environment on production compute architecture
+
+Develop metrics and evaluation criteria to characterize and quantify system performance and benefits of machine intelligence
+
+Develop, update, and maintain design specification and end user documentation
+
+Collaborate in a fast-changing environment and to communicate clearly and effectively with colleagues who range from data scientists, developers, dev ops, hardware engineers, and product managers.
+
+THE CANDIDATE:
+
+Strong written and oral communication skills
+
+Strong interpersonal skills
+
+Ability to conduct research into issues and products as required
+
+Ability to present ideas in user-friendly language and visuals
+
+Highly self-motivated and directed
+
+Proven analytical and problem-solving abilities
+
+Ability to effectively prioritize and execute tasks in a high-pressure environment
+
+MINIMUM REQUIRED EXPERIENCE:
+
+Bachelor's degree in Computer Science or a highly quantitative discipline
+
+3-5 years of professional programming with Python or R, web-based technologies and RESTful Architecture
+
+Strong knowledge in software engineering principles
+
+Expertise in data pipelining methodologies, tools and practices
+
+Expertise in SQL and Data Modelling
+
+Fast prototyping skills, including comprehensive feature integration during all cycles of development
+
+Hands on experience and expertise with cloud computing services (AWS, Azure, etc.)
+
+Expertise in manipulating large data volumes with relevant open source, commercial, and scientific software packages
+
+Self-starter with ability to work in a high paced dynamic environment with only general oversight and direction
+
+Ability to provide solutions to a variety of technical problems of increasing scope and complexity
+
+Excellent communication skills
+
+PREFERRED EXPERIENCE:
+
+Master's degree or PhD in Computer Science or a highly quantitative discipline.
+
+Demonstrated success in applying computational and data expertise to solve real world challenges
+
+Strong programming ability with C, C++ , Node.JS, Go
+
+Expertise in data visualization with packages like plotly, D3.js, ggplot
+
+Strong background in Linear Algebra, Statistics, Operations Research, Optimization, Computer Vision, Artificial Neural Networks, Bayesian Networks, Markov Decision Processes, Support Vector Machines, and other cutting edge machine learning and AI methodologies.
+
+Experience with the following software packages: CUDA, Tableau, OpenCV, ROS, TensorFlow, Café, Alchemy, SAS, Genie, Deep Dive, PostgreSQL, NoSQL, Apache products (Spark, Hadoop, Hive, etc.)
+
+Domain expertise and knowledge of transportation, logistics, and autonomous systems
+
+Hyperloop One is an Equal Employment Employer; employment is governed on the basis of merit, competence and qualifications and will not be influenced in any manner by race, color, religion, gender (including pregnancy, childbirth, or related medical conditions), national origin/ethnicity, veteran status, disability status, age, sexual orientation, gender identity, marital status, mental or physical disability or any other protected status. Hyperloop One will consider qualified applicants with criminal histories consistent with the "Ban the Box" legislation. We may access publicly available information as part of your application. For full information on how your personal information will be stored and processed, please click here. ( http://www.greenhouse.io/privacy-policy )
+
+To all recruitment agencies: Virgin Hyperloop One does not accept unsolicited agency resumes. Please do not forward resumes to our jobs alias, Virgin Hyperloop One employees or any other company location. Virgin Hyperloop One is not responsible for any fees related to unsolicited resumes.

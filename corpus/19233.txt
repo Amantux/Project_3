@@ -1,0 +1,24 @@
+As a senior data engineer at Moveworks, you will be in one of the most visible cross-functional roles at Moveworks. As Moveworks' data multiplies during a critical time of hypergrowth, your goal is to design and integrate systems that power processing of unstructured datasets to ultimately fine tune our product and achieve fully autonomous resolution of enterprise IT. You will be responsible to build out the data engineering platform on top of our data infrastructure that lets our internal product and engineering teams as well as customer teams derive value from this data. Given the nature of our data, this is a non-trivial but highly valuable endeavor.
+
+You are not only a strong software engineer, but you bring a passion for data and analytics to the table, and a track record of robust design experience. You thrive working in cross-functional teams between product, engineering, ML, and analytics, and you are looking to make substantial impact in the next stage of your career.
+
+What will you do?
+Work with various internal teams and customers to gather requirements and deliver data solutions to address those requirements
+Model data and metadata to support analytics and reporting for different use cases
+Design and implement a data platform to process large, complex data sets
+Implement best practices around data integrity, validation, and documentation for data processing, reporting, and analysis
+Optimize data processing pipelines and storage performance
+Build the team of talented data engineers and coach them as the company grows
+What do you bring to the table?
+You have 4+ years of experience as a data engineer, ideally with a cloud-based SaaS company
+Strong coding and design expertise
+Familiarity with latest data processing and warehousing technologies is required
+Hands on experience working with different teams for their data requirements
+Experience with some data stores, such as Postgres, MySQL, HBase, etc.
+BS or higher in Computer Science or a related field
+Nice-to-haves:
+Experience with large-scale machine learning pipelines is a plus
+Who we are:
+Moveworks is an AI-first company with a singular focus: building a platform with advanced NLU to fully automate enterprise IT resolution. Founded by serial entrepreneurs and raised over $105M funding from top VCs, we're well poised for hyper-growth, having tripled the revenue and doubled the team last year. With a stellar team of leading experts in AI/NLU, Big Data, enterprise SaaS, we've built a platform that currently autonomously resolves 30-40% of all IT issues at many Fortune 500 companies and are on a mission to revolutionize IT for hundreds of millions of knowledge workers.
+
+Our engineering team consists of world-class talent who have built out question answering systems at Google, led ML/data infrastructure teams at Airbnb/AWS/LinkedIn/Facebook/etc., scaled many successful enterprise startups from the ground up, and above all, are motivated, result-driven, 10x engineers.

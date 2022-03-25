@@ -1,0 +1,33 @@
+About Frontier Communications
+
+Frontier® Communications provides communications services to urban, suburban, and rural communities in 29 states. Frontier offers a variety of services to residential customers over its FiOS® and Vantage™ fiber-optic and copper networks, including video, high-speed internet, advanced voice, and Frontier Secure® digital protection solutions. Frontier Business™ offers communications solutions to small, medium, and enterprise businesses.
+
+Senior Data Scientist - Job Description
+
+As a senior data scientist, you will be responsible for developing and delivering quality predictive models to create products and services that improve the state of the Frontier network and elevate customer experience. You will be analyzing communications data, and train predictive models improve the Frontier network. You will have the opportunity to work with a small high impact team and bring AI into an industry that has not fully captured the potential of AI.
+As dedicated data scientists, you will be working with large datasets that generate within the organization. These datasets consist of but are not limited to, IoT data, customer interaction data, and ISP network data.
+You will be working closely with senior management to understand business requirements and use cases that can be solved using machine learning approaches.
+You must work closely with data engineers to collect, process, and transform datasets to be used in statistical and predictive modeling experiments
+Propose solutions to identified use cases using predictive modeling.
+Design and train machine learning models and generate high accuracy predictions.
+Designing and execute experiments iteratively to improve the accuracy of model predictions.
+Debug and analyze model performance and provide solutions to improve them. You will be responsible for analyzing model performance and failure points and proposing/ implementing solutions for each of those points.
+Working closely with engineering and product teams to scale prediction models into production and integrate within the existing workflows.
+Qualifications
+
+Minimum:
+Master’s Degree in a quantitative field (Statistics, Mathematics, Computer Science, Machine Learning etc.) or relevant experience.
+3+ years of industry experience in predictive modeling and data analysis
+Experience in analyzing and visualizing big data sets
+Experience in building deep learning models
+Strong background in python language (and R, C/C++)
+Deep understanding of a modern machine learning framework (TensorFlow, PyTorch, scikit learn)
+Working knowledge in Linux environments
+Preferred:
+PhD in Statistics, Mathematics, or Computer Science (Data Science, Machine Learning, AI)
+Exposure to industry or academic research (peer review publications)
+Experience in cloud computing technologies (GCP, AWS)
+Experience in CNNs and RNNs
+Experience in deploying ML models to production environments
+Working knowledge of computer networking
+Experience in analyzing ISP IoT data

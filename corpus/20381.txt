@@ -1,0 +1,45 @@
+SUMMARY
+
+The Senior Data BI Analyst will be responsible for developing and enhancing existing in-house reports and dashboards that produce automated IPA reports, Health Plan reports and Management reports. The Analyst will work closely with key business users as well as managers to gather and define the reporting and process requirements. The Analyst will be responsible for analyzing the data for completeness and accuracy.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+
+• Creation and Maintenance of Power BI reports, MS SSRS, SSAS, Crystal reports, Excel and other tasks as needed
+
+• Develop and maintain SQL stored procedures, functions, SSIS packages
+
+• Maintain and monitor running jobs in Windows Task Scheduler and SQL Server Agents
+
+• Collaborate with business users to gather and define and document requirements
+
+• Create and update documentation for all technical and business processes
+
+• Collaborate to enhance and develop data warehouse (data marts, OLAP cubes, fact tables and dimension tables)
+
+QUALIFICATIONS
+
+• Minimum two years of experience with:
+
+o MS Office 365 (Power BI, Excel, Access, Power Point, Word, Outlook)
+
+o Data-warehouse concepts (Star Schema, SSAS, and MDX queries)
+
+o Crystal Reports, SSRS, SSIS.
+
+o Programming languages (T-SQL, Python, C#)
+
+o MS SQL Server 2016
+
+• Excellent verbal and communication skills
+
+• Customer service oriented
+
+• Knowledge with EZ-Cap or Health Care related databases preferred
+
+• An understanding of the healthcare Industry (Eligibility, Claims, Cap Revenue, Cap Expense, and Utilization Management) is preferred.
+
+EDUCATION and/or EXPERIENCE
+
+Bachelor's degree or one to two years related experience and/or training; or equivalent combination of education and experience
+
+#zr

@@ -1,0 +1,18 @@
+We are Mythical Games. A venture-backed next-generation game technology company at the intersection of video games and economics led by industry veterans. Our goal is to lead the industry with the launch of exceptional video game experiences that leverage distributed ledger technology, while also providing a platform of robust tools that will allow any other game developers to do the same.
+ABOUT THE ROLE:
+We are looking for a highly-skilled Data Scientist with a proven track record performing statistical analysis, prediction, and recommendation on diverse and large-scale e-commerce datasets preferably. In this role, you will be responsible for delivering models in production that optimize marketplace interactions, generate insights, and detect anomalies among other things. While this role is production focused, as one of the first members, you will be critical for the development of Data Science at Mythical Games.
+WHAT YOU'LL DO:
+Build machine learning systems to understand the secondary marketplace eCommerce ecosystem
+Work with internal stakeholders to expand our technical capabilities, thereby creating a more robust data environment
+Utilize natural language processing to uncover insights from contextual data
+Develop models to optimize marketplace recommendations
+Build anomaly detection systems for detecting fraud or erroneous data
+The nasty but inevitable job of data wrangling
+Internal Data Science reading group - spend time each week keeping up with current research and presenting interesting findings
+WHO YOU ARE:
+Bachelor’s Degree in a quantitative field, Ph.D. preferred
+3+ years of professional experience with Python
+Experience with tools and frameworks like Pytorch, TensorFlow, Scikit-Learn, SQL, etc
+Familiarity with deployment and tracking tools such as MlFlow, Airflow, Docker, Kubernetes
+Familiarity with mathematical models underlying data science methods
+Drive to learn and improve

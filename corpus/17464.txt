@@ -1,0 +1,31 @@
+About Datadog:
+
+At Datadog, we’re on a mission to build the best monitoring platform in the world. We operate at high scale—trillions of data points per day—and high availability, providing always-on alerting, visualization, and tracing for our customers' infrastructure and applications around the globe.
+
+The team:
+
+We are building a first-class Internal Analytics team composed of Data Engineers and Data Analysts. If you’re excited to work on a fast-moving team with cutting-edge open-source data collection, transformation and analysis tools, we want to meet you.
+
+You will:
+Collect data from a wide range of sources: AWS S3, Redshift, PostgreSQL, and various APIs
+Build data ETL pipelines using Spark, Luigi and other open-source technologies, with programming languages like Scala, Python, and SQL
+Tune Spark jobs to improve performance
+Work closely with product managers, designers, and engineers in order to collect the right data that will help them better understand our customers, product usage, or our own operations
+Work with Data Analysts to build the right analytics reports
+Have a meaningful impact on many teams at Datadog thanks to data
+Join a tightly knit team solving hard problems the right way
+Grow with the company
+Requirements:
+You are fluent in several programming languages such as Python, R, or Scala
+You have 2+ years of work experience in building ETL pipelines in production
+You value code simplicity and performance
+You have work experience with data storage such as AWS S3, Redshift or similar.
+Being a SQL expert is a minimum for this position
+You are fluent with command line
+You enjoy wrangling huge amounts of data and exploring new data sets
+You have a natural curiosity and investigative mindset - driven to know “why”.
+You can explain complex datasets in very clear ways
+You want to work in a fast, high-growth startup environment and thrive on autonomy
+Bonus points:
+You are familiar with Spark and/or Hadoop
+Experience with AWS Redshift and S3

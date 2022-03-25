@@ -1,0 +1,32 @@
+Training machine learning models over billions of data points.
+Quantifying predictive uncertainty using probabilistic and Bayesian methods.
+Creating models that quickly generalize to new tasks using few-shot and meta- learning.
+Training agents that execute decisions to optimize a reward over time.
+Implementing state-of-the-art model-based planning and reinforcement learning algorithms, including offline and off-policy methods that learn from human demonstrations.
+Scaling machine learning systems to massive datasets using big data technologies such as Spark and Hadoop.
+Building visualization and data exploration tools that automate the analysis and debugging of machine learning models.
+Experience Required
+Masters or PhD in computer science, or equivalent.
+4+ years of work experience.
+Strong programming and problem-solving skills.
+Deep knowledge of machine learning, including both supervised and reinforcement learning.
+Specific subfields include deep learning, probabilistic and Bayesian methods, few-shot and meta- learning, model-based planning, and imitation learning.
+Proficiency with the Python machine learning stack, including numpy, scipy, pandas, scikit-learn, matplotlib, tensorflow, keras, pytorch.
+Experience with reinforcement learning, model-based planning, and/or control theory is a plus.
+Job Type: Full-time
+Pay: $62,421.00 - $176,400.00 per year
+Benefits:
+401(k)
+Dental Insurance
+Health Insurance
+Vision Insurance
+Schedule:
+Monday to Friday
+Work Location:
+One location
+Visa Sponsorship Potentially Available:
+No: Not providing sponsorship for this job
+Company's website:
+https://iagility.com/search_details/5728
+Work Remotely:
+No

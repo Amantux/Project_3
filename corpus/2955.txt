@@ -1,0 +1,75 @@
+We are at the forefront of creating the latest FinTech category and we are rapidly expanding our team. We’re looking for a Senior Data Scientist who can apply machine learning models to forecasting problems from the data pipeline step through working with engineers to deploy these models.
+
+Company Overview
+
+Tesorio is a high-growth, early-stage startup backed by some of the Bay Area’s most prominent Venture Capital firms (First Round, Floodgate, Y Combinator) and the world’s top finance execs (e.g. the ex-CFO of Oracle, the ex-CFO of Yahoo, and the founder of Adaptive Insights).
+
+We build software that applies proprietary machine learning models to help manage a core problem that all Mid-Market businesses face: managing, predicting, and collecting cash. As we’ve taken this solution to market over the last 18 months, we’ve been able to bring on some great clients like Twilio, Spotify, Veeva Systems, WP Engine, Rainforest QA, and many more.
+
+Tesorio’s Cash Flow Performance platform is a sought after solution for the modern-day CFO’s toughest problems. Companies such as Anaplan have successfully tackled forecasting revenues and expenses, however, no other system has been built from the ground up to help companies understand the complexities around cash flow and take action to optimize the core lifeblood of their business.
+
+What’s in it for you?
+
+Remote ok or work out of awesome office with all the perks.
+
+About half of us work fully remote and we work hard to make sure remote employees feel a part of the team.
+
+Fast paced environment where you have an impact.
+
+Work with some of the best and brightest (but also very humble).
+
+Fast growing startup backed by top tier investors - Y Combinator, First Round Capital, Floodgate, Fathom.
+
+Data Science at Tesorio
+
+Data science and machine learning is core to the Tesorio product and drives much of the product decisions.
+
+Focused on shipping new models/predictions rather than academic discussions.
+
+Tight integration with the Product Engineering team so that when things are built, they go directly into the product.
+
+You won’t be making slide decks to convince people of your opinion; we want value added work - we trust your opinions.
+
+Greenfield on applying models to new problems - you won’t be working on the same thing every day.
+
+We don’t just build a model and call it good - we automate a lot of the machine learning to generalize across different applications.
+
+Responsibilities
+
+End-to-end ownership of data science assets in a given product.
+
+Perform deep dives into data available and determine how to build accurate time series forecasts.
+
+Field questions on feasibility of projects with ability to give accurate time estimates and be able to justify conclusions.
+
+Come up with new ideas on how to leverage the available data to serve meaningful business goals and and be able to convey to others in the organization.
+
+Required Skills
+
+5+ years as a Data Scientist or similar.
+
+Proficient in Python and Pandas.
+
+Expert level using traditional machine learning tools (e.g. sklearn, xgboost, etc) and knowing which algorithms are best suited to a particular problem.
+
+Knowledge and understanding of inferential statistics and hypothesis testing.
+
+Insatiable curiosity and ability to solve problems without established solutions.
+
+Experience with time series and forecasting methods.
+
+Preferred Skills
+
+MS or above in a relevant field (but definitely not a requirement).
+
+Expert level in applying forecasting and time series methodologies.
+
+Experience working with financial/bank data.
+
+Ability to write high performance Python code.
+
+Experience with large-scale data processing tools: Spark, Dask, or others.
+
+Note: we currently cannot sponsor visas.
+
+ Tesorio is eliminating the manual invoice + purchase order process from business transactions, serving as the connective tissue between c...

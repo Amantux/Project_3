@@ -1,0 +1,55 @@
+CB Insights has millions of readers, hundreds of thousands of prospects and tens of thousands of paying users. That generates a lot of data ranging from organic databases to Salesforce to Hubspot & many others.
+
+Through a deliberate strategy to grow business intelligence capabilities at CB Insights, we hope to achieve a few key results:
+Establish cohesion and transparency by establishing a single source of truth
+Provide capabilities and expertise to business units so that they can use BI systems for their everyday decisions
+Unlock new opportunities for growth in the business through data
+While BI at CB Insights is very much a nascent discipline, the infrastructure exists. It includes Looker as the BI layer which sits on top of Redshift with Segment as the underlying ETL. The time is right for you, an experienced BI expert, to help us achieve the above goals.
+
+You will be a part of engineering, reporting to a head of data science, with frequent and close interaction across all teams. We are seeking a BI technologist who can be a strategic thought-partner to the business.
+
+Responsibilities:
+Impact
+Work with stakeholders and product teams to understand requirements and ensure metrics support data-driven decision making. Democratize data access
+Collect, and analyze operational and technical requirements for multifunctional projects
+Scope, and address ad-hoc requests from the users across CBI.
+Infrastructure
+Support and develop LookML buildout, providing guidance on best practices and approving major releases of LookML code, Refactor existing code to improve its efficiency and readability
+Provide access to users across the company and make it easy for them to get their data questions answered
+Ensure comprehensive event tracking
+Maintain Looker instance
+Establish, maintain and document high data quality standards in our core data pipelines, datasets and databases.
+Investigate and address data anomalies and process gaps to troubleshoot data inconsistencies; implement solutions
+Ensure compliance with all applicable data privacy regulations and policies as they relate to both firm and client/contact data.
+Scaling
+Develop ongoing, low-maintenance reporting processes to enable users to use Looker independently for their data needs
+Provide user training sessions and ongoing support
+Grow the analytics team at CB Insights, including hiring and training junior staff
+Requirements:
+7+ years of experience in business intelligence
+Must have hands-on experience with Redshift or any other relational cloud-based database.
+Experience launching BI systems to a growing organization a strong plus
+Experience supporting several technical and non-technical users across the organization to raise the analytics maturity of the organization.
+Effective at translating business user questions/requests into clear, actionable analysis
+Deep familiarity with key SaaS operating metrics
+Preferably 2+ years hands-on, administrator-level Looker experience (Tableau or Mode experience also acceptable so long as willing to become Looker expert)
+Strong expertise in SQL and data modeling.
+Strong analytical fundamentals (requirements gathering, data modeling, data mining, data engineering, metrics and KPI definition, visualization, and presentation)
+We know that diversity makes for the best problem-solving and creative thinking. We are dedicated to adding new perspectives to the team and encourage everyone to apply if your experience is close to what we are looking for.
+
+Perks and Benefits:
+
+Subsidized health, dental, and vision insurance
+401k with up to 4% match
+$1,000 yearly continuing education stipend
+Daily lunch stipend
+Happy, Helpful, Humble, and Hungry: Check out more about our company culture here.
+
+Equal Opportunity Employer: CB Insights is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+
+If you know someone who'd be perfect for the role,
+
+submit here and you'll be eligible for $5,000!
+
+
+#LI-HL1

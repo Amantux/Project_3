@@ -1,0 +1,45 @@
+Company Overview
+
+Imagine if we could match patients with the treatments that prove the most effective for them . . .
+GNS Healthcare applies a powerful form of AI called causal machine learning to predict which treatments and care management programs will work for which patients, improving individual patient outcomes and the health of populations while reducing the total cost of care.
+
+Headquartered in the biotechnology and health IT center of Cambridge, MA, our patented REFS technology is based on recent breakthroughs in causal machine learning and AI that transforms massive quantities of patient data into computer models of disease at molecular, patient, and health system levels. These computer models power up solutions, products, and services that health plans, biopharmaceutical companies, health systems, and patient foundations utilize to slow disease progression, reduce adverse events and hospitalization, and improve therapeutic effectiveness. Our platforms and solutions have been validated across more than 45 diseases including oncology, cardiovascular and metabolic disease, autoimmune diseases, neurology, etc. and have appeared in over 50 peer-reviewed publications.
+
+Position Summary
+
+The Data Scientist will join a dynamic team responsible for start-to-finish work on the analysis and interpretation of real-world datasets using GNSs powerful cloud-based analytics platform. We are looking for someone who thrives working in a fast-paced, exciting, and collaborative environment in one of the most cutting-edge industries where big data analytics meets healthcare. You will help manage real world data, as well as create and interpret data-frames for modeling and analysis. You will collaborate with our research scientists to carry out analysis projects using our proprietary, supercomputer-powered Bayesian network modeling and simulation platform, and will synthesize these results into meaningful reports for clients and product development.
+
+Responsibilities
+Collaborate with internal research teams and clients to evaluate study design, define research questions, design data frames, write statistical analysis plans/study protocols, conduct analyses, and participate in the full research process, including client presentation and publication
+Communicate highly technical results and methods clearly to clients, discuss how to incorporate information into their processes, and achieve high client satisfaction
+Troubleshoot with clients and internal stakeholders to refine and optimize models
+Provide scientific communications to peer-reviewed journals and publications
+Develop data frames of high complexity while adhering to a project-based timeline
+Perform data manipulations and develop algorithms on multi-data sets that create the analytic files necessary to support analyses.
+Consult on how to use data to perform predictive and causal modeling using both proprietary and off-the-shelf tools.
+Qualifications
+
+Minimum Qualifications: (Title commensurate with experience)
+Relevant Bachelors Degree
+Experience working with biomedical data/ population health data, EHR or claims data
+Demonstrated experience working with programming languages R and SQL
+Strong written and verbal communication; an ability to communicate technical material to non-technical audiences simply and clearly and collaborate well on a team
+Strong drive for problem solving, especially around data frame construction and interpretation
+Preferred Qualifications:
+Masters Degree in a quantitative discipline or equivalent practical experience
+Demonstrated experience working with advanced ML techniques, probability theory, Bayesian analysis, or causal inference methods
+Experience working with large, complex, or unstructured data requiring post-processing to use effectively
+Familiarity with the UNIX and cluster computing environment
+Company Culture
+
+Our philosophy at GNS is simple: we cannot transform healthcare with anything less than an all-star team. We are seeking smart, driven people who are experts in their field, have a track record of success and a passion for creating change. We believe that strong teams supercharge the performance of individuals, create a fun and dynamic workplace and great results for our clients and the people they serve.
+
+We are passionate about our work and believe in the ability of our technology to change the world. Our core values of integrity, collaboration, value, diversity, and game-changing guide our behaviors with each other and our clients.
+
+GNS offers competitive salaries, stock options, unlimited vacation, health, dental and vision insurance, life insurance, long-term disability, 401(k), generous parental leave, tuition reimbursement, professional development, subsidized parking and gym membership, tasty food, volunteering opportunities, social gatherings, and more.
+
+Equal Employment Opportunity
+
+GNS Healthcare provides equal employment opportunities to all employees and applicants for employment without regard to race, color, national origin, religion, sexual orientation, gender, gender identity or expression, age, veteran status, disability, pregnancy or conditions related to pregnancy, or genetics. In addition to federal law requirements, GNS Healthcare complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities.
+
+Powered by JazzHR

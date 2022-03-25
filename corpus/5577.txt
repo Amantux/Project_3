@@ -1,0 +1,49 @@
+Read what people are saying about working here. 
+
+At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world.
+
+We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let’s move the world forward, together.
+
+About the Role
+
+We’re looking for an experienced data scientist on our Marketing Data Science team to help optimize investment decisions for Uber’s multi-million dollar marketing budget using cutting edge machine learning and statistical models. You will be responsible for developing actionable analytical solutions and productionizing models in a scalable manner to inform decisions across Uber’s global marketing efforts, accelerating both demand and supply growth within Uber’s 600+ cities worldwide! The right person for this role has a passion for driving impact by leveraging predictive modeling, machine learning, experimentation and technology to power decisions across our marketing organization.
+
+What You’ll Do
+
+Build production grade models on large-scale datasets to optimize marketing performance by utilizing advanced statistical modeling, machine learning, or data mining techniques.
+
+Leverage models to address key growth challenges such as cross-channel spend allocation, response modeling, advertising partner quality measurement, customized content recommendation and ad serving.
+
+Build models to derive insights from current Uber’s customers to improve communications, retention, engagement, LTV and develop methods for efficient targeting for prospecting customers at scale.
+
+Work with cross-functional teams to implement and deploy models and enhance analytical solutions by providing data-driven recommendations.
+
+Leverage large scale data processing such as Spark, Hive, and Uber’s proprietary machine learning platform, and more.
+
+Collaborate with marketing and finance leadership, design, product and engineering teams. Participate in project planning/prioritization meetings, stakeholder meeting, data prioritization meeting, etc.
+
+Translate data-driven learnings into actionable insights.
+
+What You’ll Need
+
+Minimum of 1-3 years of experience as a data scientist at a company with global operations
+
+Expertise with R and Python
+
+Experience with machine learning techniques and advanced analytics (e.g. regression, classification, clustering, time series, econometrics, mathematical optimization).
+
+Advanced SQL skills - comfortable working with very large data sets.
+
+Experience with big data using technologies like Hadoop, Hive, and Spark a plus.
+
+Previous experience in advertising tech is a plus
+
+Great communication skills, organized, able to multitask and be a team player
+
+Balance attention to detail with swift execution
+
+Hunger and drive to learn complex topics
+
+Enthusiasm about Uber!
+
+ We’re building something people use everyday. From how you get home from work, to how you eat meals, or how you move huge shipments of ab...

@@ -1,0 +1,33 @@
+Donnelley Financial Solutions (DFIN) is a leader in risk and compliance solutions, providing insightful technology, industry expertise and data insights to clients across the globe. We’re here to help you make smarter decisions with insightful technology, industry expertise and data insights at every stage of your business and investment lifecycles. As markets fluctuate, regulations evolve and technology advances, we’re there. And through it all, we deliver confidence with the right solutions in moments that matter.
+Summary
+Donnelley Financial Solutions (NYSE: DFIN) is seeking a Software Engineer to help evolve our products into fault tolerant, highly available, autonomously scalable, and performant services in Azure. If you are interested in solving secure data storage and access, search, or analytics problems at scale and working on a team that cares about you and your personal development, this role might be the perfect fit.
+Responsibilities
+● Take ownership of complex distributed systems problems and provide solutions
+● Design object-oriented software using best practice software engineering including separation of concerns, high cohesion, low coupling, abstraction, encapsulation and information hiding, interfaces, and dependency injection
+● Implement object-oriented software using defensive programming and exception handling, design patterns and object oriented programming (OOP) principles like SOLID
+● Test software with traceability back to requirements using autonomous test frameworks and Continuous Integration
+● Follow agile software development processes and practices
+● Help specify and clarify non-functional software requirements to determine design and implementation feasibility within time and cost constraints
+● Estimate and be accountable to software deliverable timelines
+QUALIFICATIONS
+● At least 1 year of professional software engineering experience applying best practice software engineering including separation of concerns, high cohesion, low coupling, modularization, encapsulation and information hiding, interfaces, and dependency injection
+● At least 1 year of professional software engineering experience applying object-oriented programming (OOP) principles such as SOLID
+● Experience in C# / .NET, git, and unit testing – you have written unit tests
+● Proven experience delivering solutions for complex problems
+● Proven experience setting and meeting software deliverable deadlines
+● Excellent interpersonal and teamwork skills
+● Bachelor of Science degree in Computer Science, Math, or Computer/Electrical Engineering
+
+Nice to haves
+● Experience building software for a cloud utility stack like Azure
+● Experience building UI software using Angular 7, Less, and ASP.NET Core
+● API first design experience building scalable ReSTful APIs
+● At least 1 year experience using API based automated test frameworks and Continuous Integration
+● Relational (SQL) or non-relational (Cosmos DB) database experience
+
+Notes
+● You must be legally authorized to work in the US. Sponsorships are not supported at this time.
+
+It is the policy of Donnelley Financial Solutions to select, place and manage all its employees without discrimination based on race, color, national origin, gender, age, religion, actual or perceived disability, veteran's status, actual or perceived sexual orientation, genetic information or any other protected status.
+
+If you are a qualified individual with a disability or a disabled veteran, you have the right to request a reasonable accommodation if you are unable or limited in your ability to use or access jobs.dfinsolutions.com as a result of your disability. You can request a reasonable accommodation by sending an email to AccommodationRequest@dfinsolutions.com. #TalentknowsTalent

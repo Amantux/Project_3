@@ -1,0 +1,28 @@
+Applied Research Solutions is seeking a full-time System Engineer - DevSecOps located at San Antonio, TX.
+We are looking for a DevSecOps Engineer to support the U.S. Air Force’s Level UP activities in San Antonio, TX. LevelUP enables enhanced cyberspace defense capabilities for the United States of America. This position is a unique opportunity to be at the forefront of a cultural and technical revolution within the Department of Defense and the Air Force and an opportunity to shape the transformation within a small, dedicated, and motivated team.
+
+Responsibilities:
+Coordinate current tech solutions and be aware of new technology shaping the cyberspace and software development industry.
+Work with cross functional teams in a flat organization to implement new solutions and solve problems.
+Support development of overall goals and how technology will factor into key strategic decisions.
+Be hands-on, close to the technology, and drive the direction of the organization with conviction.
+Work with architecture, engineering, and agile development teams to create a scalable and reliable design of our data tagging software development.
+Implement technical solutions related to cybersecurity, software development, product innovation, and risk management.
+Build, configure, implement and deploy DevSecOps processes and techniques for Cloud environments.
+Feature development of the existing ETL Toolset.
+Update documentation related to the data tagging tool.
+Unit testing and automation
+Containerization and hardening on toolset
+Qualifications/ Technical Experience Requirements:
+You are a U.S. Citizen and have the ability to obtain a U.S. Security Clearance
+Bachelor’s Degree in Computer Science, Computer Engineering, Electrical Engineer or similar degree or experience.
+Software experience with 3+ years’ hands-on experience delivering software capabilities
+Experience using JUnit to support test-driven software development.
+Familiar with NiagraFiles (Apache NiFi)
+Experience with ETL Tools to organize data
+Familiar with Cloud Native Computing Foundation (CNCF)-compliant software stack (Kubernetes) and Open Container Initiative (OCI)-compliant containers (Docker)
+All positions at Applied Research Solutions are subject to background investigations. Employment is contingent upon successful completion of a background investigation including criminal history and identity check.
+
+This contractor and subcontractor shall abide by the requirements of 41 CFR 60-741.5(a). This regulation prohibits discrimination against qualified individuals on the basis of disability, and requires affirmative action by covered prime contractors and subcontractors to employ and advance in employment qualified individuals with disabilities.
+
+This contractor and subcontractor shall abide by the requirements of 41 CFR 60-300.5(a). This regulation prohibits discrimination against qualified protected veterans, and requires affirmative action by covered contractors and subcontractors to employ and advance in employment qualified protected veterans.

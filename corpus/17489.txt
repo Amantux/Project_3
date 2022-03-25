@@ -1,0 +1,45 @@
+Help us create better connected futures
+Make your mark. See the difference. Be recognized.
+Work with aligned engaged team members.
+
+
+
+
+About us
+At Transit Wireless we create even better connected futures.
+Ours is a story of being big enough to deliver and maintain large-scale operations but being nimble enough to make things happen.
+Our future-makers thrive on rewriting yesterdays rules. So we put Wi-Fi, fiber and wireless connectivity on subways and we create new services for our customers and communities every day.
+We build technology and teams that people want to be part of and we have the courage to not only imagine, but to do what really matters.
+
+About the role
+
+Design, implement and support an analytical data infrastructure.
+• Managing AWS resources including EC2, S3, Glue, Redshift, etc.
+• Working with AWS services including Lambda, Athena, and API Gateway
+• Working with the Elastic Stack
+• Interface with engineering teams to extract, transform, and load data from network data sources using SQL and AWS big data technologies
+• Explore and learn the latest data management technologies to provide new capabilities and increase efficiency2
+• Collaborate with Data Scientists, Network Engineers and Product Managers to recognize and help adopt best practices in reporting and analysis: data integrity, test design, analysis,validation, and documentation
+• Help continually improve ongoing reporting and analysis processes, automating or simplifying self-service support for customers
+About you
+Bachelor’s degree in Data Science, Computer Science, Engineering, Mathematics, or related technical discipline.
+• 3 years of industry experience in a data engineering or data science role (development,data engineering, data science, or related field with experience in manipulating, processing,and extracting value from large datasets).
+• Experience with management of relational databases such as PostgreSQL, MySQL or Microsoft SQL Server (Experience in data modeling, ETL development, and datawarehousing).
+• Experience with AWS S3, EC2 and Lambda.
+• Experience with shell scripting and working in an UNIX environment.
+• Expertise in Python.
+• Familiarity with engagement with users, other technical teams, and senior management to collect requirements, describe data modeling decisions and data engineering strategy
+• Experience providing technical leadership and mentoring other engineers for best practices on data engineering
+Preferred Qualifications / Bonus Points
+
+• 5 years of industry experience in a data engineering or data science role.
+• Master’s degree in Data Science, Computer Science, Engineering, Mathematics, or related technical discipline.
+• Experience with analysis or engineering of time series datasets.
+• Experience with the TICK Stack (InfluxDB, Chronograph).
+• Experience with AWS big data technologies (Redshift, EMR).
+Why work with us
+
+We are a courageous culture and we do what really matters, putting people, customers and communities at the heart of every decision.
+We believe there is strength in diversity and opportunity through inclusion.
+And we provide a learning environment, meaningful recognition for your contribution and competitive compensation.
+Help us imagine and create what’s next. Join us.

@@ -1,0 +1,42 @@
+Your Opportunity
+
+
+Charles Schwab & Co., Inc is currently seeking a seasoned ETL Lead with a passion for hands-on design/development and collaboration with our business partners. The ideal candidate is adept at using large data sets to find opportunities for product and process optimization to test the effectiveness of different courses of action. The ETL Lead must have deep experience in Enterprise Data Warehouse, Data Mart design, development and end to end execution of data solutions. Prior experience in developing design patterns for Big Data and Cloud solutions is a big plus.
+
+This role will require hands on development with wide range of technical skills which include data analysis, ETL (Talend / Informatica, Unix, Big Data Technologies) and modeling skills (SQL, ERwin).
+
+What you are good at
+
+
+This position is part of the Global Data Technology (GDT) organization that governs the strategy and implementation of the enterprise data warehouse and emerging data platforms.
+
+The ETL Lead will be designing, building and supporting data processing pipelines to transform data using Hadoop technologies. You’ll be designing schemas, data models and data architecture for Hadoop and HBase environments. You’ll be implementing data flow scripts using Unix / Hive QL / Pig scripting. You’ll be designing, building data assets in MapR-DB (HBASE), and HIVE. You’ll be developing and executing quality assurance and test scripts. You’ll be work with product owners and business analysts to understand business requirements and use cases to design solutions. You’ll have the opportunity to grow in responsibility, work on exciting and challenging projects, train on emerging technologies and help set the future of the Data Solution Delivery team. You’ll lead investigation and resolution efforts for critical/high impact problems, defects and incidents. Provides technical guidance to team members.
+
+What you have
+Bachelor's degree in Computer Science or related discipline
+Experience with a structured application development methodology, using any industry standard Software Development Lifecycle, in particular Agile Methodologies is required
+6+ years of overall experience in I.T. with strong understanding of best practices for building and designing ETL code, Strong SQL experience with the ability to develop, tune and debug complex SQL applications is required
+5+ years of experience in ETL tools. Specific expertise in implementing Informatica / Talend in an Enterprise environment is a plus.
+Experience architecting the whole process of consuming all the data from all the systems that are of interest
+Expertise in schema design, developing data models and proven ability to work with complex data is required
+Hands-on experience in Java object oriented programming (At least 2 years)
+Hands-on experience with Hadoop, MapReduce, Hive, Pig, Flume, STORM, SPARK, Kafka and HBASE (At least 3 years)
+Understanding Hadoop file format and compressions is required
+Familiarity with MapR distribution of Hadoop is preferred
+Understanding of best practices for building Data Lake and analytical architecture on Hadoop is required
+Strong scripting / programming with UNIX, Java, Python, Scala etc. is required
+Strong SQL experience with the ability to develop, tune and debug complex SQL applications is required
+Expertise in schema design, developing data models and proven ability to work with complex data is required
+Experience in real time data ingestion into Hadoop is required
+Experience in or deep understanding of cloud based data technology GCP/AWS is preferred
+Proven experience in working in large environments such as RDBMS, EDW, NoSQL, etc. is preferred
+Knowledge of Big Data ETL such as Informatica BDM and Talend tools is preferred
+Understanding security, encryption and masking using Kerberos, MapR-tickets, Vormetric and Voltage is preferred
+Experience with Test Driven Code Development, SCM tools such as GIT, Jenkins is preferred
+Experience with Graph database is preferred
+Strong with SQL Server, Oracle and Mango DB preferred
+Experience in Active Batch Scheduling , control M preferred
+Excellent analysis, debugging and trouble-shooting skills, and problem solving skills
+Good verbal and written communication skills
+Ability to thrive in a flexible and fast-paced environment across multiple time zones and locations
+Experience in Financial Services industry a plus.

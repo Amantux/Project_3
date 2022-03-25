@@ -1,0 +1,39 @@
+We are looking for a Data Scientist to join our Alien Labs team. You will be creating and analyzing datasets to improve our threat detection capabilities and protect our customers.
+
+Roles and Responsibilities:
+
+Work with different stakeholders to understand, identify and approach a wide range of problems in the cybersecurity space.
+
+Create datasets from multiple sources, API’s and systems.
+
+Build ETL pipelines.
+
+Work with domain experts to understand the problem, perform feature engineering, apply machine learning/deep learning and collaborate with the product team to bring models to production.
+
+Document and create presentations based on your projects.
+
+Job Requirements:
+
+MS in Computer Science, Machine Learning, Statistics, Physics or other technical degree and/or proven industry experience.
+
+Supervised learning (LR, Bayes, SVM’s, NNs..)
+
+Unsupervised learning (DBscan, T-SNE, K-means..)
+
+Python proficiency.
+
+Data exploration and visualization skills.
+
+Ability to explain and present model results and performance to technical and no-technical audiences.
+
+Experience with frameworks such as Numpy, Pandas, Scipy, Sklearn, TF, Keras, Spacy.
+
+Preferred:
+
+Previous experience working in the Cybersecurity industry.
+
+Experience applying machine learning to cybersecurity problems.
+
+Experience working with massive datasets.
+
+Experience applying machine learning to timeseries modeling and anomaly detection.

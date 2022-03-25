@@ -1,0 +1,63 @@
+Read what people are saying about working here. 
+
+Company Overview
+
+At Proofpoint, we have a passion for protecting people, data, and brands from today’s advanced threats and compliance risks. We hire the best people in the business to:
+
+Build and enhance our proven security platform
+
+Blend innovation and speed in a constantly evolving cloud architecture
+
+Analyze new threats and offer deep insight through data-driven intel
+
+Collaborate with customers to help solve their toughest security challenges
+
+We are singularly devoted to helping our customers protect what matters most. That’s why we’re a leader in next-generation cybersecurity—and why more than half of the Fortune 100 trust us as a security partner.
+
+The Role
+
+Do you have a passion for applying machine learning to hard problems in new application areas? Do you keep up with the latest on GANs, ResNets, CNNs, RNNs, and Deep Reinforcement Learning but have also mastered the classics like SVM and Random Forest? Are you looking for the opportunity to work with a great team that combines algorithm design, software engineering, and domain knowledge into products that are first of their kind? If so, we are looking for you. We need a Data Scientist who will work on analyzing data from malicious actors
+
+to help uncover cyber threats. Your primary focus will be applying your skills in various areas like anomaly detection, graph mining, clustering, and predictive analytics to help us build groundbreaking services that would revolutionize the industry.
+
+We are a fast-paced, high-energy team where you will be given the opportunity to make a significant impact. The team has a solid engineering culture that values the craftsmanship of writing great software, enjoys learning, and solving big problems.
+
+Your day-to-day
+
+Feature engineering, building and optimizing classifiers, applying machine learning and deep learning expertise
+
+Blending data from disparate sources, mining the resulting data lake to build models
+
+Contributing tested code to the team’s git repo and working with engineering to implement models efficiently
+
+Processing, cleansing and verifying integrity of data used for analysis
+
+Conducting ad-hoc analysis and innovation around data visualization
+
+What you bring to the team
+
+Minimum 1 year of professional experience in cybersecurity industry
+
+Excellent understanding of machine learning algorithms, processes, tools and platforms including:
+
+Supervised methods - Naïve Bayes, Logistic Regression, SVM, ConvNet, LSTM, Siamese Networks, etc.
+
+Unsupervised methods - K-means, DBSCAN, T-SNE, Spectral Clustering, SOM, LSH, etc.
+
+Toolkits - numpy, scipy, scikit-learn, tensorflow, pytorch, keras, genism, vowpal wabbit, etc.
+
+Python proficiency
+
+Great communication skills, ability to explain predictive analytics to non-technical audience
+
+Proficiency in data exploration techniques and tools, e.g. SQL, Hive, etc.
+
+Excellent statistics, linear algebra, and optimization skills
+
+MS in Statistics, Machine Learning, Applied Physics or Computer Science (or technical degree with commensurate industry experience). PhD preferred
+
+Why Proofpoint
+
+As a customer focused and driven-to-win organization with leading edge products, there are many exciting reasons to join the Proofpoint team. We believe in hiring the best the brightest and cultivating a culture of collaboration and appreciation. As we continue to grow and expand globally, we understand that hiring the right people and treating them well is key to our success! We are a multi-national company with locations in 10 countries, with each location contributing to Proofpoint’s amazing culture!
+
+#LI-JL3

@@ -1,0 +1,24 @@
+What We're About
+
+At its core, OverlayAnalytics is about pulling on threads and—without knowing where they lead—figuring out how to connect them. Our customers come to us with a core belief that their data holds the answers to uncovering value in their business. Our team is responsible for turning that belief into reality. If you believe in the transformational power of data and technology and in your own ability to bring that power to bear against complex problems, we want to meet you.
+
+What We Do
+
+OverlayAnalytics provides a strategic analytics platform that gives our clients a format-agnostic, streaming data pipeline that drives real-time data processing, transformation, analytics and actionable business intelligence. We are at an inflection point and our rapid growth is forcing us to balance client growth along with the demands of scaling our future infrastructure. You will be an integral part in helping us meet that demand while helping build out the future of OverlayAnalytics.
+
+What You’ll Do
+Work across our full modern BI stack - infrastructure (AWS), database (Snowflake, Postgres), services/modeling (dbt, cubeJS)
+Design and build elegant data structures in support of existing reporting tools and custom visualization platforms
+Navigate new data sets frequently and model data efficiently and effectively
+Translate complex business requirements into generic and highly scalable technical solutions
+Key Qualifications
+Data enthusiast and analytics junkie with an intellectual curiosity and desire to innovate ahead of the curve
+Proven ability and commitment to delivering clean, tested code
+Proficient experience writing advanced SQL queries and performance tuning existing queries
+Solid experience modeling dirty and often unstructured data from a variety of sources
+Experience with Python, R or JavaScript and modern SDLC methodologies
+Experience in developing and maintaining ETL/ELT data pipelines
+Preferred Qualifications
+Hands-on experience in a recognized reporting tool (preferably Tableau).
+Experience with a variety of ERP systems, databases, and other business applications
+Experience in multi-tenant environments and the inherent security risks associated with such environments

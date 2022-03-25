@@ -1,0 +1,38 @@
+[As of June 2020, Quora has become a "remote-first" company. This position can be performed remotely from anywhere in the world, regardless of any location that might be specified above.]
+
+About Quora:
+
+
+The vast majority of human knowledge is still not on the internet. Most of it is trapped in the form of experience in people's heads, or buried in books and papers that only experts can access. More than a billion people use the internet, yet only a tiny fraction contribute their knowledge to it. We want to democratize access to knowledge of all kinds from politics to painting, cooking to coding, etymology to experiences so if someone out there knows something, anyone else can learn it. Our mission is to share and grow the world's knowledge, and we're building a world-class team to help us achieve this mission.
+
+About the Team:
+
+
+Every day, millions of people seek answers and share their knowledge through Quora. To foster this marketplace of knowledge, we need to build systems that make sharing knowledge rewarding and discovering it easy; that show you answers to questions you didn't know you had, on topics you didn't know you liked, and that scale to support the participation of the entire planet.
+
+The Product Engineering teams focus on growth, engagement, and activation. This work includes how we distribute content to the right people, how we curate content on Quora and scale all things related to questions, and how we engage new users, writers, and readers. This also includes defining, shaping, and changing the fundamental dynamics of Quora, to create a compelling and cohesive experience for users to share and grow knowledge.
+
+About the Role:
+
+
+Full-stack product engineers work closely with cross-functional members to drive product decisions, designs, and implementations. We strive to build scalable, reliable, user-friendly, and highly personalized products for our 300 million+ monthly active users on Quora.
+
+Responsibilities:
+Develop full stack web applications with Python and JavaScript
+Work on a product team focused on core product mechanics, growth, and/or user engagement
+Design and implement product features at massive scale with data-driven iteration
+Drive projects from ideation to production using the full technology stack
+Work with designers, product managers, fellow engineers, and data scientists to prototype and implement functionality and analyze impact
+Minimum Requirements:
+Ability to be available for meetings and impromptu communication during Quora's "coordination hours" (Mon-Fri: 9am-3pm Pacific Time). Learn why here
+3+ years of professional software development experience building user-facing consumer products in Python and JavaScript
+2+ years of full-time experience with backend storage systems such as MySQL, HBase, or Redis
+Ability to think holistically about a complex, social product, and map big picture metrics to a realistic, actionable plan
+Preferred Qualifications:
+1+ years of experience building with open-source data infrastructure technologies, such as Kafka, Airflow, and Spark
+Experience building products using React and GraphQL
+Passion for experimentation and new ideas
+Love of learning and the Quora product
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+California Consumer Privacy Act (CCPA) disclosure

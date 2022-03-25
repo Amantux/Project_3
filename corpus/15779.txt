@@ -1,0 +1,29 @@
+This Statement of Work covers the need for student services to provide technical and/or analytical support in the fields of Computer Science, Electrical Engineering, Ocean Engineering, or Oceanography for the Defense Advanced Research Program Agency (DARPA) Ocean of Things (OoT) project. The purpose of this project is to support research, design, and implementation of storage and analysis of data collected by oceanographic floats.
+The DARPA’s OoT project processes information collected from the cloud-based data center, converting raw field measurements into oceanographic, environmental, meteorological products. DARPA imports and formats products information from external sources, used as ground truth comparison. The collected data include: Sea Surface Temperature (SST), salinity, solar irradiance, wave/swell height/periodicity (derived from IMU/accelerometer), barometric pressure, precipitation, wind speed/direction, surface current measurements.
+
+The student shall assist the work sponsor in:
+Developing, testing and documenting computer software, likely in the Python language, for the purposes of the machine learning research described above.
+Performing data conversion, as necessary, to facilitate experimentation with recorded data. This will include using well-known existing products from the oceanographic community as templates. These existing products are available online from government
+and academic websites.
+Performing data import/conversion of well-known existing products from the oceanographic community to the cloud-based data center for the purposes of comparing/calibrating against the DARPA OoT data.
+Generating statistical summaries and graphs of incoming data, primarily to validate incoming data.
+Assisting with the evaluation of experiments testing and machine learning models, numerical, and statistical techniques upon the OoT data.
+
+Minimum Qualifications:
+Graduate Student 1: Must have a Bachelor's degree in the required discipline and be enrolled in a Master's degree program. Must be able to accomplish a minimum of 50% of the task without supervision.
+Graduate Level 1: Computer Science, Electrical Engineering, Ocean Engineering, or
+Oceanography major (working on Master’s)
+
+Required Course Work:
+Calculus
+Desired Qualifications:
+Previous programming experience is preferred.
+Experience with Python Programming is strongly preferred.
+Familiarity with data formats such as XML, JSON, and NetCDF is preferred
+Previous experience analyzing oceanographic/environmental data is preferred
+GPA 3.75 or higher.
+This position is unclassified.
+Due to the regulations established by the Department of Defense, only US Citizens may qualify
+This is a student position and is limited to working 20 hours per week
+This position will remain open until filled
+San Diego State University Research Foundation is an EEO/AA/Disability/Vets Employer

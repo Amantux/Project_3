@@ -1,0 +1,58 @@
+Job Description: Please DO NOT submit candidates interviewed on #569-1 and #1765-1 (same position/HM).
+
+Description:
+
+Responsible for completing our transition into fully automated operational reports across different functions within Care (including repair operations, contact center, digital support, product quality and finance) and for bringing our Care Big Data capabilities to the next level by designing and implementing a new analytics governance model, with emphasis on architecting consistent root cause analysis procedures resulting in enhanced operational and customer engagement results.
+
+Summary:
+The main function of the Data Engineer is to develop, evaluate, test and maintain architectures and data solutions within our organization. The typical Data Engineer executes plans, policies, and practices that control, protect, deliver, and enhance the value of the organization s data assets.
+
+Job Responsibilities:
+Design, construct, install, test and maintain highly scalable data management systems.
+Ensure systems meet business requirements and industry practices.
+Design, implement, automate and maintain large scale enterprise data ETL processes.
+Build high-performance algorithms, prototypes, predictive models and proof of concepts.
+
+Skills:
+Ability to work as part of a team, as well as work independently or with minimal direction.
+Excellent written, presentation, and verbal communication skills.
+Collaborate with data architects, modelers and IT team members on project goals.
+Strong PC skills including knowledge of Microsoft SharePoint.
+
+Education/Experience:
+Bachelor's degree in a technical field such as computer science, computer engineering or related field required.
+5-7 years of experience required.
+Process certification, such as, Six Sigma, CBPP, BPM, ISO 20000, ITIL, CMMI.
+**Please submit candidates with the following must haves***
+Analytical and problem solving skills, applied to Big Data domain
+Proven understanding and hands on experience with Hadoop, Hive, Pig, Impala, and Spark
+5-8 years of SQL, Hive, Hadoop and Python, Shell (4-5 years)
+Java/J2EE development knowledge
+3+ years of demonstrated technical proficiency with Hadoop and big data projects
+Day to Day duties:
+Take requirements from Business Analyst and Stakeholders Analyze and see where changes are needed; perform impact analysis (if pipeline available); make sure proper connectivity to source & right credentials to connect to source; create pipelines (if not available)
+Data collection gather information and required data fields.
+Pull data from Oracle database (from different databases) put into Hive tables
+Data manipulation Join data from multiple data sources and build ETLs to be sent to Tableau (front-end dashboard) for reporting purpose
+Measure & Improve - Implement success indicators to continuously measure and improve, while providing relevant insight and reporting to leadership and teams.
+Must be able to optimize performance tuning/monitoring and development at the same time.
+Mostly we are looking for someone with advanced skills in SQL/Hive and moderate skills in python/shell and Hadoop. (A lot of times candidates screened have been really good in SQL but not in python/shell/Hadoop or vice versa.)
+
+All backend is in Hadoop/AWS.
+Mostly in house clusters, we do have the AWS Cloud platform though, so having that skill will really help.
+
+About 70% of the work we do is using SQL in high query language/ Hive. The other 30% is Python, shell script, oozie, spark, etc.
+Hive/SQL
+Hadoop
+Python/Shell Scripting (exchanging data between UNIX and other sources into Hadoop. All Hive tables we create will be pointed to the files in Hadoop)
+AWS - not super required but some of our data comes from AWS S3
+Interview:
+Ashok is first interview - ZOOM (video isn't necessary) - live coding/logic
+Gopi/Ran - second interview - ZOOM VIDEO
+Koga & Kayla - third interview - ZOOM VIDEO
+Onsite/Virtual with Koga/whole Big Data team
+Interviews focus on conceptual questions around python, shell, hadoop, hive. After that will be coding questions in SQL. After that, it's coding in Python and Shell scripting.
+Once we get to the next round, it is around performance tuning, ETL Design, business related questions to confirm they are a good fit for the project.
+
+Team: 2 Data Engineer, 1 BI Engineer (front-end development), 5 Biz Analyst, 1 PM, 1 Director
+Comments for Suppliers: Please DO NOT submit candidates interviewed on #569-1 and #1765-1 (same position/HM).

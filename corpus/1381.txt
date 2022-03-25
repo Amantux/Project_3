@@ -1,0 +1,7 @@
+Minimum 5 years of data engineering, ETL or software engineering experience with a focus on data extraction, transformation and publishing.
+Experience creating and maintaining automated data pipelines, data standards, and best practices to maintain integrity and security of the data; ensure adherence to developed standards.
+Experience in relevant technical languages and tools/technologies such as SQL, Python, REST APIs, Airflow, Spark, AWS
+Work closely with data architect to design and implement data solutions.
+Develop automated pipelines for ingesting, cleansing and publishing data.
+Develop extracts from REST API sources in a recoverable manner.
+Support existing solutions for Digital Application analytics.

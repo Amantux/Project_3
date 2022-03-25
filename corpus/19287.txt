@@ -1,0 +1,31 @@
+Zynga is a leading developer of the world’s most popular social games that are played by people around the world every single day. To-date, more than 1 billion people have played our games across Web and mobile, including Words With Friends, FarmVille, Zynga Poker, Merge Dragons, Empires & Puzzles, Hit it Rich! Slots and CSR.
+
+Zynga’s Marketing Data Science and Analytics team uses our outstanding and expansive data to deliver fundamental insights on who our audience is, how they engage with our games, and what are the best ways to acquire them. We strive for a better understanding of our players which translates into challenges and features that delight them.
+
+Here’s where you would come in: identify and formalize problems related to campaign optimization. Design and develop systems and services to optimize campaigns at scale. Be innovative, be creative, use every bit of that key commodity – data. Millions of people play Zynga games every day, so our data is tremendously rich, and we have a lot of it!
+
+We will rely on you to communicate your findings to your peers – both technical and non-technical. Your solutions to difficult problems will need to be demonstrably impactful, visual and maintainable. You will collaborate with engineering teams to build proof-of-concept and MVPs of campaign bidders and optimizers. You will collaborate with User Acquisition Managers, Product Managers, and Engineers to deliver business impact.
+
+Responsibilities:
+Design and implement scalable systems and models to experiment with campaigns and creatives across channels and acquire users at scale
+Work with large amounts of data to find and realize opportunities to acquire and re-target users profitably delivering unambiguous business metric impact
+Craft effective campaign strategies to acquire users across a multitude of user acquisition channels
+Drive and empower user acquisition team to make quantitatively informed, evidence based decisions - through custom visualizations, and ETLs to augment user data
+Design, test, verify and implement machine learning models with Zynga’s games that impact millions of users. Models may include but not limited to LTV modelling, campaign bid recommendations, budget allocation, clustering/segmentation, forecasting, fraud detection, and / or reinforcement learning
+Build prototypes and MVPs of services and applications that improve effectiveness of campaigns, creatives, ad networks and/or user segments.
+Required Skills and Experience:
+B.S. or B.A. in Math, Statistics, Comp Sci, Engineering, or other quantitative field required; Masters, MBA or PhD preferred
+5+ years of relevant work experience in data science or analytics role in a Marketing Analytics or a User Acquisition Analytics Team
+Familiar with mobile performance marketing and/or user acquisition landscape
+Strong experience in SQL;
+Proficient in Python; Proven fundamental programming skills (algorithms, data structures, OOP, OS, Networking, AWS Cloud); Ability to design distributed systems
+Ability to build and maintain software services and systems at scale; experience in deploying services in at least one cloud provider (AWS, Google Cloud or Azure)
+Proven experience with some of the following: machine learning, predictive modeling, deep learning
+Experience in analyzing large datasets, preferably in a Hadoop or Spark environment, and deploying production ready systems at scale
+Strong written and oral communication skills
+Strong passion for gaming and performance marketing!
+Zynga is an equal opportunity employer. We are proud of our broad community; we do not discriminate on the basis of race, sex, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, medical condition, disability, or any other class or characteristic protected by applicable law. We welcome job-seekers, players, employees, and partners from all backgrounds. Join us!
+
+We will consider all qualified job-seekers with criminal histories in a manner consistent with applicable law.
+
+Zynga is committed to providing reasonable accommodation to applicants with disabilities. If you need an accommodation during the interview process, please let us know.

@@ -1,0 +1,90 @@
+Data Scientist II
+
+Job Category:
+
+Information Technology
+
+Department:
+
+Advanced Analytics Lab
+
+Location:
+
+Los Angeles, CA, US, 90017
+
+#job-location.job-location-inline {
+display: inline;
+}
+
+Position Type:
+
+Full Time
+
+Requisition ID:
+
+5568
+
+Established in 1997, L.A. Care Health Plan is an independent public agency created by the state of California to provide health coverage to low-income Los Angeles County residents. We are the nation’s largest publicly operated health plan. Serving more than 2 million members in five health plans, we make sure our members get the right care at the right place at the right time.
+
+Mission: L.A. Care’s mission is to provide access to quality health care for Los Angeles County's vulnerable and low-income communities and residents and to support the safety net required to achieve that purpose.
+Job Summary
+The Data Scientist II is responsible for supporting L.A. Care’s strategic business initiatives through the application of predictive analytics as part of production workflows. This individual will lead projects through the iterative data science process (Stating the Question > Exploratory Data Analysis > Model Building > Interpretation > Communication > Operationalization), collaborating with business, I.T., and data subject matter experts from across the enterprise.
+Duties
+Ability to query, transform, and integrate data from multiple sources and structures.
+
+Research and develop predictive learning models using modeling software.
+
+Effective communication of reproducible analyses and results (including failures), both visually and orally, in peer review and customer settings.
+
+Collaborate and work closely with other departments to identify gaps and structure problems.
+
+Propose solutions and actionable strategies to business challenges.
+
+Work closely with domain experts (both business and data) to understand processes and solution inputs.
+
+Monitor the performance of operationalized predictive models.
+
+Perform other duties as assigned.
+Education Required
+Bachelor's Degree in Computer Science or Engineering
+In lieu of degree, equivalent education and/or experience may be considered.
+Education Preferred
+Master's Degree in Statistics
+Experience
+Required:
+At least 6-8 years of traditional data analysis, including querying, aggregation, basic statistical analysis, and visualization with the intent to provide business insights (preferably in a health plan).
+
+At least 2+ years of applied predictive modeling in a business setting (preferably in a health plan).
+Skills
+Required:
+Working knowledge of relational databases, database structures.
+
+Proficiency in Apache Spark, R and SQL (Tableau, Python, and SAS a plus).
+
+Exploratory data analysis capabilities to understand the data. e.g., estimates of location and variability, correlation matrices, feature comparison visualization, trend analysis.
+
+Regression and classification predictive model development and interpretation using: Heuristic/traditional techniques. e.g., linear regression, logistic regression, Naïve Bayes; Supervised machine learning techniques. e.g., decision trees, bootstrap aggregation, boosting, deep learning; Unsupervised machine learning techniques. e.g., k-means clustering, principal component analysis, hierarchical clustering.
+
+Working optimally as part of a cross-functional team.
+
+Ability to initiate and drive projects to completion with minimal guidance.
+
+Ability to problem solve and quickly find solutions on your own.
+
+Strong interpersonal skills, including the ability to influence management at various levels of the organizations.
+Licenses/Certifications Required
+Licenses/Certifications Preferred
+Required Training
+Additional Information
+
+L.A. Care offers a wide range of benefits including
+Paid Time Off (PTO)
+Tuition Reimbursement
+Retirement Plans
+Medical, Dental and Vision
+Wellness Program
+Volunteer Time Off (VTO)
+
+Nearest Major Market: Los Angeles
+Job Segment:
+Medical, Healthcare

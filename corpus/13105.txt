@@ -1,0 +1,33 @@
+Kochava provides a unified platform with solutions for mobile advertising and marketing technology clients; serving the world’s top brands and apps.
+
+We are growing fast as we add new clients and services and we are looking to add talented, dedicated and innovative people who will strengthen our core team.
+
+We’re looking for a Data Scientist to function as a key member of Kochava’s Data Science team to develop, validate, and maintain predictive modeling solutions for a variety of unique problems in the ad-tech space. As a Data Scientist, you’ll be applying machine learning and statistical techniques on vast data sets to create and support data-driven products and business insights.
+Job Responsibilities
+Develop machine learning models to create innovative solutions to problems in the attribution and measurement industry
+Develop data pipelines to support modeling processes
+Support business needs with ad hoc analysis
+Continually improve the accuracy and efficiency of current modeling pipelines
+Communicate findings to management
+Assist in experimental design and hypothesis testing of marketing campaigns
+Experience/Skills Required
+2 + years of experience with R or Python for statistical analysis, data visualization, and predictive modeling
+2 + years of experience with SQL for data analysis
+Strong applied statistics skills
+Working knowledge of popular machine learning algorithms, such as regression, clustering, random forest, and gradient boosting
+A passion for tackling new challenges and working with large amounts of data
+Strong business acumen
+Works well with a team
+Feels a strong sense of self-motivation
+Bonus
+Experience in working with ad technology and performance marketing
+Experimental Design and hypothesis testing
+Experience with the following technologies: Apache Spark, Tableau, Amazon Redshift, Google BigQuery
+Experience working with high volume and high velocity data in a distributed environment
+Our Start
+Kochava began in 2011 when a team of mobile and gaming professionals saw the need to better understand the feedback loop of user acquisition, engagement, and LTV for mobile applications. Through the process of creating apps for customers from a wide range of industries, we were repeatedly asked if we could shed some light on what media advertising efforts were converting and the effectiveness of their mobile ad spend by partner. Realizing a solution to these questions wasn’t readily available, we started designing and building a mobile measurement platform that would become Kochava.
+
+Our HQ Location
+We live and work in the wonderful ski resort town of Sandpoint, Idaho. Kochava has sales and agency representation in major markets worldwide, but we choose to grow our development and engineering infrastructure around Sandpoint, as it allows us to stay focused on cutting code while taking advantage of the community and quality of life the town offers to our team.
+
+Kochava is an equal opportunity employer committed to building a team culture that celebrates diversity and inclusion.

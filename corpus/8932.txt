@@ -1,0 +1,23 @@
+Job Description
+
+Assist in development and deployment of statistical and platform code on high-performance computing systems. Ideal candidate will have experience reviewing and debugging large code bases, will possess a background in quantitative methods and/or computer science, and has proven capabilities in translating requirements into efficient code. Role involves working closely with data scientists and software engineers in development, testing and deployment of a large statistical system for production-grade analysis and prediction, so experience working in an interdisciplinary team with a strong attention to detail is a plus.
+
+Qualifications
+
+Key Skills
+
+1. Deep experience with the R statistical programming language, including dplyr and associated packages.
+
+2. Solid foundational understanding of computer science (e.g., functional programming) and software engineering practices.
+
+3. Experience with large-scale parallel computing, especially Spark/SparkR and DataBricks (or similar) required.
+
+4. Prior experience using git as a shared code repository for large projects.
+
+5. Experience with Azure or similar cloud solutions preferred.
+
+6. Background and experience with statistical methods, data analysis and machine learning is a plus.
+
+Additional Information
+
+All information will be kept confidential.

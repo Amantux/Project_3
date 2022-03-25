@@ -1,0 +1,43 @@
+Job Description
+Context
+
+Working in teams (consisting of Hadoop data engineers, Hadoop data warehouse engineers, and platform engineers) that are building and managing Hadoop stacks. The teams install, configure and manage Hadoop ecosystem components.
+
+As Hadoop data engineer, you are responsible for the functional part of provisioning data – e.g. building data ingestion pipelines and data connectors. You work closely with the data scientists and business intelligence engineers who are using this data to create analytical models.
+
+Competence
+
+You are well acquainted with the complete Hadoop stack. In addition, you have practical experience of being part of a DevOps team. Further requirements:
+Bachelor of Science / Master’s degree in Computer Science, System Administration, or any other IT infrastructure or software related study with a passion for the automation side of IT infrastructure
+Minimum 2-3 years of relevant work experience
+Capable of building/operating highly available, distributed systems of data extraction, ingestion, and processing of large data sets of structured, semi-structured and unstructured data
+Experience in building data products incrementally and integrating and managing data sets from multiple sources
+Data quality oriented
+Familiar with data architecture including data ingestion pipeline design, Hadoop information architecture
+Hortonworks Certified Hadoop Developer and/or Cloudera Certified Hadoop Developer and/or Certified Hadoop Administrator
+Knowledge of continuous integration & delivery tooling: e.g. Jira, Git, Jenkins, Bamboo
+Coding proficiency in at least one modern programming language (Python, Ruby, Java)
+Strong verbal and written communication skills
+Good documenting capabilities
+You have a hands-on mindset, a strong customer focus, a problem-solving orientation and can show fast results
+You have a clear focus on results and quality.
+Willingness to travel to the Netherlands if required for training or project work
+Activities
+Build efficient and highly reliable data ingestion pipelines for the Hadoop stack
+Own data quality and data knowledge around all data that you touch
+Work side-by-side with software engineers and data scientists in designing modeled data sets to be used in many different applications, from proof-of-concept to production
+Understand the entire life cycle of data that flows through any systems for which you are responsible
+Pay constant attention and effort to the reliability of your pipelines
+Contact
+
+Reports to the Itility project manager, working in close harmony with team members and interfacing with the standing IT organization.
+Company Description
+In large organizations, project managers, architects, and business analysts often operate autonomously. Not at Itility. Here these competencies are combined into customer-targeted teams, enabling the rapid delivery of results (within weeks). This rigorous approach is an essential feature of the Itility high-end consultancy formula.
+
+At Itility, you can advance your career as an IT professional; working on projects, Smart Factories, Smart Run, and consulting assignments onsite. An Itility team always comprises multiple competencies; ranging from project manager and scrum master to stack engineer, DevOps engineer and architect.
+
+Our teams direct project implementation. We begin by using our own IT assessment methodology to analyze customer problems, then define the best solutions, while determining required actions.
+
+This knowledge-intensive approach has a proven direct and positive impact on career development. With Itility, you’ll obtain a broad view of the IT profession; working with one customer in the implementation phase and another in the preparatory phase.
+
+To support your development, we provide resources in the form of training, and our Itility toolkits (Ikits); including the Project Management Ikit, the Scrum Ikit, and the Smart Factory Ikit.

@@ -1,0 +1,62 @@
+As a data engineer, you will build a solid data foundation that powers the entire spectrum from Business Intelligence to Artificial Intelligence. Youll be critical to helping us in our transition from batch to real-time, one-to-one to many-to-many connections, centrally managed infrastructure to self-service tools that allow easy experimentation, and from manual to automated processes.
+
+This role will work closely with the Data Science and AI team and will focus on the enablement and acceleration of new and existing workflows. We need someone who will bring a thoughtful perspective, empathy, creativity, and a positive attitude to solve problems at scale. This role is ideal for someone looking to extend software engineering skills into the field of Machine Learning and Artificial Intelligence.
+
+Responsibilities:
+
+• Establish scalable, efficient, automated processes for data analyses, model development, validation and implementation
+
+• Work closely with data scientists and analysts to create and deploy new features
+
+• Write efficient and well-organized software to ship products in an iterative, continual-release environment
+
+• Monitor and plan out core infrastructure enhancements
+
+• Contribute to and promote good software engineering practices across the team
+
+• Mentor and educate team members to adopt best practices in writing and maintaining production code
+
+• Communicate clearly and effectively to technical and non-technical audiences
+
+• Actively contribute to and re-use community best practices
+
+Requirements:
+
+• University or advanced degree in engineering, computer science, mathematics, or a related field
+
+• Strong experience working with a variety of relational SQL and NoSQL databases
+
+• Strong experience working with big data tools: Hadoop, Spark, Kafka, etc.
+
+• Experience with at least one cloud provider solution (AWS, GCP, Azure)
+
+• Strong experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.
+
+• Ability to work in Linux environment
+
+• Experience working with APIs
+
+• Strong knowledge of data pipeline and workflow management tools
+
+• Expertise in standard software engineering methodology, e.g. unit testing, code reviews, design documentation
+
+• Experience creating ETL processes that prepare data for consumption appropriately
+
+• Experience in setting up, maintaining and optimizing databases for production usage in reporting, analysis and ML applications
+
+• Working in a collaborative environment and interacting effectively with technical and non-technical team members equally well
+
+• Relevant working experience with Docker and Kubernetes preferred
+
+• Ability to work with ML frameworks preferred
+
+Will be a plus:
+Knowledge of CI/CI processes and components
+Experience with OKTA and Optimizely
+
+NB:
+
+Placement and Staffing Agencies need not apply. We do not work with C2C at this time. At this moment, we are not able to process H1B transfers. Applicants with CPT and OPT visas are welcome to apply.
+
+About us:
+Grid Dynamics is the engineering services company known for transformative, mission-critical cloud solutions for retail, finance and technology sectors. We architected some of the busiest e-commerce services on the Internet and have never had an outage during the peak season. Founded in 2006 and headquartered in San Ramon, California with offices throughout the US and Eastern Europe, we focus on big data analytics, omnichannel services, DevOps, and cloud enablement.

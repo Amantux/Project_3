@@ -1,0 +1,59 @@
+Senior Business Intelligence Developer (Tableau)
+Location San Diego, CA
+Apply Now
+POSITION: Senior Business Intelligence Developer
+DEPARTMENT: Network Technology & Data Services
+REPORTING SUPERVISOR: Manager, Business Intelligence Reporting
+DIRECT REPORTS: No
+FLSA: Exempt
+EMPLOYMENT STATUS: Direct Hire
+TRAVEL REQUIREMENTS: N/A
+SCHEDULE: M-F 8:30a-5p.
+ABOUT THE TEAM:
+The Data Services team mission is to unify data across the enterprise to optimize business decisions made at the strategic, tactical, and operational levels of the organization. We accomplish this by providing an Enterprise Data Warehouse, reporting platform, and business processes that provide quality data, in a timely fashion, from any channel of the company and present them in such a manner as to maximize the value of that data for both internal and external customers.
+ABOUT THE JOB:
+As a Senior Business Intelligence Developer, you are responsible for designing and developing moderate to complex Business Intelligence reporting to facilitate business operations. You will also be part of a team working with new data technologies and tools like Tableau, Alteryx, Spark, Scala, HBase, Hadoop, HDFS, MongoDB and others to provide faster, more accurate, and deeper insights into our products and services. As a member of the growing data services and business analytics team, the person in this role will be a key contributor to the successful deployment of strategic future state capabilities critical for our business. As a Senior on the team, you will coach and mentor less seasoned developers in reporting duties.
+RESPONSIBILITIES:
+-Design, develop and test moderate to complex Tableau dashboards and data visualizations.
+-Leverage established guidelines and custom designs to create complex formulas and calculations to meet the needs of the business.
+-Design, develop, and test moderate to complex reports using a variety of tools, which include Tableau, Alteryx, Transact-SQL, SSIS, Stored Procedures and Functions in SQL Server 2014 and later environments.
+-Contribute to the definition and development of the overall reporting roadmap.
+-Translate reporting requirements into reporting models, visualizations and reports by having a strong understanding of the enterprise architecture.
+-Standardize reporting that helps generate efficiencies, optimization and end user standards.
+-Work with minimal guidance to meet or exceed the User expectations by designing effective and maintainable solutions that meet reliability, accuracy and performance standards based on gathered requirements.
+-Integrate dashboards and reports from a variety of sources, assuring that they adhere to data quality, usability and business rule standards.
+-Determine methods and procedures on new or existing requirements and functionality with little to no guidance.
+-Work closely with analysts and data engineers to identify opportunities and assess improvements of our products and services.
+-Drive workshops or training sessions with the business user community to further their knowledge and use of Reporting and Visualization tools.
+-Produce and maintain accurate project documentation.
+-Collaborate with various data providers to resolve dashboard, reporting and data related issues.
+-Perform Data Services reporting benchmarking, enhancements, optimizations, and platform analytics.
+-Develop from strategic and non-strategic data sources including data preparation/ETL and modeling for data visualizations in a self-service platform.
+-Participate in the research, development, and adoption of trends in reporting and analytics.
+-Mentor BI Developers and BI Analysts
+-Other duties as assigned.
+QUALIFICATIONS:
+Education: Bachelor's degree preferred or equivalent experience
+Experience:
+-Minimum 5 years required, including experience with gathering & analyzing user requirements required
+-Minimum 5 years working in the field of analytics required
+-Minimum 3 years of experience creating reports, dashboards, and/or summarizing large amounts of data into actionable intelligence to drive business decisions required
+-Minimum 3 years of experience with MS SQL Server, MySql, Oracle or PostgreSQL required
+-Minimum 3 years with visual data analysis using tools such as Tableau, QlikView/QlikSense, Microstrategy, or other Business Intelligence platforms required
+Knowledge/Skills/Abilities:
+-Strong organizational skills with the ability to prioritize and execute tasks across multiple projects with tight deadlines and aggressive goals.
+-Advanced to Expert working knowledge of Microsoft Transact-SQL (T-SQL) and demonstrated ability to create ad-hoc SQL queries to analyze data, create prototypes, etc.
+-Experience with data preparation and modeling in Alteryx are a plus.
+-Experience with public or hybrid cloud environments are a plus.
+-Experience with big data technologies like Spark, Scala, Kafka, Hbase, Hadoop, HDFS, AVRO, MongoDB and Redshift are a plus.
+-Ability to understand complex issues and clearly articulate complex ideas.
+-Demonstrated ability to champion change, influence and drive results in a complex organization.
+-Experience leading workshops or training sessions within a user community a plus.
+-Excellent verbal and written communication skills.
+Personal Attributes:
+-Detail oriented
+-Analytical
+-Passionate about data
+-Quality driven
+-Positive, outgoing and creative attitude
+-Committed to personal development and professional growth

@@ -1,0 +1,32 @@
+Overview of the role:
+
+We’re looking for a full-time Sr. Software Engineer with a passion for collaboration, problem-solving, and software development. As Sr. Engineer, you’ll be responsible for designing, building, and deploying features while working with the members of Kazoo’s engineering team. You’ll be using Node, React, MongoDB, Express, Postgres and other modern technologies.
+
+.What you'll do:
+Mentor the Engineering team as they design, build, and deploy scalable web applications
+Champion engineering best practices
+Write maintainable, extensible, performance-minded code (full stack)
+Write reliable tests, review others’ code
+Influence our product’s direction with your ideas and technical expertise
+Support our customers by understanding their needs and improving our platform to meet them
+What you’ll need to be successful:
+Ability to lead by example
+Excellent written and oral communication skills
+A strong desire to innovate, experiment, collaborate and learn
+Ability to lead technical projects and communicate technical problems concisely
+High standards for quality and attention to detail
+Minimum 5 years of application development experience required
+Strong knowledge of JavaScript
+Strong abilities with HTML and CSS, knowledge of HTML5, CSS3
+Server-side experience working with Node
+Modern front-end framework experience (React preferred)
+Experience with relational and non-relational data stores such as Postgres and Mongo
+Experience with AWS, S3, Heroku, GCP
+Advocate for modern software engineering practices such as continuous integration, unit testing, and automated deployments
+In-depth understanding of web app scalability
+A proven track record developing production applications
+Experience with agile software development processes such as scrum
+Desired Skills & Experience:
+DevOps knowledge is a plus
+Experience in both creating and consuming GraphQL APIs is a bonus
+Experience in Ruby on Rails is a big bonus

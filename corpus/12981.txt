@@ -1,0 +1,27 @@
+The Amazon Devices-Demand Planning team is seeking an outstanding scientist with strong analytical and communication skills to help with demand forecasting and supply optimization for the entire Amazon device family of products and accessories. We develop scalable and robust state-of-the-art solutions that involve learning from different data sources. This role is central to the continued growth of Amazon Device division as we have grown from the first Kindle E-Reader to a vast portfolio of Echo, Fire TV, Fire Tablet, E-Reader, Ring and many other devices. With better forecasts we drive down supply chain costs, enabling the offer of lower prices and better in-stock selection for our customers.
+In this role, you will have an opportunity to both develop advanced scientific solutions and drive critical customer and business impacts. You will play a key role to drive end-to-end solutions from understanding our business requirements, exploring a large amount of historical data, building prototypes and exploring conceptually new solutions, to working with partner teams for prod deployment. You will collaborate closely with engineering peers as well as business stakeholders. You will be at the heart of a growing and exciting focus area for Amazon Devices.
+
+You are an individual with outstanding analytical abilities, excellent communication skills, and are comfortable working with cross-functional teams and systems. You will be responsible for researching, prototyping, experimenting, and analyzing predictive models.
+
+Key responsibilities:
+· Research and develop new methodologies for demand forecasting and price modeling.
+· Improve upon existing methodologies by adding new data sources and implementing model enhancements.
+· Drive scalable solutions.
+· Create and track accuracy and performance metrics (both technical and business metrics).
+· Create, enhance, and maintain technical documentation, and present to other scientists, engineers and business leaders.
+· Drive best practices on the team; mentor and guide junior members to achieve their career growth potential.
+
+
+
+Basic Qualifications
+
+· PhD or equivalent Master's Degree plus 4+ years of experience in a quantitative field.
+· Strong analytical skills.
+· 2+ years of experience of building predictive models for business and proficiency in model development and model validation.
+· Experience in efficiently handling large data sets, e.g., by using SQL, and databases in a business environment.
+· Experience with R, Python, Matlab or other scripting languages.
+
+Preferred Qualifications
+
+· Experience with time series modeling and machine learning forecasting.
+· Experience with price modeling.

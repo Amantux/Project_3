@@ -1,0 +1,61 @@
+Enterprise Data Governance Project Overview:
+
+The Enterprise Data Governance Project aims to enable COMPANY to manage its "Data-As-An-Asset” and to build the foundation for an enterprise data analytics platform at COMPANY. This program will focus on enabling data stewardship, improving the quality of our data assets, increasing data security and protection, simplifying data integration and establishing better audit trail on data usage at COMPANY.
+
+This program will implement Data Governance & Data Integration tools and processes to provide data owners and data consumers the ability to provision and access high quality, well-governed data for their day-to-day operations. In addition, it will help establish a strong foundation upon which to build a world-class Data Analytics capability that turns data into business insights more efficiently and effectively.
+
+What You Will Be Doing:
+
+1. Execution of the Data Discovery Project Phase 2
+o Conduct data discovery stakeholder interviews with business and IT stakeholders (selected applications)
+o Identify data sets, develop data flows, understand data-related processes and identify key data issues for each application
+o Update of Enterprise Data Flow diagrams and Enterprise Data Catalog inventory
+o Creation of Application Playback decks and Data Discovery report & presentation
+
+2. Enablement of Data Roles within COMPANY
+o Maintenance of datasets and data roles in the Enterprise Data Catalog - additions, updates and deletions
+o Identification of updates / changes to existing data roles for the datasets in the COMPANY Data Catalog
+o Perform onboarding, transition and education of COMPANY stakeholders for the Data Roles at the enterprise (Data Owner, Data Steward, Data Custodian)
+o Conduct of quarterly Data Owner meetings to communicate upcoming Data Governance initiatives / processes / policies / best practices
+
+3. Lead in onboarding and implementation of Collibra Data Governance tool
+o Onboarding of new datasets into Data Governance tool
+o Establishment of Data Catalog and shop-for-data feature in Data Governance tool
+o Manage metadata ingestion (manual and automated) from different sources
+o Creation of new workflows in Collibra Data Governance tool
+o New custom workflow for Data Access Request
+o New custom workflow for Business Glossary – from proposal to approval
+o New custom workflow for asset creation, review and validation
+o Training and onboarding of COMPANY stakeholders to Collibra
+
+4. Development of new Data Governance Policies, Procedures and Standards
+o Develop and operationalize new Data Access Request process
+o Design of new Enterprise Data Request Process, based on ongoing pilot feedback
+o Implementation of new Data Request Process - app by app – working with application owners and business stakeholders
+o Communication and training of all enterprise users on new Data Request Process
+o Development and execution of Change Management plan for Data Discovery, Data Access Request and operationalization of new Data Governance workflows
+
+Skills & Requirements:
+
+Level 2 (5-10 years experience)
+• Strong knowledge of Data Governance & Quality - policies, processes and tools
+• Strong experience & expertise in using Collibra Data Governance tool
+• Knowledge (experience preferred) using Trillium Data Quality tool and integration with Collibra
+• Working experience in implementing Data Governance policies and processes
+• Experience working on teams that work under Agile principles
+
+Education:
+
+• Undergraduate degree in Engineering, Computer Science, Data Management, or similar field of study. Graduate degree preferred.
+• 3+ years of demonstrated Data Governance experience
+• Minimum of Level 2 Certification in Collibra required
+* * *
+Donnelly & Moore is proud to be an Equal Opportunity Employer
+
+We celebrate and embrace the diverse cultures, perspectives, skills and experiences within our workforce, and strive to empower each individual.
+
+When you are hired by Donnelly & Moore you enjoy these benefits:
+A 401K Retirement Savings Plan administered by ADP
+Eligibility to Purchase Medical, Dental & Vision insurance through Donnelly & Moore
+
+"DONNELLY & MOORE reserves the right to contract only with direct employers/sponsors of applicants and will not contract with intermediaries of applicants. Donnelly & Moore Corporation may request proof of such direct employment/sponsorship prior to considering any applicant"

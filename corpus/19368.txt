@@ -1,0 +1,28 @@
+Job Description
+Treehouse Technology Group is changing the way individuals interact with the data they generate on a daily basis. We are looking for hard-working, game-changing people who are able to take big technical ideas and market them to non-technical people. We are looking for big thinkers and doers that constantly push to the next level. Joining Treehouse Technology Group means being part of a team that is redefining data analytics and business intelligence software. Redefining an industry is hard work and it takes focused, dedicated team players. Come get in the game.
+
+As a Data Integration Engineer, you will work with stakeholders and the internal development team to build enterprise data solutions. The Data Engineer is a technical customer facing role that will be accountable for data infrastructure, development, deployment and support. The Data Engineer will work with stakeholders and team members to identify opportunities to leverage data to drive business value. In addition, you will be responsible for mining and analyzing data to drive efficiency and optimization, develop custom data models and algorithms, and develop processes and tools to monitor production systems and data accuracy.
+
+The ideal candidate will have experience in customer facing and development management roles and have led successful technical and economic value discussions with senior customer executives, driving decisions and implementation.
+
+Requirements:
+Minimum 4 years related experience
+AWS and\or Azure experience building solutions in Cloud Environments
+Agile software development experience
+Data background in ETL, API development, and web scraping
+Preferred location: Austin, TX – others considered
+Technical Background
+
+· Must: Java 11, Apache Camel, Spring (MVC, Security, JPA)
+As a plus: Python, JMS (ActiveMQ), Talend ESB, SQL user, AWS SDK (S3, Beanstalk), Apache POI, Jackson, Flyway
+Optional: Docker, Kubernetes, Salesforce API
+InsightOut™ by Treehouse Technology Group is a data visualization platform that turns disparate, raw data into actionable business intelligence. It features a powerful method to integrate internal, proprietary data and third-party data into a common platform that will transform analytics into insights. Our user-friendly and visual-first focus enables all users and abilities to work with and create value from data and enable complex client reporting. Not just for internal analysis anymore, InsightOut™ provides industry leading capabilities to our clients by providing them a platform to share raw data, visualizations and insights discovery with external clients and stakeholders as necessary. Additionally, no other business intelligence tool uses real-time animation to show time-series data trends with the ability to customize that data on the fly.
+
+We offer competitive compensation, company-sponsored premium benefits, full medical premiums covered, optional dental, vacation/holidays, etc. This can be a fully remote or work-from-home position, but those based in Austin have the option to work in an office. Treehouse Technology Group is an equal opportunity employer. We consider all qualified applicants of diverse background and hire without regard to race, color, gender identity, religion, national origin, ancestry, citizenship, physical abilities, age, sexual orientation, veteran status, or any other characteristic protected by law.
+Company Description
+InsightOutTM by Treehouse Technology Group is a data visualization platform that turns disparate, raw data into actionable business intelligence. It features a powerful method to integrate internal, proprietary data and third-party data into a common platform that will transform analytics into insights. Our user-friendly and visual-first focus enables all users and abilities to work with and create value from data and enable complex client reporting. Not just for internal analysis anymore, InsightOutTM provides industry-leading capabilities to our clients by providing them a platform to share raw data, visualizations and insights discovery with external clients and stakeholders as necessary. Additionally, no other business intelligence tool uses real-time animation to show time-series data trends with the ability to customize that data on the fly.
+Accordingly, we perform vendor analysis and technical development based on industry best practices. When an off-the-shelf solution does not meet the needs of our partners, custom application development is necessary to bridge the gap between best-in-breed (specialized) and ERP solutions (general).
+
+
+
+TTG prides itself on our ability to solve complex business problems with custom-tailored solutions that support the ever-changing business environment of our partners. We focus on business value first, aligning the strategy and direction of our partners with their specific technical needs, before providing a technology roadmap to implement the mutually established vision. By working closely with our partners and obtaining feedback along the way, we guarantee a positive experience that yields fruitful results.

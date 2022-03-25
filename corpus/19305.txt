@@ -1,0 +1,26 @@
+WorldQuant develops and deploys systematic financial strategies across a variety of asset classes and global markets. We seek to produce high-quality trading signals (Alphas) through our proprietary research platform to employ trading strategies focused on exploiting market inefficiencies. Our teams work collaboratively to drive the production of Alphas and financial strategies the foundation of a sustainable, global trading platform.
+
+Technologists at WorldQuant research, design, code, test and deploy projects while working collaboratively with researchers and portfolio managers. Our environment is relaxed yet intellectually intense. Our teams are lean and agile, which means rapid prototyping of products with immediate user feedback. We seek people who think in code, aspire to solve undiscovered computer science challenges and are motivated by being around like-minded people. In fact, of the 600 employees globally, approximately 500 of them code on a daily basis.
+
+WorldQuants success is built on a culture that pairs academic sensibility with accountability for results. Employees are encouraged to think openly about problems, balancing intellectualism and practicality. Great ideas come from anyone, anywhere. Employees are encouraged to challenge conventional thinking and possess a mindset of continuous improvement. Thats a key ingredient in remaining a leader in any industry. Our goal is to hire the best and the brightest engineers. We value intellectual horsepower first and foremost, and people who demonstrate an exceptional talent. There is no roadmap to future success, so we need people who can help us create it. Our collective intelligence will drive us there.
+
+The Role:
+
+Design and implement software to facilitate data integration with trading and simulating systems
+Adopt new technologies to improve existing frameworks of data flow and monitoring
+Implement and maintain software that interface with external vendors to bring in new data sets
+Implement the rules and procedures that ensure integrity in data sets
+Provide second level support to production support team regarding market data issues
+Collect and analyze statistics on market data applications and devise approaches to improve the relevant processes
+Design and implement systems that track and manage data availability, access and usage
+What Youll Bring:
+
+Degree in a quantitative or technical discipline from a top university and strong academic scores
+Interest in applying technology to real situations, comfortable working in a fast-paced environment, detail-oriented and capable of performing tasks under pressure
+Demonstrated experience with C++ or other object oriented languages
+Experience with scripting languages such as Perl, Python, and shell scripting; Interface with database (such as MySQL)
+Possess strong trouble shooting and problem solving skills
+Ability to work independently and as member of a team
+Strong verbal and written communication skills
+Have experience working under a Linux environment, familiar with Vim or Emacs for editing files under the command line
+Copyright © 2020 WorldQuant, LLC. All Rights Reserved. WorldQuant is an equal opportunity employer and does not discriminate in hiring on the basis of race, color, creed, religion, sex, sexual orientation or preference, age, marital status, citizenship, national origin, disability, military status, genetic predisposition or carrier status, or any other protected characteristic as established by applicable law.

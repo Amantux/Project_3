@@ -1,0 +1,51 @@
+What if your job description were simply "Accelerating Innovation through Trustworthy Experimentation." That's the essence of roles within our team. Are you a data scientist who has a strong appreciation for trustworthiness of results, insatiable curiosity, and ability to challenge yourself and drive a cultural change towards data driven decision making in multi-billion dollar businesses? Do you want to be involved in data-driven controlled experiments that regularly generate returns in the millions of dollars annually, sometimes over $100m? We are looking for experienced data scientists who know how to solve complex big data problems, work with statistics and algorithms, analyze big data and can run controlled experiments. You can be involved in experiments in a wide range of heavily used products from Bing to Office clients to Office services, Skype, Teams, Photos, MSN, Xbox, Windows, and more.
+
+We are the Analysis & Experimentation Team (A&E) at Microsoft and part of the Cloud & AI (C&I). Daily, new data sources and signals come in and we need intelligent people who can dive into that data, make sense of it, and use it to solve large-scale problems all around C&I and Microsoft.
+
+Did you ever think that two pixels could result in millions of dollars of added revenue? This was just one of the thousands of experiments that we ran. Want to be at the forefront of Big Data? Want to ship features at a startup-like pace? If so, join the Microsoft Analysis and Experimentation team. We are building a world-class experimentation platform (ExP) that accelerates innovations for key partners in Microsoft by testing new ideas quickly and reliably. Such as: What factors affect the quality of the Bing user experience? What causes users to make a first payment with XBox? The list of needs grows every day. The ability to experiment is credited as one of the key reasons that Bing quickly closed the gap on Google. We are now at the next phase of our mission: bring Bing’s innovation process to the rest of Microsoft. Come and join us in the revolution!
+
+www.exp-platform.com
+
+Responsibilities
+
+Apply your expertise in quantitative analysis, data mining, and the presentation of data to develop experiments and provide algorithmic problem-solving solutions.
+
+Build data manipulation, processing, and data visualization tools and share these tools and your knowledge across the team, C&I, and Microsoft.
+
+Handle large amounts of data using various tools, including your own. We prefer knowledge of Python, Java, C++ or C# as well as Hadoop, Hive, Pig, Spark but are open to all languages.
+
+Ensure high-quality data and understand how that data which is generated out experimental design can produce actionable, trustworthy conclusions.
+
+Partner with internal clients such as Xbox, Windows, Skype for Business, Teams, Microsoft Office 365
+
+Drive end-to-end projects by utilizing, applying and analyzing data associated business problems.
+
+Engage with senior management in making key business decisions.
+
+Mentor others in the team
+
+Qualifications
+
+Bachelor's or Master's degree in a quantitative field, and at least 5 years of relevant work experience. PhD preferred.
+
+Strong programming skills - We are programming-language agnostic so welcome all languages but prefer Java, C++, C# with tools such as Hadoop, Spark, Pig or Hive in your background.
+
+Scripting knowledge in Python, R, MATLAB, Perl, SQL or similar languages.
+
+Strong algorithmic problem-solving skills.
+
+Applied statistics & mathematics skills: p-values, confidence intervals, regression, classification, and optimization are core lingo.
+
+Superior verbal, visual and written communication skills to educate and work with cross functional teams on controlled experiments.
+
+A willingness to learn, share, and improve.
+
+Experimentation design or A/B testing experience is preferred.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+
+#EXPDS#
+
+ Microsoft Corporation (NASDAQ: MSFT) is an American public multinational corporation headquartered in Redmond, Washington, USA that devel...

@@ -1,0 +1,13 @@
+The Paragon Group is a Columbus, Ohio based Information Technology firm delivering high quality, cost effective resources to a progressive clientele. Founded in 1998, The Paragon Group has a full time staff of highly skilled, motivated professionals. The Paragon Group provides staff augmentation, temp-to-perm placements, permanent placements, and consulting services both locally and nationally. We are a full time employer and offer a full benefits package. We are currently looking for a Data Analyst for a contract to hire position here in Columbus, OH.
+
+Job Description:
+Data quality analyst familiar with ServiceNow, who will be required to work within the IT Asset and Configuration Management team and will be specifically focused on data quality review and data cleanup
+Discovery scans will be applied to the production environment which will capture and categorize assets within the existing structure database; These discovery schedules will capture and create new hardware and software models, and create the related hardware and software assets
+Candidate will be responsible for reviewing the data quality of these new assets, ensuring appropriate categorization, and that the new assets contain required data to ensure appropriate production support
+Candidate will work with support teams to capture lifecycle status and end of life/support dates in support of Technical Debt reporting and be responsible for additional data quality clean-up initiatives including potential duplicate assets, misconfigured assets, and retirement of related assets is in scope for this position
+Job Requirements
+Contract to Hire position *no C2C*
+Must have experience with data analysis and data quality
+Experience with ServiceNow (or similar product) preferred
+Must have excellent communication and documentation skills
+Experience with IT Asset Management preferred

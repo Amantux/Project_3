@@ -1,0 +1,34 @@
+About SurveyMonkey
+
+
+SurveyMonkey (NASDAQ: SVMK) is a leading global survey software company on a mission to power the curious. The company's People Powered Data platform empowers over 17 million active users to measure and understand feedback from employees, customers, website and app users, and the market. SurveyMonkey's products, enterprise solutions and integrations enable 335,000+ organizations to solve daily challenges, from delivering better customer experiences to increasing employee retention. With SurveyMonkey, organizations around the world can transform feedback into business intelligence that drives growth and innovation.
+
+SurveyMonkey is a place where the curious come to grow. By embedding inclusion into our processes, policies, and culture, we are building a workplace for our 1,000+ employees across North America, Europe, and APAC where people of every background can thrive. We've won multiple awards and received recognition for our forward-looking policies, including extended parental and bereavement leave, vendor benefits standards, and Take 4 sabbaticals.
+
+SurveyMonkey was recognized by Great Place to Work® and FORTUNE as a top workplace in 2018 and 2019, and the company has also won numerous awards as a leader in global survey software, including being named among CNBC's Disruptor 50 and the Forbes Cloud 100.
+
+Over the past two years we've become a public company and expanded our platform with enterprise-grade features in privacy, security and compliance, putting SurveyMonkey on the path to rapidly expand our presence within the Fortune 500. We have ambitious goals to grow our international footprint as well, and every member of our troop plays a critical role in driving this growth and transformation. It's an incredible time to join the company and be a part of our next chapter!
+
+The Role
+
+
+We need your help in building the next generation of machine learning at SurveyMonkey. We want to help our customers make great decisions from the millions of survey responses we receive daily. To do that well, we'll need to use applied machine learning that include natural language processing, classification, spam detection, personalization / ranking, etc. We also need to do this at scale and in real-time whenever possible.
+
+Successful candidates will have built these types of systems before and deployed them to production. Specifically, we need someone that is ready to get their hands dirty with building out a flexible machine learning platform that supports scalable model training in-memory or through distributed computational processing (single vs. multi-node), model deployment, API management, and constructing elegant feedback loops for self-sustaining machine learning systems. Candidates will need to be well-versed in large-scale data storage and processing and have the judgement to know when to use out-of-the-box solutions versus building custom ones. Being fun to work with is also a heck of a bonus.
+
+Requirements:
+At least + years professional software engineering experience using a high level language (Python preferred).
+Experience utilizing big data and machine learning technologies (e.g. H2O, Spark, Hadoop, Cassandra).
+Very comfortable with Unix/Linux operating systems. We favor Ubuntu.
+Strong communication and documentation skills.
+Experience with operating computational clusters for training machine learning models.
+Familiarity with the ipython notebook, pandas, sklearn, numpy and nltk.
+Familiarity with machine learning techniques and natural language processing (e.g. featurization, n-gram analysis, supervised classification and unsupervised topic clustering, etc).
+Nice to Have:
+
+
+Experience with ETL pipelines.
+Has interest and is excited by data modeling, data science of lots of structured and unstructured data.
+At SurveyMonkey, we offer competitive salaries, medical/dental benefits, PTO, 401k, paid holidays and parental leave, and equity compensation.
+
+SurveyMonkey is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

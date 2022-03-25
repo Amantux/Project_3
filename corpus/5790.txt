@@ -1,0 +1,105 @@
+Job Description
+
+Publicis COSMOS is a new class of Cognitive Customer Intelligence for Big Data powered by A.I. and ML algorithms. Publicis COSMOS provides our global customers with a collection of best-in-class cloud solutions for marketing, analytics, advertising, and data intelligence. All integrated on a cloud platform purposely built to help brands better engage with their customers across channel and devices.
+
+The COSMOS team is looking for an experienced Lead Data Scientist to work directly with COSMOS client teams to deliver end-to-end data science consulting engagements using our state of the art COSMOS solutions including COSMOS Identity and Entity Resolution, COSMOS Data Hub and COSMOS A.I,. The Lead Data Scientist should also own the development and stewardship of industry-leading solutions and capabilities.
+
+You should be passionate about finding insights in large datasets, synthesizing and communicating results of analysis, driving practical business impact, and provide engaging narratives with data. You will be responsible, along with other account leads, to ensure successful delivery for clients.
+
+You welcome the challenge of big data and are proficient in Azure ML, Python, C#, graph databases, deterministic and probabilistic modeling, anomaly detection, social network analysis (SNA) and statistical modeling. You must be self-driven, take initiative and want to work in a dynamic, fast moving, and innovative group.
+
+You will work directly with clients to own data science solutions as a member of the COSMOS Cognitive Marketing Intelligence Cloud Platform team, and will operate as part of the COSMOS Platform team to extend the Platform functionality when not directly supporting client projects.
+
+Qualifications
+
+Core Responsibilities:
+
+Develop a strong understanding of the clients' business, current digital marketing initiatives, and customer experience goals. Actively work toward insights and recommendations that will help the team deliver solutions to meet these goals
+
+Perform hands-on analysis of large volumes of web analytics, transaction, customer data, second and third party data. Work with complex data structure, manipulate, cleanse data and perform statistical analysis
+
+Educate clients and fellow team members about implications of customer Insights
+
+Serve as a Publicis COSMOS evangelist delivering effective thought leadership
+
+Work with project teams to translate client requests into analytic work plans
+
+Participate in and support delivery of presentations to clients in senior positions (Director level to CXO level)
+
+Identify new opportunities for Data Science projects and solutions
+
+Be superb at time management and management of supporting analyst teams
+
+Perform advanced statistical analysis and multivariate statistical analysis (regression and simple segmentation)
+
+Interpret data and analyze results to generate insights, and communicate these insights to clients in an engaging and clear manner
+
+Extract data and actionable insights from a variety of client sources and systems, find probabilistic and deterministic matches across second and third-party data sources, and complete exploratory data analysis
+
+Create engaging and meaningful data visualizations of findings linked to clear client business impact
+
+Expertise in predictive analytics/statistical modeling/data mining/machine learning algorithms and techniques (clustering, regression, multivariate testing, classification)
+
+Proven capability to deliver end-to-end analyses by asking the right questions, extracting data, and building predictive models to ensure actionable results
+
+Strong passion for understanding key business problems, bringing together a team to understand data/ instrumentation needs and/or mine through data to unearth deep insights into customer experiences
+
+Excellent communication & interpersonal skills with an ability to communicate ideas, insights and complicated analysis effectively at all organizational levels, include engineering leadership
+
+Design and Implementation of refinery data product using Spark, Map-Reduce, Hive, HDFS, Spring, Hibernate and Java
+
+Experience with NOSQL database Neo4J, MongoDB, Cassandra, HBase and Orient DB
+
+Design and implementation of data product on Hadoop using Titan, Tinker-pop, HBase, Gremlin and Java
+
+Proven track record of problem solving and using experiment driven approaches
+
+Experience with large scale distributed databases and computing systems like COSMOS, Hadoop, or HDInsight
+
+Expertise with statistical software packages like R, MatLab, NumPy, SciPy, or SAS
+
+Experience with CPE initiatives for large scale services is desire
+
+Minimum Qualifications:
+
+MS in Computer Science, Math, Physics, or equivalent education/professional experience is required.
+
+5+ years in a data science role with demonstrable experience
+
+Deep experience in machine learning with Spark and Azure Machine Learning and Cognitive Services
+
+Deep knowledge of Azure Cloud including Azure Data Factory (ADF), COSMOSDB,
+
+Hands on experience in Databricks
+
+Strong experience in at least one database technology (i.e. Graph Database like OrionDB, SQL Server, Redshift, etc.)
+
+Experience with one or more web analytics tools (Google Analytics, Adobe Analytics etc.)
+
+Strong experience in at least one programming language (i.e. C#, Python, R).
+
+Experience implementing and automating models
+
+Experience with data modeling and normalization concepts.
+
+Experience architecting and building data marts, warehouses, etc.
+
+Experience working with different query languages (i.e. PL-SQL, T-SQL)
+
+Understanding and experience working with cloud infrastructure services like Azure and Amazon Web Services. Azure preferred.
+
+Experience working with code repositories and continuous integration (i.e. Git, Jenkins, etc.)
+
+Graph database experience a plus
+
+Understanding of development and project methodologies
+
+Ability to work collaboratively in teams with other specialized individuals, and with team members located remotely and locally
+
+Able to work in a fast-paced, technical environment.
+
+Good verbal and written communication skills
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.

@@ -1,0 +1,47 @@
+Amazon is seeking a highly talented and motivated data and reporting analyst to join the Amazon Extra Large (AMXL) Supply Chain Analytics team. You will work as a liaison between business and technical stakeholders in order to not only elicit requirements for changes to information systems but also to develop post processing expertise to estimate impact of change to business metrics.
+
+You will be maintaining database up-time and managing one or more Redshift clusters and S3 buckets. You will be developing reporting solutions especially with Tableau/Quick sight.
+
+Apart from supporting existing projects via data driven insights, you will independently manage a few programs with global stakeholders in Machine learning and technical teams. You should have expertise in data analysis tools like SQL, Excel, Tableau and statistical suites like R/Python and be comfortable facilitating ideation and working from concept through to execution. This role will also build tools and support structures needed to analyze data, dive deep into data to determine root cause of forecast/buying/placement systems errors & changes, and present findings to business partners to drive improvements.
+
+
+Additional responsibilities may include:
+Manipulating/mining data from database tables
+Creating automated metrics using complex databases
+Researching root causes of issues, to identify process breakdowns and provide insight on potential solutions
+
+Processing, filtering and presenting insights around large data sets
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.
+
+
+
+
+Basic Qualifications
+
+Basic Qualifications:
+
+
+• 0-2 years of quantitative and qualitative experience in Logistics/Supply Chain, Transportation, Engineering or Business
+• Bachelor's Degree in Engineering, Maths, Statistics, Finance, Computer Science, or related industry experience
+• Experience with statistical analysis, regression modeling and forecasting, time series analysis, data mining, financial analysis, and demand modeling
+Experience with Redshift, DW design
+• Experience using statistical software such as R, Minitab
+• Advanced user of Excel or Tableau, able to manipulate data, write macros and create charts and pivot tables
+• SQL scripting for analysis and reporting
+• Programming experience in one or more languages (eg Python, VBA, MATLAB, Java, C++)
+• Experience processing, filtering and presenting insights around large data sets (millions of rows)
+• Strong written and verbal communication skills. The role requires effective communication with colleagues from technical, economics and business backgrounds
+
+
+
+
+
+
+Preferred Qualifications
+
+• 2+ years of Data Analyst or Research Analyst experience
+• Demonstrated problem solving skills and analytical skills
+• Experience working in or with a complex international supply chain management organization
+• Experience incubating and commercializing new ideas, working with product managers, research scientists and technical teams from concept generation through implementation
+Experience managing Redshift cluster and data warehouse design

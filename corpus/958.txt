@@ -1,0 +1,103 @@
+Phenomenal opportunity with an industry leader!
+
+We started in 1952 when Les Schwab bought one tire store in Central Oregon. Since then, we have remained true to Les Schwab's vision of World-class Customer Service and unsurpassed benefits and opportunity to our employees. Today, we have over 480 locations including Retail Tire Stores, Distribution Center, Production, Transport, Equipment, and Headquarters.
+
+We have a collaborative, high-energy work environment where team members are empowered to “run with” ideas to improve processes. As the largest tire dealer in the western states, you will play a key role in transforming structured and unstructured data into insights and models for business decision-making. We look for candidates who are not satisfied with the status quo, are intellectually curious and confident in their abilities. If you are looking to join a dynamic, exciting and growing leader, consider Les Schwab!
+
+You will report to the Portfolio Manager and will be based out of our headquarters in Bend, OR.
+
+About the opportunity
+
+The Data Scientist II performs individual work assignments, participates in working groups and contributes to enterprise projects, often independently representing the Data Science and BI Team. The Data Scientist II has a strong business acumen and ability to frame business problems and transform them into analytical problems to be solved using appropriate data science methods. The Data Scientist II has a breadth of expertise in data science methodologies and techniques and can select appropriate tools for accessing and cleansing data, develop code, build predictive models, and apply statistical methods to achieve solutions to be validated by the business. This position requires minimal supervision delivering outcomes, a high breadth/depth of job specific knowledge and an advanced level of service delivery, professionalism, and communication.
+
+Primary responsibilities/functions you are responsible for:
+
+Conduct data science:
+
+Lead discovery processes of high complexity with stakeholders to define the business problem, understand IT and business constraints and opportunities and understand the qualitative nature of data required to deliver results.
+
+Transform the business problem into an analytical problem and identify a wide breadth of data science approaches for achieving the desired business insights and criteria for selecting among approaches.
+
+Build data pipelines from sources including internal data (i.e., point-of-sale, ERP and financial systems, websites, etc.) and external data (i.e., weather stations, geo-location systems and social media sites).
+
+Apply data cleansing techniques such as deduplication, hashing, scaling and normalization, dimensionality reduction, fuzzy matching, imputation and cross-validation.
+
+Design experiments to gain insight and test hypotheses using quantitative methods.
+
+Apply various Machine Learning (ML) and advanced analytics techniques to perform classification or prediction tasks.
+
+Present insights and rationale of recommendations in easy to understand terms; guide business stakeholders to validate insights and recommendations; maintain an ability and willingness to present analysis results that are data driven and may contradict common belief.
+
+Collaborate with data engineers and IT to evaluate and implement deployment options for developed models.
+
+Identify the lifecycle of any developed models and insights and develop maintenance plans for ongoing operational use of insights and recommendations.
+
+Contribute to Data Science and BI Team effectiveness:
+
+Assist the Data Science and BI team lead in creating high quality summaries of Data Science projects and results for presentation to steering committees and executive groups
+
+Assist the Data Science and BI team lead in scoping and prioritizing data science projects
+
+Create reusable artifacts and contribute to data and insight catalogues and documentation
+
+Be a lead participant in peer reviews and presentation of specialist data science topics to advance collective team understanding of relevant technologies and techniques to accomplish data science outcomes
+
+Network within IDS and business partner departments to gain business understanding
+
+Proactively engage in continuous professional improvement in both technical and soft skills
+
+Contribute to BI Portfolio effectiveness:
+
+Partner with data stewards and data platform developers in continuous improvement processes to help improve data quality
+
+Recommend ongoing improvements to data capture methods, analysis methods, mathematical algorithms, etc. that lead to better outcomes and quality.
+
+Contribute to group retrospectives and improvement of processes for collective work management
+
+Help improve enterprise stakeholder understanding of related technologies and processes to accomplish data science outcomes
+
+Guide and inspire others about the potential applications of data science
+
+Qualifications:
+
+Educational/Experience Requirements:
+
+Bachelor’s degree in applied mathematics, statistics, computer science, operations research, or a related quantitative field. Alternate experience and education in equivalent areas such as economics, engineering or physics is acceptable.
+
+Master’s degree preferred
+
+Certified Analytics Professional credential (available through INFORMS.ORG) required
+
+AND minimum of 3-6 years of full-time or equivalent relevant experience executing data science projects, preferably in the domains of customer behavior prediction and operations management.
+
+Required Technical Skills/Knowledge:
+
+Advanced coding knowledge and experience in at least two programming languages: for example, R, Python/Jupyter, C/C++, Java or Scala.
+
+Advanced knowledge of database programming languages including SQL, PL/SQL, or others for relational databases, graph databases or NOSQL/Hadoop-oriented databases.
+
+Broad Knowledge and experience in statistical and data mining techniques that include generalized linear model (GLM) / regression, random forest, boosting, trees, text mining, hierarchical clustering, neural networks, graph analysis, data sampling, design of experiments, etc. Familiarity with typical algorithms used by retail businesses (i.e., Churn, Segmentation) required.
+
+Technical skills for working across multiple deployment environments including cloud, on-premises and hybrid and skills for acquiring new datasets, parsing datasets, organizing datasets, representing data visually and automating data-driven models.
+
+Advanced knowledge of statistical tools and advanced analytics platforms such as: Minitab, SAS, Knime, Dataiku, Anaconda, Google Collaboratory
+
+General Knowledge and Abilities:
+
+Analytical Skills: Strong analytical and problem-solving skills
+
+Communication: Ability to communicate technical and non-technical/complex information clearly and professionally (both verbally and in writing) while ensuring that the quality and content of the message are relevant to the circumstances and understandable to wide audiences; ability to be an active-listener; the ability to draft, proofread, and send written communications effectively; the ability and willingness to carefully listen to others by asking appropriate questions and avoiding interruptions
+
+Confidentiality: Ability to work with confidential data, effectively and with discretion with all staff levels
+
+Flexibility: Willingness to work in an ever-changing environment with the ability to positively adapt to organizational, process, and technology changes
+
+Initiative: Ability to work effectively with minimal supervision with proven ability to execute high/very high complexity and diversity of work assignments
+
+Multitasking: The ability to perform two or more tasks simultaneously or to shift back and forth between two or more activities or sources of information without difficulty
+
+Organization: Ability to manage work assignments through prioritization, paying attention to detail, and optimal time management
+
+Service Excellence: Exhibit the willingness to be stakeholder-focused by anticipating and understanding stakeholders' needs; collaborate with them to reach a suitable solution; then consistently meet and deliver on those expectations
+
+Teamwork: The ability to establish and maintain rapport, interact comfortably, and work well with coworkers. This includes cooperating, being supportive of others, willingly helping others, considering others’ ideas and opinions, sharing information, giving proper credit, and fulfilling team responsibilities and the professionalism to collaborate cross-functionallycredit, and fulfilling team responsibilities and the professionalism to collaborate cross-functionally

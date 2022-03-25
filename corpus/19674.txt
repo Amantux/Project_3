@@ -1,0 +1,57 @@
+Big Data Engineer (Kafka)
+
+Share
+
+Job ID: FA-0100-474
+
+Open Since: 2019-10-04
+
+City: Irving
+State: Texas
+Country: United States of America
+
+Job Description:
+
+
+Frontend Arts brings together the brightest minds to create breakthrough technology solutions, helping our customers gain competitive advantage. We are continuously evolving how we work and how we look at business challenges, so we can continue to deliver measurable, sustainable solutions to our clients.
+
+We are looking for self-motivated "Big Data Engineer (Kafka)" with excellent communication and customer service skills, who has:
+Experience as a developer who has used the Kafka API to build producer and consumer applications, along with expertise in implementing KStreams components. Have developed KStreams pipelines, as well as deployed KStreams clusters.
+Experience with developing KSQL queries and best practices of using KSQL vs KStreams
+Strong knowledge of the Kafka Connect framework, with experience using several connector types: HTTP REST proxy, JMS, File, SFTP, JDBC, Splunk, Salesforce, and how to support wire-format translations. Knowledge of connectors available from Confluent and the community
+Implementing stream processing using Kafka Streams / KSQL / Spark Jobs along with Kafka and Databricks integration.
+Hands-on experience in designing, writing, and operationalizing new Kafka Connectors using the framework
+Define strategy and roadmap of the NextGen Stream Data Platform based on Apache Kafka
+Establish best practices for implementing our SDP based on identified use cases and required integration patterns
+Accelerate adoption of the Kafka ecosystem by creating a framework for leveraging technologies such as Kafka Connect, KStreams/KSQL, Schema Registry, and other streaming-oriented technology
+Seasoned messaging expert with extensive, well-rounded background in a diverse set of messaging middleware solutions (commercial, open source, in-house) with in-depth understanding of architectures of such solutions. Examples: Kafka, RabbitMQ
+Deep understanding of different messaging paradigms (pub/sub, queuing), as well as delivery models, quality-of-service, and fault-tolerance architectures
+Knowledge of messaging protocols and associated APIs
+Working knowledge of Splunk, how it integrates with Kafka, and using it effectively as a Kafka operational tool
+Strong background in integration patterns
+Design, develop, support, maintenance and implementation of a complex project module.
+Utilize Enterprise Integration Patterns to develop data pipelines and the necessary datastructures
+Good experience in application of standard software development principles.
+Implementing best practices and making sure the coding standards
+Write documentation for the code to be written
+Debug production issues and create subsequent mitigation plans
+Optimize the performance of existing implementations
+Bring forward ideas to experiment and work in teams to transform ideas to reality
+Prioritize tasks with the scrum master that leads the team to be successful
+Architect data structures that meet the reporting timelines.
+Work directly with engineering teams for design and build their development requirements
+Maintain high standards of software quality by establishing good practices and habits within the development team while delivering solutions on time and on budget.
+Facilitate the agile development process through daily scrum, sprint planning, sprint demo, and retrospective meetings.
+Participate in peer-reviews of solution designs and related code.
+Analyze and resolve technical and application problems.
+Research and evaluate a variety of software products and development tools.
+Proven communication skills, both written and oral
+
+Job Skills:
+Engineering/development resources who have implemented stream processing using Kafka Streams / KSQL / Spark Jobs along with having Kafka and Databricks integration experiences.
+Should have experiences, best practices and knowledge in Fast-Data Pipeline with Kafka/Databricks architecture, compute and scalability requirements to implement streaming jobs which handle a million messages per second/hour.
+Minimum Experience: 10 Yrs
+
+Education:
+
+Bachelor's Degree in Engineering

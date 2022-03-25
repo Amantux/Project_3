@@ -1,0 +1,54 @@
+DATA ENGINEER
+
+Job Details
+Job Location
+Keet Health - Austin, TX
+Description
+Are you looking for a fast-paced company where our people are our competitive advantage? A company that fosters your entrepreneurial spirit by encouraging you to act like an owner? Do you have the passion and drive to push beyond the adequate to exceptional? Are you passionate about fixing the healthcare system? If so, you may be perfect for our open position.
+
+Keet is a team of passionate, fun-having, taco-loving people on a mission to make healthcare experiences feel better.
+
+At Keet, we help put humanity back into healthcare. It feels good to know that what we do ultimately contributes to a patient’s well-being. We know our clients, and our client’s patient’s want to get back to doing more of what they love, so that is the core of our culture—merging talented people doing what they love, to create products that help others do the same.
+
+DATA ENGINEER
+
+ROLE SUMMARY
+
+The position of Data Engineer will help to create new reporting solutions for Keet Health’s platform, and improve current solutions. The Data Engineer position will be working with a variety of databases (MySQL, Postgres, MongoDB, etc) to be deployed in a cloud infrastructure (AWS) and made available in AWS Quicksight.
+Qualifications
+ESSENTIAL RESPONSIBILITIES
+Develop and maintain reporting processes and ETL solutions for moving data
+Develop reporting solutions for internal and external customers
+Develop and maintain ETL solutions for moving data into reporting schemas
+EDUCATION AND EXPERIENCE
+Bachelors degree or computer science, engineering, data analytics or equivalent experience in related fields.
+Experience with SQL (MySQL, Postgres, etc) and NoSQL (Mongo, etc) databases.
+Experience with scripting languages (python, scala, ruby)
+Comfortable working using the command line (Bash, etc)
+Experience with cloud server architectures (AWS, Azure)
+Experience with Linux.
+KNOWLEDGE, SKILLS, AND ABILITIES
+Must have 5+ years using SQL, and NoSQL database
+Must have 3+ years experience working as a data engineer
+Must have skills in linux, Bash, cloud infrastructure, docker, mobile development, analytics,
+Must have experience using git, and worked in an agile development environment
+Must have familiarity with AWS data technologies such as Glue, Redshift, S3, and other big da-ta technologies
+Nice to have medical industry experience.
+Nice to have Java experience.
+Nice to have experience with AWS Glue, Athena, and QuickSight.
+OUR CORE VALUES
+• Collaboration: We're continuously learning how to work together, better.
+• Heart: We've got it, and we're not afraid to show it.
+• Innovation: We are lifelong learners.
+• Service: We’re here to serve.
+• Humility: We're humans, and we come from dirt.
+
+PERKS
+
+(We’ve got them).
+
+Keet offers a competitive benefits package with fully-paid medical benefits, unlimited PTO, company hosted lunches, happy hours, and special events.
+
+We have a flexible work from home policy dependent upon productivity and ability to communicate effectively. Oh, and we have snacks. Our office is located in the hip south river district of Austin, TX in the heart of Austin weirdness.
+
+Keet is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.

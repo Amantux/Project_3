@@ -1,0 +1,36 @@
+The Data Team at ReSci is in a new phase of its evolution. We've scaled our predictive models to 350M+ users and we are looking for a Senior Machine Learning Engineer to help us innovate new models and improve our existing algorithms, to take our predictions to the next level! On our Data Team, you will work closely with other Data Scientists and Data Engineers to create the Machine learning backbone that powers our marketing automation platform "Cortex" for commerce brands. Your expertise at algorithms will be paired closely with the software expertise of Data Engineers, and you will jointly own these ML systems.
+
+We are looking for an experienced data engineer who is passionate about writing clean, well-tested code. You should want to make a huge impact in a fast-paced and cutting-edge start-up environment. You should have great experience with scala/spark or python/serverless and working closely with ML algorithms and data scientist. You’ll be building robust real-time data pipelines that process billions of events per day and sitting on the team that builds end-to-end ML algorithms. You'll help our data scientists productionize our ML models.
+
+In addition to having meaningful responsibilities and gaining experience in product development, you will also receive comprehensive exposure to all aspects of our business. The code and ideas that you contribute will have a tangible impact on the business as a whole. Your code will touch millions of end-users. You will have full responsibility for your projects and have a real sense of product ownership. You will also have the opportunity to learn tremendously from our awesome team of humble yet super engineers. You'll work with and learn the latest technologies and apply them across our distributed systems.
+
+About You:
+
+5+ years experience working on production data products in Python, Scala, or similar
+Proficient in at least one statically typed language
+Experience designing and implementing large, scalable services
+Passionate about enforcing software engineering principles, production code quality, and regular use of design patterns
+Experience interfacing with APIs - SOAP, REST, etc.
+Comfortable using Git, Bitbucket/Github
+Strong belief that tests and code go hand-in-hand
+Deep understanding of SQL, query optimizations, joins etc.
+Excellent CS foundation: data structures, time complexities, algorithms, etc.
+Startup work experience a major plus!
+About Us:
+
+ReSci's mission is to make artificial intelligence accessible and usable for brands.
+
+Our values:
+
+Inspire with passion.
+Persevere with determination.
+Collaborate with unity.
+Grow without bounds.
+Create with impact.
+Lead with character.
+
+Based out of Santa Monica, CA, our team consists of serial entrepreneurs who have all made Retention Science a leader in AI marketing. Our SaaS platform, “Cortex” helps online businesses target, engage, and retain customers. The Cortex marketing platform uses machine-learning algorithms to predict customer behavior by analyzing massive sets of demographic, social, and behavioral data to generate 1-to-1 retention campaigns personalized to each customer. Cortex makes 3.5+ billion predictions per day and processes 5k+ events per second.
+
+Our founders have been recognized as the Ernst & Young Entrepreneurs of the Year, and our company was awarded Top 10 Big Data Startup of the Year by CRN, one of Fast Company's €œInnovation Agents€, Top 10 Software Company in Southern California from SocalTech, and identified by Inc. Magazine as one of the most innovative startups. Retention Science has also been featured in Forbes, the Wall Street Journal, TechCrunch, Bloomberg, and Reuters, among other notable publications. In addition, the most prestigious startup accelerator in LA (part of the TechStar Network), as well as many reputable angel investors and Venture Capital firms have provided their support and backing for our business.
+
+We're passionate about what we do and we put our people first! We are a close-knit family whose members drink too much coffee, work hard, and never cease to brainstorm creative new ways to improve our solutions. We foster a dynamic and exciting start-up environment that is conducive for innovative thought; join us if you are interested in working with our world-class team!

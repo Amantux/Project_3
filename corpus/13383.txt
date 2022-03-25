@@ -1,0 +1,19 @@
+As Scale’s first Product Data Scientist, you will lead the charge on building our product analytical infrastructure and driving insights that lead to step-function improvements in how we operate. We handle millions of tasks for businesses looking to scale their ML development, and we’re looking for a talented product data scientist to help us understand it all in the service of building better products. In this role, you will apply statistical models, design and interpret experiments, build mission-critical dashboards, and help structure and order our data in the pursuit of transparency over how we operate and how we can improve.
+You will:
+Own end-to-end product analytics workflow including formulating success metrics, socializing them across the organization, and creating dashboards/reports.
+Ensure product areas are performing in line with our high expectations and be able to identify, diagnose, and recommend projects to improve our performance.
+Influence product teams through presentation of data-based recommendations.
+Identify operational efficiencies to the business that will enable Scale to continue growing sustainably.
+Design, run, and analyze experiments.
+Apply statistical models to identify root causes and predict the future performance of tasks, users, and products.
+Conduct statistical and trend analysis to identify opportunities, highlight strengths, and provide recommended corrective actions.
+Ideally you'd have:
+4-6+ years of industry experience in product data science broadly
+Strong proficiency in writing complex SQL queries
+Mastery with data science tools such as R, and/or Python
+Experience with statistical modeling and experimental design
+A detail-oriented and analytical mindset, with emphasis on accuracy
+About Us:
+At Scale, our mission is to accelerate the development of Machine Learning and AI applications across multiple markets. Our first product is a suite of APIs that allow AI teams to generate high-quality ground truth data. Our customers include OpenAI, Zoox, Lyft, Pinterest, Airbnb, nuTonomy, and many more
+
+Scale is an equal opportunity employer. We aim for every person at Scale to feel like they matter, belong, and can be their authentic selves so they can do their best work. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

@@ -1,0 +1,29 @@
+Group O is seeking a strong candidate in the job of Senior Data Engineer for a Group O partner in San Antonio, TX. In this role, you will be a valuable expert in data coding and ETL and will lead the development of data models, structures, and data wrangling.
+
+Responsibilities
+Implementation including loading from disparate data sets, pre-processing using Hive and Pig
+Scope and deliver various Big Data solutions
+Design solutions based on high-level architecture
+Manage technical communications between clients (technical and non-technical) and internal teams
+Building a cloud-based platform that allows easy development of new applications
+Collaborate with developers, subject matter experts, and business users in gathering and documenting requirements for data extraction and transformation
+Perform code reviews, analyze execution plans, improve ETL jobs efficiencies, correct ETL defects and respond quickly to fixes and enhancement requests
+Follow design standards for ETL and ELT processes
+Analyze, assess and implement changes to existing solutions in response to business changes
+Perform data research and analysis to find insights
+Analyze data models to identify variances and discrepancies
+Design, update, and maintain data sets
+Work with geographically distributed team structure in a fast paced and challenging environment; multi-task and work under pressure
+Communicate results with internal and external stakeholders
+
+Qualifications:
+An ideal candidate will have experience leading data quality assessment, will be a strong problem-solver and will have excellent interpersonal and communications skills.
+Over 5 years of demonstrable experience designing technological solutions to complex data problems, developing & testing modular, reusable, efficient and scalable code to implement those solutions.
+Strong understanding and experience in distributed computing frameworks, particularly Apache Hadoop 2.0 (YARN; MR & HDFS) and associated technologies -- one or more of Hive, Sqoop, Avro, Flume, Oozie, Zookeeper, etc.
+Strong background with ETL Design and coding for Data loading, Data cleansing, Data Validation
+Proficiency in SQL, SAS, R and Python – with preference to SQL
+Previous experience designing custom deliverables based on user requirements
+Excellent written and verbal communication skills – must be able to communicate fluently in English both verbally and in writing
+Strong analytical and statistical analysis skills to extract insights and recommendations
+Strong problem-solving skills, and the ability & confidence to hack their way out of tight corners
+Insurance domain experience is preferred

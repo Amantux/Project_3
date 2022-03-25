@@ -1,0 +1,45 @@
+Job Description
+We have partnered with a large Healthcare provider the Chicago, IL area to provide them with a Data Engineer.
+
+Please review the below description and if you are interested please contact:
+Rhondolyn Kilgore at rkilgore@relevante.com
+Responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up. The right candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data initiatives.
+
+Responsibilities of the Data Engineer:
+Create and maintain optimal data pipeline architecture,
+Assemble large, complex data sets that meet functional / non-functional business requirements.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS ‘big data’ technologies.
+Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.
+Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+Keep our data separated and secure across national boundaries through multiple data centers and AWS regions.
+Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader
+Work with data and analytics experts to strive for greater functionality in our data systems.
+Requirements of the Data Engineer:
+Bachelor’s degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field (Masters Preferred).
+5+ years of experience in a Data Engineer role
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+Experience building and optimizing ‘big data’ data pipelines, architectures and data sets.
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Strong analytic skills related to working with unstructured datasets.
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+A successful history of manipulating, processing and extracting value from large disconnected datasets.
+Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores.
+Experience supporting and working with cross-functional teams in a dynamic environment.
+Experience with health care datasets, clinical data, payer/claims data, SDOH data, etc.
+Experience with big data tools: Hadoop, Spark, Kafka, etc. (Preferred)
+Experience with relational SQL and NoSQL databases, including Postgres and Cassandra.
+Experience with data pipeline and workflow management tools: Azkaban, Luigi, Airflow, etc
+Experience with AWS cloud services: EC2, EMR, RDS, Redshift
+Experience with stream-processing systems: Storm, Spark-Streaming, etc.
+Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.
+Skilled in problem-solving with strong attention to detail.
+Excellent customer service skills and the ability to react diplomatically and patiently to internal and external customers.
+Excellent follow-up skills paired with the ability to multi-task and determine root causes.
+Strong written and verbal communication skills coupled with the ability to read, analyze and interpret technical procedures.
+Benefits of the Data Engineer:
+Health Insurance
+Dental Insurance
+Life Insurance
+Long Term Disability
+Join our Talent Network - https://relevante.jobs.net/en-US/join

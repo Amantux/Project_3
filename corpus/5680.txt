@@ -1,0 +1,53 @@
+At Plenty, we’re on a mission to give people in local communities everywhere access to the freshest, most amazing tasting produce possible. And to do so in a way that’s better for the planet.
+
+The people and teams who make up Plenty are at the core of how we do that. We are an ag-tech company looking for a Data Scientist to join the Software and Data team who will improve our most-difficult production systems by collaborating with cross-functional teams to deliver both ad-hoc and enduring data products. The Data Scientist uses data exploration, visualization, modeling, and experimentation to drive better decision making. In addition, she/he will deliver tangible optimizations and business logic to the production environment in the form of algorithms, models, scripts, reports, and data systems. The Data Scientist also supports a culture of making sound data-driven decisions through the development of rigorous methodologies to solve common problems and training against and/or documenting those approaches.
+
+About Role
+
+This is a technical role responsible for building sophisticated data products and analyses which are not possible without a strong specialized team. The ideal candidate takes pride in her/his work and posses strong analytical ability, the capacity to translate fuzzy requirements into actionable technical solutions, the capacity to explain solutions to people with other domain expertise, and an attention to detail. She/he appreciates an environment where superior work is encouraged, noticed, and rewarded and where individuals carry significant responsibility. The ideal candidate is uncommonly self-motivated and feels tremendous ownership over outcomes regardless of where in the organization solutions may lie.
+
+What You'll Do
+
+Identify data science problems and develop well documented and reusable analysis methodologies
+
+Generate statistical analysis to characterize existing or proposed systems
+
+Develop data-driven models for descriptive, diagnostic, predictive and prescriptive analytics
+
+Establish reusable data processing pipelines to enable rapid and autonomous model generation
+
+Design high quality experiments and analysis of results
+
+Identify opportunities for improved data-driven decision making in the existing manufacturing environment
+
+What We're Looking For
+
+BS or MS in computer science, engineering, mathematics, or equivalent
+
+5+ years of relevant work experience
+
+Exemplary verbal, visual, and written communication skills
+
+Excels in complex data analysis and visualization
+
+Excels writing code in languages such as R (tidyverse) and Python (pandas/numpy)
+
+Excels in documentation of methods, analysis and results
+
+Excels in contributing to a team culture of superior work that is scalable and reproducible
+
+Experience with relational, distributed, and streaming data systems
+
+Experience in a factory organization and operations a plus
+
+Knowledgeable about production Key Performance Indicators (KPIs)
+
+Ability to work under pressure while managing competing demands and tight deadlines
+
+Strong organizational skills with meticulous attention to detail
+
+About Plenty
+
+Plenty is a new kind of farm for a new kind of world. We’re on a mission to bring fresh, local produce to communities everywhere in a way that’s better for the environment by using 1% of the water, 1% of the land, and none of the synthetic pesticides or fertilizers of conventional agriculture. Our local field-scale indoor farms are creating a healthier, more delicious and sustainable future.
+
+ Plenty is a new kind of farm for a new kind of world. We’re on a mission to bring fresh, local produce to communities everywhere in a way...

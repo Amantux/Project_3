@@ -1,0 +1,47 @@
+Business Unit:
+Cubic Global Defense
+Company Details:
+.Cubic Austin is a data science and software developer with the majority of its production development occurring in its Austin, TX studio and business development occurring in the DC area. We've been developing software in Austin since 2007 and in spring of 2014, we merged with Cubic Corporation (CUB) and are now a part of their Global Defense segment, which is a market leader in innovative live, virtual, and game based training solutions. Cubic Austin's continuing work with US DoD special customers, allied instrumented Combat Training Centers worldwide and on multiple DARPA programs has made it a leader in the research and development of multi-domain mosaic battlefield analytics and reinforcement learning AI – including tactical, strategic, logistics, EO/IR/EM, NLP, unmanned vehicle and ISR applications. We are actively bringing the latest research in deep learning to market including deep probabilistic learning, graph-based learning, ML on the edge, transfer learning, explainable AI, geospatial learning and online learning. Cubic Austin is a center of excellence for data science and AI for the greater multinational Cubic corporation.
+
+We are looking for an experienced applied artificial intelligence engineer/scientist with a strong background in deep reinforcement learning and deep probabilistic learning to lead in the next generation of data-driven innovation at Cubic. They must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering, building and delivering solutions using the latest theory, tools and frameworks.
+
+We value the work-life balance of our employees and have received top workplace honors in the past. Our employees regularly rate their relationships with their co-workers as one of the best aspects of working here and one of the main reasons they stay. Our role within Cubic is to be an innovative force; therefore we want forward thinking, high energy collaborators to join our team. We offer competitive compensation, top tier benefits, and excellent workplace perks.
+
+Cubic Austin empowers people who understand how innovative software can drive revolutionary change. Our world-class team of engineers, developers, scientists, and thinkers embrace visions of the future and collaborate with our customers to bring them to life today. Through the creative disruption of traditional thinking, we inspire and deliver new products that produce significant value. Cubic Austin - we build what’s next.
+Job Details:
+
+
+Job Summary:
+
+We are looking for an experienced AI research scientist to join our growing team of reinforcement learning and machine learning experts. The right candidate has experience and a passion for bringing the latest theory, tools, frameworks and architectures into production, online reinforcement learning solutions. The hire will be responsible for expanding and optimizing our reinforcement learning capabilities for government, commercial and internal AI/RL projects. Our multiple DARPA contracts offer candidates the opportunity and resources to build and expand the state-of-the-art in AI/RL research. The AI research scientist will serve as a subject matter expert in AI/RL, provide ideas and guidance to all of the Cubic corporation. Additionally, the research scientist publish work when possible, and may serve as principal investigator for future DARPA work.
+
+Essential Job Duties and Responsibilities:
+Provide leadership and subject-matter expertise in AI/RL for greater Cubic corporation
+Develop custom AI/RL models and algorithms to apply the most recent research, tools and frameworks.
+Work with subject matter experts throughout the organization to identify and drive opportunities for innovative solutions.
+Coordinate with different functional teams to implement solutions and monitor outcomes.
+Communicate results and techniques to senior management, customers and high-profile stakeholders
+Perform fundamental research for DARPA contracts
+Serve as principal investigator for DARPA research
+Publish academic papers in journals and present at conferences
+Minimum Job Requirements:
+Strong background in industry applied and production AI
+Strong background in Markov Decision Process theory: partially observable MDP, Q-learning, etc.
+Experience with modern deep learning frameworks: RLlib, PyTorch, TensorFlow, etc.
+Experience using statistical computer languages: Python, Julia, R, etc.
+Strong background in applied statistics and stochastic processes, linear algebra, applied optimization
+A drive to learn and master new technologies and techniques.
+Minimum 7-10 years experience in AI/RL research
+History of relevant academic publications
+PhD in quantitative field: Statistics, Mathematics, Computer Science, Electrical Engineering, Engineering Statistics, Systems Engineering, Applied Mathematics, Physics, etc.
+Desired Skills:
+Experience in any of the following: applied graph theory, causal analysis, probabilistic programming, deep Bayesian networks, NLP, transfer learning, recommender systems
+Experience with distributed data/computing tools: Ray, Map/Reduce, Spark, etc.
+Experience with DevOps, source control (git) and performance monitoring tools
+Experience with the design or use of production pipelines for online learning and reinforcement learning
+Notes:
+
+This job is at a cleared facility, we can only hire US persons at this site. A US person is either a US citizen or a Permanent resident. Must be able to obtain and maintain a security clearance.
+The description provided above is not intended to be an exhaustive list of all job duties, responsibilities and requirements. Duties, responsibilities and requirements may change over time and according to business need.
+Worker Type:
+Employee

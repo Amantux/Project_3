@@ -1,0 +1,28 @@
+Job Description
+GTN is looking for a Data Engineer to expand and optimize our client's data storage and data pipeline architecture, and optimize data flow/collection for their cross functional teams. The successful candidate will design, implement, and maintain data storage and data flow solutions for structured and non-structured multi-model data in support of data science and machine learning pipelines. Additionally, the ideal candidate will be an experienced data pipeline builder and data wrangler, who enjoys optimizing data systems and building them from the ground up. They must be self-directed and comfortable supporting the data needs of multiple teams, systems and products.
+
+Job Responsibilities:
+Create and maintain optimal data pipeline architecture.
+Assemble large, complex data sets that meet functional / non-functional business requirements.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Create data tools for analytics and data science team members that assist them in building and optimizing data science products.
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+Job Requirements:
+Masters in Computer Science, Engineering or a related field (Specifically, with exposure to cancer biology studies/data/research/etc. being highly desired)
+A successful history of manipulating, processing, and extracting value from large disconnected datasets.
+Experience building and optimizing ‘big data’ data pipelines, architectures and data sets.
+Experience with relational SQL and NoSQL databases, including MongoDB, Cassandra, etc.
+Strong analytic skills related to working with unstructured datasets
+Experience with microservices architecture
+Experience with data pipeline and workflow management tools: Luigi, Airflow, etc.
+Experience with AWS cloud services: EC2, EMR, RDS, Redshift
+Experience with object-oriented/object function scripting languages: Python, Java, Scala, etc.
+Proficiency in Python, Pandas, PySpark, Dask, Ray, etc.
+Experience writing RESTful APIs
+Experience with big data tools: Hadoop, Spark, Kafka, etc.
+Proficient verbal and written communication skills to explain complex technical details in clear language
+Commitment to the successful achievement of team and organizational goals through a desire to participate with and help other members of the team
+Demonstrate a focus on listening to and understanding user needs and then delighting the customer by exceeding service and quality expectations
+
+Company Description
+GTN provides Scalable Technical Staffing solutions encompassing SOW, staff augmentation, and direct hire placement for Fortune 2000 companies, with niche service offerings in Cyber Security, Digital, Payroll Management, and Professional Services.

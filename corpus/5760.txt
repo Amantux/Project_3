@@ -1,0 +1,45 @@
+Read what people are saying about working here. 
+
+Overview
+
+We are looking for a data scientist to join our machine learning team. This team focuses on the modelling of natural language responses (text and non-text based) to support our educational assessment programs. The work will consist primarily of modelling of responses using our automated scoring engines, generating reports on engine performance, and supporting research around the development and use of the engines.
+
+Responsibilities
+
+Extract response data and scores from data systems.
+
+Train and evaluate automated scoring models that are used in operational scoring and research.
+
+Generate reports on automated scoring performance for psychometric review.
+
+Support research to understand and improve automated scoring performance.
+
+Conduct experiments to examine the performance of the engine under varying conditions.
+
+Assist in answering customer questions about scores produced by the engine.
+
+Qualifications
+
+Minimum Bachelor’s degree in statistical, mathematical, scientific, or quantitative social/behavioral field with preparation in computer science; Master’s preferred.
+
+Background in natural language processing and/or machine learning algorithms desirable.
+
+Some experience with large-scale assessment applications preferred.
+
+Experience with engine calibration methods (e.g., sampling, pipeline, analysis).
+
+Coding ability with Python, machine learning frameworks (e.g., Keras, PyTorch) and related libraries for machine learning (e.g., scikit-learn) and NLP (NLTK, spaCy).
+
+Experience with SQL.
+
+Characteristics:
+
+Strong written and verbal communication skills.
+
+Ability to work as a part of a team and independently.
+
+An analytical mind with problem-solving abilities.
+
+Aptitude with data handling and statistical approaches to data analysis.
+
+Comfort with algorithmic and programming principles.

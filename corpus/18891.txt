@@ -1,0 +1,47 @@
+Position Title: Systems Engineer/Software Engineer
+Full Time position (contingent upon contract award)
+Location: San Diego, CA (temporary work from home during the COVID-19 crisis)
+
+Trabus Technologies (TRABUS) is a minority-owned, service-disabled veteran-owned small business (SDVOSB) headquartered in San Diego, California. Our company has been providing key solutions and unparalleled value in wireless technologies, cybersecurity and artificial intelligence to the federal government and private sector since 2010.
+Our capabilities are widely diversified. From the development of emerging technologies that will revolutionize the wireless industry to engineering support services to the armed services, TRABUS is committed to solving real-world problems through technical innovation.
+TRABUS has been recognized by Inc. 5000 as one of the 5,000 fastest-growing, privately held small companies in the United States the last five years in a row. TRABUS is a dynamic, forward thinking business ready to engage in and overcome our customers challenges.
+We are looking for Systems and Software Engineers, who can join our team and make an immediate impact through their creativity, enthusiasm and technical abilities. Our Systems/Software Engineers will support Naval Information Warfare Center (NIWC) Pacific Command and Intelligence Systems Division that provides systems engineering, development, integration, test, and life-cycle support for a wide range of U.S. Navy (USN), Joint, and National Command, Control, Communications, Computers, and Intelligence (C4I) systems. The Systems and Software Engineers will provide Command and Control (C2) systems integration and operational support to NIWC Pacific C2 programs, such as the Maritime Global Command and Control System (GCCS) Family of Systems (FoS) (MGF), Pre-Commission Cloud Services (PC2S), and Foreign Military Sales (FMS) MGF Software. The Engineers will perform systems integration engineering to technically plan for, implement, and gain acceptance of C2 components and networks integrated into Navy, Joint, National, and FMS C2 systems. TRABUS isnt looking for someone who will simply go through the motions, but someone willing to go beyond expectations, do something important, and make a true difference.
+
+As a Systems or Software Engineer, your responsibilities will include a subset of the following:
+Perform engineering analysis, requirements analysis, functional analysis, and integration of new, updated, or upgraded C2 Framework components, systems, and networks that are in sustainment.
+Support the integration of segments and applications, systems, subsystems, and hardware components into conceptual, preliminary, and baseline products with the core system software and perform integration testing of the various components of the system.
+Prepare T&E plans and procedures and perform analysis for modifying C2 Framework Software Change Request (SCR) findings that will be integrated into baseline C2 Framework systems.
+Perform systems engineering for the operation, maintenance, and upgrade of C2 Framework software at operational and training sites via email, phone, chat, and on-site support.
+Provide systems engineering services to implement hardware and software changes, physical and logical interface modifications, and the installations connectivity.
+Provide engineering support during the System Operational Verification Test (SOVT) after completion of the software installation.
+Provide fleet support as part of a Tier 2 and Tier 3 Help desk for the System Administration and Operations of fielded C2 Framework systems via email, phone, chat, and on-site support.
+Duplicate issues from the fleet in a lab environment, resolve and provide appropriate solutions, and minimize the overall impact to the C2 Framework systems performance and Operational Availability.
+You will be a good fit, if you have one of more of the following experience levels and qualifications/certifications:
+DoD Cybersecurity Workforce (CSWF) Information Assurance Technical (IAT) Level II (DoD 8570.01-M) is required.
+One (1) - Three (3) years of experience installing, operating, and testing with C2 systems such as the GCCS FoS and Maritime Tactical Command and Control (MTC2).
+One (1) - Two (2) years of experience with Consolidated Afloat Networks and Enterprise Services (CANES) Agile Core Services (ACS) 2, Common PC Operating System Environment (COMPOSE) 4.0 and 4.1, and Virtualization (i.e., VMware, Hyper-V, etc.) environments.
+One (1) - Three (3) years of experience with Host Based Security System (HBSS) policy development, test and deployment, security patch development, information assurance fixes, and security-related upgrades.
+One (1) - Three (3) years of experience with the following technologies:
+Java Platform, Enterprise Edition (Java EE), data tier, and Java Message Service (JMS).
+Application Servers (e.g., BEA WebLogic Systems Interface, Common Military Extensions (CME), WebSphere, JBOSS, and Tomcat).
+Java Web Services (e.g., JAX-WS, JAX-RS, JAX-RPC, and Extensible Markup Language (XML) for Java.
+Java Security Application Programming Interfaces (APIs), general design patterns (e.g., model-view-controller, Enterprise Integration Patterns, core Java 2 Platform EE (J2EE) patterns).
+UNIX Shell Scripts, Perl, Java, and SQL for software package development.
+One (1) - Three (3) years of experience installing and configuring the following:
+Database Management System (DBMS) (e.g. PostgreSQL)
+Data ingest services and microservices in container-based environments (e.g., OpenShift, Kubernetes, Docker)
+Virtualization technologies (e.g., VMWare).
+Redhat Linux 7.6 and greater.
+Forge Rock Identity and Access Management System (IdAMS).
+Java Web Application Servers (e.g., JBOSS, Wildfly, TomCat).
+Cloud / Platform as a Service (PaaS) Environments (Amazon Web Services (AWS), Microsoft Azure).
+Automated Deployment Tools (e.g., Ansible).
+You will be an even better fit, if you have experience in one of these areas:
+One (1) - Five (5) years of experience in C2 systems software integration, developmental testing, and operational testing support, specifically with Theater Battle Management Core Systems (TBMCS), dynamic/time-sensitive targeting C2 system, Joint Automated Deep Operations Coordination System (JADOCS), and GCCS-M.
+One (1) - Five (5) years of experience with system administration in Oracle Solaris 8 and greater, Microsoft Windows Server 2003 and greater, and Microsoft Windows 7 and greater.
+The following educational background is desired, but appropriate experience (above) outweighs the education requirements:
+Bachelors degree in Computer Science, Information Technology, Engineering, Applied Mathematics, or other related discipline.
+This position requires a Department of Defense Secret clearance.
+To apply, go to http://www.trabus.com/careers-2/ and click on Current Openings.
+
+TRABUS Technologies is an Equal Employment Opportunity Employer. We are committed to the principles of equal employment opportunity, and will not discriminate against any employee or applicant for employment because of race, color, religion, sex, national origin, age, disability, veteran status or any status protected by federal, state or local discrimination laws.

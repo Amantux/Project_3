@@ -1,0 +1,46 @@
+Slalom is a purpose-driven consulting firm that helps companies solve business problems and build for the future, with solutions spanning business advisory, customer experience, technology, and analytics. We partner with companies to push the boundaries of what’s possible—together.
+
+Founded in 2001 and headquartered in Seattle, WA, Slalom has organically grown to over 8,000 employees. We were named one of Fortune’s 100 Best Companies to Work For five consecutive years from 2016 - 2020 and are regularly recognized by our employees as a best place to work. You can find us in 35 cities across the U.S., U.K., Australia, and Canada.
+
+The Data & Analytics teams across Slalom Northern California are all hiring! Come make an impact with our East Bay, Sacramento, San Francisco, or Silicon Valley markets.
+
+Data Engineer Consultant
+
+As a Data Engineer for Slalom Consulting, you'll work in small teams to deliver data pipelines and data models for our clients. You will design and build highly scalable and reliable modern data platforms including data lakes and data warehouse using Amazon Web Services, Azure, Google Cloud. Your work will include a variety of core data warehousing tools, Hadoop, Spark, event stream platforms, and ETL tools such as Airflow. In addition to building the next generation of data platforms, you'll be working with some of the most forward-thinking organizations in data and analytics.
+
+Who are you?
+You have passion for data!
+You’re a smart, collaborative person who is excited about technology and driven to get things done.
+You’re not afraid to be bring your authentic self to work.
+You embrace a continuous learner mentality.
+Who are we?
+We are engineers, makers, planners, architects, and designers.
+We choose to imagine things made better, and then set out on a journey to realize what’s possible.
+We’ll never trade the upside of wonder for the comfort of the familiar or the safety of convention.
+What technologies will you be using?
+
+Every element of a modern data & analytics stack. It’s about using the right technologies to solve problems and playing with new technologies to figure out how to apply them intelligently. We work with technologies across the board.
+
+Why do we work here?
+
+Each of us came to Slalom because we wanted something different. We wanted to make a difference, we wanted autonomy to own and drive our future while working with some of the best companies in Silicon Valley leveraging the coolest technologies. At Slalom, we found our people.
+
+Qualifications:
+Bachelor’s degree in Computer Engineering, Computer Science, Information Systems or related discipline
+3+ years relevant experience
+Experience in capturing end users requirements and align technical solutions to the business objectives
+Understanding of different types of storage (filesystem, relation, MPP, NoSQL) and working with various kinds of data (structured, unstructured, metrics, logs, etc.)
+Understanding of data architecture concepts such as data modeling, metadata, workflow management, ETL/ELT, real-time streaming), data quality
+3+ years of experience working with SQL
+Experience with setting up and operating data pipelines using Python or SQL
+1+ years of experience working on AWS, GCP or Azure
+Experience working with data warehouses such as Redshift, BigQuery and Snowflake
+Exposure to open source and proprietary cloud data pipeline tools such as Airflow, Glue and Dataflow
+Experience working with relational databases
+Experience with data serialization languages such as JSON, XML, YAML
+Experience with code management tools (e.g. Git, SVN) and DevOps tools (e.g. Docker, Bamboo, Jenkins)
+Strong analytical problem-solving ability
+Great presentation skills, written and verbal communication skills
+Self-starter with the ability to work independently or as part of a project team
+Capability to conduct performance analysis, troubleshooting and remediation
+Slalom is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status, or any other characteristic protected by law.

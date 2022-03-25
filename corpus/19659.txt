@@ -1,0 +1,47 @@
+Cloud Infrastructure Engineer
+Our client, one of the world's largest airlines, is seeking a Cloud Infrastructure Engineer
+
+Location: Forth Worth, TX
+Position Type: Contract
+
+Job Summary:
+
+This Cloud (Infrastructure) Engineer position is a member of the Service Recovery Technology team within the Information Technology Division and is responsible for Cloud infrastructure provisioning and supporting multiple applications used by the Service Recovery business units. As a member of this agile team, the successful candidate will have the opportunity to work in a collaborative environment with internal customers, business analysts, project managers, IT architects, developers and other infrastructure engineers to understand requirements and development needs while gaining valuable experience and skills.
+
+Job Responsibilities:
+
+-Works with a team to create detailed project specifications, requirements, estimates and ensures tasks/projects are completed on time and within scope
+-Automate infrastructure provisioning and application deployments using DevOps tools in the IBM Cloud environments – both Cloud Foundry and Container services (Kubernetes)
+-Define standards for configuration, monitoring, reliability and performance
+-Integrate Cloud applications with enterprise monitoring/ security tools
+-Adhere to best practices and security guidelines
+-Design and implement innovations that improve team velocity, resiliency, security and data availability
+-Troubleshoots and debugs complex issues to identify and implement solutions
+-Researches and implements new technology to enhance current processes, security and performance
+-Facilitates achievement of expected deliverables and obligations of Services Providers
+-This position will include off hour work to perform changes after hours and provide occasional on-call production support, as required
+
+Required Qualifications:
+
+-Bachelor’s Degree or equivalent in computer science, information systems or related field
+-Good understanding of full Software Development Life Cycle (SDLC) experience and working in Agile teams
+-Experience supporting and delivering in DevOps environment using tools like Git, Jenkins, Maven, Docker, Kubernetes, Selenium
+-Demonstrated scripting experience
+-Understanding of Java design patterns and best practices
+-Strong networking fundamentals and working knowledge of firewalls, load balancers, etc.
+-Experience with running Kubernetes and Docker containers in a commercial / production environment
+-Experience with a PaaS (Cloud foundry), Container services (Kubernetes) / IaaS solutions in Azure and IBM Cloud
+-Experience with large enterprise ecosystems with multiple technologies
+-Working knowledge of Dynatrace, Moogsoft or similar APM tools
+-Proficient in authoring, editing and presenting technical documents using Microsoft Office Tools (Project, Excel, Word, PowerPoint, etc.)
+-Ability to communicate effectively via multiple channels (verbal, written, etc.) with technical and non-technical staff
+-The ability to handle and keep track of many tasks at once and to manage time efficiently
+-Sound judgment and willingness to exercise same in sometimes ambiguous situations
+
+Preferred Qualifications:
+
+-Two (2) years of experience as Websphere/Tomcat/Jboss administrator
+-Two (2) years of experience of system administration on either RHEL 6/7 or Window 2008+
+-Knowledge of database and persistence layers such as: Oracle, PostgreSql, NoSql, Object Storage
+-Experience in overall Design and Support of Enterprise scale deployments
+-Airline industry experience is a plus

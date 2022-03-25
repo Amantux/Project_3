@@ -1,0 +1,44 @@
+About Dexcom:
+Founded in 1999, Dexcom, Inc. provides continuous glucose monitoring technology to help patients and their clinicians better manage diabetes. Since our inception, we have focused on better outcomes for patients, caregivers, and clinicians by delivering solutions for people with diabetes - while empowering our community to take control of diabetes.
+Summary:
+You will be part of the team that supports enhanced Continuous Glucose Monitoring (CGM) design using analytics on large cloud datasets. You will analyze large datasets of CGM time series data and report on system performance in our users. Your contributions will drive continuous improvement in current CGM systems and drive design of next-generation CGM systems. You will leverage large datasets to model the complex relationships between manufacturing and performance of the system in-vivo. Additionally, you will create periodic reports, create dashboards, and make presentations to a large cross-functional audience.
+Work as a member of a R&D technology development team and collaborate and communicate with other departments including firmware/hardware, sensor/membrane, and mechanical engineering to help facilitate improved designs.
+Your contributions will aid in Dexcom’s mission to ‘empower people to take control of diabetes’.
+Functional Description: Technical Individual Contributor
+Designs, develops and programs methods, processes, and systems to consolidate and analyze unstructured, diverse “big data” sources to generate actionable insights and solutions for client services and product enhancement. Interacts with product and service teams to identify questions and issues for data analysis and experiments. Develops and codes software programs, algorithms and automated processes to cleanse, integrate and evaluate large datasets from multiple disparate sources. Identifies meaningful insights from large data and metadata sources; interprets and communicates insights and findings from analysis and experiments to product, service, and business managers.
+Essential Duties and Responsibilities:
+Contribute to research in CGM system to respond to customers and market needs
+Apply data mining and machine learning techniques to extract valuable information and patterns from user field data
+Use techniques from signal processing, time series, statistical analysis and machine learning to develop models that relate sensor manufacturing to in-vivo performance
+Support ad-hoc requests by running analyses and present results to stakeholders
+Collaborate cross-functionality to capture design details relevant to data interpretation and analysis
+Create and maintain documentation of work processes
+Recognize and adopt best practices in reporting and analysis: data integrity, test design, analysis, validation, and documentation
+Perform other related duties and assignments as required
+Comply with all company processes and policies
+Basic Qualifications:
+Bachelor’s degree in technical discipline with a minimum of 8-12 years of related experience or a Master’s degree and 5-7 years of related experience or a PhD and 2-4 years or related experience.
+Sound knowledge of statistical analysis, time series, signal processing, and data mining techniques
+Strong knowledge of statistical programming languages in MATLAB or Python
+Strong knowledge of SQL
+Knowledge and direct experience handling large datasets
+Excellent communication (verbal and written) and interpersonal skills with an ability to effectively communicate with both business and technical teams
+Perform other related duties and assignments as required
+Preferred Qualifications:
+Direct experience with BigQuery platform
+Knowledge and direct experience using business intelligence reporting tools such as Tableau
+Functional/Business Knowledge:
+Possesses advanced knowledge of technical principles and theories.
+Recommends solutions in support of functional objectives tied to overall company objectives and strategies.
+Scope:
+Demonstrates significant technical expertise, collaboration with others and independent thought.
+Anticipates potential complex problems requiring an in-depth evaluation.
+Demonstrates strategic thinking and commercial/industry understanding in functional projects.
+Judgement:
+Exercises judgment in selecting methods, techniques and evaluation criteria for obtaining results.
+Determines methods and procedures on new assignments and may coordinate activities of other colleagues.
+Travel Required:
+0 – 24%
+An Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact Talent Acquisition at talentacquisition@dexcom.com.
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Dexcom. Only authorized staffing and recruiting agencies may use this site or to submit profiles, applications or resumes on specific requisitions. Dexcom does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to the Talent Acquisition team, Dexcom employees or any other company location. Dexcom is not responsible for any fees related to unsolicited resumes/applications.

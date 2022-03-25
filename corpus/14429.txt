@@ -1,0 +1,49 @@
+Job Description
+Position: Data Modeler
+Location: Monterey Park, CA.
+
+Job Description:
+
+The Technical Analyst is responsible for gathering and documenting business requirements and converting requirements into testable designs within an Agile development methodology. The analyst is responsible for the development of the logical and physical data base designs. The Analyst is also responsible for providing metadata management and support to various departments within systems as well as throughout Sallie Mae. The individual provides subject matter expertise in a broad range of data management disciplines, including data normalization techniques, data rationalization, business analysis and requirements gathering and refinement.
+Physical Data Model Development
+Responsible for the process of data normalization as well as working closely with the DBA to reach a consensus on the physical data base design.
+Document all primary and foreign keys, and constraints
+Generate DDL/Alter table scripts for implementation by the DBAs
+Business Analysis, Requirement, and Design
+Work with the business and application teams to gather and refine data design requirements on selected projects.
+Attend and organize IT and business requirements sessions – story grooming c.
+Manage work, provide updates ADO (Azure DevOps Tool for managing Agile work).
+Meta Data Support
+Respond to ad hoc requests regarding metadata information on the various systems that DM supports.
+Establish and maintain constructive user relationships to better manage user expectations.
+Support data rationalization efforts and develop data models using ERstudio.
+Determine appropriate enterprise-wide data strategy and articulate tasks to help move the organization towards the strategy.
+Logical Data Model Development
+Work closely with development teams to identify the data required by the application and business processing. Data requirements gathering may be through individual meetings or through conducting Joint Application Development (JAD) sessions.
+Responsible for developing the logical data
+
+the logical data model which consists of developing the entity-relationship diagram (ERD), creating entity and data item business names and descriptions as well as defining data item valid values, type and length, and physical target names.
+Project Management
+Keep management informed of critical issues.
+Complete metrics and auditing information for reporting purposes.
+Commit to and meet deadlines in both quality and time.
+Develop department procedures and standards.
+Develop corporate naming guidelines and standard abbreviations.
+
+Thanks & Regards,
+
+Naga Babu
+
+Cloud Data Systems Inc.
+
+Email: naga@clouddatasystemsus.com
+
+Ph: 860-776-0079
+Company Description
+Cloud Data Systems Inc is a visionary team of entrepreneurs determined to bring forth superior results to your company. Our exceptional service and meticulous work ensures an individualized approach for each and every customer, thus matching diverse demands to our innovative solutions.
+
+Cloud Data Systems Inc consists of a full-fledged software consulting firm, remote infrastructure management, and business process outsourcing, (BPO) in Information Technology. We help local and global businesses achieve operational excellence and deliver quality products and services to our clients.
+
+Cloud Data Systems Inc's portfolio also includes Campus & Career Connect, and Employee Services. We strive to integrate collegiate aspirants with professional industry needs, thus introducing our Career Connect, helping employers/industry to source candidates via on-campus interviews for future graduates and alumni.
+Managing employee services is often a daunting task for most companies/corporations as it demands time, expertise, and scrupulous follow-up. Cloud Data Systems Inc offers high-quality and competitive pricing to our customers across verticals. Our comprehensive portfolio includes: recruitment and hiring, payroll and leave, and performance management.
+At Cloud Data Systems Inc, we ascertain top notch solutions with enduring results. Our vast development consists of several companies in varied technology, thus we have formed market alliances, specialized partnerships for niche technologies, and teaming partnerships with the diverse needs of our clientele....We are here to assist you every step of the way.

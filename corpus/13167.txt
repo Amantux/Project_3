@@ -1,0 +1,26 @@
+We are looking for a data scientist that will help us discover the information hidden in vast amounts of data. Your primary focus will be in applying data mining techniques, doing statistical analysis, time series, mathematical analysis and building high-quality prediction systems integrated with our products. This position will be based out Thorold, ON.
+
+Primary Goals:
+Responsible for selecting features, building and optimizing classifiers using machine learning techniques;
+Responsible for data mining using state-of-the-art methods;
+Responsible for enhancing data collection procedures to include information that is relevant for building analytic systems;
+Responsible for processing, cleansing, and verifying the integrity of data used for analysis;
+Responsible for doing ad-hoc analysis and presenting results in a clear manner;
+Responsible for developing custom data models and algorithms to apply to data sets;
+Responsible for developing processes and tools to monitor and analyze model performance and data accuracy;
+Responsible for working with stakeholders within the organization to identify opportunities for leveraging company data to optimize different solutions from observed trends.
+Requirements:
+At least two years of experience dealing with real-world data, coding in the industry;
+Experience querying databases and using statistical computer languages: R, Python, SLQ, etc;
+Knowledge and experience in statistical and data mining techniques using time series datasets, sensor fusion datasets, Bayesian Probability, Markov Models(HMM);
+Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modelling, clustering, decision trees, neural networks, etc;
+Capacity of analyzing data from 3rd party providers like Herd Management S/W such as HerdMertics and Dairy comp etc;
+Experience visualizing/presenting data for stakeholders using: Periscope, Business Objects, D3, ggplot, etc;
+Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi, MySQL, etc;
+Excellent written and verbal communication skills for coordinating across teams;
+Basic Knowledge of the Dairy Industry considered an asset;
+Basic Knowledge of Image processing and OpenCV considered an asset;
+Master’s or Ph.D. in Statistics, Mathematics, Computer Science or another quantitative field.
+About SomaDetect
+
+SomaDetect is a precision dairy technology company with offices in Fredericton, NB, Buffalo, NY and Thorold, ON. Founded in Fredericton, New Brunswick in 2016, SomaDetect has designed and produced an in-line sensor that measures critical indicators of dairy-quality from every cow at every milking. Our technology uses no consumables, chemicals, or cartridges, and with no lost milk. For more information, visit www.somadetect.com

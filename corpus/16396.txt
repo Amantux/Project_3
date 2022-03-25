@@ -1,0 +1,23 @@
+Data Scientist/Machine Learning
+
+Mist, a Juniper Company, is the first vendor to bring enterprise-grade Wi-Fi, BLE and IoT together through a highly scalable cloud architecture. At Mist, we built the first AI-empowered platform to provide an unprecedented visibility into the user experience. Mist is the new global standard for many fortune 500 companies.
+
+The mission of the Data Science team at Mist is to leverage state-of-art ML and AI technologies to build the next-generation self-driving network solution, which can take actions on behalf of or together with human experts to automatically monitor, detect and remediate common network issues. The team includes a group of experienced and talented data scientists and data science engineers, and builds the end-to-end data analytics infrastructure and ML models of the product.
+
+Now we are looking for a Senior Data Scientist to help define and expand this mission. As a data scientist, you will collaborate with product managers and domain experts to identify use-impacting real customer problems, use your deep DS/ML knowledge to develop data-driven solution with terabytes data, and work closely with data engineers to implement and scale the models in production.
+
+Qualifications/Requirements:
+• MS or PhD in Computer Science, Electrical Engineering, Statistics, Applied Math or equivalent fields with strong mathematical background
+• Excellent understanding of machine learning techniques and algorithms, including clustering, anomaly detection, optimization, neural network etc
+• 3+ years experiences building data science-driven solutions including data collection, feature selection, model training, post-deployment validation
+• Strong hands-on coding skills (preferably in Python) processing large-scale data set and developing machine learning models
+• Familiar with one or more machine learning or statistical modeling tools such as Numpy, ScikitLearn, MLlib, Tensorflow
+• Good team worker with excellent communication skills written, verbal and presentation
+
+Desired Experience:
+• Experience with AWS, S3, Flink, Spark, Kafka, ElasticSearch
+• Knowledge and experience with NLP technology
+• Previous work in a start-up environment
+
+Juniper Networks is enrolled in E-Verify® and will be participating in E-Verify in addition to our Form I-9 process. www.dhs.gov/E-Verify
+Juniper Networks is an Equal Opportunity/Affirmative Action Employer.

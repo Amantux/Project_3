@@ -1,0 +1,59 @@
+Domino’s Pizza, which began in 1960 as a single store location in Ypsilanti, MI, has had a lot to celebrate lately: we’re a reshaped, reenergized brand of honesty, transparency and accountability – not to mention, great food! In the rise to becoming a true technology leader, the brand is now consistently one of the top five companies in online transactions and 50% of our sales in the U.S. are taken through digital channels. The brand continues to ‘deliver the dream’ to local business owners, 90% of which started as delivery drivers and pizza makers in our stores. That’s just the tip of the iceberg…or as we might say, one “slice” of the pie! If this sounds like a brand you’d like to be a part of, consider joining our team!
+
+As a leader of innovation in the food and digital commerce space, Domino’s is constantly testing new concepts, platforms, and technologies that drive outstanding consumer and employee experiences, which requires a disciplined data approach. The primary responsibility of this role will be to develop the machine learning and AI components of Domino’s next-generation smart applications. This role will be required to architect solutions that are manageable and supportable in high-volume, low-latency production environments and will support the team responsible for building, deploying, and maintaining predictive models for different areas of the business. A secondary responsibility will be to perform analytics (data extraction, preparation, reporting, dashboard development) and statistical analysis to support the development of Domino’s smart applications. In addition, this role provides advanced analytics and machine learning support for the broader Strategy and Insights group.
+
+RESPONSIBILITIES AND DUTIES
+
+(50%) Hands-on prototyping and development
+
+Leverage data and requirements gathered from business partners to build machine learning applications
+
+Improve and augment employee and consumer experience, store operations, and process optimization through ML/AI solutions
+
+Quickly prototype new algorithms to demonstrate value
+
+(25%) Analytics
+
+Create and execute test plans that help address questions from non-technical business partners; translate results into business recommendations or interpretations
+
+Consult inter-departmentally on new product deployments and incremental improvements
+
+Consult on data collection for new products and specify requirements to ensure all tracking is in place for future analysis
+
+Conduct analysis by mining internal and external data sources
+
+(20%) Architect solutions to solve problems using machine learning and AI
+
+Work with internal clients and the Data Science team to solve problems
+
+Construct meaningful data sets to answer relevant questions and enrich internal resources
+
+Learn aspects of Supply Chain, Delivery, and E-Commerce in the Quick-Service Restaurant industry for productive consulting
+
+(5%) Provide guidance and support / expand use of ML
+
+Coach team members less experienced with machine learning methodology
+
+Master’s degree (or Bachelor’s degree with equivalent experience) in a quantitative science such as statistics, mathematics, computer science, engineering, etc.
+
+Ability to rapidly learn how different areas of a business operate
+
+Proficient with at least one scripting and/or programming language, e.g. R, Python
+
+Experience training models with at least one deep learning framework (TensorFlow, CNTK, Torch, Caffe, etc.)
+
+Advanced knowledge of SQL
+
+Experience working with Big Data technologies such as HDFS, Hive, Spark, etc.
+
+Comfortable working with APIs and streaming data
+
+Experience with data integration and ETL
+
+Ability to self-start and self-direct work in a fast-paced environment
+
+Experience with RapidMiner is a plus but not required
+
+Experience with geospatial data and/or a GIS application such as ArcGIS is a plus but not required
+
+Preferable to have two years or more of experience in enterprise database environments

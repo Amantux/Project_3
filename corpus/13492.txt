@@ -1,0 +1,33 @@
+About Sense360:
+
+Sense360 is big-data start-up that is transforming how companies make strategic decisions. We work with some of the top restaurants, retailers, agencies and tech companies in the world providing them access to our revolutionary data-set and dashboard. We are funded by the same VCs as Uber, Pinterest, and Riot Games and were founded by successful repeat entrepreneurs.
+
+About Our Culture:
+
+We believe that the best people want lots of responsibility and ownership, but they want to be part of a high-performance team with a singular goal. We believe that to truly be great one needs to constantly be improving, learning, and soliciting feedback. We also believe that startups require scrappiness and focus to do 10x more with 1/10 the resources. Finally, we believe building a company should be a fun and rewarding experience that extends outside of the four walls of the office. See our Culture Deck here.
+
+About the Role:
+We are building a world class Data Science team to help our customers get the most out of our unique data. We are looking for a Data Science leader who will be a strategic partner in our organization. Our ideal team member can do it all, is comfortable using the right-side and left side of their brain, loves data and is ready to take on any project in fast moving start-up environment. You are someone who is able to get stuff done without compromising the quality of your work. You should be highly analytical and enjoy digging into data using Spark, Python, SQL or any other language that makes getting to the data more efficient. You have worked for several years in a Data Science role and you have experience directly managing and developing other Data Scientists. If you are a hard working, intelligent, team player excited to take on a new challenge, and want to be in an environment where you can grow then we'd love to talk to you!
+
+Responsibilities:
+
+Develop, deploy and maintain models for predicting the location of a user based on sensor data retrieved from the phone
+Develop big data processing pipelines
+Identify, analyze, and interpret trends or patterns in complex data sets
+Development and communication of Data Science team goals
+Locate and define new process improvement opportunities
+Ensure the timely and successful delivery of our solutions according to customer needs and objectives
+Assist with high severity requests or issue escalations as needed
+
+
+Requirements:
+PhD required in CS, math, statistics, or other quantitative major
+5+ years working in Data Science and/or Analytics with preference to marketing science, decision science or market research
+Experience with Python Experience with Spark or other distributed language
+Experience with AWS or any other cloud provider
+Strong stats background
+ML experience in a professional environment a plus
+Experience developing production code and pipelines
+Strong communication skills
+Experience communicating and presenting to leadership team
+Ability to work full time in our Culver City, CA HQ

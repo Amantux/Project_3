@@ -1,0 +1,85 @@
+Designation
+ASSOCIATE CONSULTANT
+
+24-Feb-2020
+
+SR Number
+HCLI/HCLI/2020/1226081
+
+Country
+USA
+
+No. of Positions
+0
+
+Auto req ID
+658829BR
+
+Experience
+5-8 Years
+Skill (Primary)
+EIS-Mainframe-Mainframe
+
+Qualification
+BE/Btech/Beng(Hons)
+
+Location
+Texas
+
+Employee Group
+Business Line FT
+
+Job Description (Posting).
+General Description
+Responsibilities:
+Troubleshooting technical issues
+Responsible for successful completion of Installation, configuration and migration
+Ensure maximum uptime according to the SLA
+Improves and maintains customer and employee satisfaction
+Perform problem determination followed by root cause analysis and documentation
+Implement changes to z/OS and installed SW followed by documentation
+Participate in analyzing, planning and implementation of upgrades to z/OS and installed SW
+New products installation, testing and customization
+Working with incident and change management tools
+Understand and implement specific customer requirements
+Perform root cause analysis
+Defining processes and ensuring that the processes are adhered to
+Responsible for strategizing a backup plan and test plan for failure scenario
+Monitoring and maintaining SLA requirements by the team members
+Planning Backup/Restoration Strategy for 24x7 operation support
+Testing / Auditing/processes as required from time to time
+Identify Skill gaps and plan for training / knowledge updating
+
+Skill set Requirements
+Mandatory:-
+Fully understand z/OS services structure, JES concepts, parallel sysplex/GDPS, catalog management
+PARMLIB configuration and JES customization
+Knowledge of JCL, REXX, CLIST and Modify Assembler EXITS
+Knowledge of z/OS HW, LPAR, HMC
+IMS/MQ Series (Web Sphere MQ)
+RACF experience
+Knowledge of installing and supporting few commonly used ISV products like CA-View, Tape management tool (CA-1), Scheduling tools (BMC Incontrol, CA-7) etc.,
+Knowledge of USS management
+Capable of installing regular maintenance (RSUs)
+Supporting any hardware or software upgrade in the environment
+Capable of Installing/upgrading CICS and related products on a mainframe
+Maintain reliability, availability of CICS systems software
+Good knowledge in usage of transactions like CEMT, CEDA etc.,
+Good Knowledge of SMP/E, SQL, DB2 online and offline utilities, ZPARMS, DB2 logs and BSDS, DB2 Commands, DDF etc.
+Install and use performance monitoring tools and products(like SAS, MXG, CA-MICS, Strobe and the Omegamon products)
+Expertise in tuning and debugging performance problems for z/OS systems including application workloads
+Perform problem diagnostics and resolution. Monitor system performance and tune when required
+Well versed in storage capacity planning and configuration and should have good familiarity with typical z/OS application performance analysis
+Capable of z/OS Performance Analysis using various tools such as IBM's RMF, SMF and subsystem analysis tools
+Capable of Installing, Customizing and maintaining IBM and other ISV products related to Automations
+
+Good to Have:-
+Experience in mainframe automation and Performance & Capacity Management will be an added advantage
+Experience in Customization of ISV/OEM products used for Automations and monitoring tools like Netview, OPS/MVS, SA z/OS, Tivoli Suite of monitoring and automation products, BMC AO, TEP, Control-O etc
+SAS Programm
+
+Entity
+INFRA
+
+City
+Houston

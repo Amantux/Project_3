@@ -1,0 +1,31 @@
+Position Role/Tile: Data Scientist
+Location: San Diego, CA .
+
+Job Description:
+Have strong scientific coding aptitude efficient code that is numerically stable and of production quality.
+Are strong analytical thinkers, including reasoning through probabilities and statistics, as well as delving into detailed deterministic thinking and using individual examples
+Can learn new business domains, understanding the context for the data science
+Can learn and apply machine learning and AI techniques to new domains, with a focus on client needs
+Have interest in working from start to finish: gather data, clean and prepare, model, code, package, guide into production, and help clients use the results.
+Enjoy working with data.
+Can communicate complex and sophisticated ideas to people without scientific backgrounds
+Enjoy working in a team environment
+You will be responsible for:
+Working on problems in the fintech area, including online payments, banking, and other areas
+Working on a team under the leadership of other Data Scientists
+Communicating with clients, internal and external, to understand the business problems that we can solve using machine learning and AI
+Analyzing and understanding data from different domains, including data cleansing and detailed analysis of relationships between fields
+Developing supervised, unsupervised, and reinforcement models in the laboratory
+Coding models for production, with particular attention to efficient use of computational resources and robustness of the code
+Working with Software Engineers and SaaS Operations to package and deploy the models
+Monitoring the models to ensure that they are working properly, and generalizing to new data
+Working with clients to ensure that they are using the results of the models effectively.
+Skills needed include: excellent written and verbal communications, and presentation skills.
+Languages needed include a subset of: Python, C++, Unix scripting, SAS, PySpark, Scala, Perl, C
+Strong command of Unix is preferred.
+Experience: PhD plus 3 years of industry experience in a relevant area, including taking machine learning into a production environment. Alternatively, Master's degree plus 6 years of industry experience in a relevant area, including taking machine learning into a production environment.
+
+Central Business Solutions, Inc,
+37600 Central Ct.
+Suite #214
+Newark, CA 94560

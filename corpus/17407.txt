@@ -1,0 +1,27 @@
+About Us
+
+Teza is a quantitative asset management firm that strives to develop innovative, high-Sharpe investment products for its clients. Originally founded in 2009 as a science and technology-driven global quantitative trading business, Teza derives its unique edge in asset management from its high-frequency trading past and science-based investment approaches. Under the leadership of CEO Misha Malyshev, Teza's innovative approaches to quantitative research and platform engineering distinguish us from other quant trading firms. We have successfully attracted and assembled a group of top talent, including widely recognized experts in quantitative trading. Teza has over 50 professionals worldwide with offices in Austin, Chicago, New York, and Shanghai.
+
+About the Role
+
+Teza Technologies is looking for a data engineer to join our quantitative development team who will be a close partner to our Equities Statistical Arbitrage trading team . This role can be based in New York, NY or Austin, TX. Data drives systematic trading and is critical to all aspects of the firm's business. This is a hands-on position with significant growth potential. The firm is looking for outstanding technical skills, strong attention to detail, and experience with both systems development and data modeling.
+
+Responsibilities
+Communicate with quantitative researchers and other end-users to understand their requirements and potential future requests
+Investigate vendor data thoroughly to become a subject matter expert on its characteristics and irregularities
+Develop ETL processing components using cutting edge technologies, and write robust tests for on-going quality control
+Support developed transformations and ETL frameworks in production trading as well as backtest research
+Build flexible data API components in iterations with research peers to ensure their needs are met
+Optimize data IO and load balancing for distributed, grid computation
+Analyze a variety of large data sets to develop and implement alpha signals
+Requirements
+Detail oriented
+Strong programming skills, preference for Python, Java is a plus
+Experience with the scientific Python stack, Numpy, Scipy, Pandas, Matplotlib
+Ability to find practical solutions and successfully make trade-offs between long-term goals and short-term deliverables
+Ability to troubleshoot difficult problems, both numerically and technically
+Proficient with SQL, experience with Postgres is a plus
+Experience with Hadoop, Spark, and Docker is a plus
+Preferred Education and Experience
+Computer Science/Math or similar degree
+2-5 years of professional experience, ideally exposure to work with complex data sets and all stages of cleaning, preparing data to be used in specific format

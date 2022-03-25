@@ -1,0 +1,170 @@
+ENERGY INDUSTRY TRANSFORMATION
+
+The trillion dollar energy industry is undergoing a disruptive transformation. Energy generation is going from centralized to decentralized. Utilities are shifting from vertically integrated power producers and distributors (think PG&E; SoCal Edison) to nimbler energy services providers operating in increasingly deregulated environments. New generation assets are smaller in scale, distributed, powered through renewable sources, and owned by the customers. This shift will lead to over $10 Trillion in new energy investments by 2040. With this dramatic change, energy providers must run their business in new ways. Energy providers of the future will be data-driven, where effective use of data will determine who wins and who loses.
+
+Enter AutoGrid
+
+AutoGrid's suite of Energy Internet applications allows utilities, electricity retailers, renewable energy project developers and energy service providers to deliver cheap, clean and reliable energy by managing networked distributed energy resources (DERS) in real-time and at scale. The AutoGrid platform and applications leverage petabytes of smart meter, sensor and third-party data, along with powerful data science, artificial intelligence, network optimization and high performance computing algorithms to monitor, predict, optimize and control the operations of millions of assets connected across global energy networks. Energy companies worldwide use AutoGrid's software to improve their operations, integrate renewables and drive deeper engagement with their customers.
+
+Company Facts
+Founded 2011 by Amit Narayan. Early backers include U.S. Department of Energy and Stanford University
+SaaS platform and applications sold to regulated and deregulated energy companies worldwide.
+AutoGrid addresses a top concern of all energy companies as they transform to capture the opportunities created by the changing market conditions
+Value-add: AutoGrid software monitors, manages and optimizes a network of distributed energy resources (DERS) to balance demand and supply across the entire grid, in real-time and at scale.
+Predictive Control technology tying together data science, AI, big data, IoT and high-performance computing to create 4th gen AI-driven real-time controls platform.
+Open Architecture is able to integrate with all vendors and all equipment throughout the energy ecosystem.
+Established thought leadership and high visibility within the industry. Recognized as World Economic Forum Technology Pioneer 2015 and Bloomberg New Energy Pioneer 2016 and numerous other industry awards
+Competition: ages-old clunky systems or point solutions only controlling one element. AutoGrid controls every element.
+Highly differentiated in the market. No one approaches AutoGrids capabilities, performance, ease of deployment and cost.
+Products sold directly and through partners. Deal size ranges from $100,000 to $5 million+.
+AutoGrid is the leader in the space with over 5,000MW of assets under contract.
+100%/year growth rate in revenues
+Well-Funded. $75+ million to date. Strategic investors include some of the largest energy companies in the world such as NextEra, E.ON, Southern, National Grid, Envision, Total and several others. Many of them are also customers.
+CANDIDATE PROFILE
+
+As Senior Data Scientist - Optimization, you would be working with a team of other data scientists on the core optimization capabilities of the company in an agile environment. Experience in energy / utility or related markets is desirable but not necessary. Experience in building mission critical, highly scalable optimization applications is a must. Candidate should have a deep understanding of various optimization algorithms as well as practical experience of working with open-source and commercial solvers.
+
+About the Job
+Develop and maintain the optimization models and software implementation that drives AutoGrids predictive controls platform for managing distributed energy resources
+Benchmark and debug critical issues with the algorithms and software as they arise
+Contribute to improving scalability and reliability of the system
+Work with product owners to develop new features and capabilities
+About You
+B.S., MS., or Ph.D. in computer science, operations research, industrial engineering, or related field
+Experienced with solving large optimization problems using linear / non-linear / integer / dynamic / stochastic programming, as well as heuristic approaches
+Deep understanding of algorithms, data structures, performance optimization techniques, relational databases, and software development in a team environment
+Excellent programming skills in Python, Java or C++
+Experience with optimization modeling languages (e.g. Pyomo, GAMS) and solvers (e.g. CBC, Cplex, Gurobi)
+Nice to Have
+Experienced with decomposition approaches to solving large-scale optimization problems
+Hands-on experience with time series forecasting
+Understanding of energy and capacity markets
+Experience with frameworks such as Redis, Kafka, Celery, Hadoop/Spark
+Start-up experience, entrepreneurial spirit, energetic!
+WEBSITE LINKS
+
+Recent Press
+
+See all recent press here on the AutoGrid website.
+AutoGrid announces partnership with Amazon Web Services for Energy Industry Digitization
+Schneider AutoGrid Deal Signals Bigger Trends in Distributed Energy
+AutoGrid Recognized as the Industry Leader by Navigant and Sweeps Flexibility Management Categories
+Schneider Electric Acquires Stake in Autogrid to to Accelerate AI Adoption in Power Sector
+AutoGrid announces major virtual power plant agreement with Japans Eneres Co. Ltd.
+National Grid, AutoGrid bring demand response to the natural gas industry
+National Grid and AutoGrid Test Demand Response for Natural Gas in New York
+National Grid Recognized by NARUC for Natural Gas Flexibility Program Powered by AutoGrid
+In search of the perfect rate: Portland General tests 12 pilots on DR rate design
+The Eclipse Will Give Us a Glimpse of the Future of Natural Gas
+Virtual Power Plants: Ready to Serve a Grid Near You
+AutoGrid Named to the 2017 Red Herring Top 100 North America
+Three States, Five Demand Response Programs, One Grid Systems Platform
+National Grid Selects AutoGrid Flex to Unify Flexibility Management Programs Across New York, Massachusetts, and Rhode Island
+CPS Demand Response Program wins POWERGRID International Project of the Year Award
+PLMA Recognizes Portland General Electric and AutoGrid with Program Pacesetter Award for Innovative Residential Dynamic Pricing and Behavioral Demand Response Project
+PGE and AutoGrid Pricing and Demand Response Project Recognized by Peak Load Management Alliances Award
+AutoGrid announces record year with 2 GW of distributed energy contracts
+AutoGrid is Named in the 2017 Global Cleantech 100
+350 Percent Growth Highlights Dynamism of Distributed Energy Resources Market
+Demand Management, Distributed Power, And Virtual Power Plants
+AutoGrid Launches AutoGrid Flex 3.0, With Innovative Co-Optimization Capabilities that Increase Energy Storage Return on Investment
+Navigant Research Names AutoGrid a Leader in Virtual Power Plant Software
+European Utilities Fight Back Against Threats by Investing in Their Startup Competitors
+AutoGrid Named Energy Productivity Innovation Challenge (EPIC) Winner
+Sonnen and AutoGrid Marry Big Data With Battery-Backed Solar
+Bay Area utility picks AutoGrid Flex for demand response, distributed energy
+MCE Selects AutoGrid Flex for Demand Response and Distributed Energy Resource Management
+TEV Is Banking On AutoGrids Energy Flexibility Management Systems
+AutoGrid adds Total Energy Ventures as A Strategic Investor in its Series C-2 Funding Round
+AutoGrid Systems Appoints Utility Industry Leader Jeffrey Norman as Vice President of Industry Solutions
+Gexa Energy Teams Up with AutoGrid to offer New Demand Response Programs in ERCOT
+NextEra Energy Services Teams Up with AutoGrid to offer New Demand Response Programs in PJM
+A New Smart City Model Is Emerging
+AutoGrids $20M VC Round Brings New Strategic Partners On Board for Big Energy Data
+Theres Big Money In Energy Big Data
+Utility fund backs big data company AutoGrid in VC round
+AutoGrid Raises $20 Million in Series C-2 Round
+AutoGrid Wins Greentech Media 2016 Grid Edge Award
+New Hampshire Electric Cooperative Goes Live with Three New Residential and Small and Medium-Sized Business Demand Response Programs Using AutoGrid DROMS
+Autogrid Named a 2016 New Energy Pioneer
+Analytics Challenges In A Renewable Energy Paradigm
+AutoGrid achieves 350% growth in Energy Internet applications adoption
+Data Platforms Supplying Smarts to the Power Grid
+CHP Update: Policies, Partnerships, and Challenges
+How Software Can Eat The Energy Industry And Help Save The World
+The Emerging Energy IoT
+Lions, Pizza & the Energy Internet of Things
+Analytics Comes to the Smart Grid
+AutoGrid Systems Strikes Deal With Dutch Energy Provider For Software-Defined Power Plant
+Half of UK consumers under 44 would consider buying smart-home devices
+Smart Grids Attract Smart Money
+AutoGrid Enables Utilities And Consumers To Get More From EVs
+Power to the People, Literally
+AutoGrid Selected as a 2015 Platts Global Energy Rising Star of the Year Award Finalist
+Californias Cleantech Revolution
+Solar array with cloud predicting technology launched in WA
+Machine 'learners' compute cloud cover to balance power supplies
+Bonneville Power Deploys AutoGrids Big Data Software
+How Bonneville Is Tapping Demand Response to Balance Power From Dams, Wind and Sun
+AutoGrid Included on List of 2015 Smart Grid Companies to Watch
+AutoGrid Systems Launches Third Version of its Energy Data Platform (EDP) Expanding the Power of Its Utility Big Data Software Analytics
+AutoGrid Systems to Enable Utility and Energy Service Providers to Develop Smart Grid Analytics Applications on Microsoft Azure
+AutoGrid Systems and Trilliant Partner to Provide Enhanced Predictive Analytics Solutions to Global Utility Customers
+AutoGrid Selected by Bonneville Power Administration for Demand Response Across Its Service Territory
+AutoGrid Systems Wins Cleantech Group's Industrial Innovation Company of the Year Award
+AutoGrid Systems CEO Amit Narayan to Address Big Data as a Solution to Global Energy Challenges at the World Economic Forum
+AutoGrid Systems Selected as World Economic Forum Technology Pioneer 2015
+AutoGrid Systems Sets World Record for Big Data and the Grid: Over One Million Power Forecasts Every Ten Minutes
+AutoGrid Systems Appoints Industry Luminaries to the Strategic Advisory Board
+World Economic Forum: AutoGrid Wins Technology Pioneer Award
+Wall Street Journal: AutoGrid Partners with European Utility E.ON
+Forbes: A Software Startup Helps Utilities Decode Smart Meter Data
+TIME Magazine: Smart Power
+MarketWatch: AutoGrid Wins CODE_n Business Innovation Award
+A Few Videos
+
+AutoGrid: Harnessing Flexibility to Deliver Cheap, Clean, Reliable Energy
+
+Winning in the Distributed Energy World: AutoGrid Customers and Partners Speak
+
+New Champions panel at the World Economic Forum in Tianjin, China
+
+World Economic Forum: Data-Driven Smart Power Grids
+
+AutoGrid Customer Testimonial: Marin Clean Energy (MCE)
+
+AutoGrid Customer Testimonial: E.ON
+
+AutoGrid Customer Testimonial: Florida Power & Light
+
+Behavioral Demand Response offered by CLEAResult and AutoGrid
+
+AutoGrid at European Utility Week
+
+Software Defined Power Plants
+
+Turning Big Data Into Power
+
+Customer Testimonial: City of Palo Alto Utilities (CPAU)
+
+Co-Developer Testimonial: NTT DATA
+
+Partner Testimonial: Schneider Electric
+
+Partner Testimonial: Lawrence Berkeley National Labs (LBNL)
+
+Partner Testimonial: SilverSpring Networks
+
+Lets Get Social
+
+Follow twitter.com/AutoGridSystems
+
+Like facebook.com/AutoGridSystems
+
+Connect linkedin.com/company/autogrid-systems
+
+Visit www.auto-grid.com
+
+Contact info@auto-grid.com
+
+Powered by JazzHR

@@ -1,0 +1,65 @@
+Read what people are saying about working here. 
+
+We are seeking an individual with a strong passion and desire to design and develop intelligent data products and services on DTCC’s Artificial Intelligence (AI) platform on the cloud. The Data Scientist must be adept at applying different Statistical/Mathematical, AI/Machine Learning (ML)/Natural Language Processing (NLP), and Visualization techniques to data towards producing meaningful data products and services – that drive impactful data-driven decisions. Excellent opportunity to flourish career in applied AI/ML research in a global enterprise setting.
+
+Essential Responsibilities:
+
+ Analyze, extract and understand meaningful patterns from the large volumes / dimensions of historical data by utilizing analytics techniques with SMEs’ inputs.
+
+ Design, develop, evaluate and implement high quality innovative predictive/prescriptive models using open source tools such as R, Python, or similar scripting within Apache Spark/AWS cloud based big data/AI environments.
+
+ Support the Chief Data Scientist in creating/executing novel approaches to solve challenging problems by leveraging AI/ML/NLP and Big Data/Cloud technologies.
+
+ Collaborate closely with Business Partners/Analysts, Data Engineers, System Administrators, and other Data Scientists to integrate innovative AI/ML models into useable data products and services.
+
+Experience:
+
+v 2+ year of experience (industrial setting is preferred) in applying Statistical/Mathematical, Machine Learning, and Visualization techniques to Big Data towards extracting insightful/actionable information.
+
+v 2+ year of experience in predictive/prescriptive analytics with R or Python and Apache Spark.
+
+v 2+ year of experience in developing/validating/testing and deploying ML-based models.
+
+v Experience of developing model using Deep Learning.
+
+v Experience with open source middleware such as SQL, noSQL and Linux.
+
+v Working experience with both structured and unstructured data contents.
+
+v Candidates with Research experience in AI/ML would be considered
+
+Knowledge, Skills, & Abilities:
+
+v Passion for applying AI/ML/NLP to data towards extracting meaningful information.
+
+v Strong collaboration skills to work with various different teams within the organization.
+
+v Analytic and problem solving expertise with strong model building capability.
+
+v Excellent written and verbal communications skills - strong ability to communicate technical concepts to business partners.
+
+v Experience with data processing on a Big Data Ecosystem – R / Python/ Apache Spark / AWS S3 / AWS Lambda is a plus.
+
+v Knowledge in AWS Cloud based Distributed Computing is a plus.
+
+v Knowledge of streaming process such as Apache Spark Streaming/ Apache Kafka is a plus.
+
+v Programming skills with Scala/Python/R is a plus.
+
+v Experience using Tensorflow or Pytorch for developing Machine learning/ Deep Learning model is highly preferred.
+
+v Basic skills of shell scripting and unix command such as scp, awk, vi, top etc is essential.
+
+v Ability to create model from ML research articles (ICLR, NIPS, and CVPRs’ papers) is highly recommended.
+
+v Experience using Deep Reinforcement learning and Bayesian Deep learning is recommended.
+
+Education, Training, or Certification:
+
+Graduate (MS/Ph.D.) degree in Data Science, Computer Science, Engineering, Statistics, Mathematics, Physics, or relevant quantitative field.
+
+About DTCC:
+
+With over 40 years of experience, DTCC is the premier post-trade market infrastructure for the global financial services industry. From operating facilities and data centers around the world, DTCC automates, centralizes, and standardizes the processing of financial transactions across the trade lifecycle and mitigates risk for thousands of institutions worldwide. At DTCC we value on our clients' interests and partner to deliver superior results with excellence and innovation and lead with integrity. We proactively develop your potential and invest in your career.
+
+ It's clear that securities trading just wouldn't be the same without The Depository Trust & Clearing Corporation (DTCC). Through subsidia...

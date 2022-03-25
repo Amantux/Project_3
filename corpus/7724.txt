@@ -1,0 +1,33 @@
+At Ezoic, we're building a better internet experience with our all-in-one digital publishing platform. Artificial intelligence is at the core of everything that we do, and we are looking for a motivated, creative, results-oriented data scientist to develop novel, scalable models that improve website experiences for tens of millions of visitors each day. This is a high-impact position that will contribute to the very heart of our product.
+
+What you'll do:
+
+Develop novel, production-ready machine learning models using our in-house neural network architecture, open source tools, or custom solutions built from scratch
+
+Proactively perform data exploration on user behavior and website performance to discover future testing opportunities
+
+Lead the research and development of new predictive modeling techniques to increase customer revenue, reduce page load time, improve user experience, and move other key metrics
+
+Perform ad hoc analyses and modeling projects across our business, from marketing to business intelligence to core product
+
+Maintain rigorous experimental design practices in a fast-moving environment
+
+Serve as an advocate for the company's data and product by clearly communicating key results with internal and external stakeholders
+
+What you'll need:
+
+PhD or MS degree in a highly-quantitative or computational field
+
+2+ years experience in developing learning methodologies and building robust production machine learning systems.
+
+Strong coding experience, preferably with python and/or golang
+
+Strong SQL skills
+
+Familiarity with web development is a plus
+
+Experience with distributed tools (spark, kubernetes, docker) a plus
+
+Life at Ezoic:
+
+Ezoic is a technology-first company. Our CEO is a developer by trade, and our employees are given all the tools needed to succeed. We have a brand new dog-friendly office in Carlsbad, CA, where every engineer works at their own quad-monitor setup on a standing desk. We pride ourselves on getting stuff done, but when you're in need of a break, Ezoic offers great perks, including catered lunches, unlimited snacks and coffee, flexible hours, ping pong, video games, and pool.

@@ -1,0 +1,58 @@
+Thomson Reuters Special Services, LLC delivers a comprehensive suite of solutions designed to help customers achieve mission objectives, address uncertainty, and identify and manage risk. We leverage Thomson Reuters' market-leading solutions to help our clients perform intelligence collection and analysis of a range of security, regulatory and compliance issues e.g., cyber security, threat finance, insider threat detection, and risk management.
+
+The Data Scientist will be responsible for managing, understanding and analyzing in-house and customer data including text mining, developing predictive systems, risk scoring, creating efficient algorithms, data quality improvement and other related activities. This individual will work closely with the TRSS Analysts and government partners to drive, identify, evaluate, design and implement statistical analyses of gathered open source, proprietary, and customer data to create analytic metrics and tools to support TRSS analysts, customers and existing product offerings.
+
+Successful candidates will have the opportunity to contribute directly to the features and capabilities deployed in our applications. They will work with customers to assist in gathering requirements and contributing to Statements of Work (SOWs) for new sales or POCs and executing design post sale while getting deeply involved into the delivery of the proposed solutions. The role will interface with the customer and provide continuity of technical and data-exploration expertise to ensure we are delivering a workable solution that meets the customer requirements and technical capabilities. The position requires a proactive, mission-oriented person who strives to produce the best possible work for the customer.
+
+Key Responsibilities and Duties:
+Work with interdisciplinary engineering and research teams on designing, building and deploying data analysis systems for large data sets.
+Work closely with customers to apply data science to their mission specific content.
+Create algorithms to extract information from large data sets.
+Establish scalable, efficient, automated processes for model development, model validation, model implementation and large-scale data analysis.
+Develop metrics and prototypes that can be used to drive business decisions.
+Provide thought-leadership and dependable execution on diverse projects.
+Identify emergent trends and opportunities for future client growth and development.
+Researches and identifies Artificial Intelligence (AI) methods including Machine Learning (ML) and Natural Language Processing (NLP) methods
+Identifies new applications of AI in the context of Thomson Reuters and TRSS content sets
+Explores existing data for insights and recommends additional sources of data for improvement
+Qualifications:
+Must have or be able to acquire and maintain a US Government Security Clearance current or recent active clearances (Secret/TopSecret) or BI investigations are highly preferred.
+Excellent programming skills in one major programming language (Java/Python/R/Scala)
+Must be creative, intellectually curious, and willing to experiment and work in dynamic organizations and situations, sometimes with little oversight or well-defined requirements.
+Must take ownership for defined areas of accountability, most critically the integrity of the technical and data design in terms of meeting customer needs, design delivery and supportability
+A good understanding of distributed computing concepts
+Experience with database, workflow and orchestration frameworks preferred (e.g. SQL, Kafka; NiFi, Docker, Kubernetes, etc.)
+Big Data analytics experience preferred
+Strong background in engineering, process data management, or service management in a medium size complex technology environment.
+Previous experience with data modeling for graphs.
+Experience in complex analysis of processes and tools
+Experience facilitating gathering input from subject matter experts.
+Excellent understanding of ML, NLP and statistical methodologies
+Ability to test ideas and adapt methods quickly end to end from data extraction to implementation and validation
+Experience with search engines, classification algorithms, recommendation systems and relevance evaluation methodologies a plus
+Experience leading project work focused on a specific process area.
+Strong planning, time management and organizational skills
+Good team player / self-starter with the ability to work using own initiative.
+Do you want to be part of a team helping re-invent the way knowledge professionals work? How about a team that works every day to create a more transparent, just and inclusive future? At Thomson Reuters, we've been doing just that for almost 160 years. Our industry-leading products and services include highly specialized information-enabled software and tools for legal, tax, accounting and compliance professionals combined with the world's most global news services Reuters. We help these professionals do their jobs better, creating more time for them to focus on the things that matter most: advising, advocating, negotiating, governing and informing.
+
+We are powered by the talents of 25,000 employees across more than 75 countries, where everyone has a chance to contribute and grow professionally in flexible work environments that celebrate diversity and inclusion. At a time when objectivity, accuracy, fairness and transparency are under attack, we consider it our duty to pursue them. Sound exciting? Join us and help shape the industries that move society forward.
+
+Accessibility
+
+As a global business, we rely on diversity of culture and thought to deliver on our goals. To ensure we can do that, we seek talented, qualified employees in all our operations around the world regardless of race, color, sex/gender, including pregnancy, gender identity and expression, national origin, religion, sexual orientation, disability, age, marital status, citizen status, veteran status, or any other protected classification under applicable law. Thomson Reuters is proud to be an Equal Employment Opportunity/Affirmative Action Employer providing a drug-free workplace.
+
+We also make reasonable accommodations for qualified individuals with disabilities and for sincerely held religious beliefs in accordance with applicable law.
+
+More information about Thomson Reuters can be found on thomsonreuters.com.
+
+Locations
+
+McLean-Virginia-United States of America
+
+Req #: JREQ137021
+
+Locations: McLean-Virginia-United States of America
+
+Job Function: Technology Development
+
+SDL2017

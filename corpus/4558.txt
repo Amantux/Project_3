@@ -1,0 +1,29 @@
+Temporary, Internship
+
+Rifiniti is a growth-stage SaaS solutions provider for commercial real-estate end-users. We integrate client data into our proprietary cloud-based data-warehouse, process it, and provide our clients with actionable workplace analytics.
+
+We have a dynamic team, consisting of data scientists, ETL, front- and back-end software developers, QA experts, and sales and support personnel. Our team is located in Boston, US, Sofia, Bulgaria, and Ukraine. We have a large and growing number of customers, all of whom are global companies with significant leased and owned office space portfolios for their operations.
+
+Our data scientists work closely with our software engineers as well as a growing ecosystem of business partners and customers to build leading edge technologies in big data, machine learning, real time intelligence that scale the business.
+
+Responsibilities
+
+Contribute to implementation of highly scalable ETL infrastructures that collect, store and process large volumes of data daily.
+
+Leverage machine learning techniques to discover hidden relationships in data
+
+Conduct statistical analyses to validate, or disprove, hypotheses about data
+
+Requirements
+
+Working towards a masters degree (or above) in computer science, applied math or engineering
+
+Proficiency using Python, Jupyter and Spark
+
+Experience with MySQL
+
+Experience with AWS a plus
+
+Excellent and written communication skills in English.
+
+Strong teamwork and interpersonal skills

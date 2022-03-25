@@ -1,0 +1,16 @@
+If you thrive on working with big data in high performance teams then this is the place for you. You would work on data and build some of the tools that are critical to moving & transforming this data into valuable and insightful information. Creating reliable, scalable, and high performance products requires exceptional technical expertise and practical experience working with large-scale distributed systems. Finally, you will tackle challenging issues of scale, reliability and security while delivering a delightful, simple user experience to a global user base.
+
+RESPONSIBILITIES
+
+You will manage data warehouse plans for a product or a group of products. You will interface with engineers, product managers and product analysts to understand data needs. In addition, you will design, build and launch new data extraction, transformation and loading processes in production. You will work with data infrastructure to triage infra issues and drive to resolution. Be prepared to build and launch new data models that provide intuitive analytics to your customers as well as design and extremely efficient & reliable data pipelines to move data to our Data Warehouse. You will use your expert coding skills across a number of languages from Python, Scala, Java and PHP and work across multiple teams in high visibility roles.
+
+REQUIREMENTS
+2+ years of Scala and/or Python development experience is necessary
+2+ years of SQL (Oracle, Vertica, Hive, etc) experience is required
+2+ years of experience in custom or structured (ie. Informatica/Talend/Pentaho) ETL design, implementation and maintenance
+2+ years or experience applying statistical data analysis to real-life problems
+Experience working with either a Map Reduce or a MPP system on any size/scale
+BS or MS degree in Computer Science or a related technical field
+Previous experience with Data ingestion and IR (information retrieval) is highly desirable
+Industry experience as a Data Engineer or related specialty
+Powered by JazzHR

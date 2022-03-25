@@ -1,0 +1,83 @@
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities — we're just getting started.
+
+In June 2019 the Libra Association announced plans for Libra – a new global cryptocurrency that runs on the Libra network. Libra's mission is to create a simple global financial infrastructure that empowers billions of people around the world. It's powered by blockchain technology and the plan is to launch it in 2020.
+
+Calibra is a newly formed Facebook subsidiary whose goal is to provide financial services that will enable people to access and participate in the Libra network. Our first product will be a digital wallet for Libra, a new global currency powered by blockchain technology, and it will be available in 2020 in Messenger, WhatsApp, and as a standalone app. Our vision is to reinvent money and transform the global economy so people everywhere can live better lives. Calibra will let you send Libra to almost anyone with a smartphone, as easily and instantly as you might send a text message or photo, and at low to no cost. And, in time, we plan to offer additional services for people and businesses, such as paying bills with the push of a button, buying a cup of coffee with the scan of a code, or riding your local public transit without needing to carry cash or a metro pass.
+
+Facebook is seeking experienced Data Scientists to join the Calibra Data Science team. Our team’s mission is to develop a world class wallet product that solves real pain points for our users across the globe. Do you like using data to de-risk decisions and provide insights that drive the strategic direction of the team? Do you want to use data to influence product decisions for products leveraging cutting-edge blockchain technology? Our data science team works very closely with Product Managers, Data Engineers, Software Engineers, Economic Researchers, Compliance, and Risk Management to build intuitive, secure products to solve some of the most challenging problems, at a scale that few companies can match. This is technically challenging, will have massive global impact, and you will get to work closely with smart folks on an intellectually challenging initiative. This is a full-time position based in our office in Menlo Park.
+
+RESPONSIBILITIES
+
+Apply your expertise in quantitative analysis, market research and the presentation of data to see beyond the numbers and understand how our users will interact with our new products
+
+Partner with a brand new product team to solve problems, inform solutions creatively with a variety of data, and identify opportunities in a go-to-market strategy
+
+Inform, influence, support, and execute our product decisions and product launches
+
+Once product is launched, set KPIs and goals, design and evaluate experiments, monitor key product metrics, understand root causes of changes in metrics
+
+The Data Scientist Analytics role has work across the following four areas:
+
+Product Operations
+
+Evaluating past experiments to better inform new product launch
+
+Monitoring key product metrics, understanding root causes of changes in metrics
+
+Building and analyzing dashboards and reports
+
+Evaluating and defining metrics
+
+Exploratory Analysis
+
+Narrowing broad product questions with data-informed conclusions
+
+Proposing what to build in the next roadmap
+
+Identifying new levers to help move key metrics
+
+Building models of user behaviors for analysis or to power production systems
+
+Product Leadership
+
+Influencing product teams through presentation of data-based recommendations
+
+Communicating state of business, experiment results, etc. to product teams
+
+Spreading best practices to analytics and product teams
+
+Data Infrastructure
+
+Working in Hadoop and Hive primarily, sometimes MySQL, Oracle, and Vertica
+
+Automating analyses and authoring pipelines via SQL and Python-based ETL framework
+
+MINIMUM QUALIFICATIONS
+
+5+ years experience doing quantitative analysis
+
+BA/BS in Computer Science, or equivalent experience
+
+Experience in SQL or other programming languages
+
+Core statistical knowledge
+
+Proven experience leading data-driven projects from definition to execution: defining metrics, experiment design, communicating actionable insights
+
+Experience manipulating data sets through statistical software (ex. R, SAS) or other methods
+
+Experience communicating the results of analyses with product and leadership teams to influence the strategy of the product
+
+PREFERRED QUALIFICATIONS
+
+MBA or PhD
+
+Experience with distributed computing (Hive/Hadoop)
+
+Experience leading analytics teams
+
+Development experience in any scripting language (PHP, Python, Perl, etc.)
+
+Experience at a web or mobile company in financial services
+
+Facebook is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may contact us at accommodations-ext@fb.com.

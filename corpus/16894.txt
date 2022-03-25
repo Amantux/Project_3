@@ -1,0 +1,34 @@
+Posted: May 14, 2020
+Weekly Hours: 40
+Role Number:
+200167277
+At Apple, we work every day to build products that enrich people’s lives. Our Advertising Platforms group makes it possible for people around the world to easily access informational and imaginative content on their devices while helping publishers and developers promote and monetize their work.
+
+Our technology and services power advertising in Apple News and Search Ads in the App Store. Our platforms are highly performant, deployed at scale, and set new standards for enabling effective advertising while protecting user privacy!
+
+The Ad Platforms Data Insights team is seeking a Reporting Data Architect that specializes in building high performance data stores to enable next gen analytical solutions. This engineer will work as a key member of a data-centric team to drive the development, execution, and continuous improvement of core data analytics infrastructure and processes. You will have a key role in the joint design and development of the Data Model, implementation and delivery of Enterprise Data Warehouse Architecture, supporting our suite of Critical Reports and ad hoc reporting engine.
+
+You will be a key enabler for teams of analysts, data scientists, and business users. A successful candidate will have experience building data aggregations, data models, and working with Business Analytics teams in optimizing the administration of Tableau Server. Working with multiple data storage and analysis toolsets—including modern distributed technologies such as SparkSQL, Presto, Hive, Kafka, Snowflake, or Vertica—is a plus.
+Key Qualifications
+Background in computer science, mathematics, or similar quantitative field with a minimum of 5 years professional experience building, deploying, and maintaining sophisticated Cloud Data Architectures.
+SQL expertise, data modeling, and experience with data governance in relational databases
+Advanced skills using one or more scripting languages (e.g., Python, bash, etc.)
+Experience with the practical application of data warehousing concepts, methodologies, and frameworks using traditional (Vertica, Teradata, etc.) and modern (SparkSQL, Hadoop, Kafka) distributed technologies.
+Expertise in building Cloud Data Warehouses in Redshift, Snowflake, BigQuery or analogous architectures.
+UNIX admin and general server administration experience required
+Presto, Hive, SparkSQL, Cassandra, or Solr other big data query and transformation experience a plus
+Experience using Spark, Kafka, Hadoop, or similar distributed data technologies a plus
+Ability to communicate technical concepts to a business-focused audience
+Most importantly, do you have a sense of humor and an eagerness to learn?
+Description
+- Understand our current data model and infrastructure, proactively identify gaps, areas for improvement, and prescribe architectural recommendations with a focus on performance and accessibility. Define and Design the updated logical and Dimensional data model
+Work closely with business and analytics teams to understand specific requirements for data systems to support both development and deployment of data workloads ranging from ongoing Tableau reports and a sandbox environment for Data Scientists and Analysts to perform ad hoc analyses
+Partner with engineering to design, build, and support the next generation of our analytics and reporting systems
+Own and develop architecture supporting the translation of analytical questions into effective reports that drive business action.
+Automate and optimize existing data processing workloads by recognizing patterns of data and technology usage and implementing solutions.
+Solid understanding of the intersection between analytics and engineering while maintaining a proactive approach to assure solutions demonstrate high levels of performance, security, scalability, and reliability upon deployment
+Responsible for advising engineering and reporting partners on effective use of the Cloud Platform thru knowledge share, documentation, and associated methodologies.
+Must be able to work in a constantly evolving environment and perform reliably in a sprint based agile development environment.
+Must be comfortable working as part of a distributed team
+Education & Experience
+BS or MS Computer Science, Mathematics, or similar quantitative field.

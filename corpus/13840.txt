@@ -1,0 +1,41 @@
+The MITRE Corporation has a new opportunity for an innovative data scientist. You will be challenged to creatively apply machine learning/deep learning and data science to natural language processing (NLP) and computer vision to provide MITRE-unique value to our sponsors.
+
+One of our mission-critical projects is supporting the Department of Commerce (DoC), with visibility at the Secretary level. Our new data scientist will play a key role in this multi-agency project for the Investigations and Threat Management Service (ITMS) within DoC. ITMS conducts investigations and analyses to identify and/or assess critical threats to the Department’s mission, operations or activities, and prevents or mitigates such threats from adversely affecting Department personnel, facilities, property or assets through strategic and tactical approaches.
+
+On this project, MITRE will work with ITMS to stand up a capability that (a) supports the execution of law enforcement, intelligence, threat management, and other activities intrinsic to DoC’s mission, and (b) proactively identifies system vulnerabilities and actors who may be exploiting permissible access or bypassing current security.
+
+The successful candidate will:
+
+• Contribute to innovation and research initiatives related to machine learning/deep learning, data science, natural language processing, and computer vision in combination with cybersecurity, data engineering and social science.
+• Provide thought leadership and collaborate with academia, industry and MITRE Technical Centers, portfolio and program divisions in innovation and research initiatives related to machine learning/deep learning, computer vision, cognitive science, mathematics and statistics in combination with cybersecurity, data engineering and social science.
+• Work with department leadership to develop and evolve an enduring, adaptive and forward-looking strategy and capability advancing the Department domain knowledge and capabilities that align with strategic/significant sponsor needs and challenges including but not limited to:
+o Adversarial information scenarios
+o Defining, detecting, and measuring information trust, bias/fairness in decision, models, and algorithms
+o Biometric authentication, detecting biometric or identity fraud, anti-spoofing
+o Defining, detecting, and measuring bias in datasets and information
+o Information security and privacy
+o Data generation
+o Data impacting quality of decision
+• Contribute to the technical work program of one or more projects and provide technical guidance and quality products focused on successful sponsor outcomes, strong leadership and transition of research results to sponsor operations.
+• Provide exemplary leadership, caring mentorship, and collaborative technical advice to staff related to Department domain knowledge or capabilities
+
+Basic Qualifications
+
+• BS in applicable major
+• 8 years of related work experience using machine learning/deep learning, computer vision, and cognitive science.
+• Must have an active TS / SCI for consideration.
+
+Required experience:
+
+• Documented success using TensorFlow, Keras, Caffe, Theano, PyTorch, and Dlib.
+
+• Hands on technical expertise programming & scripting using C/C , Python, JSON, XML, SQL, NoSQL, DBMS, ETL.
+
+• Familiarity with cybersecurity, data engineering, social science, mobile computing, computer networking, virtualization, cloud computing, and big data.
+
+Preferred Qualifications
+
+MS or PhD with a minimum of one year of related experience in computer science.
+
+Travel Statement
+Sponsor site support in Washington D.C. Metropolitan Area.

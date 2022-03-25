@@ -1,0 +1,30 @@
+At Varen, our performance is measured by the success of our clients, and our reputation for service, superior quality, objectivity, integrity and results. Our reputation is everything to us as we are committed to being a trusted adviser to our nations decision makers in a day in age that demands acute attention to detail in a fast-paced environment. Varen is seeking to add the sharpest technical professionals who share our passion for ensuring the mission success of our customers at all times.
+
+Data Scientist
+
+Description:
+
+
+A data scientist will develop machine learning, data mining, statistical and graph-based algorithms to analyze and make sense of data sets; prototype or consider several algorithms and decide upon final model based on suitable performance metrics; build models or develop experiments to generate data when training or example data sets are unavailable; generate reports and visualizations that summarize data sets and provide data-driven insights to customers; partner with subject matter experts to translate manual data analysis into automated analytics; implement prototype algorithms within production frameworks for integration into analyst workflows.
+
+Data Scientist shall possess the following capabilities:
+Produce data visualizations that provide insight into data set structure and meaning
+Work with subject matters experts (SMEs) to identify important information in raw data and develop scripts that extract this information from a variety of data formats (e.g., SQL tables, structured metadata, network logs)
+Incorporate SME input into feature vectors suitable for analytic development and testing
+Translate customer qualitative analysis process and goals into quantitative formulations that are coded into software prototypes
+Develop and implement statistical, machine learning, and heuristic techniques to create descriptive, predictive, and prescriptive analytics
+Develop statistical tests to make data-driven recommendations and decisions
+Develop experiments to collect data or models to simulate data when required data are unavailable
+Develop feature vectors for input into machine learning algorithms
+Identify the most appropriate algorithm for a given data set and tune input and model parameters
+Evaluate and validate the performance of analytics using standard techniques and metrics (e.g. cross validation, ROC curves, confusion matrices)
+Oversee the development of individual analytic efforts and guide team in analytic development process
+Guide analytic development toward solutions that can scale to large data sets
+Partner with software engineers and cloud developers to develop production analytics
+Develop and train machine learning systems based on statistical analysis of data characteristics to support mission automation
+Clearance Requirement:
+
+
+TS/SCI w/poly
+
+Varen Technologies, Inc. is an Equal Opportunity Employer and applicants receive lawful consideration for employment without regard to race, religion, color, gender, age, national origin, disability, or veteran status.

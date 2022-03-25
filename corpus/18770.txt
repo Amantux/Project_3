@@ -1,0 +1,43 @@
+WHO WE ARE:
+Tealium is the trusted leader in the customer data industry. We believe unified customer data is an organization’s most valuable asset and greatest competitive advantage. We help brands seamlessly unify their siloed customer data and applications in real time, and drive more profitable interactions across all touchpoints. Tealium’s Customer Data Hub (CDH) enables you to connect your data so you can connect with your customers.
+
+Founded in 2008, Tealium’s patented and award-winning solutions are used by over 1,000 of the world's most innovative brands, including Sony, Providence St. Joseph Health, Cambria Health, T-Mobile, Hulu, Uber, Facebook, Expedia, Hyatt, Barcelo Hotel Group, Sportsbet, Utah Jazz, American Airlines, The Gap, Orange, and many others.
+
+WHAT WE ARE LOOKING FOR:
+The Senior Software Engineer position will be responsible for designing and implementing software solutions aimed at solving real-time, customer data delivery challenges.
+Through seamless inbound and outbound connectors with major digital marketing vendors — Tealium UDH allows our customers to take action on their visitors in real-time based on behavior. This lets them maximize the value from each visitor by creating personalized content and product offers, as well as highly targeted remarketing campaigns.
+YOUR DAY TO DAY
+Working closely with other software engineers, architects, operations engineers, and product managers.
+Participating in our Agile/SCRUM process.
+Creating designs to support short, iterative delivery cycles.
+Contributing to architectural design decisions.
+Participating in operational related discussions.
+Contributing to test plans.
+Conducting and participating in group code reviews, ensuring high- quality coding standards across the team.
+Designing maintainable, testable code with high test coverage requirements.
+Adding integration and acceptance test coverage to new features.
+Evaluating and investigating alternatives to existing solutions, proposing new designs and technologies.
+WHY YOU ARE THE PERFECT FIT
+BS, MS in Computer Science, Software Engineering, or a related discipline
+6+ years of Java development experience
+Strong knowledge of modern software engineering principles, patterns, and best practices
+Understanding of microservice architecture
+2+ years of experience working in data modeling, data management, metadata management
+Experience designing and supporting high traffic, highly available systems
+Strong communication skills
+The ability to effectively explain technical concepts to team members, architects, and team leads
+Capable of delivering on multiple competing priorities with little supervision
+Experience delivering software to a cloud platform environment. AWS, GCP, Azure
+Exposure to modern DevOps concepts. Docker, Kubernetes, Serverless, Terraform
+Experience with Machine Learning concepts
+Experience with NoSQL, as well as relational data stores. DynamoDB, PostgreSQL, Mysql, RedshiftDB, Redis, Cassandra, SnowflakeDB, etc
+Experience with distributed messaging and streaming technologies, RabbitMQ, Kinesis, Kafka
+Experience with data related cloud services such as Databricks, EMR, Glue, S3
+Exposure to Hadoop, Hive, Spark using Parquet
+Python or Scala experience.
+WHY YOU WANT TO WORK HERE:
+The highly relevant and differentiated positioning of Tealium and our Customer Data Hub (CDH) makes this a unique and rewarding career opportunity. Organizations from start-ups to large global enterprises are utilizing Tealium to unify their customer data in real time and drive improvements in their overall data strategy. Over 1,000 global brands trust Tealium, and in an increasingly noisy market we are proud to maintain best-in-class renewal rates of >90%. When our customers are happy, we’re happy.
+
+Our corporate HQ is located in sunny San Diego, just minutes from the beach and surrounded by beautiful hiking trails and the renowned Torrey Pines golf course. Our location is just one of the many perks we enjoy; At Tealium we dress casually (but professional), enjoy a flexible paid time off policy, rich benefit plans, company holidays, 401(K) match, and employee Stock Options - just to name a few. Not to mention we get to surround ourselves with some of the brightest minds in San Diego. If you are interested in being a part of Team Teal, we’d love to hear from you!
+
+TEAL celebrates diversity and is an equal opportunity employer. It is our continuing policy to recruit and employ the best qualified individuals without regard to race, color, sex, religion, national origin, disability, age, sexual orientation, gender identity, and/or any other protected characteristic. TEAL does not tolerate unlawful discrimination of any kind and strives to be an inclusive and respectful workplace.

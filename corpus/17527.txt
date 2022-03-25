@@ -1,0 +1,32 @@
+Our client, a Fortune 500 Company is looking to fill multiple roles for Data Engineers of all levels with a variety of skills.
+
+The right candidate(s) will have one of or multiple skills in each category:
+
+Programming (Java, Scala or Python)
+Computer Science Fundamentals (Algorithms and Data Structures)
+Distributed Computing (Spark or Parquet)
+Proficiency in Databases/SQL, performance tuning, NoSQL, Mongo/Elastic
+Web Application Architectures (HTTP/HTML/CSS, JavaScript)
+Financial/Fixed income Knowledge is a plus
+Spark, Scala and Functional Programming
+Event Driven Programming (Kafka, Akka, Flink or Spark Streaming)
+FrontEnd Development (Angular, Java Scripts, Reactive Programming)
+Kubernetes, Docker, AWS Infrastructure and Process Management
+
+What You Will Do:
+Build complex data ingestion pipelines using Scala, Spark, Parquet and S3
+Design scalable processes in event driven architecture to support Fixed Income applications
+Develop near real time streaming analytics using Kafka/Kinesis
+Act as Subject Matter Expert and help rest of the team in leveraging the platform and migrating applications to it
+Establish end to end data lineage and data catalogue. Work with data governance team to setup data quality checks and metrics
+Create self-service notebook environment with Zeppelin/Jupyter for exploratory data analytics and rapid interactive development
+Troubleshoot any performance issues and ensure efficient data organization
+Build efficient web-based tools for monitoring and tracking
+What You Will Need:
+Bachelors degree in computer science or related field required. Masters degree preferred
+Knowledge of data structures, algorithms and functional programming
+Passion to learn new things, experiment with new ideas and build world class data platform
+5+ years of experience in programming with Scala, Python or Java
+2+ years of experience in Scala, Spark and functional programming. Deep knowledge of spark internals such as partitioning, DAG, lazy evaluation.
+Strong experience with relational data bases, SQL, and query optimization. Knowledge of data warehousing, dimensional data model and business intelligence is a plus.
+Knowledge/experience with event driven programming and Akka actor model

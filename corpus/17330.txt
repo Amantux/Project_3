@@ -1,0 +1,48 @@
+The Cybersecurity & Technology Controls group at JPMorgan Chase aligns the firm's cybersecurity, access management, controls and resiliency teams. The group proactively and strategically partners with all lines of business and functions to enable them to design, adopt and integrate appropriate controls; deliver processes and solutions efficiently and consistently; and drive automation of controls. The group's number one priority is to enable the business by keeping the firm safe, stable and resilient.
+
+As an experienced member of our Software Engineering Group we look first and foremost for people who are passionate around solving business problems through innovation & engineering practices. You will be required to apply your depth of knowledge and expertise to all aspects of the software development lifecycle, as well as partner continuously with your many stakeholders on a daily basis to stay focused on common goals. We embrace a culture of experimentation and constantly strive for improvement and learning. You'll work in a collaborative, trusting, thought-provoking environment-one that encourages diversity of thought and creative solutions that are in the best interests of our customers globally
+
+Senior Business Intelligence Data Engineer will be responsible for analyzing data, creating data models, data validation, and data engineering for business intelligence solutions. Business intelligence solutions include engineering data set on our cloud-based data platform and the creation of standard report dashboards, self-service reporting models and advanced data analytics that will be used across the GIAM organization as well as externally to all LOB and senior management partners. Selected individual should be able to lead initiatives, be comfortable interacting with all levels of management and be able to present herself/himself and their product with confidence.
+
+The Senior Business Intelligence Data Engineer will develop data model for integration into various business intelligence processes and solutions. S/he will collect and analyze complex data for reporting, trend analysis, and predictive analysis. The candidate should be familiar with both cloud based offerings and cloud based development practices. In addition s/he will be preparing a broad variety of reports that will provides data for internal clients and/or external LOBs. They will participate in high level business initiatives and assist with all the required levels of reporting. They should be able to work closely with clients to understand their business requirements and translates them in to technical requirements for development.
+
+This role responsibilities will include:
+
+•Analysis and prepare data models for an enterprise organizations
+•Lead transition of requirements/wireframes to full UX designs and UI POCs
+•Partner with product owners and business stakeholders to meet their data requirements
+•Lead initiatives and projects across the BI data, analytics and reporting space
+•Work with partner cloud teams on next-gen products and offerings
+•Lead training session for both internal teams and external groups on new technologies
+
+This role requires a wide variety of strengths and capabilities, including:
+
+•BS/BA degree or equivalent experience
+•Expertise in application, data and infrastructure architecture disciplines
+•Advanced knowledge of architecture, design across all systems
+•Proficiency in multiple modern programming languages: Javascript, HTML is a plus
+•Knowledge of industry wide technology trends and best practices
+•Keen understanding of financial control and budget management
+• Ability to work in large, collaborative teams to achieve organizational goals, and passionate about building an innovative culture
+•5 plus years on business intelligence teams preferably using a variety of BI tools such as Adobe Analytics, QlikView/Qlik Sense, Amazon QuickSight, Tableau or similar
+• A self-starter with initiative leadership experience
+• Strong problem-solving capabilities and the ability to recognize the issues and recommend a solution
+• A self-learner that seeks out beneficial knowledge and share it with the team
+•Requirements gathering and documentation
+•Able to prioritize conflicting requirements based on the business justification and the overall benefit to the business
+•Proven ability to understand the clients requirements and deliver a product that will help them meet their objective
+•Experience engineering and managing data on cloud native services (ex: AWS services such as S3, ElasticSearch, Dynamo, RDS, Redshift)
+• Experience with data wrangling tools such as Alteryx or Teradata
+• Understanding of UX Design and UI development methodologies mediate to advanced SQL skills
+• Advanced experience with optimizing data for analysis and/or visualization, includes incremental load and divided querie
+• Experience with Advanced data manipulation and cleansing techniques
+• Knowledge of industry wide technology trends and best practices
+• Able to learn new BI technologies as required
+• Advanced MS Excel, MS Access and MS PowerPoint skills
+• JavaScript, and HTML experience a plus
+
+This position is anticipated to require the use of one or more High Security Access (HSA) systems. Users of these systems are subject to enhanced screening which includes both criminal and credit background checks, and/or other enhanced screening at the time of accepting the position and on an annual basis thereafter. The enhanced screening will need to be successfully completed prior to commencing employment or assignment.JPMorgan Chase & Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+
+Equal Opportunity Employer/Disability/Veterans

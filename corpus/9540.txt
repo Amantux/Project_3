@@ -1,0 +1,25 @@
+Sema4 is a next-generation health information company, spun out of the Mount Sinai Health System, that provides advanced genomic testing and merges big data analytics with clinical diagnostics. Our team creates practical tools that help patients, clinicians, and researchers better diagnose, treat, and prevent disease. We are striving to construct a more comprehensive picture of health by integrating three key elements: a wealth of clinical experience that informs the answers that patients and providers are seeking, the world-class academic research that illuminates new directions, and the pioneering information science that puts all the pieces together.
+
+Sema4 is searching for a talented Scientist to join our Data Sciences team in Stamford, CT. The candidate will work in a multi-disciplinary team in Sema4 and contribute significantly to our efforts to systematically study complex human diseases through the integration of genomic, genetic, epigenetic, proteomic, literature and clinical phenotypic data into network models or other machine learning models. The goal of this research is to identify and model mechanisms underlying human diseases using computational models such machine learning, deep learning, or other artificial intelligence techniques. Such models will be used to guide drug target discovery and prioritization, to develop combination therapies, to reposition existing drugs, to match individual patients to the best therapies, and more.
+
+RESPONSIBILITIES
+
+Development of novel computational models for integrating diverse types of data into molecular network models for diseases
+
+Development of novel statistic models for comparing diverse datasets or network models
+
+Mining existing network models for disease specific features
+
+Computational models for predicting disease risk or drug responses
+
+Development of computational models for rational drug combination design
+
+Collaborating with biologists and clinicians to validate novel findings
+
+QUALIFICATIONS
+
+Ph.D in quantitative sciences – Computer Science, Electronic Engineering, Physics, Mathematics, Statistics, Computational Biology or Bioinformatics
+
+2+ years in analyzing large scale genetic and genomic data
+
+Candidates with strong communication skills are preferred

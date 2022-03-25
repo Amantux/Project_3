@@ -1,0 +1,49 @@
+SpyCloud is a pioneer in breach discovery. We strive to help businesses of all sizes mitigate data breaches by proactively alerting when employee or company assets have been compromised. We accomplish this through our early-warning breach detection service powered by a world-class team of intelligence analysts.
+SpyCloud manages the most expansive database of plaintext passwords in the industry. Once a new breach is recovered from the dark web, we use specialized hardware and software to crack as many of the password hashes as possible. This gives developers the ability to prove user exposures and automate password exposure checks across internal systems.
+We are looking for a passionate developer who can join our Data Team and contribute to our password cracking platform. This job posting is for Austin, TX only. We’re not looking for remote developers at this time.
+Your Responsibilities:
+Add new features to the password cracking platform
+Manage day-to-day password cracking
+Participate in a fast-paced environment
+Desired Skills and Experience:
+New college grad with a degree in Computer Science or related field OR at least 2 years of professional experience as a software developer
+Experience with Python
+An understanding of data structures and algorithms
+Experience with a database (relational or NoSQL)
+Experience with Linux
+Excellent communication skills
+Be self-motivated and be able to switch contexts as business needs change
+Nice To Have:
+Familiarity with an MVC web framework (e.g. Pyramid, Django, Ruby on Rails, etc)
+Familiarity with front-end development (e.g. HTML, CSS, JavaScript)
+Familiarity with building REST APIs
+Familiarity with Bash scripting
+Familiarity with AWS
+Familiarity with a version control system. We use Git.
+Familiarity with HashCat
+Job Type: Full-time
+Benefits:
+401(k)
+Dental Insurance
+Flexible Schedule
+Health Insurance
+Life Insurance
+Paid Time Off
+Parental Leave
+Referral Program
+Vision Insurance
+Schedule:
+Monday to Friday
+Experience:
+Software Development: 2 years (Preferred)
+Education:
+Bachelor's (Preferred)
+Work authorization:
+United States (Required)
+This Company Describes Its Culture as:
+Innovative -- innovative and risk-taking
+People-oriented -- supportive and fairness-focused
+Company's website:
+www.spycloud.com
+Work Remotely:
+Temporarily due to COVID-19

@@ -1,0 +1,29 @@
+Company Background:
+
+Pluto7 is a Google Premier Partner for services and solutions company focused on building ML, Ai, Analytics, solutions to accelerate business transformation. We are a Premier Google Cloud Partner, servicing Retail, Manufacturing, Healthcare, and Hi-Tech industries. Were seeking passionate people to work with us to change the way data is captured, accessed and processed, to make data-driven insightful decisions.
+
+Role: Data Engineer Intern
+
+Experience: Internship
+
+Location: USA (remote)
+
+Must have skills :
+Hands-on experience in database systems (Structured and Unstructured).
+Programming in Python, R, SAS.
+Overall knowledge and exposure on how to architect solutions in cloud platforms like GCP, AWS, Microsoft Azure.
+Develop and maintain scalable data pipelines, with a focus on writing clean, fault-tolerant code.
+Hands-on experience in data model design, developing Big Query/SQL (any variant) stored.
+Optimize data structures for efficient querying of those systems.
+Collaborate with internal and external data sources to ensure integrations are accurate, scalable and maintainable.
+Collaborate with business intelligence/analytics teams on data mart optimizations, query tuning and database design.
+Execute proof of concepts to assess strategic opportunities and future data extraction and integration capabilities..
+Data extraction, Data cleansing and transformation.
+Strong knowledge on REST APIs, Http Server, MVC architecture.
+Knowledge on continuous integration/continuous deployment.
+Preferred but not required:
+Machine learning and Deep learning experience
+Certification on any cloud platform is preferred.
+Experience of data migration from On-Prem to Cloud environment.
+Exceptional analytical, quantitative, problem-solving, and critical thinking skills
+Excellent verbal and written communication skills

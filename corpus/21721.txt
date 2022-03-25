@@ -1,0 +1,50 @@
+Homesite Insurance was founded in 1997 and was one of the first companies to enable customers to purchase home insurance directly online, during a single visit. Since then, we've continued to innovate rapidly to meet the needs of our customers and their changing expectations.
+
+One thing that's stayed the same since our founding: our commitment to our customers, partners and employees.
+
+Join us on our journey as we continue to grow into a powerful contender in the field of insurance.
+
+The Business Data Analyst is a key contributor in advancing our Enterprise Data Platform initiative. This individual will work directly with our Data Engineering Team, and our Business partners to analyze, document, and understand our various data sources and how they can best be leveraged for our BI & Data Platform solutions. This individual will have demonstrated experience in troubleshooting problems and effective communication with both IT and business partners.
+This candidate must be proactive in delivering successful solutions, including helping define requirements, deployment, implementing best-practices, supporting testing efforts, and providing documentation while working with both IT and business units.
+
+The analyst must be comfortable understanding data across multiple systems, able to effectively manipulate data and work with Program Management & Data Architect to gather business requirements, analyze source data, create source to target data column mapping and create detail technical specifications with business logic that meets business reporting needs. Experience in development of ETL and performing data migration activities on large and moderate to high complex projects is required.
+
+The ideal candidate will possess excellent qualitative and quantitative analytical skills, able to quickly understand the existing systems/processes, have a systems development background, proficient in SQL queries and have both excellent written and oral communication skills.
+
+The successful candidate will have a strong understanding of business data, preferably Insurance/ financial, underlying business concepts and various aspects of customer needs.
+
+• Facilitates requirements definition, technical design and sign off; documents requirements and develops use cases to explain/demonstrate business requirements/detail technical specifications as needed
+• Enable effective decision making by retrieving and aggregating data from multiple sources and compiling them into actionable format
+• Collaborate with Data Architect and lead analysis & data mapping activities of source to target data column mapping, documenting detail technical specs along with related business logic and communicate the data migration plan.
+• Define data structures for reporting purposes
+• Contributes business or process perspective during design reviews
+• Design automated reporting solutions that enable business leaders to make effective decisions.
+• Assists QA team to ensure that requirements documentation can be easily translated into test plans and provides relevant test scenarios for the testing team
+• Drive projects, working with various stakeholders including business users and BI & data engineering team
+• Assist with engineering team in testing to verify data requirements
+Basic Qualifications
+BS or MS in Information Systems, Computer Science, Engineering, or equivalent.
+5+ years of professional experience as a business data analyst or related role in supporting large data projects with focus on data modelling / advanced business analytics
+Must have strong SQL abilities for database query and reporting Expert in Excel
+Experience in designing and building data infrastructure with automated reporting tools (Tableau or equivalent)
+Analyze client's legacy systems and databases to produce Data Mapping for the Extract process.
+Define data integrity and business rules for the Transform process. Help engineering team in creating data verification plans.
+Strong verbal/written communication skills and facilitation skills to effectively lead discussions across multiple groups.
+Knowledge of basic programming concepts and systems implementation
+Demonstrated experience/proficiency in data analysis
+Preferred Qualifications
+Demonstrated experience delivering actionable insight for an insurance business
+Good understanding of SQL Database and data warehouse design principles (e.g. facts, dimensions)
+Demonstrated understanding of Data Modeling frameworks, data mappings, complex transformations.
+Experience with SSIS, T-SQL, or similar ETL tools to extract, transform, and load client's legacy data into target application databases in a business environment with large-scale, complex datasets
+Strong expertise with Excel, SQL, and Python, other like scripting/reporting tools
+Experience conveying key insights from complex analysis in summarized business terms
+Highly collaborative/Team Player
+High level of organization and prioritization
+Creates and champions processes/methodology for capturing and maintaining Data store metadata and artifacts
+Analysis, understanding, and documentation of internal and external source system data, including data dictionary and meaning of the data
+Help provide integrity checks on data used to aid with quality
+Assists with development and enhancements. Provides design support for the development of business intelligence solutions
+Provides data analysis and recommendations for the correction, enhancement and/or development of ad-hoc and canned end-user reports
+Develops and manages ongoing process improvements to the reporting workflow focusing on automation, accuracy, and timeliness of information
+Maintain strict adherence and compliance to all laws, rules, regulations, policies, procedures and internal controls specific to the role

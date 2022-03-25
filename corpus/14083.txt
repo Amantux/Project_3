@@ -1,0 +1,29 @@
+Company Description
+
+As an Etsy employee, you can do the work you love, be yourself, and make an impact in the lives of millions. Our commitments to diversity and inclusion, team culture and the spaces where we work all reflect our mission to keep commerce human.
+Job Description
+
+Etsy is an international marketplace with 65M+ handmade and vintage items from passionate artists, designers and vintage collectors. Our Data Science & Machine Learning (DSML) powers machine learning driven systems and solutions to help our 45M+ buyers navigate Etsy’s diverse and unique inventory of over 65M items.
+
+In the DSML org, Applied Scientists work closely with product teams to develop custom machine-learning models that can drive product vision and customer impact. We are looking for individuals who are product and delivery-driven, and are passionate about making ML innovations in the areas of Ranking, Recommendations, Computer Vision, Natural Language Processing, Information Retrieval, and Computational Advertising to help improve the Etsy buyer/seller experience.
+
+Example Projects:
+Develop state-of-the-art embeddings to capture salient signals of our users and listings, including aspects like content, function, budget, and preferences.
+Extract image features from our 300M+ listing images that capture semantic content, aesthetic style, material, and more
+Implement and compare supervised learning models (LR, GBDT, and DNNs), or ensembles of models, to improve key metrics, often with multiple competing objectives
+Develop models with custom architecture or objective functions that target Etsy-specific problems, such as revenue optimization, ads bidding strategies, ads budget pacing, seller fairness, seasonality, multi-objective optimization, etc.
+What You'll Do:
+Push the state of the art and apply the latest advances in deep learning and machine learning to improve buyer and seller experiences on Etsy
+Prototype, optimize, and productionize large-scale ML models that help deliver key results
+Conduct A/B experiments to validate the effectiveness of ML models and pipelines
+Work closely with product managers, ML engineers, full-stack engineers, and designers on product teams to deliver content to tens of millions of users
+Share impactful and innovative work in the wider ML research community, including presenting at top-tier ML/DS conferences such as: KDD, WSDM, WWW, Recsys, etc.
+Basic requirements:
+You have a track record of applying machine learning techniques in addressing real-world problems
+You have focused expertise in one of the following fields: natural language processing, reinforcement learning, deep learning, or computer vision.
+You have solid software development skills. You are comfortable with using git, Linux environments, dockers, and other tools for writing robust, production-ready code.
+Preferred requirements:
+You have a Ph.D. degree in Computer Science or related engineering fields, or 5+ years of practical machine learning experience.
+You have published at peer-reviewed conferences, such as ICML, KDD, SIGIR, WSDM, etc. or you have given talks/tutorials in the industrial conferences like Spark Summit.
+You have experience using Google Cloud Platform.
+You have experience in building production search, recommendations, advertising, or general e-commerce systems.

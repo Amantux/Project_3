@@ -1,0 +1,27 @@
+ABOUT 4C:
+
+4C is building the leading self-service intelligence platform for marketers to drive business outcomes across closed ecosystems. Brands, agencies, and media owners around the world trust Scope by 4C™ to surface insights about their most valuable consumers and creatives, and activate them across channels and devices. With over $2 billion in annualized advertising spend running through Scope, 4C bridges linear television, streaming video, digital commerce, and social media. Founded in 2011 and based in Chicago, 4C has staff in the United States, United Kingdom, the Netherlands, and Singapore. Visit www.4Cinsights.com for more information.
+ABOUT THE ROLE:
+
+4C is looking for talented Software Development Engineers who are passionate about solving real problems and are excited about using the latest technology to do it.
+
+As an engineer on the team, you will be responsible for helping craft the future of our offerings - from the database layers to the APIs that surface our data and functionality to our users. You will be working closely with people across engineering, product, and design to help develop an amazing experience for our agency & brand customers.
+
+A little about our team: we are largely a fullstack team of experts in frontend, backend, product and design. We care deeply about our stack and tools, focusing on the best to get the job done. We've built a large Python Flask application that is supported by an array of smaller services, and are in the process of adding further robustness to our systems by doubling down on service based architecture. We integrate with a myriad of third-party APIs which require a rigorous attention to detail and creative solutions to ensure we handle all situations gracefully. Performance is incredibly important to us, as we often need to quickly surface large data sets to our users. We are a team that values continuous learning, curiosity, clear communication, deep self-motivation, and are committed to building an inclusive environment for everyone.
+
+RESPONSIBILITIES:
+Build, test and ship well-engineered features and enhancements
+Design, support, maintain and upgrade highly performant and tested APIs and internal services using tools like Python, Celery, Kubernetes, MySQL, Mongo and Redis
+Articulate a long term vision for maintaining and scaling our systems
+Work with other engineers, product mangers, designers and leadership to turn our vision into a concrete roadmap every quarter
+REQUIREMENTS:
+At least 3+ years of experience in software engineering with strong computer science fundamentals
+You've architected, built, scaled and maintained production services
+You write high quality, well-tested code to meet the needs of your users
+You're passionate about building technology at scale and solving challenges for your customers in creative and innovative ways
+You've significant experience working with both relational and non-relational databases
+Experience with large-scale, distributed systems
+
+
+WE OFFER:
+We offer a challenging job in a dynamic international environment. At 4C you have the opportunity to make an impact. We are proud of our open and informal culture. We offer a comprehensive benefits package including Health, Dental, Life Insurance, Matching 401K, Unlimited Vacation and Maternity and Paternity Leave. The salary will be commensurate with experience.

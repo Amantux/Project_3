@@ -1,0 +1,129 @@
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class.
+
+Job Description
+
+
+Arm makes a significant investment in our partners success. This investment even extends to building Solutions to showcase our partners SOCs and accelerate their deployment in the Cloud and Telco markets. Arm’s market share in these markets is expanding rapidly and shows potential for extensive growth. These Solutions showcase the advantages that our partners bring to end customers through the combination of Arm’s IP and their own differentiating technology.
+
+The Networking Solutions Engineer will develop and deploy Telco & 5G focused Solutions for the infrastructure market space. In this role you will be working with Arm stakeholders and key silicon partners to develop integrated SOC and software solutions to meet engineering requirements specifications developed with the Product team. These requirements will be based on the market requirements, as well as requirements from our Solutions architects.
+
+The role is technical in nature and based out of Arm’s Austin, TX office.
+
+What will I be accountable for?
+
+The Network Solutions Engineering role is to bring together the software and hardware technology needed to build a working Telco & 5G focused Solution based on Arm’s partner’s SOCs. The goal here is both to show end customers what’s possible using Arm technology and show the advantage of deploying Arm in their infrastructure. The software could include both open source and proprietary code.
+
+Accountabilities may include but are not limited to:
+Working closely with customers and Arm’s Solutions Architects and Product Managers to identify Solution concepts
+Working closely with architects and technology leads, directly engaging with internal and external software development teams to refine the concept into a set of engineering requirements
+Working with internal and external engineering teams to develop, demo, and deploy the Solutions
+Supporting Arm’s Product Marketing team in promotion of the Solution
+Working across the complete value chain of end customers, manufacturers, and designers of hardware, software and systems to bring Solutions together
+Work with our Go-to-Market and Product Marketing teams to support specific customer opportunities, including participating in customer meetings, sales meetings, and training
+
+Job Requirements
+
+
+What skills, experience, and qualifications do I need?
+
+Required
+Good university degree (or equivalent), ideally in a numerate subject, although other graduates would be considered if they have relevant experience.
+Must have experience in building software solutions targeted for Telco and 5G wireless related use cases
+Experienced with Open Source Software project development and community interaction specifically targeted to Telco and 5G applications, e.g.:
+OpenAirInterface (OAI-RAN or OAI-CN
+Open Network Automation Platform (ONAP)
+Open Platform for NFV (OPNFV)
+Open Networking Foundation (ONF) projects
+OpenDaylight
+Open vSwitch (OVS)
+Data Plane Development Kit (DPDK)
+Fast Data Project (FD.io)
+Must have experience in engaging with customers and partners in the 5G and Telco markets
+Experience writing technical blogs and giving conference presentations
+Must be comfortable dealing with uncertainty
+5+ years software engineering experience is a must
+A natural problem solver who enjoys solving technical challenges
+Team player and the ability to work in a geographically diverse and dispersed global organization
+Comfortable with the requirement to travel, since at least 15-25% of this role may involve domestic and international travel
+Desirable
+10 years of software engineering experience from previous roles
+Experience in engaging with customers and partners in the Cloud Computing & Hyperscale markets
+Have an established technical community presence with publicly available technical presentations and/or white papers/blog posts
+What are the desired behaviors for this role?
+
+At Arm, we are guided by our core beliefs that reflect our rare culture and guide our decisions, defining how we work together to defy ordinary and shape extraordinary:
+
+We, not I
+
+Collaboration first, egos last.
+
+•Start with long-term value to customers and partners, and work back from there.
+
+•Collaborate, decide, commit, and bring people with you.
+
+•Make the most of all the skills and knowledge across Arm; share information with those who need it.
+
+•Care about the people around you.
+
+Passion for progress
+
+Innovation that enables our ecosystems, Arm and our people to thrive.
+
+•Work with pace and judgement. Adapt to circumstances.
+
+•Take risk in support of Arm's progress.
+
+•Be accountable for the decisions you take. Learn from failure.
+
+•Pursue innovation relentlessly.
+
+Be your brilliant self
+
+Skillful individuality, performance and fulfilment.
+
+•Be authentic.
+
+•Seek and embrace differences.
+
+•Encourage curiosity and challenge.
+
+•Give people trust and autonomy; show people they can trust you to do brilliant work in pursuit of Arm’s goals.
+
+#LI-KW1
+
+Benefits
+
+
+Your particular benefits package will depend on position and type of employment and may be subject to change. Your package will be confirmed on offer of employment. Arm’s benefits program provides permanent employees with the opportunity to stay innovative and healthy, ensure the wellness of their families, and create a positive working environment.
+Annual Bonus Plan
+Discretionary Cash Awards
+401(k), 100% matching on first 6% eligible earnings
+Medical, Dental & Vision, 100% coverage for employee only, shared cost for dependents
+Basic Life and Accidental Death and Dismemberment Insurance (AD&D)
+Short Term (STD) and Long Term (LTD) Disability Insurance
+Vacation, 20 days per year with option to buy 5 more.
+Holidays, 13 days per year
+Sabbatical, 20 paid days every four-years of service
+Sick Leave, 7 days per year
+Volunteering, four hours per month (TeamARM)
+Office location dependent: café on site, fitness facilities, team and social events
+Additional benefits include: Flexible Spending Accounts for health and dependent care, EAP, Health Advocate, Business Travel Accident Program & Commuter programs.
+ARM, Inc. (USA) participates in E-Verify. For more information, please refer to www.dhs.gov/E-Verify
+
+About Arm
+
+
+Arm® technology is at the heart of a computing and connectivity revolution that is transforming the way people live and businesses operate. From the unmissable to the invisible; our advanced, energy-efficient processor designs are enabling the intelligence in 86 billion silicon chips and securely powering products from the sensor to the smartphone to the supercomputer. With more than 1,000 technology partners including the world’s most famous business and consumer brands, we are driving Arm innovation into all areas compute is happening inside the chip, the network and the cloud.
+
+With offices around the world, Arm is a diverse community of dedicated, innovative and highly talented professionals. By enabling an inclusive, meritocratic and open workplace where all our people can grow and succeed, we encourage our people to share their unique contributions to Arm's success in the global marketplace.
+
+About the office
+
+
+The Arm Austin office employs staff from across all divisions of ARM and is considered the engineering hub for North America. Austin has the nickname of “Silicon Hills” thanks to the high number of tech companies in the area, and is also known as the “Live Music Capital of the World". Events such as South by Southwest, Austin City Limits Music Festival and the F1 Grand Prix are but a few of the many activities that make Austin a top destination for both residents and travelers.
+Austin, TX USA
+Arm Inc.
+Encino Trace
+5707 Southwest Pkwy
+Bldg 1 Suite 100
+Austin, TX. 78735

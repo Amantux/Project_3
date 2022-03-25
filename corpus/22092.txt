@@ -1,0 +1,34 @@
+Responsibilities:
+
+Work with technology and business stakeholders across different business lines or functions to understand their front to back business processes & data architectures, identify inefficiencies and opportunities for automation, apply process engineering & automation methodologies to achieve Business Transformation objectives
+Lead the evaluation, design, implementation, and management of innovative emerging digital technologies like Process Mining, Task Mining, Business Process Management & Optimization, Robotic Process Automation and beyond
+Perform business process analysis using process mining tools to create process maps, identify process variants & bottlenecks, and come up with meaningful insights about process
+Create data models, customer-specific dashboards and analysis to enable data-driven process impact assessment and recommendations for process optimization through use of enterprise modeling capabilities including but not limited to Process Mining
+Leverage strong technical focus and demonstrable experience of architecting technology solutions along with deep business knowledge to realize tangible business benefits through adopting the data strategy and architecture principles
+Lead Value Stream Mapping, Business Process Improvement & value creation workshops with stakeholders to understand current state business processes, business needs & challenges and translate them into process mining and transformation plans
+Create metrics & KPIs to measure and monitor current process performance as well as ongoing improvements
+Build business cases and ROI calculations, leveraging industry benchmarks and best practices
+
+Requirements:
+
+6+ years of relevant experience developing applications/solutions for a global financial services institution
+2+ years of extensive experience in designing and implementing large scale process transformation and automation solutions using one or more of the following methodologies Process Mining, Task Mining, Robotics Process Automation, Process Mapping
+Experience in working with Business and Technology departments to develop and execute on a data strategy, design data architecture to solve data quality issues, eliminate data redundancy and streamline front to back data flows
+Demonstrable experience in utilizing strong business and technology skills to solve data-centric business problems
+Hands-on experience with SQL across different databases like Sybase, DB2, MS SQL Server
+Experience with Agile Software Development Lifecycle methodology and related tooling. For example -JIRA, Scrum, Kanban, Product backlog management, BDD using tools like JBehave or Cucumber etc.
+Strong problem solving skills, business acumen, and demonstrated excellent oral and written communication skills with both technical and non-technical audiences. Skilled in customer and leadership presentations
+Project and Program management experience
+
+Desired Skills:
+
+2+ years consulting experience with a top-tier Firm preferably in the financial services industry
+1+ years of Process Mining or Engineering experience using Celonis
+2+ years of BI, Data Management and Data Mining experience
+3+ years of hands-on working experience with varied and complex data sets, building ETL (extract transform load) processes using scripting language like Python
+Experience working with various front-to-back groups like Sales and Trading, Quants, Operations, Finance, Treasury, Settlements, Documentation/Confirmations, Market Risk, Credit Risk, Liquidity Risk, Collateral and Margins; and understanding of data-centric issues that these groups face and possible solutions
+Understanding and experience with BPMN to model As-Is and To-Be business processes
+Demonstrated knowledge and skills in enterprise data management, data governance, data quality principles & methodologies
+Experience with data-centric tools and technologies around Data Lineage, Dictionaries, common data access APIs, golden source identification / master data management, ontology/taxonomy development, Data DevOps, Metadata management
+Understanding of and experience with Artificial Intelligence, Machine Learning and Natural Language Processing
+Experience with curating, organizing and classifying the data with appropriate concept models and developing taxonomies and/or ontologies in RDF/OWL or other formal knowledge representation systems

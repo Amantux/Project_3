@@ -1,0 +1,26 @@
+About RaiseMe:
+
+At RaiseMe, we imagine a world where every student has an opportunity to realize their college and career ambitions, and we believe that expanded access to education is the foundation of that future. By partnering with colleges to offer incremental "micro-scholarships" to reward students individual academic and extracurricular progress throughout high school, we aim to empower millions of students to build their personal path to college, while making paying for it clearer and more transparent.
+
+We're focused on ensuring that all students have the opportunity to achieve their college and career ambitions. We have had over 2 million students on our platform, are in 4 out of every 5 high schools across the country, and have partnered with over 300 (& counting) colleges and universities. In all, students have earned over $4 billion through RaiseMe (averaging $23,000 annually over their four years in college)! RaiseMe is a venture-backed Series B startup based in San Francisco, CA and has raised capital from Redpoint, Chan Zuckerberg Initiative, Teamworthy Ventures, Salesforce Ventures, Owl Ventures, and First Round Capital.
+
+What is the role?
+
+You'll be joining a growing team that will drive the Data Science future of RaiseMe. This role involves many different aspects of Data Science and Data Engineering, including the maintenance and improvement of our ETL, the development and deployment of models, and the analysis and cleaning of data. You'll also be working closely with software engineers and will have the chance to develop on the main web application. Some projects on our roadmap include transforming our ETL to use Scala+Spark, using computer vision to read report cards, and developing real-time recommendations.
+
+What would you do?
+Drive the Data Science vision of the company.
+Build data products that reinvent how students attain higher education. Some data products we've built include recommendation systems and predictive models that facilitate the discovery of each students' right college.
+Explore, analyze, and visualize our unique database to provide insights to our team, partners, and the media.
+Develop and maintain ETL pipelines, and provide leadership on processing and transforming events and data (both from our platform and our partners).
+Help recruit and build out the Data Science team over time.
+Work cross-functionality with the entire company, especially the software engineering team.
+Who are you?
+You have at least 3 years professional experience in a Data Science role.
+You have solid professional experience with cloud services (AWS, Google, Azure)
+You have professional experience with Big Data technologies (e.g., Spark, Hadoop, Kafka, Scala, Java) and database technologies (e.g., SQL relational databases, MongoDB).
+You can create and develop production-ready data products like recommendation systems and predictive models using software development best practices with Python.
+You are able to understand, analyze, and visualize complex, multi-dimensional data.
+Bonus points if you have experience with:
+Event streaming (e.g., Kinesis, SNS/SQS, Flink, Storm).
+Familiarity with web languages (e.g., Ruby, PHP, Java).

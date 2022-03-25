@@ -1,0 +1,35 @@
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.Our more experienced data engineers are clearly characterized by in-depth technical experience and proven progression in leadership responsibility. If you have an interest in being responsible for the dynamics of a fast-paced environment, this is the right role for you. You will be working on many projects at a time, but also focused on the details while finding creative ways to pursue big picture challenges. You will leverage not just technical skills, but strong emphasis on program management, technical leadership, and communication. In this role, you will work closely with your direct data science counterparts, and other analytic teams around Instagram to support delivering comprehensive, accurate, and holistic data artifacts. The mission of the Instagram Ecosystems team is to make sure that Instagram thinks holistically about the user experience and that the company optimizes for the long-term success of the app. Instagram is organized into 3 main product groups: Community, Sharing Experiences, and Interests. And underneath all of them, the fabric that keeps them running is the Infra org.As a result of the company organization, Analytic teams across Instagram are focused on making sure that the products they support are successful. However, there are important questions that fall out of the scope of a single product group or that simply fall through the cracks. These are the questions that the Ecosystems team is tasked with answering. Some examples of projects are: common engagement metrics, session level metrics like time spent watching video, understanding relation between production and consumption, understanding how metric trade-off between each other and bringing conformance and standards to the way product teams measure their goals.
+
+Responsibilities:
+
+Craft and own the optimal data processing architecture and systems for new data and ETL pipelines
+Build canonical datasets as well as scalable and fault-tolerant pipelines
+Build data anomaly detection, data quality checks, and optimize pipelines for ideal compute and storage
+Define and own the data engineering roadmap for Ecosystems
+Collaborate with Software Engineers and Data Scientists to design technical specification for logging and add logging to production code to generate metrics both online as well as offline
+Work with different cross functional partners - Data Scientists, Infra Engineering, Logging Framework Infra Teams, Product Managers
+Build visualizations to provide insights into the data & metrics generated
+Work with data infrastructure teams to suggest improvements and influence their roadmap
+Immerse yourself in all aspects of the product, understand the problems, and tie them back to data engineering solutions
+Recommend improvements and modifications to existing data and ETL pipelines
+Communicate and influence strategies and processes around data modeling and architecture to multi-functional groups and leadership
+Drive internal process improvements and automating manual processes for data quality and SLA management
+Provide ongoing proactive communication and collaboration throughout the organization
+Mininum Qualifications:
+
+4+ years' experience in the data warehouse space
+4+ years' experience working with either a MapReduce or an MPP system
+7+ years' experience in writing complex SQL and ETL processes
+4+ years' experience with object-oriented programming languages
+7+ years' experience with schema design and dimensional data modeling
+Preferred Qualifications:
+
+BS/BA in Technical Field, Computer Science or Mathematics
+Knowledge in Python or Java
+Experience analyzing data to identify deliverables, gaps, and inconsistencies
+Actively mentored team members in their careers
+Experience effectively collaborating and communicating complex technical concepts to a broad variety of audiences
+Consulting or Strategy experience in technical implementations or management consulting
+Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.
+
+Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.

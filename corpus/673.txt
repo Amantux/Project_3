@@ -1,0 +1,194 @@
+Description:
+
+PURPOSE:
+
+The primary role of the Marketing Data Scientist is to discover the insights hidden in data, and to build tools based on those insights for use by other marketers or through automated systems. You will apply data mining techniques, statistical analysis, and high-quality production systems across a wide variety of marketing problems such as: identifying top markets or customers, estimating and forecasting the performance of marketing expenditures, and increasing customer engagement. Additionally, you will also be responsible for data management (data ingestion, transformation, loading, quality control, etc.) across various sales, marketing, customer and digital data sources. You will be competent in the “full analytics project lifecycle” from a) requirements and scoping through b) data ingestion and management through c) data exploration/munging, and d) the implementation of machine learning algorithms and statistical methods to d) insight generation and communication to stakeholders.
+
+What will distinguish you from a Data Analyst is your a) strong programming skills, b) proper application of more advanced algorithms, c) creation of “production ready”, automated systems and data flows for use in marketing and business operations, and d) less time spend focused on reporting, campaign analytics, and day-to-day insights.
+
+RESPONSIBILITIES:
+
+Selecting features, building and optimizing classifiers using machine learning techniques
+
+Data mining using state-of-the-art methods
+
+Extending data resources with third party sources of information when needed
+
+Enhancing data collection procedures to include information that is relevant for building analytic systems
+
+Processing, cleansing, and verifying the integrity of data used for analysis
+
+Doing ad-hoc analysis and presenting results in a clear manner
+
+Creating stable automated (low maintenance) systems and tracking their performance
+
+Proposing new ideas and novel solutions that do not fit conventional thinking or approaches, or are demanded by new problems.
+
+Develop area of expertise in which to participate in company PR activities and industry conferences for external audiences.
+
+Targeted participation in business development and project sell-thru for prospective, new and existing clients.
+
+Participation in knowledge transfer, coaching, and project management for junior hires, in conjunction with department managers.
+
+Develop relationships with internal clients, and collaborative engagements, that solve business problems with analytical solutions.
+
+Requirements:
+
+CRITICAL COMPETENCIES:
+
+Foundational understanding of how to apply basic machine learning algorithms to clustering, dimension reduction and feature engineering, pattern detection and forecasting, and optimization.
+
+In-depth, hands on experience with at least 1 of the following specialty models: logistic regression, classification models (support vector, xgBoost etc.), forecasting, survival, or neural networks.
+
+Experience with common data science toolkits, such as R or Python (preferred) or SAS/SPSS. Excellence in at least one of these is highly desirable.
+
+o Bonus for Data Scientist 2:
+
+? Experience with TensorFlow, keras, or other advanced deep learning platform.
+
+? Experience with cloud based platforms such as Google Cloud, AWS, MS Azure, etc.
+
+Proficiency in using SQL (or close equivalent, such as MySQL, PostgreSQL etc.)
+
+o Bonus skills or experience for Data Scientist 2:
+
+? Knowledge of big data systems, such as Hadoop, Hive, Spark, etc.
+
+? Experience with non-structured text, image or voice data
+
+Experience with data visualization tools, such as Tableau or PowerBI, or R/Python packages (Shiny, Bokeh, etc.)
+
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+
+Great communication skills, including
+
+o The ability to translate approaches and findings into understandable insights for non-technical audiences
+
+o Put analytics into both tactical and strategic recommendations
+
+o Sell your solutions and recommendations to external and internal clients.
+
+Data-oriented personality, including curiosity and problem solving.
+
+Work quickly and accurately under time pressure, and balancing the option for deeper dives with business imperatives (deadlines, need to launch, etc.)
+
+REQUIRED EDUCATION / EXPERIENCE:
+
+2-5 years of experience in analytics role.
+
+o Extensive training in data science programs can be substituted for experience, such as:
+
+? Supplemental training in data science techniques from DataCamp, etc.
+
+? Participation in Kaggle.com, etc. data science competition.
+
+? Participation and maintenance of Github.com, etc. open source code repository.
+
+Bachelor’s or Master’s degree in major with heavy emphasis on quantitative analysis or programming, such as business analytics or data science, economics, physics, mathematics or statistics, computer science, engineering, or quant emphasis in social science (psychology, sociology, etc.).
+
+PERKS:
+
+We offer your full traditional suite of benefits including health, dental, vision, and life insurance. We also offer a matching 401K, commuter benefits, and flex funds for you to enjoy your life outside of work. Add to that a good deal of PTO, including half day summer Fridays and all the holiday time off you would expect. Oh yeah, and weekly happy hours of course.
+
+ENVIRONMENTAL DEMANDS:
+
+Normal office environment. Ability to sit for extended periods of time including extensive use of PC equipment.
+
+We like everyone, so we are an equal opportunity employer. We do not consider your race, religion, ethnicity, national origin, age, sex, disability, marital status, sexual orientation, or veteran status when deciding to hire you. We just want you to be you.
+ Description:
+
+PURPOSE:
+
+The primary role of the Marketing Data Scientist is to discover the insights hidden in data, and to build tools based on those insights for use by other marketers or through automated systems. You will apply data mining techniques, statistical analysis, and high-quality production systems across a wide variety of marketing problems such as: identifying top markets or customers, estimating and forecasting the performance of marketing expenditures, and increasing customer engagement. Additionally, you will also be responsible for data management (data ingestion, transformation, loading, quality control, etc.) across various sales, marketing, customer and digital data sources. You will be competent in the “full analytics project lifecycle” from a) requirements and scoping through b) data ingestion and management through c) data exploration/munging, and d) the implementation of machine learning algorithms and statistical methods to d) insight generation and communication to stakeholders.
+
+What will distinguish you from a Data Analyst is your a) strong programming skills, b) proper application of more advanced algorithms, c) creation of “production ready”, automated systems and data flows for use in marketing and business operations, and d) less time spend focused on reporting, campaign analytics, and day-to-day insights.
+
+RESPONSIBILITIES:
+
+Selecting features, building and optimizing classifiers using machine learning techniques
+
+Data mining using state-of-the-art methods
+
+Extending data resources with third party sources of information when needed
+
+Enhancing data collection procedures to include information that is relevant for building analytic systems
+
+Processing, cleansing, and verifying the integrity of data used for analysis
+
+Doing ad-hoc analysis and presenting results in a clear manner
+
+Creating stable automated (low maintenance) systems and tracking their performance
+
+Proposing new ideas and novel solutions that do not fit conventional thinking or approaches, or are demanded by new problems.
+
+Develop area of expertise in which to participate in company PR activities and industry conferences for external audiences.
+
+Targeted participation in business development and project sell-thru for prospective, new and existing clients.
+
+Participation in knowledge transfer, coaching, and project management for junior hires, in conjunction with department managers.
+
+Develop relationships with internal clients, and collaborative engagements, that solve business problems with analytical solutions.
+
+Requirements:
+
+CRITICAL COMPETENCIES:
+
+Foundational understanding of how to apply basic machine learning algorithms to clustering, dimension reduction and feature engineering, pattern detection and forecasting, and optimization.
+
+In-depth, hands on experience with at least 1 of the following specialty models: logistic regression, classification models (support vector, xgBoost etc.), forecasting, survival, or neural networks.
+
+Experience with common data science toolkits, such as R or Python (preferred) or SAS/SPSS. Excellence in at least one of these is highly desirable.
+
+o Bonus for Data Scientist 2:
+
+? Experience with TensorFlow, keras, or other advanced deep learning platform.
+
+? Experience with cloud based platforms such as Google Cloud, AWS, MS Azure, etc.
+
+Proficiency in using SQL (or close equivalent, such as MySQL, PostgreSQL etc.)
+
+o Bonus skills or experience for Data Scientist 2:
+
+? Knowledge of big data systems, such as Hadoop, Hive, Spark, etc.
+
+? Experience with non-structured text, image or voice data
+
+Experience with data visualization tools, such as Tableau or PowerBI, or R/Python packages (Shiny, Bokeh, etc.)
+
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+
+Great communication skills, including
+
+o The ability to translate approaches and findings into understandable insights for non-technical audiences
+
+o Put analytics into both tactical and strategic recommendations
+
+o Sell your solutions and recommendations to external and internal clients.
+
+Data-oriented personality, including curiosity and problem solving.
+
+Work quickly and accurately under time pressure, and balancing the option for deeper dives with business imperatives (deadlines, need to launch, etc.)
+
+REQUIRED EDUCATION / EXPERIENCE:
+
+2-5 years of experience in analytics role.
+
+o Extensive training in data science programs can be substituted for experience, such as:
+
+? Supplemental training in data science techniques from DataCamp, etc.
+
+? Participation in Kaggle.com, etc. data science competition.
+
+? Participation and maintenance of Github.com, etc. open source code repository.
+
+Bachelor’s or Master’s degree in major with heavy emphasis on quantitative analysis or programming, such as business analytics or data science, economics, physics, mathematics or statistics, computer science, engineering, or quant emphasis in social science (psychology, sociology, etc.).
+
+PERKS:
+
+We offer your full traditional suite of benefits including health, dental, vision, and life insurance. We also offer a matching 401K, commuter benefits, and flex funds for you to enjoy your life outside of work. Add to that a good deal of PTO, including half day summer Fridays and all the holiday time off you would expect. Oh yeah, and weekly happy hours of course.
+
+ENVIRONMENTAL DEMANDS:
+
+Normal office environment. Ability to sit for extended periods of time including extensive use of PC equipment.
+
+We like everyone, so we are an equal opportunity employer. We do not consider your race, religion, ethnicity, national origin, age, sex, disability, marital status, sexual orientation, or veteran status when deciding to hire you. We just want you to be you.

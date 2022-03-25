@@ -1,0 +1,39 @@
+Client: SFOX
+Positon: Software Engineer: Database Developer - OLTP
+JD: https://www.linkedin.com/jobs/view/1826618581/
+Contract to Hire - 6 month conversion
+Location: 100% Remote Office is located in Dallas, TX
+Day to day:
+SQL engineer to write stored procedures
+1-2 big projects -- works remotely 100% of the time
+Daily calls, report into richard
+Video conferencing software
+Works on creating stored procedures and deployments for those stored procedures
+Full SDLC
+Receive project, work independently or with other - produce something that goes into testing. 2 phases of testing
+4 team members currently
+Must haves:
+SQL server
+MySQL for the database engine
+good design with OLTP and OTLP development - needs someone that understands that a query can't run more than 20 milliseconds.
+Nice to haves:
+AWS
+RDS
+Crypto currency or FInance experience
+About You
+Six years of experience in RDBMS physical and logical OLTP design, and OLTP development in MySQL and SQL Server
+Highly responsive communication when working remotely
+Ability to become the expert on a specific domain of technology and provide technical consultation to others
+Maintain top quality technical skills in a broad range of DBMSs, technology, and techniques
+Vast knowledge of SQL Server and MySQL subsystems and internals
+Deep experience in developing high volume, scalable, data-intensive systems
+Highly skilled in urgent real time troubleshooting
+Entrenched skill in designing and developing highly optimized database code
+Solid understanding of DBMS hardware, including RAM, CPU, Permanent Storage, I/O, and other capacity related resources
+Ability to create or review architecture and specification documents ensuring database security, integrity, and performance
+Possess the ability to learn how applications work by analyzing schema, querying data, and reviewing SQL
+Excellent visual, written, and verbal communications with the ability to intuitively put ideas into tangible form
+Demonstrated ability in moving a software product through the full development lifecycle
+Experience with AWS and RDS
+Knowledge of designing, building, and maintaining database clusters, business continuity, and recovery architecture and processes
+Passion for innovation and for working in late stage startups

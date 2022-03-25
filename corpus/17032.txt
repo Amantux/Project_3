@@ -1,0 +1,20 @@
+Job Description
+Position Summary
+We are looking for a passionate Senior Data Engineer with extensive experience in data management and migration and someone who is well versed with Azure cloud environment and have Azure certification. Ideal candidate must have minimum 10 years experience and be familiar in working with teams at client site and remotely.
+
+Technical Expertise Required
+Direct experience with Azure cloud environment and with demonstrated knowledge depth in Azure Data Lake, Azure Data Factory, Azure Data Catalog, Azure Data Warehouse, Databricks
+Demonstrated experience in Big Data
+Possess deep familiarity with best-in-breed data engineering practices and tools
+Role
+Build & execute data pipelines, bulk loads and incremental loads from-to a variety of on-premise and cloud environments
+Test, maintain and demonstrate data integrity
+Define, test and enhance data quality
+Set up and implement a data governance process
+Assess customer’s data architecture relative to the business needs
+Provide advice on the optimal data engineering roadmap to support business outcomes and generate an ROI
+Communicate data engineering roadmap, best practices, and trade-offs in an accurate and confident manner
+Mentor internal data engineering team
+Nice to have skills
+Be flexible to adapt to the configuration and limitations of the customer’s architecture/resources
+Ability to effectively work with on-site and remote teams

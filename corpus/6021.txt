@@ -1,0 +1,72 @@
+Read what people are saying about working here. 
+Job Description
+
+As a Data Scientist Engineer, you will be responsible for designing, building, and delivering mission-critical machine learning models, data pipelines, and micro-services, empowering the next generation of Accolade applications and user experiences.
+
+We are looking for extremely entrepreneurial individuals to innovate on a mission to better the lives of millions of people. If you have far-reaching vision and are passionate about building game-changing products and services that delight customers, then this is a great opportunity to join a team that’s fundamentally changing the health care experience.
+
+A day in the life…
+
+Train and deploy mathematical models (such as scikit-learn, Keras, or Tensorflow) as services, optimizing for health outcomes and efficiency
+
+Create microservices in Python running on AWS (Dynamo, SNS, SQS, EC2, Lambda)
+
+Design and implement deep learning systems running on population health data, applying rapidly evolving technology in new ways
+
+Design and implement highly performing data pipelines in Python, Spark, and SQL
+
+Participate in daily stand-up meetings, weekly brainstorming sessions, and bi-weekly retrospectives
+
+Develop features across multiple modules within our application
+
+Write clean, testable, readable, and maintainable code that can be rapidly deployed at internet scale
+
+Qualifications
+
+3+ years full product cycle development experience in Python, SQL, and/or Spark
+
+Experience with training and deploying machine learning algorithms
+
+An understanding of the fundamentals of a machine learning system, such as accuracy measurements and cross-validation.
+
+Experience with cloud infrastructure, such as AWS or Azure
+
+Experience with services using SOAP, REST, and open source frameworks (Spring, etc.)
+
+Experience working in an agile software development framework
+
+Proficiency with software management tools such as Jira
+
+Experience with modern version control systems such as Github
+
+Proficiency in debugging code bases, designing APIs, writing unit tests and testable code
+
+ Bonus…
+
+Experience building software for the healthcare industry and/or medical informatic
+
+Additional Information
+
+What is important to us
+
+Creating an enduring company that is hyper-focused on our culture and making a meaningful impact in the lives of our employees, members and customers. The secret to our success is:
+
+We find joy and purpose in serving others
+
+Making a difference in our members’ and customers’ lives is what we do. Even when it’s hard, we do the right thing for the right reasons.
+
+We are strong individually and together, we’re powerful
+
+Trusting in our colleagues and embracing their different backgrounds and experiences enable us to solve tough problems in creative ways, having fun along the way.
+
+We roll up our sleeves and get stuff done
+
+Results motivate us. And we aren't afraid of the hard work or tough decisions needed to get us there.
+
+We’re boldly and relentlessly reinventing healthcare
+
+We're curious and act big - not afraid to knock down barriers or take calculated risks to change the world, one person at a time.
+
+All your information will be kept confidential according to EEO guidelines.
+
+ Accolade is a personalized health and benefits solution that dramatically improves the experience, outcomes and cost of healthcare for em...

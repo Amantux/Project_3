@@ -1,0 +1,28 @@
+Team and Role Overview
+
+Relativity is looking for a talented data engineer to join the multifaceted Additive Manufacturing team comprised of software, automation and computer vision engineers who work closely with welding engineers. Analysis using this data will be at the heart of what enables us to disrupt both the Aerospace and Additive Manufacturing industries.
+
+The Mission/Outcomes and Objectives
+
+To support our mission to reimagine the way rockets are built and flown you will be working with our Additive Manufacturing team in order to create data pipelines that feed how we develop, debug, analyze, and predict the behavior of our 3D printers. This means that you will be using and building software that runs in real-time to manage data from robots, sensors, cameras, and software systems.
+
+Candidate Profile
+
+You have ideally designed and built large-scale data processing architectures, where your software engineering skills have been used to marry systems together in an efficient manner. You have also worked in multi-disciplinary environments requiring collaboration with different teams who have different types of data. At Relativity, you will be responsible for building out and maintaining software that is critical to our autonomous 3D printing process. This role requires that you are able to follow agile development practices and understand how to implement quality software that is continuously integrated and deployable to our production cells. You are excited to solve complex problems to which you can offer elegant solutions.
+
+Minimum Required Skills and Competencies
+Bachelor's in Computer Science or related technical field and 5+ years of experience in software development
+Expert in algorithms and data structures
+Expert in one or more object-oriented languages like C++, C#, Python, and Java
+Experience designing and building large scale, high performance data processing pipelines and data warehousing
+Experience with time-series, SQL, and NoSQL databases, and handling of multimedia data types
+Experience using streaming engines and message queuing systems like Apache Kafka, Spark
+Experience with database administration/configurations
+Experience with Continuous Integration and Agile Development
+Preferred Skills and Competencies
+Master's in Computer Science or related technical field and 7+ years of experience in software development
+Experience with big data systems like , Hive, MapReduce, Cassandra, BigTable or similar
+Experience visualizing time series data and building user interfaces
+This position must meet Export Control compliance requirements, therefore a United States Person as defined by 22 C.F.R. § 120.15 is required.
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

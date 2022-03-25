@@ -1,0 +1,42 @@
+ROLE SUMMARY
+We are looking for a talented and highly motivated Computational Biologist/Bioinformatics Scientist to contribute to the discovery of novel immune oncology targets and biomarkers. This is an exciting opportunity to join a team of computational scientists working closely with biologists to advance development of new IO therapies by analyzing and interpreting multi-omics high-throughput data. The scientist will be responsible for identifying biomarkers and mechanisms of action for IO therapies from pre-clinical data and translating these findings to strategies for patient selection. The scientist will be responsible for processing, analyzing, and integrating data from diverse platforms: RNA-seq, WES, FACS, single cell sequencing, T-cell receptor repertoire (TCR) profiling, CYTOF, CRISPR, and other high throughput technologies.
+Work within an interdisciplinary team of molecular and computational biologists to integrate, interpret, and mine high-throughput immune phenotyping, genomics, and in vivo response data from pre-clinical experiments.
+Implement and/or develop methods and algorithms to analyze data from different platforms like scRNAseq, FACS, Nanostring, TCR sequencing, CYTOF, CRISPR, and others.
+Analyze high-throughput data from pre-clinical studies supporting development of novel IO therapies.
+Analyze and mine public and internal multi-dimensional patient data for indications selection for new IO therapies.
+Provide timely analysis and interpretation of experiments from preclinical models.
+Support pre-clinical bioinformatics needs
+Use and develop automated methods to support large-scale bioinformatics analysis.
+Process NGS alignment, transcript quantitation, variant calling, other data types as required.
+Internalize and analyze public datasets from data repositories or publications to inform new IO therapies development.
+Monitor and evaluate analytical aspects of new and emerging computational immune oncology techniques.
+Develop tools for data sharing and visualization.
+Present scientific and technical data to both internal and external colleagues in a clear and cohesive manner.
+Share and communicate all aspects of data analysis, tools, and methods developed.
+Enable adoption of new methods and tools.
+Contribute towards publication of scientific methods and findings.
+BASIC QUALIFICATIONS
+Ph.D. in Bioinformatics, Computational Biology, Computer Science, or related fields with 2+ years of post-degree experience or equivalent.
+Fluency in programming and scripting languages such as (R, Perl, Python, or Java) in UNIX/LUNIX environment.
+Experience processing and interpreting high-volume genomics data.
+Experience in immune oncology or immunology research.
+PREFERRED QUALIFICATIONS
+Experience in computational methods for analysis of computational immune oncology data such as RNA-seq, deconvolution, TCR repertoire sequencing, neoantigen prediction, or FACS analysis.
+Experience in integrative omics analysis, next generation sequencing, data mining, pathway analysis, statistics is desirable.
+Experience in analyzing and interpreting single cell sequencing data is desirable.
+Experience with application of machine learning techniques to genomics analysis.
+Strong scientific understanding of molecular biology, immunology, and genomics.
+Ability to work independently in a multidisciplinary, fast-paced, dynamic, and results-oriented environment
+Ability to present data to a multidisciplinary audience in a clear and cohesive manner.
+Excellent teamwork, time management, and organizational skills.
+Other Job Details
+Eligible for Relocation Package
+Eligible for Employee Referral Bonus
+#LI-PFE
+Sunshine Act
+Pfizer reports payments and other transfers of value to health care providers as required by federal and state transparency laws and implementing regulations. These laws and regulations require Pfizer to provide government agencies with information such as a health care provider's name, address and the type of payments or other value received, generally for public disclosure. Subject to further legal review and statutory or regulatory clarification, which Pfizer intends to pursue, reimbursement of recruiting expenses for licensed physicians may constitute a reportable transfer of value under the federal transparency law commonly known as the Sunshine Act. Therefore, if you are a licensed physician who incurs recruiting expenses as a result of interviewing with Pfizer that we pay or reimburse, your name, address and the amount of payments made currently will be reported to the government. If you have questions regarding this matter, please do not hesitate to contact your Talent Acquisition representative.
+
+EEO & Employment Eligibility
+Pfizer is committed to equal opportunity in the terms and conditions of employment for all employees and job applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity or gender expression, national origin, disability or veteran status. Pfizer also complies with all applicable national, state and local laws governing nondiscrimination in employment as well as work authorization and employment eligibility verification requirements of the Immigration and Nationality Act and IRCA. Pfizer is an E-Verify employer.
+
+Research and Development

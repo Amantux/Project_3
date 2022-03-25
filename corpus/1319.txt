@@ -1,0 +1,95 @@
+We Are Hiring
+
+Data Engineer - Full-Time Day - Austin, TX, St. Louis, MO, Chicago, IL, Nashville, TN or Indianapolis, IN
+
+Why Join Ascension?
+Ascension Information Services is one of the nation’s largest healthcare information technology services organizations. We provide Ascension and its subsidiaries low-cost, high-value IT infrastructure and software application services that:
+Support rapid and effective clinical decision making
+Improve efficiency and care transitions • Foster information sharing across the continuum of care
+Make knowledge and data actionable, leading to improved patient outcomes
+Ascension is a faith-based healthcare organization dedicated to transformation through innovation across the continuum of care. As one of the leading non-profit and Catholic health systems in the U.S., Ascension is committed to delivering compassionate, personalized care to all, especially to those most in need. In FY2018, Ascension provided nearly $2 billion in care of persons living in poverty and other community benefit programs.
+
+What You Will Do
+
+Ascension Technologies leverages technology to create collaborative solutions that improve everyday health decisions. The technology enables seamless access to data across all applications transforming the customer experience when interacting with technology and enhancing our ability across Ascension to better serve communities with greater agility and responsiveness. It is used to provide insightful use of automation and data-drive improvements to enhance the provider, patient and consumer experience as well as keeping cybersecruity with a strong posture to protect data and other valuable assets.
+
+Responsibilities:
+Responsible for construction and development of "large-scale cloud data processing systems" The Data Engineer must have considerable expertise in data warehousing and job requires proven coding expertise with Python, Java, SQL, and Spark languages.
+Must be able to implement enterprise cloud data architecture designs and will work closely with the rest of the scrum team and internal business partners to identify, evaluate, design, and implement large scale data solutions, structured and unstructured, public and proprietary data.
+The Data Engineer will work iteratively on the cloud platform to design, develop and implement scalable, high performance solutions that offer measurable business value to customers.
+Develops partnerships with senior users to understand their business needs and define future application requirements. Evaluates the applicability of leading edge technologies and uses this information to significantly influence future business strategies.
+Analyzes complex business and competitive issues and discerns the implications for systems support. Designs, directs and performs analyses to resolve complex first-time project issues, including analysis of the technical and economic feasibility of proposed system solutions.
+Designs projects with broad implication for the business and/or the future architecture, successfully addressing cross-technology and cross-platform issues. Balances and negotiates the needs of multiple users and communicates the business advantages of various technical solutions.
+Manages customer expectations and ensures prompt and complete customer service. Customizes presentations to the interests of the audience.
+Develops expert understanding of applications development processes, and in-depth knowledge of leading edge technologies to create plans for future technology use.
+Required Work Experience:
+Four to seven years of experience.
+Minimum number years of relevant experience: 2 Years
+Some of the minimum experience requirement may be met with Masters or other advanced degree
+Cloud Experience Required
+Coding experience with Python, Java, Spark, and SQL
+Strong Linux/Unix background and hands on knowledge.
+Past experience with big data technologies like HDFS, Spark, Impala, Hive,
+Experience with Shell scripting and bash.
+Experience with version control platform github
+Experience unit testing code.
+Experience with development ecosystem such as Jenkins, Artifactory, CI/CD, and Terraform.
+Works on problems of diverse scope and complexity ranging from moderate to substantial
+Assists senior professionals in determining methods and procedures for new tasks
+Leads basic or moderately complex projects/activities on semi-regular basis Must possess excellent written and verbal communication skills
+Ability to understand and analyze complex data sets
+Exercises independent judgment on basic or moderately complex issues regarding job and related tasks
+Makes recommendations to management on new processes, tools and techniques, or development of new products and services
+Makes decisions regarding daily priorities for a work group; provides guidance to and/or assists staff on non-routine or escalated issues
+Decisions have a moderate impact on operations within a department Works under minimal supervision, uses independent judgment requiring analysis of variable factors
+Requires little instruction on day-to-day work and general direction on more complex tasks and projects
+Collaborates with senior professionals in the development of methods, techniques and analytical approach
+Ability to advise management on approaches to optimize for data platform success.
+Able to effectively communicate highly technical information to numerous audiences, including management, the user community, and less-experienced staff.
+Consistently communicate on status of project deliverables
+Consistently provide work effort estimates to management to assist in setting priorities
+Deliver timely work in accordance with estimates Solve problems as they arise and communicate potential roadblocks to manage expectations
+Adhere strictly to all security policies
+Desired Work Experience:
+Proficient in multiple programming languages, frameworks, domains, and tools.
+Coding skills in Scala
+Experience with GCP platform development tools Pub/sub, cloud storage, big table, big query, data flow, data proc, and composer desired.
+Strong Linux/Unix background and hands on knowledge.
+Knowledge in Hadoop and cloud platforms and surrounding ecosystems.
+Experience with web services and APIs as in RESTful and SOAP.
+Ability to document designs and concepts
+API Orchestration and Choreography for consumer apps
+Well rounded technical expertise in Apache packages and Hybrid cloud architectures
+Pipeline creation and automation for Data Acquisition Metadata extraction pipeline design and creation between raw and finally transformed datasets
+Quality control metrics data collection on data acquisition pipelines
+Able to collaborate with scrum team including scrum master, product owner, data analysts,
+Quality Assurance, business owners, and data architecture to produce the best possible end products
+Experience contributing to and leveraging Jira and confluence.
+Strong experience working with real time streaming applications and batch style large scale distributed computing applications using tools like Spark, Kafka, Flume, pubsub, and airflow.
+Ability to work with different file formats like Avro, Parquet, and JSON.
+Managing and scheduling batch jobs.
+Hands on experience in Analysis, Design, Coding and Testing phases of Software Development Life Cycle (SDLC).
+Master level technology degree preferred
+Bachelor's Level degree preferred
+Technology certifications preferred
+What You Will Need
+
+Education:
+High school diploma/GED with 2 years of experience, or Associate's degree, or Bachelor's degree required.
+Work Experience:
+1 year of experience required.
+4 years of experience preferred.
+2 years of leadership or management experience preferred.
+Equal Employment Opportunity
+Ascension Technologies is an EEO/AA Employer M/F/Disability/Vet. Please click the link below for more information.
+http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf
+EEO is the Law Poster Supplement
+http://www.dol.gov/ofccp/regs/compliance/posters/pdf/ofccp_eeo_supplement_final_jrf_qa_508c.pdf
+
+E-Verify Statement
+
+Ascension Technologies participates in the Electronic Employment Verification Program. Please click the E-Verify link below for more information.
+
+E-Verify (link to E-verify site)
+
+]]>

@@ -1,0 +1,32 @@
+What your role and responsibilities will be
+Collaborate with Integration team to build ETL processes to ingest data into BI stores.
+Work with the internal teams in understanding the client requirements and convert
+them into technical solutions.
+Be a team player in performing development work during the production life cycle.
+Experience with building stream and batch data processing systems.
+Gather and process complex raw data at scale (including writing scripts, calling APIs,
+write SQL queries, etc.).
+Design and develop data processing solutions that support high performing and scalable
+analytic solutions.
+
+What you'll need to succeed
+
+3+ years in a data engineering role.
+
+Advanced knowledge of SQL and SQL queries performance tuning.
+
+Good experience with RDBMS (Potgres, MS SQL Server, Oracle, DB2 ... etc)
+
+Good experience with REST APIs
+
+Good Experience with NOSQL databases (HBase, Mongo DB etc)
+
+Experience with Impala, Hive & Presto is an asset.
+
+Good knowledge of the Spark/Hadoop ecosystem.
+
+Good knowledge of Scala/Java is an asset
+
+Good knowledge of Python and Shell scripting.
+
+Familiarity with micro-services and lambda architecture is an asset.

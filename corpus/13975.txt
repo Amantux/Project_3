@@ -1,0 +1,37 @@
+Job Description
+Personalize the experience for millions of customers using advanced machine learning algorithms to improve adherence and our customer experience.
+
+Use advanced optimization and machine learning techniques to increase the relevance and customer value of our industry-leading loyalty program.
+
+Improve operational efficiency and effectiveness within our supply chain, pharmacy operations, marketing with an integrated team of data engineers, data scientists, and solution strategists.
+
+Partner with business leaders and opportunities to use data science to improve our customer experience and business results.
+
+An Ideal Candidate will have the following Technical experience and background:
+Experience within advanced analytics function of a corporation, tech startup or a consulting firm
+Deep expertise in modern machine learning and artificial intelligence techniques
+Expert level proficiency with common modeling tools and frameworks, e.g. Python, R, Scala, TensorFlow, etc.
+Ability to understand data management and model productionalization best practices Ability to write scalable, production level code
+Proficiency with tools to automate CI/CD pipelines (e.g., Jenkins, GIT, Control-M)
+Design and implement end-to-end solutions using Machine Learning, Optimization, and other advanced technologies, and own live deployments
+Experience with frameworks for either Machine Learning or NLP (Scikit-Learn, SpaCy, Pytorch, Spark NLP)
+Experience with cloud computing environment (ideally Microsoft Azure)
+Experience working on a large scale Spark implementation Productionalized one or more ML application on a big data platform
+Additionally, we would like this individual to have the following Analytics & Leadership Skills
+Must be able to translate business problem into modeling approach taking into account business requirements, data availability, development time / complexity and ability to scale.
+Experience leading project management activities including communications within project teams, stakeholder management, leadership updates, etc.
+Must be able to extract actionable insights from the analysis and interpred outcomes of complex models for business audience
+Experience with preparing data for the analysis, work with data engineering team to create modeling dataset, assess completeness and quality of data and perform feature engineering
+Knowledge of the healthcare landscape including patient and payer concerns, as well as the operational considerations in support of the business objectives and analytics experience within the retail and/or healthcare industries is highly preferred
+Experience working with data and have a strong understanding of analytics and how it is leveraged within the healthcare/retail industry
+Creative problem solver, flexible, proactive and ability to work in a fast paced, ever changing environment
+Experience presenting to audiences including technical, non-technical and senior leaders (both verbally and through Microsoft Office products - Excel, Word, and PowerPoint)
+Experience in managing cross functional initiatives communicating effectively and confidently with business partners, project team members and senior management
+Excellent written and oral communication skills, ability to interact with and influence decision-making by non-analytical business audiences
+Bachelor's Degree in Economics, Statistics, Mathematics, Computer Science, Engineering or related field
+Minimum 3 years of healthcare industry experience or Master's Degree with coursework focused on advanced algorithms, mathematics in computing, data structures etc.
+Background Experience
+
+Masters degree in Mathematics, Engineering, Health Informatics or a related field.
+
+Minimum 3 years of healthcare industry experience in an analytical role working with health care data, systems and standards. Must have experience utilizing R or Python to manipulate large datasets and develop statistical models; performing mathematical analysis, machine learning, and experimental design and evaluation; utilizing data visualization techniques and business intelligence tools, including Tableau or RShiny; and writing SQL queries to extract, transform and load large datasets.

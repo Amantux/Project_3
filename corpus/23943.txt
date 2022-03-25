@@ -1,0 +1,32 @@
+Job Description
+
+
+Job #: 1072540
+
+If interested, please email your updated resume to jhogan@apexsystems.com
+
+Title: Threat & Vulnerability Management Analyst-Server Engineer
+Location: San Antonio, TX
+Duration: 6 month contract-to-hire
+
+Responsibilities:
+In this role, you are responsible for supporting our client's vulnerability management program. This program focuses on identifying technical security vulnerabilities such as missing patches or insecure configurations, by conducting application, network, and operating system scanning in accordance with information security procedures and available tools. This position ensures daily operations (e.g., execution and support of vulnerability and policy compliance scanning, security posture assessment, metrics, etc.) within the organization, business teams and infrastructure teams are required to identify, track, and remediate open vulnerabilities on the organization’s systems. Coordinated and scheduled remediation activities may involve applying patches, registry edits, upgrading versions of software, decommissioning software and documenting the need for business to accept the risk of vulnerabilities not being remediated. Applicants should have leadership and communication skills, an understanding of patch management, experience with supporting Windows and Linux scanning operations. Tools available in support of this effort may include; SCCM, PDQ, Snow, ServiceNow Vulnerability Management, InsightIDR, InsightVM, Metasploit, Tripwire and Kenna Security Services.
+
+Additional responsibilities under server administration and operational duties.
+4+ years of hands on experience with Active Directory Services (2008 and above) administration, configuration and troubleshooting: DNS, DHCP, Sites and Services, Replication, etc.
+5+ years of hands on experience with server administration, configuration and troubleshooting.
+3+ years of hands on experience with MS Server OS installation, configuration and troubleshooting: Windows Server 2008-2016
+Optional / hands-on experience with multiple storage technologies, interfaces, and data protection / disaster-recovery including at least one of the following: SAN, NAS, or Object Store
+3+ years of hands on experience with VMware platforms
+1+ years of hands on experience with CommVault
+Optional / years of experience in IT Solution Design and Delivery
+General responsibilities such as ability to lift 25 pounds and other duties as assigned
+Additional Qualifications that would merit consideration
+3+ years of hands on experience with UNIX LINUX
+Experience with SCCM
+Experience with SCOM
+Ability to work with a geographically dispersed team
+Health care industry experience
+EEO Employer
+
+Apex Systems is an equal opportunity employer. We do not discriminate or allow discrimination on the basis of race, color, religion, creed, sex (including pregnancy, childbirth, breastfeeding, or related medical conditions), age, sexual orientation, gender identity, national origin, ancestry, citizenship, genetic information, registered domestic partner status, marital status, disability, status as a crime victim, protected veteran status, political affiliation, union membership, or any other characteristic protected by law. Apex will consider qualified applicants with criminal histories in a manner consistent with the requirements of applicable law. If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation in using our website for a search or application, please contact our Employee Services Department at employeeservices@apexsystemsinc.com or 844-463-6178.

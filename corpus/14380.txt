@@ -1,0 +1,19 @@
+Role Description
+Triplebyte screens and evaluates thousands of engineers per month to find the best candidates for our partner companies. Human decision making doesn't work at our scale; our marketplace is powered by automated assessment and decision making. Triplebyte has three cornerstone ML products: our quiz, our interview, and our matchmaking. As a machine learning engineer, you'll be responsible for the end-to-end process of designing and running experiments to serving production models at scale. Some of our pipelines use off the shelf components, but we're also implementing custom models and techniques from the latest research papers. We're also building forecasting tools for internal teams to measure and predict outcomes. This is an ideal role for an engineer or data scientist who wants the scope and responsibility to own features/products from the inception and research phase through to measuring real-world results.
+Fields your work will touch on
+Psychometrics
+Recommender systems
+Time series analysis
+Survival analysis
+Bayesian inference
+Probabilistic programming
+Requirements
+Robust exploratory/experimental skills. We have a novel dataset of candidate profiles and interview outcomes from our candidate screening process and our hiring marketplace. You'll be responsible for designing and evaluating experiments to predict downstream outcomes.
+Ability to implement models from research. Some of our best improvements in both speed and predictiveness has come from doing literature surveys and implementing novel techniques from research papers.
+Engineering skills. This is a hybrid research/engineering role. You'll be responsible for productionizing your pipelines/models and integrating against our back-end services.
+About Triplebyte
+Triplebyte is a hiring marketplace used by companies like Apple, Dropbox, Stripe, and Instacart to hire the best technical talent. We are on a mission to build a meritocratic hiring process, and we do all our evaluation background blind. Our ultimate goal is to collect the largest dataset and use this to build the world's best technical hiring process. No other company has successfully done what we're doing in this field.
+We are growing extremely quickly, working on a problem that is fundamental, sitting at the crossroads between the workforce and employers. Ten years from now, it'll look silly to use anything other than Triplebyte for technical hiring.
+Company Culture
+We have a laid-back, friendly office culture. Over lunch you'll often find us discussing the latest in technology, books, and pop culture, and then maybe getting in a quick game of chess or babyfoot (foosball).
+Since we're an early-stage company, we move fast, and it's important that each member of our team is able to take ownership of projects by defining problems, brainstorming solutions, and running experiments.

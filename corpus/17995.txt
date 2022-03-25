@@ -1,0 +1,60 @@
+DATA ENGINEER – HOUSTON, TX
+
+Who We Are
+
+At m1neral, we are building the next evolution of mineral and royalty investing. Our built-for-purpose Mineral Intelligence Platform is an industry first, and provides enriched data, actionable AI insights, and transaction automation to buyers, operators, and sellers. Our data ingestion pipelines, processing power, and geospatial displays allow investors to target, research, and track the mineral marketplace trends across the United States.
+
+In short, we are disrupting the status quo and are looking for hard-working, top-tier individuals to join our high-powered team.
+
+Role Description
+
+As a Data Engineer, you will be building out the back-end of our core product. You will be responsible work with our team to architect how we ingest, store, and query data across the entire platform. You will be making pivotal decisions on how we manage large datasets and how to make the data easily available in real-time across our platform. This will require close communication with product, design, and other engineers on the team to coordinate deliverables and navigate changes in priorities. Our team is committed to constantly improving, and as a key team member, you will have the opportunity to grow individually, and be expected to contribute to our engineering practices and culture.
+
+The ideal candidate will have experience working with a early-stage SaaS start-ups and/or in fluid, dynamic, and fast-paced environments.
+
+What will you be doing?
+Architecting, implementing and deploying data solutions and pipelines
+Working with business team members to understand problems and propose technical solutions
+Developing expertise with our product, tech stack, and overall architecture
+Automating solutions to improve data quality and improve overall productivity of end users
+Delivering on-time release of well-tested and reliable code
+Development of ETL logic, logging, monitoring, and maintenance of the central database
+Integrating multiple data storage solutions using databases such as SQL Server, Mongo DB, and Azure Cognitive Search
+Most importantly
+
+We move fast, constantly innovate and you will thrive if you are someone who learns quickly, works well independently (and with others), and above all gets stuff done.
+
+Job Requirements
+BS/BA in Computer Science, Engineering, or equivalent preferred
+3+ years of experience in Azure cloud architecture and relational database management (SQL Server)
+Experience on Azure Data Factory (creating pipelines, loading and moving data) , Logic Apps, and Kusto preferred
+Familiarity with Python and Jupyter notebooks a plus
+Experience building large scale applications within oil and gas sector preferred
+Familiarity with build systems, such as Github/Gitlab, Azure DevOps
+Experience implementing, testing, and deploying code to a production environment
+Ability to work effectively in a team environment
+Capable of knowledgeably discussing performance trade-offs when evaluating different approaches
+Great at solving problems, debugging, troubleshooting, and designing & implementing solutions to complex technical issues
+Ability and eagerness to independently learn new technologies, prototype and propose solutions to the team
+What We Offer
+Competitive package (salary & equity)
+Flexible work environment
+Unlimited PTO
+Volunteer time off
+Vacation stipend (after 1yr)
+High growth potential with an enterprising and energetic team
+
+Notes
+For the purposes of the interviewing process, you can expect to be rated on the results of a coding challenge that will be sent to you and both technical and team oriented in-person interviews.
+Job Type: Full-time
+
+Pay: $70,000.00 - $90,000.00 per year
+
+Schedule:
+Monday to Friday
+Education:
+Bachelor's (Preferred)
+Work Location:
+One location
+Visa Sponsorship Potentially Available:
+No: Not providing sponsorship for this job

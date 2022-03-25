@@ -1,0 +1,28 @@
+Foursquare is the leading independent location technology platform, powering business solutions and consumer products through a deep understanding of location. Over 1,000 clients—including more than 50% of the Fortune 100—choose Foursquare.
+
+Foursquare's toolkit includes Placed powered by Foursquare, Audiences powered by Factual and Proximity powered by Factual, Analytics Solutions, Places, Pilgrim SDK and Pinpoint. Together, these products empower brands to measure foot traffic lift via multi-touch attribution; deliver proximity-based advertising; analyze and identify trends; drive deeper engagement via Foursquare's industry-leading developer tools, which have been selected by 200,000 developers including AccuWeather, Apple, Samsung, Microsoft, Snapchat, Twitter and Uber; and optimize advertising campaigns across hundreds of audiences. Over 14 billion consumer-verified place visit confirmations help us keep our map and models fresh and up-to-date.
+
+Foursquare has more than 400 employees based in New York headquarters with offices in Seattle, Los Angeles, San Francisco, Chicago, Singapore and London. In 2019 Foursquare acquired Placed from Snap Inc, and then in 2020 merged with Factual. Foursquare is proud to be funded by The Raine Group, Simon Ventures, Naver, Union Square Ventures, Andreessen Horowitz, DFJ Growth, Morgan Stanley Alternative Investment Partners and more.
+
+About the Team
+
+The data engineering team owns critical pieces of the machine learning and analytics platforms. This team helps to build data processing infrastructure to derive insights from billions of location data points every day. Help us build and collaborate with Product, Engineering, and Data Science teams to create tools and processes to bring research and machine learning models to production.
+
+Responsibilities of the role:
+Influence key decisions on architecture and implementation of scalable data processing and analytics structure
+Work with the Data Science team to bring machine learning models into production
+Build Hadoop MapReduce and Spark processing pipelines using Java, Python, and Ruby
+Build REST APIs for data access by systems across our infrastructure
+Focus on performance, throughput, and latency, and drive these throughout our architecture
+Write test automation, conduct code reviews, and take end-to-end ownership of deployments to production
+Mentor junior engineering staff
+Qualifications:
+BS/BA in a technical field such as computer science or equivalent experience
+4-7 years of software development experience
+Proficiency in Python, Java, C#, and/or Ruby
+3+ years of experience with Hadoop MapReduce and/or Spark data processing pipelines, analytics systems (e.g. OLAP, BI tools), and machine learning technologies
+Experience operating systems in AWS
+Excellent communication skills, including the ability to identify and communicate data-driven insights
+Foursquare is proud to foster an inclusive environment that is free from discrimination. We strongly believe in order to build the best products, we need a diversity of perspectives and backgrounds. This leads to a more delightful experience for our users and team members. We value listening to every voice and we encourage everyone to come be a part of building a company and products we love.
+
+Foursquare is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected Veteran status, or any other characteristic protected by law.

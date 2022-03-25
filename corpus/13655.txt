@@ -1,0 +1,41 @@
+The Data team at Ordergroove is looking to hire a Data Scientist to join our growing lineup. Our team impacts the lives of millions of consumers through Ordergroove's AI platform which powers the retail experience of some of world's largest brands. On this platform the data science team is creating the foundational infrastructure for a new collection of data and AI driven products to enable frictionless commerce. If you're interested in a crucial role designing and building insights that feed highly visible products, then this role might be for you.
+
+What you will do:
+Devise, research, test and develop new ways that use our data to build long lasting relationships for some of the biggest brands in the world, impacting the lives of millions of users.
+Build and improve resilient and scalable models for both batch and real-time services.
+Evaluate and test the tradeoffs between competing machine learning models, methodologies and architectures.
+Work alongside awesome engineers in an agile environment, constantly striving to be more innovative and efficient.
+About you:
+
+
+You have an innate curiosity to find and explore business problems using data and understand best ways to extract real world value from your insights.
+You are self driven and prepared to work in a fast paced startup environment.
+You are passionate about leveraging the best of breed technology/methodologies and eager to learn new skills.
+You write professional level Python on a daily basis (R additionally a plus).
+You are skilled at writing and optimizing SQL (core application DBs use MySQL Google BigQuery).
+You have a degree in statistics, mathematics, computer science, economics, or another quantitative field and 2+ years experience in a data science role.
+Bonus points for:
+
+
+Startup and SaaS experience strongly preferred
+Previous experience building models for subscription products
+Previous e-commerce experience a bonus
+You ideally have experience with Apache Airflow
+You understand at least one Python-based web framework (Django, Flask etc)
+You have hands-on experience with Google Cloud Platform
+If you don't meet 100% of the qualifications outlined above - that's okay, nobody's perfect! We encourage you to apply if you think this is a role that would make you excited to come into work every day.
+
+About Ordergroove:
+Raised $40M from top notch investors
+Headquartered in the heart of NYC (with offices in Austin and Denver)
+Over 100 clients including The Honest Company, L'Oreal, Home Depot, Bed Bath & Beyond, Walmart, PetSmart, GNC and Pepsi
+Meet some of the team you'll be working with: Rob O'Callaghan & Eugene Kozhukalo
+We're a close-knit team of passionate engineers, marketers and innovators whose mission is to help our clients become an indispensable part of their customers' lives through Relationship Commerce. We've raised over $40M in venture capital and are planning to grow our team to 100 people this year!
+
+Recently named one of the 2020 Best Companies to Work For in New York, our collaborative culture celebrates independent thinking and curiosity. We demand the best of ourselves and each other and never miss an opportunity to celebrate our success. Company events include hackathons, wine tours, summer BBQs, trips to baseball games and game nights.
+
+We compete hard for the industry's best talent by offering great employee benefits including one of the most flexible PTO policies you'll find, highly competitive compensation and meaningful stock option grants. Our New York HQ is minutes from all of the major subways and boasts a 6,000 square foot private outdoor terrace overlooking beautiful downtown Manhattan.
+
+When you join the Ordergroove team you'll be surrounded by smart, fun people working to transform the business of commerce! If you're ready for a high-impact role at a company creating groundbreaking solutions, we invite you to learn more and apply!
+
+At Ordergroove we are committed to creating a welcoming and supportive environment for all people. We do not discriminate against anyone for any reason. We encourage people with different backgrounds and experiences to join our growing team.

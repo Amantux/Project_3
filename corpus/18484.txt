@@ -1,0 +1,42 @@
+The FreedomPay Commerce Platform is the technology of choice for many of the largest companies across the globe in retail, hospitality, lodging, gaming, sports and entertainment, foodservice, education, healthcare and financial services. FreedomPay’s technology has been purposely built to deliver rock solid performance in the highly complex environment of global commerce. The company maintains a world-class security environment and was first to earn the coveted validation by the PCI Security Standards Council against Point-to-Point Encryption (P2PE/EMV) standard in North America. FreedomPay’s robust solutions across payments, security, identity and data analytics are available in-store, online and on-mobile and are supported by rapid API adoption. The award winning FreedomPay Commerce Platform operates on a single, unified technology stack across multiple continents allowing enterprises to deliver a consistent, repeatable experience on a global scale. FreedomPay is a fast paced, high growth company with a great culture with competitive benefits and compensation with a business casual atmosphere.
+
+We are currently seeking a top tier Senior Software Engineer with specific experience in the Microsoft technology stack (.Net, C#, SQL) with a focus on our middleware products and interacting with hardware devices. This is a full-time salaried position. You will join a team of world class engineers and developers solving complex problems, building new product lines, and expanding existing products and services. You will be rewarded for creativity and innovation.
+In this role, you will have multiple responsibilities including solution and software design and architecting, software development, n-tier solutions, high performing transaction handling, and complex secure system integrations. You will leverage various frameworks, patterns, and tools. You will have shared accountability for the quality of the solution and ensure seamless integration and implementations. You will report to the Director of Software Development.
+Job Responsibilities (including but not limited to)
+Build properly structured, well-commented solutions for complex integrations and complex problems.
+Work directly with 3rd party hardware devices.
+Maintain and expand our middleware solutions.
+Exercise thorough unit and system testing.
+Work within a scrum team to create stories, tasks, estimates, and delivery for each sprint.
+Follow and contribute to technical standards, coding standards, tools, platforms, and approaches. Help define and create application frameworks and common libraries for a wide variety of solutions, always seeking to reuse code and core frameworks where possible.
+Work with the QA team to ensure proper test plan, test coverage, test execution, and defect remediation.
+Required Skills and Experience
+At least a BS/BA Degree in MIS, Computer Science, Engineering, or related field
+A minimum of 8 years experience as a Software Developer/Engineer
+Strong, written and verbal communication skills
+Experience with .Net 4.0+, VS 2012+
+C#
+Object-oriented design and programming
+Windows Servers/Services
+Experience building multi-threaded, high throughput, transactional processing software
+Direct interaction with hardware devices
+Knowledge of, and commitment to, industry-accepted best practices in source code control, architecture, coding structure, and unit/system testing
+Building and documenting interfaces for 3rd party consumption
+Working knowledge of current network hardware, protocols, and standards, including TCP/IP socket programming, HTTP and HTTPS handling, WiFi, GPRS, SSH, SSL.
+Abstract thinking skills and employing experience and knowledge to create innovative solutions
+Knowledge of full application life cycle design tools and methodologies, e.g., Agile/Scrum, Extreme Programming
+Excellent multi-tasking skills, managing multiple initiatives at one time in a fast-paced environment
+Experience with accurate project estimating and planning, working in a team oriented and collaborative environment, working in a high pressure and fast paced organization
+Data security, encryption handling, compliance, data privacy and laws
+After hours support as needed
+Strong MS Office, Project, and Visio skills
+Occasional travel may be required (U.S.)
+Must pass a criminal background check and drug testing
+Optional, Preferred Skills and Experience
+SQL and SQLite
+GIT
+C, C++
+Linux
+VirtualBox or VMWare
+Experience in high volume transactional processing environments, preferably financial or payment related
+As the fastest growing commerce company in the industry, we offer the opportunity for tremendous upward mobility within the company as well as development and professional growth opportunities. FreedomPay provides exceptional benefits including medical, prescription, dental and vision coverage, Life Insurance, 401K with company match, commission sharing plan, and a modern working environment. All positions must be able to successfully pass a background check as well as a credit check.

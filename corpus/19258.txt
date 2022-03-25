@@ -1,0 +1,47 @@
+Mercari is the selling app. We make it super easy to sell (or buy) almost anything. We all have things we don't use, never used or simply outgrew. But that stuff still has value. Mercari gives you the power to simply sell it, ship it, and earn some cash for it. Fashion to toys. Sporting goods to electronics. All the brands you know and love. Our mission is simple: to make selling easier than buying. And with 45M+ downloads in the U.S. and 225k new listings every day, we're just getting started.
+
+We are aggressively growing our Backend team to develop large-scale systems with the latest technology.
+
+What you'll be doing:
+Coding in Go and PHP
+Design, develop, test, deploy, maintain, and improve the backend system for our product
+Design distributed systems with microservices architecture running on Kubernetes
+Work with Product Managers and Designers for the design and specification of our product
+Collaborate with iOS, Android, Web, Machine Learning, and Data engineers to develop new features on our product
+Collaborate with QA Engineers to test and deliver the feature with high-quality and high-speed
+Solve complex performance problems and architectural challenges
+Write and maintain technical documentation
+Manage own project requirements, deadlines, and qualities
+Mentor software engineers in the same team or project
+Requirements:
+6+ years of experience in software engineering
+Full-time working experience as software engineer with consumer applications
+Excellent knowledge of data structures and algorithms
+Experience with developing complex software systems scaling to millions of users with production quality deployment, monitoring, and reliability
+Experience designing, developing, and managing microservices
+Knowledge of software testing and the ability to write testable code and proper tests
+An insatiable desire and ability to learn with a positive attitude
+Ability to collaborate with team members including Product Managers, Data Scientists, Designer, Engineers, and QA Engineers to solve complex business problems
+Ability to mentor engineers in an open, respectful, flexible, and empathetic manner
+Nice-to-haves:
+Deep knowledge of Go or PHP
+Proficient computer science background such as a bachelor's, master's, or Ph.D. degree
+Strong knowledge of container and orchestration technologies like Docker and Kubernetes
+Experience working on cloud infrastructures like GCP or AWS
+Technologies We Use:
+Databases: Cloud Spanner & MySQL
+Programming Language: Go & PHP
+Containers & Orchestration: Docker, Kubernetes
+Web Services & Hosting: Google Cloud Platform (GCP) & Amazon Web Services (AWS)
+Perks:
+Competitive medical, dental, and vision insurance options
+401k match
+Life & disability insurance
+Employee Assistance Program
+New parent paid leave
+Rocket Lawyer legal services
+Fond perks and rewards
+Commuter reimbursement
+Time when you need it - flexible vacation days
+Catered lunches everyday
+Team outings and events

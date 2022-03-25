@@ -1,0 +1,39 @@
+Position Duties
+
+The position of Analytics Scientist will perform the following duties:
+
+Deliver analytics projects and products for the manufacturing skill team consisting of Manufacturing Engineering, Operations and Advanced Manufacturing
+
+Lead the project through all the stages Problem Formulation, Data Management, Solution Development, Solution Deployment and Ongoing Management
+
+Interact with company support functions Data Operations, Data Governance, DSC (Data Supply Chain) IT, RTSA (Real Time Streaming Architecture) to provide them with inputs to plan for data landing and transformation
+
+Interact with GDI&A Tech to provide specifications for developing architecture and user interfaces for analytics products
+
+Participate in the Advanced Manufacturing/ governance process consisting of presenting project A3s and periodic updates when scheduled
+
+Work with available tools and technologies (see list of tools and technologies in the Position Qualification section) to develop robust models based on approved use cases to provide insights to internal customers
+
+Interact with internal customers of the proposed solution to ensure that the project delivers the agreed to business benefit, this will require the Analytics Scientist to be a change agent to convince the users to modify their business processes
+
+Provide updates to and solicit assistance from supervisors and managers as needed to ensure that projects are delivered on schedule
+
+Continuously improve data science skills by leveraging available learning and development opportunities both within and outside of Ford such as boot camps, MOOCs (Massive Open Online Courses), conferences, knowledge shares etc.
+
+Position Qualifications
+
+Bachelor's Degree in a quantitative field such as Engineering, Computer Science, Mathematics, Statistics, etc. (Masters or Doctorate preferred)
+
+Expert level understanding of machine learning, regression, image processing, natural language processing, control charting, linear or mixed integer optimization
+
+Expertise in open source data science technologies such as Python, R, Spark, SQL, Hadoop, etc. acquired through college course work, online training and certification or project development
+
+Demonstrated expertise in commercial tools such as Alteryx, Qlikview, and Tableau acquired through attending the boot camp and implementation on projects
+
+Demonstrated expertise in the use of data and statistics to solve business problems within the framework of methodologies such as 6 Sigma, Shanin Red X, etc.
+
+Experience in manufacturing engineering, production, maintenance, quality, or manufacturing IT
+
+Working knowledge of Controls architecture elements such as PLCs, networks, machine controllers, robot controllers etc.
+
+Working knowledge of sensors and signal processing

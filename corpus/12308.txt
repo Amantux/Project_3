@@ -1,0 +1,57 @@
+Ibotta is seeking a Data Scientist / Machine Learning Engineer to build software that helps millions of our shoppers save time and money. We're looking for a machine learning engineer who has a passion for building scalable machine solutions using technologies such as Python, Spark, AWS, Airflow, Sagemaker, TensorFlow, etc. Every member of the team has input into our roadmap and will have a real impact as part of a small, agile team.
+
+Here is what you'll be doing:
+
+Design, develop and deploy large scale, big data-driven machine learning models that are integrated with key product features. Some examples of potential projects include:
+
+Building/scaling ML related infrastructure to help streamline the development, evaluation, deployment, and re-usability of core ML features and services.
+
+Recommendation system that leverages robust, granular customer data sets and various modeling approaches to ensure the most relevant content is shown to each user.
+
+Search relevancy engine that leverages machine learning, word embeddings, ranking algorithms, and millions of products to help surface the most relevant content for each search query.
+
+Multivariate testing framework that empirically evaluates the efficacy of product enhancements as quickly as possible.
+
+Collaborate with Engineering and Advanced Analytics leads to establish analytic standards and platforms that scale and can be leveraged in various initiatives throughout the organization.
+
+Deliver world class data-driven products in partnership with cross functional teams (Product Managers, Data Engineers, Software Engineers, etc.).
+
+Communicate complex machine learning solutions, concepts and the results of analyses in a clear and effective manner to business stakeholders and technology leaders to maximize the effectiveness of machine learning initiatives.
+
+Here is what we're looking for:
+
+2+ years of professional experience as a Machine Learning Engineer, Data Scientist, or equivalent role, focusing on machine learning, statistical modeling, and/or ML infrastructure.
+
+Advanced knowledge of a data science toolkit like: Python (sklearn, scipy), Spark ML, or TensorFlow.
+
+Comfort extracting data from both structured and unstructured sources using tools like: SQL and Spark.
+
+The ability to think critically, leverage domain expertise and translate high-level business objectives into tangible data science solutions.
+
+Strongly Preferred:
+
+Experience with one or more of the following is a big plus: recommendation systems, search relevancy, real-time/streaming data pipelines, statistically-sound marketing attribution, and profiling/optimizing Spark applications..
+
+Experience working with distributed big-data tools like: Spark, Hive or Presto.
+
+Experience writing production-ready code and implementing data science solutions in production environments.
+
+Experience with online/offline model quality and evaluation in production environments.
+
+Comfort working within a cloud-based infrastructure, ideally AWS.
+
+About Us:
+
+Headquartered in Denver, CO, Ibotta ("I bought a...") is a free app that's transforming the shopping experience by making every purchase rewarding. The company partners with leading brands and retailers to offer real cash back on groceries, travel, electronics, clothing, gifts, home and office supplies, dining out, and much more. Ibotta is the ultimate starting point for savings, and having paid out more than $500 million in cash rewards to its Savers, it's no surprise why Ibotta is one of the most downloaded shopping apps in the United States
+
+Learn more about Ibotta here: https://liferewarded.ibotta.com/press-and-media/ ( https://liferewarded.ibotta.com/press-and-media/ )
+
+To learn more about what our Tech teams are doing day to day, visit Building Ibotta on Medium.com. ( https://medium.com/building-ibotta )
+
+Additional Details:
+
+This position is located in Denver, CO and includes competitive pay, benefits package (including medical, dental, vision), 401k, commuter stipend, and equity.
+
+Ibotta provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, and genetics.
+
+Applicants must be currently authorized to work in the United States on a full-time basis.

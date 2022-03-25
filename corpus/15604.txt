@@ -1,0 +1,55 @@
+Ability to coordinate with people of many different types of skillsets including systems engineers, network defenders, network engineers, data scientists and analytics developers. Must be able to identify, analyze, normalize, ingest, and parse structured and unstructured cybersecurity and intelligence data from a wide variety of sources, to include large datasets (over 1TB). Data types include, but are not limited to, network appliance event logs, system logs, domain logs, firewall logs, Zeek logs, audit logs, vulnerability scans, packet capture, STIX formatted messages, PDF/text files, .csv files.
+
+Statement of Work for Data Engineer
+
+Job Responsibilities:
+
+· Utilize various Big Data Platform technologies, to include but not limited to, Elastic/Lucene databasing, Hadoop Distributed File System (HDFS), Kafka, and Gem to prepare various datasets for use in data analytics.
+
+· Work with 35 IS and external support engineers to develop, adapt, modify, and implement data parsers for analytic use in the Big Data Platform and other Air Force CS&D weapon systems.
+
+· Utilize one or more of several coding languages to include Java, Python, and Scala.
+
+· Develop documentation and comprehensive user manuals for all developed projects, to be understandable by the average analyst familiar with BDP.
+
+· Assist in the development and implementation of a data analytics program within the 35 IS.
+
+· Provide support to training development and instruction focusing on CS&D data analytics development.
+
+Knowledge/Skills Ability:
+
+Required: · Be Director of Central Intelligence Directives 6/4 eligible (Top Secret) with a current Single Scope Background Investigation (SSBI)
+
+· Proficiency in one or more big data programming languages, such as R, Python, Scala, or Java.
+
+· Experience working with a hybrid team of analyst, engineers, and developers to conduct research, and build and deploy complex, but easy-to-use analytical platforms.
+
+· Previous experience performing research in Data Analytics or big data.
+
+Minimum Experience/Education:
+
+· Minimum 2 years of recent experience in data engineering
+
+· Programming experience, ideally in Python, Spark, Kafka, or Java
+
+· Experience in data cleaning, wrangling, visualization and reporting
+
+· Experience processing large amounts of structured and unstructured data, including integrating data from multiple sources
+
+· Knowledge of data mining, machine learning, natural language processing, or information retrieval
+
+Highly Desired:
+
+· Education/ Certifications:
+
+· Bachelors Degree or more in Computer Science or related field
+
+· DoD 8570 Sec+
+
+· 4+ years of experience in data analytics or quantitative intelligence analysis
+
+· Four (4) years of experience in an intelligence field at a tactical or operational level
+
+· Experience with a DoD Big Data platform is a plus
+
+*BEAT LLC IS AN EQUAL OPPORTUNITY EMPLOYER - DISABILITY AND VETERANS*

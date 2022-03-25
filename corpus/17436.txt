@@ -1,0 +1,36 @@
+Overview
+
+Job description
+
+Position Overview:
+
+Seeking a highly qualified Data Engineer with a track record of managing and architecting complex data platforms. As a member of the Data Engineering and Operations Team, the Data Engineer will work on data management projects for a wide variety of companies including Cerberus portfolio companies. This person will be responsible to creating programs for loading, transforming, and validating data. This person will also be responsible to lead small teams responsible for the end to end implementation of data platforms for our clients. We are seeking a “player/coach” with the adaptability and flexibility to develop strategies but also get into the weeds and write code. As such, a successful candidate will have deep technical and management expertise across a variety of methodologies as well as have demonstrated management skills.
+
+Responsibilities:
+Design and build data management platforms
+Design and build scalable data platforms to securely ingest, process, validate, analyze and publish data
+Perform POC (proof of concepts), choose the right tools and technologies to be used
+Manage large & complex data and analytical projects: data transformation, exploration, performance evaluation & testing
+Move existing ETL jobs from traditional data warehouse processing to the big data processing platform, ensure that the jobs are designed to scale
+Manage and lead data engineering projects
+Collaborate with internal and portfolio company stakeholders in a broad range of sectors to identify business use cases and develop solutions in driving impact through data and analytics
+Manage and execute the successful delivery of the data (ETL/ELT) pipelines, analytics platforms and reporting tools to meet business needs
+Perform analyses of large structured and unstructured data to solve multiple and complex business problems utilizing advanced statistical techniques, and specialized expertise in the organization and/or industry
+Assess data management platforms
+Assess the complete landscape of a data refinery (data discovery, data loading, data transformation, data validation and data publish)
+Business Knowledge/Technical Skills:
+5+ years professional work experience as a data engineer
+Extensive experience building highly optimized and scalable data infrastructures using traditional, open sources and cloud computing technologies
+Deep experience in data warehousing, data architecture, data quality processes, data warehousing design and implementation, table structure, fact and dimension tables, logical and physical database design, data modeling, reporting process metadata, and ETL processes
+Proven experience in developing analytics strategy, roadmap and delivering major change initiatives
+Proven experience in negotiating contracts, license optimization, service levels & managing vendors
+Ability to set and manage priorities judiciously
+Knowledge of: data processing platforms like Hadoop, Spark, Hive, AWS (EMR, Kinesis, lambda, glue) Azure (HDInsight, data factory); airflow; coding best practices (git/stash usage); python, R; Java/Scala; writing production and modular code
+Other:
+Bachelor's degree required
+Master’s degree in in Computer Science, Statistics, Economics, Physics, Engineering, Mathematics, or other closely related field is preferred
+This position will be based out of New York City and will require travel
+Job description Position Overview: Seeking a highly qualified Data Engineer with a track record of managing and architecting complex data platforms. As a member of the Data Engineering and Operations Team, the Data Engineer will work on data management projects for a wide variety of companies including Cerberus portfolio companies. This person will be responsible to creating programs for loading, transforming, and validating data. This person will also be responsible to lead small teams responsible for the end to end implementation of data platforms for our clients. We are seeking a “player/coach” with the adaptability and flexibility to develop strategies but also get into the weeds and write code. As such, a successful candidate will have deep technical and management expertise across a variety of methodologies as well as have demonstrated management skills. Responsibilities: Design and build data management platforms Design and build scalable data platforms to securely ingest, process, validate, analyze and publish data Perform POC (proof of concepts), choose the right tools and technologies to be used Manage large & complex data and analytical projects: data transformation, exploration, performance evaluation & testing Move existing ETL jobs from traditional data warehouse processing to the big data processing platform, ensure that the jobs are designed to scale Manage and lead data engineering projects Collaborate with internal and portfolio company stakeholders in a broad range of sectors to identify business use cases and develop solutions in driving impact through data and analytics Manage and execute the successful delivery of the data (ETL/ELT) pipelines, analytics platforms and reporting tools to meet business needs Perform analyses of large structured and unstructured data to solve multiple and complex business problems utilizing advanced statistical techniques, and specialized expertise in the organization and/or industry Assess data management platforms Assess the complete landscape of a data refinery (data discovery, data loading, data transformation, data validation and data publish) Business Knowledge/Technical Skills: 5+ years professional work experience as a data engineer Extensive experience building highly optimized and scalable data infrastructures using traditional, open sources and cloud computing technologies Deep experience in data warehousing, data architecture, data quality processes, data warehousing design and implementation, table structure, fact and dimension tables, logical and physical database design, data modeling, reporting process metadata, and ETL processes Proven experience in developing analytics strategy, roadmap and delivering major change initiatives Proven experience in negotiating contracts, license optimization, service levels & managing vendors Ability to set and manage priorities judiciously Knowledge of: data processing platforms like Hadoop, Spark, Hive, AWS (EMR, Kinesis, lambda, glue) Azure (HDInsight, data factory); airflow; coding best practices (git/stash usage); python, R; Java/Scala; writing production and modular code Other: Bachelor's degree required Master’s degree in in Computer Science, Statistics, Economics, Physics, Engineering, Mathematics, or other closely related field is preferred This position will be based out of New York City and will require travel
+This is Company overview ...
+
+Which company? Recruiting Company or Client Company???

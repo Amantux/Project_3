@@ -1,0 +1,33 @@
+Who We Are
+
+
+The Farmer's Dog was created to radically improve the $90 billion global pet food industry starting with a subscription service that sends freshly-made food directly to customers' doors. Long term, our aim is to simplify every part of pet care, bettering the lives of the animals who make our lives better. We recently raised our Series B and are backed by early investors of Warby Parker, Dollar Shave Club, Sweetgreen, and Glossier.
+
+Join The Farmer's Dog team as we continue to figure out ways of bringing peace of mind to customers, health to their companions, and much-needed change to the way people feed and care for their pets.
+
+#mustlovedogs
+
+Where You'll Come In
+
+
+The Farmer's Dog is looking for a Senior Data Engineer to join our growing team. The Data & Insights team is responsible for the care and feeding of all of The Farmer's Dog data, including all ETL pipelines. You will be collaborating closely with the Data Science and Data Analysis teams as well as our Platform Engineering and Software Engineering teams. As a senior member of the team, you will be involved in key business decisions and be a mentor to your teammates.
+
+This individual is expected to have strong opinions on tech stacks, while not being married to any one tool. We adopt and integrate new tools quickly. The ideal candidate for this role will need to enjoy building things from the ground up, while also demonstrating the wisdom of knowing when to leverage existing tools instead of reinventing wheels. This person will also need to ensure the team is working in efficient ways. As a senior member of the team, you will be expected to work closely with senior members of the platform team to own our data engineering tech stack.
+
+How You'll Make An Impact
+Own all aspects of the data, from the point it is recorded until the point it reaches its intended audience or user
+Own and care for our data warehouse, as well as all of that data residing in it.
+Create and maintain all ETL pipelines in our ecosystem, including oversight of those between 3rd parties
+Own and maintain all data-related tools
+Own and maintain all aspects of the connectivity and pipelines between 3rd party vendors
+We're Excited About You Because
+5+ years of experience working in either a data or software engineering related field
+3+ years of experience working with Data directly
+At least 2 years of recent experience working with BigQuery & GCP
+Ability to put together an entire ETL pipeline from scratch using documentation without assistance
+Benefits
+Brand new dog-friendly office in Greenwich Village (complete with free-roaming, friendly dogs)
+Comprehensive Healthcare, Dental, and Vision
+Flexible PTO and WFH policy
+Discounted fresh food for your pup
+Strict daily belly rub quota

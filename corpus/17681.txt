@@ -1,0 +1,31 @@
+Successful Marketing Automation SaaS platform startup in West LA is looking for a Senior Data Engineer who will be architecting highly scalable data integration and transformation platform processing high volume of data under defined SLA. You will be creating and building the platform that includes ingestion and transformation of data, data governance, machine learning, analytics and consumer insights.
+
+You will be solving complex problems with a business that celebrates innovation and values your contributions. We want you to wake up each day excited to use cutting edge tools/technologies and software development practices. Our platform is a combination of a large scale near-real time data pipeline (10s of billions of data points of sale transaction data from major retailers) and over 100 microservices.
+
+Our current tech stack includes Flink, Kafka, Cassandra, ElasticSearch, AWS Athena, Glue, Redshift, EMR, DynamoDB, and Java Spring Boot based microservices.
+
+Qualifications:
+3+ years working in Big Data and related technologies
+5+ years Java and Spring Boot experience
+Experience building high-performance, and scalable distributed systems
+AWS cloud experience (EC2, S3, Lambda, EMR, RDS, Redshift)
+Experience in a variety of relevant technologies including Cassandra, AWS
+
+DynamoDB, Kafka, AWS Kinesis, Elasticsearch, Machine Learning, Spark, Hadoop, Hive, Presto
+Experience in ETL and ELT workflow management
+Familiarity with AWS Data and Analytics technologies such as Glue, Athena,
+
+Redshift, Spectrum, Data Pipeline
+MS preferred, or BA/BS degree in computer science, related field, or equivalent
+
+practical experience
+
+What we offer:
+A fantastic opportunity to be part of a growing start-up. A chance to work with a passionate, driven and fun team.
+An incredible work environment - fun, casual and fast-paced
+Monthly team activities and outings
+Loft-style office with plenty of break-out space
+Fully stocked company snack area complete with every drink and snack your
+
+heart desires
+Great benefits - Health, Dental, Vision, and Vacation

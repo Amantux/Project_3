@@ -1,0 +1,43 @@
+At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world.
+
+We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let’s move the world forward, together.
+
+About the Role
+
+Uber Freight supports a two-sided marketplace between shippers (companies with loads to send across geographies) and carriers (drivers who move freight). This department of Uber grows very fast these days. Amount and variety of optimization problems that Freight wants to solve is incredible! The decision making domains of interest include scheduling, portfolio optimization, pricing, ranking, dispatching and routing problems. Most of these problems are not independent and should be solved simultaneously. Moreover, most of these problems should be solved in real time, and under the assumption of uncertain input parameters. Therefore, Uber Freight is looking for great OR people to find efficient solutions to these new challenging transportation problems.
+
+What You’ll Do
+
+Build optimization models to optimize scheduling and routing of truck loads
+
+Implement optimization models to production
+
+Run simulations
+
+Publishing papers, research, working with product/engineering team, working on optimization problems in logistics, prototype and research and responsible for implementation
+
+Expansion, power loop, appointment scheduling DoYoung and Alexi (Prime) Helping out
+
+What You’ll Need
+
+A PhD in Operations Research or Industrial Engineering
+
+At least 5 years of experience in implementing OR techniques
+
+A strong programming skills in C++, Python or any other OR implementation tech stack
+
+Strong mathematical formulation ability of scheduling, routing and simulation
+
+Strong knowledge of Mixed Integer Programming
+
+Strong business and communication skills
+
+Ability to break down a complex business problem into OR problem
+
+About the team
+
+Uber Freight solves the most challenging problems related to movement of goods across transportation logistics networks. We work on products that make every part of transporting via truck seamless from end-to-end, such as personalized recommendation and search, acquisition funnel, growth and dynamic pricing, shipper pricing and matching, and much more.
+
+At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world.
+
+We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let's move the world forward, together.

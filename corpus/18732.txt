@@ -1,0 +1,31 @@
+Company:
+Qualcomm Technologies, Inc.
+Job Area:
+Engineering Group, Engineering Group > Software Engineering
+Job Overview:
+
+
+Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform 5Gs potential into world-changing technologies and products. This is the Invention Age - and this is where you come in.
+
+Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform 5Gs potential into world-changing technologies and products. This is the Invention Age and this is where you come in.
+Battery life and Talk time are consistently among the top factors impacting the choice made when purchasing a smartphone or another wireless device. Optimizing power consumption without sacrificing performance thus directly contributes to the success of Qualcomm. Our team, the Modem Software Power team, participates in the discovery and definition, and then the implementation of the features that allow your phone battery to last longer even while achieving higher data rates than ever before over all wireless air-interfaces : 5G, 4G as well as the legacy wireless technologies. The use cases we cover range from tightly controlled ideal lab scenarios to the highly dynamic and unpredictable field environments.
+Given the critical nature of the problem space, and the world leadership that Qualcomm enjoys in modem technology, the successful candidate will get an opportunity to not only work in a team developing top-quality embedded software running on cutting-edge multi-threaded processor architectures, but also gain expertise in the worlds best modems and wireless systems.
+Responsibilities:
+Develop and release the Clock and Power Manager (MCPM) software driver
+Create prototype software as proof of concept of modem power optimization features.
+Analyze & Debug issues for power optimization features, and study the impact on stability and performance while preserving the delicate equilibrium between power and performance. .
+Explore new ML/AI techniques to deal with unpredictable scenarios while optimizing power.
+Minimum Qualifications
+Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
+1+ years experience with Programming Language such as C, C++, Java, Python, etc.
+Preferred Qualifications
+Embedded software development in the C language
+Scripting languages such as PERL, Python, YAML
+Wireless protocols and technologies
+Real-time operating systems, multi-threaded processor architectures
+Communication skills to work with a diverse engineering pool including modem, hardware, systems
+Applicants: If you are an individual with a disability and need an accommodation during the application/hiring process, please call Qualcomm’s toll-free number found here for assistance. Qualcomm will provide reasonable accommodations, upon request, to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. Qualcomm is an equal opportunity employer and supports workforce diversity.
+
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.
+
+EEO Employer: Qualcomm is an equal opportunity employer; all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or any other protected classification.

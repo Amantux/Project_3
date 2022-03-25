@@ -1,0 +1,52 @@
+About Ipsos
+
+Ipsos is the world’s third largest market research company, present in 90 markets and employing more than 18,000 people. Our passionately curious research professionals, analysts and scientists have built unique multi-specialist capabilities that provide true understanding and powerful insights into the actions, opinions and motivations of citizens, consumers, patients, customers or employees. We serve more than 5000 clients across the world with 75 business solutions.
+
+Founded in France in 1975, Ipsos is listed on the Euronext Paris since July 1st, 1999. The company is part of the SBF 120 and the Mid-60 index and is eligible for the Deferred Settlement Service (SRD).
+
+ISIN code FR0000073298, Reuters ISOS.PA, Bloomberg IPS:FP www.ipsos.com
+
+Junior Data Engineer
+
+Location: Culver City, Los Angeles California
+
+Division: Global Science Organization (GSO), Data Science & AI Lab
+
+The Data Science & AI Lab of the Ipsos GSO is a uniquely positioned group within Ipsos. We serve as the global R&D capability bridging data science with market research offerings. The team develops analytic tools, builds data science models for pilot studies and internal stakeholder analytics innovations, and consults on a broad range of data and research best practices. Working in a collaborative and supportive environment, we seek to expand what is possible in market research with data science.
+
+We’re looking for someone with a deep interest in technology, cloud services, and data and the dedication to apply that passion. We need someone that possesses the technical ability to write production-level code and deploy data science pipelines and tools for a diverse set of applications. The developer in this role will help the team build full-stack data offerings and scale them to the cloud. The position calls for an observant attention to detail, the ability to work well on a small team, and a self-starter approach to problem-solving and debugging.
+
+As a Data Engineer, you will:
+Work closely with team members on design of large-scale modeling efforts, contributing to cloud pipelines, including the containerization of current tools
+Collaborate on engineering new data science products by translating needs identified with stakeholders into analytic frameworks that can be built into polished user-facing tools
+Build, maintain, and enhance existing codebases
+Synthesize tech innovations and cloud scalability to elevate business value for clients, both current and prospective
+Validate, test, and maintain staging and production analytics environments in the cloud for data science teams globally
+Provide consulting for internal teams and clients on data architectures and schemas, data hygiene, and areas for improving process efficiency
+Requirements:
+High proficiency writing Python and JavaScript (preferably React), including the ability to produce and maintain reusable and modular codebases
+Bachelor’s degree
+Desire to work in a highly collaborative, fun, consensus-oriented environment.
+Attentive learner with excellent time-management skills
+Experience with deploying data models and processes in the cloud (e.g. GCP, AWS).
+
+
+Pluses:
+Experience with Linux server and system administration.
+Working knowledge of SQL and experience with database design and administration.
+Experience in analytics, extracting and surfacing value from quantitative data.
+Professional or academic experience with modern techniques and algorithms in machine learning and statistical computing (e.g. deep learning).
+Experience with collaboration tools (e.g. Atlassian suite) and version control systems (e.g. Git).
+Large dataset manipulation. Experience in distributed storage and computing.
+Experience with ReactJS, TypeScript/JavaScript, visualization libraries (e.g. d3.js).
+Experience creating and deploying web apps (e.g. Electron).
+Advanced degree (M.S., Ph.D.), but not required.
+Experience in the field of Market Research
+Ipsos is An Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, or any other protected class and will not be discriminated against on the basis of disability. For all future offer negotiations – please target April 6th or after for their start date.
+
+Required Skills
+
+Required Experience
+
+Job Location
+Culver City, US-CA

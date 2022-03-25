@@ -1,0 +1,25 @@
+Cirrus Logic's Hardware organization is seeking highly skilled Analog IC Design Engineers to join our team developing high-performance data converter IC's and amplifiers for consumer audio markets. In this position, your primary design focus will be delta-sigma ADC’s and DAC’s, but you will also have opportunities to participate in the design of various classes of amplifiers, DC/DC converters and other supporting circuitry in advanced CMOS processes. This is a meaningful position in a fun, challenging, and dynamic environment and provides excellent opportunities for personal and professional growth.
+
+Responsibilities
+Develop DACs; Headphone, Line and Speaker drivers; Proprietary Low-Voltage Line Drivers; DC/DC Converters; and other supporting circuitry in advanced CMOS processes.
+Participate in all aspects of the design, from concept to production
+Contribute to specification, architectural development, transistor-level design, SPICE, Matlab and Verilog (SystemVerilog, VerilogA, Verilog-AMS) modeling and simulation, layout supervision, post-layout simulation, chip-level verification, and lab validation.
+Develop PLL and low-jitter filters
+Required Skills and Qualifications
+MSEE degree with 5+ years or PhD with 3+ years in analog/mixed-signal IC development
+Hands on experience with Audio CODEC applications and circuits
+Organized, thorough, and detail-oriented with strong communication skills
+Ambitious with strong analytical and problem solving skills
+Ability to work with a sense of urgency and thrive in a dynamic environment
+In-depth experience with Matlab and System Verilog for modeling and simulation
+Preferred Skills and Qualifications
+Knowledge of discrete-time and continuous-time signal processing
+Experience in system and behavioral modeling
+Experience mentoring junior engineers
+Good silicon debug skills
+Understanding of layout
+Understanding of reliability concerns
+Prior experience with a variety of different CMOS processes and geometry nodes
+This position is located in Austin, TX
+
+Cirrus Logic is an Equal Opportunity/Affirmative Action Employer. We strive to select the best qualified applicant for any opening and to reward employees based on their skills, experience and performance. We do not discriminate on the basis of race, national origin, pregnancy status, marital status, gender, age, religion, physical or mental disability, medical condition, veteran status, sexual orientation, genetic information or any other characteristic protected by law.

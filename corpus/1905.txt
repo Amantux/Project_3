@@ -1,0 +1,37 @@
+Amyris has developed a high-throughput genetic engineering platform for designing and building custom microbes to serve as living factories. Using an industrial scale fermentation process, our microbes convert cheap sugars into a wide variety of high-value target molecules. Our end products directly impact millions of lives. We are pragmatic idealists seeking a profitable way to make the world a better place. We are convinced synthetic biology is here to stay and will have a major positive impact on our planet and everyday life.
+Within Amyris R&D, we are searching for a highly energetic, curious, and self-motivated data scientist with a strong background in statistics, computing and biology to join our Data Science and Computing team. Research at Amyris is a highly multidisciplinary effort that needs brilliant contributions from life sciences and engineering disciplines in order to take projects from concept to market. From hacking directly on DNA in the lab to full scale factory production, every aspect of our work is facilitated and accelerated by quantitative science and software & hardware automation. The Data Science and Computing team works hand-in-hand with bench scientists and builds tools that enable genome engineering, protein engineering, metabolic modeling, omics experiment analysis, statistical design of experiments and machine learning models in pursuit of making better microbial strains or fermentation processes. In short, we help accelerate the design-build-test-analyze cycle in synthetic biology.
+Key Responsibilities:
+Iteratively develop computational algorithms, analyses, visualization tools and machine learning models to meet evolving scientific needs and to aid rapid data-driven decision making while working with a variety of data types including: genotype (NGS), phenotype (metabolomics, proteomics, GC/MS, spectroscopy, fermentation), material flow
+Build version-controlled, computational workflows to analyze and model rich, high-throughput phenotype data
+Interact closely with a cross-disciplinary teams of biology, analytical chemistry, and fermentation scientists to build data science products
+Collaborate with automation engineers and software developers to mine experimental data and metadata from in-house enterprise systems
+Communicate algorithms, analyses, and results to both technical and general R&D audiences
+Required Qualifications:
+Degree in quantitative discipline such as computer science, mathematics, computational biology, electrical engineering, bioengineering or equivalent.
+Ph.D. plus 1-3 years experience, or M.S. plus 3-6 years experience.
+Minimum of 1-3 years experience analyzing & visualizing large scientific datasets representing biological & chemical phenotypes
+Intermediate (undergraduate level) understanding of biology topics including: genetics, cell physiology, biochemistry, evolution
+Experience with programming best practices (unit testing, CI/CD, etc) and version control while contributing to or maintaining large codebases
+Expertise with scripting programming languages (Python is preferred)
+Hands-on experience with machine learning frameworks and concepts
+Outstanding communication and interpersonal skills
+Ability to thrive in a fast-paced and intellectually rigorous environment
+Creativity, independent thinking, and passion
+Preferred Qualifications:
+Background in mass spectrometry informatics, high throughput sequencing, spectrophotometry, or industrial fermentation
+Experience in a microbiology or synthetic biology setting
+#LI-DJ1
+
+Amyris, a leader in industrial synthetic biology, uses its innovative bioscience solutions to achieve renewable products by converting plant sugars into hydrocarbon molecules. Amyris’ molecules are used in wide range of specialty & performance chemicals, flavors & fragrances and in applications ranging from cosmetics to biofuels. Learn more at www.amyris.com.
+
+Under the California Consumer Privacy Act of 2018 (“CCPA”), Amyris is required to inform California residents who are our job applicants (“Applicants”) about the personal information we collect about you when you apply to a job on this site.
+
+As an Applicant, you have the right to know and understand the categories of personal information we collect about you, and the purposes for which the categories of personal information shall be used, pursuant to the CCPA.
+
+By clicking the “APPLY FOR THIS JOB” button below and submitting your job application, you agree you have reviewed the complete Privacy Notice for Employees, Independent Contractors and Job Applicants.
+
+If you have any questions regarding this information, please contact Amyris at privacy@amyris.com
+
+As a VEVRAA Federal Contractor, Amyris is an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, sex, color, religion, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law. Amyris complies with applicable state and local laws governing nondiscrimination in employment.
+
+If you are a recruiter or placement agency, please do not submit resumes to any person or email address at Amyris, Inc. prior to having a signed agreement. Amyris is not liable for and will not pay placement fees for candidates submitted by any agency other than its approved recruitment partners. Furthermore, any resumes sent to us without an agreement in place will be considered your company’s gift to Amyris and may be forwarded to our recruiters for their attention.

@@ -1,0 +1,67 @@
+Type of Requisition:
+
+Regular
+
+Clearance Level Must Currently Possess:
+
+Top Secret/SCI
+
+Clearance Level Must Be Able to Obtain:
+
+Top Secret SCI + Polygraph
+
+Suitability:
+
+Polygraph
+
+Public Trust/Other Required:
+
+Job Family:
+
+Systems Engineering
+
+Job Description:
+
+GDIT is your place. You make it your own by embracing autonomy, seizing opportunity, and being trusted to deliver your best every day. We think. We act. We deliver. There is no challenge we can’t turn into opportunity. And our work depends on TS/SCI level cleared Geospatial Data Engineer joining our team to support our Intelligence customer in Springfield, VA
+
+The Geospatial Data Engineer is required to extract and/or acquire geospatial information, derivative information and multi-INT data for analysis and visualization to solve problems and enhance the knowledge of NGA missions. This also includes extracting specific feature data in accordance with the NGA Feature Data Specifications, project specific guidance, and other NGA data and product specifications.
+
+Required Skills
+BS/BA and 8+ years of experience or equivalent years of education and experience
+At least 3+ years of experience in engineering and managing spatial data infrastructure to include both proprietary and open source technologies. This includes experience conducting data transformations between spatial data formats, QA/QC on data, understanding NSG data schemas, database management, and managing OGC compliant web services.
+Must have a strong background in Relation Database Management System (RDBMS) and NoSQL concepts and tools to include firm understanding of SQL and Python syntax for ETL workflows.
+Must be comfortable working in a linux shell environment as well as standard GUI management tools.
+Prior experience deploying and using PostgreSQL and Postgis extension to manage spatial data.
+Prior experience deploying and managing open source spatial data web servers such as GeoServer, MapServer, TileserverGL, or similar to enable OGC compliant web services.
+Comfortable using GDAL, GRASS, GeoPandas, Rasterio, or other open source geoprocessing applications and tools.
+Prior AWS Development or DevOps experience. Prior Elasticsearch experience creating and managing indexes.
+Must have a Secret clearance and/or eligible for TS/SCI clearance
+Job Duties
+Create, update, and manage geospatial information system databases and products.
+Obtain, compile and assess geospatial data sets to support requirements.
+Collaborate with analysts and customers as required.
+Use a variety of geospatial analysis software suites to accomplish the mission.
+Provide geospatial analysis services in the form of datasets and visualization products
+#GDITPriority
+
+Scheduled Weekly Hours:
+
+40
+
+Travel Required:
+
+None
+
+Telecommuting Options:
+
+Telecommuting Not Allowed
+
+Work Location:
+
+USA VA Springfield
+
+Additional Work Locations:
+
+We are GDIT. The people supporting some of the most complex government, defense, and intelligence projects across the country. We deliver. Bringing the expertise needed to understand and advance critical missions. We transform. Shifting the ways clients invest in, integrate, and innovate technology solutions. We ensure today is safe and tomorrow is smarter. We are there. On the ground, beside our clients, in the lab, and everywhere in between. Offering the technology transformations, strategy, and mission services needed to get the job done.
+
+GDIT is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status, or any other protected class.

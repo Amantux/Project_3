@@ -1,0 +1,58 @@
+Data Engineer in Philadelphia, PA 19103
+
+Interview Logistics:
+
+WebEx Interview
+
+Required Skills Set:
+
+Years of Experience:4+
+
+Education Required:Bachelors Degree
+BS/MS degree in Computer Science, Mathematics, or other relevant science and engineering discipline.
+4+ years working as a software engineer.
+2+ years working within an enterprise data lake/warehouse environment or big data architecture.
+Excellent programming skills with experience in at least one of Python, Scala, Java, Node.js.
+Great communication skills.
+Proficiency in testing frameworks and writing unit/integration tests
+Proficiency in Unix-based operating systems and bash scripts.
+Additional Preferred Skills:
+Experience with working in Spark
+Experience with AWS
+Experience with monitoring and visualization tools such as Grafana, Prometheus, Data Dog, and Cloudwatch.
+Experience with NoSQL databases, such as DynamoDB, MongoDB, Redis,Cassandra, or HBase
+Project Description:
+
+Join a multi-disciplinary team of devops engineers, software engineers, data analysts, and data scientists working together to improve the user experience.
+
+Do you likebigchallenges and working within ahighly motivatedteam environment?As a data software engineer on the Data Science and Engineering team within the organization, you will be part of a team that thrives onbigchallenges, results, quality, and agility. You will work closely with business stakeholders, data analysts, and data scientists within the organization developing software solutions helping to deliver insights into customer and network behavior that drive business decisions shaping the future of the company.
+
+Who does the Data Engineer work with?
+
+You will collaborate with a diverse set of professionals ranging from software engineers whose software integrates with analytics services, network architects and engineers who are tasked with evolving the network, service delivery engineers who provide support for our products, data analysts and data scientists distilling key insights from massive amounts of raw data, operational stakeholders with all manner of information needs,and executives who rely ondatafor fact-based decision making.
+
+What are some interesting problems you'll be working on?
+
+Develop large scale, cloud based data pipelines for the collection and processingof device telemetry and network events, providing both a real time and historical view into the operation of our products and services.Work on high performance, real time data stores and a massive historical data sets usingbest-of-breed and industry leading technology. Expose services over REST APIs. Work closely with various engineering teams to solve key optimization, insight and access network data challenges.
+
+Where can you make an impact?
+
+The Data Science and Engineering teamis acquiring, studying, simulating, and modeling to enable data as a key driver and core functional component toward better understanding, predicting, and dynamically optimizing the access network to improve overall user experience. Success in this role is best enabled by a broad mix of skills and interests ranging from traditional distributed systems software engineering prowess to the multidisciplinary field of data science.
+
+Responsibilities:
+Developing large scale data pipelines exposing data sources within the company to our team of data analysts and data scientists.
+Developing REST APIs utilizing AWS lambda and API Gateway.
+Developing Spark streaming and batch jobs to clean and transform data.
+Writing build automation to deploy and manage cloud resources.
+Writing unit and integration tests.
+Some of the specific technologies we use:
+Programming Languages (Python, Scala, Golang, Node.js)
+Build Environment: GitHub Enterprise, Concourse CI, Jira, Serverless, SAM
+Cloud Computing (AWS Lambda, EC2, ECS)
+Spark(AWS EMR, Databricks)
+Stream Data Platforms: Kinesis, Kafka
+Databases: S3, MySQL, Oracle,MongoDB, DynamoDB
+Caching Frameworks (ElasticCache/Redis)
+Physical Environment and Working Conditions:
+
+Must be able to work on site in Philadelphia after coronavirus restrictions are lifted.

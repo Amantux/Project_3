@@ -1,0 +1,46 @@
+We are looking for data analysts, data wranglers, data scientists with excellent leadership, technical, and subject matter expertise qualities. We are bringing together data sources from disparate sub-agencies into an enterprise platform to make available on open-data platforms.
+
+To boot, we want our analysts to be natural change agents and passionate about change while empathetic to the clients environment on how they leverage, mature, and incorporate data products, services, and new capabilities. We want leaders who can both support the influence of the right change direction while managing the technical and business analysis and design, and are skilled and self-motivated with solid domain/subject matter expertise.
+
+Our analysts will be on teams that through facilitated analysis, work shoulder-to-shoulder with the clients and our project leadership to get this raw, and sometimes unstructured data into the platform in agile releases. Furthermore, we are working with the extended part of the overall team to devise and craft strategies and communications solutions to broadcast and brag about their change efforts and results.
+
+This is what we do – we bring transformations to life.
+
+Position Requirements:
+
+You will be expected to rapidly ramp-up on Client lingo, proactively make observations of patterns, anomalies, problems, and are customer service focused on being accountable and decisive and able to rapidly respond to change requests. We expect you to be proactive, efficient, and ready to learn quickly, and rapidly in response to all team member needs.
+
+The earlier project goals will be to maintain/update existing ETL scripts primarily in node.js. Soon thereafter, additional new datasets will requiring implement new ETL and automated ETL jobs using a job scheduler (i.e. CRON, AT) for likely 15 data sources in staging environment (linux) based on design from project technical lead. Within the first half of the year, likely a total of 40 datasets, with increasing complexity will require the same level of effort as well as design and additional and documentation of the transforms, implement ETL scripts as well as participating in design of improved data maintenance solution. Some data will be raw, so being creative in problem-solving while meeting client tight goals will be very important. Finally, the project over the period will provide technical support to startup teams for data and open data portal API (Socrata). This will include configuring help desk ticketing solution and resolve tickets and contribute data analyst content to company best practices to help increase quality and pace of responses.
+
+We want to not only gain your technical solutions, but we also want to leverage and grow your interactive and client facing skills. All roles will require strong communication and interactive skills - oral, written, visual especially for triaging conflict, ideation barriers, mitigating risk, foster thought diversity and team environment. The scope will change, so we expect the role to adapt to change and manage expectations, be goal-oriented and self-motivated, and have a customer-oriented (consulting mindset, not "the code works in my environment"). The team likes to coach and explore, so we are looking for life-learners, inherently curious, team players, cooperative, reliable, dependable – basically, you need to rock, but not be a prima-donna rock star.
+
+We expect all our roles to have a mastery of their technical level at their role whether that be in architectural methods, work products, consulting techniques, and client culture. If they are not, they need to demonstrate how they are VERY fast learners.
+
+For the technical prowess, we will want you to demonstrate your data science nerd-dom and technology stack as part of normal vernacular in one or many of these stacks (with the first being default requirement):
+Knowledge of software development and computer science fundamentals.
+Must be experienced in Node.js, OpenRefine, SQL, FTP
+Proficient in at least one common programming language (Node.js, Java, Ruby, C sharp, Python, PERL, PHP, javascript )
+Experience with ETL solutions and technologies – SQL, XML, JSON, GeoJSON, Informatica, Kettle, OpenRefine, SAFE/FME, GeoKettle, jQuery, regular expressions, data types and standards, geospatial data.
+Basic understanding of Linux shell commands, web application architectures, IP networks, version control (SVN, Git).
+Additional credit for GIS transformation: PostGIS, RDBMS/DBA, Esri/ArcGIS, Data Science / Analytics (BI tools, NoSQL, R, MatLab), GEOJson, K-Means, Nearest Neighbor, Anselin Local Moran's, Monte Carlo Simulation, Mantel Index, Standard Deviational Ellipse, GeoServer, ESRI/Hadoop
+Candidate should be expert in one of the disruptions cited on the Xentity Home page
+1 year of consulting experience – Higher Compensation for additional 3 more years in related analytical work products and additional 2 more years in subject matter
+Could pass ad-hoc technical and whiteboard test given various data ETL and other patterns of real-time, large data, data cleanup, etc. scenarios
+Our work is traditionally unclassified, but will require certain amount of background, reference, and other checks
+Travel will be local in-state only and require on-site work.
+We emphasize a balance of work and life and target 40-50 hour weeks with ample times to refresh with great paid-time off.
+Opening expected: Summer
+
+We review our requirements quarterly and this could change. We like to plan ahead in finding amazing talent.
+
+About Xentity
+
+We provide Competitive Salary, Industry Leading Bonus Programs, and additional full suite of benefits and perks. Culturally, we focus on impacting our clients with delivering early, fast and quality with a team culture. In doing so, We emphasize a balance of work and life and target 40-50 hour weeks with ample times to refresh with great paid-time off. Check out more on our package and benefits of working at Xentity : https://www.xentity.com/careers/
+
+We are a fast-growing data consulting and support services firm - focused on large data programs in data types such as geospatial, open, big, and IoT data. Check out www.xentity.com to learn about our focus, services, clients, missions, values as well as our excellent benefits package and career information.
+
+We have high profile clients and projects that our staff really deliver for, as well enjoy knowing they make a large difference.
+
+Our President has a vision to continue to focus on solutions that transform the Next Generation. Using data integration, knowledge solutions, and amazing increases in computing to impact energy, geosciences, land management, we can bring quality and simplifications to existing and new data flow! Imaging being on a team that brings advanced concepts like high performance computing, AI, data science, fuzzy logic, changing interfaces human-computer points mobile or augmented reality and many more disruptions. This truly can put the I back in IT and GIS.... by concentrating on pragmatic knowledge-first data designs, leadership and management, and the all too forgotten focus on outreach and engagement strategies and solutions.
+
+More can be found at careers.xentity.com

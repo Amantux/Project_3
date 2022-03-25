@@ -1,0 +1,27 @@
+Big Data Engineer
+
+Location: Phoenix, AZ
+
+Long term contract
+
+JD:
+
+Big Data Engineer:
+
+This engineer will help us build an ingestion pipeline designed to get data ingested from various data bases and source systems into our new big-data environment being built on Azure.
+
+Essential Duties and Responsibilities:
+Day to Day support of existing data ingest jobs
+Creation, support, and scheduling of ingestions from new sources
+Ongoing data engineering and enhancements to data sets within the environment
+Qualifications
+Proficient with big data technologies
+Hive, Pig, HBase, MapReduce
+Experience with open source ingestion tools
+Sqoop, Flume, Spark streaming, Kafka, Nifi
+Proven experience building real-time steaming data sets
+Experience working with and performing analysis using large data sets
+10-1000 TB
+Familiarity with common data science toolkits, such as R, Jupyter, & Python
+Previous experience with traditional databases such as: Netezza, MySQL, Teradata, Oracle, etc
+Preferred Experience with Azure products: Azure Data Lake Store, Azure HD Insights, Cosmos DB, PowerBI

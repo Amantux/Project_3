@@ -1,0 +1,30 @@
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.More than 4 billion video views take place on Facebook every day. As Facebook continues to grow and connect people through video, supporting video creators with monetization opportunities is essential to develop a strong video ecosystem. Monetization means video creators can post more engaging content for users, giving them new ways to connect on Facebook. The In-stream Ads team strives to make Facebook the best place for video by creating innovative and relevant ad monetization experiences for people, video creators, and advertisers.We are looking for a strong Data Scientist to partner with our In-stream Ads Advertiser Demand and New Ad Formats teams. These teams develop innovative solutions to increase demand for in-stream ads from advertisers while optimizing the video viewer experience so that ads are less interruptive for users and are supporting the most valuable video content. This includes experimenting with new ways to deliver ads while analyzing the broader ecosystem impact across surfaces on FB (News Feed and Watch) of changes in monetization.An ideal fit for this role is a Data Scientist with deep technical knowledge and expertise in quantitative analytics and experimental design (e.g. statistical inference, hypothesis testing, prediction modeling), with the ability to turn data into business insights. Excellent communication and leadership skills will be essential to influence the strategic decisions about the future of video monetization. The data scientist must be able to operate autonomously and scope out large analytical projects that deliver impact.
+
+Responsibilities:
+
+Apply your expertise in quantitative analysis, data mining, and the presentation of data to drive insights related to video monetization
+Define problems and identify new opportunities in a complex and ambiguous area
+Design and evaluate experiments to understand trade-offs and make launch decisions
+Inform, influence, support, and execute our product decisions and product launches
+Partner with a cross-functional team to solve problems and identify new levers to improve user experience
+Monitor key product metrics, understanding root causes of changes in metrics
+Influencing product teams through presentation of data-based recommendations, and clearly communicating state of business, experiment results, etc. to product teams
+Mininum Qualifications:
+
+Advanced degree in Statistics, Mathematics, Economics, Business, Computer Science or other quantitative fields, or equivalent practical experience
+7+ years of experience solving analytical problems using quantitative approaches
+Communication and data presentation skills
+Experience in SQL, R, Python or other statistical programming languages
+Understanding of statistics (e.g., hypothesis testing, statistical inference, regressions, ML systems)
+Experience communicating the results of analyses to influence the strategy for a product
+Preferred Qualifications:
+
+PhD in Statistics, Mathematics, Economics, Business, Computer Science or other quantitative fields with 5+ years of work experience
+Experience working in the video or advertising industries
+Outstanding communication skills
+Experience visualizing data in a meaningful way to tell a story
+Experience building and training statistical models
+Experience designing and evaluating complex experiments
+Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.
+
+Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.

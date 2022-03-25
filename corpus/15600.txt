@@ -1,0 +1,48 @@
+LMI is a government consulting firm, dedicated to advancing the management of government. We operate free of political and commercial bias, and we gauge our success by the mission outcomes we enable our government clients to achieve. Our clients value our objectivity, deep government IQ, and expertise in logistics, analytics, information technology, and management consulting. We seek talented, hardworking people who share our passion for public service and want to join us in solving the most pressing challenges in government management.
+LMI is currently seeking an innovative, experienced, and highly-skilled Data Scientist to join our growing Advanced Analytics team. In this role, you will create and develop custom solutions for our users in a collaborative, fast-paced, state-of-the art environment. To be successful in this role, you will be thorough, creative, and exceptionally well-skilled in all phases of the development lifecycle, with a passion for continued learning and collaboration.
+*This position is located in San Antonio and requires an active TS w/SCI Eligibility clearance*
+*Also looking for candidates in these locations: Charlottesville, Fort Bragg (NC), Fort Gordon (GA), Ft. Meade, Hawaii, San Antonio, Germany, Italy, South Korea
+
+5+ years applying statistics, machine learning and analytic approaches to answer key intelligence questions, producing results and re-usable products that provide real value to Intelligence Analysts. Contractor shall develop and refine date sets to achieve stakeholder goals and objectives as requested.
+Work with analysts to interpret analytic results and refine analysis as needed.
+Apply machine learning techniques to identify and transform data features, find hidden patterns and trends, build and optimize classifiers, create automated anomaly detection systems, and automate steps of the intelligence process.
+Evaluate statistical models to determine the validity of analyses, implement evaluated models into production by collaborating with software developers, periodically re-evaluate and refine machine learning models being used in production.
+Coordinate with Data Analysts to refine and implement models and monitor outcomes.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+Communicate results and ideas to key decision makers, analysts and other stakeholders. Contractor shall advise on the interpretation and use of data intelligence products, quality assessments and applications.
+Collaborate with Intelligence Analysts to understand needs and devise possible solutions.
+The Contractor shall:
+Conduct technical reviews and develop appropriate materials to training system users and Instructors in preparation of operational deployments.
+Assess training requirements based on current system and functional baseline. Develop training artifacts in support of operations including Standard Operating Procedures (SOPs), and Tactics, Techniques and Procedures (TTPs).
+Languages, Tools, and Techniques
+Demonstrated proficiency with R or Python, and SQL to manipulate data and draw insights from large and small data sets.
+Demonstrated proficiency in a variety of supervised and unsupervised machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Demonstrated proficiency in advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+Demonstrated proficiency with common data science libraries.
+Demonstrated proficiency visualizing/presenting data for stakeholders.
+Demonstrated proficiency with MS Office tools
+including Excel, PowerPoint, and Word.
+Demonstrated proficiency with AWS, in particular products related to: analytics, compute, database, developer tools, and machine learning.
+Skilled data wrangler.
+Experience with database solutions including SQL, NoSQL (e.g. MongoDB) and graph (e.g. Neo4j).
+Experience with data visualization tools, such as D3.js, ggplot, Bokeh, etc.
+Capability to recognize when Data Science can add value to an intelligence problem, and when it cannot.
+Ability to translate an intelligence problem into a Data Science problem, and to work with the Intelligence Analysts and ACE Chief to refine understanding of the problem.
+
+Active TS/SCI clearance
+MS in Data Science, Statistics, Applied Math, or related field.
+2 years leading data science projects is desired and 5 years intelligence analysis experience is desired.
+Experience working with platforms such as Scala, Python, Java, R
+5+ years of related experience required
+Advanced data science experience required
+Significant experience with databases
+Experience and familiarity with Agile-Scrum software development
+Experience gathering and decomposing requirements
+Proven record of solution development and deployment
+Familiarity with web-based application development
+Experience with testing, use case, and user stories
+Outstanding communication skills, written and verbal
+Highly organized and able to manage multiple projects simultaneously
+Team-player mentality with a positive attitude
+Keen attention to detail and solid analytical skills
+Able to articulate complex, abstract concepts concisely and effectively

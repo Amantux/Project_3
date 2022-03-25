@@ -1,0 +1,44 @@
+Databases are the beating heart of every business in the world.
+
+Cockroach Labs is the team behind CockroachDB, an open source, distributed SQL database. In addition, to the open source version of the DB we offer CockroachCloud, a self-service, fully managed cloud offering of CockroachDB. We aim to build infrastructure that keeps pace with the world, so developers can focus on what matters most: building the best products. Join us on our mission to Make Data Easy.
+
+About the Role
+
+We're looking for an experienced Data Engineer to join our team. We collect data on the usage of CockroachCloud and CockroachDB. This data will feed into our Product, Sales, and Support decisions. You will be the founding member of our Data Engineering team, where you will provide the future roadmap of data collection at Cockroach Labs
+
+You Will
+Providing and maintaining the code for the collection and processing of data related to CockroachCloud and CockroachDB.
+Implementing the schema design for our Data Warehouse to facilitate business insights and product operations.
+Managing ETL pipelines, workflows to collect, process, and load data into tools such as Segment, Snowflake, Looker, Salesforce, and Zendesk.
+Collaborating with Product, Marketing, Design, and Engineering to help drive adoption of our product.
+The Expectations
+
+In the first month, you will become an integrated member of our engineering team. You'll become familiar with the data we collect to drive our product decisions and run our operations. We believe it is important to understand how people use CockroachCloud and CockroachDB in order to build a product our users and developers love.
+
+After 3 months, you'll be a fully-fledged member of the team. You will be comfortable with the data collection needs of the company and are shaping their best practices. You will be responsible for determining how we can get the data needed to answer questions posed about the product and the future of the product roadmap. You will be the founding member of our Data Engineering team, where you will provide the data processing roadmap at Cockroach Labs.
+
+You Have
+A passion for working on complex technical products, have experience collecting and processing large amounts of data and determining its underlying meaning.
+Comfort using programming languages like Go, C/C++, Java, and Python. Experience building collaborative relationships with your colleagues. You enjoy being part of the code review process and partnering with your teammates on challenging problems.
+Comfort with SQL style query languages.
+Experience with tools used to collect telemetry data.
+5 or more years experience with data collection pipelines and schema design.
+A BS in Computer Science or equivalent experience.
+The Team
+
+Reporting to Kendra Curtis - Director of Engineering, CockroachCloud
+
+Kendra has 20+ years of experience in all levels of the software stack, from early days writing firmware for wireless networking products at Wi-LAN, to managing teams of developers building Web Applications at Google. Kendra worked on Google's early data centers. She was a member of the Management team responsible for the integration of DoubleClick (DCLK) into Google. She was a Co-founder and CEO of Scout It Out, a listing service for Rehearsal Spaces. Kendra joined Cockroach Labs because she loves building great teams and values work-life balance. Outside of work she enjoys skiing, acting, and walking in the park with her dog, Lady.
+
+Isaac Wong - VP of Engineering
+
+Isaac is responsible for the health of the engineering organization at Cockroach Labs. He partners closely with teams to ensure we have a balanced culture that promotes quality and innovation in pursuit of our goals. Before joining Cockroach Labs Isaac was in life sciences for 16 years with Medidata Solutions where he had a front row seat on the exciting ride from a 30 person startup to more than 2000 people worldwide. But the lure of distributed, resilient, and consistent SQL databases, along with the amazing technology and culture at Cockroach Labs proved too much. When not working he likes to draw, play the piano and search NYC for cannolis with his wife and kids.
+
+Our Benefits
+100% health insurance option (for you and your dependents!)
+Paid parental leave (with baby bucks)
+Flex Fridays
+Flexible time off & flexible hours
+Learning and Development budget
+Relocation support
+Cockroach Labs is proud to be an Equal Opportunity Employer building a diverse and inclusive workforce. If you need additional accommodations to feel comfortable during your interview process, please email us at accessibility@cockroachlabs.com.

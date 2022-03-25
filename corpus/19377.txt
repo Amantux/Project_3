@@ -1,0 +1,22 @@
+About Ethos
+
+Ethos was built to make it faster and easier to get term life insurance. Our approach blends industry expertise, technology, and the human touch to find you the right policy to protect your loved ones. Using predictive analytics, we are able to transform a traditionally 15-week process into a modern digital experience for our users.
+
+Our investors include Sequoia Capital, Accel Partners, Google Ventures, Jay-Z, Kevin Durant, and Robert Downey Jr. We are listed as Forbes' Top 50 Fintechs of 2020 as well as featured on VentureBeat for raising $60m in our series C funding. We are scaling quickly and looking for passionate people to protect the next million families.
+
+Ethos is an extremely data driven company. We take every decision backed by data. Making data and insights available to everyone in the company is the mission of data engineering team. You will work with some of the brightest people helping drive infrastructure and insights to disrupt one of the oldest and largest industries in the country.
+
+Duties and Responsibilities:
+Build realtime data pipelines to ingest structured and unstructured data into data warehouse
+Build ETL pipelines using Airflow to drive analytics, reporting and machine learning
+Build and maintain data governance, classification and dictionary
+Constantly improve A/B test framework and reporting
+Support leadership and every single team with research on key business initiatives and challenges
+Qualifications and Skills:
+5+ years of experience with Python
+5+ years of solid software engineering experience
+5+ years of experience with ETL and Data Pipelines
+5+ years of experience with Airflow, Hive, Presto, AWS
+Comfortable with navigating complex topics and using data to make decisions
+Excellent communication, presentation, and interpersonal skills
+Everyone is welcome at Ethos. We are an equal opportunity employer who values diversity and inclusion and look for applicants who understand, embrace and thrive in a multicultural world. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. Pursuant to the SF Fair Chance Ordinance, we will consider employment for qualified applicants with arrests and conviction records.

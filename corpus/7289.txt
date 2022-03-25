@@ -1,0 +1,77 @@
+Design shared data pipelines for neuroscience labs and beyond. Work with groups of neuroscientists to understand their domain requirements and design data pipelines using the DataJoint framework. This will include traveling to clients’ labs to configure accounts and local and cloud-based servers, teaching database programming and use to diverse audiences, working with clients to design data pipelines for MATLAB and Python, and providing remote support. This may include custom code development to interface clients’ existing data acquisition systems. Generate documentation, tutorials, and presentations.
+
+Both entry-level and experienced candidates will be considered. Located at the Texas Medical Center Innovation Institute (TMCx) in Houston, TX.
+
+Required skills/Experiences:
+
+Excellent communication skills: presentations, work in groups, writing tutorials and manuals
+
+Deep understanding of the Relational Data Model: theory and practice
+
+Proficiency in Python
+
+Proficiency in MATLAB
+
+Experience with data processing pipelines
+
+Relational database design
+
+SQL
+
+Server configuration
+
+OS experience: Linux (Ubuntu, Debian, RedHat/CentOS), MacOS, Windows
+
+Desirable:
+
+Research experience in computational neuroscience or other data-intensive science fields
+
+Statistical analysis, signal and image processing
+
+LabView
+
+Shell programming, system-level coding
+
+AWS
+
+Docker
+
+ 
+
+Design shared data pipelines for neuroscience labs and beyond. Work with groups of neuroscientists to understand their domain requirements and design data pipelines using the DataJoint framework. This will include traveling to clients’ labs to configure accounts and local and cloud-based servers, teaching database programming and use to diverse audiences, working with clients to design data pipelines for MATLAB and Python, and providing remote support. This may include custom code development to interface clients’ existing data acquisition systems. Generate documentation, tutorials, and presentations.
+
+Both entry-level and experienced candidates will be considered. Located at the Texas Medical Center Innovation Institute (TMCx) in Houston, TX.
+
+Required skills/Experiences:
+
+Excellent communication skills: presentations, work in groups, writing tutorials and manuals
+
+Deep understanding of the Relational Data Model: theory and practice
+
+Proficiency in Python
+
+Proficiency in MATLAB
+
+Experience with data processing pipelines
+
+Relational database design
+
+SQL
+
+Server configuration
+
+OS experience: Linux (Ubuntu, Debian, RedHat/CentOS), MacOS, Windows
+
+Desirable:
+
+Research experience in computational neuroscience or other data-intensive science fields
+
+Statistical analysis, signal and image processing
+
+LabView
+
+Shell programming, system-level coding
+
+AWS
+
+Docker

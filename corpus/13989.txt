@@ -1,0 +1,35 @@
+ABOUT GLEAN (currently in stealth mode)
+
+After managing vendor expenses, wrangling budgets, and feeling the pain of wasted money due to poor visibility + manual processes at previous companies, we started dreaming about a better way to manage spend.
+
+Welcome to Glean - a data-powered spend intelligence
+solution that saves companies money by providing complete up-to-date visibility, line-item level insights, anomaly detection, and the tools you need to action on them: approvals, payments, forecasting, benchmarking, and more.
+
+We are a data-first startup, well funded by leading VCs, with an ambitious mission and a growing waitlist! Our culture is rooted in experimentation, intellectual curiosity, and openness — providing the ownership and opportunity needed to learn, to grow, and to make something awesome together.
+
+Join us!
+
+ABOUT THIS ROLE (REMOTE APPLICANTS OK)
+We are building the next billion-dollar business in enterprise SAAS. We have an amazing founding team, with experts in product, engineering, data science, and machine learning, and we just launched our MVP. We are now searching for a data scientist that will own the core data science work, build NLP applications, and generate insights from the very rich data we collect.
+
+Here are some of the major items you will own at Glean:
+Data science code to clean and prepare the data extracted from invoices, including handling nulls, addressing exceptions, imputing data (when possible), and enriching data using third-party APIs
+Data science code to validate the goodness of extractions performed by the ML models + human in the loop
+Collaborate with vendors to perform OCR and text classification
+Develop NLP models to map the extracted data to our canonical taxonomy of vendors and line items (e.g., using word embeddings, etc.) at scale
+Once the data has been mapped to the canonical taxonomy, perform feature engineering, generate insights, detect anomalies, and surface the intelligence in a digestible format to the end user
+You will work closely with the data engineers to productionize the data science and machine learning code that is developed, and you will work closely with the engineering team to make sure the data science and machine learning pipelines are performant in production.
+
+PERFECT FIT
+
+You're a perfect fit for the Glean Team if…
+You want to join an early-stage startup or you are extremely anxious to be challenged at your first startup
+You are passionate about building / leading data science teams and rapidly developing data pipelines at various stages of growth
+You pride yourself in communicating complex concepts, including the ability to distill intricate workflows and systems into clear processes and decisions with measurable company-wide impact
+You ask “why” a lot and use critical thinking and data to back up your intuitions. You hate when a customer struggles through your product experience
+Qualifications
+3+ years of experience in Python, Data Science, Machine Learning, and NLP
+2+ years of experience with Spark, coding in either PySpark or Scala
+Have built and deployed deep learning models using TensorFlow and/or PyTorch
+Are well versed in NLP
+Experience with Unsupervised Learning is a bonus

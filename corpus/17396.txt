@@ -1,0 +1,53 @@
+Job DescriptionThe Security Analytics Data Engineer will interface with security Big Data environments, aiding in their design and configuration, to analyze and present findings within them. The security engineer is expected to work independently with internal clients and management on information security issues and strategies, manage new and existing requirements and fully document processes and solutions. This role will require a deep understanding of security constructs in addition to a wide array of technologies to effectively perform the duties expected. This position will interface with several products and technologies, including not limited to: MSSQL (SSRS/SSIS/SSDT), Python, Splunk, ELK stack (Elastic, Kibana, Logstash), MongoDB/NoSQL, OLAP cubes, DLP, Tanium, MySQL, Oracle, among others. In addition, design and developing of portals, processes and procedures will be required for incident response and security reporting.
+
+Job Specific Responsibilities
+Perform analysis across various data sets to identify baselines, working towards defining a predictive capability
+Monitor, maintain and refresh production machine learning models
+Identify data sources both internally and externally that can be used to improve insight into activity, implement data exploration technologies accordingly
+Analyze data to enable a better understanding of each data source
+Create presentation dashboards and implement analytical tools to enhance action of the discoveries
+Aid in design, development, and management of a large scale Elastic/ELK environment including data ingestion capabilities and underlying infrastructure
+
+Candidate Requirements
+Fundamental knowledge of firewalls, networking, operating systems, databases, and storage, both at a functional level to understand data that is in scope
+Experience with Big Data frameworks (Elastic/ELK preferred), querying tools and analytics tools in a large scale implementation in an Enterprise environment
+Regex/Scripting/programming/RDBMS knowledge (shell, batch, perl, python, php, Oracle, MSSQL, others)
+Data modeling and schema design
+Must have excellent verbal and written communication skills with experience presenting information to groups
+Must have strong analytical, technical, and problem solving skills
+Ability to demonstrate leadership qualities and skills, including independent decision-making abilities.
+Ability to manage time and priorities with multiple tasks and projects.
+Ability to work with loosely defined requirements.
+Self-starter mentality and the ability to think outside the box.
+
+Preferred Qualifications
+10+ yrs. of related IT experience
+3+ years MS SQL, SSDT
+Reporting Experience a big plus (SSRS, Power BI, Kibana, Tableau)
+Web Development Experience desired
+3+ years of Big Data platform experience (ELK, Mongo, Hadoop, et al.); Design, management and operation
+Expert knowledge of Unix/Linux (RHEL preferred) and/or Windows OSes, including infrastructure Engineering and Support
+MS preferred or Bachelors Degree with equivalent work experience and appropriate certifications
+Strong understanding of how technology relates to business, market and industry and applies knowledge to support the needs of critical systems and projects.
+A solid understanding of Network and Endpoint Systems Scanning
+Experience with repository management systems (GIT, etc).
+Experience with SIEM (Security Information and Event Management) systems, and security event correlation or other Information Security models.
+Experience with enterprise-scale operations and maintenance environments
+
+PDS Tech, Inc. is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, age, marital status, pregnancy, genetic information, or other legally protected status.
+
+Founded in 1977, PDS Tech, Inc. is one of the nation's premier specialty staffing firms with 31 offices nationwide. We offer a full range of benefits including:
+
+• Health insurance
+• Paid holidays
+• Weekly payroll
+• Immediate 401(k) eligibility
+• Completion Bonuses
+• Training
+• Please note availability of benefits may vary by position
+
+PDS specializes in Engineering and IT arenas including Aerospace, Defense, Electronics, Telecommunications, Automotive, and Energy just to name a few. Our reputation, track record, and years of continuous growth reflect the commitment to quality that our employees and clients experience first-hand. To find out more about PDS, please visit www.pdstech.com
+
+$$$ PDS pays for referrals! $$$
+
+Job Requirements:

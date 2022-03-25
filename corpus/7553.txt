@@ -1,0 +1,35 @@
+TAE Technologies, Inc, formerly known as Tri Alpha Energy, has a national lab sized research program in high beta magnetically confined fusion plasmas, based around the advanced, beam driven, Field Reversed Configuration. It has built and is operating the new C-2W experiment, aka Norman, which is one of the largest fusion plasma experiments in the United States. The goals of C-2W are to push high beta fusion plasmas into new parameter regimes and to guide the design of future fusion power plants. With its vast diagnostic suite, C-2W is an ideal and fertile testing ground for new plasma theory and simulation.The Data Science organization at TAE is looking for a talented individual to help us tackle some of the world’s biggest challenges.
+
+Essential duties and responsibilities include, but are not limited to:
+
+Help plan, develop, deploy, and maintain the entire Data Science pipeline at TAE: from acquisition and storage to processing and visualization.
+
+Aid in our efforts to distil raw data into knowledge by iterating with scientific staff and domain experts to convert prototype algorithms into robust scientific data processing routines.
+
+Responsible for all stages of the software product life cycle – planning, analyzing, coding, debugging, testing, deployment, and maintenance.
+
+Can easily, effectively, and successfully work on multiple tasks both independently and collaboratively within a group.
+
+ Required Education:
+
+Required Education: M.S. in plasma physics or related field
+
+Preferred Education: Ph.D. in plasma physics or related field
+
+Required Experience:
+
+3+ years developing in python
+
+Experience using common python data analysis and visualization packages such as NumPy, SciPy, Pandas, and Matplotlib.
+
+Able to work in a diverse R&D environment and communicate effectively and professionally with co-workers at all levels
+
+Passion for data integrity as this is central to what we do as a group.
+
+Preferred Experience:
+
+Familiarity with one or more Machine Learning libraries like Scikit-Learn, TensorFlow, and/or Keras
+
+Exposure in applying Bayesian statistical inference tools to experimental data
+
+Familiarity and comfort using the command line

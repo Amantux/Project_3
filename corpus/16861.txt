@@ -1,0 +1,31 @@
+Posted: Jul 7, 2020
+Weekly Hours: 40
+Role Number:
+200177904
+Apple's Online Retail Analytics team is looking for a hardworking Machine Learning Engineer who is passionate about crafting, implementing, and operating production machine learning solutions that have direct and measurable impact to Apple and its customers. You will design, build and deploy predictive modeling and statistical analysis techniques on production systems that drive increased sales, improved customer experience for our online customers.
+
+Apple has a tremendous amount of data, and we have just scratched the surface in pattern detection, anomaly detection, predictive modeling, and optimization. There are many exciting problems to be discovered and solved and many business owners eager to use data mining. The Apple Analytic Insight team encourages scientists to stay ahead of data science research by attending conferences and working with academic faculty and students. We have a work environment that encourages collaboration, but also allows solution autonomy on projects.
+
+Apple's dedication to the customer experience, the commitment to privacy, and the enormous scale of the business present exciting challenges to traditional machine learning and data science techniques. On this team, you will push the limits of existing data science methods while delivering tangible business value.
+Key Qualifications
+Strong solid understanding of data science algorithms including decision trees, probability networks, association rules, clustering, regression, and neural networks.
+Familiarity with database modeling and data warehousing principles and SQL.
+Familiarity with Big Data tools like Spark, Hive etc.
+Strong programming skills in Java, Python, or similar language.
+Ability to comprehend and debug sophisticated systems integrations.
+Ability to extract relevant business insights and patterns from data.
+Creativity to engineer novel solutions, and to push beyond current tools and approaches.
+2+ years experience in hiring & leading team of data scientists.
+Good interpersonal, written, and verbal communication skills.
+Ability to work independently and make key decisions on projects.
+Description
+- Conceive and design end to end data science solutions to support Apple's business units and initiatives.
+Work with business owners to map business requirements into technical solutions.
+Develop and implement data science solutions to fit business problem, which may include applying algorithms from a standard tool or custom algorithm development.
+Work closely with data warehouse architects and software developers to generate flawless business intelligence solutions for end users.
+Support production analytic solutions.
+Perform ad hoc statistical and data science analyses.
+Present results of analyses to business units.
+Education & Experience
+Ph.D. in Data Science, Machine Learning, Statistics, Operations Research or related field
+Or a M.S. in related field with 5+ years experience applying data science techniques to real business problems.

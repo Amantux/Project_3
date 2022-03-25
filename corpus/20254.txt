@@ -1,0 +1,42 @@
+Senior Data Analyst
+Location/City: Any US location (offices in Atlanta, GA and Playa Vista, CA)
+
+Responsibilities
+We are looking for a sharp, highly-motivated Senior Data Analyst to join our team. If you have a natural curiosity, the technical skill to apply that curiosity in investigating large data sets, and an ability to tell a story with data and visualization, we want to hear from you! This is a high-impact role that will bridge the gap between the business and data by collaborating with our executive stakeholders and our external partners to derive insights from our data and drive improvements to the business. In addition to helping the company make data-driven decisions to improve operations, your work will be used in newspaper and magazine articles and in discussions with policymakers. This will require a solid understanding of the company’s strategic and operational goals as well as a customer-first mindset and the ability to communicate at the executive level.
+As a Senior Data Analyst, you will:
+Work with our bank transaction and customer event data to develop insights about the nature of employment and earnings for our Members.
+Surface data-driven insights that drive strategy and optimal decision making for the leaders across the organization.
+Create visualizations and other reporting that distill complex data into actionable information for executives and external stakeholders.
+Help drive a data-first culture where data is understood and leveraged in decision making.
+Effectively balance competing priorities and deadlines, with an eye on both short term delivery with long term direction and value.
+Create testing and monitoring processes to ensure that our data is of the highest quality.
+Automate relentlessly so your and others’ time can be spent on high-value analysis rather than running reports.
+Collaborate with the data team and Chief Data Officer to define the technical strategy for Steady’s data ecosystem
+
+Skills & Requirements
+Minimum of 3 years experience (5-7 years preferred) performing exploratory data analysis to understand the characteristics of a data set and identify patterns.
+Demonstrated experience of efficient manipulation and storage of large datasets
+Comfortable dealing with ambiguity, making assumptions, drawing conclusions and distilling complex analysis for non-technical audiences
+Outstanding verbal and written communication skills with the ability to interact at all levels of the organization as well as with external stakeholders
+Hands on experience and expertise with SQL, Spark, Python (preferred) or R
+Strong data visualization skills (experience with Tableau preferred)
+Experience with data warehousing, preferably with Snowflake, and knowledge of ETL/ELT best practices.
+Familiarity and experience with the AWS data ecosystem (S3, AWS Glue, EMR, etc.)
+Experience with bank or credit card transaction data preferred
+Experience with statistical models and machine learning or with working closely with Data Scientists a plus
+Comfortable working cross-functionally with different parts of the organization and with distributed teams across multiple offices and timezones
+Ability to thrive in a fast-paced, entrepreneurial, high-energy environment with shifting priorities
+
+
+Benefits
+We value our Steady Team Members and are committed to their success. We are located in downtown Atlanta near MARTA, as well as in Playa Vista CA. We offer competitive compensation packages and a 100% company-paid benefits package including medical, dental, and vision. Steady is a relaxed, casual work environment with flexible hours and lunch provided once weekly in addition to a weekly meal stipend. We also offer a generous PTO plan, 401K, and future growth opportunities within the company. We strive to maintain a positive and fun environment for our employees where people can learn and grow with the company.
+About Steady
+Steady is a mission-driven business that helps people earn more. Through the free Steady app users can build & track income, networks, and buying power – allowing them to augment retirement savings, work around childcare responsibilities, pay down debt, save for purchases, and supplement their income from primary employers, while limiting their income volatility and better positioning themselves for access to a sustainable financial services ecosystem.
+Every Steady member will build something different. We celebrate those who take the initiative to create a path that works for them. Whatever that looks like, Steady is there to support it, providing a stable foundation that allows people to build financial success over a lifetime.
+
+Mission: Steady turns the tables by putting workers back in charge of their financial future with an income-building platform that creates financial stability and helps its users to take charge of their future.
+
+For more information, visit us at www.steadyapp.com or on Twitter @TheSteadyApp.
+
+Steady, Platform Inc. (Steady) is an Equal Employment Opportunity employer – All qualified applicants/employees will receive consideration for employment without regard to that individual’s age, race, color, religion or creed, national origin or ancestry, sex (including pregnancy), sexual orientation, gender, gender identity, physical or mental disability, veteran status, genetic information, ethnicity, citizenship, or any other characteristic protected by law.
+Statement to ALL Third-Party Agencies and Similar Organizations: Steady accepts resumes only from agencies with which we formally engage their services. Please do not forward resumes to our applicant tracking system, Steady employees, Steady hiring manager, or send to any Steady facility. Steady is not responsible for any fees or charges associated with unsolicited resumes.

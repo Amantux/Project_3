@@ -1,0 +1,42 @@
+Job TITLE: Data Scientist
+
+Location: Santa Clara, CA
+
+Term: Full Time
+
+Skill: We are looking for a Data Scientist who has passion for data and can help us make smarter decisions to deliver even better products by discovering hidden information in vast amount of data. Primary focus will be on improving customer business outcomes through optimization and applying data-mining techniques, doing statistical analysis and building high quality prediction systems. Strong verbal and written communication, thoroughness and self-check personality are critical for success in this role.
+
+• Build statistical & predictive analytics models that can be translated into various product strategy and marketing decisions
+• Deep dive into data, understand hidden patterns and trends, build prediction models.
+• Perform data analysis, gap analysis and drive to enhance data collection procedures by coordinating with the product team
+• Coordinate with the infrastructure team for prediction model integration and to establish feedback loops thru machine learning and recalibration.
+• Perform various analyses: sentimental analysis, market bucket analysis, cohort analysis, churns analysis.
+• Build & monitor visually appealing real-time dashboards, as well as, develop Splunk queries & Splunk custom inputs.
+• Drive for success across teams and customers
+• Maintain and manage SLA
+• Analyze individual issues in the context of overall platform to proactively identify larger problems
+• Documentation of issues, resolutions and processes
+• Contribute in data engineering efforts
+• Coordinate and collaborate with development team to remain current on code and technology
+
+Experience: • 4+ years of strong experience in Predictive Analysis, Machine Learning & Statistical Modeling using languages like Python, R, Ruby
+• 5+ years of strong SQL and RDBMS experience
+• 2+ years of strong experience of programming in languages like Python, C++, Java, Ruby
+• 2+ years of experience working with AWS including services like RDS, Redshift, DynamoDB, Postgress, data pipeline
+• 2+ years of experience in data visualization such as D3.js etc.
+• 1+ years of experience working with cloud and web technologies including XML, JSON, HTML5, Web frameworks (Django, Flask), Elastic Search
+• Experience with Splunk
+• Experience with data analysis
+• Desire and ability to learn new technologies
+• Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+• Strong written and verbal communications skills
+• Experience working with off-shore teams
+• Passion of data and data driven decisions
+
+Education: BIG PLUS:
+
+• Experience with map-reduce paradigm with hadoop-hive environment
+• Experience with NoSQL databases, MongoDB, Cassandra, HBase, Redis, Unstructured data
+• Any type of contribution to open source community
+• Experience with reporting tools Tableau, Pentaho BI
+• Experience with ETL and Data-Warehouse

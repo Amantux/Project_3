@@ -1,0 +1,64 @@
+Start a Rewarding Career with Alliant
+
+
+What will your day look like?
+
+You will assist the organization through the continued build-up and operationalization of an enterprise class Modern Data environment, including various components within the Hadoop stack. Resources to do the job require substantial hands-on experience working with the technologies encompassed within the Hadoop technology stack while also having knowledge and capabilities as a systems developer.
+
+The Senior Data Engineer coordinates, designs, builds, and integrates complex application technology solutions, aligned to architectural standards and definitions, and will help ensure IT services are delivered effectively and efficiently.
+
+Responsibilities
+
+
+Do you see yourself doing this?
+Responsible for day to day operation and support of Hadoop and Modern Data environments
+Collaborate with data center and systems engineering teams on all cluster infrastructure setup, software installation, testing, upgrading/patching, monitoring, tuning/optimizing, troubleshooting, maintenance
+Collaborate with development and strategy teams on component and 3rd party tool identification, recommendation, installation and management of Spark jobs
+Collaborate with the data architecture and Infrastructure teams in technical investigations, development, and prototypes
+Collaborate with Corporate IT function around integrating Hadoop ecosystem(s) with critical enterprise systems
+Provide hardware architectural guidance
+Develop and manage all cluster related testing activities
+Create roadmaps for ongoing cluster deployment and growth
+Perform capacity monitoring and capacity planning on infrastructure and resources
+Manage cluster hardening activities through the implementation and maintenance of security and governance components across various clusters
+Participate in the design and implementation of a Disaster Recovery strategy for all Modern Data components
+Participate in design, implementation and management of alignment activities with all pertinent audit and compliance activities
+Function as expert consulting resources around Hadoop integration points with any ETL, BI, and EDW teams
+Provide input/develop new processes/standards in support of the organization's business/functional short-term strategies, with limited impact on the business/function overall results
+Influence adoption of Modern Data new concepts, practices, and approaches
+Design, build, deploy and maintain data pipelines using NiFi/Kafka/Spark Streaming or related data integration technologies
+Qualifications
+
+
+What makes you a great fit?
+
+You’ll be a great fit if in addition to the completion of a Bachelor’s degree in Computer Science or a related field, required, and you have:
+5+ years’ Cloudera or Hortonworks experience in IT Data Development or Data Related Support teams
+Proven development and operational experience within Hadoop ecosystem (Spark/Python, HDFS, YARN, Hive, HBase, Sqoop, etc.), preferable with Hortonworks or Cloudera distribution
+High proficiency in Java, SQL, and Linux shell (Scala/Cascading experience a plus)
+Expert knowledge of key data structures and algorithms in Hadoop, Cloudera or Hortonworks systems
+Experience with the entire Software Development Lifecycle (SDLC) process such as change management, defect and issue tracking, to resolve data issues or to implement development enhancements
+Hands on experience with monitoring tools (preferably Ambari, Nagios, etc.)
+Familiar with OS, network configuration, protocols, and enterprise security solutions such as LDAP and/or Kerberos
+Knowledge of metadata management and governance capabilities using Atlas
+Familiarity with Data Science notebooks such as Apache Zeppelin, Jupyter
+Automation experience with Chef, Puppet, or Ansible
+Prior experience working in Financial Services industry preferred
+Project Management experience with agile and project management methodologies (Scrum and/or Kanban)
+Excellent written and verbal communication skills
+Has an analytical and problem-solving mindset
+Is highly organized and efficient
+Ability to leverage strategic and tactical thinking
+Works calmly under pressure and with tight deadlines
+Demonstrates effective decision-making skills
+When you’re happy, we’re happy!
+
+As a thank you for joining our team, you’ll benefit from:
+
+Competitive medical, dental, and free vision benefits
+Competitive compensation plan
+Contributions towards gym memberships
+Generous PTO and banking holidays off
+Still not convinced?
+
+We’re on the list of 100 Best Medium Companies to work for, check it out here. For more details you can also visit our Glassdoor and LinkedIn profiles.

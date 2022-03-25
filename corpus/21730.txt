@@ -1,0 +1,111 @@
+Cancer Research Center, home to three Nobel laureates, interdisciplinary teams
+of world-renowned scientists seek new and innovative ways to prevent, diagnose
+and treat cancer, HIV/AIDS and other life-threatening diseases. Fred Hutch
+pioneering work in bone marrow transplantation led to the development of
+immunotherapy, which harnesses the power of the immune system to treat cancer.
+An independent, nonprofit research institute based in Seattle, Fred Hutch
+houses the nation s first cancer prevention research program, as well as th
+clinical coordinating center of the Women s Health Initiative and the
+international headquarters of the HIV Vaccine Trials Network. Careers Start
+Here.
+
+The Statistical Center for HIV/AIDS Research and Prevention (SCHARP) at Fred
+Hutch is a full service statistical and data management center focused on HIV
+prevention research. SCHARP has an annual budget of over $40 million, more than
+180 employees and is currently managing over 40 active phase I III clinic
+trials in over 150 clinical sites around the world. SCHARP is seeking a Data
+Standards Analyst.
+
+Under general supervision, the Data Standards Analyst contributes to the
+coordination and management of clinical data standards and production of
+standard datasets within SCHARP. The incumbent provides subject matter
+expertise in CDISC data standards, supports coordination efforts with SCHARP
+staff and network partners to standardize the collection and tabulation of
+clinical trials data, coordinates and/or leads CDISC working groups, drafts
+SDTM and ADaM metadata and conversion specifications as well as CRF Global
+Library form content, maintains awareness of publication updates from CDISC and
+other data standards or regulatory agencies that impact SCHARP data standards,
+and configures data transformations to provision SCHARP SDTM data tables from
+CRF and other data pipelines to SCHARP Programmers and Statistical Research
+Associates via a clinical data warehouse.
+
+Core to the role is a deep understanding of data standards and data
+transformations, the ability to communicate effectively, work collaboratively
+with colleagues and be responsive to the needs of both internal and external
+customers within an environment of mutual cooperation and respect.
+
+Responsibilities
+Reviews study builds to ensure they are following Global Library
+specifications and review and/or approve of the changes as necessary.
+Stays informed of updates to CDISC data specifications; incorporates new
+versions of SDTM into SCHARP SDTM and advises to others in SCHARP on
+CDASH, SDTM and ADaM.
+Works with study teams to lead the definition and documentation of per
+study SDTM metadata and conversion specifications and ensures alignment
+with organizational data standards.
+Draft and/or update Global Library form content as needed based on
+requirements from SCHARP staff and network partners.
+Draft and/or review SDTM metadata and conversion specifications and final
+datasets.
+Defines and documents per study clinical data transformations to SDTM+
+from data collection formats such as CDASH.
+Implements clinical data transformations of source data to SCHARP SDTM
+using database ETL tools. Specifies complex transformations and consults
+with Programmers, as needed, to implement.
+Reviews and validates derived SCHARP SDTM datasets using Pinnacle 21 to
+ensure compliance with published specifications.
+Coordinates internal CDISC training to SCHARP and our partners as
+appropriate and provides routine updates to SCHARP staff to ensure
+current and new staff are aware of materials and training.
+Participates in process definitions and SOP development as needed.
+Minimum
+Reviews study builds to ensure they are following Global Library
+specifications and review and/or approve of the changes as necessary.
+2yr experience working on SDTM
+Stays informed of updates to CDISC data specifications; incorporates new
+versions of SDTM into SCHARP SDTM and advises to others in SCHARP on
+CDASH, SDTM and ADaM.
+Works with study teams to lead the definition and documentation of per
+study SDTM metadata and conversion specifications and ensures alignment
+with organizational data standards.
+Draft and/or update Global Library form content as needed based on
+requirements from SCHARP staff and network partners.
+Draft and/or review SDTM metadata and conversion specifications and final
+datasets.
+Defines and documents per study clinical data transformations to SDTM+
+from data collection formats such as CDASH.
+Implements clinical data transformations of source data to SCHARP SDTM
+using database ETL tools. Specifies complex transformations and consults
+with Programmers, as needed, to implement.
+Reviews and validates derived SCHARP SDTM datasets using Pinnacle 21 to
+ensure compliance with published specifications.
+Coordinates internal CDISC training to SCHARP and our partners as
+appropriate and provides routine updates to SCHARP staff to ensure
+current and new staff are aware of materials and training.
+Participates in process definitions and SOP development as needed.
+Preferred
+Experience as a member of a team completing regulatory submissions.
+5yrs experience working on SDTM
+Experience building transformation pipelines using modern ETL tools such
+as IBM
+InfoSphere DataStage, Pentaho/Kettle, SQL Server Integration Services, or
+other.
+Knowledge of relational database structures and complex data systems.
+Experience programming with a modern procedural, declarative, or
+statistical programming language such as SAS, Perl, Python, Shell or SQL.
+Experience working in an environment governed by Good Clinical Practices,
+Good Clinical Data Management Practices, or other FDA guidelines.
+Experience with Electronic Data Capture (EDC) systems.
+We are proud to be an Equal Employment Opportunity (EEO) and Vietnam Era
+Veterans Readjustment Assistance Act (VEVRAA) Employer. We are committed to
+cultivating a workplace in which diverse perspectives and experiences are
+welcomed and respected. We do not discriminate on the basis of race, color,
+religion, creed, ancestry, national origin, sex, age, disability (physical or
+mental), marital or veteran status, genetic information, sexual orientation,
+gender identity, political ideology, or membership in any other legally
+protected class. We are an Affirmative Action employer. We encourage
+individuals with diverse backgrounds to apply and desire priority referrals of
+protected veterans. If due to a disability you need assistance/and or a
+reasonable accommodation during the application or recruiting process, please
+send a request to our Employee Services Center at or by
+calling .

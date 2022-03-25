@@ -1,0 +1,69 @@
+Under the guidance of the Manager of Data Science and Population Health Intelligence, the Data Scientist is responsible for developing statistical models for complex healthcare issues, uncovering clinical and business insights for target populations, and identifying additional opportunities for comprehensive population health management. The Data Scientist will be responsible for developing and maintaining internal and external data sources using clinical data management repositories to program, analyze, and create data models on population health outcomes across the continuum of care. The Data Scientist will collaborate with internal and external stakeholders to turn our data into critical insights & intelligence that can be confidently used to make organizational decisions.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+
+1. Analyze data from internal and external sources to produce accurate statistical models of population health outcomes and community health needs.
+
+2. Develop Population Health data models within the MLKCH enterprise data warehouse.
+
+3. Supports clinical, financial, and operational strategic initiatives through accurate data reporting. This includes data reporting requirements for grant funded projects.
+
+4. Contributes to the development of analytics infrastructure for advanced data science initiatives.
+
+5. Update & expand the population health dashboard for special populations as identified by the department.
+
+6. Participates in data governance development and establishing technical infrastructure for optimal reporting methods to align with industry best practices.
+
+7. Contributes to new application development, software assessments, and review of statistical packages.
+
+8. Collaborate with the Population Health leadership team in developing advanced analytical models through machine learning & predictive analytics to support the Population Health department’s goal of expanding preventive care & reducing acute care needs for the surrounding community.
+
+9. Presents complex ideas and information to a variety of audiences, including managers and C-suite officers by using effective verbal, writing, and interpersonal communication skills.
+
+10. Models complex, multidimensional health issues and develops tables/processes within the enterprise data warehouse to provide the organization with intelligence and transparency on the population’s health.
+
+11. Recommend analytics methodologies, tools, and platforms per current industry trends.
+
+12. Collaborate with key stakeholders to develop a standardized process in assessing key data elements and an enterprise data dictionary.
+
+13. Present reports, analyses and findings to management and others as scheduled or requested.
+
+14. Serve as a mentor for future analysts to elevate the analytics capabilities of the organization as a whole.
+
+15. Other duties as assigned.
+
+POSITION REQUIREMENTS
+
+A. Education
+
+Bachelor’s degree in Business, Public Health, Statistics, Computer Science, Data Science, Engineering, or related field required.
+
+Master’s degree in Analytics, Statistics, or Data Science preferred.
+
+B. Qualifications/Experience
+
+Minimum two years of experience in statistical modeling and analytics required.
+
+Prior experience in developing healthcare predictive models preferred.
+
+Previous experience performing analytics for acute or ambulatory care environment preferred.
+
+Acute understanding of predictive analytics and machine learning approaches (classification, clustering, regression)
+
+Demonstrated ability to understand and interpret complex statistical models for healthcare data
+
+C. Special Skills/Knowledge
+
+Intermediate to advanced Microsoft Excel skills (Nested functions, Macros)
+
+ Familiarity with statistical packages (SAS, R, etc.) and BI Tools (Tableau, Business Objects)
+
+Expert level data analytics experience with T-SQL and Tableau.
+
+ Strong data mining, statistical modeling, and algorithmic development
+
+ Knowledge of data marts and database development tools
+
+ Database management & programming (SQL)
+
+ Strong knowledge of research methodologies and design

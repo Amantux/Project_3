@@ -1,0 +1,159 @@
+About Zignal Labs
+
+Zignal Labs is the world’s leading media analytics company. With unparalleled expertise in big data, machine learning and media measurement, Zignal empowers communications and marketing teams to build trust and credibility in their brands. Today, insights from the Zignal platform help the Fortune 1000 measure the impact of their earned media programs, mitigate reputational risks and inform strategic decision-making.
+
+About the Role
+
+As a Data Scientist on our Labs and Data Science team, you will work on data analytics and machine learning projects and be involved in solutions from ideation through research and prototyping up to feature delivery -including data quality measurements and improvements. You will rely on your Scala and Python coding skills to analyze a large amount of media data and build machine learning models. You will use Spark, SageMaker, S3, and ElasticSearch along with your machine learning and NLP skills and apply it to social media, news, blogs, broadcast, and other media sources to empower our users with key insights based on real-time analysis.
+
+In this role, you will have the opportunity to:
+
+Mine and analyze media data from various data sources to create and improve analytical insights, product and application features
+
+Measure and improve the effectiveness and accuracy of new and existing features
+
+Develop custom data models and algorithms to apply to data sets
+
+Extend company quality measurement frameworks and test and improve model quality
+
+Coordinate with different functional teams to implement models and monitor outcomes
+
+Develop processes and tools to monitor and analyze model performance and data accuracy
+
+Tech Stack:
+
+Scala, Python
+
+Spark / Databricks
+
+Nice to have: S3, Elasticsearch, Amazon Sagemaker, Amazon Mechanical Turk
+
+In order to be successful in this role, you will need:
+
+Master's degree in Computer Science, Mathematics or equivalent field with 2+ years relevant experience, or Bachelor's degree with 5+ years relevant experience
+
+Strong problem-solving skills with an emphasis on product development
+
+Excellent written and verbal communication skills for cross-team collaboration
+
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks
+
+A passion to learn and master new technologies and techniques
+
+Coding knowledge and experience with Scala and/or Python
+
+Experience with one or more of the following distributed data/computing tools: Spark, Map/Reduce, Hadoop, Hive
+
+Familiarity with data quality measurement techniques, and processes
+
+Plusses:
+
+Experience with various natural language processing techniques: parts of speech tagging, shallow parsing, constituency, and dependency parsing, named entity recognition, emotion and sentiment analysis
+
+Experience building and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+
+Intellectual curiosity around our business & tech challenge
+
+Why Join Zignal?
+
+Competitive salary based on the work you do
+
+100% employer-paid Medical, Dental, and Vision insurance
+
+Flexible time off – work with your manager to take the time you need
+
+Subsidized commuter benefits
+
+Up to 16 hours of paid time off to volunteer in your local community
+
+Learning environment where we value professional and personal development
+
+Catered lunches 3 times a week and fully stocked kitchen
+
+Our office is located in the Financial District just blocks away from BART
+
+Learn more about the #ZignalLife by visiting zign.al/about or by searching on Twitter and Instagram.
+
+Zignal Labs is an Equal Opportunity Employer dedicated to the goal of building a culturally diverse environment, and strongly encourages applications from minorities and women. Additionally, we will consider for employment qualified applicants with criminal histories pursuant to the requirements of the San Francisco Fair Chance Ordinance and the New York City Fair Chance Act. Applicants must be authorized to work in the United States for any employer. No sponsorship is available for this position.
+
+ 
+
+About Zignal Labs
+
+Zignal Labs is the world’s leading media analytics company. With unparalleled expertise in big data, machine learning and media measurement, Zignal empowers communications and marketing teams to build trust and credibility in their brands. Today, insights from the Zignal platform help the Fortune 1000 measure the impact of their earned media programs, mitigate reputational risks and inform strategic decision-making.
+
+About the Role
+
+As a Data Scientist on our Labs and Data Science team, you will work on data analytics and machine learning projects and be involved in solutions from ideation through research and prototyping up to feature delivery -including data quality measurements and improvements. You will rely on your Scala and Python coding skills to analyze a large amount of media data and build machine learning models. You will use Spark, SageMaker, S3, and ElasticSearch along with your machine learning and NLP skills and apply it to social media, news, blogs, broadcast, and other media sources to empower our users with key insights based on real-time analysis.
+
+In this role, you will have the opportunity to:
+
+Mine and analyze media data from various data sources to create and improve analytical insights, product and application features
+
+Measure and improve the effectiveness and accuracy of new and existing features
+
+Develop custom data models and algorithms to apply to data sets
+
+Extend company quality measurement frameworks and test and improve model quality
+
+Coordinate with different functional teams to implement models and monitor outcomes
+
+Develop processes and tools to monitor and analyze model performance and data accuracy
+
+Tech Stack:
+
+Scala, Python
+
+Spark / Databricks
+
+Nice to have: S3, Elasticsearch, Amazon Sagemaker, Amazon Mechanical Turk
+
+In order to be successful in this role, you will need:
+
+Master's degree in Computer Science, Mathematics or equivalent field with 2+ years relevant experience, or Bachelor's degree with 5+ years relevant experience
+
+Strong problem-solving skills with an emphasis on product development
+
+Excellent written and verbal communication skills for cross-team collaboration
+
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks
+
+A passion to learn and master new technologies and techniques
+
+Coding knowledge and experience with Scala and/or Python
+
+Experience with one or more of the following distributed data/computing tools: Spark, Map/Reduce, Hadoop, Hive
+
+Familiarity with data quality measurement techniques, and processes
+
+Plusses:
+
+Experience with various natural language processing techniques: parts of speech tagging, shallow parsing, constituency, and dependency parsing, named entity recognition, emotion and sentiment analysis
+
+Experience building and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+
+Intellectual curiosity around our business & tech challenge
+
+Why Join Zignal?
+
+Competitive salary based on the work you do
+
+100% employer-paid Medical, Dental, and Vision insurance
+
+Flexible time off – work with your manager to take the time you need
+
+Subsidized commuter benefits
+
+Up to 16 hours of paid time off to volunteer in your local community
+
+Learning environment where we value professional and personal development
+
+Catered lunches 3 times a week and fully stocked kitchen
+
+Our office is located in the Financial District just blocks away from BART
+
+Learn more about the #ZignalLife by visiting zign.al/about or by searching on Twitter and Instagram.
+
+Zignal Labs is an Equal Opportunity Employer dedicated to the goal of building a culturally diverse environment, and strongly encourages applications from minorities and women. Additionally, we will consider for employment qualified applicants with criminal histories pursuant to the requirements of the San Francisco Fair Chance Ordinance and the New York City Fair Chance Act. Applicants must be authorized to work in the United States for any employer. No sponsorship is available for this position.
+
+ Zignal Labs is a real-time, cross media, story-tracking platform. We enable clients to quickly spot trends, see relevant stories unfold, ...

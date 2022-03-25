@@ -1,0 +1,38 @@
+Posted: Feb 6, 2020
+Role Number:
+200148400
+At Apple, excellent ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish. Would you like to work in a fast-paced environment where your technical abilities will be challenged on a day-to-day basis? If so, Apple's Global Business Intelligence (GBI) team is seeking a hardworking Data Engineer to build high quality, scalable and resilient distributed systems that power apple's analytics platform and data pipelines.
+
+Apple's Enterprise Data warehouse system cater to a wide variety of real-time, near real-time and batch analytical solutions. These solutions are integral part of business functions like Sales, Operations, Finance, AppleCare, Marketing and Internet services enabling business drivers to make critical decisions. We use a diverse technology stack such as Teradata, HANA, Vertica, Hadoop, Kafka, Spark, and Cassandra and beyond. Designing, Developing and scaling these Big Data technologies are a core part of our daily job. The team member will be able think outside of the box and should have passion for building analytics solutions to enable business in making time sensitive and critical decisions.
+Key Qualifications
+We would like for you to have In-depth understanding of data structures and algorithms
+We are looking for experience in designing and building dimensional data models to improve accessibility, efficiency, and quality of data
+Database development experience with Relational or MPP/distributed systems such as Oracle/Teradata/Vertica/Hadoop
+We are seeking programming experience in building high quality software in Java, Python or Scala preferred
+Experience in designing and developing ETL data pipelines. Should be proficient in writing Advanced SQLs, Expertise in performance tuning of SQLs
+You will demonstrate excellent understanding of development processes and agile methodologies
+Strong analytical and interpersonal skills
+Enthusiastic, highly motivated and ability to learn quick
+Experience with or advance courses on data science and machine learning is ideal
+Work/project experience with Big Data and advanced programming languages is a plus
+Experience developing Big Data/Hadoop applications using java, Spark, Hive, Oozie, Kafka, and Map Reduce is a huge plus
+Description
+You will build and design data structures on MPP platform like Teradata, Hadoop to provide efficient reporting and analytics capability.
+
+Design and build highly scalable data pipelines using new generation tools and technologies like Spark, Kafka to induct data from various systems.
+
+Translate complex business requirements into scalable technical solutions meeting data warehousing design standards.
+
+Strong understanding of analytics needs and proactive-ness to build generic solutions to improve the efficiency.
+
+Build dashboards using Self-Service tools like Tableau and perform data analysis to support business.
+
+Collaborate with multiple multi-functional teams and work on solutions which has larger impact on Apple business.
+
+We seek a self starter, forward-thinking person with strong leadership capabilities.
+
+Ability to communicate effectively, both written and verbal, with technical and non-technical multi-functional teams.
+
+You will interact with many other group’s internal team to lead and deliver elite products in an exciting rapidly changing environment.
+Education & Experience
+Bachelors Degree

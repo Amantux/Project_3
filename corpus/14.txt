@@ -1,0 +1,33 @@
+JOB DESCRIPTION:
+
+Do you have a passion for Data and Machine Learning? Do you dream of working with customers on their most forward-looking AI initiatives? Does the challenge of developing modern machine learning solutions to solve real-world manufacturing problems exciting to you?
+
+We develop software for monitoring semiconductor manufacturing process and are looking to leverage the latest technologies to address our customer's needs. You will be part of a team that investigates and builds solutions based all the data available in factories, ranging from time series data, to post manufacturing data, to production logs. You will be working side by side with application developers and customers on real world problems with actual manufacturing data.
+
+JOB FUNCTION:
+
+Basic and applied research in statistical machine learning, deep learning, and data science as well as signal and information processing to advance the state of the art in time series analysis of semiconductor manufacturing data.
+
+Responsibilities:
+Perform data analysis, data pre-processing, and feature engineering in support of advanced machine learning algorithm development. Incorporate physical and operational insights/constraints into statistical models to achieve a high degree of robustness.
+Prototype algorithms for proof of concept, validation, and software implementation.
+Support performance evaluations and the transition of algorithms into existing fault detection and classification systems.
+Convey the results of scientific research to sponsors and the scientific community through briefings, conferences and peer-reviewed publications.
+Other related functions as assigned.
+
+REQUIRED QUALIFICATIONS:
+Bachelor's degree in computer science or chemical engineering or related technical field.
+Demonstrated ability in machine learning/artificial intelligence (ML/AI) development and/or scientific modelling and data analysis.
+Demonstrated ability with python/MATLAB or similar abstract language. Experience with both traditional ML and modern deep learning approaches.
+Experience with agile development practices and Git version control.
+Experience with one or more of the DNN frameworks like TensorFlow, PyTorch, Chainer.
+Experience with SQL, Graph stores, or NoSQL stores.
+Applicant must have a dynamic skill set, be willing to work with new technologies, be highly organized and capable of planning and coordinating multiple tasks. The position will require attention to detail, effective problem solving skills and excellent judgment. Ability to work independently with sensitive and confidential information, maintain a professional demeanor, work as a team member without daily supervision.
+
+COMPENSATION & BENEFITS:
+
+Compensation will be commensurate with experience including a competitive base salary, bonus opportunity, competitive benefits package, and relocation assistance.
+
+INFICON, is committed to ensuring that our online application process provides an equal opportunity to all job seekers that apply without regard to race, religion, ethnicity, national origin, citizenship, gender, age, protected veteran status, disability status, genetic information, sexual orientation, or any other protected characteristic. A notice describing Federal equal employment opportunity laws is available here and here to reaffirm this commitment.
+
+PI120660357

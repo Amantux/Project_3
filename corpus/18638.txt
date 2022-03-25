@@ -1,0 +1,51 @@
+SUMMARY:
+
+The Cloud Engineer (EUC) reports to the Director of Infrastructure Services and is responsible for the implementation and support of End User Computing/Virtual Desktop Technologies such as Citrix, VMWare Horizon View, application packaging and delivery, and other desktop management as well as related Identity Management technologies such as Active Directory, Windows Server, IP Services. The Cloud Engineer (EUC) may also be responsible for implementation and maintenance of the monitoring and performance management toolsets as related to system availability, performance and capacity for all cloud services. The Cloud Engineer (EUC) provides expert level support in both incidents to restore service as soon as possible and problem management in preventing the reoccurrence of incidents.
+
+The Cloud Engineer (EUC) also provides a key role in working directly with customers during implementation and ongoing support for the services provided.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES:
+Engineering, documentation, implementation, configuration for virtual desktop technologies (Citrix XenApp, Citrix XenDesktop, VMWare View) application packaging, Active Directory, and related desktop and application delivery technologies, as well as automation, provisioning, or orchestration technology deemed appropriate for this role.
+Define and document release and versioning plans for stated technologies. Coordinate change management related to changes and/or releases in the stated environment.
+Demonstrate strong knowledge of cloud computing concepts as well as virtualized datacenter and multi-tenant infrastructure.
+Provide expert level support for incidents to insure operations systems are returned to service as soon as possible and prevent the re-occurrence of incidents by supporting the problem management process.
+Establish and follow security procedures, standards, and protocols related to stated technologies.
+Establish capacity, performance, and availability monitoring thresholds, alerts, and actions for automated event management as well as measuring and maintaining capacity for demand growth.
+Establish standards for availability and business continuity and test related systems against the standard on a defined basis.
+Support change and release management by having defined release plans, developing and implement changes requests, while having defined back out plans, and after-action reviews of failed changes.
+Train, mentor, and develop other engineers and support personnel where needed.
+Work directly with customers, utilizing excellent customer service skills, during all phases of the customer relationship.
+OTHER DUTIES AND RESPONSIBILITIES:
+Constant improvement of all services and processes
+Other duties as assigned
+MINIMUM QUALIFICATIONS: (To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the minimum knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.)
+
+Experience:
+Three years or more of progressive experience in implementing, configuring, and supporting a combination of Microsoft and Linux Operating Systems, VMWare vSphere, Hyper-V, SAN and NAS storage, are preferred for this position.
+Three years or more of progressive experience in implementing, configuring, and supporting a combination of Enterprise Desktop, Virtual Desktop, Microsoft and Linux Operating Systems, MSI application packaging, Group Policy, desktop applications, active directory, and/or other related identity technologies.
+Three or more years of progressive experience with Citrix XenApp/XenDesktop LTSR, CITRIX Gateway/Netscaler are required for this position. Experience with VMWare View also is desired.
+Experience with single-sign on solutions and integration with multiple device types (thin clients, PCs, Mac, mobile, etc) preferred.
+Expert knowledge of cloud best practices and data center virtualization in multi-tenant environments.
+Experience with CITRIX Cloud a big plus
+Experience with Public Cloud Integrations (AWS, GCP, Azure) also a plus
+Experience with voice dictation solutions such as Dragon or MModal is a plus.
+Experience with advanced datacenter wide virtualization strongly preferred.
+Education or equivalent experience in ITIL, Cobit, and/or HIPAA preferred for this position.
+Education:
+Bachelor degree in Information Management, Computer Science, or other related field or an equivalent amount of experience is preferred for this position.
+Certifications or Licenses:
+Technical certifications in CITRIX, Microsoft, VMware, Horizon View, Storage, and other Public Cloud Technologies required for this position.
+ITIL Foundation Certification a bonus.
+Special Knowledge, Skills and Abilities:
+Excellent customer service skills required.
+TRAVEL REQUIRED:
+
+Approximately 15% Travel
+
+PHYSICAL DEMANDS: (The physical demands and work environment described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.)
+Ability to work long hours at a desk using a PC, video conferencing, and phone usage.
+Ability to occasionally lift and move computer equipment if necessary.
+Moderate overnight travel by land or air.
+WORK ENVIRONMENT: (The physical demands and work environment described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.)
+Ability to office at home if needed
+Extensive use of desktop computer, mobile technologies video conference, phone, cell phone is essential for this function.

@@ -1,0 +1,15 @@
+Thank you for your interest in a faculty position at the University of Houston. Please know that the University has implemented a temporary pause on all faculty recruitment activity. We are currently not accepting any new applications.
+
+Research Scientists are part of a data science team within a machine learning center. Research Scientists are responsible for initiating and developing research delivering data science solutions in the best way to provide insights and improvements on the cumulative geoscience-related big data at the University of Houston or to support the creation of innovative artificial intelligence models in the machine learning center.
+The selected candidate will use a variety of artificial intelligence technologies to analyze and interpret big data from geosciences research. Responsibilities include systematic management of large amounts of data for use in machine learning centers, data source merging and data set consistency in a variety of forms, and creating and suggesting visualizations to help geoscience researchers understand the analyzed data.
+
+With responsibility for the construction of machine learning centers within this program, the candidate will participate in the design, development, validation and distribution of software using artificial intelligence technology. The ideal candidate will utilize their previous research experience and technology to develop and maintain Research using the following languages and technologies; C , Java, Python, Big Data, Data Science, OpenMP, and GPGPU such as CUDA and OpenCL.
+
+The University of Houston is an ADVANCE institution, one of a select group of universities in receipt of National Science Foundation funds in support of our commitment to increase the number and success of women faculty in the STEM fields.
+
+The University of Houston is an equal opportunity/affirmative action employer. Minorities, women, veterans and persons with disabilities are encouraged to apply.
+Ph.D in Computer Science or related area
+10 years of industry experiences in developing and optimizing with various software platforms such as Web, Mobile platform (Android, iOS) and big data (Hadoop)
+3 years experience developing and optimizing GPGPU architecture and parallel programming model
+Understanding of compiler architecture and compiler implementation techniques
+Experience with TensorFLow and other common frameworks (keras, Caffe, PyTorch)

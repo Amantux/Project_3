@@ -1,0 +1,22 @@
+Passionate about making a difference in the world of cancer genomics?
+
+With the advent of genomic sequencing, we can finally decode and process our genetic makeup. We now have more data than ever before but industrial researchers don't have the infrastructure or expertise to make sense of this data. We're on a mission to connect an entire ecosystem to redefine how genomic and clinical data is used for evidence-based medicine.
+
+We are seeking a highly motivated and capable data analyst to help our clients work with the complex and nuanced data associated with real-world cancer treatment. The data analysts on the Outsights team own the analytical translation of Tempus data to the world of our pharma clients--the analysts on this team are expert communicators of our data model, savvy with SQL and R/python for doing data transformations to make the data usable for our clients, and are the in-house experts on what clients want when they work with our data.
+
+What you'll do
+Communicate key aspects of the Tempus dataset to clients, and answer questions about the data structure, collection practices, etc.
+Analyze client datasets for scientific opportunities, quality issues, etc.
+Reformat and visualize data for clients to help speed up their time to doing analysis on the data
+Distill client feedback on data and product needs, and bring back to appropriate in-house teams
+Operate data delivery infrastructure, managing the data publication process and surfacing issues in real time
+As opportunity and skill sets allow, contribute to the core codebase at Tempus, building out data checks, visualizations, validations processes, etc.
+Requirements:
+1-2 years of post-grad experience in either business analytics or consulting. Healthcare background is a plus.
+Strong data manipulation and analysis skills in SQL; experience or willingness to learn R/python
+Excel and Powerpoint savvy
+Ability to tackle large, ambiguous problems
+Strong communication and presentation skills
+Self-starter
+Organized and able to effectively balance priorities
+Ability to develop and maintain strong relationships with external stakeholders and across internal departments (legal, business development, operations, product, etc.)

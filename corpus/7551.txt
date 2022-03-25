@@ -1,0 +1,73 @@
+**Description**
+
+At Pearson, we are committed to a world that's always learning and to our talented team who makes it all possible. From bringing lectures vividly to life to turning textbooks into laptop lessons, we are enhancing the ways people learn, whether it's one child in our own backyard or an education community across the globe. We are bold thinkers and standout innovators who motivate each other to explore new frontiers in an environment that supports and inspires us to always be better. By pushing the boundaries of technology - and each other to surpass these limitations - we create seeds of learning that become the catalyst for the world's innovations, personal and global, large and small.
+
+Pearson is an Equal Opportunity and Affirmative Action Employer and a member of E-Verify. All qualified applicants, including minorities, women, protected veterans, and individuals with disabilities are encouraged to apply.
+
+Role
+
+We are looking for an talented, collaborative data scientist to join the AI Products and Solutions organization. As an R&D organization, our mission is to push the boundaries of what’s possible in education and to positively impact millions of learners around the globe. Degrees and formal qualifications are important, but relevant experience and a proven track record to deliver are paramount.This position is within a highly agile team responsible for cutting-edge educational technology with an emphasis on text-based formative, complex assessments across a spectrum of learners, domains and technologies. You will work on advancing the state of the company's learning technology portfolio to solve practical problems for our customers. The position demands a person with broad interests in technology and education, who is motivated to design and implement substantive improvements to the company's systems, and is highly skilled in researching and developing new innovative ways to contribute to the future of learning.
+
+Our team at Pearson, Boulder offers a unique environment for extremely skilled and motivated thinkers. Our culture is highly charged with people who are passionate about a cause, using technology to enhance students’ educational experiences. In addition, Boulder, Colorado has been named as the happiest place in the U.S. which is no surprise given its year-round outdoor activities, a surfeit of sunny days, a laid-back lifestyle, natural beauty, ultra-fresh dining and natural foods scenes, the influence of the University of Colorado Boulder, and enough craft beer to put a smile on anyone's face.
+
+Responsibilities
+
++ Develop and evaluate text analytics, statistical models and computational algorithms to improve the value of Pearson products, services and processes.
+
++ Apply a variety of machine learning techniques, including the latest neural network modeling to improve the efficacy of our educational materials and pedagogy.
+
++ Develop AI/NLP pipelines and infrastructure that support both research and a path to production
+
++ Build functional proofs of concepts.
+
++ Communicate research and operational findings through appropriate methods that may include internal reports, journal papers, or executive summaries, and internal or external presentations.
+
++ Work collaboratively with other members of the Lab and product partners to advance the goals of the Lab.
+
+**Qualifications**
+
++ Advanced degree in a quantitative field (computer science, mathematics, statistics, ...) and a minimum of 10 years experience working in complex computing and analytic contexts (or equivalent experience).
+
++ Substantial experience delivering products with one or more deep learning frameworks (Tensorflow, PyTorch…). Experience in effectively applying GPUs/TPUs in training and prediction, a strong plus. Experience with newer transformer models and applying attention to real-world problems are differentiators.
+
++ A passion for research while maintaining a product vision. Your research abilities are matched with solid programming experience in modern languages such as Python, Julia or R and proficiency with database technologies including SQL and non-relational solutions. In addition you have experience with many of the current accoutrements of today's software development tool-chain, such as git, pivotal, jira, Docker, Jenkins, Trello as examples.
+
++ Experience with linguistic and statistical analysis of natural language utilizing applications from Artificial Intelligence and/or Natural Language Processing, including corpus-based continuous language models based on word embeddings such as Latent Semantic Analysis and/or Word2Vec.
+
++ Experience with modern machine learning techniques and technologies with special emphasis on techniques that perform at all levels of data intensity from medium sized data sets using random forest and gradient boosting to the full application of deep learning with big data or transfer learning.
+
++ Interest in human cognition, teaching and learning. Experience with educational data is a plus.
+
++ Strong collaborative skills including ability to clarify business problems, understand alternative points of view and contribute to cross-functional problem resolution.
+
++ Exceptional ability and desire to solve problems pragmatically and to quickly learn new concepts and methodologies as needed.
+
++ Evidence of good communication skills, both presentations and publications.
+
+Pearson is an Equal Opportunity and Affirmative Action Employer and a member of E-Verify. All qualified applicants, including minorities, women, protected veterans, and individuals with disabilities are encouraged to apply.
+
+#LI-POST
+
+Pearson is an Equal Opportunity and Affirmative Action Employer and a member of E-Verify. All qualified applicants, including minorities, women, protected veterans, and individuals with disabilities are encouraged to apply.
+
+**Primary Location: ** US-CO-Boulder
+
+**Work Locations: ** US-CO-Boulder-4845 Pearl East 4845 Pearl East Circle Boulder 80301
+
+**Job: ** Research and Development
+
+**Organization: ** Global Product
+
+**Job Type: ** Standard
+
+**Shift: ** Day Job
+
+**Job Posting: ** Jul 7, 2019
+
+**Job Unposting: ** Ongoing
+
+**Schedule: ** Full-time Regular
+
+**Req ID: ** 1909008
+
+Pearson is an Equal Opportunity and Affirmative Action Employer and a member of E-Verify. All qualified applicants, including minorities, women, protected veterans, and individuals with disabilities are encouraged to apply.

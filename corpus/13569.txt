@@ -1,0 +1,45 @@
+We are Instnt, a Public Benefit Corporation headquartered in NYC, and a one-of-a-kind collaborative effort between industry thought leaders, technology vendors, and public and private sector dedicated to solving all sides of the customer on-boarding problem. We are building a community to redefine the business models, fraud acceptance, and technology approaches with healthier alternatives. We take great pride in helping businesses sign-up more good customers. We aim to deliver frictionless and fraudless experiences that drive top-line revenue growth and reduce bottom-line costs for businesses.
+
+We value creative teamwork, empathy and a "hell yeah, let's do this" approach. Come as you are and bring your magic!
+
+Instnt is seeking a Data Scientist to join our team of innovators and engineers. This role reports directly to the Co-Founder & Chief Product Officer and works closely with Engineering. The Data Scientist will be responsible for manipulating and analyzing complex, high-dimensionality data to generate features to build models which they'll operationalize for use in our real-time Fraud Engine. The ideal candidate has extensive experience solving analytical problems and has a passion for answering complex questions using data.
+
+Duties and Responsibilities:
+Develop and employ AI algorithms that can find (predictive) patterns in large multi-model data.
+Design, build, train and test machine learning models.
+Collaborate to generate novel features and build models that can be used in Instnt's proprietary real-time Fraud Engine.
+Partner with other Data Scientists to prioritize adding new features and functionality to our data pipeline to give us new capabilities and insights.
+Utilize Python, Hadoop, Pig, Spark, Luigi and other open-source big data components to find answers to analytical problems.
+Document new features, models, the Data Science pipeline and any other relevant information needed for internal alignment and regulatory compliance.
+Use data to fuel automation and decisions within Instnt.
+Collaborate with other Instnt departments, including Engineering, Sales, and Marketing, to ensure Data Science and Product goals are aligned to the business.
+Technical Skills Required:
+Significant experience applying statistics, probability, and machine learning to real business problems
+Practical knowledge of building end-to-end ML workflows
+Fluent with SQL / relational algebra
+Fluent with Python, R, or Julia
+Familiarity with major ML libraries such as numpy, scikit-learn, tensorflow and keras
+Experience with data mining, machine learning, statistical modeling tools and underlying algorithms
+Utilized tools including but not limited to, Hadoop and Spark
+The Ideal Candidate will possess:
+A minimum of 4 years of industry experience working in a similar role with a comparable level of seniority and responsibility.
+Bachelor's Degree in CS, Mathematics, Statistics or similar field of study or equivalent work experience. Master's Degree preferred.
+Ability to explain complex ideas and algorithms in understandable ways
+Experience in developing data-driven algorithms in information retrieval, relevance, or machine learning
+Experience with basic engineering principles, such as system design and architecture, and tools like AWS
+Huge plus if you've worked in the fraud/risk management space before!
+Desire to work in a fast, high growth startup environment and thrive on autonomy
+Instnt values our employees and wants you to be healthy and happy! As an employee, you will enjoy a wide range of benefits and perks including:
+Culture that values empathy, kindness, teamwork, humor, and direct honesty
+Generous Equity Package
+Remote Culture
+Unlimited PTO
+Competitive company paid Maternity / Paternity Leave Policy
+Comprehensive Healthcare plan (medical, dental, & vision)
+Commuter transportation reimbursement
+Discounted Membership to Gyms
+Supplemental Ancillary Benefits
+Community Events
+NO PHONE CALLS PLEASE
+
+We are an equal opportunity employer. M/F/H/V

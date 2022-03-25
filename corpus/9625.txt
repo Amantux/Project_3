@@ -1,0 +1,73 @@
+Overview
+
+JM Family Enterprises, Inc. is one of the largest, most innovative and diversified companies in the automotive industry. JM Family has been on Fortune Magazine's Best Companies to Work For for 20 consecutive years. What started with Jim Moran's passion for selling cars continues today with the dedication and hard work of every JM Family associate. Our principal businesses focus on vehicle distribution and processing, finance and insurance, retail vehicle sales, and dealer technology services. At JM Family, our mission is to be the premier provider of quality products and services. We accomplish this mission by adhering to our core values, the three C’s, the I and the A: Consideration, Cooperation, Communication, Innovation, and Accountability.
+
+Job Description
+
+JM Family Enterprises, Inc. is looking for an experienced Data Scientist to join its Automation and Innovation (A&I) team. The Data Scientist will partner with stakeholders from various business functions to identify data science opportunities, have the knowledge, experience and technical skills to leverage internal and external data, and apply the right machine learning/big data technologies to turn such data into valuable insights and solutions for the company.
+
+In the A&I group, we work on intellectually stimulating projects across a variety of business domains and employ new technologies to design and develop innovative software solutions, enable new capabilities and strengthen JM Family’s position in the marketplace through technology-enabled innovation. As a member of the A&I Team, the Data Scientist will attend conferences,, experiment with new tools and techniques, and have constant learning opportunities.
+
+This is a highly visible and impactful role where the Data Scientist will interact with the senior and executive level management and have the opportunity to influence what we do and how we do it through data science.
+
+Responsibilities:
+
+Create a collaborative and effective working relationship with functional leaders to understand business problems, identify opportunities / use cases to improve the performance of our businesses
+
+Lead / Contribute to the development of actionable solutions. This includes all aspects of the solution development including problem and goal definition, defining a plan for:
+
+Sampling of the data and conducting experiments
+
+Data extraction
+
+Ingestion and processing (outlier handling)
+
+Exploratory data analysis
+
+Feature engineering (weight of evidence, label encoding, label count encoding, target encoding, time-series, polynomial interactions,binning, outlier handling)
+
+Feature selection (forward, backwards, information value)
+
+Hyperparameter optimization of machine learning models
+
+Experiment tracking for A/B testing and reproducibility, model evaluation, model interpretability, results communication and deployment
+
+Guide and contribute to the execution of projects following the cross-industry standard process for data mining (CRISP-DM)
+
+Guide and grow a small team of data scientists of various levels
+
+Contribute to the adoption and better understanding across the company of data science best practices and tools and stay up to date regarding new knowledge and developments in this domain
+
+Job Requirements
+
+Core skills in Computer Science: Data Structures, Algorithms, Programming Paradigms and Relational Databases
+
+Deep working experience applying statistics and machine learning techniques to real-world problems and data and deploying models to production
+
+Hands-on experience with SQL and tools to access databases
+
+Expertise in Python and R
+
+Expertise with open source data mining/machine learning/big data programming libraries, models and frameworks (e.g. Pandas, Scikit-Learn, H2O, TSFresh, FeatureTools, MLflow, Shap, Microsoft Interpret, Tensorflow, Statsmodels, Pandas-Profiling, Seaborn, Plotly, Spark, Koalas, )
+
+Working experience with cloud computing services such as Amazon AWS, Microsoft Azure or Google Cloud Platform
+
+Excellent presentation skills to non-technical Associates communicating complex concepts in terms the audience can understand through understandable language, tables and visualizations
+
+When evaluating the candidate, special attention will be paid to following competencies:
+
+Intellectual Curiosity and Critical Thinking, necessary to analyze a problem from multiple perspectives and examine the interrelationships between data that may appear superficially unrelated
+
+Autonomous, to own projects end-to-end; ability to work on the entire stack without being dependent on other team members
+
+Focus, to design and test a technique over days and weeks, find it doesn’t work, learn from the failure, and try again
+
+Creativity, to invent and try new approaches to solving a problem
+
+Attention to Detail, in order to maintain rigor and to detect and avoid over-reliance on intuition when examining data
+
+Clear and concise written and oral communication, in order to communicate complex quantitative analysis in a clear and precise manner
+
+Interpersonal skills, necessary to build good working relationships and work as part of a team
+
+PhD or Masters in Computer Science, Statistics, Math or related discipline or equivalent skill set

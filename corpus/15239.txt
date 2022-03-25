@@ -1,0 +1,47 @@
+SummaryProvide data management and statistical analysis in Big Data environment. Assist in development of tools and processes to manage, integrate and synthesize large data sets and deliver business rules and recommendations to functional business units and product managers
+
+Responsibilities and Duties
+
+Perform analyses, development and provide data mining in a large data warehouse environment which includes data design, database architecture, Meta data and repository creation.
+
+Extensive use data mining and data analysis tools.
+
+Review and validate data loaded into the data warehouse for accuracy
+
+Provide technical consulting to users of data warehouses and advises users on conflicts and inappropriate data usage
+
+Gather and assess business information needs and prepare system requirements
+
+Interact with user community to develop and produce reporting requirements
+
+Responsible for prototyping solutions, preparing test scripts, and conducting tests and for data replication, extraction, loading, cleansing, and data modeling for data warehouses
+
+Maintain knowledge of software tools, languages, scripts, and shells that effectively support the data warehouse environment in different operating system environments
+
+Make recommendations towards the development of new code or reuse of existing code.
+
+Responsibilities may also include participation in component and data architecture design, performance monitoring, product evaluation and buy versus build recommendations
+
+#LI-JS1
+
+Requirements
+
+7+ years of programming/systems analysis experience
+
+5+ years of experience with business intelligence and stat tools and systems
+
+Strong experience in Relational Database Management Systems (RDBMS) and data warehouse front-end tools
+
+Extensive knowledge of data warehouse and data mart concepts
+
+Experience in systems analysis and design
+
+Solid understanding of development, quality assurance and integration methodologies
+
+BS in Computer Science, IS, or other related field. Or equivalent work experience
+
+Technical Skills Required
+
+Stat & Data Tools " Python, Machine Learning, SQL, Spark, Data Visualization
+Data & Cloud Tools " Hadoop, AWS Big Data Stack (S3, Spark, Lambda, Presto, Athena, Kinesis, Redshift)
+Scripting Tools " Linux/Unix, Shell Scripts

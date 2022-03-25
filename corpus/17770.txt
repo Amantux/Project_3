@@ -1,0 +1,73 @@
+The Job
+
+Warner Bros. Entertainment Inc. seeks a Sr. Data Engineer for the Digital Product, Platform & Strategy: Content Mgmt & Distribution department. The Sr. Data Engineer will be a member of the Media Supply Chain (MSC) team within the WarnerMedia Technology (WMTO) organization, the position will be responsible for the design and implementation of search and data relationship functionality within the Media Supply Chain. The Sr. Data Engineer must have experience with data modeling, modern database technologies, and API driven search design and development. The Sr. Data Engineer will mentor and lead engineers, make technology and design decisions, and partner across the organization in a collaborative manner to achieve results for our mission critical content and data management and distribution applications.
+
+The Media Supply Chain – Who We Are
+Media Supply Chain is tasked to architect, engineer, and program manage a wide range of applications, workflows and services for our internal partners who operationally manage and distribute WarnerMedia content globally. Our applications and technology solutions are responsible for scheduling, image & asset metadata management, as well as, content processing and delivery as well as content mastering, localization and preservation. We are the team pioneering new ways to process and deliver WarnerMedia content to its global customers
+
+The Media Supply Chain – Mission
+Our mission is to provide and sustain practical, innovative, agile software and technology solutions which are highly reliable, automated, measurable, optimized, modern systems capable of distributing high-quality content and metadata to our domestic and global platforms & partners.
+
+The Daily
+Develop and provide support for core data relationships, data ingest, data transformation services and search capabilities. Creates functional and technical specifications. Creates and executes against a plan to launch and maintain applications.
+Review project objectives and determine best technology for implementation. Implement best practice standards for development, build and deployment automation while mentoring and leading a team of engineers.
+Review emerging technologies and evaluate potential uses for WarnerMedia (WM) Technology and other divisions. Develop prototype projects using new technologies.
+Evaluate software products and vendors for WM Technology and other divisions. Recommend action, develop and lead implementation of selected products/services.
+Work with internal and external developers to ensure WB Technology code standards and best practices are performed for development of applications.
+The Essentials
+B.S. in Computer Science or equivalent experience.
+AWS Developer Certification preferred.
+AWS Database or Data Analytics Certification preferred.
+6+ years data engineering experience.
+Demonstrated proficiency in data modeling and data structures.
+Demonstrated experience implementing database technologies such as NoSQL, and Relational. Experience in graph databases a plus.
+Demonstrated expertise and experience in ELK stack (elasticsearch, logstash, kibana).
+Experience in sizing, modelling and deploying multi-node elasticsearch clusters.
+Expertise / experience in sizing, modelling and deploying multi-node noSQL DB mongo clusters – replica sets or sharded clusters.
+Demonstrated expertise and experience in modern databases such as Mongo, Couchbase, Neptune, Neo4j, or equivalent. Experience in MarkLogic a plus.
+Proficient in one or more modern query languages such as elasticsearch query DSL, cypher, gremlin, or graphql. xQuery preferred but not required.
+Highly proficient in XML, JSON and YAML data exchange formats. Experience in XSDs and triple stores.
+Proficient in API design and development, specifically REST APIs. Experience with Swagger 2.0 and AWS API gateway is highly preferred.
+Demonstrated experience in data analytics tools such as Tableau, Kibana etc.
+Experience in working with data streaming technologies such as Amazon Kinesis, Apache Kafka etc.
+Experience in AWS at scale leveraging services such as elasticsearch, RDS, lambda, Neptune and ec2.
+Highly proficient in at least one modern programming language such python, java, or node.js. Bash experience preferred.
+Demonstrated expertise and experience in deploying containerized application using Docker, Kubernetes or equivalent.
+Experience with source code and knowledge repositories such as git, jira, or equivalent systems.
+Proficient in a Linux environment.
+Proficient in core DevOps principles.
+Proficient in the SDLC in an agile environment.
+Advanced Systems design and architecture.
+Experience mentoring developers preferred.
+Ability to work with outside vendors and clients under sometimes adverse circumstances and under time critical constraints.
+Must be able communicate effectively and tactfully with all levels of personnel (in person, written, telephone).
+Must be able to pay close attention to detail.
+Must be able to handle multiple tasks in a fast-paced environment.
+Must be able to organize and schedule work effectively.
+Must be able to work flexible hours, including overtime, when necessary.
+Must be able to respond to after-hours pager notifications to provide support for applications as necessary.
+Requisition #
+177936BR
+
+Area of Interest
+Technology/Information Technology
+
+Industry
+Film Production and Distribution
+
+Location
+United States - California - Burbank
+
+Position Type
+Full Time
+
+Business Unit
+WB Technology
+
+Business Unit Overview
+WB Technology combines Warner Bros.’ industry-leading technologists and disciplines to ensure global alignment with business strategy and accelerated delivery of innovative technology solutions studio- and industry-wide. From pre-production through archiving, the WBT organization will provide critical business and technology intelligence and services to all Studio business units. WBT manages the Studio’s enterprise systems and solutions, emerging platforms, information security, consumer intelligence, content mastering and delivery, and more.
+
+Company Overview
+WarnerMedia is a leading media and entertainment company that creates and distributes premium and popular content from a diverse array of talented storytellers and journalists to global audiences through its consumer brands including: HBO, HBO Now, HBO Max, Warner Bros., TNT, TBS, truTV, CNN, DC Entertainment, New Line, Cartoon Network, Adult Swim, Turner Classic Movies and others.
+
+Warner Media, LLC and its subsidiaries are equal opportunity employers. Qualified candidates will receive consideration for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.

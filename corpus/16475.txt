@@ -1,0 +1,16 @@
+Data Scientist, Networking
+Mountain ViewR&DExperienced
+Responsibilities
+We are looking for candidates with strong networking background, solid data analysis and software development skills, who can utilize data-driven techniques in building solutions to help manage, scale and optimize Bytedance's networking infrastructure.t
+Interact with teams (both internal/external to networking) to understand use cases and define specific requirements for networking data analysis;
+Develop scalable software pipeline for collection and aggregation of a vast amount of data retrieved from underlying networking systems, including but not limited to network resource usage, traffic statistics, device operation status, etc., and make the data universally available for both real-time and retrospective/forensic analysis use cases;
+Develop analytical models to extract statistical properties and causality from and between networking events;
+Continuously make recommendations/predictions based on results derived to optimize networking system efficiency and improve underlying networking infrastructure's availability.
+Qualifications
+1. Bachelor's degree or above in Mathematics, Statistics, Physics, Computer Science, Electrical Engineerings; the master or Ph.D. degree with networking research experience is a plus;
+Strong networking and distributed system background with a solid understanding of common protocols, network monitoring techniques such as sFlow, SNMP, etc; experience in large scale networking system development is a plus;
+Hands-on experience handling terabyte size datasets, applying statistics and machine learning techniques and algorithms, using visualization tools to present data;
+Master of at least one of the mainstream coding languages including Python, Java, R, Scala, Go, C++, etc, and capability to read and understand others;
+Great verbal and written communication skills.
+Apply
+Share to

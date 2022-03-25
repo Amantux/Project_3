@@ -1,0 +1,23 @@
+At Path we work to develop state-of-the-art artificial intelligence, machine learning, computer vision, and sensors systems to make industrial robots intelligent. We create world transforming technology, like our first robotic welding system, allowing hardware to do much more, with much less human input.
+
+We are looking for a machine learning engineer who is eager to find novel solutions and methods to solve challenging problems. You will report to the CTO and will join a team of dedicated, supportive, and enthusiastic people to help create the future of manufacturing.
+
+What You'll Do
+Design and apply machine learning algorithms for improving robotic intelligence.
+Create and apply new approaches to solve computer vision problems in image and 3D data domains, signal processing, reinforcement learning, offline and online motor control and path planning.
+Develop new machine learning algorithms to improve rate of learning, generalizability, variable reduction, increase run-times, or improve applicability to different modalities of data.
+Run machine learning test and experiments, and perform statistical analysis
+Collaborate with software and hardware teams to build data and model pipelines
+Stay up-to-date with new research and novel findings in machine learning
+Who You Are
+You have 3+ years of experience working with machine learning algorithms
+You have an advanced degree in in computer science, mathematics, or related discipline involving computer vision, machine learning or artificial intelligence
+You have 2+ publications with a focus on computer vision, deep reinforcement learning, or related
+You have research experience that may include deep learning, computer vision, reinforcement or active learning
+You understand Tensorflow, Theano, or Caffe and GPU-based computation in general
+You have proficiency in Python or C/C++
+You have experience with common image or vision processing libraries (OpenCV or PCL)
+You are excited by the opportunity to be a part of a venture-backed startup early on, where your work will have an immediate and direct impact
+You are passionate about what you do and enjoy working in a collaborative environment
+You like the idea of working at a tech first company with all the perks that go with that- free lunch, unlimited time off, team events, and great benefits
+At Path Robotics we love coming to work to solve interesting and tough challenges but also because our ideas are welcomed and valued. We encourage unique thinking and are dedicated to creating a diverse and inclusive environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.

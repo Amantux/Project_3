@@ -1,0 +1,42 @@
+SteelHouse's mission is to create performance marketing that performs all from one beautiful user interface. Whether we're creating new products or helping a small business expand its reach, people at SteelHouse are builders at heart. Our team is constantly iterating, solving problems, and working together to truly connect marketers and their customers in meaningful ways. Together, we can help people build stronger marketing interactions — we're just getting started.
+
+Are you passionate about building great products that are used by thousands of creative professionals around the world? We are looking for a great JavaScript developer who is proficient with React.js. Your primary focus will be on developing user interface components and implementing them following well-known React.js workflows (such as Flux or Redux). You will ensure that these components and the overall application are robust and easy to maintain. You will coordinate with the rest of the team working on different layers of the infrastructure. Therefore, a commitment to collaborative problem solving, sophisticated design, and quality product is important.
+
+You will:
+Develop new user-facing features using React.js
+Architect efficient, reusable components and front-end libraries that drive the SteelHouse Creative Suite
+Translate designs and wireframes into high quality code
+Optimize components for maximum performance across a vast array of web-capable devices and browsers
+Collaborate with Product Designers, Product Managers, and Software Engineers to deliver compelling user-facing products
+You have:
+5+ years of JavaScript experience, including concepts such as asynchronous programming, closures, types, DOM manipulation, JavaScript object model and ES6
+Thorough understanding of React.js and its core principles, along with popular React.js workflows (such as Flux or Redux)
+Experience with GraphQL
+5+ years of HTML/CSS experience, including concepts like layout, specificity, cross browser compatibility, and accessibility
+5+ years experience with RESTful APIs and optimizing front end performance
+Knowledge of modern authorization mechanisms, such as JSON Web Token
+Ability to understand business requirements and translate them into technical requirements
+Familiarity with modern front-end build pipelines and tools
+Experience with common front-end development tools such as Babel, Webpack, Yarn, etc.
+And:
+BS degree in Computer Science or related quantitative field
+Experience with data structure libraries (e.g., Immutable.js)
+A knack for benchmarking and optimization
+Experience with Automation Testing including Integration Testing
+The Gig Comes with a Few Perks:
+Collaborative work environment with friendly people
+Beautiful office with an open floor plan and huge windows
+Transparency-we share very detailed financial info at company meetings
+Investment portfolio - Acorns contribution from SteelHouse
+Competitive compensation
+100% healthcare coverage
+Open-ended vacation policy with an annual vacation stipend
+401k plan
+Flexible Spending Account (FSA) for dependent, medical and dental care
+Weekly food deliveries, food trucks, and outdoor BBQ
+Gated dog run
+About SteelHouse:
+
+SteelHouse provides self-service advertising software for brands of all sizes. The SteelHouse Advertising Suite provides marketers with everything they need to build their own ads then launch retargeting and prospecting campaigns through display, mobile, native, and social media.
+
+Our solutions give advertisers total transparency and complete control over their campaigns – all with the fastest go-live in the industry. Thousands of top brands have partnered with SteelHouse, including Virgin America, TUMI, Staples, Beachbody, and others.

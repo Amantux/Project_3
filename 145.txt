@@ -1,0 +1,55 @@
+JOB SUMMARY
+Responsible for designing, analyzing, modeling, and deploying analytical applications to enrich the agent and customer experience in the Agent Portal organization.
+
+MAJOR DUTIES AND RESPONSIBILITIES
+Actively and consistently support all efforts to simplify and enhance the customer experience
+Understand customer business use cases and be able to translate them to technical specifications and vision on how to implement a solution
+Clearly communicate the benefits of the analytic solutions to both a business as well as a technical audience
+Leverage knowledge in analytic and statistical algorithms to help customers explore methods to improve their business
+Lead large-scale analytical research projects through all stages including concept formulation, determination of appropriate statistical methodology, data manipulation, research evaluation, and final research report
+Design, build, and extract large and complex data sets while thinking strategically about uses of data and how data use interacts with data design
+Lead large-scale data studies and data discovery for new data sources or new uses for existing data sources
+Lead design and implementation of statistical data quality procedures for existing and new data sources
+Visualize and report data findings creatively in a variety of visual formats that appropriately provide insight to the stakeholders
+Establish links across existing data sources and find new, interesting data correlations
+Work closely with the sales team to come up with analytical solutions for prospects
+Work closely with the operations team to define the implementation of these solutions
+Achieve business value of analytics through deployment of the nCluster database
+Achieve defined project goals within customer deadlines; proactively communicate status and escalate issues as needed
+Willing to learn: Develop expertise in areas outside of core comfort zone
+REQUIRED QUALIFICATIONS
+Skills/Abilities and Knowledge
+Ability to read, write, speak and understand English
+Excellent team player
+Must be self-motivated, results-driven, and able to work with minimum supervision
+Intellectually curious
+Outstanding interpersonal, communication and customer relationship skills able to work effectively with customers from developers and Ops personnel through senior management
+Extensive experience with analytical and statistical software
+Extensive experience with design and implementation of data warehousing, relational databases,
+and associated infrastructures
+Passionate about data maintenance, data quality control and all other important data analysis techniques
+Excellent analytical and problem solving skills with attention to detail and data accuracy
+Strong interpersonal communication, verbal and written, relationship management, and customer service skills with a focus on working effectively in a team environment
+Ability to use MS Office Suite (Word, Excel, PP, Access, Visio)
+Ability to work cross-functionally to solve complex problems and improve quality and service
+Ability to perform involved and independent research and analysis
+Ability to maintain confidentiality and appropriately handle sensitive information
+Related Work Experience
+5 plus years data manipulation and statistical modeling experience as a Scientist, Consultant, Architect, DBA, or Engineer
+5 plus years programming experience
+
+Education
+MS or PhD in Computer Science, Physics, Math, Statistics, Economics, Quantitative Analysis or equivalent experience
+
+PREFERRED QUALIFICATIONS
+Skills/Abilities and Knowledge
+Significant experience in R
+Experience developing interactive data applications in R Shiny
+Experience in Python
+Experience in machine learning and deep learning frameworks (Scikit Learn, Keras preferred)
+Experience with developing API services (Flask preferred)
+Experience with SQL
+Experience with big data technologies such as Hadoop or Map/Reduce
+WORKING CONDITIONS
+Office Environment
+Travel as required

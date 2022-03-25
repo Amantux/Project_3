@@ -1,0 +1,56 @@
+Helping patients, pathologists and physicians work together to accelerate and optimize treatment
+Deep Lens, Inc, through our next-generation AI technology and cloud-based solutions, is driven to increase cancer cure rates and minimize the side effects of treatment for patients globally.
+We value everyone’s unique background and support a work-life balance to bring solutions to market that have a positive impact on health professionals and those individuals impacted by cancer.
+Job Description:
+The Technology team at Deep Lens, Inc. is seeking an experienced Data Engineer to support the new and ongoing development of our platform. The hire will be responsible for building and maintaining our data and data pipeline architecture. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up. The Data Engineer will support our engineers, data analysts, and product team on data initiatives and will ensure data delivery architecture is consistent throughout ongoing projects. They must be self-directed and comfortable supporting the data needs of multiple teams, systems, and products. Knowledge of healthcare and healthcare data is beneficial.
+Key Roles & Responsibilities
+Responsible for the design, development, and maintenance of mission-critical healthcare data pipelines
+Responsible for the design, development, and maintenance of healthcare data lake
+Perform data analysis required to troubleshoot data-related issues and assist in the resolution of data issues
+Represent the global development team during business design sessions and architecture reviews to ensure delivery aligns with expectations.
+Participate in code reviews and support QA initiatives to ensure high-quality delivery
+Create clear and concise documentation for implemented software and processes
+Skills Required
+Experience with relational database technologies (MySQL, PostgreSQL, MSSQL, etc)
+Experience with big data technologies (Hadoop, Drill, Spark, etc)
+Experience in programming and object-oriented design (Python, Java, etc)
+Strong analytic and design skills, including the ability to understand business requirements and translate them into efficient and effective technical designs that work well within large-scale, well-structured enterprise environments
+Strong communication with the ability to interface directly with clients and analysts to ensure technical requirements and delivery align with expectations
+Experience with Agile Software Development methodologies
+Ability to work in a fast-paced environment and handle multiple priorities or tasks
+Experience with healthcare data and data formats (e.g. HL7, FHIR) is a plus
+Job Type
+Full-time
+Experience
+BS or MS degree in Computer Science or a related technical field
+5+ years of Data Engineer (or equivalent) experience
+Job Type: Full-time
+Benefits:
+Flexible Schedule
+Health Insurance
+Paid Time Off
+Schedule:
+Monday to Friday
+COVID-19 considerations:
+Our team is working remotely which has been an easy transition as we offer a flexible work environment generally.
+Experience:
+Data Engineering: 5 years (Required)
+Object Oriented Design: 2 years (Required)
+Big Data Technologies (Hadoop, Spark, Drill): 1 year (Required)
+Education:
+Bachelor's (Required)
+Additional Compensation:
+Other forms
+Work Location:
+One location
+Visa Sponsorship Potentially Available:
+No: Not providing sponsorship for this job
+This Company Describes Its Culture as:
+Detail-oriented -- quality and precision-focused
+Innovative -- innovative and risk-taking
+Company's website:
+https://www.deeplens.ai/
+Company's Facebook page:
+https://www.facebook.com/deeplensai/
+Work Remotely:
+Temporarily due to COVID-19

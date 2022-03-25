@@ -1,0 +1,39 @@
+DESCRIPTION
+
+
+Ring is looking for a Software Engineer with the passion to drive the execution and ongoing support of mission-critical data services, enabling large-scale streaming services, data collection, near real-time offline data distribution, distributed search, analytics, and business intelligence purposes. If you are passionate about data and new technology, eager to seek challenging and innovative opportunities, and motivated to deliver the best customer experience, then our team is the perfect fit for you.
+
+Responsibilities
+· Work with engineering and business stakeholders to understand streaming and data requirements
+· Help shape the growth of transformative data pipelines and data collection
+· Implement and operate large, evolving, big data resources and capabilities
+· Evaluate and implement efficient distributed storage and query techniques
+· Interact and integrate with internal and external teams and systems to extract, transform, and load data from a wide variety of sources
+· Develop the next generation of automation tools for monitoring and measuring data quality, with associated user interfaces.
+· Implement secure and auditable data infrastructure as required
+· Be able to broaden your technical skills and work in an environment that thrives on creativity, efficient execution, and product innovation.
+BASIC QUALIFICATIONS
+
+
+· Bachelor’s degree in Computer Science or a related field
+· 2+ years of experience in Software Engineering / Data Engineering / Data Warehousing roles working in high traffic, fault tolerant, and highly available environments
+· 1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems
+· 2+ years of experience with Scala, Golang, Python, Java, Ruby or a similar programming language
+· 2+ years of experience with SQL skills
+· 2+ years of experience with Big Data Technologies (Hadoop, Hive, Hbase, Pig, Spark, etc.)
+· 1+ years of experience with Streaming platforms like Kafka or Kinesis
+· 2+ years of experience with Test Driven Development or writing unit tests
+PREFERRED QUALIFICATIONS
+
+
+· Experience with AWS
+· Having planned and/or participated in terabyte-scale data environments
+· Experience implementing solutions to comply with GDPR and/or other Data Privacy regulations
+· Experience designing and implementing Data Governance programs
+· Experience integrating NoSQL alongside RDBMS such as Postgres or MySQL in a multi-tiered, globally replicated environment
+
+About Ring
+
+Since its founding in 2013, Ring has been on a mission to make neighborhoods safer. From the video doorbell, to Ring Alarm, which was named #1 in Customer Satisfaction for DIY Home Security Systems by J.D. Power, Ring’s smart home security product line, as well as the Neighbors app, offer users affordable whole-home and neighborhood security. At Ring, we are committed to making home and neighborhood security accessible and effective for everyone -- while working hard to bring communities together. Ring is an Amazon company. For more information, visit www.ring.com. With Ring, you’re always home.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us//.

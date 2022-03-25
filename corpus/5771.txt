@@ -1,0 +1,105 @@
+Read what people are saying about working here. 
+JOB SUMMARY
+
+The Sr Data Scientist job is responsible for executing the full-scope of advanced analytic techniques with the objectives of creating causal inferences, predictions, and recommendations for improvements to business processes, and the metrics to monitor those improvements. This position requires a strong command of techniques and algorithms as well as a demonstrated practical ability to determine where to invest time, synthesize actionable findings across diverse assignments, and present these findings to an audience with varying levels of background in analytics.
+
+MAJOR DUTIES AND RESPONSIBILITIES
+
+Plan and lead the execution of the analytics life-cycle, leveraging significant experience in leading this type of work in previous roles
+
+Survey varied data sources in relational databases, Hadoop, flat files, and external sources for analytic relevance
+
+Execute the full-scope of advanced analytic techniques
+
+Perform problem formulation, requirements analysis, and planning
+
+Responsible for data surveying, profiling, and pre-processing
+
+Model data management for validation (e.g. holdout, cross-validation)
+
+Select algorithm and execution
+
+Responsible for interpretation of results – for both causal inferences and predictive effectiveness
+
+Synthesize appropriate recommendations for action and changes
+
+Present findings, suggested actions and changes to a broad audience, and manage follow-ups and execution
+
+Help teach and explain techniques and tools used to a broad set of business-intelligence, data, and analytics professionals with varied backgrounds
+
+Exercise thought leadership and discretion in tailoring the tools, approaches, and data used to meet the needs of the particular problem
+
+Perform other duties as required
+
+REQUIRED QUALIFICATIONS
+
+Skills/Abilities and Knowledge
+
+Ability to read, write, speak and understand English
+
+Expert-level skills and experience with R (required) and/or Python (desired) (including relevant packages) in support of advanced analytics
+
+Advanced-level skills with relational databases, including SQL and utilizing data stored in complex schemas
+
+Expert-level logical and analytic skills
+
+Broad experience and solid theoretical foundation on the modeling process using a variety of algorithms
+
+Data profiling, distributions, confidence intervals, hypothesis testing
+
+Holdout for testing, cross-validation
+
+Data pre-processing, exploratory data analysis using a variety of techniques
+
+Regression and classification using linear models, GLMs, and tree-based methods
+
+Interpretation of model results, consideration of causality, treatment of multicollinearity
+
+Strong synthesis and presentation skills
+
+Ability to communicate results and recommendations to a wide variety of audiences
+
+Basic understanding of data architecture, data warehouse and data marts
+
+Experience in the telecommunications industry, or two other consumer-based industries
+
+Demonstrated ability and desire to continually expand skill set, and learn from and teach others
+
+PREFERRED QUALIFICATIONS
+
+Skills/Abilities and Knowledge
+
+Experience with Teradata: SQL, UDFs, interpreting explain plans, basic performance-tuning, and use of database catalog
+
+Operations-research background, in particular focused on large labor operations such as field ops, technical support, and sales
+
+Background with Cable systems and operations
+
+Experience with Hadoop, particularly HIVE and Spark
+
+Knowledge of other relevant tools such as SAS, SPSS, Alteryx, Linux
+
+Knowledge of other relevant techniques such as text analysis and text mining
+
+Familiarity with the open-source ecosystems surrounding R (CRAN), Python (PyPi), and/or Hadoop
+
+Education
+
+Master's degree in computer science, mathematics, statistics, operations research or other quantitatively-focus field
+
+Related Work Experience Number of Years
+
+Statistical Analysis 10+
+
+Business Analysis 8+
+
+SQL/R/SAS Programming 8+
+
+Database Design or Database Modeling 2+
+
+WORKING CONDITIONS
+
+Office environment
+
+Travel as required
+ Spectrum's Product and Services are powered and innovated by Charter Communications, Inc. the leading broadband communications company in...

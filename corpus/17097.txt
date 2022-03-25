@@ -1,0 +1,31 @@
+The Data Engineer will support the design and development of data workflows, ETL-like processes, SQL queries, and Visualizations of various clinical and non-clinical databases in the Clearsense Data Ecosystem. They must also demonstrate advanced analytical skills, technical and business knowledge and have a strong understanding of how to leverage industry standard tools and methods to solve problems.
+
+The Data Engineer will work closely with Software Engineers by providing data mapping and wrangling expertise and Data Scientists by helping to determine and provide data sets needed for analysis. They often wrestle with problems associated with database integration and messy, unstructured data sets. Their ultimate aim is to provide clean, usable data to whomever may require it.
+
+Responsibilities:
+• Research opportunities for data acquisition and new uses for existing data
+• Develop data set processes for data modeling, mining and production
+• Employ a variety of languages and tools (e.g. scripting languages) to merge data together
+• Recommend ways to improve data reliability, efficiency and quality
+• Define and Develop Clearsense Data Governance Policies
+• Aggregate and analyze various data sets to provide actionable insight
+• Develop reports, dashboards, and tools for business-users
+• Perform detailed analysis of Customer data sources
+• Write complex SQL queries across multiple data sources
+
+Qualifications:
+• Must have 5+ years within a data management role performing implementation, integration and/or technical development, with a heavy focus on SQL and relational databases
+• A nice to have is prior use of Data Governance tools and processes
+• A nice to have background would involve knowledge and experience with healthcare data exchange platforms and data aggregation tools and healthcare interoperability and messaging standards, including but not limited to HL7 2.x, HL7 3.x, HL7 FHIR, IHE integration profiles
+• A nice to have background would be an understanding of general medical terminology and healthcare clinical code sets such as LOINC, CPT, ICD, RxNorm, etc.
+• A nice to have background would be a demonstrated advanced knowledge in Healthcare data, HL7 scripting and two or more programming languages, Healthcare operations, process improvement, and application of technology to improve patient outcomes.
+• A nice to have background would be as a highly skilled and proficient knowledge of and experience with build tools of the electronic medical record, and other clinical systems.
+• Self-starter, self-motivated, high level of initiative within a fast-paced, constantly evolving data management environment
+• Result focused, ability to solve complex problems and resolve conflicts in a timely manner
+• Ability to travel to Customer sites (up to 10%)
+
+REQUIRED:
+Bachelors degree in Data Informatics, Computer Science, Business or related field.
+
+Must have experience:
+• SQL, scripting languages, ETL tools and Data workflow tools

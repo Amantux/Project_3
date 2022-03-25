@@ -1,0 +1,17 @@
+Job Description
+Title: Data Engineer
+Job ID: TJ3682741021
+Location: Los Angeles, CA
+
+Our client is looking to hire a Data Engineer to join their team. The ideal candidate thrives in a fast paced environment has the ability to communicate clearly. This role will be responsible for automating and maintaining batch pipelines that collect and process data; automating and maintaining batch pipelines that collect and process data; designing and building tools that provide confidence in their data quality; and mentoring and coaching other software engineers.
+
+Qualifications:
+
+Bachelor’s degree in Computer Science or comparable field
+5+ years experience in Python and SQL
+5+ years experience in Java, Scala, or similar OO experience
+5+ years experience with Spark, Hadoop, or Databricks
+Experience with data analysis, processing, and validation
+Professional experience with open source ETL frameworks such as Airflow, Luigi, or similar
+Knowledge within a diverse set of public cloud technologies: AWS RDS, S3, EC2, Lambda, Google Cloud Big Query, Google Cloud Bigtable, etc.
+For more information about TEEMA and to consider other career opportunities, please visit our website at www.teemagroup.com

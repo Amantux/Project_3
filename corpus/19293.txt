@@ -1,0 +1,62 @@
+Principal Database Reliability Engineer
+
+Want to help us bring our fundamental data stores to multiple clouds - public and private?
+
+About the Database Reliability Engineering Team
+
+Cognite’s Cognite Data Fusion contextualizes operational data at scale, enabling asset-intensive industries to make data-driven decisions. Our platform is built on many different technologies, each good at solving different problems. Some of these are absolutely fundamental, and the Database Reliability Engineering team will be responsible for the continuous well-being of our portfolio of PostgreSQL, Elasticsearch and Kafka clusters, some of which we expect to have thousands of in the years to come – in both public and private clouds, through managed services and on self-managed Kubernetes clusters.
+
+Even when using mature as-a-Service offerings and Kubernetes operators, there are many things that can and will go wrong. Herding clusters that need upgrading, upscaling, cost-trimming, and recovery etc., while continuously serving heavy workloads with tight SLOs requires solid reliability engineering.
+
+About our Tech stack:
+
+We work with open source technologies that need to run in multiple cloud environments – both public clouds (like Google Cloud Platform and Azure) and in private clouds with customer provided Kubernetes.
+
+Managed Kubernetes (GKE, AKS, Openshift) forms the base that we build our products on top of. Where possible, we have used PaaS to store state, such as Google Bigtable, Spanner and Pubsub. We replicate data to different storage systems to be able to answer different types of queries, where PostgreSQL and Elasticsearch are important examples.
+
+Our backend developer teams work with Java, Scala, Python, and Rust. CI/CD is handled by a combination of Github, Jenkins, and Spinnaker to test and deploy code to production. The infrastructure is managed as code with Terraform and Atlantis and services are monitored using Prometheus, Grafana and Lightstep.
+
+As we are establishing a team in Database Reliability Engineering we are looking to hire six people. We will need senior as well as principal engineers, who are experts in Postgres and/or Elasticsearch.
+
+About the job to be done:
+Form Cognite’s DBRE team, owning the full cluster lifecycle of all of our PostgreSQL, Elasticsearch or Kafka clusters. (We plan one sub-team per technology)
+… on both public clouds and on private Kubernetes deployments.
+Establish robust reliability engineering to support these clusters, managing aspects like monitoring, chaos testing, alerting, on-call rotations, internal best-practices education, and capacity forecasting.
+Enable product teams to focus on using the databases, and not on running them – but deeply engage them to make sure the products are operable at scale.
+About you
+A master degree in Computer Science or a similar amount of experience.
+Broad experience with DevOps practices such as CI/CD and Infrastructure as code
+Experience with large Cloud deployments on either AWS, GCP, or Azure.
+Familiar with Python, Go or other programming languages.
+3+ years of experience with Elasticsearch or 5+ years of experience with PostgreSQL.
+Familiarity and experience with our tech stack is beneficial.
+What Makes Us Great
+An opportunity to make an impact on the industrial future and be part of disruptive and groundbreaking global projects
+High level of autonomy, ability to influence decisions and to learn from mistakes
+Work along side a driven, engaging team with in-depth software expertise and industry experience
+Opportunity to join Together@Cognite for social, community, and diversity initiatives
+Focus on agility and speed, openness, togetherness, impact, and obligation to speak up
+Join a team that truly lives their values and brings their whole selves to Cognite
+Perks & Benefits
+Competitive Compensation + 401(k) with employer matching
+Health, Dental, Vision & Disability Coverages with premiums fully covered
+Unlimited PTO + flexibility to enjoy it
+Paid Parental Leave Program
+Learning & Development Stipends
+Global Mobility & Exchange Program
+FriYay Catered Lunch + Fully Stocked Fridges
+Role based in Austin, TX
+Equal opportunities
+
+Cognite is committed to creating a diverse and inclusive environment and is proud to be an equal opportunity employer. Embracing diversity and inclusion means that all qualified applicants will receive the same level of consideration for employment, training, compensation, and promotion. We are following up on equal assessment in the recruitment process, and that is why we ask for gender when you apply. Answering the question is kindly requested, however, it is not mandatory and it will not affect in any way your application assessment.
+
+Other information:
+
+Application deadline: ASAP
+
+About Cognite
+
+
+Cognite is a global industrial Software-as-a-Service (SaaS) company enabling the full-scale digital transformation of heavy-asset industries. Our core software product, Cognite Data Fusion (CDF), powers companies with contextualized OT/IT data to develop and scale solutions that increase safety, sustainability, efficiency, and drive revenue.
+
+Headquartered in Oslo, Norway, Cognite has garnered the attention and partnership of some of the world's top industrial and tech companies, and the company’s success has been profiled in publications like Boston Consulting Group, Bloomberg, Digital Energy Journal, and Houston Chronicle. Google awarded Cognite Google Cloud Technology Partner of the Year 2019 for Manufacturing and Technical Ukeblad named CEO, Dr. John Markus Lervik Technology Leader of the Year during the Tech Awards 2019.

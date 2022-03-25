@@ -1,0 +1,29 @@
+Posted: May 22, 2020
+Role Number:
+200172180
+The Apple Media Products Engineering team is one of the most exciting examples of Apple’s long-held passion for combining art and technology. These are the people who power the App Store, Apple TV, Apple Music, Apple Podcasts, and Apple Books. And they do it on a massive scale, meeting Apple’s high expectations with high performance to deliver a huge variety of entertainment in over 35 languages to more than 150 countries.
+
+These engineers build secure, end-to-end solutions. They develop the custom software used to process all the creative work, the tools that providers use to deliver that media, all the server-side systems, and the APIs for many Apple services.
+
+Thanks to Apple’s outstanding integration of hardware, software, and services, engineers here partner to get behind a single unified vision. That vision always includes a deep dedication to strengthening Apple’s privacy policy, one of Apple’s core values. Although services are a bigger part of Apple’s business than ever before, these teams remain small, nimble, and multi-functional, offering greater exposure to the array of opportunities here.
+
+Apple Media Products is looking for a forward-thinking self starter to join the Service Quality Analytics team. A great engineer, and a visionary software tools architect who can review, plan and influence key innovations that will deliver the best-in-class video experiences for the users.
+Key Qualifications
+Building analytics systems and delivering at scale.
+Working in Linux or Unix environments and ability to tune for performance (e.g. disk or memory).
+Usage of devops and automation tools (e.g. chef, Jenkins).
+Architecting or storing data in NoSQL, Relational or Big data technologies (e.g. Hadoop, MongoDB/CouchDB, Spark, Redshift).
+Working with data visualization tools like Tableau and/or Lookr.
+Implementing and optimizing data pipeline for collecting, cleaning and aggregating data.
+Dealing with data privacy and security issues related to user information.
+Java/Scala/Go and run-time configurations.
+Agile development with code tools like svn and git.
+ML training to deploying models at scale.
+Anomoly detection and root cause analytic systems.
+Aptitude to independently network, learn, and influence multi-functional teams.
+Good written and communication skills.
+Ability to organize, plan and deliver against key landmarks.
+Description
+Apple Media Products is looking for a software engineers to provide new and enhanced architecture, software, tools and monitoring to support its fast paced growth. Join our exciting team that is dedicated to providing the highest quality media products to our customers. Our team is responsible for the software that drive real-time end-to-end media service quality and influence the performance and architecture of delivering video. We are looking for a teammate who is able to tackle problems under a tight deadline constraints and deliver imaginative solutions. Responsibilities will include: tools and applications to support measuring and monitoring video quality, building data analytics, and real-time dashboards, driving innovations to deliver best-in-class video optimizations, ML models and automation, and finally working across Apple from customer care to core platforms to build the capabilities.
+Education & Experience
+Bachelor’s degree in Computer Science and Engineering or related field with 7+ years of industry experience

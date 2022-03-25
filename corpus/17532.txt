@@ -1,0 +1,50 @@
+Company Overview
+
+
+At Memorial Sloan Kettering (MSK), we’re not only changing the way we treat cancer, but also the way the world thinks about it. By working together and pushing forward with innovation and discovery, we’re driving excellence and improving outcomes. For the 28th year, MSK has been named a top hospital for cancer by U.S. News & World Report. We are proud to be on Becker’s Healthcare list as one of the 150 Great Places to Work in Healthcare in 2018, as well as one of Glassdoor’s Employees’ Choice Best Place to Work for 2018. We’re treating cancer, one patient at a time. Join us and make a difference every day.
+
+Job Description
+
+
+Are you passionate about collaborating with a team of clinicians and scientists at Memorial Sloan Kettering Cancer Center?
+
+Then join us here at MSK, where we can provide you with the opportunity to make a difference with your career. We believe that this is an exciting role for someone who has the right background to be a part of our dynamic team and who wants to apply their skills to support our mission here.
+
+We are looking for a Data Engineer to develop and support software applications, tools and data management pipelines for research and clinical purposes within the field of Digital and Computational Pathology. You will assist in the design, implementation and maintenance of tools that extract and manipulate data from various sources, including in-house and external databases, for use in the research and development of Computational Pathology tools and algorithms.
+
+You Are
+A problem solver with the ability to think outside of the box, to find novel solutions to obstacles and setbacks.
+A teammate with the ability to work well both independently and within a diverse team.
+Hard working and passionate, believing strongly in our mission statement and goals.
+Detail and deadline oriented, with the ability to proofread, thoroughly test, and submit high quality work on time.
+An effective communicator with strong interpersonal skills.
+Willing to learn new skills and adaptable to fluctuating workloads and deadlines.
+You Will
+Create software and data pipelines that enable the ingestion, transformation and transfer of large quantities of structured and unstructured clinical data from various databases and filesystems sources, that are destined for the development of computation pathology applications and algorithms.
+Build database logic to automatically fetch and store data in various forms.
+Be responsible for server, application, and database development and the building and testing of high-performance, complex systems.
+Produce required functional, technical, and user documentation (e.g., business requirements, functional and technical specifications, system architecture, data flows, end-users training requirements) on assigned projects.
+Work and collaborate with scientists, engineers, IT operations and medical doctors to build tools manipulating data in order to build a new generation of artificial intelligence applications for cancer detection and treatment.
+Learn the Pathology Department’s laboratory and diagnostic procedures as they pertain to the generation and flow of data in Digital and Computational Pathology.
+Provide consultation and guidance to scientists, engineers, as well as other bioinformatics engineers and medical doctors, at the Center and partnering institutions.
+Maintain and improve professional growth and development through participation in scientific and technical discussions, workshops, and seminars to keep current in the development of industry-grade software.
+You Need
+Bachelor’s degree in Computer Science, Information Systems, Biomedical Engineering or related field
+4+ years of industry experience as a Data Engineer
+Extensive experience in Python programming, or related language.
+Extensive experience in the development of SQL database schema and query logic.
+Familiarity with the design and architecture of cloud-based data warehouses and/or Data Lakes (Amazon Redshift, Snowflake).
+Experience with the design, detailed testing, and documentation of complex systems.
+Experience with version control standard methodologies.
+Bonus
+Extensive Expereice with design and architecture of cloud-based data warehouses and/or data lakes (Amazon Redshift, Snowflake)
+Experience with modern DevOps practices & technologies (e.g. Docker, Jenkins)
+Experience with image processing software and techniques (e.g. OpenCV) and familiarity with image file formats
+#LI-POST
+
+Closing
+
+
+MSK is an equal opportunity and affirmative action employer committed to diversity and inclusion in all aspects of recruiting and employment. All qualified individuals are encouraged to apply and will receive consideration without regard to race, color, gender, gender identity or expression, sexual orientation, national origin, age, religion, creed, disability, veteran status or any other factor which cannot lawfully be used as a basis for an employment decision.
+
+Federal law requires employers to provide reasonable accommodation to qualified individuals with disabilities. Please tell us if you require a reasonable accommodation to apply for a job or to perform your job. Examples of reasonable accommodation include making a change to the application process or work procedures, providing documents in an alternate format, using a sign language interpreter, or using specialized equipment.

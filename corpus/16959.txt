@@ -1,0 +1,34 @@
+Posted: May 16, 2019
+Role Number:
+200061051
+Do you have a passion for crafting entirely new solutions? Do you love building without precedent?
+As part of our Digital Design Engineering group, you’ll take imaginative and revolutionary ideas and determine how to turn them into reality. You and your team will apply engineering fundamentals and start from scratch if needed, bringing visionary ideas to the real world. Your efforts will be groundbreaking, often literally. Join us, and you’ll help design the tools that allow us to bring customers experiences they’ve never before envisioned.
+You will be part of an exciting silicon design group that is responsible for designing state-of-the-art ASICs. We have an extraordinary opportunity for Power Modeling Engineers.
+In this highly visible role, you will be responsible for SOC power simulation and power modeling, SOC use case power analysis, and drive the future SOC power optimization.
+Key Qualifications
+We are looking for applicants with experience in SOC power simulation and modeling, hardware power simulation and analysis flow.
+Familiarity with ASIC power analysis and optimization.
+Familiarity with Verilog and System Verilog.
+Familiarity with script writing in Python, Perl or Tcl.
+Experience with SOC power modeling, low power design and power optimization.
+Familiarity with power impact at architecture, logic design, and circuit levels.
+Familiarity with multimedia data processing is a plus.
+Familiarity with SOC design flow and methodology.
+Familiarity with power simulation and power optimization.
+Silicon power measurement experience is a plus.
+Strong communication skills are a pre-requisite since you will collaborate with a lot of different groups.
+Description
+Imagine yourself at the center of our SOC design effort, collaborating with all disciplines, playing a strategic role of getting functional products to millions of customers quickly.
+You will have the opportunity to integrate and come-up with new ideas, as well as work with a team of hardworking engineers. The main responsibility of this role is to drive the SOC power modeling and optimization for very power efficient products:
+Work with architects to resolve interesting use-cases to simulate.
+Provide power projection for the future projects based on analysis.
+Create test cases within the design verification team’s environment.
+Work with logic teams to determine the correct functionality or enhance functionality for power reduction.
+Work with Architecture and design team to model the SOC power for use cases.
+Develop IP power model on new architecture design, providing power data for performance/power/area trade-offs.
+Work with multi-functional teams on improving power modeling.
+Understand interactions of the product at the software and system level that impact power.
+Education & Experience
+BSEE/MSEE or Computer Science required.
+
+Apple is an Equal Opportunity Employer that is committed to inclusion and diversity. We also take affirmative action to offer employment and advancement opportunities to all applicants, including minorities, women, protected veterans, and individuals with disabilities. Apple will not discriminate or retaliate against applicants who inquire about, disclose, or discuss their compensation or that of other applicants.

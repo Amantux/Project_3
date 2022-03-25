@@ -1,0 +1,81 @@
+Hinge Health’s mission is to improve the lives of people suffering from chronic conditions by digitizing the delivery of care - starting with musculoskeletal health. Our vision is to be the world’s most patient-centered Digital Hospital. We’re already achieving remarkable outcomes - helping people overcome chronic pain, avoid surgeries, return to work, and get back to doing the things they love. We've raised close to $37M and our growth shows no sign of slowing.
+
+We are looking for a data scientist with strong statistical expertise to analyze data sets for both internal use and external publication. You would work with internal clinical data and external claims data to deliver insights into the effectiveness of our program, and to develop prediction models for improving the value of the Hinge Health system.
+
+Our ideal candidate has a good foundation in statistics and a strong grasp of predictive modeling and machine learning, as well as experience with health data and engineering. This role would be work closely with clinicians, engineers and product managers.
+
+Our tech stack: AWS, Aptible, Docker, Postgres, Redis, Rails, Python, Android, React, and React Native.
+
+REQUIREMENTS
+
+Strong experience with biostatistics (distributions, hypothesis testing, regression analysis, etc.)
+
+Familiarity with predictive modeling techniques (classification, linear regression, ensemble methods)
+
+Strong understanding of the ML algorithm workflow, including conceptualization, data transformation/cleaning, model training and testing, and interpreting diagnostics to measure model performance.
+
+Up to date with recent machine learning developments and techniques.
+
+Ability to gather and correlate data from multiple sources (RDBs, csv, json, etc) and translate into meaningful clinical and commercial insights.
+
+Ability to work with statistical programming language, such as Python (preferred) or R
+
+Experience with Python analysis tools, such as scikit-learn, pandas, NumPy, matplotlib, StatsModels (or similar tools in R or other statistical language)
+
+Ability to perform basic SQL queries
+
+Ability to clearly explain findings through oral and written communication
+
+Ability to work closely with engineers, product managers, and clinicians.
+
+Passion for healthcare
+
+Strong intellectual aptitude and curiosity
+
+BONUS POINTS
+
+Academic publication record and ability to draft and edit publications for submission to peer-reviewed journals.
+
+Experience working with health claims data
+
+Some knowledge of musculoskeletal health or pain management
+
+Good engineering task management skills, including version control, JIRA, etc.
+
+Ability to develop clear, maintainable, efficient code.
+
+Python to community-standards, linting, testing at all appropriate levels.
+
+Understanding of database schema design and operation.
+
+SQL expertise, comfort with joins, unions, views, rollups, windowing functions, testing, etc.
+
+API & JSON parsing experience
+
+Operational competency with cloud-hosted systems such as AWS, Aptible, Heroku, and similar.
+
+WHAT YOU’LL LOVE ABOUT US
+
+Great work culture
+
+Competitive compensation with meaningful stock options
+
+Medical, dental, vision
+
+401K match
+
+Daily lunch
+
+Noise-cancelling headphone
+
+Professional Development budget
+
+Wellness benefit
+
+Flexible vacation policy
+
+Work from home policy
+
+Opportunity to join a fantastically talented, diverse, and passionate team at a pivotal time in the company’s lifecycle
+
+If you're interested - we'd love to hear from you. No recruiters, please.

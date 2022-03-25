@@ -1,0 +1,27 @@
+Job Description
+Data Integration Engineer
+
+The Data Engineering team at LeanDNA is responsible for integrating customer data with the LeanDNA cloud solution. Data Integration Engineers ensure we are getting high quality and current data from the source systems, and that this data is reliably uploaded to the cloud in a uniform format that can be consumed by the LeanDNA analytics and reporting engines. This role is essential in helping LeanDNA customers quickly and successfully utilize our cloud-based Supply Chain Analytics solution to drive results for their businesses.
+
+The ideal candidate would possess several skill sets including proficiency with data technologies and SQL, passion for data analytics, and excellent communication skills.
+
+You will be working alongside (and at times, onsite) with customer IT staff and business analysts to retrieve customer data and understand the customer’s data structures and semantics. You will use your data analytics and SQL capabilities to transform the data and upload it to the LeanDNA cloud solution. You will be working with the LeanDNA Customer Success team to ensure that the data is of the highest possible quality, and with the LeanDNA Engineering team to integrate into the LeanDNA data pipeline.
+
+This is a fantastic role for a data geek with awesome skills for someone that wants to jump into an extremely fast-cycle deployment world. Your energy and enthusiasm to work and grow alongside our high-trajectory team are essential!
+
+Responsibilities:
+Perform initial data integration with new customers, and maintain the data extraction and transformation processes
+Act as the primary technical point of contact for a group of customers
+Analyze customer data to ensure accuracy and to help the customer achieve their goals (inventory reduction, shortage prevention)
+Develop improvements for efficiency and scalability of the data pipeline
+Required Skills:
+
+The following required skills will contribute significantly to the success of a Data Integration Engineer in LeanDNA:
+Experience working with Oracle EBS data related to the Inventory and Procurement Modules for both MRP and ASCP
+Experience with data pipeline engineering
+2+ years experience as a data engineer (working with databases and data pipelines)
+Ability to learn systems and business processes quickly
+Good understanding of data design principles
+Great communication skills
+Proven ability to effectively interface with customers
+Due to the nature of our business, we only accept U.S. Citizens or Permanent Residents

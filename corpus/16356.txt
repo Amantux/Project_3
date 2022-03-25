@@ -1,0 +1,31 @@
+Analyze and understand data sources & APIs• Design and Develop methods to connect & collect data from different data sources
+• Design and Develop methods to filter/cleanse the data
+• Design and Develop SQL , Hive queries, APIs to extract data from the store
+• Work closely with data Scientists to ensure the source data is aggregated and cleansed
+• Work with product managers to understand the business objectives
+• Work with cloud and data architects to define robust architecture in cloud setup pipelines and work flows
+• Work with DevOps to build automated data pipelines
+
+Total Experience Required
+• 4
+• The candidate should have performed client facing roles and possess excellent communication skills
+Business Domain knowledge: Finance & banking systems, Fraud, Payments
+
+Required Technical Skills
+• Big Data-Hadoop, NoSQL, Hive, Apache Spark
+• Python
+• Java & REST
+• GIT and Version Control
+
+Desirable Technical Skills
+• Familiarity with HTTP and invoking web-APIs
+• Exposure to machine learning engineering
+• Exposure to NLP and text processing
+• Experience with pipelines, job scheduling and workflow management
+
+Personal Skills
+Experienced in managing work with distributed teams
+• Experience working in SCRUM methodology
+• Proven sense of high accountability and self-drive to take on and see through big challenges
+• Confident, takes ownership, willingness to get the job done
+• Excellent verbal communications and cross group collaboration skills

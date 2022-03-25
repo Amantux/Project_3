@@ -1,0 +1,56 @@
+About Frontier Communications
+
+Frontier Communications provides communications services to urban, suburban,
+and rural communities in 25 states. Frontier offers a variety of services to
+residential customers over its FiOS and Vantage fiber-optic and copper
+networks, including video, high-speed internet, advanced voice, and Frontier
+Secure digital protection solutions. Frontier Business offers
+communications solutions to small, medium, and enterprise businesses.
+
+Big_Data_Engineer_-_Job_Description
+
+Frontier communications network generates a large sum of data each day form of
+communications data, network device data, log files, customer interaction data,
+etc. You will be architecting a "big data" platform to store, process these
+data to be used by data scientists and machine learning engineers. You will
+have the opportunity to work with a small team of data scientists and machine
+learning engineers to build products and services to improve the state of the
+Frontier communications network and elevate the customer experience.
+You will design, develop, test, and maintain big data infrastructure in
+the cloud and on-prem locations.
+You will develop ETL pipelines to collect data from various sources,
+transform and store them, and enable stakeholders to consume it.
+You will be developing pipelines to support machine learning application
+development processes.
+You will be working with different parts of a large organization to
+locate, understand, and extract data from a diverse variety of systems
+and transform them into a big data platform.
+Monitoring data performance and modifying infrastructure as
+Define data retention policies
+Qualifications
+Minimum:
+
+o Computer Science degree or relevant experience.
+o 5+ years of industry experience in Data Engineering
+o Strong experience with MapReduce development for large datasets
+(Hadoop, HDFS, YARN).
+o Strong background in Linux
+o 5+ years of experience in python
+o Industry experience in developing ETL pipelines to manage large
+datasets.
+o Working knowledge of machine learning development process
+Preferred:
+
+o Master s degree in computer science
+o Experience in terabyte scale data manipulation.
+o Experience in ingestion tools such as sqoop, and flume is a plus.
+o Experience in Kafka and airflow is a plus.
+o Processing framework such as Spark and Hive is a plus
+o Experience in Apache HBase is a plus
+o AWS big data certification is a plus
+
+Frontier Communications is an Affirmative Action and Equal Opportunity
+Employer. All qualified applicants will receive consideration for employment
+without regard to race, color, religion, sex, sexual orientation, gender
+identity, national origin, or protected veteran status and will not be
+discriminated against on the basis of disability.

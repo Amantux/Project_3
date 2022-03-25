@@ -1,0 +1,27 @@
+Position Description
+
+We are seeking a Sr. Data Scientist professional in our San Bruno, CA office.
+
+Duties: Conduct advanced statistical analysis to support building forecasting models using statistical methods including time series analysis, state-space models, spatial analysis, high dimensional methods, and Bayesian analysis. Leverage the high-performance distributed computing technologies as necessary in research. Design, implement, and maintain software and algorithms to forecast demand at the Wal-Mart stores using statistical packages and languages (R and Python) in a high-performance distributed computing environment. Collaborate with engineers to deploy scalable solutions using technologies including Linux shell scripting and job scheduling tools. Translate queries from the business to technical hypotheses and conduct rapid statistical analysis to test the hypotheses and communicate the findings to the user. Present and publish the research at appropriate scientific forums. Work with and mentor other Data Scientists.
+
+#LI-DNP; #LI-DNI
+
+Minimum Qualifications
+
+Minimum education and experience required: PhD degree or equivalent in Statistics, Mathematics, Operations Research, Computer Science, Engineering (Any) or related quantitative field; OR Master of Science degree or equivalent in Statistics, Mathematics, Operations Research, Computer Science, Engineering (Any) or related quantitative field and 2 years of experience in statistical modeling or data mining.
+
+Skills required: Experience with Statistical packages, languages R and Python, Shell scripting, and data visualization package R Shiny. Demonstrated knowledge in statistical methodologies including spatial analysis, regression analysis, time series analysis, state-space models (linear and non-linear), high dimensional data analysis, and Bayesian analysis in building prediction models. Experience building prediction models for data with missing and censored values. Experience with querying databases using SQL. Experience with implementing statistical models in Linux based high-performance distributed computing environments using job scheduling tools for parallel computing. Experience working with very large data sets spanning at least five years of time-series daily/weekly data from at least 100 locations. Experience providing customized statistical analyses for clients and communicating the findings in non-technical language. Experience with professional document preparation system LaTex. Employer will accept any amount of graduate coursework, graduate research experience, or experience with the required skills.
+
+Wal-Mart is an Equal Opportunity Employer.
+
+Additional Preferred Qualifications
+
+#LI-DNP; #LI-DNI
+
+Company Summary
+
+The Walmart eCommerce team is rapidly innovating to evolve and define the future state of shopping. As the world’s largest retailer, we are on a mission to help people save money and live better. With the help of some of the brightest minds in technology, merchandising, marketing, supply chain, talent and more, we are reimagining the intersection of digital and physical shopping to help achieve that mission.
+
+Position Summary
+
+We are seeking a Sr. Data Scientist professional in our San Bruno, CA office.

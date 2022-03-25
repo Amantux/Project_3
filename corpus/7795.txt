@@ -1,0 +1,63 @@
+Los Gatos, California
+
+Core Engineering
+
+Netflix is the world's leading internet streaming service with over 148 million members in 190 countries. Our members enjoy more than 125 million hours of streamed video per day, on over 1000 different types of devices. The product experience is delivered by calling into a complex distributed system of services running in the cloud. With all the usage, our telemetry data volumes continue to rise. The Operational Intelligence team develops and operates the infrastructure that processes this data in realtime and provides insights that engineers depend on to measure, visualize, investigate, and optimize how customers experience their services.
+
+More About the Team
+
+Our team is part of the Platform Engineering organization and our goal is to raise the level of abstraction of our observability systems by combining machine learning/statistics on real time data, domain knowledge and dynamic visualization.
+
+Role:
+
+We are looking for a highly motivated Senior Data Scientist to help us build a learning system that take real time telemetry and derive actionable insights, consumed first by oncall engineer and then by systems to take action to remediate or prevent issues.
+
+More on the role:
+
+Be driven and bias toward autonomy. Take full ownership of a product or feature from concept to launch.
+
+Breaking down business problems into statistical and machine learning problems
+
+Develop robust anomaly detection models based on events, logs & time series data
+
+Use feature engineering to extract the best features for a problem and apply suitable regularization techniques for robust analysis
+
+Create new statistical models to correlate data from several different systems
+
+Deploy, maintain and performance tuned machine learning models in a production environment
+
+Required Skills & Experience:
+
+Ph.D. or MS in Computer Science, Statistics, Physics, or a related quantitative field
+
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+
+Solid understanding of data structures, algorithms, object oriented design and patterns
+
+Excellent understanding of machine learning techniques and algorithms, such as k-means, k-NN, - Naive Bayes, SVM, Decision Forests, HMM, Neural nets, Deep learning etc.
+
+Hands on programming experience with Java/Python
+
+Experience building highly scalable solutions in real-time analysis for large data sets
+
+Experience working directly with cross-functional teams and partners.
+
+Bonus (Exposure to and/or experience in the following):
+
+Understanding of how to present and visualize complex data
+
+Stream processing engines, such as Spark Streaming, Flink & Storm
+
+noSQL stores such as Cassandra, MongoDb & DocumentDb
+
+Commercial and/or open source technologies in the log management, distributed tracing and analytics domains e.g. LogStash, Splunk, Zipkin, New Relic etc.
+
+At Netflix, we like to move fast, bias towards action, and rely on great people to make good judgment calls. You should also love solving real problems and making an impact for the company, your partners, and your teammates. Things also change fast and often, so you need to be able to function well with ambiguity and be comfortable making decisions under uncertainty. For more on the Netflix culture, read our culture document.
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+APPLY NOW
+
+Share this listing:
+
+LINK COPIED

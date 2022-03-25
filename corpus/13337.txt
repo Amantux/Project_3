@@ -1,0 +1,16 @@
+We're looking for 2 developers. The candidates will be working out of the Concord office, but will be expected to travel to the client as needed.
+
+Job Description:
+We believe that Concord will be helping our client with some additional data needs. In particular, our client has a number of business initiatives that require data coming from various source systems. The current bottleneck is that our client does not know the details of how that data will move. The candidate will be working with a team of BSAs, ETL Developers, and Data Engineers. The team will be led by a Delivery Lead.
+
+Required Skills:
+Proficient on data integration patterns
+Understand data analysis and meta data management
+Design and develop data pipeline solutions
+Understand data streaming and API integration
+Proficient on testing methods and automation best practices
+Understanding of Data Stores (Files, Databases, Big Data)
+Big Data concept is a must
+Microsoft Azure
+Kafka, Data Factory and Data Bricks knowledge
+Troubleshooting and issue resolution

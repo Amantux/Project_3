@@ -1,0 +1,27 @@
+On April 1, 2020, Rubicon Project and Telaria, Inc. merged to create one company. The combined company will rebrand as one in the coming months. In the interim, each company will operate under its existing brand name. The ticker symbol for the combined public entity will remain NYSE: RUBI.
+
+Rubicon Project is looking for a talented, passionate, experienced Data Engineer to build our next-generation Reporting Data Processing platform which will offer accurate, reliable, and fast data for our customers.
+
+What you will be doing
+You will be responsible for Architecting, Building, and Testing our scalable high performance Data solution to support Reporting needs.
+The main focus of this position is on Big Data technology, but also needs to extend responsibilities to Backend Scala programming and API implementation.
+You'll be working within a small but rapidly growing team to build the next generation Reporting and Analytics platform. As we grow, you grow along with the team and company together to earn technical experience and leadership skills.
+What we are looking for
+Master degree in Computer Science major preferred or equivalent work experience.
+Strong core Scala/Java programming skills are required.
+Minimum of 5 years working experience in Spark or Big Data processing platform in high volume and low latency environment.
+Knowledge and experience of developing on Druid is a huge plus.
+Knowledge and experience of using AWS is a huge plus.
+Proficiency in working and developing on Linux.
+Proficiency in using relational databases and writing SQL.
+Familiarity with Concurrency, and multi-threaded programming.
+Experience with automated testing (TDD, Mocking, Unit/Functional/Integration)
+Experience with development continuous integration tools like SBT, Maven, Git, Jenkins, Jira, Confluence, etc.
+Great interpersonal, written and verbal communication skills; including the ability to create technical specifications, debate technical tradeoffs, and explain technical concepts to business users.
+Perks/Benefits
+Career growth opportunities: We encourage you to carve your own path across the organization and provide opportunities to grow professionally
+Hungry?: Each Rubicon Project office offers free daily lunches daily and a fully stocked kitchen with healthy snacks.
+Take time for yourself: We offer an unlimited vacation policy and encourage you to refresh yourself as you need. We also close down the last two weeks of the year for a paid Holiday Break.
+401k Match: We offer an unique 401K match program with a variety of tax break benefits
+Stay healthy: Choose from a variety of low cost medical, dental and vision plans to cover you and your loved ones with a multitude of options. In addition, we offer Basic Life and Disability Coverage provided at no cost to you
+Perks: Discounts to major name brand items, Travel benefit options, plus much more!

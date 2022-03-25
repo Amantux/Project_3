@@ -1,0 +1,53 @@
+Full Time
+
+Palo Alto, California
+
+About Peritus
+
+Peritus enables self-healing autonomous datacenters with automated, cognitive support for infrastructure software and hardware. It is a funded startup co-created at The Hive in Palo Alto, CA that delivers artificial intelligence-based virtual support expert systems for data center service fulfillment and incident resolution.
+
+As datacenter vendors move from on-premise to the cloud their existing support system lacks the agility and cost-effectiveness for the cloud. Peritus significantly enhances operational efficiencies of existing support services and enables managed service providers & system vendors to offer new business continuity entitlements. Peritus assists & automates a wide spectrum of decisions in system support including incident classification, routing, contract coverage, incident resolution recipes and orchestration of incident management between subject matter experts (SMEs).
+
+Peritus’ unique vectorization of system log data drives predictive modeling with highly granular feature extraction for early detection of system events. The platform’s advanced natural language processing (NLP) capabilities drive Peritus’ incident modeling and predictive capabilities. The core service fulfillment engine uses a combination of supervised and unsupervised methods to predict incident features from system log data. Peritus delivers automated orchestration of incident resolution through its close integration with existing incident management platforms.
+
+Job Description
+
+As part of the engineering team, drive and execute the Machine Learning/Artificial Intelligence technology roadmap to solve the challenges of dealing with structured, semi-structured and unstructured data in the context of a datacenter. In short, it’s about machines learning about machines, i.e., Systems ML.
+
+Responsibilities
+
+Advance the Machine Learning capabilities of the product.
+
+Analyze, select and implement Machine Learning/AI algorithms that improve the relevance of related incidents, the accuracy of resolutions and routing of incidents.
+
+Experiment with multiple algorithms simultaneously to identify the optimal algorithm.
+
+Enhance the experimentation platform by incorporating implicit and explicit feedback from users.
+
+Understand the data by interacting with the Subject Matter Experts.
+
+Qualifications & Expertise
+
+You have a Master’s /Ph.D. in Computer Science, Machine Learning or equivalent field.
+
+You have experience in building products from scratch using machine learning.
+
+You have proven experience in developing algorithms using Python or C++ or Scala in one or more of the following fields: machine learning, data analytics, information retrieval.
+
+You have experience applying statistics, probability, and machine learning to real business problems.
+
+You have experience in Natural Language Processing such as topic extraction, building knowledge graph (ontology).
+
+You have experience in building machine learning models for time series data.
+
+You have experience with Deep Learning frameworks (TensorFlow), applications, or services.
+
+You have excellent knowledge in an optimal computational environment required for data processing, mining and machine learning
+
+Your knowledge in one or more of the following data center supportability technologies will be a big plus – networking, storage, supportability (e.g. incident management, systems diagnostics).
+
+You are smart, get things done, have great energy and thrive in a fast-paced early-stage startup environment.
+
+You have a passion for creating customer value by applying cutting edge innovations in data science & technology.
+
+Please send your resumes to jobs@peritus.ai

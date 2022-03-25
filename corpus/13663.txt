@@ -1,0 +1,87 @@
+Req. ID: 180202
+
+Micron Technology's vision is to transform how the world uses information to enrich life and our commitment to people, innovation, tenacity, collaboration, and customer focus allows us to fulfill our mission to be a global leader in memory and storage solutions. This means conducting business with integrity, accountability, and professionalism while supporting our global community.
+
+We are seeking motivated individual to join our machine learning and deep learning team. Your role is to maintain and use state-of-the-art deep learning algorithms and tools. The team products are high-performance computer vision algorithms, demonstrations, hardware, compilers.
+
+Responsibilities include, but not limited to:
+
++ Build and maintain:
+
++ Deep learning frameworks, software and models to train neural networks models
+
++ Learning scripts and custom learning criterion, optimization modules
+
++ Dataset of images and videos
+
++ Dataset scripts
+
++ Web-optimized scripts for server-side processing
+
++ Validation scripts, measure dataset and model performance, and run them on Linux computer clusters
+
++ Build code for applied computer vision: saliency, tracking, detection, recognition, localization
+
++ Read literature, summarize results, and present results and innovations to the team
+
++ Reproduce and validate state-of-art models from papers and publications
+
++ Interact with customers, accept and review software and product requirements, satisfy requirements.
+
+Minimum Qualifications:
+
++ MS/PhD in Computer Science, Computer Engineering, Electrical Engineering, Physics or related experience
+
++ Minimum 5+ years experience on computer vision, machine-learning and deep learning algorithms, including Deep, Convolutional, Recurrent Neural Networks
+
++ Experience writing and maintaining professional software using: C, C++, Python, PyTorch, TensorFlow, Caffe or similar deep learning framework
+
++ Leader in machine learning competitions, and international datasets
+
++ Deep knowledge of machine / deep learning literature, especially recent years after 2012
+
++ Open source contributions
+
++ State-of-art knowledge of at least one of these computer vision techniques: face-identification, tracking, localization, detection, recognition, saliency, video-processing, image embeddings, similar images, video summarization, language models for image and video description, openCV, etc.
+
++ Excellent presentation, written and verbal skills, proven by international level conference participation, acclaimed web blogging
+
+Preferred Qualifications:
+
++ Award winner during PhD
+
++ Multiple international journal articles or conference presentations
+
++ Highly ambitious with forward-thinking and entrepreneurial aspirations
+
++ Background knowledge on parallel/heterogeneous programming (CUDA / OpenCL)
+
++ Background in Linux administration
+
++ Able to set up servers and clouds of servers
+
++ Experience in at least one area: text translation, speech recognition, text analysis, sentiment analysis
+
++ Experience with recurrent network or similar: RNN, LSTM, neural attention and associative memories
+
++ Experience in multimedia Linux software, libav, image and video compression / decompression, formats, processing with ffmpeg, libav and similar
+
++ Experience in embedded ARM setup, configuration and use: Raspberry Pi or similar
+
++ Graphic design, web design, CAD design
+
++ Artistic insights and abilities
+
+About Us
+
+As the leader in innovative memory solutions, Micron is helping the world make sense of data by delivering technology that is transforming how the world uses information. Through our global brands - Micron, Crucial and Ballistix - we offer the industry's broadest portfolio. We are the only company manufacturing today's major memory and storage technologies: DRAM, NAND, NOR and 3D XPoint memory. Our solutions are purpose built to leverage the value of data to unlock financial insights, accelerate scientific breakthroughs and enhance communication around the world.
+
+Micron Benefits
+
+Employee Rewards Program, Healthcare, Paid time off (Combined Sick and Vacation Time), Retirement savings plans, Paid maternity/paternity leave, Employee Assistance Program, Professional development training, Workplace wellness programs, Micron Health Clinic (Boise only), Fitness Center/Activity rooms (Boise/San Jose only), Tuition Reimbursement, Micron Corporate Discounts, Casual Dress attire.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.
+
+For US Sites Only: To request assistance with the application process and/or for reasonable accommodations, please contact Micron's Human Resources Department at 1-800-336-8918 or 208-368-4748 and/or by completing our General Contact Form
+
+Keywords: Seattle || Washington (US-WA) || United States (US) || DEG (DRAM Engineering Group) || Experienced || Regular || Engineering || #LI-BG1 || Tier 4 ||

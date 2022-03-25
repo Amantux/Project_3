@@ -1,0 +1,40 @@
+Intelligent Waves, a rapidly growing Service-Disabled Veteran Owned Small Business (SDVOSB), has an immediate need for a Systems Integration Engineer to support our mission critical work for our government customers
+The ideal candidate will possess experience in multiple areas of Information Technology (IT) such as networking, storage, virtualization, and system administration. The Systems Integration Engineer will be responsible for providing expert on-site installation, integration, operations, and maintenance of Intelligent Waves Virtual Mobile Infrastructure (VMI) product – Hypori and other associated technologies. IW will provide training and certification paths for well qualified engineers to become Hypori experts. The candidate will join the Research and Integration Division (RaID) of Intelligent Waves (IW) and support multiple DoD & Federal Government customers.
+Location & Travel: This Systems Integration Engineer position is located at Lackland AFB, TX (near San Antonio, TX) and may require some travel (~30%). Travel will be reimbursed based on GSA Per Diem rates and DoD Joint Travel Regulations (JTR).
+Security Clearance: This Systems Integration Engineering position must be a United States Citizen and hold a current Top-Secret Clearance with SCI eligibility.
+
+Serve as a local, on-site Subject Matter Expert (SME) for deployment and operations of Hypori, GrayPath, and other IW products in an operational environment
+Deploy, Integrate, and Maintain Data Center technologies to include:
+Networking – Dell & Cisco switches
+Commercial Solutions for Classified (CSfC) technologies
+Servers – HP & Dell servers
+Virtualization – VMWare (vSphere, vCenter, NSX, & vSAN) & Nutanix (AHV)
+Operating Systems – Linux, Windows Server 2012/2016
+Services – Puppet, Foreman, OpenStack, MySQL, PKI
+Deploy, Integrate, and Maintain Hypori
+Configure and Integrate Android and customer applications
+Develop project plans and schedules, identify technical risks, and support the customer in mitigating risks to the mission
+Develop and update System Documentation.
+Deliver formalized and over-the-shoulder training on technology solutions to customer staff
+Gather and interpret customer requirements and provide feedback to the Development Teams
+Perform other duties as assigned
+
+Ability to pass a criminal background check, drug screening, and medical assessment
+Ability to physically install and interconnect IT equipment in a customer datacenter
+DoD 8570 Certification (Security+ CE, CCNA Security, CISSP, …)
+Must have minimum 5 years’ experience with the design/architecture, installation, and/or operations of hardware and software technologies listed below
+Extensive experience with Linux operating systems (Red Hat Enterprise Linux, CentOS)
+Experience with Virtualization technology system administration such as Nutanix, OpenStack, VMWare, KVM, and other Hypervisors
+Experience with server technology including DRAC, BIOS, PXE, DNS, LDAP plus monitoring & debugging methods and technologies
+Experience with integration of servers with SANs and configuring network interfaces
+Familiarity with iOS and Android environments
+Personal Attributes:
+Excellent interpersonal skills and the ability to work as part of a diverse team
+Ability to communicate with senior military leaders and civilian government officials
+Strong problem solving and creative skills and the ability to exercise sound judgment and make decisions based on accurate and timely analyses
+High-level of integrity and dependability with a strong sense of urgency and mission focus
+Ability to work multiple projects and rapidly integrate and support new customers/environments
+Since 2006, Intelligent Waves has remained committed to providing quality engineering and intelligence solutions to our clients and it all starts with YOU. Intelligent Waves provides a great and generous benefits package to include medical, dental and vision, Paid PTO leave and life & disability packages. We also invest in our employees' futures by providing a matching 401K contribution with vesting starting from DAY 1, technical training, tuition bonuses, and much, much more.
+Clearance Statement: Applicants selected for this position will be subject to a government security investigation and must meet eligibility requirements for access to classified information. Only US citizens are eligible for a security clearance. For this position, Intelligent Waves will consider only applicants with security clearances or applicants who are eligible for security clearances.
+Intelligent Waves LLC is an equal opportunity employer. We are committed to providing equal opportunity to all applicants and employees in full compliance with all applicable state and federal laws prohibiting discrimination on the basis of race, color, age, gender, religion, national origin, disability, sexual orientation and gender identity protected veteran status and individuals with disabilities, or any other class protected by applicable state or federal law.
+A Veteran Friendly Organization

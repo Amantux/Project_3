@@ -1,0 +1,47 @@
+Data Engineer
+
+Team: Data Engineering
+
+Location: Sunnyvale, CA
+
+What We Do:
+
+Company: We create AI software that allows enterprises to design, build, experiment, customize, operate and own vertical AI solutions in a wide range of industries and areas, such as healthcare, industrial manufacturing and utilities, financial services, telecommunications, autonomous driving, and beyond. Petuum lets enterprises easily understand and apply AI to gain deep insight for better decision-making and improved productivity and efficiency. Our mission is to enable organizations to own, build and become informed users of their AI solutions, without relying on expensive talents.
+
+Team: The Data Engineering team is the "hub of the wheel" and responsible for everything related to data - Collection of raw data, Storing the data, Analyzing the data, and creating tool to make business decision that fuels the AI/ML models developed on Petuum's platform product. We are extending our system with more data sources and in more formats as well as with more data transformations. Particularly, we distinguish our offering with AI/Model based transformations to enable fast and comprehensive data understanding and automatic data processing, and eventually to power user friendly experience.
+
+The Role:
+
+The Data Engineer should be an expert familiar with all of the data warehousing technical components (e.g. ETL, Reporting, Data Model), infrastructure (e.g. hardware and software) and their integration. The ideal candidate will be responsible for developing overall architecture, high-level design, building the data pipeline and implementing data preprocessing components. The candidate must have extensive experience with Star Schemas, Dimensional Models, Data Marts, and Data Lake infrastructure. Excellent written and verbal communication skills are required as the candidate will work very closely with diverse teams.
+
+What You Will Do:
+Drive for key results as an individual contributor.
+Work with team members to implement features.
+Follow team engineering process and contribute to the development of sound engineering infrastructure.
+Maintain high-quality code base which is well factored, performant and robust.
+Be able to learn and grow in a dynamic and fast growing start up environment.
+Be familiar with the mainstream data processing and AI/ML technologies.
+Other duties as assigned.
+What You've Already Done:
+You have a Bachelor's Degree in Computer Science or related quantitative field. An advanced degree or equivalent practical work experience is a plus.
+You have 4 + years of work experience.
+2-4 years of software development experience in one or more object-oriented languages, including Python, Java, C#, or C++.
+Demonstrated strength in data modeling, ETL development, and Data warehousing.
+Experience with Relational Database like Oracle, MS SQL, MySQL, PostgreSQL
+Experience with NoSQL and Big Data Technologies (Hadoop, Hive, Hbase, Pig, Spark, etc.)
+Experience with AWS services including S3, Glue, Redshift, Athena, QuickSight, EMR, Kinesis and RDS.
+Experience in working and delivering end-to-end projects independently.
+Knowledge of distributed systems as it pertains to data storage and computing
+Experience with data pipeline, server architectures, and distributed systems is a plus.
+Startup experience is a plus.
+What You Already Know:
+Languages: Python and SQL. Experience with Bash/Shell, Java, C#/C++, R or Scala is a plus.
+Frameworks/Libraries: Spark, Hadoop. Experience with TensorFlow, Torch/PyTorch, Caffe, CNTK, Scikit-Learn, Samza, or Storm is a plus.
+Databases: Experience with SQL Server, MongoDB, AWS Cloud Storage, Microsoft Azure Storage, Google Cloud Storage, Cassandra, Amazon Redshift, Apache Hive, or Google BigQuery is a plus.
+Platforms: Experience with Windows Desktop/Server, Openstack/GCS/AWS, Firebase, Azure, Google Cloud Platform/App Engine.
+Tools: Experience with Docker, Kubernetes, GitHub, Flink, Pulsar, or Kafka is a plus.
+What We Offer for your Valuable Work:
+
+Petuum offers Medical, Dental, Vision, Life/Disability, Paid Time Off, Parental Leave, and more.
+
+Petuum is a welcoming workplace that considers applicants for employment without regard to, and does not discriminate on the basis of, gender, race, protected veteran status, disability, or any other legally protected status. Petuum is an at-will employer.

@@ -1,0 +1,77 @@
+Overview
+
+We are seeking a Senior Data Scientist (Machine Learning Platform) to join our Data Science team which focused on researching and implementing learning algorithms at scale to become part of our Lumiata Machine Learning Platform. This individual will play a critical science and ML engineering leadership role, by stirring the team to specific experiment and research directions that can take our platform to the next level. We want this individual to lead internally and externally by contributing to the research and technical communities.
+
+As a Data Scientist at Lumiata you will learn in detail how medical information flows from patient all the way through to meaningful insights and the many intricacies involved along the way including but not limited to:
+
+How AI and machine learning can transform healthcare.
+
+How to build and deploy novel machine learning products.
+
+How medical information is stored and communicated between different actors in the healthcare system.
+
+What modern, open standards have been developed to better communicate and represent medical data.
+
+What specific standards must be respected and how to ensure compliance to handle sensitive healthcare data including HIPAA, SOC2 and HITRUST among others.
+
+As a Senior Scientist, we expect to have strong leadership presence, and not only learn these aspects, but also help disseminate and evangelize with the more junior members of the team.
+
+Key Responsibilities
+
+Research learning algorithms and techniques that will inform future experiments for the team
+
+Drive research with focus on product design and customer value
+
+Drive industry standards and beyond within the DS team
+
+Use strong coding chops to drive experiments all the way to production
+
+Collaborate very tightly with our engineering team in terms of setting our long term technical strategy that blends engineering and science
+
+Mentor the more junior members of the data science organization
+
+Basic Qualifications
+
+6+ years Data Science experience or equivalent
+
+Python experience: specifically, these packages – pandas, numpy, scipy, sklearn
+
+Machine learning experience – have built Lasso regression, random forest, even deep net models
+
+Understanding of metrics like precision/recall curves
+
+Excellent communication skills
+
+Authorization to work in the US
+
+Preferred Qualifications
+
+Experience in high concurrency platforms, graph databases, applied mathematics
+
+B.S., M.S. or Ph.D. degree in Computer Science or related fields.
+
+Substantial contributions to open source projects or published papers
+
+Ability to inspire and motivate others
+
+Leader who sets high standards
+
+Leader with a critical eye who knows how to provide feedback in productive ways
+
+Entrepreneurial spirit
+
+Strategic, high level thinker, that also is willing to and can get very deep in the weeds
+
+Have a healthy sense of urgency and a good instinct for effective rapid prototyping
+
+Medical Informatics (ICD, CPT, LOINC, NDC, RxNorm, FHIR, HL7)
+
+About Lumiata
+
+Lumiata delivers Machine Learning powered health analytics to make healthcare smarter. At the intersection of clinical knowledge, data science and machine learning, Lumiata provides cost and risk analytics to health plans, care providers and employers.
+
+We process TBs of patient data per customer, which we use to train models that are used to solve our customer’s prediction and classification problems. We use a variety of ML techniques, ranging from simple linear regression, decision trees, SVMs and deep learning. We’re building a Big Data / Machine Learning platform for managing PBs of data, as well as providing our data science team capabilities that will allow them to iterate very quickly throughout the ML experimentation lifecycle: data cleansing, feature engineering, training, predict/classify, tune, and repeat. Our ambitions are around reaching economies of scale via our platform.
+
+Based in Silicon Valley, Lumiata’s team is a diverse, multinational, creative team; join us in building a better medical system for everyone by tackling looming health problems using large scale machine learning. Lumiata is backed by Khosla Ventures, BlueCross BlueShield Venture Fund, Intel Capital, Sandbox Industries and other leaders in healthcare and AI.
+
+Diversity creates a healthier atmosphere: Lumiata is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.

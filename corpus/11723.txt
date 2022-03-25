@@ -1,0 +1,107 @@
+About Aktify AI:
+
+Aktify AI was founded in 2017 and is based in Draper, UT. Although we are an early-stage R&D company, we already deliver 10X ROI for our clients (including several large national brands). At Aktify, we believe that interactions between brands and consumers can and should be natural and personalized, and that artificial intelligence will make this happen. We are building a world class AI platform to delight consumers and drive improved sales, marketing, and service results for our corporate clients. Aktify AI uses NLP and deep learning to deliver natural, human-like conversations via sms texting, instant messaging platforms, email, or chat tools on a webpage.
+
+About the Senior Data Scientist Position:
+
+What you will do:
+
+As a Senior Data Scientist you will work as both research scientist and software engineer. You will create machine learning models and conduct experiments to assure these models are creating real customer value. You will also architect event driven ETL data pipelines and data lake infrastructure that flow into your machine learning models. You will use modern, bleeding edge tools like Kafka, Spark, and Beam with languages such as Python and Scala. You will also create containerized, reactive microservices with monitoring (logging, distributed trace, and aggregated metrics). You will also provide your ideas and insights to help us improve our systems and products.
+
+Responsibilities:
+
+Translate the vision from product and technology into working AI systems.
+
+Both research and implementation of machine learning solutions.
+
+Create both real-time and batch system architecture and data infrastructure.
+
+Implement efficient real-time streaming and data lake batch processes that preserve data correctness.
+
+Create reactive, independent microservices connected by REST APIs and Kafka.
+
+Create regression tests to support continuous deployments and assure operational integrity.
+
+Contribute your vision and ideas to improve our conventions, processes, software, products and customer experience.
+
+Debug both real-time and batch process systems.
+
+Automate processes with Ansible, Terraform and shell scripts.
+
+Work well with others & help build good team chemistry.
+
+Willing to disambiguate poorly defined requirements and research solutions.
+
+Be a self starter who can take initiative and blaze your own trail when required.
+
+Benefits
+
+Be part of a well-funded startup with an ambitious culture.
+
+Collaborate with other brilliant people to create visionary solutions.
+
+Competitive salary and stock option grants.
+
+Dental, medical, vision for you & your family.
+
+Company-paid life insurance policy.
+
+Generous PTO and flex scheduling.
+
+Company-sponsored outings and meals.
+
+Paid parental leave.
+
+Fast paced, collaborative, and fun environment.
+
+About our ideal candidate:
+
+Requirements (you have most of these):
+
+Masters or PHD in Computer Science, Statistics, Math, or something quantitative.
+
+3+ years experience with building and deploying machine learning systems.
+
+3+ years experience with data engineering on a major platform (Horton, Cloudera, Amazon AWS, Google GCP, etc).
+
+Expert with data lake design, data modeling and massive data sets.
+
+Experienced with Python, Scala, or Java.
+
+Experienced with Spark or Beam.
+
+Experienced with various data sources (PostgreSQL, REST APIs, Kafka).
+
+Experienced with Docker and microservices.
+
+Experienced with Agile methodology.
+
+Knowledge of data structures and algorithms.
+
+Excellent verbal and written communication skills.
+
+Responsible and meets delivery date commitments on assigned projects.
+
+You collaborate well with others.
+
+Willing to work at our Draper, UT office.
+
+Optional (bonus points):
+
+Experience with NLP, deep learning, and collaborative filtering.
+
+Experience with DevOps, DataOps, Ansible, Terraform, and shell scripting.
+
+Experience with Kubernetes.
+
+Experience with CI/CD pipeline automation.
+
+Experience with PostgreSQL, Redis and KVS (e.g. Cassandra, Cloud Datastore).
+
+Experience with FaaS.
+
+EEOC statement:
+
+We are an equal opportunity employer and we are committed to hiring a talented and diverse team with many perspectives, and backgrounds. Decisions are made based on qualifications, merit, and business need. We do not discriminate on the basis of race, age, religion, national origin, gender, color, sexual orientation, veteran status, marital status, or disability status.
+
+1RKjQZ5vH1

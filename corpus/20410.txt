@@ -1,0 +1,8 @@
+Profile source data and determine all source data and metadata characteristics.
+Design and execute a Data Quality Audit/Assessment.
+Design and execute the data quality mappings that will cleanse, de-duplicate, and otherwise prepare the project data
+Document all mappings, mapplets, and rules in detail and hand over documentation to the customer
+Collaborate with various business and technical teams to gather requirements around data quality rules and propose the optimization of these rules if applicable
+Analyze and provide data metrics to management in order to help prioritize areas for data quality improvement
+Serve as the primary resource to team members and data stewards for training, problem resolution, data profiling etc.
+Ability to create Business Glossary

@@ -1,0 +1,123 @@
+At American Family Insurance, we’re driven by our customers and employees. That’s why we provide more than just a job – we provide opportunity. Whether you’re already part of our team in search of a new challenge or new to our company and ready for what’s next, you’re in the right place. Every dream is a journey that starts with a single step. Start your journey right here. Join our team. Bring your dreams.
+
+Job ID:
+R16830 Data Engineer I or II - Loss Reserving (Open)
+Summary:
+Determines and builds the technical solution(s) to allow unstructured data to be structured and used by Data Scientists. Seeks to understand the data being worked with as its often unstructured data sets. Often are data gurus who prepare data for all stages of the modeling process including exploration, training, testing, and deployment.
+
+As a Data Engineer I, you’ll work on collecting, storing, processing and building Business Intelligence and Analytics applications within our big data platform. Presently, our team is constructing an enterprise data lake to enable analysts and scientists to self-service data at scale across American Family’s operating companies. We’re leveraging open source technologies like Spark, Python, Hadoop, and cloud native tools to curate high-quality data sets. You’ll also be responsible for integrating these applications with the architecture used across the organization. Adjacent responsibilities include establishing best practices with respect to data integration, data visualization, schema design, performance and reliability of data processing systems, supporting data quality, and enabling convenient access to data for our scientists and business users.
+
+Job Description:
+
+
+As a Data Engineer I within the Loss Reserving Department you will work on building highly available datasets which bring together data elements from various sources in order to enhance actuarial analysis within the department. You will have the opportunity to work with traditional data tools such as RDBMS’s and SAS, as well as big data tools such as Hadoop, Presto, Python, Spark, and Sqoop. You will help build in house tools and Python packages to make access to data across a variety of sources as uniform as possible. You will help develop and maintain our loss reserving data model which feeds our loss reserving software.
+
+As a Data Engineer I in Loss Reserving you will have a unique opportunity to wear many hats, while gaining enough depth of knowledge to implement complex and reliable data systems using cloud native tools. You will also be exposed to many actuarial concepts which will enable you to relate with various business areas, while at the same time working in a high-tech environment, which will allow you to bridge the gap between IT and business users.
+
+Job Level Summary
+Requires working knowledge and experience in own job discipline and broadens capabilities
+Continues to build knowledge of the company, processes and customers
+Performs a range of assignments related to job discipline
+Uses prescribed guidelines or policies in analyzing situations
+Receives a moderate level of guidance and direction
+Primary Accountabilities
+Perform exploratory data analysis to determine which questions can be answered effectively with a given dataset.
+Develop highly scalable and extensible data pipelines from internal and external sources.
+Work on cross-functional teams to develop and deploy data-driven applications and products, particularly within the space of data science.
+Assist with prototyping emerging technologies involving data ingestion and transformation, distributed file systems, databases and frameworks.
+Build and maintain tools to increase the productivity of application development and client facing teams.
+Develop and automate data quality checks.
+Develop big data applications and data visualization tools.
+Travel Requirements
+This position requires travel up to 10% of the time.
+Education and Licenses
+Bachelor’s degree in computer science or related field, or equivalent combination of education and experience.
+Specialized Knowledge & Skills Requirements
+Demonstrated experience providing customer-driven solutions, support or service.
+Knowledge of SQL and experience using a variety of data stores (e.g. RDBMS, analytic database, scalable document stores).
+Hands-on programming experience in Python or java, with an emphasis towards building ETL workflows and data-driven solutions.
+Working familiarity with Linux scripting to automate workflows.
+Understanding of database internals, such as indexes, binary logging, and transactions.
+Knowledge of cloud computing platforms (e.g. AWS, GCP, Azure).
+Understanding of Infrastructure as Code (e.g. Docker, CloudFormation, Terraform, etc.)
+Additional Job Information:
+Depending on qualifications, candidates may be considered at the Data Engineer I or II level.Candidates with the following preferred:
+Hands-on experience writing scripts to automate tasks in a language like Bash, PowerShell, Perl, Python, VBScript, Node.js, etc.
+Basic understanding of how web technologies work a plus, as well as an understanding of developing applications built around microservices.
+Understanding of containerization and container orchestration preferred (e.g. Docker, Swarm, Kubernetes, etc.).
+Basic understanding of networking preferred (such as TCP/IP, TLS/SSL, and VPCs).
+Familiarity with some DevOps and planning tools preferred (such as Git, BitBucket, Jenkins, CodePipline, GitLab, Confluence, Jira, Draw.io, etc.).
+Experience and comfort in either AWS, GCP or Azure a plus.
+Hands-on programming experience with Python, Scala, or Java will be considered.
+
+Working familiarity with Linux and/or PowerShell scripting will be considered.
+
+Offer to selected candidate will be made contingent on the results of applicable background checks.
+
+Offer to selected candidate is contingent on signing a non-disclosure agreement for proprietary information, trade secrets, and inventions.
+
+Relocation assistance is available.
+
+Stay connected: Join our Talent Community!
+
+At American Family Insurance, we’re driven by our customers and employees. That’s why we provide more than just a job – we provide opportunity. Whether you’re already part of our team in search of a new challenge or new to our company and ready for what’s next, you’re in the right place. Every dream is a journey that starts with a single step. Start your journey right here. Join our team. Bring your dreams.
+
+Job ID:
+R16830 Data Engineer I or II - Loss Reserving (Open)
+Summary:
+Determines and builds the technical solution(s) to allow unstructured data to be structured and used by Data Scientists. Seeks to understand the data being worked with as its often unstructured data sets. Often are data gurus who prepare data for all stages of the modeling process including exploration, training, testing, and deployment.
+
+As a Data Engineer I, you’ll work on collecting, storing, processing and building Business Intelligence and Analytics applications within our big data platform. Presently, our team is constructing an enterprise data lake to enable analysts and scientists to self-service data at scale across American Family’s operating companies. We’re leveraging open source technologies like Spark, Python, Hadoop, and cloud native tools to curate high-quality data sets. You’ll also be responsible for integrating these applications with the architecture used across the organization. Adjacent responsibilities include establishing best practices with respect to data integration, data visualization, schema design, performance and reliability of data processing systems, supporting data quality, and enabling convenient access to data for our scientists and business users.
+
+Job Description:
+
+
+As a Data Engineer I within the Loss Reserving Department you will work on building highly available datasets which bring together data elements from various sources in order to enhance actuarial analysis within the department. You will have the opportunity to work with traditional data tools such as RDBMS’s and SAS, as well as big data tools such as Hadoop, Presto, Python, Spark, and Sqoop. You will help build in house tools and Python packages to make access to data across a variety of sources as uniform as possible. You will help develop and maintain our loss reserving data model which feeds our loss reserving software.
+
+As a Data Engineer I in Loss Reserving you will have a unique opportunity to wear many hats, while gaining enough depth of knowledge to implement complex and reliable data systems using cloud native tools. You will also be exposed to many actuarial concepts which will enable you to relate with various business areas, while at the same time working in a high-tech environment, which will allow you to bridge the gap between IT and business users.
+
+Job Level Summary
+Requires working knowledge and experience in own job discipline and broadens capabilities
+Continues to build knowledge of the company, processes and customers
+Performs a range of assignments related to job discipline
+Uses prescribed guidelines or policies in analyzing situations
+Receives a moderate level of guidance and direction
+Primary Accountabilities
+Perform exploratory data analysis to determine which questions can be answered effectively with a given dataset.
+Develop highly scalable and extensible data pipelines from internal and external sources.
+Work on cross-functional teams to develop and deploy data-driven applications and products, particularly within the space of data science.
+Assist with prototyping emerging technologies involving data ingestion and transformation, distributed file systems, databases and frameworks.
+Build and maintain tools to increase the productivity of application development and client facing teams.
+Develop and automate data quality checks.
+Develop big data applications and data visualization tools.
+Travel Requirements
+This position requires travel up to 10% of the time.
+Education and Licenses
+Bachelor’s degree in computer science or related field, or equivalent combination of education and experience.
+Specialized Knowledge & Skills Requirements
+Demonstrated experience providing customer-driven solutions, support or service.
+Knowledge of SQL and experience using a variety of data stores (e.g. RDBMS, analytic database, scalable document stores).
+Hands-on programming experience in Python or java, with an emphasis towards building ETL workflows and data-driven solutions.
+Working familiarity with Linux scripting to automate workflows.
+Understanding of database internals, such as indexes, binary logging, and transactions.
+Knowledge of cloud computing platforms (e.g. AWS, GCP, Azure).
+Understanding of Infrastructure as Code (e.g. Docker, CloudFormation, Terraform, etc.)
+Additional Job Information:
+Depending on qualifications, candidates may be considered at the Data Engineer I or II level.Candidates with the following preferred:
+Hands-on experience writing scripts to automate tasks in a language like Bash, PowerShell, Perl, Python, VBScript, Node.js, etc.
+Basic understanding of how web technologies work a plus, as well as an understanding of developing applications built around microservices.
+Understanding of containerization and container orchestration preferred (e.g. Docker, Swarm, Kubernetes, etc.).
+Basic understanding of networking preferred (such as TCP/IP, TLS/SSL, and VPCs).
+Familiarity with some DevOps and planning tools preferred (such as Git, BitBucket, Jenkins, CodePipline, GitLab, Confluence, Jira, Draw.io, etc.).
+Experience and comfort in either AWS, GCP or Azure a plus.
+Hands-on programming experience with Python, Scala, or Java will be considered.
+
+Working familiarity with Linux and/or PowerShell scripting will be considered.
+
+Offer to selected candidate will be made contingent on the results of applicable background checks.
+
+Offer to selected candidate is contingent on signing a non-disclosure agreement for proprietary information, trade secrets, and inventions.
+
+Relocation assistance is available.
+
+Stay connected: Join our Talent Community!

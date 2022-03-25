@@ -1,0 +1,65 @@
+At Lyft, community is who we are and it's what we do. It's what makes us different. To create the best ride for all, we start in our own community by creating an open, inclusive, and diverse organization where all team members are recognized for what they bring.
+
+As a Data Scientist on Fraud, you will collaborate with our world class team of engineers, analysts and research scientists to fight fraud and build user trust on the Lyft platform. You will develop visibility into the different types of fraudulent behaviours, assess impact and develop solutions to help remove the bad actors from Lyft platform while maintaining a positive experience for regular users. The ideal candidate combines deep technical expertise with an understanding of what it takes to win against bad actors.
+
+*****************
+
+Responsibilities:
+
+*****************
+
+Analyze the wide variety of signals available to identify different fraud patterns and uncover root causes
+
+Leverage data to develop statistical solutions (segmentation, modeling) to help fight fraud
+
+Recommend product and policy solutions to protect against fraud while not impacting good users
+
+Collaborate with other scientists and analysts on cross-functional partner teams to help identify and resolve different fraud vectors across verticals at Lyft
+
+Partner with product managers, engineers, marketers, designers, and operators to translate business insights into decisions and action
+
+Design and analyze product experiments; communicate results and launch decisions
+
+Set business metrics that measure the health of our products, as well as passenger and driver experience
+
+Develop analytical frameworks to monitor business and product performance
+
+***********
+
+Experience:
+
+***********
+
+Degree in a quantitative field like statistics, economics, applied math, operations research or engineering. Advanced degrees are preferred
+
+1-3 years of industry experience in a data science or analytical role
+
+1-2 years experience in a fraud/risk role, preferably in payments or fintech industry
+
+Familiarity with fraud data vendors and using behavioral patterns to make inferences on fraudulent behavior is highly preferred
+
+Proficiency in SQL - able to write structured and efficient queries on large data sets
+
+Experience in programming, especially with data science and visualization libraries in Python or R
+
+Strong oral and written communication skills, and ability to collaborate with cross-functional partners to build the business
+
+********
+
+Benefits
+
+********
+
+Great medical, dental, and vision insurance options
+
+In addition to 11 observed holidays, salaried team members have unlimited paid time off
+
+401(k) plan to help save for your future
+
+18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+
+Monthly commuter subsidy to cover your transit to work
+
+20% off all Lyft ride
+
+Lyft is an Equal Employment Opportunity employer that proudly pursues and hires a diverse workforce. Lyft does not make hiring or employment decisions on the basis of race, color, religion or religious belief, ethnic or national origin, nationality, sex, gender, gender-identity, sexual orientation, disability, age, military or veteran status, or any other basis protected by applicable local, state, or federal laws or prohibited by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind. Pursuant to the San Francisco Fair Chance Ordinance and other similar state laws and local ordinances, and its internal policy, Lyft will also consider for employment qualified applicants with arrest and conviction records.

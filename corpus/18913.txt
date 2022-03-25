@@ -1,0 +1,38 @@
+Artificial Intelligence (AI/ ML Engineer)
+
+Dallas, TX
+
+Perm Full Time.
+
+JOB DUTIES AND RESPONSIBILITIES
+Design, develop, and deliver AI/machine learning enabled solutions for specific industry problems.
+Build scalable, available, and supportable processes to collect, manipulate, present, and analyze large datasets in a production environment
+Articulate problem definition and work on all aspects of data including acquisition, exploration/visualization, feature engineering, experimentation with machine learning algorithms, deploying models.
+Develop working prototypes of algorithms, evaluate, and compare metrics based on real-world data sets.
+Provide design input specifications, requirements, and guidance to software engineers for algorithm implementation for solution/product development.
+Decide when a model is ready for deployment and monitor its accuracy over time to see when it needs to be retrained or replaced.
+Oversee the AI Ops process with periodic or continuous model maintenance
+Collaborate and communicate between data scientists and operations professionals to help manage production machine learning lifecycle.
+Enhance existing platform and solutions by adding and improving features
+MINIMUM REQUIRED KNOWLEDGE, SKILLS, AND ABILITIES:
+4-13+ years of professional experience is required
+Experience building and deploying AI/ML models at scale
+Degree in applied math, statistics, machine learning or computer science. MS is preferred
+Deep understanding of statistics and experience with machine learning algorithms/techniques
+Proven programming skills, in particular Python, strong experience with DL frameworks such as Tensorflow, Torch and others
+Scientific expertise and real-world experience in deep learning (convolutional neural networks, LSTM’s)
+Experience in building distributed deep learning models leveraging GPUs
+Passion for solving challenging analytical problems
+Ability to quickly qualitatively and quantitatively assess a problem
+Ability to work productively with team members, identify and resolve tough issues in a collaborative manner
+Experience in applying machine learning techniques to real-world problems in a production environment
+Experience on Anaconda Enterprise platform
+Experience building & deploying machine-learning models at scale on Kubernetes
+BONUS KNOWLEDGE AND SKILLS:
+Publications in the machine learning space is preferred
+Worked on large-scale, real-world problems in deep learning for a startup or large Enterprise
+Open source contribution to algorithms, libraries and frameworks in DL
+Worked on Distributed computing environment such as Hadoop, Spark etc
+Exposure to NoSQL technologies such as MongoDB and Cassandra
+Passion for data
+Experience with participating and winning Hackathon/Kaggle like competitions in ML/DL areas

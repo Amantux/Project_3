@@ -1,0 +1,62 @@
+It's fun to work in a company where people truly BELIEVE in what they are doing!
+
+We're committed to bringing passion and customer focus to the business.
+
+Cigna Digital/Brighter is in search of a Data Scientist to join our product team based out of the Santa Monica, California office. This team is responsible for developing a personalization platform to prioritize providers and recommend providers to members based on their search criteria. The role will be responsible for developing the machine learning models for the personalization platform and report test results to key stakeholders. The ideal candidate is also a motivated, self-starter that brings a fresh perspective and passion to solve complex business and technical challenges in a fast-paced and team-oriented environment. The role will report to the Director of Product Management.
+
+Key Responsibilities:
+
+Translate business problems into data science questions and develop solutions
+
+Identify and analyze the provider, member and claim data needed for the machine learning tasks
+
+Process, cleanse, and verify the integrity of data used for analysis.
+
+Explain data science findings and machine learning models to stakeholders.
+
+Define the business and technical requirement for the data marts required for the machine learning tasks
+
+Implement and execute production-level machine learning models
+
+Collaborate with engineering teams to build data-based products and help integrate into the products and operational processes.
+
+Required Qualifications:
+
+3 + years of experience as a Data Scientist
+
+MS degree or higher in Data Science, Statistics, Applied Math, Econometrics, Computer Science, or other related fields strongly preferred
+
+Deep understanding of statistical modeling, machine learning, or data mining concepts, and a track record of solving problems with these methods.
+
+Demonstrated delivery of machine learning techniques in real-time applications.
+
+Strong data munging/processing skills
+
+Proficient with SQL
+
+Solid professional experience using Python or Scala for purposes of model development
+
+Solid professional developing production level data-processing pipelines with big data techniques (such as Hadoop, Spark, Hive)
+
+Experience with Looker, Periscope or Tableau
+
+Strong verbal and written communication skills
+
+Desired Qualifications:
+
+Experience with provider analytics
+
+Experience with deep learning, NLP and Neural Networks (such as, TensorFlow/Keras)
+
+Experience developing recommendation engine is a plus.
+
+About Cigna Digital/ Brighter
+
+We’re on a mission to bring digital transformation and transparency to healthcare. Our platform seamlessly connects patients, providers, and payers. Using technology, we’re able to turn passive patients into active health care consumers by providing them with the fully-integrated online and mobile experience that they have come to expect in every other aspect of their lives - while reducing costs by using technology to leverage transparent, market-driven interactions among plan members and participating providers.
+
+Brighter was founded by entrepreneur Jake Winebaum, and became a part of Cigna to further develop and release new end-to-end digital experiences that are designed to create deeper and more successful relationships amongst consumers, provider partners and health service organizations.
+
+Qualified applicants will be considered for employment without regard to age, race, color, religion, national origin, sex, sexual orientation, gender identity, disability, veteran status.
+
+If you require an accommodation based on your physical or mental disability please email: SeeYourself@cigna.com. Do not email SeeYourself@cigna.com for an update on your application or to provide your resume as you will not receive a response.
+ At Cigna, we're more than a health insurance company. We're a global health service company dedicated to helping people improve their hea...

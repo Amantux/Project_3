@@ -1,0 +1,43 @@
+Job Description
+Job Description
+
+Scope:
+Data Scientist to help build classification, regression ML models for predictive analytics and anomaly detection
+You will be responsible for transforming data and generating actionable insights into our customer behavior
+Communicate key results with self-serve tools (dashboards, analytics tools) for the Customer Success team
+Must have DS skills:
+Data cleaning, Data wrangling, Data Visualization, Intellectual Curiosity, Business acumen, Communication Skills, Probability and Statistics, Machine Learning
+Experience building (from scratch) Machine Learning (ML) models that can be put to production (with the support of data engineering and S.W engineering teams)
+Professional experience building machine learning models (candidates will need to articulate detail project experience from research, model selection, action and results)
+Statistics knowledge
+Tools/Environment must haves:
+Azure Data-bricks environment/environment experience,
+Python Programming skills – 3 years (In-depth knowledge of Python, Pandas and its open-source ecosystem or similar)
+SQL – 2- 3 years
+Spark ML – domain knowledge
+Visualization tools: Power BI or similar
+Responsibilities:
+Build machine-learning models
+Create regression, classification models; Work with engineering teams to deploy robust, highly available decision pipelines based on your models.
+Analyze large amounts of information to discover trends and patterns
+Combine models through ensemble modeling
+Present information using data visualization techniques
+Processing, cleansing, and verifying the integrity of data used for analysis. Undertake preprocessing of structured and unstructured data
+Qualifications:
+Business acumen and communication skills to gather the data requirement from the business
+3+ years of related professional work experience
+Theoretical and execution background of Data Science with specific focus on Machine Learning
+Experience testing and validating models and assessing the trade-offs between different modeling techniques and specifications
+Comfort manipulating and analyzing complex, high-volume, high-dimensionality data from varying sources
+Strong analytics and problem-solving skills needed. Can take the data and come up with a solution specific to the use case
+Experience in applying statistical learning methods to solve business problems
+Experience working with complex and/or large data sets
+Practical ability to visualize data, communicate the data, and utilize it effectively
+Programming skills – 2 years (In-depth knowledge of Python, Pandas and its open-source ecosystem or similar)
+Proficiency in using query languages such as SQL, Hive, Pig, Sqoop.
+Experience with NoSQL databases, such as MongoDB, Cassandra, Hbase and SQL databases and unstructured data stores
+Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naïve Bayes, SVM, Random Forests, etc.
+NLP / NLU experience preferred.
+
+Company Description
+GTN provides Scalable Technical Staffing solutions encompassing SOW, staff augmentation, and direct hire placement for Fortune 2000 companies, with niche service offerings in Cyber Security, Digital, Payroll Management, and Professional Services.

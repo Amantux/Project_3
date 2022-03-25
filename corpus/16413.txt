@@ -1,0 +1,40 @@
+The Opportunity
+
+Eversight is the recognized leader in AI-powered price and promotions. Eversight's proprietary cloud-based SaaS solution brings AI and continuous experimentation to consumer brands and retailers. Our software acts as a coach, enabling market leaders to transform pricing and promotion strategy for the $3.4 trillion spent in consumer goods retail using intelligent, real-time data and insights.
+
+Reporting directly to the Head of Data Science, you will be at the center of what determines Eversight's success as a company. You will analyze the data and develop production code using the newest Data Science and Machine Learning techniques to determine the optimal prices and promotions for major product manufacturers and retailers that sell these products.
+
+Responsibilities
+Research, implement and modify modern Data Science techniques. More specifically:
+Build Statistical and Machine Learning models that describe the impact of prices and promotions on shopper behavior, including behavioral pricing effects. You'll need to find middle ground between using flexible modern AI methods and proven classical methods.
+Develop Optimization and Experiment Design systems, which determine the best prices to set for each product in each store each week. Finding a good balance on the exploration-exploitation tradeoff will be crucial.
+Design and run pricing experiments across hundreds of stores and tens of thousands of products
+Create model validation methods to make sure that our models are accurate and to quantify the impact of our solutions on the clients' bottom line
+Work with Product Management to generate ideas and quickly turn them into efficient, well-tested, functioning code (we mostly use Python)
+Partner with the Engineering team to create highly scalable solutions
+Serve as Data Science expert both within Eversight and for our clients
+Lead custom analyses and connect them to actionable Business and Product insights
+Help prioritize new feature development by assessing potential impact
+Be a go-to resource for science-related questions about the product
+Behavioral Profile
+Analytical, framework thinker
+Comfortable in a fast-paced environment
+Highly collaborative
+Strong at translating Data Science concepts to non-technical audiences
+Business focused; measures work in its contributions to business outcomes and prioritizes effort against deliverables accordingly
+Skills and Experience
+M.S. in Operations Research, Machine Learning, Statistics, Mathematics, Engineering, Economics, Computer Science or relevant quantitative field
+2+ years of experience in Data Science or Machine Learning. Ph.D. experience accepted
+Elite ability in : Linear Algebra, Hypothesis Testing, Bayesian Methods, Regressions, Calculus, Maximum Likelihood Estimation
+Experience in Machine Learning methods: Neural Networks (Deep Learning, Embeddings, Sequence Modeling, CNN), Tree-based methods (GBDT, Random Forest), Regressions (Linear, GLM), Regularization Methods (L1/L2 penalties, Feature Selection, Dimensionality Reduction)
+Experience in A/B testing and Design of Experiments preferred
+Demand Modeling, Pricing, and Causal Inference experience preferred but optional
+Knowledge of common data structures and ability to write efficient code in Python
+Agile experience preferred
+Location
+
+Palo Alto, CA
+
+About the Company
+
+Eversight is the recognized leader in AI-powered pricing and promotions. Global brands and retailers rely on the Eversight platform to optimize pricing in response to market conditions and to deliver higher ROI on promotional spend. Eversight's Pricing Suite and Offer Innovation Suite solutions are driving strong margin and sales volume improvements for leading companies such as Coca-Cola, Frito-Lay, Raley's, and Rite Aid. Founded in 2013, Eversight is headquartered in Palo Alto, California, with offices in Chicago and New York.

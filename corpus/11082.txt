@@ -1,0 +1,53 @@
+At LexisNexis, we develop the legal profession’s most innovative products for data analysis, visualization, and research - uncovering insights about judges’ rulings, revealing critical cases, enabling lawyers to make data-driven decisions, and more. LexisNexis seeks a Senior Data Scientist to join our rapidly growing team. As a senior member of the Data Science team, you will research and design systems to tackle tough problems in the legal domain and expand our award-winning products.
+
+ACCOUNTABILITIES
+
+Solve some of the most challenging problems in natural language processing, machine learning, and information retrieval including topical classification, legal sentiment analysis, user intent detection, open Q&A.
+
+Research, build, and deploy models based on both shallow and deep machine learning. Train robust NLP-based models a very large corpus of legal, regulatory, and news data.
+
+Apply machine learning techniques for improving search algorithms.
+
+Drive best practices for NLP/Machine Learning pipelines.
+
+Maintain current knowledge-base of state-of-the-art ML algorithms (BERT, ELMo, GPT, etc.), API's, and open-source methods and be able to quickly evaluate alternatives.
+
+Translate complex business requirements into actionable stories with reasonable time estimates.
+
+Participate in model reviews with key stakeholders, including stakeholders with limited statistical backgrounds from among that set.
+
+Work with product leaders to apply data science solutions.
+
+Participate in knowledge sharing sessions (e.g. Guilds and Chapters).
+
+DATA SCIENCE AND NLP SKILLS
+
+In-depth understanding of machine learning techniques such as classification, clustering, recommendation systems, and statistical models.
+
+5+ years’ experience using Machine Learning and associated packages like scikit-learn, pandas, Numpy.
+
+Proficiency training large scale models in at least one modern deep learning engine such as Tensorflow, Keras, PyTorch/Torch, MXNet, Caffe/Caffe2
+
+3+ years’ experience using NLP tools and methods such as OpenNLP, Stanford NLP, LDA, Gensim, spaCy
+
+PROGRAMMING SKILLS
+
+5+ years recent coding experience using Python AND/OR (Java OR Scala)
+
+SQL programming experience
+
+CLOUD AND DATABASE SKILLS
+
+1-3 years’ experience developing in a cloud environment (AWS, Azure, GCP)
+
+1-3 years’ experience working in high-performance/large-scale (big data) computing systems (e.g. Hadoop, Spark)
+
+TEAM AND SOCIAL SKILLS
+
+Strong collaboration and team skills
+
+LexisNexis Legal & Professional (www.lexisnexis.com) is a leading global provider of content and technology solutions that enable professionals in legal, corporate, tax, government, academic and non-profit organizations to make informed decisions and achieve better business outcomes. As a digital pioneer, the company was the first to bring legal and business information online with its LexisNexis services. Today, LexisNexis Legal & Professional harnesses leading-edge technology and world-class content, to help professionals work in faster, easier and more effective ways. Through close collaboration with its customers, the company ensures organizations can leverage its solutions to reduce risk, improve productivity, increase profitability and grow their business.
+
+Part of RELX Group plc, LexisNexis Legal & Professional serves customers in more than 100 countries with 10,000 employees worldwide. LexisNexis, a division of RELX Group, is an equal opportunity employer: qualified applicants are considered for and treated during employment without regard to race, color, creed, religion, sex, national origin, citizenship status, disability status, protected veteran status, age, marital status, sexual orientation, gender identity, genetic information, or any other characteristic protected by law. If a qualified individual with a disability or disabled veteran needs a reasonable accommodation to use or access our online system, that individual should please contact 1.877.734.1938 or accommodations@relx.com.
+
+RSRLNLP

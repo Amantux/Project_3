@@ -1,0 +1,52 @@
+Hi,
+
+Below is the job description,Please do send me your updated resume if you are interested:
+
+
+Job Title :Data Scientist
+Duration : 5 Months Extendable Contract
+Client Company :AstraZeneca & MedImmune
+City :35 Gatehouse Drive
+Waltham
+Massachusetts
+USA
+02451
+
+Main Duties and Responsibilities
+
+Opportunity for an Application Engineer/Bioinformatician to bring data science, AI and ML together in a new platform that will facilitate drug discovery research in a big organization.
+The Application Engineer will:
+- assess different open source platforms to be used as a data science workspace.
+- deploy and test the suitability of these platforms in local computing and cloud-based settings.
+- define user requirements and modify code to suit the needs of data scientist users.
+- work with software engineers, bioinformaticians, data scientists and DevOps to accommodate the different tool sets in the new platform.
+
+Essential Requirements:
+- Minimum of 2 years of applied experience as an Application Engineer.
+- Minimum of 3 years of experience working with docker/Kubernetes.
+- Experience in Linux environment.
+- Experience in Cloud computing (AWS, google cloud), and HPC.
+- Experience in Python and bash scripting.
+- Experience in working with containers.
+- Familiarity in data science and machine learning related workflows.
+- Good communication skills.
+
+Desirable:
+- Working with open source code.
+- Experience with basic machine learning workflow.
+- Experience in SQL, R, Bioconductor, tensorflow/Pytorch.
+- Familiarity with bioinformatics.
+
+The bioinformatician will:
+
+- Integrate multiple NGS data resources together to facilitate AI/ML based developments within the organization.
+- Perform exploratory analysis on different data sets.
+- Construct a central database of different modalities and build an interface to be used by data scientists.
+
+Essential Requirements:
+3 years of experience working with NGS data, including but not limited to; TCGA data (RNA expression, methylation, mutation profiles and copy number), GTEx, CCLE, single cell RNA-seq.
+2 years of experience in Python or R in a data science environment (data preprocessing and analysis).
+3 years of experience in Linux environment.
+
+Other:
+An exceptional candidate with strong technical capabilities in ML/stat and hands on experience in Python/R will be also considered.

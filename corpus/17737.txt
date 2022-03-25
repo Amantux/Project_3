@@ -1,0 +1,57 @@
+Boulevard is transforming business management for premium beauty service brands through their proprietary platform-as-a-service.
+
+Developed in collaboration with industry-leading owners and operators, Boulevard is the only management tool built specifically for appointment-based businesses that delivers ease of use with style and sophistication.
+
+Founded in 2016 and based in Los Angeles, Boulevard is carefully designed to automate workflows and drive revenue while allowing brands to offer a personalized experience that keeps clients coming back.
+
+This Role
+
+Our engineering team has one simple but lofty goal: deliver a delightful experience to our service providers and their customers. You'll have the opportunity to build extraordinary applications that are reliable, fast, responsive, and beautiful.
+
+As the Architect for our Front End applications at Boulevard, you'll be the mastermind behind our frontend architecture. You’ll sit at the intersection of Design, Product, and Engineering as we build a beautiful and intuitive interface to power local commerce. You’ll combine your expert knowledge of HTML, CSS, and JavaScript with your eye for stunning designs to produce unrivaled user experiences.
+
+We are building extremely complicated single page applications which need to scale to millions of users. We pride ourselves with the patience to build the best solution and not the easiest. Our code is maintainable, expressive and elegant. We often ship several changes to our applications daily and test multiple versions simultaneously.
+
+Because we are pushing the boundaries of what is possible with JavaScript in todays devices, we are looking for more of the worlds most innovative JavaScript engineers.
+You Will
+Collaborate with a small yet extraordinarily talented team of engineers to implement front-end technologies to acquire customers, increase conversion and engagement
+Work closely with the Design and Product teams to translate complex technical workflows into delightful user experiences
+Define how Boulevard builds user interfaces and ensure that we’re utilizing and keeping up with modern web standards
+Continually test, measure, and iterate on the results of your work in the spirit of continuous improvement
+Write clean, reusable, and well-tested front-end code
+Help to bridge the responsibilities of the Design and Engineering teams, spending time with both on the way to launching new products
+Architect efficient and reusable front-end abstractions and systems that drive complex web applications
+Build and contribute to open source projects
+You Have
+At least 7 years of on the job experience in building large-scale web applications in a fast-moving team environment
+A strong understanding of UX and UI design standards
+The perfectionist’s touch on a pragmatist’s deadline: you strive for pixel-perfection and intuitive functionality
+Experience building, evolving, and debugging JavaScript applications, using frameworks like Angular, React, or Ember
+The ability to bring any design to life with HTML and CSS, with cross browser compatibility and accessibility
+A comfort in using tools like Sketch or Photoshop to tweak and export assets from our Design team
+Smarts, humility, communication skills, and equal willingness to teach and learn
+Bonus Points for
+Demonstrated work beyond the front-end, experienced in integrating with a wide array of back-end technologies and services
+You can straddle client and server development, creating APIs that drive web apps
+Experience constructing data visualizations using libraries like D3.js
+You nerd out making things animate with SVG, Paper.js, Three.js, Canvas, or WebGL
+Experience with Stripe or processing credit cards
+You understand the intricacies of timezones
+Web optimization, performance tools, and load testing
+Current Front-End Technologies
+React/React Native
+GraphQL
+Sass
+Webpack
+Protractor
+Our team values and celebrates our diverse backgrounds. Being open about who we are and what we do allows us to do the best work of our lives. We believe in equal opportunity for all, and you should too.
+
+
+About Boulevard
+Boulevard was founded with the fundamental belief that personal care should be convenient for all. Our mission is to maximize potential for salons and spas, as well as the clients they serve.
+
+Developed in collaboration with industry-leading owners and operators, our scheduling, point of sale, and conversation platform was carefully designed to drive revenue, automate workflows, and convert customers from visitors into valuable, long-term clients. By facilitating a better, personalized experience across every transaction and interaction, Boulevard’s technology not only helps salons and spas to survive, but thrive.
+
+As a venture-backed startup based in Los Angeles, we are innovating at the intersection of luxury and lifestyle. We are thoughtfully unapologetic about challenging the status quo in pursuit to help people become the best version of themselves. We use technology, design, and style to unleash the untapped potential in all of us, drive real results, and we're just getting started!
+
+Come do the best work of your life here at Boulevard.

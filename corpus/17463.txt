@@ -1,0 +1,34 @@
+About Attentive:
+Attentive is a mobile messaging platform changing the way consumers interact with businesses and organizations. The company is one of the fastest growing startups in New York City and recently raised a $110 million Series C investment led by Sequoia and IVP—two of the world’s leading venture firms—in early 2020, less than 8 months after its Series B round due to strong customer traction. We’ve seen 347% customer growth in just one year, and now work with 1000+ of the most innovative brands like Coach, Urban Outfitters, CB2, PacSun, Lulus, Party City, and Jack in the Box. Attentive was founded in 2016 by the co-founders of TapCommerce, a mobile marketing platform that was acquired by Twitter in 2014.
+
+
+Role Background:
+We’re looking for a great Data Engineer for our growing Analytics team. You’ll be responsible for all things data: building out our streaming and batch ETL pipelines, curating and anonymizing data that’s being generated from various sources, designing and building the data warehouse, and so on.
+
+We’ll expect you to have an in-depth knowledge of distributed systems and data flows. Combined with an understanding of business intelligence and performance requirements, you’ll breathe life into Attentive data and help make it an invaluable part of the platform and business.
+
+If you are a self-starter, excited about building a culture around data-driven decisions, motivated by making an impact, and pushing the boundaries of your knowledge, you will excel here and do great things!
+You at Attentive:
+Design, implement, and maintain an ever-growing ETL pipeline using state-of-the-art technology
+Use best practices and standards for managing large collections of data for analytics
+Discover and integrate new heterogeneous data sources
+Work closely with data analysts, data scientists, and product managers enabling them to provide insight into key performance metrics of the business
+Help to improve data reliability, efficiency, and quality
+Your Qualifications:
+4+ years of experience designing and developing a data warehouse on a distributed database platforms, such as Snowflake or Redshift
+Experience designing, developing, and maintaining high-throughput and low-latency ETL pipelines
+Experience with data modeling, data access, and data storage techniques
+Experience with big data tools such as Apache Spark
+Proficient in SQL and Python
+Proficient with at least one RDBMS (MySQL or Postgres preferred)
+Successfully implemented data pipelines in the public cloud, especially Amazon Web Services
+Strong analytical and interpersonal skills
+Enthusiastic, highly motivated and ability to learn quick
+Benefits & Perks
+Robust health benefits packages including access to a 401k and various medical, dental and vision plans, and $100/month fitness reimbursement
+Full support for remote work during COVID-19
+Daily lunch delivery credit and other goodies sent to home
+Regular company-wide social events (even virtually!)
+Generous annual education stipend toward job-related external learning opportunities
+An extremely enthusiastic team that appreciates collaboration
+Attentive is an Equal Opportunity Employer. We’re committed to diversity and maintaining a work environment that is free from harassment and discrimination. We’re committed to them because our core values demand it. Values like Integrity First, Listening & Cultivating Discussion, and Default to Action. Applicants from all backgrounds are encouraged to apply, and will not be discriminated against on the basis of any protected status under federal, state, or local law.

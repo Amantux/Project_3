@@ -1,0 +1,49 @@
+What we're looking for
+
+We are looking for a motivated data engineer who is passionate about building reliable and scalable data pipelines to make data sets available for analysis. The ideal candidate is entrepreneurial, motivated to grow, and has a passion for Python development.
+Our Engineering Values
+Collaboration: We believe that engineers do their best work when working together in cohesive teams.
+Excellence: We believe in doing things the "right way" rather than the "fast way", and holding ourselves to a high standard of excellence.
+Growth: We believe engineers do their best work when they are constantly growing, learning, and changing.
+Communication: We believe in combining empathy with openness and honesty to set clear expectations and hold each other accountable.
+Impact: We believe we're making the world a better place by empowering marketers to really help their customers rather than just sell stuff.
+
+What you'll be doing
+Developing and enhancing multiple ETL pipelines
+Designing and implementing data storage structures and ETL pipelines, keeping long-term impacts in mind
+Assemble large, complex data sets that meet functional / non-functional business requirements.
+Working knowledge of message queuing, stream processing, and highly scalable 'big data' data stores.
+Strong project management and organizational skills.
+Identifying and improving upon current internal processes through automation and optimization
+
+Who you are:
+
+
+Bachelor's degree in Computer Science, Mathematics, or related field/equivalent experience
+3+ years of experience with Python, Java, Scala, R, Go or similar language
+3+ years of experience in working with cloud computing technology (AWS, Google Cloud Platform, etc.)
+3+ years experience working on data warehouse systems such as Snowflake
+Have developed systems based on key principles (consistency and availability, liveness and safety, durability, reliability, fault-tolerance, consensus algorithms)
+Comfortable using version control and working in a collaborative environment
+Experienced with CI/CD tools for testing and deployment
+Self-starter with the ability to work independently or in a team
+Able to manage one's schedule and prioritize tasks independently
+Why You Should Join
+
+
+At Conductor, we are looking for engaged and passionate engineers that can raise the bar. There is a tremendous opportunity here to have immediate impact in the day-to-day and affect the company's success and growth. We all share in the same values and push each other to meet these standards.
+
+We are made up of a diverse group of people from all backgrounds and include a team of exceptional engineers in Kyiv as well. Wherever you are from, you will find a common ground here for continuing to push forward your career and make a difference in this industry.
+
+Conductor, Inc. is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.
+
+About Conductor
+
+
+Conductor's search and content intelligence platform helps marketers create and optimize content to improve visibility online.
+
+The technology generates customer intent insights that lead to compelling content, increased traffic, and higher organic marketing ROI. Customizable dashboards and workflows guide marketers through the content creation process, empowering them to measure, refine, and demonstrate the effectiveness of their SEO and content marketing efforts.
+
+In addition to its SaaS platform, Conductor offers a suite of services and support including site audits, site migrations, and managed services that empower in-house marketing teams and digital marketing agencies to drive results and put their customers' needs first.
+
+Conductor's forward-thinking customers include global and emerging enterprise brands like Citibank, Salesforce, ClassPass, and WeWork.

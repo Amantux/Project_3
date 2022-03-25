@@ -1,0 +1,29 @@
+The Alpha Insights team is looking for an entrepreneurial data scientist to contribute to its data-driven investment initiatives. Alpha Insights crowdsources the world's investment insights and through such data creation we are an integral part of the investment management process. We interact with people external to the firm to collect and analyze their investment insights through our web and mobile products.
+
+Data science in Alpha Insights has 3 missions: (1) make relevant data and metrics accessible to the team (2) perform analyses to guide business and product decisions and (3) build data-driven features that power our products.
+
+You will take on the following responsibilities:
+Deliver metrics and analyses to all functions within Alpha Insights including product, design, and business units
+Write ETLs to convert structure/unstructured data into stable data assets
+Build visualizations to enable team members to extract relevant insights
+Apply statistical analysis and exploratory techniques to enable data-driven decision making
+Own data-driven product components (e.g. ranking and recommendation algorithms)
+You should possess the following qualifications:
+3-5 years of experience in data analysis or similar role
+MS or PhD in Computer Science, Statistics, Economics or related, quantitative field
+Experience applying statistical methods (distribution analysis, classification, regression, clustering, etc.). Application of these methods to user behavior a plus
+Demonstrated experience highlighting innovation, creativity, and intuition, e.g. the ability to laterally identify other sources of useful information and think 'outside the box'
+Strong data transformation skills (e.g. using Pandas, R,)
+Software engineering skills in at least one imperative programming language
+Communication skills to explain metrics/analyses to members of management, engineering, product and business teams.
+Prior experience in finance is not required
+You will enjoy the following benefits:
+Core Benefits: Fully paid medical and dental insurance premiums for employees and dependents, 401k match, employer-paid life & disability insurance
+Perks: Onsite gyms with laundry service, wellness activities, casual dress, snacks, game rooms
+Learning: Tuition reimbursement, conference and training sponsorship
+Time Off: Generous vacation, sick days, and paid caregiver leaves
+Andiamo is an Equal Opportunity Employer
+
+Andiamo provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Andiamo complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+All qualified candidates are encouraged to apply by submitting their resume as an MS word document including a cover letter with a summary of relevant qualifications, highlighting clearly any special or relevant experience.

@@ -1,0 +1,19 @@
+Job Requisition Number:82468
+
+Who are we? Bloomberg's Artificial Intelligence (AI) group: researchers and engineers who have a passion for solving complex problems. Our charter: to extract and identify relevant, meaningful, tradable, and actionable information (such as pricing, earnings, recommendations, and major events) from data (including news, web, social media, and structured data) in real-time. As our customers rely on this information to make swift financial decisions, we guarantee precision, accuracy, and latency numbers beyond most academic and industry standards.
+
+We aren't just building customer-facing products, as the infrastructure and algorithms we develop are themselves used across the company. We publish papers, attend conferences, organize workshops, and contribute back to the larger data science community whenever we can (see https://www.techatbloomberg.com/nlp/ and https://bloomberg.com/company/d4gx/).
+
+We are seeking researchers to join our effort to enrich intelligence available to our fixed-income customers. We tackle a wide range of challenging problems in fixed income pricing, substitution, recommendation, as well as related ranking problems that require sharp quantitative instincts and solid engineering skills.
+
+We'll trust you to:
+Design and build machine learning systems that solve difficult problems in the financial domain
+Design, write, test and maintain modular production-quality code
+Publish in leading academic venues and represent Bloomberg at industry conferences
+You'll need to have:
+
+
+Ph.D. (or Master's with 3+ years of industry experience) in computer science, mathematics, physics, statistics or related fields
+Solid background in machine learning and statistics
+A strong quantitative mind
+Familiarity in finance is preferred, but not required.

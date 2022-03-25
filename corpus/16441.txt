@@ -1,0 +1,22 @@
+What you'll need:
+
+Education
+Master's/PhD (preferred) or Bachelor's (required) in CS/ML/AI or relevant computational/engineering discipline
+
+Machine Learning/Data Science:
+Solid theoretical understanding of ML fundamentals: linear algebra, probability, statistics (as relevant to ML), optimization
+Knowledge of different ML techniques and when/how to use them: classification, regression, clustering, outlier detection, dimensionality reduction, etc.
+Comfortable manipulating and analyzing complex, high-volume, high-dimensionality data from varying, heterogeneous sources
+Experience with messy real-world data -- handling missing/incomplete/inaccurate data
+Proficient in the Python ML ecosystem: NumPy, Pandas, SciPy, Scikit-Learn
+Strong understanding of relational databases like PostgreSQL is a plus
+
+Programming experience:
+At least 2+ years of experience writing production-quality Python code
+Version control: Git, GitHub/Bitbucket
+Experience delivering large-scale deployable projects
+
+Great to have
+We deal with large volumes of geospatial data, so experience working with geospatial data at scale is a big plus
+Knowledge of Python (Shapely, GeoPandas, Fiona, CartoPy, etc) and/or database (PostGIS) geometry/geospatial tools
+Domain experience in building models for location-based services, transportation, scheduling, vehicle routing

@@ -1,0 +1,63 @@
+The Company
+
+At CCRi, our clients look to us to solve their hardest problems, and we have a long history of exceeding their expectations. With clients in both the private sector and the US government, we provide a variety of advanced analytical techniques, and we render our solutions in software that our clients can apply immediately.
+
+With projects ranging from optimizing the world's largest container port to predicting future asymmetric warfare events, CCRi has no shortage of experience in diverse client expectations. As a small company, we are able to adjust our process to the requirements of each client.
+
+Want to know more about CCRi? Check out our recruitment video and blog.
+
+The Role
+
+You'll help create machine learning analytics that will be integrated into streaming data processing pipelines and appealing user interfaces that provide real-time situational awareness and expose advanced analytics to end users. As a senior data scientist, you will be expected to balance technical responsibilities (design and development) with team responsibilities (technical planning, roadmaps, ticket creation and delegation, mentorship). You’ll likely conduct demos and give presentations, and will be expected to contribute to the data science culture and ecosystem at CCRi through opportunities like design reviews and shared learning opportunities.
+
+Who You Are
+
+Curious: You enjoy peeling apart a problem and examining the interrelationships between data and how they can be used to form a solution.
+
+Creative: You try new approaches to solving problems, looking for ways to apply techniques across domains and in new contexts.
+
+Practical: You explore theories with an eye to their real world applications and their potential for improving performance for clients.
+
+Collaborative: You work well on a team and understand how to lead a group of bright, technical coworkers. You can explain your work to your peers and source ideas and improvements from them.
+
+Determined: You enjoy the challenge of finding solutions to difficult problems, testing them to discover what is successful and what should be optimized further, to develop industry-leading tools. You learn from failure and trying again.
+
+Organized: You know how to keep track of both high-level goals and the tasks required to meet those goals. You take personal ownership of your team’s success.
+
+Requirements
+
+US citizenship required. We do not offer sponsorships.
+
+3+ years of experience as a data scientist, machine learning engineer, or similar role
+
+Successful candidates will have some combination of the following:
+
+Understanding of structure and theory of common machine learning models
+
+Familiarity with common machine learning libraries for implementation (sklearn, weka, tensorflow, torch, …)
+
+Proficiency in one or more of: Python, Scala, Java, R, Julia, Matlab
+
+Expertise in a subfield of machine learning (computer vision, natural language processing, ...)
+
+Ability to understand and implement new models from the literature
+
+Project team leadership
+
+Experience presenting team progress and results
+
+Technical writing experience, including reports and proposals
+
+Experience with distributed analytics and processing (Spark, Hadoop, …)
+
+Experience with geospatial data and analytics
+
+Active TS security clearance
+
+Familiarity with Agile development
+
+Benefits
+
+CCRi offers an engaging and supportive environment. We're interested in continual learning and creative problem solving. Solving fun and challenging problems is in our DNA—we take on interesting projects, and we love to learn. Our superlative team includes Data Scientists, Systems and DevOps Engineers, Mathematicians, Computer Scientists, Statisticians, Image Scientists, and other kinds of software developers and programmers, all of whom offer unique backgrounds to solve very difficult problems ranging from machine learning with neural networks to massive-scale spatio-temporal analytics. Our diverse team naturally has a wide-ranging set of interests— a holiday gift experiment produced a 3D printer, Oculus Rift, an espresso machine, and a kegerator for the homebrew crew. CCRi provides a challenging and fun work environment, competitive pay, health care, generous retirement, and a very flexible vacation policy.
+
+CCRi is committed to a diverse and inclusive workforce because we know that our differences benefit our employees, our customers, and our community. We are proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, color, religion, age, sex, sexual orientation, gender identity, national origin, status as a an individual with a disability, status as a protected veteran, or any other applicable legally protected characteristics.

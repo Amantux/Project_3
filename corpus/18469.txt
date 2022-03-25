@@ -1,0 +1,44 @@
+Computer Vision Engineer
+If you are a Computer Vision Engineer with C/C++ experience, please read on!
+
+Senior Software Engineer
+
+Location: 100% Remote
+What You Will Be Doing
+- Developing Gstreamer pipelines written in C to connect to and stream real-time video
+
+- Implementing and managing pre-processing of video to optimize performance of deep learning models
+
+- Working with state of the art deep learning frameworks to deploy object detection models for inference
+
+- Testing and optimizing GStreamer pipelines to maximize hardware performance
+
+- Helping to build, automate and customize deep learning training and inference environments
+
+- Working with Nvidias Deepstream SDK, TensorRT, Nvidia Docker, Kubernetes and Helm Charts
+
+- Writing and optimizing GStreamer plugins to manipulate video and image data
+What You Need for this Position
+- Experience with Gstreamer
+
+- Experience with C, C++, or Python
+
+- Experience with some of the following: RTSP streaming, OpenCV, Deepstream SDK, TensorRT, Nvidia, Helm Charts
+
+
+Pluses (Not Required)
+- C#, Go, Postgres DB, ASP.NET Core
+
+- Experience with VMS and DVR/NVR
+
+- AWS, GCP, Azure
+So, if you are a Computer Vision Engineer with experience, please apply today! or send your resume to: Lauren@Cybercoders.com
+-
+Applicants must be authorized to work in the U.S.
+
+
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+Your Right to Work In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.

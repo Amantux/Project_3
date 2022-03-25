@@ -1,0 +1,46 @@
+About The Energy Authority
+The Energy Authority is a public power-owned, nonprofit corporation with offices in Jacksonville, Florida and Bellevue (Seattle), Washington. TEA provides public power utilities with access to advanced resources and technology systems so they can respond competitively in the changing energy markets. Through partnership with TEA, utilities benefit from an experienced organization that is singularly focused on deriving the maximum value of their assets from the market.
+
+About the TEAm
+The Connected Analytics team works directly with utility clients and portfolio managers to innovate and deliver on relevant analytic solutions for network asset management, customer analytics, demand forecasting and optimized predictive maintenance. The team consists of analysts and researchers with expertise in data architecture, machine learning, artificial intelligence, mathematics, software engineering, and computer science. With our focus on Data to Insight, Insight to Action, Connected Analytics works collaboratively within the Strategic Innovations business unit and across the whole of The Energy Authority team.
+
+About the Job
+Data Engineers, on the Connected Analytics team, work with large complex data sets to assemble and integrate them into a standardized platform using ETL tools and based on Microsoft Azure and SQL. The Data Engineer role is responsible for setting up and managing the ETL data pipeline and working with utility clients to ensure that the data acquisition process meets their immediate and future data analytics requirements. The Data Engineer will report to the Senior Data Architect and will collaborate with the Data Scientists and Research Scientists on the Connected Analytics team to understand and optimize the data inputs to statistical and machine learning models. The Data Engineer will present findings to both the internal team and external clients using effective visualization tools (e.g. Power Bi).
+
+Essential Duties and/or Responsibilities include the following. Other duties may be assigned.
+• Develop data pipelines using SQL, Python, and R
+• Work with clients to setup data acquisition processes
+• Test, Monitor, and Address issues with data pipeline processes
+• Work with Data Scientists and Data Architects to build data structures to support Machine Learning models
+• Collaborate with Data Scientists to understand the data needs of Statistical and Machine Learning Models
+• Develop Visualizations to provide actionable insight to team members and clients
+
+Education and/or Experience
+• Bachelors degree in Computer Science, Software Engineering, Data Engineering, Mathematics or related discipline or 3-5 years relevant experience
+• Proficient with SQL development, developing ETL pipelines, and building Data Structures
+• Proficient with data scripting languages such as R, Python, and Scala (other ETL pipeline tools)
+• Experience with Power BI or equivalent data visualization tool
+• Experience with Big Data Spark development
+• Experience with DataBricks
+• Experience working in a Microsoft Azure Environment
+• Experience working on a team project and meet deliverable milestones independently with minimal oversight
+• Ability to learn new technologies quickly and test/implement them using an iterative approach
+• Experience working in a team environment
+• Excellent communication skills demonstrated by experience in communicating with clients and internal staff to understand and document requirements, and present project results
+
+Core Competencies Required
+Critical thinking
+Communication
+Accuracy
+Commitment to continuous learning
+Programming
+Technical design
+Project-related work
+Issue management
+
+Values Required
+Customer Focus
+Integrity
+Teamwork
+Ownership
+Excellence

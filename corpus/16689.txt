@@ -1,0 +1,57 @@
+SLAC Job Postings
+
+Are you interested in a scientific career in big data analytics uncovering correlations and insights? We are seeking a passionate and talented individual with strong programming and analytical skills to help develop advanced methods for analyzing large volumes of scientific data at the Linac Coherent Light Source (LCLS).
+
+LCLS is the world’s premier X-ray free-electron laser (FEL) elucidating atomic structures and dynamics at the femtosecond timescale. LCLS currently produces as much as 1GB/s of scientific data and it is anticipated that this data volume will increase a thousand-fold with planned upgrades to the accelerator and detectors in order to support world-leading capabilities in FEL science and advance SLAC’s mission to address transformative science and technology solutions.
+
+As a Project Scientist, you will be a member of the Controls and Data Systems Division (CDS) a multidisciplinary team of physicists, electronic engineers and software developers focused on developing software solutions to support scientific instrumentation, laser systems, controls, and data analysis and acquisition systems. The evolution of science and experimental techniques on these instruments, along with upgrades in the X-ray FEL source and optical lasers for LCLS-II, require regular improvements to the supporting software and hardware platforms.
+
+See https://portal.slac.stanford.edu/sites/lcls_public for more on LCLS and the unique capabilities of our instrument facilities.
+
+Your specific responsibilities include:
+Development and optimization of data analytics code for coherent diffractive imaging on exascale supercomputers (50 to 100 times faster than the fastest supercomputers available today).
+Contribute to all phases of the project development cycle for big-data analytics software systems.
+Ensure project quality and timely completion of milestones.
+Supervise junior members of the team and coordinate meetings with external stakeholders.
+Review code pull requests and manage CI/CD.
+Additional opportunities may also include
+Understand complex scientific ideas to provide software solutions.
+Develop software that provides a simple user-friendly interface to complex systems so that software tools can quickly adapt to rapidly changing experimental configurations.
+Develop real-time and offline data analysis frameworks which can offload computing intensive tasks to Graphics Processing Units (GPUs).
+Develop machine-learning techniques for data processing/reduction.
+Other duties may also be assigned
+Note: The position is initially a 36-month term with the possibility of extension. Assignment duration is contingent upon project needs and funding. Please Note – due to COVID-19 related curtailment of on-site activities, the job duties for this position will be required to be performed from home until full site-access is restored.
+
+To be successful in this position you will bring:
+Ph.D. in computer science, software engineering, physics or a related scientific computing field with demonstrated expertise and minimum of 3 years of experience in large software systems (as evidenced by publications/presentations).
+Advanced programming skills with Python, C and/or C++.
+Exceptional communication skills and ability to work well in a research and development team.
+Strong conceptual and problem solving skills as well as the ability to identify and recommend solutions.
+Excellent organizational skills and the ability to synthesize complex technical and scientific information.
+Experience in one or more of the following is preferred.
+Single particle imaging, crystallography or related imaging techniques is a plus.
+Experience in machine learning using PyTorch or Tensorflow.
+Code revision systems, such as git.
+Large-scale software parallelization techniques, such as MPI or Spark.
+GPU offloading.
+Knowledge of tools used to call C++ from Python, such as boost-python, cython or pybind11.
+Complex applied math libraries and algorithms.
+SLAC Employee Competencies:
+Effective Decisions: Uses job knowledge and solid judgment to make quality decisions in a timely manner.
+Self-Development: Pursues a variety of venues and opportunities to continue learning and developing.
+Dependability: Can be counted on to deliver results with a sense of personal responsibility for expected outcomes.
+Initiative: Pursues work and interactions proactively with optimism, positive energy, and motivation to move things forward.
+Adaptability: Flexes as needed when change occurs, maintains an open outlook while adjusting and accommodating changes.
+Communication: Ensures effective information flow to various audiences and creates and delivers clear, appropriate written, spoken, presented messages.
+Relationships: Builds relationships to foster trust, collaboration, and a positive climate to achieve common goals.
+Physical requirements and working conditions:
+Consistent with its obligations under the law, the University will provide reasonable accommodation to any employee with a disability who requires accommodation to perform the essential functions of the job.
+Work Standards:
+Interpersonal Skills: Demonstrates the ability to work well with Stanford colleagues and clients and with external organizations.
+Promote Culture of Safety: Demonstrates commitment to personal responsibility and value for environment, safety and security; communicates related concerns; uses and promotes safe behaviors based on training and lessons learned. Meets the applicable roles and responsibilities as described in the ESH Manual, Chapter 1—General Policy and Responsibilities: http://www-group.slac.stanford.edu/esh/eshmanual/pdfs/ESHch01.pdf
+Subject to and expected to comply with all applicable University policies and procedures, including but not limited to the personnel policies and other policies found in the University's Administrative Guide, http://adminguide.stanford.edu
+--------------------------------------
+Classification Title: Project Scientist
+Job code:0112
+Duration: 36 Months
+SLAC National Accelerator Laboratory is an Affirmative Action / Equal Opportunity Employer and supports diversity in the workplace. All employment decisions are made without regard to race, color, religion, sex, national origin, age, disability, veteran status, marital or family status, sexual orientation, gender identity, or genetic information. All staff at SLAC National Accelerator Laboratory must be able to demonstrate the legal right to work in the United States. SLAC is an E-Verify employer.

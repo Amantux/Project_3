@@ -1,0 +1,162 @@
+Overview:
+
+We're hiring an experienced Data Engineer to join our growing BI Engineering team to elevate Glossier as an inviting, fun way to buy beauty products. You'll join a team with the mission of empowering decision-making across the organization with self-service data, working closely with our Analytics and Data Science teams.
+
+As a Data Engineer, you are responsible for delivering and maintaining highly available computing platforms and creating data integration services. You will own the systems that collect and transform data from a number of sources, storing data in highly optimized data warehouses. You will also maintain ongoing reliability, performance and support of the infrastructure. This includes monitoring the computing environments and providing solutions based on application needs and anticipated growth. A successful candidate will combine strong technical skills, a passion for creative problem solving, and an intense curiosity.
+
+At Glossier we are also mindful of building an inclusive culture, where decisions are made transparently and we support each other's learning and growth. Data is a critical component at Glossier and ensuring consistent, reliable access to our data is a significant strategic priority. We expect you to have good communication skills and collaborate across functions to deliver robust solutions in correspondence with the business needs of the company.
+
+Our Data Stack:
+Data Warehousing with Snowflake, AWS Aurora, Redshift
+AWS for serving infrastructure
+Python, JavaScript, and TypeScript
+DBT and Luigi for ETLs
+Fivetran & Stitch
+Segment
+Looker
+Docker
+6 Month Expectations:
+Have contributed to the data pipeline process, creating new custom integrations that bring data into our systems
+Are comfortable working with our data stack
+Have taken an active role in designing the future of our data engineering system
+Collaborate with team on best practices and overall business strategy
+12 Month Expectations:
+Deliver data engineering system-including data pipeline and data warehousing components-that is simple, reliant, and performant
+Have made numerous contributions to our data pipelining system and data monitoring
+Have taken a lead role in managing the development and architecture design of our data infrastructure
+Preferred Qualifications:
+3 - 5 years of experience working in software development, data engineering, or related STEM fields
+3+ years of working experience with various relational databases and data warehousing
+Strong programming skills in Python and SQL
+Practical experience in best practices for developing data pipelining frameworks
+Experience in Linux
+Ability to learn autonomously and quickly
+Analytical, creative and commercial mindset
+Extremely organized and detail-oriented with effective multitasking and prioritization skills
+Highly motivated, willing to take ownership of work, drive to solve problems and work effectively under pressure
+Excellent written and verbal communication skills, willing to proactively engage other team members in fostering a strong collaborative team-oriented environment
+About Glossier
+
+Glossier is a beauty company that lives in NYC, is sold on the internet, and promotes a skincare first philosophy that celebrates beauty in real life.
+
+We are an Equal Employment Opportunity ("EEO") Employer. It has been and will continue to be a fundamental policy of Glossier not to discriminate on the basis of race, color, creed, religion, gender, gender identity, pregnancy, marital status, partnership status, domestic violence victim status, sexual orientation, age, national origin, alienage or citizenship status, veteran or military status, disability, medical condition, genetic information, caregiver status, unemployment status or any other characteristic prohibited by federal, state and/or local laws. This policy applies to all aspects of employment, including hiring, promotion, demotion, compensation, training, working conditions, transfer, job assignment, benefits, layoff, and termination.
+
+Global Job Applicant Privacy Policy
+
+Last Updated: November 25, 2019
+
+This Global Job Applicant Privacy Policy ("Policy") describes how Glossier, Inc. and our subsidiaries and affiliates (collectively, "Glossier," "we" and/or "our") collect, use, disclose, transfer and store (collectively, "process") personal information about you in connection with our recruitment activities.
+
+While this Policy is intended to describe the broadest range of our processing activities globally, those activities may be more limited in some jurisdictions based on local laws. For example, the laws of a particular country may limit the types of personal information we can collect or the manner in which we use that information. In those instances, we adjust our internal policies and practices to reflect the requirements of local law. The data controller in each case will be the Glossier entity to which the applicant submits his or her application, as specified below.
+
+I. APPLICABILITY OF OTHER POLICIES
+
+This Policy does not cover our processing of information collected from you as a Glossier customer or as a visitor to Glossier-affiliated websites. To learn more about Glossier's data collection practices in these cases, please see our Glossier Privacy Policy.
+
+II. INFORMATION WE COLLECT
+
+We collect information in connection with your application to work with us, the categories of personal information we may process about you include:
+Information you provide on our application forms, including full name, telephone number, personal email address, gender, location, availability, employment history (including whether you have previously worked for Glossier), qualifications, references, LinkedIn profile and website (if provided voluntarily), work authorization status, and how you heard about the job;
+Information you provide to us in your resumé, cover letter and any other files you choose to upload or share with us regarding your qualifications, such as design portfolios;
+Information you provide to us during an interview or that we collect through the recruitment process (g. work authorization status, willingness to relocate, salary expectations, type of employment contract, interview notes, results of any assessment);
+Reference information and/or information received from background checks if you are offered a job (where applicable), including information provided by third parties such as past employers, educational institutions and references; and
+Information about your educational and professional background from publicly available sources, including online, that we believe is relevant to your application (g. your LinkedIn profile).
+Your decision to apply for a position and provide your personal information to us is voluntary. We will tell you if information is required to move forward with your application.
+
+Sensitive Information: In certain countries, where permitted by law and on a voluntary basis, we may ask questions about race or ethnicity, veteran status and disabilities for specific purposes, such as to accommodate a disability or illness and to comply with legal obligations relating to diversity and anti-discrimination. You are entirely free to decide whether or not to provide such information and your application will not be affected either way. Except as specifically requested, we ask that you avoid submitting information which may qualify as sensitive information under applicable law, including race, religion, ethnicity, nationality, age, gender identity, sexual life or sexual orientation, medical or health information, genetic or biometric data, political opinions, political party or trade union membership and judicial data such as criminal records.
+
+Information About Others: If you provide us with personal information of a reference or any other individual as part of your application, it is your responsibility to obtain consent from that individual prior to providing such information to us.
+
+III. HOW WE COLLECT YOUR INFORMATION
+
+Most of the personal data we process is obtained directly from you, such as when you submit a job application or when we conduct a phone or in-person interview. We may also receive information about you from other sources, such as from your named references, persons who referred you for a position, from background checks (if applicable), recruiting agencies, third party recruitment sources and websites and publicly available sources such as your LinkedIn profile.
+
+When you visit our sites, including our Careers webpage, we collect certain information automatically. To collect this information, we may use cookies, web beacons, and similar technologies. A "cookie" is a text file that websites send to a visitor's computer or other internet-connected device to uniquely identify the visitor's browser or to store information or settings in the browser. A "web beacon," also known as a pixel tag or clear GIF, is used to transmit information back to a web server. We may also collect information about your online activities over time and across third-party websites. The information we collect automatically may include:
+URLs that refer visitors to our websites;
+Search terms used to reach our websites;
+Details about the devices that are used to access our websites (such as IP address, browser information, device information, and operating system information);
+Details about your interaction with our websites (such as the date, time, length of stay, and specific pages accessed during your visits to our websites, and which emails you may have opened); and
+Usage information (such as the number and frequency of visitors to our websites).
+We may associate this information with your Glossier account if you have one, the device you use to connect to our Services, or email or social media accounts that you use to engage with Glossier.
+
+For more information about how we use cookies click here.
+
+IV. HOW WE USE YOUR INFORMATION
+
+We use your personal information to evaluate a potential employment relationship with you and for other business purposes. Such uses include:
+Assessment of your skills, qualifications, and suitability for the role;
+Communication with you about the recruitment process;
+Verification of your information and completion of reference and/or background checks (where applicable) if we offer you a position;
+Retention of records related to our hiring processes, including a record of the name of unsuccessful applicants, the date of their application and the reason that their application was not successful, in order to streamline future hiring processes;
+Legal and compliance purposes, such as responding to suspected fraud, security incidents, or other illegal activity, protecting Glossier's and others' rights and property, exercising a legal claim, cooperating with law enforcement investigations and complying with applicable laws, regulations, legal processes or governmental requests;
+Other uses with your consent, which you may withdraw at any time; and
+Other legitimate interests, including our interests in considering candidates for current and future employment opportunities and in managing and improving our recruitment and hiring process.
+If we hire you, information we collect in connection with your application will become part of your employment record and used to manage the onboarding process and for other employment-related purposes in accordance with our internal employee privacy policy.
+
+V. WHO MAY HAVE ACCESS TO YOUR INFORMATION
+
+Within Glossier: We may disclose your personal data to Glossier personnel and affiliates who need to know the information, including personnel in the recruiting, human resources and information technology departments, and in the department responsible for the position for which you are applying.
+
+Third-Party Service Providers: We may use third party service providers acting on Glossier's behalf to perform some of the services described above. For example, we share certain information with service providers who facilitate our applicant tracking system, video interviews, travel booking and expenses, reporting and analytics and verification/background checking services. We also may share information about you with recruitment agencies working with us in relation to your recruitment as well as with our professional advisors, including accountants, auditors, lawyers, insurers and bankers. These service providers may change over time, but we will always use trusted service providers who we require to take appropriate security measures to protect your personal information in line with our policies. We only permit them to process your personal information for specified purposes and, as appropriate, in accordance with our instructions and the provisions of this Policy and applicable law.
+
+Other Third Parties: In certain limited circumstance, we share and/or are obligated to share your personal information with other third parties, including (a) to comply with our obligations, to protect the rights and property of Glossier, our customers and the public, to cooperate with law enforcement investigations, and to detect and respond to suspected illegal activity and threats to the health or safety of any person or of our systems or services; (b) in connection with, or during negotiations of, any merger, joint venture, sale of company assets, financing, or acquisition of all or a portion of our business, assets or stock by another company (including in connection with any bankruptcy or similar proceedings); and/or (c) with your consent and at your direction.
+
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you.
+
+IV. DATA RETENTION
+
+If your application for employment is unsuccessful (or you withdraw from the process or decline our offer), we will retain your information for a reasonable period of time beyond the end of the application process for the purposes described above, including complying with our legal obligations, resolving disputes and as necessary for our legitimate interests, such as to consider you for other current and future employment opportunities at Glossier. If you do not want us to contact you regarding other roles, please contact recruiting@glossier.com. After this period, we will securely destroy your personal information in accordance with applicable laws and regulations.
+
+If your application for employment is successful, personal information gathered during the recruitment process will be retained during your employment in accordance with our internal employee privacy policy and retention policies.
+
+VII. YOUR RIGHTS
+
+You may have certain rights under U.S. and international privacy laws in relation to your personal information. This may include the right to access, rectify, port or erase certain personal information we have about you. You may also have the right to object to and restrict certain processing of your data. Certain information may be exempt from such requests pursuant to applicable data protection laws. You can contact privacy@glossier.com to exercise your rights in relation to your personal information. We will respond to your request consistent with applicable law.
+
+VIII. CALIFORNIA RESIDENTS
+
+If you are a California resident, the California Consumer Privacy Act ("CCPA") requires us to disclose the following information with respect to our collection and use of personal information.
+
+Categories of Personal Information Collected: Over the preceding 12 months, we have collected the following categories of personal information: (1) identifiers, (2) characteristics of protected classifications under California or U.S. law, (3) internet or other electronic activity information, (4) audio, electronic, visual, thermal, olfactory, or similar information, (5) professional or employment-related information, (6) education information, (7) inferences, and (8) other information that identifies, relates, to, describes, or is otherwise reasonably capable of being associated with you. For examples of the precise data points we collect, please see "Information We Collect" [link] above.
+
+Business Purposes for Collecting and Disclosing Information: We collect each category of personal information for the business purposes in the "How We Use Your Information" section above.
+
+IX. EUROPEAN RESIDENTS
+
+If European privacy laws apply to you, our processing of personal information for the purposes mentioned above is based on the following legal grounds:
+As necessary to evaluate and potentially enter into an employment relationship with you;
+With your consent, which you may withdraw at any time;
+To comply with our legal obligations;
+Where necessary to protect your vital interests or those of others; and
+For our (or others') legitimate interests, including our interests in considering candidates for current and future employment opportunities and in managing and improving our recruitment and hiring process, unless those interests are overridden by your interests or fundamental rights and freedoms.
+We will only use your personal information for the purposes for which we collected it, unless we reasonably consider that we need to use it for another reason and that reason is compatible with the original purpose. If we need to use personal information for an unrelated purpose, we will notify the relevant individual and we will explain the legal basis which allows us to do so. Where the collection or processing of personal information is based on your consent, you may withdraw your consent at any time to the extent permitted by applicable law.
+
+X. INTERNATIONAL DATA TRANSFERS
+
+Due to the global nature of our business, Glossier may transfer your personal information across international borders, consistent with applicable data protection laws, including to the U.S., Canada and European Economic Area ("EEA"). Where personal information is transferred within Glossier to countries outside of the EEA that are not recognized as providing an adequate level of protection under European privacy laws, we do so through a series of intercompany agreements that implement the Standard Contractual Clauses authorized under European privacy laws. We also use a variety of safeguards to ensure that your personal information is adequately protected when processed by our third-party service providers operating in the U.S. or another country outside of the EEA including by signing EU standard contractual clauses or verifying the recipient adheres to the EU-U.S. Privacy Shield and Swiss-U.S. Privacy Shield Framework. You may request additional information concerning such safeguards from the Privacy team by contacting privacy@glossier.com.
+
+XI. SECURITY
+
+Glossier is committed to protecting the security of your personal information and ensuring a level of security appropriate to the risk our data processing presents. Taking into account the costs of implementation, the sensitivity of the data and nature of the data processing, Glossier has implemented organizational, technical and administrative measures to prevent the unauthorized access, destruction, loss, alteration or misuse of personal information.
+
+XII. DATA CONTROLLER
+
+If you apply to a position in the U.S., Glossier, Inc. will be the data controller of your personal information. If you reside in the United Kingdom or EEA, or apply to a position in the EEA, Phase EU Limited will be the data controller. If you reside in Canada, or apply to a position in Canada, Glossier Canada, Inc. will be the data controller.
+
+XIII. CONTACTING GLOSSIER
+
+If you have questions or concerns regarding this Policy, please contact us using the information provided below.
+
+Glossier, Inc. Phase EU Limited
+
+233 Spring Street 5 New Street Square
+
+East 10th Floor London EC 4A 3TW
+
+New York, NY 10012 United Kingdom
+
+United States
+
+Attn: Legal Attn: Legal
+
+privacy@glossier.com priv

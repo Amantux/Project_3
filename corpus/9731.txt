@@ -1,0 +1,45 @@
+Summary
+
+Posted: Jul 29, 2019
+
+Weekly Hours: 40
+
+Role Number: 200070668
+
+Apple is a place where extraordinary people gather to do their best work. Together we create products and experiences people once couldn’t have imagined — and now can’t imagine living without. If you’re excited by the idea of making a real impact and joining a team where we pride ourselves in being one of the most diverse and inclusive companies in the world, a career with Apple might be your dream job… Just be prepared to dream big.
+The Apple Digital Support team is looking for an outstanding Data Scientist who is interested in designing, developing and identifying data mining solutions that have direct and measurable impact to AppleCare’s support operations. AppleCare has a tremendous amount of data, and we have just begun exploration of the data in the areas of pattern detection, anomaly detection, predictive modeling, and optimization. The person in this position will work with various Digital business managers to help identify viable data mining opportunities and then implement end to end analytical solutions. The role requires both a broad knowledge of existing data mining algorithms and creativity to invent and customize when necessary.
+
+Key Qualifications
+
+Industry experience in a Data Science role in the areas of Natural Language Processing, Data Mining, Machine Learning, Statistics or related field
+
+Person should be familiar with at least few of the software -R, Python, Java,Spark,Hive and Pig
+
+Working knowledge of NLP concepts Hidden Markov Models for tagging, probabilistic parsing using dynamic programming, Morphological segmentation, Part-of-speech tagging etc
+
+Knowledge of Machine Learning algorithms like: Classification, Clustering, Decision Tree algorithms.
+
+Should have hands on experience in applying SVM, Neural Nets, Random Forest, K-means clustering, Nearest neighbor, CHAID, CART etc.
+
+Knowledge of statistical methods including Logistic Regression, Multiple LinearRegression, Factor Analysis, Structural Equation Modeling, ANOVA (Design of Experiments), and Time Series Methods
+
+Familiarity with database modeling and data warehousing principles with a working knowledge of SQL.
+
+Creativity to go beyond current tools to deliver best solution to the problem
+
+Excellent interpersonal, written, and verbal communication skills
+
+Ability and comfort working independently and making key decisions on projects
+
+Description
+
+In this role, you will perform data mining to support new features in our Apple Support site. You will analyze large datasets to glean actionable insights and design classifiers and ranking algorithms. Perform ad-hoc statistical analysis. Present results of analysis to team and leadership across Apple. Create metrics to measure the success of the service.
+Additional responsibilities include:
+- Engage with the business teams to find opportunities, understand requirements, and translate those requirements into technical solutions. Identify the customer needs and behaviors by developing and implementing machine learning model in AppleCare Digital, using both Apple in-house libraries and open source packages. Applying tried-and-true techniques or developing custom algorithms as needed to solve the practical problems for the business and the customers.
+- Research and implement natural language processing (NLP) and text analytics techniques to identify actionable customer feedbacks and issues. Develop and implement robust production real-time decisioning solutions. Develop and implement automation pipeline to streamline technical and business processes within digital data channels using machine learning techniques.
+- Work with AC Digital business teams and engineering teams on large-scale system, big data solution and infrastructure projects; Work with analytics and data science partners to explore new technologies and methodologies across data science, data engineering, and data visualization to improve the business insights capabilities of AC Digital BI team.
+
+Education & Experience
+
+Bachelors with Post-Graduation in the field of – Computer Science, Mathematics, Operations Research, Statistics, Econometrics, Management Science and related fields.
+PhD/Post Doc in any advanced quantitative modeling oriented discipline including but not limited to machine learning, Statistics, Marketing Science, Operations Research,Econometrics, Stochastic Finance, Distributed and parallel computing, digital media analytics, etc.

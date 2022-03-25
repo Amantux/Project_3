@@ -1,0 +1,77 @@
+Data Science All Star Program - Data Engineer Track
+
+Job Title
+
+Data Science All Star Program - Data Engineer Track
+
+Job
+ID
+
+27260177
+
+Duration
+
+Location
+
+Columbia,
+
+MD
+
+Other Location
+
+Description
+
+Dynamic, Fast-growing, Entrepreneurial Data Science Solutions Company seeking data Engineers! If you’ve got entrepreneurial spirit and passion, are driven by results, and want to be a part of significant growth, we’re looking for you!
+
+BLEND360 is a multi-award winning Marketing Company who is privileged to provide our services to some of the most respected and recognized brands in the world. At BLEND360 it is all about advancing our clients marketing capabilities and performance.
+
+If you are ready to ignite the fire for digital marketing and join our team, please keep reading!
+
+*************************************************************************************
+
+Our Data Science All Stars Program is a 6-month consultant training program for master’s graduates in Analytics, Statistics, Computer Science and other quantitative programs. Participants will have the opportunity to learn from top Data Scientists, work on real-world analytics projects, and gain experience with Fortune 500 clients across a variety of verticals. They will work alongside our Data Scientists to get data into proper shape, perform statistical analyses and develop predictive models to solve our clients’ business problems.
+
+The primary objective of this program is to develop participants into productive, client engaged BLEND360 employees and set the foundation to build a fast track career in one of 4 areas:
+
+Data Science
+
+Data Engineering
+
+Marketing- Adobe Cloud
+
+Marketing Analytics .
+
+The All-Star focused on Data Engineering will:
+Work with business leaders to solve clients’ business challenges and improve clients’ business results using advanced analytics techniques. We contribute our Advanced Data Science subject matter expertise to the recommendations and solutions delivered to our clients.
+Spend most of their time on getting data into proper shape, performing statistical analyses, developing predictive models and machine learning algorithms to solve clients’ business problems. We evaluate different sources of data, discover patterns hidden within raw data, create insightful variables, and develop competing models with different machine learning algorithms. We validate and cross validate our recommendations to make sure our recommendations will perform well over time.
+Partner with client technical resources as well as BLEND360 team members, providing guidance and solutions for data architectures, data conversions, ETL and implementation of models in a production environment. The ideal candidate has retail experience and can provide technical expertise working with cloud based platforms as well as traditional data warehouse environments.
+Main Responsibilities
+Work with practice leaders and clients to understand how to make data accessible and usable throughout the organization.
+Defines data environment design for the reporting and modeling/machine learning use cases that is consistent, maintainable and flexible.
+Works with client and BLEND360 teams to identify use cases and functional requirements that drive the reporting and modeling data solutions.
+Designs the database structure including tables, views, synonyms, sequences, triggers, procedures, functions, indexes and materialized views as relevant.
+Provides the framework for integrating source systems with the reporting and modeling data environments – develops the ERD and data dictionaries
+Implements business rules via stored procedures, middleware, or other technologies.
+Develops strategies for flexibility and scalability, and defines the future technical architecture direction for the business intelligence reporting and analytical environments.
+Problem solve with practice leaders to understand how to build the data pipelines that can support the business, formulate different approaches, outline pros and cons for each approach.
+Work with practice leaders to get client feedback, get alignment on approaches, deliverables, and overall timeline
+Document data flow, infrastructure and processes.
+Turn models and machine learning algorithms into implementable production code
+The Details:
+Location: Columbia, MD
+Duration:Full-time
+Travel Requirements:Up to 25% (could be as much as (30% - 40% depending on projects)
+Benefits:Health, Vision, Dental, 401K plan, Life Insurance, Pretax Commuter Benefits, and an incredibly supportive team cheering you on!
+Qualifications:
+
+o MS or PhD degree in Operation Research, Advanced Analytics, Computer Sciences, Engineering
+
+o 1+ years’ professional experience in Data Engineering practices, such as:
+data warehousing, optimization, and productionalization with examples of increased responsibility and evolving technologies.
+developing code and/or applications using software such as Pyspark, Python, SQL, Scala, Java, etc.
+deploying machine learning and data science pipelines into production using model management solutions and leveraging CICD solutions (e.g., Jenkins) for automation
+configuring cloud platforms and configuring elastic compute environments in a cloud platform
+Familiarity with and understanding of modern machine learning approaches, algorithms, libraries, and processes for feature selection / engineering
+Experience building containerized applications and deploying those applications using solutions like Kubernetes
+Experience with structured or un-structured data processing tools (SQL, Hadoop, Spark, NoSQL, MySQL, MariaDB, Hive, Pig, etc)
+Comfortable with cloud-based platforms (AWS, Azure, Databricks, Google)

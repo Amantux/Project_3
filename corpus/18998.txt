@@ -1,0 +1,25 @@
+Job Description
+Big Data/ Hadoop Engineer - (Ideal candidate will be a Sr. java Developer currently working in Big Data and AWS cloud platform)
+
+Responsibilities:
+Work with big data analytics engineers to develop automated testing systems.
+Develop testing software that will generate and validate test data for big data systems.
+Develop testing software that will investigate the performance and scalability of big data systems.
+Work with product managers and development leads to create testing strategies.
+Create test plans and test cases for assigned components.
+Execute and automate test cases, and perform bug tracking and management.
+Contribute in building a flexible and scalable data testing automation solution.
+Help create and implement quality processes and requirements.
+Identify and communicate risks about our releases.
+Required skills needed for this role:
+
+?
+Minimum 3+ years of hand on experience with big data or analytics systems.
+Strong SQL / Analytical SQL expertise
+Develop and update scripts written in Bash and Python.
+Experience developing software or test automation in Java.
+Amazon Web Services (EC2, EMR, S3 & Cloud Formation).
+Working knowledge of bug tracking tools (e.g., Atlassian Jira).
+Experience testing big data storage systems and tools such as ?EMR, Spark, Hive.
+Knowledge of Spark and related applications (Kafka, Spark SQL).
+Experience testing scalable, distributed big data systems.

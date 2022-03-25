@@ -1,0 +1,62 @@
+It's fun to work in a company where people truly BELIEVE in what they're doing!
+
+
+We're committed to bringing passion and customer focus to the business.
+
+
+
+Summary & Key Responsibilities
+
+
+
+
+This role on the Enterprise Data team will support our Data Engineering initiatives, including the development of our “Data Lake” architecture. This role is primarily project based, but also may provide support and maintenance to applications in production.
+
+Key Responsibilities:
+Build distributed, scalable, and reliable data pipelines that ingest and process data at scale and in real-time
+Create metrics and apply business logic using Spark, Scala, R, Python, and/or Java
+Model, design, develop, code, test, debug, document and deploy an application to production through standard processes
+Harmonize, transform, and move data from a raw format to consumable, curated views
+Analyze, design, develop, and test applications
+Contribute to the maturation of Data Engineering practices, which may include providing training and mentoring to others
+Perform Data Designer activities to transform raw data to meaningful datasets and extracts, such as business logic design, source-to-target mappings, data sourcing strategy, and transformation rules.
+Apply strong Data Governance principles, standards, and frameworks to promote data consistency and quality while effectively managing and protecting the integrity of corporate data.
+Minimum Experience/Education:
+Bachelor’s degree in Computer Science, Computer Engineering, Programming, Management Information Systems, or related field. Insurance industry experience is a plus.
+Minimum of five years of prior data engineer experience.
+Strong hands-on experience in Spark, Scala, R, Python, and/or Java.
+Programming experience with the Hadoop ecosystem of applications and functional understanding of distributed data processing systems architecture (Data Lake / Big Data /Hadoop/ Spark / HIVE, etc).
+Amazon Big Data ecosystem (EMR, Kinesis, Aurora) experience is a plus.
+Extensive knowledge of source system data, such as Guidewire PolicyCenter, is a plus.
+Communication and Collaboration Skills:
+
+Written: Must be able to convey key messages in technical terms and business terms. Must be able to create technical documentation, such as specifications, design documents, and testing documents.
+Oral: Ability to collaborate and communicate with a wide range of partners, including IT and business, across all levels of the organization. Must actively manage expectations with stakeholders.
+
+Problem Solving:
+Must understand the business need and develop technical solutions to meet those needs. Innovation, creativity, and critical problem-solving skills are required to be successful in this role. Solutions need to be comprehensive, flexible for future changes and delivered with a high degree of quality.
+
+
+
+State Auto offers a competitive salary, an annual bonus program, an excellent benefits program including medical, dental, vision and prescription insurance coverage, life insurance, matching 401(k) plan, flexible spending accounts, tuition assistance, and a stock purchase plan.
+
+State Auto is committed to the principle of equal employment opportunity for all associates and applicants and to providing associates with a work environment that is free from discrimination and harassment. All employment decisions (hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, training and work assignments) are based on business needs, job requirements and individual qualifications without regard to race, color, religion, gender, sex, sexual orientation, gender identity, national origin, age, disability, genetic information, marital status, citizenship status, military status, or status as a covered veteran in accordance with applicable federal, state and local laws. State Auto will not tolerate discrimination or harassment based on any of these characteristics.
+
+State Auto is a smoke-free work environment. We utilize drug screening and background checks as conditions of employment. For all exempt positions, we also obtain motor vehicle reports (MVR s).
+
+State Auto will not accept candidates from third-party recruiters without a signed agreement with State Auto.
+
+Full Time / Part Time
+
+
+
+
+Full time
+Worker Sub-Type
+
+
+
+
+Regular
+
+If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy your career with us!

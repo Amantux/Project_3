@@ -1,0 +1,45 @@
+Read what people are saying about working here. 
+
+Maximizing our potential as a learning organising is central to meeting Spotify’s Mission to unlock the potential of human creativity—by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by it. Business leaders and product teams depend on learnings to inform their daily decisions by understanding how people experience music through products.
+
+Good data is the starting place for great insights. Having a strong data for insights practice across the company will enable our insights teams to produce high quality learnings quickly and scale efficiently. We are looking for an experienced Data Scientist or Analytics/Data Engineer to join the band and lead us on the journey to be masters of this practice.
+
+What you’ll do:
+
+Working across our embedded community of data scientists and engineers — and partnering closely with central tooling and infrastructure teams — you’ll lead Spotify’s effort to minimize duplication and hours spent on discovering, generating and preparing data to a state where it’s optimised for insights.
+
+By engaging across disciplines you’ll develop a practice that’s easy for others to adopt and is equally easy for others to contribute to. You’ll build and maintain an evolving set of shared principles, shared tools, shared knowledge and most importantly shared behaviours for how we produce and manage data for insights across the company.
+
+To tackle the data for insights challenges at Spotify, we’ll need to work across the entire data preparation workflow, including generating data through instrumentation, normalising data into easy to query tables and producing flat tables that are ready to analyse. When light touch support to the community is not enough, you will embed in other teams to solve problems and develop new community resources as a result. When input to central support teams is not enough, we embed with our partners there to help design, build and activate shared data, tooling and /or infrastructure.
+
+You’ll work with data scientists to cultivate a shared practice for defining data collection requirements across all of our experiences. You’ll partner with central tooling and infrastructure teams to make sure it’s trivally easy for these requirements to be implemented by product teams.
+
+You’ll work with dedicated data production teams to identify opportunity to produce datasets centrally. You’ll be the lead designer for Spotify’s data, modelling data across the company and helping teams to identify and design data interoperably with their bounded context. You’ll work closely with tooling and infrastructure teams to ensure we have the tools we need to make it easy to produce and manage data for insights. When input is not enough, you’ll embed with our partners to help design, build or activate shared data, tooling and infrastructure.
+
+Who you are
+
+You’re passionate about the role of modelled, analyst friendly data in maximizing a company’s potential as a learning organisation. Your passion for good practice is infectious. As you continuously improve your own practice, Spotify’s practice will improve alongside you.
+
+You’re collaborative. You work hands on with a wide variety of teams to ensure that both the most recent needs of the community are reflected in our shared practice and that behaviours of the community are changing to adopt it. When there are competing shared practices you facilitate discussions, providing your experienced perspective where needed, in order to establish a single view, e.g. the guiding principles or when to use which practice. When infrastructure is missing or incomplete you surface the needs and work with infra teams to ensure that they are understood.
+
+You’re innovative. You’re a builder. You show people the value of your ideas by bringing them to life in tangible, innovative ways. You work closely with central engineering and infrastructure teams to tackle the most complex challenges at Spotify are addressed in a sustainable way.
+
+You’re playful. You’re always looking for new ways to engage across disciplines to build engagement and cultivate a shared sense of ownership of the practice.
+
+You’re sincere. As community lead, you take an active interest in your own development and the development of other data scientists across the organisation.
+
+You have 5+ years as a practicing data scientist, analyst or data/analytics engineer.
+
+You have a high level of ability in data science languages such as SQL and Python and/or R.
+
+You have some previous experience leading data scientists in developing and adopting shared practice is essential (e.g. building an internal community of practice, contributing to open source)
+
+You have extensive experience working with engineers, product managers and designers in a product environment to decide what data to collect and how to collect it, to enable the data science downstream.
+
+You have (ideally) 2+ years experience with data modelling in a variety of contexts (e.g. web sites, applications, financial) and ideally in variety of use cases (e.g. preparing data for your own ad hoc data science projects, enterprise data warehousing and/or modelling data for software applications).
+
+You have (ideally) a strong command of Domain-Driven Design principles, with experience applying it to software or data design at an enterprise scale.
+
+ All your music is here. 
+
+Spotify gives you millions of songs at your fingertips. The artists you love, the latest hits, and new discov...

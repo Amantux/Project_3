@@ -1,0 +1,60 @@
+Senior/Staff Software Engineer, Data Infrastructure job posting
+
+Every year, while Americans wait for their paychecks, more than $1 trillion of their hard-earned money is held up in the pay cycle. As a result, we accumulate over $50 billion in late and overdraft fees and turn to high-interest loans. Overdraft charges and bank fees often trap people in a cycle of debt that can lead to unhealthy decisions and falling victim to predatory businesses disguised as helpful services. We don't accept that.
+
+Earnin is an app that creates products that help people gain control of their finances. Cash Out lets people get paid as soon as they leave work, with no fees, interest, or hidden costs. With Health Aid, Earnin negotiates on behalf of community members to lower their total unpaid medical bill and work out a budget-friendly payment plan. Cash Back Rewards is a way for members to earn up to 10% cash back on purchases from over a thousand local and national businesses without needing a credit card or having to reach spend thresholds to earn cash rewards — and they can withdraw the money at any time. We also offer free tools to help avoid overdrafts, to remind people when recurring bills are due, and we're working on more! There is never any required cost to use any of these products or services, users can choose to tip what they think is fair to support the service and pay it forward to keep the movement going.
+
+Earnin is supported by funding partners including Andreessen Horowitz, Matrix Partners, Ribbit Capital, Felicis Venture, Thrive Capital, and others. Join us and help build a new financial system focused on fairness and people's needs.
+
+You can help make a difference.
+
+About the Team:
+
+We are a data driven mobile financial tech company. The Data Infrastructure team builds the data services and data infrastructure that powers data science, analytics, and product development throughout Earnin. We are looking for a product-minded, self-driven Senior Software Engineer to own multiple large-scale projects that advance our mission of enabling people to gain access to their paycheck on demand.
+
+What sets us apart:
+High impact roles at a relatively small company that's aggressively growing our user base.
+We are a collaborative team and genuinely enjoy working with each other.
+We believe in empowering our people to be successful.
+We're building a product that inspires fairness across the financial world and helps people not get taken advantage of.
+As a Senior Engineer you will:
+Break down complex problems into their bare essentials, translate this complexity into elegant design and create high quality, maintainable code.
+Build massively scalable, production-grade data services.
+Champion data quality and governance throughout the organization.
+Build a world class data lake and data warehouse.
+Design and develop new systems and tools to enable all of Earnin to consume and understand data faster.
+Own the end to end design, build, and maintenance of platform services, data pipelines, and data products.
+Implement comprehensive monitoring, logging, and alerting across our data infrastructure.
+Work cross functionally with other teams (data science, design, product, marketing, and analytics) in high visibility roles as an engineering leader.
+Build and deploy the data architecture that supports machine learning model development and actionable analytics.
+Work with product engineering and data science teams to design scalable, performance model deployment architectures.
+Communicate the tradeoffs of technical decisions to multiple stakeholders, including non-technical audiences.
+Collaborate with and mentor other engineers and provide engineering direction to data scientists and analysts.
+Actively engage and drive design reviews and code reviews.
+Some skills we consider critical to being a Senior Engineer:
+BS or MS degree in Computer Science, Engineering, or a related technical field.
+8+ years of development experience in a fast-paced environment, especially startups.
+5+ years of experience working with data systems.
+Strong Python and SQL skills.
+Strong programming and architecture skills.
+Excellent written and verbal communication skills, including the ability to identify and communicate data driven insight.
+Taking pride in your code quality and helping others elevate their own code quality.
+Substantial experience with testing, data validation, and data quality assurance.
+You can articulate the tradeoffs of different deployment architectures (e.g. streaming vs. batch vs. service-based).
+Experience designing data platforms and services on cloud infrastructure, preferably AWS.
+Hands-on experience designing and building large-scale solutions with the Hadoop stack and/or Spark.
+Experience tuning and optimizing Spark-based applications.
+Experience deploying and/or using query engines like AWS Athena, Presto, and Impala.
+Experience with AWS analytical services like Redshift.
+Hands-on experience working with a varied set of data storage technologies (e.g. Mysql, Postgres, DynamoDB, S3, etc.). You know where and when to use each.
+Extensive experience with data modeling for multiple use cases and application styles, including NoSQL data modeling.
+Experience working with data formats such as Avro and Parquet.
+Experience working with alerting and monitoring tools like DataDog and PagerDuty.
+Nice to haves:
+You have experience building and deploying machine learning models.
+You have experience using Terraform.
+You have substantial experience working at a startup.
+You have experience with data modeling in Redshift.
+Experience with streaming infrastructure like Kafka.
+Experience working with Kubernetes.
+Experience building and deploying AWS Lambda applications.

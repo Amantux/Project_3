@@ -1,0 +1,12 @@
+About the Position
+
+
+At Jane Street, we consider trading and programming to be two ends of a continuum. As both a trading firm and a tech firm, we have room for people who love to trade, people who love to program, and people everywhere in between. Nearly all of our traders write code, and many of our developers trade. The role you carve out for yourself will be largely dependent on your strengths and the types of problems you enjoy thinking about.
+
+Researchers at Jane Street are responsible for building models, strategies, and systems that price and trade a variety of financial instruments. As a mix of the trading and software developer roles, this work involves many things: analyzing large datasets, building and testing models, creating new trading strategies, and writing the code that implements them.
+
+About You
+Be able to apply logical and mathematical thinking to all kinds of problems. Asking great questions is more important than knowing all the answers.
+Write great code. We mostly write in OCaml, so you should want to learn functional programming if you don't already have experience with it.
+Have good taste in research.The problems we work on rarely have clean, definitive answers. You should be comfortable pushing in new and unknown directions while maintaining clarity of purpose.
+Think and communicate precisely and openly. We believe great solutions come from the interaction between diverse groups of people across the firm.

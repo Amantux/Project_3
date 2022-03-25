@@ -1,0 +1,46 @@
+Summary
+
+Posted: Jul 25, 2019
+
+Weekly Hours: 40
+
+Role Number: 200081655
+
+Imagine what you could do here. At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
+The people here at Apple don’t just create products — they create the kind of wonder that’s revolutionized entire industries. It’s the diversity of those people and their ideas that inspires the innovation that runs through everything we do, from amazing technology to industry-leading environmental efforts. Join Apple, and help us leave the world better than we found it.
+Job Summary
+Our team is responsible for the development of the inspection equipment that determines if a product meets Apple’s high standards across all of the mechanical portion of hardware we make - iPhone, Mac, iPad, Watch and others
+
+Key Qualifications
+
+2+ years’ experience applying machine learning/ computer vision techniques to build models that power products & experiences.
+
+Deep technical skills in Machine Learning or Deep Learning and Computer Vision
+
+Experience with semantic segmentation, CNN, objection detection
+
+Strong software development skills. Experience building Software ML solutions – all the way from inception to production. Proficiency in Python is preferred.
+
+Experienced user of machine learning and statistical-analysis libraries, such as Turi Create, PyTorch, Keras, Scikit-learn, SciPy.
+
+Ability to explain and present analyses and machine learning concepts to a broad technical audience.
+
+Ability to Travel (international and domestic) approximately 25-50% of the time
+
+Must have strong interest and understanding of technical details whilst simultaneously have a firm grasp of the big picture as it relates to overall final product quality
+
+Creative and collaborative will be key in excelling in this role.
+
+Description
+
+It takes a strong background in Data Science / Machine Learning and Computer Vision to qualify for this job. As an applicant, you will explain not just how to build models to answer problems, but how to deploy models that scores millions of units per day in a challenging production environment. There is a bit of being like a start-up where you’ll occasionally have to wear multiple hats - sometimes you’ll need to be a technical project manager, other time you’ll need to deep dive into databases, while at other times you’ll need to work with optics to be able to see defects consistently so that you can then drive ML advancements.
+Nice to Have
+Experience with 2D/3D triangulation laser system and/or CCD inspection system such as Keyence, Cognex, and/or Visco
+Familiar with mechanical metrology system qualification process, such as GRR, Correlation, Stability and Reliability
+Deep understanding of optical, software filtering and judgment algorithms.
+Basic understanding of manufacturing processes (i.e. CNC, modling, laser welding, etc)
+Intermediate knowledge of system layout, architecture and cycle time optimization for optical, motion and mechanical systems
+
+Education & Experience
+
+M.Sc. in Computer Science, Systems Design, Electrical Engineering or equivalent experience. PhD is a plus

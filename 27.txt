@@ -1,0 +1,34 @@
+Lexington, MA, US
+
+#job-location.job-location-inline {
+display: inline;
+}
+
+Company:
+MIT Lincoln Laboratory
+Job Summary
+Responsible for the collection, synthesis, and analysis of employee data to meet organizational objectives. Gains insight into key Human Resources related business opportunities and deliverables by applying statistical analysis techniques to examine structured and unstructured data from multiple disparate sources. Interprets results from multiple sources using a variety of techniques, ranging from simple data aggregation via statistical analysis to complex data mining. Uses advanced mathematical, statistical, querying, and reporting methods to develop solutions. Develops information tools, algorithms, dashboards, and queries to monitor and improve business performance.
+
+Successful candidates will have demonstrated:
+Strong interpersonal, team building, communication and presentation skills to effectively communicate and collaborate with all levels of the organization.
+An ability to maintain strict confidentiality as well as business and professional ethics.
+Strong organizational skills, attention to detail and ability to handle multiple tasks.
+Flexibility and ability to work effectively and meet deadlines in a dynamic, fast-paced environment.
+Ability to perform successfully in a data driven, service-oriented environment and to interpret rules and guidelines flexibly to enhance the business values and the diverse culture.
+Requirements
+BS required, MS preferred in related disciplines such as Computer Science, Statistics, and/or Mathematics with 5-8 years of relevant experience.
+Experience working with sensitive data, predictive analytics and behavioral science based information preferred.
+Must have demonstrated experience with some or all of the following: Data and Quantitative Analysis / Decision Analytics / Predictive Modeling / Data-Driven Personalization / KPI Dashboards and BPI Plans / Big Data Queries and Interpretation / Data Mining and Visualization Tools / Machine Learning Algorithms / Business Intelligence (BI) / Research, Reports and Forecasts.
+In addition, must have experience with some or all of the following: Data and Computer Science proficiency: SPSS, SAS, R, Rstats, Python, Apache Spark, Microsoft PowerBI, Matlab, HIVE, Pig, data warehouse (DW, DWH), Hadoop, Google Analytics, data mart projects, data management, machine learning, predictive analytics, prescriptive analytics, streaming analytics, SQL, Business Objects (Crystal Reports, Dashboards, WEBI), SAP BW, SAP HANA, SAP Lumera, and many and/or other products is a plus.
+
+For Benefits Information, click http://hrweb.mit.edu/benefits
+
+Selected candidate will be subject to a pre-employment background investigation and must be able to obtain and maintain a Secret level DoD security clearance.
+
+MIT Lincoln Laboratory is an Equal Employment Opportunity (EEO) employer. All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, veteran status, disability status, or genetic information; U.S. citizenship is required.
+
+Requisition ID: 28943
+
+Nearest Major Market: Boston
+Job Segment:
+Database, Scientific, Scientist, ERP, Developer, Engineering, Technology, Science

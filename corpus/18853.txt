@@ -1,0 +1,38 @@
+Job Description
+Robin Healthcare's transformative technology is freeing physicians to focus completely on their patients, all while collecting the richest data set in healthcare. The Robin, our proprietary smart-assistant device, is placed in exam rooms helping physicians complete their clinical notes over 2 hours faster. Robin is led by technology and clinical founders with successful exits. Robin Healthcare has raised $15M after its recent Series A financing from Norwest.
+
+Robin uses a ton of AWS tooling to allow its developers to focus on building and deploying meaningful systems, all while maintaining HIPAA compliance. While we currently use a lot of node.js, MongoDB, SQL, Redis, React, etc., we are not devoted to any of these tools over the life of the business. We use the best tool for the job and for maintenance.
+
+Every week Robin sees 1000’s of patients. Robin allows doctors to actually focus on their patients, not their paperwork. But that is just the beginning of our plans to transform healthcare. Robin is a team of 30 and growing rapidly. We care tremendously about our people. We work hard and make each other better in the process. We are always there to support each other. You will love coming to work each day. Unfairly talented. Startup experience, exits, big-name experience, Ph.D.’s, but still hungry and low ego. Ready to build a meaningful product.
+
+Locations:
+Berkeley, CA, 3 blocks off Downtown Bart Station.
+San Diego, CA, North Park
+Responsibilities:
+You will be a core engineer on our early-stage team. We work on everything from machine learning, to security, to high-performance computing, to IoT devices, to dynamic web apps, etc. Don’t be surprised if you get to touch every system while you work here, often teaming up with other team members on critical work. Some examples of projects you may work on:
+Design and build web apps and production features used by 1000's of patients
+Setup external APIs for a number of different services
+Develop RESTful web service endpoints
+Integrate with machine learning services
+Navigate logs and troubleshoot production issues
+Designing for load spikes with queueing, caching, indexing, etc.
+. . .Plus any awesome ideas you come up with!
+Skills/Experience:
+2+ years of software development experience
+1+ years of startup software experience, meaning early stage, sub-15 engineers, where you got to bounce around and work on the full stack
+Experience with Node.js, Express.js
+Taken projects from requirements phase through to production deployment and maintenance
+Stuff you do on your own: write tests, refactor, utilize new developer tools
+Experience with SQL and NoSQL databases
+Experience with RESTful web services and an understanding of their implementation
+Confidence picking up new frameworks as required
+Coordinate well with team members through chat, project management tooling and in person
+Comfortable going through logs and troubleshooting
+Experience with AWS is a plus
+Experience with React is a plus
+Perks:
+Flex time
+Jeans/shorts + t-shirt dress code (if that counts as a dress code)
+Huge monitors and the latest Mac of your choice (or whatever makes you happy and productive)
+Health Benefits, 401(k), Stock Options
+Work with brilliant hard-working, caring people on a day to day basis

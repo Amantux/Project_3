@@ -1,0 +1,63 @@
+Company Overview
+
+SS&C is a global provider of investment and financial services and software for the financial services and healthcare industries. Named to Fortune 1000 list as top U.S. company based on revenue, SS&C is headquartered in Windsor, Connecticut and has 20,000+ employees in over 90 offices in 35 countries. Some 18,000 financial services and healthcare organizations, from the world's largest institutions to local firms, manage and account for their investments using SS&C's products and services.
+
+Role Overview
+
+The SS&C Data Science Team is a Center of Excellence for the application of data science and machine learning across the global organization. Data Science is a de-centralized skillset at SS&C with individual data scientists sitting within several areas of the business. This role will be part of the Center of Excellence headquartered in Kansas City, Missouri.
+
+The SS&C Data Science center of excellence supports the SS&C business in 3 ways:
+
+Rapid prototyping or proof of concept development to determine the feasibility of data-based product ideas in partnership with business leaders and product developers from any one of our many verticals Custom model development and hosting for SS&C clients to use in their day-to-day business End-to-end application development for enterprise usage and scalability
+
+As a data scientist in the Data Science COE, you will work on a team that collaborates with business and technology leaders to understand business needs and develop solutions/models to fill those needs. The ideal candidate is adept at translating from business problems to analytical solutions to business results in a high paced environment. They must have strong written and verbal communication skills above and beyond a deep statistical background.
+
+Responsibilities
+
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+
+Develop custom data models and algorithms to apply to data sets.
+
+Coordinate with different functional teams to implement models and monitor outcomes.
+
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+
+Design and implement data science systems (ML, AI, optimization, and statistics)
+
+Collaborate with data engineers to design deployments and pipelines
+
+Participate in peer review, knowledge sharing, and tech prototyping through in-person, collaborative exchanges and presentations.
+
+Identify new product opportunities and collaboratively develop them with partners
+
+Present data products to non-technical partners and collaborators
+
+Develop appropriate business and technical documentation for your own words
+
+Qualifications
+
+Bachelor’s degree and 2 years of work-related experience, or Master’s degree, or 4 years equivalent work-related experience in Engineering, Computer Science, Physics, Statistics, or a related field
+
+Coding knowledge and experience with PySpark, Python, SQL, R, SAS, etc.
+
+Knowledge and experience in common statistical and machine learning methods: classification, regression, clustering, decision trees and random forests, neural networks, etc.
+
+Strong written and verbal communication skills
+
+Preferential consideration will be given to candidates with the following:
+
+Experience with distributed data/computing tools: Hadoop, Hive, Spark.
+
+Familiarity with iterative development methodologies like Scrum, Agile, etc.
+
+Familiarity with git
+
+Experience collaborating with a product team to provide data solutions
+
+Location:
+
+Kansas City Missouri
+
+DST is an equal opportunity employer and values a diverse and inclusive workplace. All qualified candidates will receive consideration for employment without regard to age, race, color, religion, genetic information, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status, or any other characteristic protected by law. For more information about Equal Opportunity in the Workplace please click here and here . DST is committed to working with and providing reasonable accommodation to job applicants with disabilities. If you are a qualified individual with a disability and need an accommodation or accessibility assistance to complete the online application, please contact us at PeopleCenter@dstsystems.com for assistance.

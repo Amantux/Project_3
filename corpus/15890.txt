@@ -1,0 +1,45 @@
+Introduction to Shield
+Shield AI’s mission is to protect service members and civilians with artificially intelligent systems. For our team, no idea is too ambitious. We don’t ever want to stop working to make possible what looks out of reach today. We have assembled a world-class team dedicated to shaping the future of artificially intelligent systems. We are backed by top tier venture capital investors, have been shipping product since 2018 and are rapidly expanding.
+
+Job Description
+Are you a passionate and innovative software engineer looking to help develop state of the art AI products? Are you eager to make a positive difference in the world? Do you want to work alongside mission driven and values focused teammates? Shield AI is just the place for you!
+As a Machine Learning Engineer, you will work on exciting applications of machine learning for robotic systems. You will work alongside a team of passionate and driven engineers to solve a wide variety of challenging problems to include object detection, scene understanding, face verification, and action recognition. You will conduct literature reviews to drive team decisions and develop a framework for training, validation, and evaluation. Your contributions will help provide the situational awareness that is essential to the safety of our users!
+Join us to push the state of the art in autonomous robotics for protecting lives.
+What you'll do
+Develop algorithms for the accurate detection, classification, and localization of high-value objects for tracking and analysis
+Develop algorithms for scene understanding; build scene graphs, recognize obstacles for navigation, and estimate threat or intent
+Contribute to our machine learning foundation tools for curating data and developing/analyzing models
+Inform sensor decisions for optimal approaches to machine learning for product requirements
+Develop state-of-the-art approaches in the areas described above, as applied to our unique problems
+Projects you might work on
+Improving the tooling and pipelines that allow us to develop models at scale
+Developing and optimizing models for multiple tasks of interest
+Extending models to optimize execution and pull in more functionality such as tracking or motion prediction
+Developing robust APIs for easy interfacing with internal and external software components
+People we're looking for have the following required education and experience
+5+ years of professional work experience as a machine learning and/or software engineer
+MS in Computer Science or Engineering, similar degree, or equivalent practical experience
+Experience with contributing to large and complex software projects
+Practical experience with machine learning frameworks such as PyTorch and TensorFlow
+Competencies
+Deep learning model development
+Software Engineering
+C++
+Python
+TensorFlow
+Caffe/Caffe2
+PyTorch
+scikit-learn
+OpenCV
+Multi-threaded development
+Excellent communication skills
+Preferred qualifications
+Experience producing, deploying, and improving production models
+Experience with ROS
+Experience with CUDA
+Passion for solving problems that make a difference
+If you're interested in being part of our team, apply now!
+
+Shield AI is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, marital status, disability, gender identity or Veteran status. If you have a disability or special need that requires accommodation, please let us know.
+
+To conform to U.S. Government regulations, applicant must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State.

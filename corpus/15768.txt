@@ -1,0 +1,40 @@
+Mercato connects independent food retailers with consumers and suppliers to streamline their business, increase sales, and lower operating costs.
+
+Reporting to the VP of Engineering, the Data Engineer will own Mercato’s data warehouse, its design. The Data Engineer will implement and maintain custom ETLs.
+
+You will be the first Data Engineer at Mercato and have opportunities to contribute to a variety of projects and technologies including analytics, ML modeling, tooling, services, and more.
+
+You are focused on results, a self-starter, and have demonstrated success in developing and maintaining data infrastructure to ensure your colleagues are empowered with reliable access to data.
+
+Responsibilities
+Collaborate with Product Management and Engineering to understand data needs, solve problems, and identify trends and opportunities.
+Design, build and launch new data extraction, transformation, and loading processes in production.
+Manage data warehouse plans for a group of products.
+Work with data infrastructure to triage infrastructure issues and drive to resolution.
+Build data expertise and own data quality for allocated areas of ownership.
+Support existing processes running in production.
+Requirements
+Experience with custom ETL design, implementation and maintenance, including schema design and dimensional data modeling.
+Significant experience with workflow management engines (i.e. Airflow, AWS Step Functions, etc).
+Expert proficiency in any scripting language (Python, Node.js, R, etc.) and SQL.
+Experience working with cloud or on-prem Big Data/MPP analytics platform (i.e., AWS Redshift or similar).
+Ability to analyze data to identify deliverables, gaps, and inconsistencies.
+Communication skills. A strong ability to identify and communicate data-driven insights.
+Managing and communicating data warehouse plans to internal clients.
+4+ years experience working with either a Map Reduce or an MPP system.
+Ability to thrive in an unstructured environment, working autonomously to find opportunities to deliver business impact.
+Success Drivers And Competencies
+Must be able to convey information in a clear, focused, and concise manner.
+Experience in planning, coordinating, and executing multiple projects simultaneously.
+Ability to think creatively and work in a team environment.
+Must work well in a dynamic environment and be able to recommend and implement process improvements, work independently, and handle multiple tasks simultaneously.
+Passion for helping others.
+Benefits
+
+Mercato is an equal opportunity employer. We believe passionately that employing a diverse workforce is central to our success. We make recruiting decisions based on your experience and skills. We value your passion to discover, invent, simplify, and build.
+
+By submitting your resume and application information, you authorize Mercato to transmit and store your information in the Mercato group companies' nationwide recruitment database.
+
+Compensation Commensurate With Experience.
+
+Upbeat work environment at a company with a huge vision.

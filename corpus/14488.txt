@@ -1,0 +1,51 @@
+Job Description
+Radar Exploitation Scientist (Must Have Top Secret/SCI clearance) - JT
+
+Northridge, California We also have opportunities is Arlington, VA; Chantilly, VA; and Northridge, CA.**
+
+SUMMARY:
+
+Looking for a highly motivated, technically talented and intellectually agile individual able to support a broad range of Radar programs and initiatives across the company. The Radar Exploitation Scientist will conduct research and development activities focused on passive and active Radio Frequency (RF) sensor technology exploitation that address the challenging mission requirements and emerging needs of our IC and DoD customers, both for existing systems and systems under development. Activities cover algorithm development and concept design for ground-based, shipboard, airborne, and space-based RF systems. Technical challenges cover a broad range of disciplines including novel waveforms that enable multiple missions, simulation and performance modeling, and optimal processing approaches. The successful candidate will be a key player in developing radar solutions critical to national security.
+
+Primary responsibilities:
+
+Researches, designs, develops and verifies RF signal and image collection systems, and defines and develops processing and dissemination computer algorithms. Develops requirements analysis, system architecture, and integrates new signal and image capture and processing technology systems. Designs, develops and analyzes systems for the extraction of information from sensors. Systems utilization includes implementation of signal and image processing with advanced computer architectures.
+The Radar Exploitation Scientist will support our clients Research & Development efforts in Advanced RF Sensing through:
+Developing novel solutions, significant enhancements and efficient implementations of signal processing algorithms for challenging mission applications, with initial focus on SAR systems
+Researching, designing, and implementing advanced signal processing and RF system concepts that yield new capabilities addressing urgent customer needs
+Implementing prototype solutions in software, utilizing the latest data exploitation techniques (including machine learning techniques)
+Developing simulations and performance models that enable trade studies for radar systems
+Technically supporting radar initiatives in multiple Business Areas across the company
+Interfacing with and briefing technical solutions to customers and large peer groups
+Travelling as necessary to support customer requirements
+Required Knowledge, Skills, and Abilities: (Submission Summary:
+
+1. Bachelor’s degree or higher in Mathematics, Physics, Electrical Engineering, Computer Science/Engineering or related technical discipline, with no less than 2 years relevant radar experience.
+
+2. 5-9+ years of experience in industry with BS/BA - 3-7+ years of experience in industry with MS/MA - 0-4+ years of experience in industry with PhD
+
+3. Demonstrated analytical, applied mathematics and problem-solving skills.
+
+4. Radar systems development experience including: signal and image processing, detection/estimation theory, algorithm development, software development, data analysis and/or modeling and simulation.
+
+5. Programming proficiency sufficient to generate prototype solutions (e.g. IDL, C/C++, MATLAB or Python)
+
+6. Excellent technical writing and oral communications skills
+
+7. Must be a U.S. Citizen with eligibility for Top Secret/SCI clearance
+
+8. Experience with SAR image formation, algorithms and exploitation concepts - Preferred
+
+9. Experience developing novel waveforms and associated signal processing algorithms - Preferred
+
+10. Experience with automatic target recognition technologies - Preferred
+
+11. Experience with modern machine learning techniques applied to sensor data exploitation - Preferred
+
+12. Familiarity with embedded processing (e.g. FPGA or CPU/GPU implementations) - Preferred
+
+13. Familiarity with formal software development processes and cloud computing paradigms - Preferred
+
+14. Experience supporting business capture activities - Preferred
+
+Active Top Secret/SCI clearance - Preferred

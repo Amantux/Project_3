@@ -1,0 +1,23 @@
+We are seeking a unicorn to join our industry leading technology team co-founded by the former CTO of salesforce.com. We are looking for passionate data scientists in hotel and revenue management space.
+
+Responsibilities
+Work alongside Data/ML Engineers and product management to identify patterns and trends in datasets to optimize Duetto's dynamic pricing and forecasting service.
+Conduct research to develop custom data models and algorithms to improve the effectiveness and accuracy of pricing and forecasting engine.
+Use predictive modeling to increase and optimize room bookings and revenue generation for customers (hotels, resorts, casinos, etc.)
+Develop company A/B testing framework to test model quality.
+Requirements
+Bachelor degree in Data Science, Computer Science, Statistics, Mathematics, or related field.
+Minimum 3+ years experience in a Data Scientist role.
+Strong research and problem solving skills with an emphasis on product development.
+Experience in SQL, data processing, data exploration, data preparation and validation.
+Experience with machine learning pipelines, and using statistical computer languages (R, Python, etc.) to manipulate data and draw insights from large datasets.
+Experience with data exploration toolkits pandas, jupyter, matplotlib, seaborn, numpy, SQL desired.
+Knowledge of these frameworks are desired: statsmodel, scikit-learn, random forest, xgboost, keras, pytorch, tensorflow.
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, classification, regression, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Knowledge of statistical techniques and concepts (regression, properties of distributions, ARIMA, Exponential Smoothing, statistical tests and proper usage, etc.).
+Excellent written and verbal communication skills for coordinating across multiple engineering teams.
+A passion for technology with a drive to stay up to date with technology and best practices.
+About Duetto:
+
+
+We are a team of passionate hospitality and technology professionals delivering a modern platform to hoteliers in over 60 countries. Our solutions address the biggest problems faced by the hospitality industry by simplifying distribution complexity and optimizing profitability with unique and powerful applications that increase conversion, guest loyalty, operational efficiency and revenue. Our goal is to become the most trusted, effective and widely used hotel technology company in the world. Founded in 2012, Duetto is headquartered in San Francisco with offices in Las Vegas, London, Singapore and Buenos Aires. Duetto is backed by leading investors: Warburg Pincus, Accel Partners, Icon Ventures, and Battery Ventures. If you want to be a part of a fast-growing company, working with amazing people tackling big challenges in a massive industry, then Duetto is looking for you.

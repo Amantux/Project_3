@@ -1,0 +1,37 @@
+About City of Hope
+City of Hope, an innovative biomedical research, treatment and educational institution with over 6000 employees, is dedicated to the prevention and cure of cancer and other life-threatening diseases and guided by a compassionate, patient-centered philosophy.
+
+Founded in 1913 and headquartered in Duarte, California, City of Hope is a remarkable non-profit institution, where compassion and advanced care go hand-in-hand with excellence in clinical and scientific research. City of Hope is a National Cancer Institute designated Comprehensive Cancer Center and a founding member of the National Comprehensive Cancer Network, an alliance of the nations leading cancer centers that develops and institutes standards of care for cancer treatment.
+
+Position Summary
+The Data Scientist in this role will query and analyze large complex datasets to discover insights to apply to an evolving cancer care delivery environment. The Data Scientist will use data mining, statistics and machine learning to understand relationships and patterns in data, build predictive models and propose actionable solutions.
+
+Key Responsibilities include:
+Collaborate with administrative leaders, clinicians and IT specialists
+Query large datasets from multiple systems
+Build machine learning models
+Design and implementation of pilots for validation and optimization of models in real time
+Produce technical documentation, visualizations and presentations
+Lead projects with multiple work streams or complex tasks
+Project management for complex tasks
+Complete individual or collaborative projects independently
+Provide key subject matter expertise and leadership in advancing the use of AI technologies in precision medicine and clinical decision support
+Provide mentorship and guidance to more junior staff
+Qualifications
+Basic education, experience and skills required for consideration:
+PhD degree in computer science, engineering, statistics, mathematics, physics, or fields related to data science with 0+ years of experience as a data scientist, Masters degree with 3+ years of experience; or Bachelors degree with 5+ years of experience
+Preferred Experience:
+Familiarity with a health care environment and EHR data
+Familiarity with genomics and medical imaging data
+Time series analysis
+Natural Language Processing (NLP)
+Cloud services platforms like Amazon AWS and Microsoft Azure
+Awareness of the most recent trends and developments in the Data Science / Machine Learning fields
+Skills/Abilities:
+Data analytics expert with measurable track record within industry or academic environment, developing and successfully implementing statistical and machine learning models for data mining, classification, prediction and clustering
+Experience with relational databases and SQL queries.
+Must be knowledgeable in at least one scientific computing language such as Python (e.g. pandas, scikit-learn, genism, seaborn, tensorflow), R (e.g. caret, dplyr, ggplot2), and Matlab
+Solid experience in Machine learning (RandomForest, XGBoost/ LightGBM, etc.) and deep learning (CNN, RNN, LSTM, etc.) techniques
+City of Hope is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a protected veteran, or status as a qualified individual with disability.
+
+#LI-DQ

@@ -1,0 +1,33 @@
+Cision Ltd is a leading global provider of innovative earned media software and services to public relations and marketing communications professionals. Cision’s Communications Cloud platform allows users to identify key influencers, craft and distribute strategic content, and measure meaningful impact of PR and Communications Teams’ campaigns. Cision has over 4,500 employees with offices in 23 countries throughout the Americas, EMEA, and APAC. For more information about our products and services, visit www.cision.com and follow us on Twitter @Cision.
+Cision employs the brightest, most passionate people in the tech industry. We’d love for you to join that group! We invest in our people through training and professional development and we empower them to grow their careers - because the most important measure of our success is yours.
+
+
+As a Backend Software Engineer at Cision, you will be working with an established team to design, build and deploy critical systems and services for Cision’s next-generation Digital-PR platform.  This platform includes a rich web UI and is powered by large-scale data systems and micro-services.  You will lead and drive various efforts on your team as well as across teams that strives to maintain and support its work on a continuous basis using a variety of open-source technologies in a fast-paced Agile environment.
+
+You will be part of a global Product Delivery organization of over 300 people with diverse technical backgrounds and skills. We work on a platform that contains billions of processed and enriched articles as well as 1 billion+ social influencers and publishers. You will work in close collaboration with Product Managers, Architects and other Engineers to define and create the software components and services our customers depend on every day to do their jobs .
+
+You will help us by:
+Bringing pragmatic experience with modern service/API development techniques to guide the team in using clean patterns and maintaining a performant, scalable architecture
+Being responsible for solving moderately complex problems related to scalability, reliability, performance and reusability
+Managing your own code - designing, building, testing, and deploying it from your local environment to production, with assistance from QA, DevOps and other developers as needed
+Participating and providing guidance in thorough code reviews in a collaborative, constructive environment
+Maintaining a backlog of epics, user stories, and tasks that you deliver continuously - we deploy to production many times a day
+Consistently communicating with members of your team, your direct manager, and other global software developers
+You will be a good fit for the role if you have:
+Proven professional experience using Java or another jvm language to deliver scalable services and APIs
+Experience working with relational databases such as PostgreSQL and MySQL
+Solid understanding of RESTful APIs - you have used and built APIs
+Experience and understanding of AWS platform - Elasticsearch and Kinesis highly desirable
+Curious and eager to learn about new technologies, about the team, about the company and the industry
+You are not afraid to ask or answer questions - software development is a life-long learning process!
+You will be a great fit for the role if you also have:
+Technical experience with the following: Cassandra or other NoSQL datastores, building and deploying microservices (Vertx highly desirable), Grails, SpringBoot, or similar rapid-development frameworks
+Agile experience with development processes such as Kanban and Scrum
+DevOps experience: version control, automated builds, automated testing, and continuous integration with tools such as, Jenkins, Git, Bitbucket, Ansible
+General experience with logging, monitoring, and alerting tools and techniques
+Bachelor’s degree in Computer Science, Engineering, a related technical field, or equivalent industry experience
+Cision is committed to building an environment where all employees are set up to thrive and reach their full potential. We believe diversity, equity and inclusion is vital to driving our culture, sparking innovation and achieving long-term success. Cision is proud to have joined more than 600 companies in signing the CEO Action for Diversity & Inclusion™ pledge, the largest CEO-driven business commitment to advance diversity and inclusion within the workplace.
+Cision is proud to be an equal opportunity employer, seeking to create a welcoming and diverse environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity or expression, sexual orientation, national origin, genetics, disability, age, veteran status, or other protected statuses.
+EEO/AA employer M/F/D/V, 41 CFR 60–1.4
+Please see EEO is the law and EEO is the Law Supplement.
+Please review our Global Candidate Data Privacy Statement to learn about Cision’s commitment to protecting personal data collected during the hiring process.

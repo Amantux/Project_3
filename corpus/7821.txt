@@ -1,0 +1,103 @@
+Job Description
+
+As businesses leverage digitalization opportunities, their cyber-attack surface structurally increases, which can lead to business disruptions, data breaches and brand damage. High profile industry incidents show that these risks are real, and this has turned cyber resilience into a topic for Boards.
+
+Cyber attacks can cause damage to reputations, destruction of assets and loss of information. Shell is taking action to detect and respond to the continuous flow of these types of attacks.
+
+As part of the Information Risk Management function, the CyberDefence capability has specific focus on identifying cyber threats, discovery of IT vulnerabilities, monitoring for cyber intrusions and response to security incidents.
+
+As part of the CyberDefence capability the Threat and Analytics team in CyberDefence has two main areas of focus:
+
+To ensure we understand the internal and external threat landscape, what threats to focus on and how these can be identified within Shell.
+
+To find unknown cyber security threats active within Shell and weaknesses in our security controls by applying data analysis techniques to large, diverse sets of internal and external data.
+
+Our Data Analysis team searches through large, diverse sets of internal and external data to detect any unknown cyber security threats that are active within Shell and weaknesses in our security controls. You will regularly come up with new hypotheses on how adversaries may be attacking us and will prove out your hypotheses based on Shell event data. Furthermore, you will use statistical and machine learning techniques to identify outliers that will be further investigated. Once the unknown becomes known, you will ensure that we automate our detection and hand it over to our 24x7 Monitoring team. The Data Analysis team is paramount to ensure we continuously improve our detection capabilities and keep track of the ever increasing threat landscape.
+
+Requirements
+
+Must have legal authorization to work in the US on a full-time basis for anyone other than current employer.
+
+Bachelor's Degree
+
+Minimum of eight (8+) years IT security experience with deep knowledge and experience of advance analysis (e.g. malware analysis, forensic investigations, packet level analysis, indication of compromise, etc)
+
+Experience with Splunk Search Processing Language (SPL) to perform machine learning analytics on data
+
+Understanding of attack activities - scans, man in the middle, sniffing, (D)DoS, phishing, and abnormal activities such as worms, Trojans, viruses, privilege escalations, etc.
+
+Experience working in a complex global environment with common security device functions and countering a variety of attack vectors.
+
+Ability to use various security technologies for topics such as packet analysis, intrusion detection (including signature development), exploitation of vulnerabilities, searches in event data using Splunk, etc
+
+Knowledge of common operating systems and network device functions
+
+Has excellent analytical skills and appreciates a technical challenge.
+
+Has a good technical understanding of and experience with IT networks, infrastructure and applications.
+
+Has a passion for IT technology and is able to share that with other members of the team.
+
+Has good written and verbal communication skills and provides well-informed advice.
+
+Produces high quality deliverables in terms of both content and presentation. Examples of deliverables include: reports, presentations and reasoned arguments.
+
+Carries out assignments and projects, alone or as part of a team, applying knowledge, skills, and experience.
+
+Demonstrates an understanding of the issues of interest to Shell and proposes viable solutions within the scope of own expertise, taking into account the needs of those affected.
+
+Maintains knowledge and experience of current practice within own area of expertise and is aware of current developments within own area of expertise.
+
+Develops and maintains knowledge of Cyber security and maintains an awareness of current developments.
+
+Promotes transfer of knowledge and awareness of information security to those in related areas.
+
+Is comfortable working virtually.
+
+Creative mind-set and proven ability to think as a hacker and to translate this into threat scenario’s and use cases (evidence based analytical ability and attention to detail)
+
+Broad experience in technical IT security topics and hold certifications like: Offensive Security Certified Professional (OSCP), GIAC Certified Forensic Analyst (GCFA), GIAC Certified Reverse Engineering Malware (GREM), GIAC Certified Forensic Examiner (GCFE), GIAC Certified Intrusion Analyst (GCIA), CISSP; Broad understanding of all stages of Information Risk Management
+
+Experience with Data Science, developing machine learning algorithms and Big Data architectures / technology is a pre.
+
+Excellent verbal and written communication skills and the ability to interact professionally with a diverse group: executives, managers, and subject matter experts
+
+Effective and persuasive in both written and oral communication in English; strong interpersonal skills, with the ability to network across boundaries
+
+Company Description
+
+Shell is a global group of energy and petrochemicals companies with over 90,000 employees in more than 70 countries and territories. In the US, we have operated for over a century and are a major oil and gas producer onshore and in the Gulf of Mexico, a recognized innovator in exploration and production technology, and a leading manufacturer and marketer of fuels, natural gas and petrochemicals. We deliver energy responsibly; operate safely with respect to our neighbours and work to minimize our environmental impact. We are in search of remarkable people who will thrive in a diverse and inclusive work environment to deliver exciting projects locally and globally. People who are passionate about exploring new frontiers. Innovators and pioneers. People with the drive to help shape our future. Because remarkable people achieve remarkable things.
+
+Disclaimer
+
+Please note: We occasionally amend or withdraw Shell jobs and reserve the right to do so at any time, including prior to the advertised closing date.
+
+Before applying, you are advised to read our data protection policy. This policy describes the processing that may be associated with your personal data and informs you that your personal data may be transferred to Royal Dutch/Shell Group companies around the world.
+
+The Shell Group and its approved recruitment consultants will never ask you for a fee to process or consider your application for a career with Shell. Anyone who demands such a fee is not an authorised Shell representative and you are strongly advised to refuse any such demand.
+
+Shell participates in E-Verify.
+
+All qualified applicants will receive consideration for employment without regard to race, color, sex, national origin, age, religion, disability, sexual orientation, gender identity, protected veteran status, citizenship, genetic information or other protected status under federal, state or local laws.
+
+Shell is an Equal Opportunity Employer - Minorities/Females/Veterans/Disability.
+
+Employment Type
+
+Full Time
+
+Skillpool
+
+IT Information Risk Management
+
+Work Location
+
+Houston - EP Center Americas
+
+No. of Positions
+
+1
+
+Job Expires
+
+11-Aug-2019

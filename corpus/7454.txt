@@ -1,0 +1,81 @@
+AT&T is looking for a data scientist that will help us discover the information hidden in vast amounts of data to help us make smarter decisions to deliver actionable reports and predictions on network behavior. Your primary focus will be in applying data mining techniques, doing statistical analysis, and building high quality prediction systems integrated with tools and applications within a closed DoD network. You will also be expected to establish the Data Science DevOps Pod and in so doing will build and recommend tools and capabilities necessary to meet customer demand for Data and reports.
+
+Scope and responsibilities include:
+
+Knowledge: Applies extensive technical expertise, and experience to real-world scenarios.
+
+Problem Solving: Develops technical solutions to complex problems which require the regular use of ingenuity and creativity.
+
+Discretion: Work is performed without appreciable direction. Exercises considerable latitude in determining technical objectives and approaches to assignment.
+
+Impact: Erroneous decisions or recommendations would typically result in failure to achieve major organizational objectives.
+
+Liaison: Must have excellent people and organizational skills to professionally interact with internal and external organizations.
+
+Additional Responsibilities:
+
+Represents the organization as the prime technical contact on contracts and projects.
+
+Interacts in a customer-facing capacity with senior leadership on significant technical matters often requiring coordination between organizations.
+
+Selecting features, building and optimizing classifiers using machine learning techniques
+
+Data mining using state-of-the-art methods
+
+Enhancing data collection procedures to include information that is relevant for building analytic systems
+
+Processing, cleansing, and verifying the integrity of data used for analysis
+
+Doing ad-hoc analysis and presenting results in a clear manner
+
+Creating automated anomaly detection systems and constant tracking of its performance
+
+Skills and Qualifications:
+
+A passion to automate everything
+
+Hands-on experience scripting and programming skills
+
+Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc.
+
+Proficiency in using query languages such as SQL, Hive, Pig
+
+Experience with databases, such as MongoDB, Cassandra, MSSQL, Oracle
+
+Demonstrated ability to work with unstructured data.
+
+A motivated self-starting personality with natural intellectual curiosity
+
+able to work independently while maintaining patience with constant interruptions and multiple requests.
+
+Strong speaking, listening, and writing skills are critical for presentations to varied audiences in terms non-technical leadership can understand.
+
+Strong organizational skills with ability to prioritize and manage multiple tasks and responsibilities.
+
+Technologically savvy in handling of administrative practices.
+
+Comfortable working with confidential /sensitive/ secret or proprietary information.
+
+Experience in scripting with Bash, Perl, YAML, or other scripting languages
+
+Strong Data analytics and reporting expertise
+
+Familiarity or willingness to learn R Programming
+
+Familiarity or willingness to learn Python Coding
+
+Familiarity or willingness to learn Hadoop, SQL, Apache Spark
+
+Familiarity or willingness to learn Data visualization tools such as Tablaeu, ggplot, d3.js and Matplottlib,
+
+Experience with popular DevOps tools such as (Puppet, Chef, Ansible, Vagrant, Docker, Jenkins, Maven, Selenium, or Jira), provisioning, infrastructure as code, and other DevOps concepts and tools is desirable.
+
+Required Experience, Education, and Certifications:
+
+Compliant with DoD 8570 IAT Level I baseline certification or higher
+
+Master’s degree from an accredited college with 3 years of professional experience, or bachelor’s degree (Engineering, Math, Computer Science, Physics, Telecommunications, or Information Systems) from an accredited college with 5 years of professional experience, or 10 years related experience in DoD / Service Provider Networks
+
+Required Clearance:
+
+Secret

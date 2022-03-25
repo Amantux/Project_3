@@ -1,0 +1,35 @@
+OVERVIEW OF THE COMPANY
+Fox Corporation
+Under the FOX banner, we produce and distribute content through some of the world’s leading and most valued brands, including: FOX News, FOX Sports, the Fox Network, and the FOX Television Stations. We empower a diverse range of creators to imagine and develop culturally significant content, while building an organization that thrives on creative ideas, operational expertise and strategic thinking.
+JOB DESCRIPTION
+We are looking for a DevOps Engineer who will be responsible for application and service management in AWS for the MediaCloud division at FOX, using modern DevOps principles and tools of the trade, including Terraform, Jenkins, Docker, and Chef, and will be a part of a team consisting of passionate engineers who strive to demonstrate continued excellence in the field of DevOps and automation and will work closely with application developers, architects, and testing organizations. The DevOps team will be responsible for delivering end-to-end solutions from initial concept through finished solution in the area of automated build, deployment, monitoring, server, and cloud infrastructure and services.
+
+A SNAPSHOT OF YOUR RESPONSIBILITIES
+systems
+data structures
+modern scripting and enterprise level languages
+open source tools that can and should be leveraged to solve problems.
+WHAT YOU WILL NEED
+Minimum 5 years of experience working in AWS, with direct experience writing Terraform or Cloud Formation scripts, deploying and administering AWS services including but not exclusive of cloud storage (S3, EBS, EFS, Glacier), messaging and queuing (SQS, SNS), Lambda functions, compute (EC2, ECS), network services (Route53, VPC, WAF), and database services (RDS, Aurora, DynamoDB)
+Minimum 5 years of experience working with containers, including Docker and Kubernetes
+Minimum 5 years of experience with CI/CD tools (Jenkins, CircleCI, Bamboo) and code/binary repositories (Bitbucket, Git, Artifactory, Nexus) as part of the CI/CD pipeline
+Minimum 3 years of experience with application and container instrumentation using APM tools such as New Relic, Sysdig, App Dynamics, and DynaTrace
+Minimum 5 years of demonstrated experience with Python, Groovy, Ruby, and Bash
+Minimum 5 years of Linux/Unix administration experience
+Minimum 5 years of experience with Java application servers (Jetty, Jboss, Tomcat, Websphere)
+Minimum 5 years of experience with HTTP servers (Apache, Nginx, IIS)
+Minimum 5 years of experience with automation/configuration management using either Chef, Ansible, Puppet, or an equivalent
+Strong knowledge in open source technologies (Redis, MySQL, Jenkins, etc)
+Exhibit a deep understanding of 3 tier web architecture
+Strong experience in designing and building automated code deployment systems that simplify development work, making it consistent and predictable. The engineer will be responsible for orchestrating environment and application deployments from the OS all through the application layers of a solution, using tools such as Terraform, Jenkins, Docker, Bitbucket, and many others
+Ability to create automated tests that easily plug into our automated code pipeline
+Ability to provide deep and detailed levels of monitoring across all levels of the application
+Demonstrated interest and awareness of current and future infrastructure trends
+Strong knowledge about networking and security (TCP/IP, IPSec, VPC)
+Must be a continuous learner and a critical thinker
+Must be a responsible individual capable of teamwork and communication
+Demonstrated knowledge of best practices and IT operations in an always-up, always-available service
+Master’s degree in Computer, Physical Sciences or Engineering related discipline preferred.
+ABOUT YOU
+The ability to quickly understand requirements, from a user perspective, and move from there to a working prototype that captures the essence of what the product should be is key to the role. The ability to not only code and configure tools, but also assemble and integrate technology across disparate platforms is critical to success.
+We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, gender identity, disability, protected veteran status, or any other characteristic protected by law. We will consider for employment qualified applicants with criminal histories consistent with applicable law.

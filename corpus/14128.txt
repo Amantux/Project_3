@@ -1,0 +1,31 @@
+The Team: DBRS Morningstar is a global credit ratings business, currently with 700 employees in eight offices globally. Formed through the July 2019 acquisition of DBRS by Morningstar, Inc., the ratings business is the fourth-largest provider of credit ratings in the world. DBRS Morningstar is committed to empowering investor success, serving the market through leading-edge technology and raising the bar for the industry. DBRS Morningstar is a market leader in Canada, the U.S. and Europe in multiple asset classes. DBRS Morningstar is driven to bringing more clarity, diversity of opinion, and responsiveness to the ratings process. DBRS Morningstar’s approach and size provide the agility to respond to customers’ needs, while being large enough to provide the necessary expertise and resources.
+
+The role:
+Building, validating, testing and reviewing of all types of quantitative models that support our ratings across Structured Finance asset types such as (RMBS, CMBS, ABS, etc.)
+Evaluating and enhancing stability, conceptual soundness, assumptions, and mathematical logic of existing models
+Implementing models in an industrial strength language (Python, Spark, DASK etc.) as needed.
+Developing insights on large scale data, performing ad-hoc data cleaning and statistical analysis as needed
+Communicating results to rating analysts, senior management and other key stakeholders
+Developing reports for regulators and other external parties
+Desired Skills and Experience
+
+Minimum Requirements:
+MS/PhD in a quantitative discipline (econometrics, statistics, mathematics, physics, etc.) with strong project portfolio and/or 2-4 years of industry experience in quantitative modeling of credit risk
+Strong quantitative/statistical skills in areas like regression analysis, time series analysis, Monte Carlo simulations, etc.
+Strong coding skills, with preference for Python
+Self-starter, problem solver, team player
+Preferred Skills:
+Experience with modeling financial products and/or securitization
+Experience with SAS/R, SQL, C#, Python, C++
+Experience with Machine Learning/Deep Learning and/or high-performance computing on large scale data
+Experience with distributed data processing ecosystems (Spark, DASK etc.)
+Experience developing using Git or other collaborate workflow systems
+Experience with AWS
+CFA Qualification
+About Us
+
+DBRS Morningstar is a global credit ratings business, currently with 700 employees in eight offices globally. Formed through the July 2019 acquisition of DBRS by Morningstar, Inc., the ratings business is the fourth-largest provider of credit ratings in the world.
+
+DBRS Morningstar is committed to empowering investor success, serving the market through leading-edge technology and raising the bar for the industry. DBRS Morningstar is a market leader in Canada, the U.S. and Europe in multiple asset classes.
+
+DBRS Morningstar rates more than 2,600 issuers and 54,000 securities worldwide and is driven to bringing more clarity, diversity of opinion, and responsiveness to the ratings process. DBRS Morningstar’s approach and size provide the agility to respond to customers’ needs, while being large enough to provide the necessary expertise and resources.

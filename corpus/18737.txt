@@ -1,0 +1,27 @@
+**Please, no third parties***
+**There is no relocation assistance or employment sponsorship available***
+Main Duties and Responsibilities:
+Play an integral role with the development of new and maintenance of existing SQL Server database solutions (complex queries, stored procedures, triggers, etc.).
+Build data warehouse/reporting databases to better support queries that do not need real-time data.
+Database administration tasks including backup/recovery, archiving, merge replication design and management, installing, configuring, and patching database servers.
+Query performance management and tuning, dealing with performance problems, proactively monitor the database environment and to make changes to data structures, SQL, application logic or the DBMS subsystem to optimize performance.
+Write SQL scheduled jobs to automate data driven tasks.
+Identify, collect and integrate external data sources into data warehouse or other databases as appropriate.
+Business intelligence (BI) and reports development.
+Data access layer development and optimization.
+Tools development including productivity tools, reports, and dashboards.
+Other miscellaneous SQL production support and development tasks.
+Skills and Requirements:
+5+ years of experience with database development and administration leveraging SQL Server 2012 and higher.
+Advanced reports development skills using SSRS.
+Data integration experience using SSIS.
+Experience with database schema creation and management.
+Ability to translate a data model or logical database design into an actual physical database implementation.
+Ability to analyze and recommend database improvements.
+Ability to debug database issues on live data.
+Ability to write complex database code including stored procedures, views, functions, etc.
+Proven ability writing SQL scheduled jobs to automate data driven tasks.
+Experience with Spotlight or other database monitoring tool.
+Experience with PowerBI and/or Tableau is preferred.
+Bachelors or Masters Degree in Computer Science or related field is preferred.
+tags: sql dba, sql database administrator, sql database engineer, database developer, sql developer, etl developer, bi developer

@@ -1,0 +1,66 @@
+Job Description
+ABOUT CUREMETRIX
+
+Delivering CAD that Works, CureMetrix is committed to the advancement of technology that improves cancer survival rates worldwide. With research that leverages artificial intelligence (AI) and deep learning to develop the next generation of medical image analysis, CureMetrix delivers technology that radiologists, healthcare systems, and patients can confidently rely on. For more information visitwww.curemetrix.com
+
+ROLE OVERVIEW
+
+CureMetrix is looking for a talented, multi-disciplinary, individual to own our data ingestion, curation, and access management, as well as develop processes and tools to help derive more value and utility from the data.. At CureMetrix, curated radiology data is our lifeblood. The Data Engineer position will work with our Research and our Development teams to acquire, build, and maintain our database of clinical data and radiology images. The Data Engineer will also help build and maintain tools to assist our Research group with their Machine Learning pipeline.
+
+Local (San Diego) candidates only, please.
+
+ROLE SPECIFICS
+
+Data Management
+Working with a variety of public and private health institutions around the world to gather images and clinical mammography data.
+Developing data validation specifications and data management plans
+Cleaning and validating incoming data
+Normalizing and standardizing data according to set standards
+Verifying the integrity of the data
+Anonymize data according to set standards
+Ensuring the HIPAA compliance of the data at rest and in transit
+Working to establish and maintain the security of the data
+Curating the data as needed
+Designing queries to extract study data as needed for both internal uses and for publications.
+Working with internal and external teams to design and execute clinical studies utilizing data
+Working with CTO to build dashboards providing company insight into our dataset
+Ensure data adheres to company HIPAA and cybersecurity compliance policies
+Performing analysis and reporting to help ensure ongoing data integrity
+Performing analysis and reporting to support customer audits and consulting engagements
+Python Toolset
+Minimum of 4 years of Python experience working with development and research teams to build specifications, implement, and maintain data extraction and mining tools.
+Cloud Storage
+Minimum of 4 years of experience working in the cloud. Familiarity with AWS S3 storage in a HIPAA compliant environment. Requires knowledge of boto3 and AWS CLI tools.
+Machine Learning Pipeline
+Own internal medical image ground truth pipeline from ingestion to training.
+Work with radiologists to determine medical image ground truth
+Help manage medical image annotation vendors including quality management
+Work with Development and Research teams to build specifications, implement, and maintain our internal Machine Learning training pipeline.
+Assist the Research team in building datasets for Machine Learning training.
+Development
+Working with CTO to develop custom tools and applications for data access and management
+Supporting bi-directional integrations with 3rd-parties
+As needed supporting the entire team with development expertise on specific projects.
+
+
+QUALIFICATIONS
+Bachelor's degree in science, IT, or business-related field and/or equivalent work experience.
+Ability to build and maintain a growing study database along with strong SQL skills
+Strong experience using python scripting in a technical environment
+A Minimum of 5 years of working with large and complex datasets, preferably in a regulated device/diagnostic, laboratory, or CRO setting.
+Strong project management skills
+Ability to prioritize activities and meet regular deadlines according to reasonable levels of quality.
+Ability to work independently.
+Have strong writing, verbal communication skills, good organizational, interpersonal and team skills
+Used to working in an Agile environment
+POSITION TYPE AND HOURS OF WORKFull-time position. General Hours of work are Monday through Friday, from 8:30 a.m. to 5:30 p.m. Occasional early, late or weekend work required.
+
+POSITION COLLABORATES WITH AND IS SUPPORTED BY
+Research
+Software Development
+Operations and IT
+Business Development
+Key Executives
+WORK ENVIRONMENTThis job operates in a professional office environment. This role routinely uses standard office equipment such as computers, phones, photocopiers, filing cabinets, and fax machines. However, at this time all work is remote in your home office until further notice. As such candidates must be comfortable with remote work and prepared to contribute full engagement in such an environment.
+
+PHYSICAL DEMANDS:This position requires the ability to navigate throughout a large office, 3-story complex. This is primarily a sedentary role; however, some walking, standing, bending, lifting up to 20 lbs., and hand/eye coordination for keyboard data entry and viewing data on a computer monitor may be required. Specific vision abilities required by this job include close vision, distance vision, color vision, peripheral vision, depth perception, and ability to adjust focus. The physical demands described above must be met by an employee to successfully perform the essential functions of this job.

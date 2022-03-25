@@ -1,0 +1,145 @@
+Read what people are saying about working here. 
+
+Company Overview
+
+Age of Learning is a leading education technology innovator based in Glendale, California, with a talented team of 500+ individuals comprised of nationally-renowned educators, curriculum experts, designers, animators, engineers, and more. We develop engaging, effective digital learning technology and content to help children build a strong academic foundation for lifelong success.
+
+Our flagship product ABCmouse.com Early Learning Academy® is a comprehensive online curriculum and the #1 learning app and website for children ages 2 through 8. More than 20 million children worldwide have completed over 4 billion learning activities on ABCmouse. We recently launched Adventure Academy, the first educational massively multiplayer online (MMO) game, serving elementary and middle school children with thousands of learning activities in a fun and safe virtual world. Other programs include an immersive English language learning product for children in China; ReadingIQ, a world-class digital library with thousands of curated books; and a groundbreaking adaptive learning system that personalizes math instruction for every learner.
+
+We are committed to helping all children succeed. Through our Education Access Initiatives, we make ABCmouse available at no cost to millions of children through schools, libraries, Head Start programs, and community centers—including public housing authorities and after-school programs.
+
+As we expand our global reach and increase the educational impact of our programs, we’re looking for passionate, ambitious, and collaborative leaders to become a part of our growing team.
+
+Summary
+
+The Learning Data Scientist utilizes knowledge of learning theory, embedded assessment, analytics, measurement and data mining to realize the potential of games and digital learning experiences for engagement and learning. The person in this role collaborates with analysis teammates, cross-company internal stakeholders, and external partners to apply and create robust approaches to game-based assessment and data analysis while ensuring the accuracy, utility, and accessibility of interpretations. Lastly, the Learning Data Scientist provides support, when needed, to identify and develop external partnerships with leading figures in the fields of learning analytics, educational data mining and intelligent systems for purposes of joint projects that advance the work in the field of digital, game-based learning and measurement tools.
+
+Responsibilities
+
+Data Flow and Analysis
+
+Interpret data and analyze results using statistical techniques
+
+Utilize visualization tools (e.g. Tableau, D3, ggplot, etc.) to clearly communicate relevant analysis results to both internal and external stakeholders
+
+Identify, analyze, and interpret patterns in complex data sets
+
+Process, cleanse, and verify the integrity of data used for analysis
+
+Collaborate with team members to improve and maintain the data pipeline from initial data generation through multiple stages of extraction, cleaning, parsing, analysis, visualization, reporting and archiving
+
+Participate in definition of data specifications for learning games and contribute to a standardized data collection framework scalable across learning activities and platforms
+
+Required Qualifications
+
+Data Analysis & Visualization
+
+Technical expertise in data analytics, including basic data mining and statistical modeling
+
+Data visualization skills and strong knowledge of visualization tools (e.g. Tableau, D3, ggplot, matplotlib)
+
+Programming experience in R and/or Python
+
+Knowledge of statistics, statistical testing and experience using statistical packages
+
+Comfortable with creation of dashboards and reports and experience in data story telling
+
+Demonstrated expertise in deriving insights from structured, semi-structured, and unstructured datasets
+
+Comfortable with exploratory data analysis
+
+ETL – Data Engineering
+
+Solid data extraction and data wrangling skills
+
+Demonstrated experience in handling large data sets and relational databases
+
+Experience with working in backend data pipelines and ETL processes/tools, including basic data queries and extraction (e.g. with SQL); - a must!
+
+Ability to process, cleanse, and verify the integrity of data used for analysis
+
+Experience in handling high-volume event-stream data, including development of expedient processes for cleaning and aggregating data
+
+Knowledge of AWS is a plus (S3, Athena,…)
+
+Experience with Git is a plus
+
+General
+
+Must have good attention to detail, strong analytical skills, ability to prioritize multiple tasks, and deliver reports in timely manner
+
+Strong collaborative and teamwork skills
+
+ 
+
+Company Overview
+
+Age of Learning is a leading education technology innovator based in Glendale, California, with a talented team of 500+ individuals comprised of nationally-renowned educators, curriculum experts, designers, animators, engineers, and more. We develop engaging, effective digital learning technology and content to help children build a strong academic foundation for lifelong success.
+
+Our flagship product ABCmouse.com Early Learning Academy® is a comprehensive online curriculum and the #1 learning app and website for children ages 2 through 8. More than 20 million children worldwide have completed over 4 billion learning activities on ABCmouse. We recently launched Adventure Academy, the first educational massively multiplayer online (MMO) game, serving elementary and middle school children with thousands of learning activities in a fun and safe virtual world. Other programs include an immersive English language learning product for children in China; ReadingIQ, a world-class digital library with thousands of curated books; and a groundbreaking adaptive learning system that personalizes math instruction for every learner.
+
+We are committed to helping all children succeed. Through our Education Access Initiatives, we make ABCmouse available at no cost to millions of children through schools, libraries, Head Start programs, and community centers—including public housing authorities and after-school programs.
+
+As we expand our global reach and increase the educational impact of our programs, we’re looking for passionate, ambitious, and collaborative leaders to become a part of our growing team.
+
+Summary
+
+The Learning Data Scientist utilizes knowledge of learning theory, embedded assessment, analytics, measurement and data mining to realize the potential of games and digital learning experiences for engagement and learning. The person in this role collaborates with analysis teammates, cross-company internal stakeholders, and external partners to apply and create robust approaches to game-based assessment and data analysis while ensuring the accuracy, utility, and accessibility of interpretations. Lastly, the Learning Data Scientist provides support, when needed, to identify and develop external partnerships with leading figures in the fields of learning analytics, educational data mining and intelligent systems for purposes of joint projects that advance the work in the field of digital, game-based learning and measurement tools.
+
+Responsibilities
+
+Data Flow and Analysis
+
+Interpret data and analyze results using statistical techniques
+
+Utilize visualization tools (e.g. Tableau, D3, ggplot, etc.) to clearly communicate relevant analysis results to both internal and external stakeholders
+
+Identify, analyze, and interpret patterns in complex data sets
+
+Process, cleanse, and verify the integrity of data used for analysis
+
+Collaborate with team members to improve and maintain the data pipeline from initial data generation through multiple stages of extraction, cleaning, parsing, analysis, visualization, reporting and archiving
+
+Participate in definition of data specifications for learning games and contribute to a standardized data collection framework scalable across learning activities and platforms
+
+Required Qualifications
+
+Data Analysis & Visualization
+
+Technical expertise in data analytics, including basic data mining and statistical modeling
+
+Data visualization skills and strong knowledge of visualization tools (e.g. Tableau, D3, ggplot, matplotlib)
+
+Programming experience in R and/or Python
+
+Knowledge of statistics, statistical testing and experience using statistical packages
+
+Comfortable with creation of dashboards and reports and experience in data story telling
+
+Demonstrated expertise in deriving insights from structured, semi-structured, and unstructured datasets
+
+Comfortable with exploratory data analysis
+
+ETL – Data Engineering
+
+Solid data extraction and data wrangling skills
+
+Demonstrated experience in handling large data sets and relational databases
+
+Experience with working in backend data pipelines and ETL processes/tools, including basic data queries and extraction (e.g. with SQL); - a must!
+
+Ability to process, cleanse, and verify the integrity of data used for analysis
+
+Experience in handling high-volume event-stream data, including development of expedient processes for cleaning and aggregating data
+
+Knowledge of AWS is a plus (S3, Athena,…)
+
+Experience with Git is a plus
+
+General
+
+Must have good attention to detail, strong analytical skills, ability to prioritize multiple tasks, and deliver reports in timely manner
+
+Strong collaborative and teamwork skills
+
+ Age of Learning blends education best practices, innovative technology, and insightful creativity to bring learning to life for children ...

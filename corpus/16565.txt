@@ -1,0 +1,23 @@
+, 2020
+Role Number:
+200159693
+Play a part in the next revolution in human-computer interaction. Contribute to a product that is redefining mobile computing. Create groundbreaking technology for large scale systems, spoken language, big data, and artificial intelligence. And work with the people who created the intelligent assistant that helps millions of people get things done — just by asking. Join the Siri Speech team at Apple.
+
+The Siri team is looking for a forward-thinking and hardworking machine learning engineer to influence in developing Siri’s next generation speech recognition system on Apple’s innovative devices and novel features. You should be eager to get involved in hands-on work improving speech recognition quality and the overall Siri experience.
+
+Key Qualifications
+3-5 years of experience with scalable machine learning technologies for application to speech recognition, wake word detection, low power on-device tiny ML models.
+Proficiency in programming languages including but not limited to C/C++/Python
+Hands-on experience working with machine learning libraries like Tensorflow, PyTorch
+Demonstrate ability to prototype speech and signal processing algorithms on a variety of embedded platforms including iOS.
+Outstanding written and verbal communication, with the ability to work well in multi-functional teams.
+
+Description
+You will be a part of a team that's responsible for help develop and integrate Siri’s speech and audio experience in a full range Apple devices. Your work will have an impact on millions of Apple devices we ship. This position requires passion for improving the speech recognition software system and frameworks. You will work with the speech, audio hardware and software engineering teams to deliver a phenomenal speech user experience. You must have a "make this happen" attitude and willingness to also work hands-on in building tools, testing, data collection, running experiments as well as work with state-of-the-art speech and audio processing algorithms.
+
+You will be a part of a team that's responsible for a wide variety of language technologies related research and development activities. Your focus will be on applying deep learning to natural language processing tasks, such as language modelling, word segmentation, end-to-end speech recognition, etc. Our research typically relies on very large quantities of data and state-of-the-art methods in deep learning to tackle real world problems, at scale. You should therefore be passionate about building phenomenal products that are used by millions of people. Because you'll be working closely with scientists and engineers from a number of other teams at Apple, you’re a teammate who thrives in a fast-paced environment with rapidly changing priorities.
+
+Education & Experience
+MS in Computer Science, Electrical Engineering or related field
+
+Additional Requirements

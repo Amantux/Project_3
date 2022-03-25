@@ -1,0 +1,70 @@
+Read what people are saying about working here. 
+Job Description
+
+As a Data Scientist embedded in the Point of Sale & Customers team, you will lead machine learning projects that derive value from our unique, rich, and rapidly growing data. We’re a passionate team of hackers, statisticians, and optimizers who are resourceful in distilling questions, wrangling data, and driving decisions. You will work with one or both of these teams:
+
+Point of Sale
+
+The Point of Sale team is responsible for building and maintaining the iOS and Android apps that enable Square Sellers to accept payments and run their businesses. We are also responsible for onboarding across devices (including desktop) and helping Square Sellers manage their employees.
+
+Customers
+
+The Customers team’s mission is to improve the way sellers connect with their customers and empower merchants to build stronger relationships. We build services to help them engage with their existing customers and acquire new customers.
+
+As a member of the team, you will lead experimentation and growth initiatives, develop machine learning solutions to personalize product experiences, provide insights to our sellers about their business, and drive strategic decisions with data. Squares mission is economic empowerment, and our team supports this by using data to understand and empathize with our customers, thereby enabling us to build a remarkable product experience.
+
+You will:
+
+Use your experience in statistics, machine learning and scientific rigor to optimize product experience
+
+Develop scalable machine learning solutions to creatively leverage both new and existing data to increase the effectiveness of our data and machine learning infrastructure
+
+Drive cross functional analytics projects from beginning to end: build relationships with partner teams, frame and structure questions, collect and analyze data, as well as summarize and present key insights to inform decision making
+
+Work with engineers to implement machine learning solutions that directly impact the seller-facing experience and enable financial services for our sellers
+
+Collaborate with stakeholders to develop success criteria and optimize new products, features, policies, and models
+
+Communicate key results to senior management in verbal, visual, and written media
+
+Qualifications
+
+Qualifications
+
+2+ years industry experience in data science or analytics
+
+An advanced degree (M.S., PhD.), preferably in Statistics, Computer Science, Physical Sciences, Economics, or a related technical field
+
+Experience with developing, deploying and iterating on machine learning models used for optimizing key business metrics and product experience
+
+A consistent track record of performing data analysis using Python (numpy, pandas, scikit-learn, deep learning, etc.) and SQL
+
+Proficiency with Linux/OS X command line, version control software (git), and general software development
+
+Proficiency with other data tools such as Google Cloud Platform, Snowflake, Tableau, Looker
+
+The versatility and willingness to learn new technologies on the job
+
+The ability to clearly communicate complex results to technical and non-technical audiences
+
+Technologies we use and teach:
+
+Python (e.g. Pandas, Scikit-Learn, Tensorflow, Keras)
+
+Snowflake (SQL)
+
+Google Cloud Platform
+
+Looker, Amplitude, Tableau
+
+Machine Learning (e.g. Random Forest, Neural Network)
+
+Statistics (e.g. experimental design)
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.
+
+At Square, our purpose is to empower – within and outside of our walls. In order to build the best tools for the businesses and customers we support all over the world, we have to start at home with a workforce as diverse and empowered as our sellers. To this end, we take great care to evaluate all employees and job applicants equally, based on merit, competence, and qualifications. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, disability status, or any other characteristic protected by law. We encourage candidates from all backgrounds to apply and always consider qualified applicants with arrest and conviction records, in accordance with the San Francisco Fair Chance Ordinance. Applicants in need of special assistance or accommodation during the interview process or in accessing our website may contact us by sending an email to assistance(at)squareup.com. We will treat your request as confidentially as possible. In your email, please include your name and preferred method of contact, and we will respond as soon as possible.
+
+ Square is making commerce easy for everyone. Starting with a free credit card reader for the iPhone, iPad, and Android devices, Square Re...

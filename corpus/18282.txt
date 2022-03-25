@@ -1,0 +1,40 @@
+Do you want your voice heard and your actions to count?
+
+Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), the 5th largest financial group in the world (as ranked by S&P Global, April 2018). In the Americas, were 14,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, developing positive relationships built on integrity and respect. Its part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. Were a team that accepts responsibility for the future by asking the tough questions and owning the solutions. Join MUFG and be empowered to make your voice heard and your actions count.
+
+Job Summary
+
+We're seeking a Software Development Engineer in Test (SDET) to support the Core Banking Transformation (CBT) Program. This is a multi-year effort to modernize our deposits platform with a digitally-led and simplified ecosystem for consumer, small business, commercial, and transaction banking to deliver exceptional customer experience.
+
+This software development engineer in test leads designing, integrating, maintaining and managing test automation, tools and data management for the Core Banking Transformation (CBT) program. The ideal candidate is adept in both quality assurance engineering and software development, with a background in driving quality in mission critical systems.
+
+Major Responsibilities:
+Build robust, scalable, and high-quality test automation solutions for functional, regression and performance testing
+Build, customize, deploy, and manage test environments and automation frameworks
+Design efficient test cases to evaluate product scalability, reliability, consistency, and performance
+Embrace Infrastructure-as-Code and Continuous Integration / Continuous Delivery (CI/CD) pipelines to handle the full cloud-native application lifecycle
+Participate in product design, data design and user interface sessions; understand the business intent and requirements, leveraging this knowledge when designing test regimes
+Deliver high quality products as part of a cross-functional team including software developers, data engineers, infrastructure engineers and security engineers.
+The right candidate will have:
+8+ years of related experience in four or more of the following:
+Familiar with DevOps toolchain, i.e. BitBucket, JIRA, Jenkins Pipeline, Artifactory or Nexus
+Automating and deploying n-tier application stacks in AWS
+Able to find bottlenecks and thresholds in existing code with the help of automation tools
+Automated test data generation and/or data obfuscation
+Ability to stitch together a series of tools and technologies to facilitate automated end-to-end testing
+Developing automation with python, bash, java, powershell or similar languages
+Experience working with a variety of methodologies and operating models, including waterfall, agile, and DevOps
+Incredible attention to detail
+Ability to find a solution with limited guidance
+Excellent collaboration skills and a passion for problem solving
+Able to work alternative coverage schedules when necessary
+Bachelor's degree in computer science or related field, or equivalent professional experience
+Desired Knowledge, Skills, and Experience:
+
+AWS professional level certifications is preferred but not required
+Experience converting from monolithic applications to microservices
+The above statements are intended to describe the general nature and level of the work being performed. They are not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified.
+
+We are proud to be an Equal Opportunity / Affirmative Action Employer and committed to leveraging the diverse backgrounds, perspectives, and experience of our workforce to create opportunities for our colleagues and our business. We do not discriminate in employment decisions on the basis of any protected category.
+
+A conviction is not an absolute bar to employment. Factors such as the age of the offense, evidence of rehabilitation, seriousness of violation, and job relatedness are considered in all employment decisions. Additionally, its the banks policy to only inquire into a candidates criminal history after an offer has been made. Federal law prohibits banks from employing individuals who have been convicted of, or received a pretrial diversion for, certain offenses.

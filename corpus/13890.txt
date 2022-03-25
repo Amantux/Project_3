@@ -1,0 +1,42 @@
+We’re looking for a Senior Data Scientist who is passionate about the engineering side of Data Science. You will be joining a new Data Science Operations team tasked with accelerating Data Science research and development through improved design and best practice adoption, as well as through tooling and processes.
+
+You are a broad generalist. You enjoy collaborating with scientists to build software and to improve workflows. You appreciate all stages of data operations, from ingestion and transformation of data to use in statistical models and machine learning products. You will work primarily with data science teams to collaboratively build elegant, reusable domain-specific python libraries and services; and you will remove pain points and inefficiencies in development, feature creation, prototyping, and productionalization. You will also collaborate with Data Engineering and Data Platforms teams in pursuit of Data Science workflow improvements. You should excel in a culture of teaching and learning.
+
+You will work in the Data Science department and report to the Manager of Data Science Operations in Squarespace’s New York offices.
+
+RESPONSIBILITIES
+Advise and enhance data science teams, focusing on software-related concern
+Design, develop, refactor, package, harden, and deploy software products
+Promote the use of internally built and externally sourced tools through presentation, documentation, and cross-team collaboration
+Develop tools and automate workflows
+Guide the Data Science Team's adoption of new software and frameworks
+Translate unstructured inefficiencies and pain points into concrete business and technical requirements
+Identify and implement development metrics and operational metrics; assist teams in setting and achieving goals to improve those metrics.
+Build data pipelines to make key datasets available to both data scientists and business intelligence analysts throughout the company
+QUALIFICATIONS
+5 or more years of experience in a research software role, either as an engineer or a data scientist
+Experience working in a data science team with a strong engineering culture
+A deep love of python and of interfaces & boundaries
+Experience developing, maintaining, and deploying python services and packages
+Experience working with containerized services
+Preferred: experience with Docker and Kubernetes
+Preferred: experience working with cloud service providers such as AWS, GCP, or Azure
+Preferred: experience building robust data pipelines
+Preferred: experience supporting business intelligence
+Bachelor's degree in a quantitative or logic-driven field
+About Squarespace
+
+Squarespace makes beautiful products to help people with creative ideas succeed. By blending elegant design and sophisticated engineering, we empower millions of people — from individuals and local artists to entrepreneurs shaping the world’s most iconic businesses — to share their stories with the world. Squarespace’s team of more than 1,000 is headquartered in downtown New York City, with offices in Dublin and Portland. For more information, visit www.squarespace.com/about.
+
+Benefits & Perks
+Health insurance with 100% premium covered for you and your dependent children
+Flexible vacation & paid time off
+Up to 20 weeks of paid family leave
+Equity plan for all employees
+Retirement benefits with employer match
+Fertility and adoption benefits
+Free lunch and snacks at all offices
+Education reimbursement
+Dog-friendly workplace in New York office
+Commuter benefit in the form of reduced tax (Ireland) and pretax (US)
+Today, more than a million people around the globe use Squarespace to share different perspectives and experiences with the world. Not only do we embrace and celebrate the diversity of our customer base, but we also strive for the same in our employees. At Squarespace, we are committed to equal employment opportunity regardless of race, color, ethnicity, ancestry, religion, national origin, gender, sex, gender identity or expression, sexual orientation, age, citizenship, marital or parental status, disability, veteran status, or other class protected by applicable law. We are proud to be an equal opportunity workplace.

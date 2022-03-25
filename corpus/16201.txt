@@ -1,0 +1,38 @@
+Blucora has a bold aspiration: we are committed to giving all people the tools needed to lead healthy financial lives - tools often reserved for the wealthy.
+
+We began our journey by bringing together two industry-leading firms to form a foundation in tax-smart investing that is unreplaceable in the industry. TaxAct is an innovative tax software company that helps more than 4 million Americans prepare their own taxes each year. HD Vest is the first firm in the world to make it possible for tax professionals to support clients’ wealth management needs (now over $45B for more than 300,000 Americans).
+
+We now turn to the next leg, developing the technological tools that make our vision of financial health for all a reality. Atypical for the financial services industry, we take a contemporary approach to strategy and product development that is founded in user insights, rapid testing and a singular focus on driving end-user value.
+
+Since charting new territory on a daily basis is part of everyone's job at Blucora, we've attracted team members who thrive on the challenge, encourage each other, and are passionately committed to the goal. If you agree that problem- solving is a team sport, and feel energized by a good debate, deep dive research, or a fun night out with colleagues, we might be the right firm for you!
+
+POSITION SUMMARY
+
+The Cloud Data Engineer relishes working with large volumes of data, enjoys the challenge of highly complex technical contexts, and, above all else, is passionate about data and analytics. He/she is an expert with modern data architectures, data modeling, ETL design, business intelligence tools and passionately partners with the business to identify strategic opportunities where improvements in data infrastructure create significant business impact. He/she needs to possess exceptional technical expertise in large scale data warehouse and BI systems.
+
+RESPONSIBILITIES
+Design, implement, and support a product data infrastructure providing ad-hoc access to large datasets and computing power.
+Creation and support of real-time data pipelines built on AWS technologies including EMR, Glue, Kinesis, Redshift/Spectrum and Athena
+Support and supplement current ETL activities based on Microsoft technologies including SQL Server, SSIS.
+Analyze and facilitate the transition from on-prem database solutions to cloud solutions.
+Integrate Master Data Management principles toward crystalizing enterprise consumption of coherent data objects.
+Interface with other technology teams to extract, transform, and load data from a wide variety of data sources using SQL and AWS big data technologies.
+Continual research of the latest big data, elastic search, and visualization technologies to provide new capabilities and increase efficiency
+Working closely with team members to drive real-time model implementations for monitoring and alerting of risk systems.
+Help continually improve ongoing reporting and analysis processes, automating or simplifying the process.
+QUALIFICATIONS
+
+Basic Qualifications
+7+ years of industry experience in software development, data engineering, business intelligence, or related field with a track record of manipulating, processing, and extracting value from large datasets
+Demonstrated strength in coding T-SQL, PowerShell, Python, PySpark and MySQL
+Demonstrated strength in data modeling, ETL development, and data warehousing in AWS tools (EMR, Glue, Kinesis, Redshift, Spectrum and Athena etc.)
+Demonstrated strength in utilizing Microsoft BI Stack including SSIS, SSAS, SSRS.
+Champion of Master Data Management solutions such as MDS.
+Experience using business intelligence reporting tools (Tableau, Power BI, Cognos etc.)
+Knowledge of big data technologies (Hadoop, Hive, Hbase, Spark etc.)
+Preferred Qualifications
+Degree in computer science, engineering, mathematics, or a related technical discipline.
+Experience working with AWS big data technologies (Redshift, S3, EMR)
+Experience building/operating highly available, distributed systems of data extraction, ingestion, and processing of data set
+Certification on AWS tools and technologies
+HD Vest, Inc is an equal opportunity employer and does not unlawfully discriminate on the basis of race, sex, age, color, religion, national origin, marital status, sexual orientation, veteran status, disability status or any other basis prohibited by federal, state or local law. HD Vest, Inc considers information gathered in the hiring process, including information on this application, confidential, and only shares it on a need-to know basis or as required by law. Please let us know if you need accommodations in order to participate in the application process.

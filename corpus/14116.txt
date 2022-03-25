@@ -1,0 +1,41 @@
+Job Overview:
+
+
+Take-Two Interactive, Inc., a leader in the interactive entertainment industry, is looking for dynamic, highly analytical data scientists to join the enterprise-wide data science center of excellence. This CoE is a critical component of our overall enterprise analytics strategy. You will be working with data engineers and analysts to find valuable insights about our industry, the market, the games, and our player communities. You will also find the best ways to turn these insights into reliable and scalable solutions for our creative and corporate teams throughout the global organization. This is a hands-on role located in New York City.
+
+Responsibilities:
+Champion the use of data science, machine learning, and AI to reduce cost and increase the value of human judgment in decision making.
+Lead data science projects
+Work with business partners to understand how data science can help meet their business needs, formulate quantitative and measurable objectives, and guide them to actionable solutions.
+Use advanced research techniques such as statistical analysis, machine learning, and data visualization to explore data, test hypotheses, identify underlying causes and patterns.
+Collaborate with divisions to leverage best in breed data science practice already in place, share knowledge and create new models and algorithms to solve problems distinct to corporate (e.g. sales forecasting, promo optimization, etc.)
+Develop models to identify, monitor and measure results of various key performance indicators reflecting the health of various Take-Two products in different segments of the interactive entertainment field.
+Build optimization models aligned with key performance indicators that are predictive of profit for each stage of the interactive entertainment industry's life cycle.
+Participate in the design and building of the data science center of excellence.
+Required Skills & Qualifications:
+
+
+Degree in a quantitative field (Mathematics, Computer Science, Statistics, Operational Research, Engineering, etc).
+Solid understanding and professional experience in statistical analysis
+Strong analytical and problem-solving skills, with experience in breaking down a complex problem into solvable components
+Strong skills in data extraction, exploration, transformation and visualization
+Deep understanding of best-in-class and emerging methods and techniques in data science, with a high level of analytical rigor in formulating insights and strategies
+A confident, self-starter with the ability to think logically and make fact-based decisions
+Able to communicate clearly and concisely – to distill clear and simple themes from complex analytical findings
+Enjoy forward and critical thinking
+Strong leadership shills
+Technical Skill Requirements:
+
+
+Proficient in Python and Jupiter Notebook
+Experience using data science and ML libraries, such as SciPy and scikit-learn
+Data visualization tools (e.g. MatPlotLib, Seaborn, Tableau, etc.)
+Familiar with Git/Github
+Operating with data at scale (e.g. Apache Spark, Snowflake, Databricks, etc.)
+Desired Skills:
+
+
+Advanced degree in a quantitative field
+Experience in a deep learning library (e.g. PyTorch, Keras/Tensorflow)
+Cloud machine learning platforms, e.g. AWS SageMaker
+Writing and tuning SQL

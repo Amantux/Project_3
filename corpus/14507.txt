@@ -1,0 +1,34 @@
+GoHealth is looking for Data Engineers who will be responsible for the design, development, and delivery of its various batch and streaming data pipelines. We are seeking candidates who have experience in building large batch pipelines, as well as experiencing building stable, high throughput streaming systems. In this role, you will work with other members of Engineering, Product and Project Management, and various business groups to ensure timely availability of usable data to all parts of the business that need it.
+
+Due to the unprecedented situation of COVID-19, GoHealth has decided to protect our current and future employees by managing our business remotely. This is inclusive of interviewing, onboarding and each role day-to-day. Please consider that our roles will not be remote long-term and will return to an office setting once we're safe to do so following the guidance of local health authorities' and the CDC.
+
+Responsibilities:
+Design, develop and deploy batch and streaming data pipelines.
+Monitor and ensure operational stability of data pipelines.
+Create and maintain documentation of the technical detail design, operational support and maintenance procedures for all data pipelines.
+Ensure data quality and compliance with development, architecture, reporting, and regulatory standards throughout entire data pipeline.
+Collaborate with the rest of the Engineering Team, subject matter experts and department leaders to understand, analyze, build and deliver new data-related processes and/or reports.
+Skills and Experience:
+Bachelor's Degree in computer science or equivalent experience required.
+2+ years of experience in the design and development of data pipelines and tasks.
+Strong analytical and problem solving ability with strong attention to detail and accuracy.
+Understanding of data warehousing concepts and dimensional data modeling.
+Hands-on experience with troubleshooting performance issues and fine tuning queries.
+Experience extracting data from relational and document databases.
+Experience consuming data over HTTP and in formats such as HTML, XML, and JSON.
+Knowledge of and experience with a version control system (such as Git, Mercurial, SVN, etc).
+Proficiency in Java or Python programming languages.
+Familiarity with data warehousing platforms, such as Redshift, Snowflake, SQL Server, etc.
+Benefits and Perks:
+Open vacation policy
+401k program with company match
+Medical, dental, vision, and life insurance benefits
+Flexible spending accounts
+Commuter and transit benefits
+Professional growth opportunities
+Casual dress code
+Generous employee referral bonuses
+Happy hours, ping-pong tournaments, and more company-sponsored events
+Subsidized gym memberships
+GoHealth is an Equal Opportunity Employer
+#LI-JC1

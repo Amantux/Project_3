@@ -1,0 +1,16 @@
+Group O is seeking a strong candidate with advanced analytics experience to fill an exciting Data Engineer role for an AI partner to Fortune 500 companies. In this role, you will be a valuable in managing large amounts of data and implement loading disparate data sets while managing the technical communication between the team and client.
+
+Implementation including loading from disparate data sets, preprocessing using Hive and Pig.
+Manage the technical communication between the team and client
+Work with big data team to deliver cutting edge solutions
+
+2-5 years of demonstrable experience designing technological solutions to complex data problems, developing & testing modular, reusable, efficient and scalable code to implement those solutions.
+Ideally, this would include work on the following technologies:
+Proficiency in at least one of the following: R, C++ or Python (preferred). Scala knowledge a strong advantage.
+Strong understanding and experience in distributed computing frameworks, particularly Apache Hadoop 2.0 (YARN; MR & HDFS) and associated technologies -- one or more of Hive, Sqoop, Avro, Flume, Oozie, Zookeeper, etc..
+Hands-on experience with Apache Spark and its components (Streaming, SQL, MLLib) is a strong advantage.
+Operating knowledge of cloud computing platforms (AWS, especially EMR, EC2, S3, SWF services and the AWS CLI)
+Experience working within a Linux computing environment, and use of command line tools including knowledge of shell/Python scripting for automating common tasks
+In addition, the ideal candidate would have great problem-solving skills, and the ability & confidence to hack their way out of tight corners.
+Education:
+Bachelor's degree in Computer Science or related technical degree

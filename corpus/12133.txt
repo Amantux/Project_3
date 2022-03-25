@@ -1,0 +1,20 @@
+(We are not sponsoring for this role or in the future)At Fareportal, we create technology that is driving innovation in the travel industry - one of the world’s fastest-growing sectors. Our employees are the core of our organization and together we’re revolutionizing the way people book travel.Our portfolio of brands including CheapOair and OneTravel receive over 100 million visitors annually and drive over $4 billion in annual revenue.We are looking for a Lead Machine Learning Engineer/Data Scientist to join our team. You will be handling hundreds of millions of events per day, responsible for creating and supporting machine learning models that will drive our business.Machine Learning Engineers is at the heart of how Fareportal works and they are part software engineer and part machine learning / data scientist. You will focus on creating and supporting large scale models that we deploy to power our recommendation, pricing or other systems. The ideal candidate will participate in the design and implementation of the entire model pipeline, from project ideation, figuring out which data to capture and store, coming up with features, to creating the final model.We are passionate about making data-driven decisions and you will have the opportunity to shape the team’s direction and create large impact.Our team loves Python and Scala (and is not afraid of Functional Programming) and we strongly encourage DevOps approaches.ResponsibilitiesLead a team of machine learning engineers, data scientist, data engineersSupport our data modeling efforts to ensure we are capturing the data needed to improve our modeling capabilities.Create features for our feature storeBuild machine learning modelsUse a variety of techniques including predictive modeling, recommendation engines, revenue management, conversion rate optimization, and site and user experience optimization.Our Ideal CandidateWho You AreYou are smart and love to build systems that are well tested as well as flexibleYou like being around smart people who will challenge you on a daily basis.You love to ramp up on new technologies to build awesome things with us!Passionate about working with large unstructured and structured data sets and developing new approaches to relevance problemsYou like to share your knowledge and guide other fellow data scientist and engineersRequirements5+ years’ experience developing, maintaining, and testing machine learning models.A strong technical advocate with a background in Java, Scala, or Python. Preferably familiar with Jupyter notebook environments and Spark or pySpark.Strong understanding of the machine learning tooling for either Python or Scala (e.g. Pandas, XGBoost, Spark)Strong understanding of machine learningNice to haveExperience with CI/CD infrastructure and a strong supporter of unit / integration testing
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             New York, NY 10001 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         7484_1471876329

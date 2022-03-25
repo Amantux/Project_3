@@ -1,0 +1,35 @@
+Secure our Nation, Ignite your Future
+
+Become an integral part of a diverse team in the Mission, Cyber and Intelligence Solutions (MCIS) Group. ManTech is looking for a highly motivated and qualified Test / DevSecOps Engineer in the San Antonio, TX area. This rewarding and challenging position will support USCYBERCOM to produce an enterprise capability for the DoD to improve cyberspace operations and defend U.S. vital national security interests. Work is estimated to begin in the July/August 2020 timeframe.
+
+The Advanced Cyber Solutions (ACS) Division provides cyber solutions to a wide range of Defense and Intelligence Community customers. This division consists of a team of technical leaders that deliver advanced technical solutions to government organizations. Our customers have high standards, are technically adept, and use our products daily to support their mission of protecting national security. Our contributions to our customers success is driving our growth.
+
+ManTech is dedicated to hiring the best of the best, and in order to do so we offer great pay and excellent benefits.
+
+Position Responsibilities:
+Recommends testing methodologies to be used for specific systems
+Prepares test plans documenting the intended test methodology, and prepares test procedures and test cases based on specific requirements
+Writes, creates, and modifies test scripts for various test categories (i.e. integration, system, regression, functionality, security, performance)
+Documents and presents test results
+Supports the implementation of test automation within container-based CI/CD pipelines in a cloud environment
+Assist in creating and maintaining test network infrastructure (including network services and virtual and hardware test nodes) that simulates real-world conditions
+Works with users and developers through all phases of system lifecycle to clarify requirements and ensure testability
+Position Requirements:
+Eight (8) years of demonstrated experience in preparing, conducting, and documenting various systems tests and results to verify system operability and compliance with project standards and requirements
+Four (4) years of experience with bug tracking software (e.g. Bugzilla)
+Four (4) years of experience with OSI Model, TCP/IP networking, routing, switching, and other basic network concepts
+Four (4) years of experience developing or testing software written in C/C++, Java, Perl and scripting languages
+Four (4) years of experience testing software on Windows, Linux and/or Solaris platforms
+Two (2) years demonstrated experience in a test role
+Knowledge and application of container, orchestration, and container platform technologies such as Docker, Kubernetes, and OpenShift
+Knowledge and application of continuous integration and continuous delivery (CI/CD) technologies such as GitLab, Jira, Confluence, Jenkins, Ansible, Chef, Puppet, Terraform, Cucumber, Junit, pytest, Nexus, Fortify, SonarQube, Twistlock, and Grafana
+Knowledge and application of database and data storage technologies such as Elasticsearch, MongoDB, Hadoop, Cloudera, Prometheus, PostgreSQL, and/or MySQL
+Experienced with source control and code repository tools
+Individuals must be a U.S. Citizen and be eligible to obtain a US Security Clearance
+Applicants will be subject to a government security background investigation
+A Bachelors Degree in computer science, computer engineering, information systems, or related discipline may be substituted for four (4) years of experience, or a Master of Science degree in computer science, computer engineering, information systems or related discipline may be substituted for six (6) years experience
+ManTech International Corporation, as well as its subsidiaries proactively fulfills its role as an equal opportunity employer. We do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a Disabled Veteran, Recently Separated Veteran, Active Duty Wartime or Campaign Badge Veteran, Armed Forces Services Medal, or any other characteristic protected by law.
+
+If you require a reasonable accommodation to apply for a position with ManTech through its online applicant system, please contact ManTech's Corporate EEO Department at (703) 218-6000. ManTech is an affirmative action/equal opportunity employer - minorities, females, disabled and protected veterans are urged to apply. ManTech's utilization of any external recruitment or job placement agency is predicated upon its full compliance with our equal opportunity/affirmative action policies. ManTech does not accept resumes from unsolicited recruiting firms. We pay no fees for unsolicited services.
+
+If you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access http://www.mantech.com/careers/Pages/careers.aspx as a result of your disability. To request an accommodation please click careers@mantech.com and provide your name and contact information.

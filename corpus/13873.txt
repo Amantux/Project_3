@@ -1,0 +1,51 @@
+About HTI Labs
+
+HTI Labs fights human trafficking, sexual violence, and domestic violence with data-driven research and technology.
+
+We work to make data gathering processes more efficient, to link data to create a holistic picture of the system, and to build tools that make data useful to community partners fighting sexual violence on the front lines. Whether building natural language processing systems that allow us to interpret open-source data, a dashboard to display system-wide data on domestic violence, or frameworks to automatically generate statistics needed for valuable federal grants, HTI Labs builds tools to help connect the dots.
+
+By generating data that does not yet exist and integrating information that the community already has, we seek to create a shared set of facts that help make existing efforts smarter.
+
+About the Position
+
+The core function of the Data Scientist role is to help build machine learning into our human trafficking prediction pipeline. This will involve applying a myriad of NLP, image processing, clustering, and classification problems to noisy, multi-sourced data. You will be working hand-in-hand with another data scientist and a small team of engineers/developers. Because data integration and machine learning are at the core of what this company does, you will have the opportunity to find creative solutions to an endless variety of problems.
+
+RESPONSIBILITIES
+Designing, testing, and implementing architectures to solve various machine learning problems, such as NLP, images, clustering, classification
+Connecting the dots across sparse data to predict links/matches
+Selecting features, building and optimizing classifiers using machine learning techniques
+Enhancing data collection procedures to include information that is relevant for building analytic systems
+Processing, cleaning, and verifying the integrity of data used for analysis
+Automating the retraining/updating of production algorithms
+SKILLS REQUIRED
+Programming experience in Python
+Experience using at least a few of the following: TensorFlow, Keras, NLTK, Gensim, Pandas
+Expertise and understanding of natural language processing, computer vision, and deep learning
+Ability and interest in learning new skills quickly
+Non-trivial understanding of network analysis
+We're not looking for specific degrees or years of experience; we're looking for lifelong learners who tackle projects with rigor and creativity. At HTI Labs, we believe our work is improved by working together. Being in the office together allows us to easily advance projects, bounce ideas off each other, and get and give feedback. For this reason, this position requires being located or relocating to Omaha Nebraska.
+
+Unfortunately, we are unable to sponsor H1-B visas at this time.
+
+Job Type: Full-time
+
+Experience:
+Machine Learning: 1 year (Preferred)
+Natural Language Processing: 1 year (Preferred)
+Computer Vision: 1 year (Preferred)
+Data Collection: 1 year (Preferred)
+Location:
+Omaha, NE 68108 (Required)
+Benefits:
+Paid time off
+Work from home
+Flexible schedule
+Parental leave
+Relocation assistance
+Professional development assistance
+Tuition reimbursement
+Other
+Schedule:
+Monday to Friday
+Work Remotely:
+No

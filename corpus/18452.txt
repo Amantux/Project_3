@@ -1,0 +1,37 @@
+Job Description
+
+The Data Engineer will support the engineering teams data endeavors, diving in to fix issues, optimize processes, and automate what you do more than once.
+
+Additional Responsibilities:
+Work with internal stakeholders to load data into the data warehouse
+Troubleshoot and resolve issues relating to data integrity
+Help establish procedures and best practices for transforming and storing data
+Lead requirements gathering around data pipeline automation improvements
+Work with open-source tools like Spark, Hadoop, Docker, Airflow, Zeppelin
+Leverage distributed computing and serverless architecture such as AWS EMR & AWS Lambda, to develop pipelines for transforming data
+Research and implement new technologies with a team of developers to execute strategies and implement solutions
+Solve complex problems related to the real-time discovery of large data
+Qualifications
+
+Successful Data Engineers will have 5+ years of experience writing scalable applications on distributed architectures.
+
+Additional Qualifications:
+3+ years of experience with Python
+3+ years of experience with PySpark and Spark-SQL (writing, testing, debugging spark routines)
+1+ years of experience with AWS EMR, AWS S3 service. Comfortable using AWS CLI and boto3
+Comfortable using *nix command line (shell scripting, AWK, SED)
+Experience with MySQL and Postgres
+Experience with Apache Airflow preferred
+Experience with Apache Zeppelin preferred
+Experience with healthcare data preferred
+Additional Information
+
+Your application will be reviewed within 24-hours. If there's a match, a member from the IT Pros team will be in contact with you to coordinate a phone interview. You must submit your application to be considered - please no phone calls or third parties.
+
+INTERVIEW PROCESS
+Round 1 = Phone Interview with IT Pros (15 minutes)
+Round 2 = Phone Interview with HR (30 minutes)
+Round 3 = Online Tech Assessment (done at home)
+Round 4 = Video Interview with Engineers + Interactive Coding Challenge
+Round 5 = Decision
+Brought To You By IT Pros

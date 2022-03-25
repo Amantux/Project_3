@@ -1,0 +1,34 @@
+Your Opportunity
+
+
+Do you want to be part of a Data Warehouse team handling over 120 terabytes of data and building the next generation analytics platform for a leading financial firm with over $2.5 trillion in assets under management? At Schwab, the Global Data Technology (GDT) organization governs the strategy and implementation of the enterprise data warehouse and emerging data platforms. We help Marketing, Finance and executive leadership make fact-based decisions by integrating and analyzing data.
+
+We are looking for a data engineer who has passion for data integration technologies and comes with data warehousing background. Someone who has experience in designing and coding ETL and one who wants to be part of a team that is actively delivering projects in Teradata, Big Data and working towards migrating to cloud technology.
+
+What you’re good at
+
+
+You will be an ETL developer working with a large team that includes onshore and offshore developers using best-in-class technologies including Teradata, Informatica and Hadoop. You'll be responsible for the design, development and implementation of enterprise data integration solutions. You’ll have the opportunity to grow in responsibility, work on exciting and challenging projects, train on emerging technologies and work with other Developers to set the future of the Data Warehouse. Your detailed duties would include:
+Creating/updating ETL specifications and supporting documentation
+Developing ETL logic utilizing Informatica workflows, scripting and load utilities
+Building and maintaining code for big data ingestion using Talend, Scoop, Hive etc
+Implementing data flow scripts using Unix /Sqoop / Hive QL / Pig scripting
+Designing, building and support data processing pipelines to transform data in Big Data or Teradata platforms
+Developing and executing quality assurance and test scripts
+Work with business analysts to understand business requirements and use cases
+Problem solving and fixing technical issues
+Working with technical lead and offshore development teams to ensure proper and efficient implementation of requirements
+What you have
+Demonstrated development experience with enterprise ETL tools such as Informatica , Talend etc. (> 2 years)
+Experience in Data Warehousing / Information Management (> 2 years)
+Familiarity with data modeling (logical and/or physical) preferred (> 2 years)
+Hands-on experience with Hadoop, MapReduce, Hive, SPARK and/or Teradata (At least 2 years)
+Strong SQL experience with the ability to develop, tune and debug complex SQL applications is required
+Experience with change data capture tool (CDC) preferred such as Attunity
+Experience with scheduling tools (eg. Control M, ESP)
+Familiarity with scripting / programming such as UNIX, Java, Python, Scala etc.
+Validated experience in working in large environments such as RDBMS, EDW, NoSQL, etc. is preferred
+Experience collaborating with business and technology partners and offshore development teams
+Good interpersonal, analytical, problem-solving and organizational skills
+Excellent written/verbal communication skills
+Strong knowledge of MS Office suite and Visio Drawing tool along with general familiarity with Outlook and other MS Office applications is also required

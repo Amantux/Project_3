@@ -1,0 +1,37 @@
+Posted: Jul 9, 2020
+Role Number:
+200180167
+Would you like to play a part in the next revolution in human-computer interaction? Contribute to a product that is redefining mobile and desktop computing, and work with the people who built the intelligent assistant that helps millions of people get things done — just by asking? The vision for the Siri Data organization is to improve Siri by using data as the voice of our customers. Within this organization the mission of the Data Solutions Engineering team manages existing data resources, build new data pipelines, implement new technologies and tooling to further enable science and analytics.
+
+As a Data Engineer you will work closely with analytic and data scientist teams to drive scalable data sharing practices to accelerate the evolution of Siri through measurement and analysis of the user experience. You will create a vision for data that will enable analytics to inform product and engineering teams at scale, with the ultimate purpose of improving the Siri experience for Apple customers.
+Key Qualifications
+2-5+ years of experience in data engineering.
+Expertise with various ETL technologies and familiar with ETL tools.
+You have engineered metrics and statistical information out of massive and complex datasets (e.g. Hive, Spark MLlib, Druid, Solr, Kafka).
+You are proficient in at least one programming language (e.g. Python, Scala) and are comfortable developing code within a team environment (e.g. git, testing, code reviews).
+You have built robust data and analytic pipelines and have a keen eye for where to automate (e.g. Oozie, Airflow).
+Have solid understanding of both relational and NoSQL database technologies.
+Experience with visualization, data mining, or statistical tools
+Data architecture skills.
+Description
+The ideal candidate will have outstanding communication skills, proven data infrastructure design and implementation capabilities, strong business acumen, and an innate drive to deliver results. He/she will be a self-starter, comfortable with ambiguity and will enjoy working in a fast-paced dynamic environment.
+
+Responsibilities will include
+
+Building a high-quality BI and Data Warehousing framework, implementing and operating data pipelines with high reliability and availability.
+
+Build relationships with Data Scientists, Product Managers and Software Engineers to understand data needs.
+
+Harden and launch new data models and data pipelines in production - Lead development of data tools to support analysis and data resources to support new product launches.
+
+Be part of a team to introduce new data engineering technologies and practices including real time streaming, bot detection and ML algorithms for data augmentation.
+
+Coordinate the delivery of insightful dashboards and data visualizations - Establish SLA’s for all data sets and processes running in production - Excellent writing and interpersonal skills.
+
+Thorough knowledge of macOS and iOS is helpful.
+
+Ability to stay focused and prioritize a heavy workload while achieving exceptional quality.
+
+You are upbeat, adaptable, and results-oriented with a positive attitude.
+Education & Experience
+B.S., M.S., or PhD in Computer Science, Computer Engineering, or equivalent practical experience.

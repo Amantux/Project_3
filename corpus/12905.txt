@@ -1,0 +1,79 @@
+Data Scientist
+
+RevenueCat is managing subscriptions for hundreds of millions of users across thousands of apps and we're sitting on a treasure-trove of data. We are looking for a data scientist, working with our data engineering team, to turn this data into valuable analysis and products.
+
+We're also pioneering the use of predictive bayesian models to democratize access to insights previously only available to teams with strong data backgrounds and resources.
+
+About us
+
+RevenueCat is an API that makes selling subscriptions in your mobile app easy. We launched as part of Y Combinator's summer 2018 batch and today are handling subscriptions for more than 3 million mobile subscribers, and are the subscription infrastructure for thousands of apps. We are a mission driven, remote-first company that is building for the long term.
+
+About You
+
+You have 2+ years of full time work experience, with at least some of that time preferably at a start-up
+
+You are a master of SQL and are comfortable with data modeling
+
+You have experience building bayesian inference models (probabilistic programming)
+
+You can write code to automate common tasks
+
+You are obsessed with understanding errors inherent in data
+
+You are interested in the consumer mobile subscription ecosystem and are excited to explore the data we have
+
+You are a diehard bayesian (frequentists welcome to apply as well, but we'll have to update our priors)
+
+In the first month, you'll
+
+Learn all the data we're collecting
+
+Start answering questions using our existing transactional database and other data sources
+
+Work with our engineering team to design and build a data warehouse
+
+Take ownership of our existing predictive bayesian model, improve them, and start to build new ones
+
+Within the first 3 months, you'll
+
+Contribute to product-features that use our data to help developers make more money
+
+Have a complete understanding of the extent and limitations of our data
+
+Publish data-driven content to our blog
+
+Launch your own explorations into our data to fulfill your own curiosity
+
+Within the first 6 months, you'll
+
+Publish content that is read by hundreds of thousands, if not millions, of people, and is considered the authority on the subscription app ecosystem
+
+Work very closely with the product, marketing, and operations to inform decision making and improve the trajectory of the company
+
+Do a lot of SELECTs
+
+Discover lots of sources of systematic error
+
+Within the first 12 months, you'll
+
+Be the company expert on our data
+
+Propose, design, and develop new data driven features from idea to shipping
+
+Lay the ground work for expanding our data team
+
+What We Offer
+
+$129k-$177k, 0.35%-0.65%
+
+Employee health, vision, and dental plans (for US-based workers)
+
+Unlimited vacation, remote work, and WFH
+
+Company offsites twice per year
+
+A wellness-focused, long-term oriented work environment
+
+We are sadly unable to sponsor visas at this time.
+
+SDL2017

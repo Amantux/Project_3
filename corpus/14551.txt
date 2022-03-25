@@ -1,0 +1,59 @@
+Description
+Cat Digital is the digital and technology arm of Caterpillar Inc., responsible for bringing world class digital capabilities to our products and services. With almost one million connected assets worldwide, we're focused on using IoT and other data, technology, advanced analytics and AI capabilities to help our customers build a better world.
+Cat Digital’s Advanced Data Quality team is looking for a talented and motived Principal Data Scientist to drive platform data quality improvements by developing and delivering ML/AI models to address the most challenging data quality issues. As a Principal Data Scientist, you will apply machine learning and other analytics techniques on a very large set of diverse data from IoT connected assets and our integrated network of dealers.
+
+JOB DUTIES: As a Principal Data Scientist, you will contribute to the design, development, deployment, and quality of Caterpillar’s state-of-the-art digital platform by leading the development of advanced Data Quality methods and routines.
+Competent to perform all programming, project management, and development assignments without close supervision; normally assigned the more complex aspects of systems work.
+Lead role in complex projects spanning across multiple system components.
+Work in all phases of product creation process including creating technical requirements, project planning, identifying dependencies, system architecture and development.
+Investigation and root cause analysis of software and system defects.
+Focus on productivity, quality and competitiveness of major technology initiatives.
+Apply knowledge and skills to solve most complex data engineering and quality problems.
+Organize and drive configuration management activities of the development process.
+Works directly on complex application/technical problem identification and resolution, including responding to off-shift and weekend support calls.
+Works independently on complex systems or infrastructure components that may be used by one or more applications or systems.
+Drives data pipeline development focused around delivering high quality data.
+Mentor and assist software engineers, providing technical assistance and direction as needed.
+Maintains high standards of software quality by establishing good practices and habits.
+Identifies and encourage areas for growth and improvement.
+Communicate with peer engineering teams to help direct development, debugging, and testing of data for accuracy, integrity, interoperability, and completeness.
+Performs integrated testing and customer acceptance testing of components that requires careful planning and execution to ensure timely, quality results.
+#LI
+
+Qualifications
+
+Basic qualifications
+MS or PhD degree in quantitative discipline such as mathematics, statistics, data science, computer science, engineering
+7+ years of experience in designing and implementing data processing and machine learning frameworks
+7+ years of experience with Python, NoSQL and relational databases
+3+ years of experience as principal engineer
+3+ years of experience with AWS stack
+
+
+Top candidates will also have:
+Proven experience in most of the following:
+Compiling and standardizing diverse, non-sanitized datasets.
+Working with structured and unstructured data.
+Developing classification and regression models.
+Unsupervised learning algorithms.
+Natural language processing.
+Customized statistical algorithm development and deployment.
+Experience integrating analytical models with existing data pipelines.
+Proven experience with AWS full-stack development and services such as Athena, CloudFormation, DynamoDB, Fargate, EC2, EMR, Lambda, RDS, S3, SageMaker.
+Thorough knowledge of statistical approaches, quantitative analytic methods, data management techniques, and/or related digital technologies, and the ability to handle complex issues.
+Experience with dashboard development and design using data visualization tools such as Tableau, Power BI, Kibana
+Experience in some of the following:
+Designing, developing, deploying and maintaining software at scale.
+Experience delivering productionized software solutions.
+Deploying software using CI/CD tools such as Jenkins, GoCD, Azure DevOps etc.
+Deploying and maintaining software using public clouds such as AWS
+Developing software applications using relational and NoSQL databases.
+Experience working within an Agile framework
+Solid knowledge of computer science fundamentals like data structures and algorithms.
+Exhibit strong initiative and teamwork skills, and a demonstrated track record of growing and learning through experience.
+Demonstrate strong communication and presentation skills, with the ability to articulate conclusions to customers who have limited knowledge and experience with quantitative analytical methods.
+Ability to work under pressure and within time constraints.
+Passion for technology and an eagerness to contribute to a team-oriented environment.
+Challenges include meeting expectations in delivering results, learning to refine solutions to better fit complex situations, making timely decisions, and communicating effectively with all project stakeholders.
+#LI
+]]>

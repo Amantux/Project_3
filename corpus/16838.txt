@@ -1,0 +1,45 @@
+At BGDS, our vision is to untap the economic welfare potential of technology through entrepreneurship. In order to fully realize our vision, we have committed ourselves the mission to provide transparency, openness, collaboration, ease-of-use and insights to technology startup financing so that entrepreneurship thrives globally and founders can develop life-changing technologies.
+
+Job Overview
+
+BGDS is looking for a savvy Data Crawler Engineer to join our growing team of data experts.
+
+As a Data Crawler Engineer, you will be responsible for extracting and ingesting data from websites and external sources using a custom crawling framework. In this role you will own the creation process of these tools, services, and workflows to improve crawl/ scrape analysis, reports and data management. We will rely on you to test the data and the scrape to insure accuracy and quality. You will own the process to identify and rectify any issues with breaks as well as scale scrapes as needed.
+
+You will support our software developers, database architects, data analysts and data scientists on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing needs. They must be self-directed and comfortable supporting the data needs of multiple users, systems, and products.
+
+The ideal candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data initiatives. We’re in the process of revolutionizing startup financing, and we’re hoping you’ll be part of that experience.
+
+Responsibilities & Duties
+
+Help to design and implement the data crawling architecture and a large-scale crawling system for BGDS product.
+Work with data and analytics experts to strive for greater functionality in our data gathering system.
+Help to design, implement and maintain web crawlers/ scrapers.
+Discover opportunities for data acquisition.
+Recommend and sometimes implement ways to improve data reliability, efficiency, and quality of data gathering processes.
+Incrementally improve the quality of our offerings.
+Our approach to supervision is very adaptive, which is to say that we are happy to accommodate a variety of personal styles. We are searching for someone who is an independent contributor, but you will also get the support you need when you need it.
+
+Qualifications and Experience
+
+Ability to work in our Austin office 5 days per week
+A bachelor’s or higher degree in Computer Science, Physics, Statistics, Informatics, Information Systems or another quantitative field.
+1+ years of work experience in software development.
+2+ years experience programming and scripting in Python within a production environment.
+Familiarity with Django and Django REST Framework.
+Familiarity with HTML, CSS and JavaScript.
+Ability to read and respect robots.txt file.
+Ability to inspect and understand the source code of a web page.
+Experience using HTTP Proxy techniques to protects web scrapers against site ban, IP leak, browser crash, CAPTCHA and proxy failure.
+Experience with techniques and tools for crawling, extracting and processing data (e.g. Scrapy, pandas, SQL, BeautifulSoup, Selenium webdriver, Requests, etc).
+Experience with Unit Testing.
+Experience with relational databases, including Postgres.
+Familiarity with NoSQL databases, including Cassandra or MongoDB.
+Experience with Docker and GCP/AWS.
+Familiarity with industry best practices and code review.
+Experience working with cross-functional teams in a dynamic environment.
+Obsessed with quality and eager to learn
+Experience running large scale web scrapes is ideal.
+Start-up experience is ideal
+
+Salary based on experience - $100K +

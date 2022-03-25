@@ -1,0 +1,27 @@
+Amazon is looking for a passionate, talented, and inventive Senior Scientist with a strong machine learning background to help build industry-leading Natural Language Understanding (NLU) solutions. Our mission is to push the envelope in NLU and Entity Resolution (ER) technologies to provide the best possible experience for our customers. Products such as Amazon Echo, Echo Show, and Fire TV are illustrative of the user-delighting spoken language solutions Amazon is building.
+
+As a Senior Applied Scientist on our team, you will collaborate with other scientists and software engineers to research and develop novel algorithms and modeling techniques to advance the state of the art in NLU and ER. Your work will directly impact our customers in the form of products and services that make use of speech and language technology. You will leverage Amazons heterogeneous data sources and large-scale computing resources to accelerate advances in natural language understanding.
+
+Position Responsibilities:
+· Participate in the design, development, evaluation, deployment of data-driven machine-learned (ML) models targeting NLU and ER applications.
+· Develop and apply statistical modeling techniques (e.g. Bayesian models and deep neural networks), optimization methods, and other ML techniques to different applications in business and engineering.
+· Routinely build and deploy ML models on available data.
+· Research and implement novel ML and statistical approaches to add value to the business. Mentor engineers and scientists.
+
+Basic Qualifications
+
+· Masters degree in a relevant field
+· 3+ years of industry experience in a relevant field or equivalent
+· 5+ years of experience with data analysis and visualization tools
+· 5+ years of experience in Python, or another scripting language; command line usage, e.g., Bash
+· 5+ years of experience in algorithms and data structures
+· 5+ years of experience with various machine learning and modeling techniques and parameters that affect their performance
+· 3+ publications in scientific journals on relevant machine learning topics
+
+Preferred Qualifications
+
+· PhD in a relevant field
+· Experience in building NLU and/or ER systems (e.g. commercial speech products or government speech projects)
+· Knowledge in machine learning techniques in entity resolution or text search domain.
+
+Lab126 is part of the Amazon.com, Inc. group of companies and is an Equal Opportunity-Affirmative Action Employer Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.

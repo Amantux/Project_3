@@ -1,0 +1,33 @@
+Are you passionate about modern programming languages, design patterns and scalable architectures? You'll be right at home here. The Technology team participates in research and development of highly scalable consumer facing applications as well as identifies new technologies and trends and how they might be implemented to enhance our products and business. Work and learn from world-class talent that promotes a culture of experimentation and learning. Use the latest technologies such as Node, React, GraphQL, Flutter and more to accelerate your career growth.
+
+What will you do?
+
+At realtor.com, data is very important to us and we have lots of it, in motion and at rest. Our goal is to use this data to make the home buying experience a breeze for our consumers. We empower them with the most up-to-date information on properties, and help them find their dream homes in the least amount of time and also match them with the most suitable realtor equipped to meet their individual needs.
+We're looking for an experienced Senior Software Engineer with a broad set of skills to help us build out our new digital data and analytics platform. This individual should be an experienced full stack developer with 5 to 8 years of web application development experience. An ideal candidate should be well versed in the latest web technologies, and has hands-on experience designing and implementing large scale data collection and analytics system. If you are intrigued by the challenge of building a highly scalable and reliable data analytics platform in a dynamic team environment, this job is for you!
+
+Responsibilities:
+Architect, design and implement effective digital analytics instrumentation strategy to capture web and mobile customer clickstream data as well as behavioral data and other relevant data from the server side.
+Develop cloud-based software for our enterprise-wide digital analytics and clickstream data collection system.
+Work collaboratively in different Agile/Scrum teams to build high-quality, scalable and reliable solutions.
+Collaborate across organization boundaries to develop software solutions that solve important customer problems.
+Apply a systematic approach to the design, development, delivery, maintenance and operation of our software services and offerings that will delight our customers and also real estate professionals.
+Work diligently and contribute to a fun, fast-paced, motivating, collaborative and rewarding environment.
+What will you bring?
+5 to 8 years of experience building complex, distributed systems with Java, Node.js etc.
+5 to 8 years of hands-on Javascript development experience.
+Strong knowledge of Web 2.0 technologies (AJAX, JSON, XMLHttpRequest, DOM, etc) and front-end frameworks (e.g. Angular.js, jQuery etc.)
+Solid understanding of web standards and technologies (HTTP, SSL, browser caching, cookies, domains, etc.) and front-end design patterns and architectures.
+Good understanding of the unique characteristics of web/mobile clickstream data, such as customer identification, timestamp management, tracking beacon design, event serialization, variable scope etc.
+Experience with one or more Web/Digital Analytics Tools (e.g. Adobe SiteCatalyst, Google Analytics etc.) and Tag Management System (e.g. Adobe DTM, Google Tag Manager) is strongly preferred but not required.
+Mobile Programming background (iOS or Android) is a plus but not required.
+Big Data/Hadoop Development Experience and Data Warehouse knowledge is a plus.
+Bachelor degree in computer science or engineering is required. Advanced/Graduate degree is preferred but not required.
+about realtor.com
+
+At realtor.com®, we believe that everyone deserves a home of their own. We're a community of nearly 2,000 employees that work hard to ensure that from the moment someone starts dreaming about a new home, to the moment they walk in the door and beyond, we're there to lend a helping hand. Every month, 70 million people trust us with their journey home by visiting our site and mobile apps, and we'd love to have you join our team to help.
+
+We've got great offices across Canada and the US and lots of sweet jobs to choose from, so we're hoping you'll join us on our journey to make home buying and selling easier, and more rewarding for everyone.
+
+Let's make a difference, together. For Real.
+
+#LI-IH1

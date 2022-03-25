@@ -1,0 +1,61 @@
+The role
+
+As a Data Engineer at Blue State, youll play an integral role on a smart and vibrant analytics team servicing a wide range of progressive organizations. Youll design, build, and manage the systems and processes which form the underpinning of Blue States analytics work, supporting and working alongside data analysts and campaign strategists. But youll also work directly with Blue States clients to help solve their data integrity and integration challenges, serving as a trusted advisor to your counterparts within client organizations.
+
+Day-to-day responsibilities:
+
+Create and support systems and processes for managing, compiling, manipulating, and analyzing data for client and internal projects
+
+Work with Blue States client organizations to solve difficult data migration, management, and integration challenges
+
+Build data pipelines, data warehouses, reporting dashboards, automated exports, and synchronization processes
+
+Automate workflows and look for further opportunities to improve efficiency in our work
+
+Always maintain a high level of data security and privacy
+
+The team
+
+You will be a part of the globalData & Technology team working primarily with our creative agency on client projects. Youll work in either the NY or DC office.
+
+Top things were looking for
+
+Good foundational understanding of statistical analysis
+
+Extensive experience working with SQL databases in an analytics or business intelligence context
+
+Familiarity with common marketing technology platforms like Google Analytics, Google Ads, Facebook Ads, email marketing tools, and other marketing automation tools
+
+Experience with ETL/ELT tools, processes, and best practices
+
+Strong Python experience:
+
+Python should be your go-to tool for solving problems. If the first thing you want to do when you have to do the same thing twice is write a Python script to automate it - we want you!
+
+Experience with task automation in a Python context - experience with AirFlow, Prefect, Dask a big plus
+
+Experience working with restful APIs - you can competently navigate unfamiliar API documentation and figure out how to accomplish tasks
+
+Strong working knowledge of Google BigQuery and the Google Cloud Platform data product ecosystem including:
+
+Designing data warehouse schemas for cross-channel marketing analytics
+
+Utilizing the suite of Google Cloud Platform tools for the purposes of extracting, processing, manipulating and analysing data
+
+Building and running automated tasks within the GCP environment - e.g. Cloud Compute, Cloud Functions, Cloud Run, Cloud Scheduler
+
+Comfortable managing GCP IAM policies across projects and teams
+
+Comfortable working within a spreadsheet (even if you prefer a database) - preferably in Google Sheets - bonus points if youve extended Google Sheets using Google Apps Script
+
+Familiarity with Git and maintains good habits around code maintenance
+
+Able to build repeatable and well-documented processes and tools that can be used by other technically-savvy but non-Python developer analytics team members (think easy to use command-line scripts - not GUIs)
+
+Good at teaching others what you know.
+
+The company
+
+Blue State is the purpose-driven creative and tech agency for brands and causes looking to inspire people to take action. With clients including the AARP, Google, UNICEF, JDRF, and Colgate. Blue State cultivates communities, builds platforms, and transforms how organizations engage their most important people. Led by some of the most creative and analytical minds from the political, nonprofit, and brand worlds, Blue State is a part of WPP and has more than 150 employees across five offices.
+
+Apply Now!

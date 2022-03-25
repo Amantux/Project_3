@@ -1,0 +1,18 @@
+At Liftoff, we're solving one of the core problems faced by every mobile app: growth. To do so, we build Machine Learning models and infrastructure that can accurately predict which apps a user will like and how to connect them in a compelling way. Our systems operate at a scale unseen outside of the largest Internet companies -- processing over a million requests per second and interacting with over a billion users. Our technology is creative and we have strong product-market fit; as a result, we've already reached profitability and are seeing tremendous growth.
+
+As a Machine Learning Engineer at Liftoff, you will:
+Own both the ML models and the underlying software tooling and infrastructure. Our ML Engineer role combines the classic "ML Scientist" and "Data Engineer" role at other companies.
+Have a closed feedback loop from hypothesis generation to live AB testing, with no cross-team friction and sub-day iteration cycles.
+Take on unique modeling challenges not covered in the scientific literature, like extreme positive sample sparsity and labelling delay.
+Work with modeling techniques at the state-of-the-art of probability prediction, as well as a multitude of other ML areas from NLP to CNNs.
+Become an expert in Clojure, Go, and the many other cutting-edge open source technologies that maximize our development velocity.
+Join a nimble, consistently excellent, and experienced engineering team (former Google/LI/Ooyala/etc).
+Desired qualities and experiences:
+Very strong coding ability (experience in Go and Clojure is a plus).
+2+ years of industry experience applying Machine Learning to large scale problems.
+Strong core CS fundamentals (data structures, algorithms, architecting systems).
+A passion for quality and excellence, and the ability to temper it when necessary to ship.
+Sets ego aside in pursuit of finding the best solution, no matter where it comes from.
+Self-motivated and a great ability to hustle.
+B.S. or higher in Computer Science. PhD a big plus.
+We are an equal opportunity employer and value diversity at our company. Come join our team and help us shape the future of mobile growth!

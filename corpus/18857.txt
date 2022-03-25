@@ -1,0 +1,88 @@
+Software Engineer - Developer Experience
+
+Tracking Code
+
+349-109
+
+Job Description
+
+Software Engineer – Developer Experience
+
+Is this your story?
+
+You are a software engineer and passionate about creating the best possible developer experience to bake, test and deploy software. You understand the importance of having high velocity CI-CD pipelines that enables consistent, and reliable software deployments, and you enjoy developing the software and tools for CI-CD pipelines.
+
+Still you feel something is missing because you are not part of a story that gets you truly excited...you want to make a lasting impact.
+
+Check out Stem! We develop the brains to store and use renewable energy. We obviously are passionate about being part of the clean energy wave and have created self-learning software that knows when it is the most economical time to store renewable energy and when to release it again.
+
+Part of our mission is to help reduce the world’s carbon footprint, but at the same time we have created a commercially successful business. We already serve hundreds of organizations, including many Fortune 500 companies. Our customers are great organizations that are responsible in their energy usage... and with Stem, they gain economic benefits at the same time.
+
+We have a great team of software engineer; some develop our scalable and secure cloud, others program IoT devices, our data scientists design and develop machine-learning models, and the software engineers in Developer Experience team, build the CI-CD pipeline.
+
+You believe what we do here at Stem is something that will make you passionate too? We are looking forward to meet you, and learn if there is an opportunity to have you join our Developer Experience team!
+
+What will your job look like?
+
+As a Software Engineer at Stem, you’ll be working on solving Stem’s unique build, test & deploy challenges and towards bringing the best developer experience to our software developers and automation engineers.
+
+You will work on the design, deployment and maintenance of our CI/CD pipeline, taking advantage of best of breed tools/systems like Docker, Jenkins and Kubernetes, all running in our Amazon Web Services environment. You will also build tools used across the engineering organization to increase velocity, reliability & confidence of pushing features into the wild. You will be a force to foster a DevOps culture in Stem and collaborate with software developers, system operators and QA engineers in the organization.
+
+Required Skills
+
+We are not expecting a candidate to have experience and knowledge in every listed skill, but here are some that will apply to you:
+
+Demonstrated experience developing CI-CD or release build systems
+Highly proficient in Python, Groovy or another scripting language
+Experience building RESTful applications
+Good knowledge of using tools like Docker, Jenkins and Kubernetes
+Experience with code and artifact repositories (GIT, Nexus, Artifactory,…)
+Experience working with cloud infrastructure at AWS, Azure or Google Cloud
+Familiar with deployment strategies (A/B, Blue/Green and Canary testing)
+Experience with micro services or service-oriented architecture
+Excellent written, verbal, and collaboration skills
+Required Experience
+
+Advanced degree (BSc or Masters) in Computer Science or related field
+3-5 years of working experience
+Nice to Haves
+Hands-on experience with Agile Methodology and working in Agile teams
+Experience with static code and security analysis tools
+Experience working with CD Orchestration engines like Harness, Argo CD & Spinnaker.
+Experience working with Service Mesh technologies like Linkerd, Istio & AWS AppMesh
+About Stem
+
+Stem creates innovative technology services that transform the way energy is distributed and consumed. Stem’s mission is to build and operate the largest digitally-connected energy storage network for our customers.
+
+Our world-class analytics will optimize the value of customer’s energy assets and facilitate their participation in energy markets, yielding economic and societal benefits while decarbonizing the grid.
+
+We create automated, price-responsive systems that enable C&I customers to predict and control electricity costs and capture savings in a rapidly- evolving utility landscape.
+
+The Stem system combines predictive analytics and advanced energy storage with a high-fidelity software user interface. By buffering spikes in energy usage, Stem also reduces the impact of the C&I customer on the utility grid and enables better grid citizenship. Through innovation in technology and financing, our goal is to optimize the relationships between energy providers and consumers.
+
+Our offices are in Millbrae, CA, Downtown Oakland, CA and Seattle WA. All locations have very easy access to public transportation, and this position can be based in either location.
+
+Job Location
+
+Millbrae, California, United States
+
+Position Type
+
+Full-Time/Regular
+
+Apply
+
+
+Share
+
+LinkedIn
+
+Facebook
+
+Twitter
+
+Email
+
+AddThis
+
+Return To Job Listings

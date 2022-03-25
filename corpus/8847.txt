@@ -1,0 +1,47 @@
+Summary
+
+Posted: Jul 30, 2019
+
+Weekly Hours: 40
+
+Role Number: 200081631
+
+Apple Maps is changing, and data is in the driver’s seat. Our mission is to build the best map in the world. We work in a dynamic data-focused environment where Data Scientists are given runway to own big projects and drive impact across the Maps organization.
+We are looking for a talented, experienced Data Scientist to join our cross-functional team, focusing on the deep evaluation of Maps services and features. We work directly with the Engineering and Product teams responsible for search, routing, recommendation, and other algorithms that impact our millions of users every single day. Our day-to-day work crosses many functional areas, including experiment design, AB testing, exploratory data analysis, generative analytics, data mining, and more.
+
+Key Qualifications
+
+You have 4+ years experience with data analysis at web scale.
+
+You're experienced with at least one programming/scripting language (e.g., Python, Scala, Java).
+
+Your background includes at least one database language (e.g., SQL).
+
+You have strong communication and presentation skills.
+
+Nice-to-have Experience
+
+Experieince writing Scala for automating analytic tasks at scale.
+
+You bring background in AB testing.
+
+You have prior industry experience with large data sets using technologies like Hadoop, Hive, and Spark.
+
+You have proven experience in information retrieval.
+
+Domain-specific knowledge of the mapping/transportation industry
+
+Description
+
+You'll build data products (datasets, analyses, models, etc.) and tools (typically in Python or Scala) to drive hypothesis generation and support collaborative decision-making with our partner teams in engineering and product management.
+Create and validate actionable metrics, at both the component level and to measure overall user engagement.
+Design effective experiments for evaluating complex data and machine learning-based systems.
+Develop models and analyses to mine large volume of data, extract insights, and recommend opportunities for product improvements.
+Automate analyses and pipelines via SQL and Python/Scala-based ETL frameworks.
+Communicate insights to partner teams to influence product direction with data.
+Use data intuition to translate hard product goals and business problems into solvable data science problems
+Help to guide junior data scientists
+
+Education & Experience
+
+PhD in Computer Science, Statistics, Physics, Operations Research, or similar quantitative domain; (will consider MS with significant related experience).

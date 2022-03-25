@@ -1,0 +1,46 @@
+Lead Data Analyst
+
+***Note - only applicants currently living in the Chicago area will be considered***
+
+The Lead Data Analyst will develop, present, and deliver on strategic projects at First Stop Health including (but not limited to) fostering client engagement, forecasting financial and operational outcomes, implementing business definitions, and ensuring data integration, integrity, and end-user availability.
+This role will report to the Chief Financial Officer and collaborate and present data reporting (dashboards, visualizations, etc.) and recommendations to our Leadership Team.
+
+Principle Duties & Responsibilities:
+
+Under the direction of the Chief Financial Officer:
+Maintain and enhance the Keboola-Snowflake-Looker analytics ETL to efficiently support a broad range of business needs, minimize technical debt, and comply with HIPAA
+Maintain integrations with production data sources by configuring/customizing Keboola extractor components and writing Snowflake SQL transformations
+Lead full-cycle business logic and report development from stakeholder engagement to hands-on implementation primarily using Snowflake SQL and LookML
+Balance self-service analytics and data governance by curating Looker field definitions and Confluence documentation while managing requests using Slack and Monday
+Conduct analytics data quality testing through row-level reconciliation and user acceptance testing before finalizing major code changes
+Serve as a liaison between business users and the application development team
+Be experienced in creating presentations and recommendations via dashboards and similar tools for executive leadership
+Develop, communicate, and enforce data governance policies where appropriate
+Lead the administration, maintenance, and data governance of analytics software
+Execute on other data analytics requests in keeping with business needs
+Manage the day to day tasks and professional development of 1 Data Analyst
+Knowledge, Skills & Experience
+Required Background
+Bachelors degree
+Minimum of 3+ years of relevant data analytics work experience
+Preferred Knowledge and Experience
+Healthcare operations
+Financial operations
+Required Proficiencies (minimum of 1+ years of proven experience)
+Writing advanced SQL (e.g., window functions, query optimization, and a deep understanding of how to clean messy data)
+Creating visualizations and dashboards with business intelligence software (e.g., Looker, Power BI, or Tableau)
+Developing and leading long-term data analytics and data governance initiatives that require collaboration with a wide range of business stakeholders
+Communicating the business value and limitations of an analysis to stakeholders verbally, in writing, and through technical reports
+Maintaining analytics/data governance documentation intended for business users with a wide range of technical proficiency
+Preferred Proficiencies
+Leveraging APIs within a production ETL pipeline environment
+R or Python, particularly for statistical analysis
+Soft Skills
+An analytical mind and intellectual curiosity about how data drives business decisions
+Take pride in being the source of truth
+Good sense of humor
+Our corporate values are to be Caring, Unrelenting, Trusted and Transparent.
+We expect everyone on our team to display these values and we celebrate them.
+About First Stop Health
+
+First Stop Health was founded by serial entrepreneurs with a track record of success. We offer an independent working environment, stock options to all employees, a progressive vacation policy, and excellent healthcare and 401(k) benefits for employees and their families to professionals who are committed to the success of our company.

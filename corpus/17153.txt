@@ -1,0 +1,31 @@
+DATA ENGINEER
+
+Job Description
+
+Simpli.fi is hiring talented and experienced software engineers to join its Data Engineering team.
+
+At Simpli.fi, you will have the opportunity to truly work with Big Data. We have roughly 100 Terabytes of data in our data warehouse and nearly 1 Petabyte in our Hadoop cluster. We handle over 70 billion messages a day funneled through Kafka topics. We integrate with a real time system that processes nearly 3 million queries per second on over 60,000 active campaigns. The Data Engineering team is responsible for moving and transforming massive datasets into valuable and insightful information.
+
+Our Data Engineering team works very closely with all aspects of operational data, both internal and external. We are hiring Data Engineers with the Software Engineering capabilities to not only build data pipelines that efficiently transform and move data across systems, but also to build the next generation of data tools that will enable us to take full advantage of this data. In this role, your work will broadly influence the company's clients and internal analysts.
+
+A career at Simpli.fi offers countless ways to make an impact in a fast-growing organization. This is a full-time position based in our office in Fort Worth, Texas.
+
+Â
+
+Responsibilities
+Build data expertise and own data quality for the transfer pipelines that you build to transform and move data to our voluminous Data Warehouse (Flume, Kafka, Spark Streaming, Hadoop, Vertica)
+Architect, build and launch new data models that provide intuitive analytics to our customers (Vertica/Star Schema, Looker analytics)
+Design and develop new systems and tools to enable clients to optimize and track advertising campaigns (Vertica, Looker, Spark)
+Use your expert skills across a number of platforms and tools such as Python, Ruby, SQL, Linux shell scripting, Git, and Chef
+Work across multiple teams in high visibility roles and own the solution end-to-end
+Provide support for our existing production systems. We use Datadog and PagerDuty for monitoring and alerting.
+Requirements
+Proficiency building and supporting applications on Linux topology.
+Familiarity with OO and FP methodologies and philosophies.
+Moderate experience in Big Data ecosystem (Hadoop, Spark, Kafka, etc.)
+Proficiency in Ruby or Python development.
+Familiarity with column-oriented Big Data systems such as Vertica or Cassandra.
+Familiarity with profiling and tuning a SQL execution plan
+Familiarity with the JVM. Scala is a definite plus.
+Excellent communication skills including the ability to identify and communicate data driven insights.
+BS or MS degree in Computer Science, Software Engineering, or a related technical field. We will consider equivalent experience in the industry.

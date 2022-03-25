@@ -1,0 +1,42 @@
+Please review the Applicant Privacy Statement for information about how we use the information collected in your application.
+
+Our mission at Progenity is simple: to help healthcare providers and patients prepare for life. We provide the most advanced molecular technology and the highest levels of service to guide patient care at critical life stages. We continually seek people with the motivation and skills to advance our mission.
+As a key member of our Device Development team, the Principal Electrical Engineer is responsible for designing, developing, modifying and evaluating electronic parts, components or integrated circuitry for electronic equipment and other hardware systems. Determines design approaches and parameters. Analyzes equipment to establish operating data, conducts experimental tests and evaluates results. Selects components and equipment based on analysis of specifications and reliability. Development includes process from pre-concept through architecture definition, development, verification, transfer, and product manufacturing. In support of device realization, development and manufacturing aids are also created and deployed. Further RF linked satellite devices may be employed. The successful Electrical Engineer has the strong engineering, scientific, and regulatory knowledge. This Electrical Engineer shall work well both individually and tightly with other software, electronics, and mechanical engineers in rapid development of novel medical devices.
+
+RESPONSIBILITIES
+Responsible for hardware development from pre-concept to production for compact medical devices.
+Independently responsible for all stages of electrical hardware design and development for complex products, solutions, and platforms, including design, validation, tooling, manufacturing, and testing.
+Creates detailed electrical design package (including specifications, BOMs, schematics, wiring diagrams, analyses, etc.) to support design reviews, testing, certifications, and production.
+Reviews and evaluates designs and project activities for compliance with technology and development guidelines and standards to improve product quality.
+Evaluates and proposes modelling and testing methodologies to validate component, circuit, and hardware designs and thermal/emissions management. Medical device design, development, verification and validation to FDA major level of concern.
+Works on complex issues where analysis of situation or data requires an in-depth evaluation of variable factors.
+Collaborates with Quality Team to ensure procedures and methods to ensure quality standards are met and maintained throughout the development cycle.
+Oversees and collaborates in development from external contract development organizations.
+Manages creation and deployment of software driven manufacturing and test tools at contract manufacturing organizations.
+Collaborates with internal and external engineers on PCB design, hardware functionality, architecture, and development.
+Directs contribution to all device history, risk mitigation, and quality documents for the devices required for regulatory filings (i.e., 510k, De Novo 510K and PMA).
+Assists in selection and performance in vendor management activities when required.
+Performs other duties as they are identified to support cross-functional teams.
+This list of duties and responsibilities is not all inclusive and may be expanded to include other duties and responsibilities, as deemed necessary.
+
+REQUIREMENTS
+Experienced in design-for-test (DFT) and design-for-manufacturing (DFM) practices for high-volume products.
+Debugging skills of RF, digital, processor, FW and power circuitry. Background with BLE technologies as low power battery operated designs.
+Minimum BS in EE, CE, CSE A minimum of 10 years’ experience in device product development, preferably in medical devices and drug/device combinations.
+Extensive experience in commercializing devices from pre-concept to production.
+Good Project Management skills.
+Working knowledge of Medical Device Development Life Cycle and Manufacturing.
+Design Controls and experience with FDA QSR 21 CFR Part 820 and ISO 13485. Min.
+5yrs electronics design, PCBA test, bring-up, and end product deployment using Altium Designer Experience working with 32bit Cortex-M microcontrollers for medical device embedded applications.
+Understanding of I2C, SPI, UART and other communication protocols.
+Strong familiarity with LT Splice and Tina TI Solid working knowledge of analog, digital, and mixed-signal design principles and practices.
+Schematic capture, board layout, ESD/EMI immunity.
+Experience with documentation control (ECO, rework instructions, etc).
+Familiarity with low power systems, battery performance testing and power consumption.
+Recognized for being well organized and self-directed with strong interpersonal skills and with an ability to communicate to people at all levels of the organization and lead with influence.
+Proactive, forward-thinking, and creative with high ethical standards and a team player with leadership skills and ability to influence others to achieve successful outcomes and meet timelines.
+Familiarity with domestic and international regulations and industrial guidance documents (e.g., ISO, FDA guidance and CE Mark requirements).
+Energetic individual with can-do attitude and demonstrated team player.
+Ability to handle multiple project and priorities with exceptional organizational and time management skills.
+Ability to function efficiently, effectively, and at times independently in a fast-paced, changing environment.
+Strong team player aligned with Progenity Corporate Values.

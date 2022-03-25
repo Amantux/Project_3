@@ -1,0 +1,26 @@
+Location: Phoenix (AZ)
+Location: Pittsburgh (PA)
+Location: San Jose (CA)
+
+Zoom is an award-winning workplace. We have been recognized by Comparably as #1 CEO, Company Happiness, Benefits, Compensation, Diversity, and more! Not to mentioned we've been awarded by Glassdoor as the 2nd Best US workplace & Best Large Company US CEO in 2018, Wealthfront, and Business Insider. Our culture focuses on delivering happiness, our commitment to transparency, and the tangible benefits we provide our employees and our customers.
+
+The Zoom Client Application team is here to perform client application development for Zoom Meeting, Zoom Webinar, Zoom Chat, and Zoom Phone on Windows, macOS, Linux, iOS and Android. Our team is looking to bring on a Software Engineer who is passionate in the field. In this role, you will utilize your knowledge of client application programming to scale instant messaging on Windows, macOS, Linux, iOS and Android.
+
+Responsibilities:
+Write and build robust native desktop and mobile client applications for Zoom's instant messaging and develop prototypes quickly.
+Design major software components and features.
+Work closely with Engineering partners, Product and Project Managers, Product Designers, and DevOps to drive engineering release and deliver success.
+Partner with technical support and customer success, while also communicating with our customers to troubleshoot product issues and deliver happiness to our users.
+Minimum qualifications:
+Bachelor's degree in Computer Science or related.
+3 years of software programming experience
+2 years of experience in desktop or mobile client application development for instant messaging using C/C++, Objective-C or Java
+Preferred qualifications:
+Master's degree in Computer Science or related.
+Programming experience in XMPP client, IPC/RPC and multithreading.
+Debugging and performance benchmark experience on desktop and mobile.
+Experience developing for multiple platforms.
+Experience with specialist domains: real-time collaboration application development, instant messaging application development, SIP application development, third party libraries in C++, Objective-C, Swift or Java.
+Knowledge of sqlite, 2D graphics programming and MVC application design.
+Excellent foundation in computer science, with competencies in data structures, algorithms and software design optimized for minimum binary size, maximum performance and large scale.
+Good communication skills.

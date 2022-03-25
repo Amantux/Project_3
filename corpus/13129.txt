@@ -1,0 +1,32 @@
+By applying for this role, you could choose to work in the following locations:
+US - Remote US
+San Francisco
+
+Who We Are
+
+Twitter is "what’s happening in the world and what people are talking about right now.'' Our team's job is to help users discover the events and conversations that are relevant to them, right now, at a glance. Be it conversations around sports games, award shows, conferences, today’s news, or a viral tweet in their community.
+
+We develop both the backend personalized recommendation systems and the user facing Explore product for discovery of what’s happening.
+
+Our ML models and products need to balance personalization, news worthiness, timeliness, diversity of content and opinions, and health of the public conversation.
+
+What You’ll Do
+
+As an ML engineer on the team, you would be responsible to develop new features, train, tune and analyze model performance, deploy models at scale to millions of users, and iterate on the user experience to meet the user need of learning what’s happening in the world right now. Engineers on the team own features from design, modeling, data pipeline, scaling, experimentation, to deployment and monitoring. Our work needs to be scalable, measurable and provide delight to users. You will collaborate with product, design, data science and other infrastructure, ML and engineering teams.
+
+Who You Are
+
+You have a passion for machine learning and improving the ways people consume the world, live. You’re a relevance engineer, applied data scientist or machine-learning engineer who wants to work on exciting algorithmic and deep infrastructure issues. You’re experienced solving large scale relevance problems and comfortable building brand new systems to enable future quality improvements.
+Passionate about building delightful products that address customer needs.
+Knowledgeable in one or more of the following: machine-learning, information retrieval, recommendation systems, social network analysis
+Knowledgeable of core CS concepts such as: common data structures and algorithms, profiling/optimization.
+Experienced in collaborating across multiple teams including analytics, product management, and operations
+Comfortable conducting design and code reviews.
+Comfortable working with large unstructured and structured data sets ( for example multi-terabyte+, 100MM+ daily transaction volumes).
+Requirements
+
+BA/BS in Computer Science or equivalent experience
+
+We are committed to an inclusive and diverse Twitter. Twitter is an equal opportunity employer. We do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic information, marital status or any legally protected status
+
+San Francisco applicants: Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.

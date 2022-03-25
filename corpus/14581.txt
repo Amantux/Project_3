@@ -1,0 +1,23 @@
+About our teams: Tempus is executing on the mission to create the world's largest, integrated dataset of molecular and clinical data. At Tempus, products are owned and developed by small, autonomous teams composed of developers, designers, data scientists, and product managers. You and your team set the goals, build the software, deploy the code, and contribute to a growing software platform that will make a lasting impact in the field of cancer research and treatment.
+
+Tempus builds software as nimble as our teams. Our modern tech stack - React, NodeJS, and Python on AWS - allows our teams to iterate rapidly and lead our industry in innovation. Our decentralized, microservice architecture and emphasis on automation allow us to deliver advanced solutions with confidence, and at scale.
+
+What You'll Do
+Manage an enterprise data model in collaboration with engineers, product managers, scientists, and operators to integrate structured data from source systems in multiple complex domains (clinical records, genomics, NGS lab, radiology, et al.).
+Author and maintain entity-relationship diagrams, data dictionaries, API specs, and data translation documentation at multiple levels of abstraction (conceptual, logical, physical) and across multiple data store technologies (relational, NoSQL).
+Advocate and educate engineering team members on data modeling rules, standards, and best practices.
+Evaluate completeness of source system data models and data by profiling partner data.
+Implement solutions to proactively monitor data quality with traceability to source systems.
+Why we're looking for you:
+You have strong experience and knowledge of 3NF, dimensional (star schema), and data vault modeling techniques.
+You have applied exceptional SQL skills in an enterprise data warehouse environment.
+You have knowledge of ETL/ELT and BI architectures, concepts and frameworks.
+You understand and can clearly articulate the long-term impacts of key decisions between database technologies (relational, MPP, NoSQL) and have experience architecting solutions across multiple technologies.
+You have experience with data modeling tools like Erwin, Vertabelo or SQLDBM.
+You have domain knowledge in healthcare.
+Bonus points for:
+Experience with AWS architecture
+Experience working with clinical and/or genomic data
+Experience writing and debugging Python
+Chairing a data governance board for a complex organization
+Implementing master, reference, or metadata management solutions

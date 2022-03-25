@@ -1,0 +1,51 @@
+**We are still hiring and interviewing for this position. We are conducting interviews over video. We are currently working 100% remote and following the CDC guidelines of when to return to work.**
+
+COMPANY OVERVIEW
+
+Global Atlantic is one of the fastest growing companies in the Life and Annuity industry. We are focused on the U.S. retirement and life insurance markets with a broad range of annuities and life insurance options, as well as reinsurance solutions. Our success is driven by competitive, innovative product designs, leading investment management and integrated risk management, along with highly experienced leadership.
+
+Global Atlantic is looking for a diverse team of talented individuals who reinforce our culture of collaboration and innovation. We are dedicated to the career development of our people because we know they are critical to our long-term success. Join our team and come grow with us.
+
+POSITION OVERVIEW
+
+Summary: The Associate, IT Data Engineer will expand and optimize the data and data pipeline architecture, as well as optimize data flow and collection for cross functional teams. The data engineer will perform data architecture analysis, design, development and testing to deliver data applications, services, interfaces, ETL processes, reporting and other workflow and management initiatives. The role will work closely with the business, data analysts and IT teams to support on data strategy initiatives and will ensure optimal data delivery architecture is consistent throughout the strategy. The role also will follow modern SDLC principles, test driven development and source code reviews and change control standards in order to maintain compliance with policies. This role requires a highly motivated individual with strong technical ability, data capability, excellent communication and collaboration skills including the ability to develop and troubleshoot a diverse range of problems.
+
+Responsibilities
+Design and develop enterprise data / data architecture solutions using Hadoop and other data technologies like Spark, Scala, Python, SQL etc.
+Assemble large, complex data sets that meet functional / non-functional business requirements.
+Create and maintain optimal data pipeline architecture.
+Devise and execute continual improvement initiatives in all Data Management Service delivery and technology, with a focus on delivery velocity and quality.
+Partner with business leaders to determine and prioritize delivery initiatives.
+Define or influence system, technical and application architectures for major areas of development.
+Devise and execute in software development life cycle including requirements gathering, development, testing, release management, and maintenance.
+Engage with business partners to report (formally and informally) on technology strengths, weaknesses, successes and challenges on a regular basis.
+Ability to do analytical programming in EDW architecture to bridge the gap between a traditional DB architecture and a Hadoop centric architecture.
+Highly organized and analytic, capable of solving business problems using technology.
+Ensure appropriate change management and other technology methodologies are carried out on a consistent basis over time.
+Should be an individual with in-depth technical knowledge and hands-on experience in the areas of Data Management, BI Architecture, Product Development, RDBMS and non-RDBMS platforms.
+Should have excellent analytical skills, able to recognize data patterns and troubleshoot the data.
+Will be responsible for design and delivery of data solutions to empower data migration initiatives, BI initiatives, dashboards development etc.
+QUALIFICATIONS
+Undergraduate degree required, MBA or other advanced degree preferred.
+13+ years of experience as a member of an information technology team.
+Minimum of 3-5 years of relevant experience architecting the complete end to end design of enterprise wide solution using latest technologies – Hadoop, Spring boot/Spring Cloud, Rest API, SQL
+Minimum of 3 to 5 experience in Python, Core Java, Hortonworks, AWS, Rest API, Microservices, Spring Boot, Spring cloud etc.
+Ideally a strong Life Insurance background.
+Experience with data modeling, complex data structures, data processing, and data quality and data lifecycle
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+Experience building and optimizing 'big data' data pipelines, architectures and data sets.
+Experience performing root cause analysis on internal and external data and processes to provide solution for specific business requirements.
+Experience building solutions for streaming applications.
+Should be able to lead critical aspects of the data management and application management.
+Experience in UNIX shell scripting, batch scheduling and version control tools.
+Experience in large scale server-side application development that includes the design and implementation of high-volume data processing jobs.
+Cultural awareness with excellent interpersonal and relationship building skills.
+Passion and drive for continuous improvement and transformational change, with a business owner mentality.
+Strong written and verbal communication skills.
+At Global Atlantic, enjoy a highly competitive compensation and benefits package, with a focus on pay equity and flexibility. We are proud to support work/life balance with flexible work arrangements that meet individual and business needs. A casual dress code, above-average paid time off, parental and military leave, adoption assistance and tuition reimbursement are just a few of the extra perks that make Global Atlantic a great place to work. We strive to foster a culture of total well-being through community outreach and charitable giving programs.
+
+In Boston we actively partner with the Cradles to Crayons, Stand Up2 Cancer, Let's Get Ready, the Salvation Army and many other volunteer organizations in Boston area. many others.  Social platforms provide an environment to collaborate with others and participate in friendly competitions towards achieving physical, emotional and financial well-being. Our highly competitive health, retirement, life and disability plans can be tailored to best suit your needs and those of your whole family.
+
+Global Atlantic is committed to creating an inclusive environment where everyone feels like they can meaningfully contribute to our success. We are proud to be an equal opportunity employer and we do not discriminate in employment on any basis that is prohibited by federal, state or local laws. We encourage qualified applicants from all demographics to apply. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, disability, age, or veteran status.
+
+Global Atlantic Financial Company Employee Candidate Privacy Notice

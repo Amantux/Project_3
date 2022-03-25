@@ -1,0 +1,63 @@
+Position Overview: From software hacking to hardware hacking, we help secure everything from cryptocurrency exchanges and space telescopes to autonomous vehicles and the electric grid. Today, Praetorian is making significant investments in terms of financial and engineering resources to develop a radically new customer experience we call “Security-as-a-Service” to provide customers with a unified, efficient, and data-driven security platform. We are looking to add the right individual to our growing team supporting the next wave of cybersecurity products and solutions.
+
+As part of that investment, Praetorian is seeking a seasoned Data Engineer with a successful track record in data engineering in a hyper growth company setting. You will have the opportunity to work with some of the best security engineers in the world who hail from organizations such as Amazon, CIA, Facebook, Google, Microsoft, NSA, Redhat, Sun Microsystems, and US Air Force. As an Inc. Best Places to Work, Inc. 500 | 5000, Cybersecurity 500, and Austin Fast 50 Award recipient, we are seeking an individual that understands the professional and personal growth attached to this opportunity and who has the corresponding internal drive to maximize it.
+
+To learn more about Praetorian, visit: https://www.praetorian.com/careers
+
+Career opportunity:
+Join an industry with massive socio, economic, and political importance in the 21st century
+Work alongside some of the best and the brightest minds in the security industry
+Leave an indelible mark on a company where individual input has real impact
+Be recognized, internally and publicly, for your contributions in a high profile position
+Align your career trajectory with a hyper growth company that is on the move
+Core responsibilities:
+Create pipelines to ingest and maintain complex data sets into Praetorian's data stores for use in machine learning models
+Create tools to scour the internet to find important security information and ingest it into Praetorian's infrastructure
+Work with data scientists to create and maintain data ontologies for security
+Create the roadmap of how to continually evolve the data engineering infrastructure and techniques to improve Praetorian's ability to find security information
+Mentor junior data engineers and teach them how to use data engineering techniques to solve real world problems
+Communicate complex concepts to team members
+
+Accountable for:
+Creation of data engineering pipelines to find and ingest security vulnerabilities
+Creation of data engineering tools to help label and validate data
+
+Required qualifications:
+At least 8 years experience designing and building data processing/ETL pipelines
+At least 8 years experience in Python and Spark or similar technologies
+At least 8 years experience with SQL and relational databases
+At least 8 years experience parsing flat files
+8+ years development experience
+Prior track record in a hyper-growth, high-tech company
+Bachelor's degree or equivalent practical experience
+
+Desired qualifications:
+Experience working with Google Tensorflow
+Experience with modern technology stacks
+Experience with micro-services architectures
+Experience with cloud platforms and SaaS solutions
+Experience with agile/scrum development practices
+Experience with test driven development, continuous integration, continuous deployment
+Experience with Git, JIRA, Confluence
+Experience with Google Compute, Firebase, and GKE
+Experience with Docker
+
+Desired behaviors:
+Relentless restlessness to turn theory into practice and develop production worthy code that solves real-world customer problems
+Determination to always learn and get better and never rest on ones laurels
+Personable individual who enjoys working in a team-oriented environment
+Comfort dealing with ambiguity in an environment where we build the plane as we fly it
+Ability to work within constraints and to challenge the status quo
+Ability to self-direct work and truly own the position in a hyper-growth environment
+
+Compensation package:
+Competitive compensation
+Ownership opportunity through employee stock option plan
+Health, dental, and vision insurance
+4% company 401K matching vested immediately
+
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+We are committed to an inclusive and diverse Praetorian. We are an equal opportunity employer. We do not discriminate based on race, ethnicity, color, ancestry, national origin, religion, sex, sexual orientation, gender identity, disability, veteran status, genetic information, marital status, or any other legally protected status.
+
+We ask that you please include a few paragraphs about yourself and what you are passionate about in your application.

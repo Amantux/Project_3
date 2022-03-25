@@ -1,0 +1,20 @@
+Flipside Crypto is seeking a Data Scientist to identify and explore patterns in massive amounts of blockchain and developer data and to contribute to our growing body of research on cryptocurrency. Flipside Crypto is located in Boston, MA, but remote applicants will also be considered.
+
+Who You Are:
+You love data and stats. You know some formal statistics and data exploration techniques
+You are fastidious and meticulous in your work. You don't mind doing the “grunt work” to get the full picture
+You're creative and you aren't afraid to be wrong. A lot.
+You know your way around SQL-like databases (e.g. PostGres, Impala, MySQL)
+You are intimately familiar with R and/or Python for analysis, exploration, and model-building
+You take pride in your code. It's readable, functional, and reproducible
+You can describe a complex problem (or solution) in a way that doesn't put people to sleep, and doesn't leave them scratching their heads
+What You'll Actually Work on:
+Work directly with the engineering and product teams to implement our Data Cooperative product, and build our industry-leading Intelligence solutions
+Collaborate with other data scientists to explore, visualize, and validate our cryptocurrency data
+Apply models to make our data sing and enable us to build meaningful products from it
+Participate in brainstorming and strategic discussions of how to improve our methods, models, and products
+Desired Experience:
+Some prior experience as an analyst or data scientist, working directly with database-level data, whether formally or self-taught
+Experience with Crypto is a big plus but not a requirement
+Ideally at least 1-2 years in a data science or analyst role working in R or Python
+Experience working with product teams, developers, and data engineers is a plus

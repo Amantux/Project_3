@@ -1,0 +1,49 @@
+Read what people are saying about working here. 
+
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities — we're just getting started.
+
+We are seeking a Data Scientist to join our AI Data Science and Analytics team, focusing on Machine Translation. The Machine Translation team is working to break language barriers to create a world where everyone on Facebook can understand everyone else, no matter what languages they speak. In pursuit of this mission, the team has created machine translation systems that serve over 2 billion translations every day across 2000 different language pairs. However, this journey is still only 1% finished, and the team won't rest until they can produce human quality translations for all language directions. The ideal candidate will have a strong background as a data scientist working on machine translation systems, have strong technical and analytical skills, and have experience working with massive amounts of data.
+
+RESPONSIBILITIES
+
+Apply your analytical skills to gain deep insights into the data and ML model performance, and be able to clearly present your results and help guide cross-functional partners
+
+Partner closely with Engineering, Product and User Research teams to solve problems and identify trends and opportunities. This is a very cross-functional role
+
+Influencing the roadmap and decisions made by the machine translation team through presentation of data-based recommendations, and clearly communicating the state of the machine translation effort, experiment results, etc. to product teams
+
+Partner with cross-functional teams to identify new opportunities requiring the use of modern analytical and modeling techniques
+
+Effectively communicate insights and recommendations to upper management in support of strategic decision-making
+
+Plan, and be able to conduct as needed, end-to-end analyses, from data requirement gathering, to data processing and modeling
+
+Own ongoing deliverables and communications
+
+MINIMUM QUALIFICATIONS
+
+MS degree in a quantitative discipline (e.g., statistics, operations research, econometrics, computer science, applied mathematics, physics, electrical engineering, industrial engineering) or equivalent experience
+
+10+ years experience doing quantitative analysis or statistical modeling
+
+Knowledge of at least one modeling framework (e.g., SciKit Learn, TensorFlow, SAS, R, MATLAB)
+
+Experience influencing product strategy through data-centric presentations (to product, business, and other stakeholders)
+
+Knowledge in at least one of the following areas: predictive modeling, machine learning, experimentation methods
+
+Experience extracting and manipulating large datasets
+
+Development experience in any scripting language (PHP, Python, Perl, etc.)
+
+Experienced with packages such as NumPy, SciPy, pandas, scikit-learn, dplyr, ggplot2
+
+PREFERRED QUALIFICATIONS
+
+5+ years experience leading technical teams
+
+Experience with distributed computing (Hive/Hadoop)
+
+Experience with machine translation and/or NLP systems
+
+ Founded in 2004, Facebook’s mission is to give people the power to build community and bring the world closer together. People use Facebo...

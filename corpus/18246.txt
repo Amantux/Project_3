@@ -1,0 +1,24 @@
+This position is a part of the Amazon Brand Services organization which creates, builds and leads innovation for Brand Owners on Amazon worldwide. Our organization owns the product, technology and deployment roadmap for advanced analytics and insights products surfaced to Brand Owners on Amazon. This position requires a dynamic data engineer who is entrepreneurial, has the ability to work with the ambiguity involved with launching completely new experiences, can develop and articulate strategic plans and drive their execution.
+
+We are looking for a passionate data engineer to develop a flexible data model and optimize the consumption of massive data sources we require to generate unique insights. Data is at the center of every product we will develop as we create brand new systems that serve the needs of our large and growing base of Brand Owners on the platform. You will share in the ownership of the technical vision and direction for advanced analytics and insight products. You will be a part of a team of top notch technical professionals developing complex systems at scale and with a focus on sustained operational excellence. Members of this team will be challenged to innovate using big data technologies. We are looking for people who are motivated by thinking big, moving fast and changing the way Brand Owners use data to drive their success on the platform.
+
+
+If you love to implement solutions to hard problems while working hard, having fun, and making history, this may be the opportunity for you!
+
+
+Basic Qualifications
+
+· Bachelor's degree in computer science, engineering, mathematics, or a related technical discipline
+· 3~6 years of industry experience in software development, data engineering, business intelligence, data science, or related field with a track record of manipulating, processing, and extracting value from large datasets
+· Demonstrated strength in data modeling, ETL development, and data warehousing
+· Experience using big data technologies (Hadoop, Hive, Hbase, Spark, EMR, Elastic Search, etc.)
+· Experience using business intelligence reporting tools (Tableau, Business Objects, Cognos, etc.)
+· Knowledge of data management fundamentals and data storage principles
+· Knowledge of distributed systems as it pertains to data storage and computing
+
+Preferred Qualifications
+
+· Experience working with AWS big data technologies (Redshift, S3)
+· Proven success in communicating with users, other technical teams, and senior management to collect requirements, describe data modeling decisions and data engineering strategy
+· Experience providing technical leadership and mentoring other engineers for best practices on data engineering
+· Knowledge of software engineering best practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes, testing, and operations

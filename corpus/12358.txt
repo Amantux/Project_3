@@ -1,0 +1,44 @@
+Description of job duties: This is a staff position responsible for   the research, design, development, and testing of data driven decision   models leveraging advanced analytics and machine learning algorithms.   Responsibilities include concept evolution, development of prototype   and productions models including provisions for integration of models   into production processes.
+
+Essential duties and responsibilities:
+   Participates in   business level conceptual design scoping sessions, providing input on   level of complexity, potential solution approaches and algorithms, and   time estimates to complete prototype and production models
+     Autonomously develops alternative conceptual solutions based on   business requirements
+   Prepares model data for model training,   testing, and validation. Develops data requirements for production   implementation of prototype models
+   Develops required model   code and interoperability code to meet defined business   requirements
+   Performs testing on prototype models and   provides detailed feedback on model effectiveness
+   Acts as a   subject matter expert for machine learning, AI, and other complex data   algorithms, and maintains current knowledge in the field
+     Maintains up-to-date knowledge of computer operating procedures,   operating standards, programming languages, and applicable software   development tools
+   Documents code and systems to promote   maintainability.
+   Performs other application development,   diagnostic, and other special projects as may be assigned
+
+Qualifications:
+   Quantitative background with advanced   degrees (Master +) in Statistics, computer science, engineering,   informatics, data science, or related field.
+   In-depth   understanding of machine learning algorithms and statistical   models
+   Strong hands-on experience with Python or R.
+     Experience in one or more of the following: SQL / relational   databases, big data technology (e.g., HDFS, Hive, Pig, or   Spark)
+   Experience with deep learning libraries (e.g. Keras,   Tensorflow, and PyTorch)
+   Ability to manage, lead and communicate
+
+Education/Experience:
+   B.S. in Computer Science or   Engineering
+   Masters of Science in Statistics, computer   science, engineering, informatics, data science, or related field. 
+ - provided by Dice
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Orchard Park, NY 14127 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         6874_61ac2bbb524b5c4473d2ff9686945e59

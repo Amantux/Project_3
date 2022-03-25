@@ -1,0 +1,13 @@
+Skills Pyspark, Azure (Azure SQL DW, Azure Data factory, HDInsight), Big data
+
+Job Description:
+Min 8 to 10 years of IT experience, including experience in developing and implementing Big Data & Azure cloud solution
+Minimum 3 years of experience in cloud technology (Azure) Strong hands on knowledge on Spark (with Python as language)
+End to end implementation experience in data analytics solutions (data ingestion, processing, provisioning and Orchestration
+Strong experience in Azure ecosystem such as HDInsight, Azure Data Factory, Azure Data Lake and SQL DW and ADLS2 Strong SQL and Shell script knowledge
+Hands on experience developing enterprise solutions using designing and building frameworks, enterprise patterns, database design and development
+End to end Cloud solution on Azure (Azure SQL DW, Azure Data factory, HDInsight, SQL on Azure)
+Batch solution and distributed computing using ETLELT (Spark SQLSpark Data frameADF)
+Implementation of data encryption at rest and in transit
+DWBI (MSBI, Oracle, Sql Server), Data modelling, performance tuning, memory optimization, DB partitioning
+Frameworks, reusable components, accelerators, CICD automation Mentor and lead a data engineering teams to design, develop, test and deploy high performance data analytics solutions

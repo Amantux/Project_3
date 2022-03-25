@@ -1,0 +1,45 @@
+The Team:
+
+Bloomberg's Management Reporting & Analysis' (MR&A) Data Science Solutions Team is entrusted to continually improve the ability to make data-driven decisions for Bloomberg's senior management, Product and Sales teams. Our team arms Sales and other client-facing teams with data to optimize their prospecting and retention efforts. We enable Product teams to build better products by providing them with deep insights into customer behavior and helping them prototype and develop ML-based products. We help the News organization identify and explain long-term trends in readership, and we provide Bloomberg senior management with predictive analytics to improve forecasting, and perform active product recommendations to our entire user-base. And that's just a sampling of projects from a "typical" week!
+
+The Role:
+
+We are looking for an expert data scientist to join our team. You will work alongside machine learning experts, technologists, product managers and data scientists from across the organization to tackle complex business problems. You will be responsible for identifying the data we should be collecting, devising methods of instrumenting our system to extract this information and working with technologists to develop an ETL process to transform raw data into business insights. Most critically, you will then deliver the output of your analyses to business users (both non-technical and technical). You will be the point person to answer questions about our clients' workflow and interactions, and you will help shape critical customer experiences with Bloomberg's products.
+
+You'll Need to Have:
+
+3-7 years of work experience in the use of advanced statistical analysis and machine learning methods (e.g. linear regression, statistical significance, correlation, etc.)
+
+Experience with numerical and visualization toolkit via Python and/or R
+
+Superior ability to break down large, complex business problems into discrete, achievable steps
+
+Ability to clearly communicate research findings to both technical and non-technical decision makers
+
+Advanced expertise in SQL
+
+Experience with Excel
+
+Ability to solve complex problems with adversity
+
+Experience with presentation software
+
+Experience testing and validating statistical hypotheses
+
+We'd Love To See:
+
+A degree in Economics, Statistics, Math, Computer Science, Engineering, Physical Sciences, or another quantitative discipline
+
+Experience with PostgreSQL /Greenplum or other MPP databases
+
+Experience with distributed file systems
+
+Experience with Spark/PySpark
+
+Experience with cloud technologies
+
+If this sounds like you:
+
+Apply - if we believe you're a good match, we'll get in touch with you to let you know the next steps. In the meantime watch this proud reminder of our purpose: https://vimeo.com/263526877
+
+Bloomberg is an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

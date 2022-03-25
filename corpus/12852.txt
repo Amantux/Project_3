@@ -1,0 +1,23 @@
+Job Duties & Responsibilities
+Bring Creativity to Data products.
+Analyze transaction data.
+Build models to predict possible finance operation inconsistencies.
+Use machine learning methods to perform transaction matching (matching algorithms).
+Cleanse raw data for use in models.
+Perform data munging, data mining, clustering & classification methods, pattern recognition.
+Comfortable with Statistics, Calculus & Multivariate analysis.
+You will work closely with a small R&D team with Product Managers, Data Engineers & Analysts. The R&D team will experiment with the data and come up with POC's.
+Familiar with SQL, Python, R, Spark MLib, AWS, SQL Server, Redshift.
+Most of the data currently lives in SQL Server. We are experimenting with AWS Redshift as well. Python for coding and someone with experience with Spark MLib & Machine learning is a big plus.
+Qualifications
+Extensive experience solving analytical problems using quantitative approaches.
+Comfort manipulating and analyzing complex, high-volume, high-dimensionality data from varying sources.
+A strong passion for empirical research and for answering hard questions with data.
+A flexible analytic approach that allows for results at varying levels of precision.
+Ability to communicate complex quantitative analysis in a clear, precise, and actionable manner.
+Familiarity with relational databases and SQL
+Expert knowledge of an analysis tool such as R, Matlab, or SAS
+Strong working knowledge of financials
+Acquired skills would include Data Warehousing, ETL, BI, Data Mining, and Machine Learning.
+Strong written and verbal skills – able to explain the work in plain language
+MS in Computer Science or other quantitative disciplines or BA with 2+ years applicable experience

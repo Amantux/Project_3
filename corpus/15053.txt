@@ -1,0 +1,57 @@
+Data Engineer
+10513
+Scottsdale, AZ
+1/27/2020 2:26:00 PM
+
+Data Science
+Contractor - W2
+
+Job Description
+looking for a savvy Data Engineer to join our growing team of analytics experts. The hire will be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross functional teams. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up. The Data Engineer will support our software developers, database architects, data analysts and data scientists on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects. They must be self-directed and comfortable supporting the data needs of multiple teams, systems and products. The right candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data initiatives.
+
+PRINCIPLE RESPONSIBILITIES:
+
+• Create and maintain optimal data pipeline architecture,
+• Assemble large, complex data sets that meet functional / non-functional business requirements.
+• Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+• Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS ‘big data’ technologies.
+• Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency and other key business performance metrics.
+• Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs.
+• Keep our data separated and secure across national boundaries through multiple data centers and AWS regions.
+• Create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader.
+• Work with data and analytics experts to strive for greater functionality in our data systems.
+• Troubleshoots issues with minimal guidance, identifies bottlenecks in existing data workflows and provides solutions for a scalable, defect-free application
+• Works with onshore/offshore team to analyze, develop and improve pipeline run times as well as produce accurate defect free code
+• Complies with Company policy and practices relating to the System Development Life Cycle.
+• Provides Tier 3 support and resolution of IT issues escalated by IT Customer Support.
+• Support audit and compliance reporting requests.
+• Support the operation of MarkLogic and Snowflake products on a 24/7 basis as needed.
+• Supports production environment in the event of emergency
+• Participate in on-call support 24x7 weekly rotation of the operation of Informatica.
+• Performs other job-related duties as assigned or apparent.
+
+QUALIFICATIONS:
+
+• 2+ years’ experience working with data warehousing, ETL development and ETL architecture.
+• 2+ years’ experience combined experience with any of the following database technologies (RDBMS: MSSQL, MySQL Oracle; NoSQL: MarkLogic, Snowflake, DynamoDB, Redis).
+• 2 years’ experience working on large data initiatives (?5 terabytes).
+• 1 years’ experience as a JavaScript
+• Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+• Experience building and optimizing ‘big data’ data pipelines, architectures and data sets.
+• Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+• Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+• Good knowledge and experience of working with OO Javascript, XHTML, CSS, XML, Ajax and one or more JavaScript libraries (e.g. Prototype, JQuery)
+• Experience with web services (e.g. RESTful services), including the ability to programmatically interact with data formats that may include XML, JSON and RDF
+• Experience with writing software for complex web-based business applications which makes use of client-side data capture, validation and presentation
+• Working knowledge of version control systems (e.g. SVN, Git)
+
+MINIMUM QUALIFICATIONS:
+• 2+ years of experience in a Data Engineer role, who has attained a bachelor’s degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field.
+• AWS: 1 year experience
+• DevOps Practices: 1 year experience
+• 2+ years’ experience working with data warehousing, ETL development and ETL architecture.
+• 2+ years’ experience combined experience with any of the following database technologies (RDBMS: MSSQL, MySQL Oracle; NoSQL: MarkLogic, Snowflake, DynamoDB, Redis).
+• 2 years’ experience working on large data initiatives (?5 terabytes).
+• 1 years’ experience as a JavaScript
+
+Job Requirements

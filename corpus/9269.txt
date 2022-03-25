@@ -1,0 +1,39 @@
+Hi, we’re Second Genome.
+
+We are a fast-paced, venture-backed biotechnology company developing breakthrough therapeutics through innovative microbiome science.
+
+And we are looking for a Temporary Data Scientist to work on a six month project.
+
+You are a data scientist or computational biologist with a passion for deriving actionable insights from large datasets. You are excited about the idea of staging and evaluating the cost-efficient classification of biological sequence data for immediate application to our current project. You understand that your findings may impact workflows companywide, and you stand by your results. You are personally driven but are comfortable not having all the answers; you know how to find the resources you need to achieve your goals. You accept the changing demands of an industry environment. You are a team player and you understand the importance of communication and the balance between compromise and assertion.
+
+How You’ll Impact the Company:
+
+You will evaluate the principle architectures for cost-efficient learning.
+
+You will engineer novel and informative features from biological sequence data to improve predictive models.
+
+You will actively seek, evaluate, and spearhead the adoption of new computational approaches to expand internal capabilities.
+
+You will communicate findings within the group and to stakeholders inside and outside the company.
+
+What You Bring to the Role:
+
+You have an education in or experience with machine learning methods and advanced multivariate statistics, particularly with small-n-large-p datasets.
+
+You have knowledge of feature selection methodologies and model validation strategies to minimize false discovery rates.
+
+You are fluent in Python and its numerical, scientific, and parallel computing libraries.
+
+You are familiar with MySQL or similar query language, database schema design, joins, filters, and bulk transactions.
+
+You have knowledge of code versioning systems like SVN or git.
+
+You can efficiently manage and communicate progress using project management software like JIRA, Trello, or Redmine.
+
+You are able to effectively explain complex computational approaches to individuals from different disciplinary backgrounds.
+
+You are committed to integrity, accountability, transparency, and reproducibility; results that can’t be reproduced by another are meaningless.
+
+You have a Master’s or Ph.D. in Computer Science, Applied Mathematics, Bioinformatics, or related.
+
+Second Genome provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Second Genome complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.

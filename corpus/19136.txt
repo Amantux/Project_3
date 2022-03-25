@@ -1,0 +1,40 @@
+Dubbed an "open-source unicorn" by Forbes, Confluent is the fastest-growing enterprise subscription company our investors have ever seen. And how are we growing so fast? By pioneering a new technology category with an event streaming platform, which enables companies to leverage their data as a continually updating stream of events, not as static snapshots. This innovation has led Coatue Management, Altimeter Capital and Franklin Templeton to join earlier investors Sequoia Capital, Benchmark, and Index Ventures in the recent Series E financing of a combined $250 million at a $4.5B valuation. Our product has been adopted by Fortune 100 customers across all industries, and we’re being led by the best in the space—our founders were the original creators of Apache Kafka®. We’re looking for talented and amazing team players who want to accelerate our growth, while doing some of the best work of their careers. Join us as we build the next transformative technology platform!
+
+About the Team:
+
+The mission of the Data Science team at Confluent is to serve as the central nervous system of all things data for the company: we build analytics infrastructure, insights, models and tools, to empower data-driven thinking, and optimize every part of the business. Data Engineers on the team will be the enabler and amplifiers. This position offers limitless opportunities for an ambitious data science engineer to make an immediate and meaningful impact within a hyper growth start-up, and contribute to a highly engaged open source community.
+
+About the Role:
+
+We are looking for a talented and driven individual to build and scale our data analytics infrastructure and tooling. This person will build state of art data warehousing, ETL, and BI platforms, to make data accessible to the entire company. They will also partner closely with Data Scientists and cross functional leaders to develop internal data products. Data Engineers are encouraged to think out of the box and play with the latest technologies while exploring their limits. Successful candidates will have strong technical capabilities, a can-do attitude, and are highly collaborative.
+Responsibilities:
+Collaboration with Data Scientists, Engineers, and business partners to understand data needs to drive key decision making throughout the company
+Implementing a solid, robust, extensible data warehousing design that supports key business flows
+Performing all of the necessary data transformations to populate data into a warehouse table structure that is optimized for reporting and analysis; deploy inclusive data quality checks to ensure high quality of data
+Developing strong subject matter expertise and manage the SLAs for those data pipelines
+Set up and improve BI tooling and platforms to help the team create dynamic tools and reporting
+Partnering with Data Scientists and business partners to develop internal data products to improve operational efficiencies organizationally
+Building and growing partnership with cross functional teams, and evangelize data-driven culture
+Contributing to innovations that fuel Confluent’s vision and mission
+
+What We're Looking For:
+
+4+ years of experience in a Data Engineering role, with a focus on data warehouse technologies, data pipelines, BI tooling and/or data apps development
+Bachelor or advanced degree in Computer Science, Mathematics, Statistics, Engineering, or related technical discipline
+Highly proficient in Python and SQL coding
+Highly proficient with tuning and optimizing data models and pipelines
+Experience in developing data apps with Python, Javascript, high charts etc.
+The ability to communicate cross-functionally, derive requirements and architect shared datasets; ability to synthesize, simplify and explain complex problems to different types of audiences, including executives
+
+What Gives You An Edge:
+
+Experience with Apache Kafka
+Experience with B2B enterprise apps data: Salesforce, Marketo, Zendesk, etc.
+Experience in developing data apps with Python, Javascript, high charts, etc.
+#LI-MT1
+
+Come As You Are
+
+At Confluent, equality is a core tenet of our culture. We are committed to building an inclusive global team that represents a variety of backgrounds, perspectives, beliefs, and experiences. The more diverse we are, the richer our community and the broader our impact.
+
+Click here to review our California Candidate Privacy Notice, which describes how and when Confluent, Inc., and its group companies, collects, uses, and shares certain personal information of California job applicants and prospective employees.

@@ -1,0 +1,153 @@
+Next review date: Wednesday, Jul 31, 2019 at 11:59pm (Pacific Time)
+
+Apply by this date to ensure full consideration by the committee.
+
+Final date: Saturday, Aug 31, 2019 at 11:59pm (Pacific Time)
+
+Applications will continue to be accepted until this date, but those received after the review date will only be considered if the position has not yet been filled.
+
+Description
+
+Berkeley Institute for Data Science (BIDS) at the University of California, Berkeley invites applications for an Assistant Research Data Scientist position. Join a community of strong researchers, practicing data scientists, and academic and administrative leaders in an environment distinguished by a strong sense of collaboration, openness and respect. We are convinced of the value of data science to serve the interests of the public and the campus community through interdisciplinary research and solution-based scholarship that fosters societal change.
+
+Background
+
+Berkeley Institute for Data Science (BIDS) was established in late 2013 with grants from the Gordon and Betty Moore Foundation and Alfred P. Sloan Foundation, as well as investment from the University of California, Berkeley. The institute’s mission has been to advance scientific discovery through collaboration across research domains. In its first five years, BIDS brought data science to the forefront of academic research and training at Berkeley.
+
+BIDS is poised to play an increasingly important role at the University. In October 2018, the university announced that BIDS will be part of its new Division of Data Science and Information. The announcement states that the Institute “has facilitated and nurtured data-intensive research, helped establish the conditions for today’s announcement, and will continue to play an important leading role bridging the inherently interdisciplinary research of the new division.”
+
+To fulfill this role, BIDS is expanding its research and professional staff. We seek colleagues who can add to our culture of collaboration which creates impact and to the strong working relationships which motivate BIDS and the Division. Our work includes a balance of:
+
+interdisciplinary research projects to solve intractable issues in specific domains by applying expertise in data science
+
+research software development projects to create cross-cutting computational tools and reproducible practices.
+
+In all our work, we aim to make lasting contributions to open source to enable data scientists globally. Researchers at and affiliated with BIDS have built some of the leading analytical and computational open source tools for today’s data scientists, positioning the Institute to imagine and create the next generation of breakthroughs in data-driven discovery.
+
+Position Description
+
+The Assistant Research Data Scientist engages in independent research that is well aligned with the leading role that BIDS plays in data-intensive research at Berkeley and with the mission and goals of the Institute. They have major responsibility and leadership for research programs and have the ability to secure funding.
+
+In scope of the Assistant Research Data Scientist role at BIDS are proposing, securing funding, planning and implementing interdisciplinary research projects with faculty and other researchers; developing algorithms and analytical and computational software to facilitate data-driven discovery; and pursuing independent research. Their research products include well-documented algorithms and code, research publications, and quantitative analyses on a wide range of foundational and applied research domains, as well as research proposals.
+
+At BIDS, the Assistant Research Data Scientist often pursues grants for open source and replicability projects. These pursuits are encouraged and supported to ensure that BIDS continues its leadership in contributing to the open source software ecosystem for data-driven discovery.
+
+In addition, the Assistant Research Data Scientist advises project scientists collaborating with faculty – or collaborates directly with faculty – in discovery science or major interdisciplinary research projects which require their expertise in data science. BIDS particularly encourages applicants who want to take on critical issues and challenges in scope of the Signature Initiatives in the UC Berkeley Strategic Plan including:
+
+Environmental change, sustainability, and justice
+
+Health and wellbeing
+
+Inclusive intelligence, Democracy, Inequality
+
+More detail about these initiatives are available here [https://strategicplan.berkeley.edu/publications/].
+
+The Assistant Research Data Scientist also coordinates data management and related data lifecycle activities; establishes computational standards and practices; and broadly advises faculty and other researchers. Finally, they may participate in various cross-institutional initiatives in data science.
+
+Appointment Length
+
+This is a full-time (100%), two-year position and the appointment may be renewable on an ongoing annual basis depending on availability of funding and satisfactory performance. Anticipated start date is June 2019.
+
+Detailed Responsibilities
+
+Plan and conduct research projects with faculty and other researchers to solve intractable issues in specific domains – for example, the environment, health and wellbeing, and economic prosperity / finance – by applying expertise in data science.
+
+Develop the algorithms and the analytical and computational software needed to facilitate data-driven discovery for these projects. As required, coordinate data management and related data lifecycle activities; establish computational standards and practices; and advise faculty, postdocs and graduate students about scientific software.
+
+Pursues and secures funding for independent research that is well aligned with BIDS from both traditional agencies and novel channels. This can be to develop analytical and computational tools and to help understand or solve major challenges facing society. Serve as the principle investigator (PI) or Co-PI on the projects funded by the grants.
+
+Produce a wide range of foundational and applied research products, including well-documented algorithms and code, research publications, and quantitative analyses.
+
+More broadly, create robust, well-documented and extensible software systems and tools whose use spans everyday exploratory data analysis to data-intensive research and support for data science education. Examples are major libraries or languages in the open source data science ecosystem built around Python, Julia, R or Scala.
+
+Contribute to maintenance of these systems and tools and to related ‘meta’ discussions about, for example, codes of conduct, onboarding guidelines, testing and building infrastructure. May include representing BIDS in governance and leadership of open science and open source projects.
+
+Contribute to or lead service activities supportive of BIDS’ role within UC Berkeley and of intra- or inter-institutional initiatives in data science. Service can include assisting other research and professional staff and applying best practices resulting from their research.
+
+Participate in a culture of open science and reproducible research across campus and in related educational events that BIDS may conduct, ranging from short tutorials to multi-day workshops.
+
+Present research and study results at scientific meetings, international conferences, and peer-reviewed journal publications.
+
+May supervise professional and graduate students collaborating on projects.
+
+May be called upon to represent the institute and the Division to constituents outside of UC Berkeley, such as donors and delegations.
+
+Write articles for refereed academic journals and/or conferences.
+
+Qualifications
+
+BIDS is interested in applicants with the following qualifications who have potential to enhance our diversity and to build bridges among existing organizations and structures through their work.
+
+Basic Qualifications
+
+Must have a PhD or equivalent international degree or enrolled in a PhD (or equivalent international degree) granting program at the time of application
+
+Additional Qualifications (by start date)
+
+Ph.D. or equivalent international degree
+
+Preferred Qualifications
+
+PhD or equivalent degree with a strong computational background, regardless of specific discipline.
+
+Experience writing grant proposals and managing research projects.
+
+Record of leading collaborations with researchers from computer sciences, statistics, and multiple ‘domain’ fields spanning the natural and social science, the humanities, and the professions.
+
+Extensive experience in programming and software engineering with a track record of leadership in open, collaborative projects with broad community adoption, major real-world impact across multiple domains:
+
+Applying (at least) one programming language to construct full scientific pipelines, from data ingestion / clean-up to modeling, to visualization and analysis.
+
+Collaborating and coordinating work via an online platform, such as GitHib, GitLab, or BitBucket, and distributed revision control.
+
+Interfacing high-performance low-level languages (e.g. C/C++, Cython or Fortran) to Python or Julia.
+
+Evidence of existing connections and relationships in the worldwide ecosystem of open source software for data-intensive research and ability to establish new ones.
+
+Experience with common data science methods, platforms, workflows, and infrastructures; with data management systems, practices, and standards; and the capacity to gain familiarity with new related topics
+
+Experience engaging with highly technical researchers across a variety of methodological fields, research domains, and computational platforms
+
+Interpersonal skills to work with faculty, students, and staff at various levels inside and outside the organization. Include having skills to communicate complex information in a clear and concise manner both verbally and in writing
+
+Strong capacity for teamwork, collaborative, critical thinking, and attention to detail. Includes ability to multi-task with demanding timeframes in a fast-paced, fluid research environment
+
+Salary
+
+The full-time annual salary will be commensurate with qualifications and experience.
+
+Application Procedure
+
+To apply go to [https://aprecruit.berkeley.edu/JPF02139]
+
+Please direct all questions for this position to bids@berkeley.edu, with the subject line: BIDS Assistant Research Data Scientist.
+
+This position will remain open until filled.
+
+References
+
+3 references required (contact information only): Letters of reference will only be solicited for finalists.
+
+All letters will be treated as confidential per University of California policy and California state law. Please refer potential referees, including when letters are provided via a third party (i.e., dossier service or career center), to the UC Berkeley statement of confidentiality (http://apo.berkeley.edu/evalltr.html) prior to submitting their letters.
+
+The University of California is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, age or protected veteran status. For the complete University of California nondiscrimination and affirmative action policy see: http://policy.ucop.edu/doc/4000376/NondiscrimAffirmAct
+
+Job location
+
+Berkeley, CA
+
+Learn More
+
+More information about this recruitment: https://bids.berkeley.edu/
+
+Requirements
+
+Document requirements
+
+Curriculum Vitae - Your most recently updated C.V.
+
+Cover Letter - 1-2 page cover letter that summarizes research interests and professional goals.
+
+Reference requirements
+
+3 required (contact information only)

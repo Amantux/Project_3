@@ -1,0 +1,29 @@
+Pilytix brings Explainable Artificial Intelligence (XAI) to sales teams so they can be more effective and close more deals, faster. We use best-in-class tools to quickly deliver data-driven insights to all of our clients. Data Engineers will assist in the development of cutting-edge data pipelines to ingest, transform and archive data for our clients and to support our team of Data Scientists.
+
+Responsibilities:
+Author and monitor directed acyclic graphs (DAGs) in Apache Airflow to ingest and transform data
+Build and maintain internal Python packages to streamline ingest processes and add connections for new types of data
+Manage Kubernetes infrastructure and PostgreSQL databases on Google Cloud Platform
+Work collaboratively with the development and data science teams to add new data-driven features to our software-as-a-service product
+Participate in Agile / Kanban processes on a daily basis
+Comply with change management policies and code reviews to ensure data integrity and system stability
+Requirements
+BS/MS in a STEM field and 2+ years of industry experience programming and working with data
+Exceptional understanding of data architecture and software engineering best practices
+2+ years experience with Python (Python 3 preferred)
+2+ years experience with SQL (PostgreSQL preferred)
+2+ years of experience with Docker
+1+ years experience with cloud infrastructure (GCP preferred)
+1+ years of server orchestration (Kubernetes preferred)
+Experience using Apache Airflow or similar data pipeline systems
+Experience using Git or other DVCS
+Knowledge of Agile / Kanban processes
+Entrepreneurial spirit and highly self-motivated
+Job is based in Austin TX, but extraordinarily qualified remote candidates (willing to travel to Austin semi-regularly) may apply.
+
+Benefits
+Competitive base salary with ability to earn bonuses
+Professional development and entrepreneurial opportunities
+Paid time off
+401(k)
+Medical and dental plans

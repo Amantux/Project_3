@@ -1,0 +1,25 @@
+Forcepoint is transforming cybersecurity by focusing on what matters most: understanding people’s intent as they interact with critical data and intellectual property wherever it resides. Our uncompromising systems enable companies to empower employees with unobstructed access to confidential data while protecting intellectual property and simplifying compliance. Based in Austin, Texas, Forcepoint supports more than 20,000 organizations worldwide. For more about Forcepoint, visit www.Forcepoint.com and follow us on Twitter at @ForcepointSec.
+
+Forcepoint is seeking a Data Engineer II to conceptualize, design, develop, and maintain data pipelines using problem solving, data, and database management principles. You will be working in a highly collaborative team of data engineers, data visualization and insights developers and data management analyst to provide Forcepoint with quality unbiased data. As a data engineer will become a data set owner for one or more of our core datasets while working with the data management team to ensure we are providing superior quality data to our stakeholders.
+
+A successful candidate should possess a passion for data, an innate curiosity, excellent problem-solving skills, and strong technical knowledge of Microsoft SQL Server and Microsoft data tools. In addition, you should have strong verbal and written communication skills and work well with others across many departments and groups.
+
+Key Responsibilities
+Build, document, test and launch new data extract, transform and load (ETL) process for one or more core data sets.
+Collaborate with Business Intelligence team and other stakeholders for data set requirements
+Collaborate with Data Management team to provide quality data to stakeholders.
+Build data expertise and learn company history needed to effectively design data pipelines.
+General Requirements
+Highly collaborative and empathetic approach to problem solving
+Naturally curious with the drive to learn what is needed to identify root cause
+Capable of inputting high-level, sometimes ambiguous requirements into operational tools/dashboards
+Demonstrated organizational skills, attention to detail and ability to work independently while staying integrated with the broader Data Engineering team as well as stakeholders
+A strategist with sound business and technical acumen. Proven ability to influence at various levels of leadership, without direct authority
+Strong problem-solving skills (critical, strategic, and evaluative thinking)
+Ability to synthesize complex data concepts into easily comprehended messages
+Required Education and Skills
+Bachelor's degree required in related field
+2 - 4 years of SSMS & T-SQL experience a MUST
+2 - 4 years of ETL Automation (SSIS Packages)
+Relational Data Base Architecture experience
+SSAS / Tabular Modelling preferred

@@ -1,0 +1,29 @@
+This position is for April Health, Alphascript's parent company.
+
+Innovative, adaptable, results-driven. If these are words that you would use to describe yourself, our Data Engineer role might be right for you. We’re looking for someone who can resolve routine problems promptly and efficiently, and who can come up with creative solutions for problems that aren’t so routine.
+The role of the Data Engineer is to work with Data Architect to build Enterprise Data Management system from the ground up. The Data Engineer also works as a liaison between the subject matter experts in other departments and the Information Systems Department to understand the business requirements, needs and gaps in order to identify the appropriate datasets to perform analysis and develop insightful reports and dashboards.
+You should be open to new and different ways to accomplish your work and be comfortable with new processes, initiatives and changes in priorities. This role requires a lot of collaboration with the Alphascript team, so you should be able to convey facts and information clearly (both verbally and written) and be comfortable sharing your ideas and proactively contributing to group objectives.
+Responsibilities
+Work with Data Architect to develop a data lake, data warehouse in local and/or Azure cloud environment
+Integrate disparate data models into coherent enterprise data models
+Develop ETL data pipelines to populate data lake and warehouse
+Actively participate in Data Governance Program to maintain metadata and data definitions
+Work in a team environment with other departments to develop reports, KPIs and dashboards (very strong communication skills)
+Interpret business requirements to identify proper tools and methods to analyze, identify and report data trends and variances
+Education and Experience
+Bachelor’s Degree in Computer Science, Computer Engineering or Information Systems with university level programming courses
+3+ years of data engineer experience
+3+ years of recent experience in ETL and data warehouse development or maintenance
+3+ years of experience in KPI, reports and dashboard development
+Experience in healthcare company is a plus
+Experience in Azure and SharePoint is a plus
+Experience in agile software development environment is a plus
+Skills and Abilities
+Proficiency in Power BI, Azure Cloud, C#, ETL (SSIS preferred), T-SQL, Excel
+Ability to develop data dictionaries of an existing database
+Ability to write, analyze and debug SQL queries
+Ability to develop dashboards and data models in Power BI; must be familiar with DAX and Power Pivot, and be willing to get proficient at them
+Ability to develop business models and perform analysis in MS Excel
+Proficiency in R and Python preferred
+Working at April Health
+We’re a growing team driven by a culture of passion and a commitment to excellence. You’ll work in a modern office alongside dedicated colleagues who work to consistently provide a superior patient experience. We offer a variety of competitive benefits like fully paid health insurance premiums, 401k matching and financial planning assistance, ongoing training and more.

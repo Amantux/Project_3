@@ -1,0 +1,24 @@
+The T1 Seller Development (T1SD) organization owns the charter to drive WW seller growth on Amazon. Our products are strategically important to the long term growth of Amazons consumer businesses, and our organization's initiatives are highly visible to Amazon's executive leadership. We will accomplish the ambitious growth goal through building innovative and scalable technical products and platform. We are seeking passionate Data Scientists to join our team to build the core models to create growth recommendation that pioneers the best seller growth experience. This is a great opportunity to build a greenfield project that serves as the foundation of our vision for the years to come.
+
+As a Sr. Data scientist on the T1 Seller Development team, you will own the development of analytical models to drive growth across the multi-billion dollar Seller business. The role will focus on developing machine learning and statistics models to prove out complex growth relationships between Sellers, Products and Programs. As one example, priority #1 for the role will be assessing behavior patterns of a Seller and correlating it to growth trajectory. The output of this will inform the development of new software and programs to drive incremental growth.
+The right candidate will have a strong interest in working with a newly formed tight knit team of data geeks that cover the full stack of data skillsets, including (1) data engineering, (2) analytics, (3) SQL and (4) ML/statistics. The right candidate will have a strong track record of independently delivering complex analytics projects, but also guiding team members around them to build out the supporting data infrastructure to execute the work.
+
+
+
+Basic Qualifications
+
+· Master's degree in Computer Science, Statistics, Applied Math, Operations Research, Economics, or a related quantitative field.
+· 5+ years experience applying machine-learning and scale-out approaches to complex problems
+· 2+ years of experience using mainstream programming language (C++, Java, Python, or similar).
+· Hands on experience with statistical analysis and R
+· Strong with SQL
+
+Preferred Qualifications
+
+· A PhD in a quantitative field (Computer Science, Mathematics, Machine Learning, AI, Statistics, or equivalent)
+· 7+ years of experience working in data science in a consumer product company
+· Expert in the areas of data science, machine learning and statistics.
+· Advanced knowledge and expertise with Data modelling skills
+· Sound business judgment with demonstrated ability to balance technical and business needs to make the right decisions about technology, models, and methodologies.
+· Experience with third-party selling on Amazon
+· Experience in business development

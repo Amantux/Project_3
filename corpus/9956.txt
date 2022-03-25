@@ -1,0 +1,29 @@
+Join us in making roads safer by making drivers better!
+
+CMT is seeking outstanding Machine Vision Data Scientists to join us in building technology to reliably collect and manage data from sensors on smartphones and connected devices in vehicles. As a member of our Data Science group, you will help accomplish our mission by designing and building solutions that solve our customer’s problems. Our company is made up of collaborative, customer-committed, and creative experts that enjoy working in a fast-paced and fun environment. We are looking for high performers to help build global-scale solutions to improve safety in an evolving mobile world.
+
+At CMT, a Machine Vision Data Scientist has the opportunity to use visual data streams to help make users better drivers. We collect dashcam and crash data and extract information from these sources to gain a contextual understanding of the environment drivers are in. Contextual information includes detection of objects (such as vehicles, pedestrians) and their motion relative to the driver, traffic modifiers (such as signals, stop signs, lane lines), driver alertness, etc. These contextual cues are used to estimate driving risk. Models extracting contextual information and estimating driving risk are implemented on low-power mobile devices as well as on high-compute server backends thereby calling for the need for a wide range of modeling skills and techniques.
+
+Qualifications:
+
+PhD in Computer Science, Engineering, Mathematics or related technical discipline
+
+3+ years of work experience involving statistical modeling, machine learning theory and software development
+
+Strong programming skills for constructing and understanding data pipelines
+
+Preferred Qualifications:
+
+Knowledge of image segmentation, classification, temporal tracking, attention, alignment techniques.
+
+Experience implementing deep learning frameworks (TensorFlow, PyTorch ) and architectures (CNN, RNN)
+
+Familiarity with popular object detection and classification models
+
+Familiarity with object tracking methods
+
+About Cambridge Mobile Telematics
+
+At Cambridge Mobile Telematics (CMT), our mission is to make the world’s roads safer. We are the global market leader in mobile telematics with customers in over 20 countries serving millions of drivers. Our team uses mobile sensing and IoT devices, machine learning, applied statistics, and behavioral science to solve real-world problems to produce clear and actionable insights for drivers, insurers, and fleets. Founded in 2010 from an MIT research project, we still maintain a startup culture – often experimenting and nimbly adjusting to the needs of our customers and the market. We are well-financed thanks to customer revenues and a $500M investment from the SoftBank Vision Fund. Please visit
+
+www.cmtelematics.com [http://www.cmtelematics.com/] for more information and follow @cmtelematics on Twitter.

@@ -1,0 +1,49 @@
+The search science team @WalmartLabs in Hoboken, NJ is dedicated to the mission of helping millions of customers every day in finding the right products. We are at the forefront of attacking one of the most complex problems of e-commerce. Whenever a user types in a query or browses through product categories on the web site, phone or the iPad, our service goes to work. We mine billions of search queries and tens of millions of products to find the most relevant products for our customers. Team members take end-end responsibility in analyzing large amounts of data, creating complex models, improving their accuracy and deploying these models to serve customers. As part of this team, you'll solve some of the most fascinating and impactful problems in machine learning, information retrieval, NLP or computer vision problems. The algorithms you develop will champion customers need to express their intent and our goal to understand their preferences, implicitly or explicitly across devices and modalities (voice, text, image etc.).
+
+You will develop and deploy machine learned models, to engage and converse with our customers and to understand their goals and expectations to enable them to make the right purchase decision. Your work will be visible to millions of customers and you will have a direct impact on the goals of the Fortune #1 enterprise. If you speak and think machine learning then we want to talk to you. Come join our team and be part of this exciting journey.
+
+Responsibilities:
+
+Apply machine learning and optimization algorithms to maximize the efficiency of our business and minimize risks.
+
+Build, validate, test and deploy predictive models using machine learning techniques to explain or predict behavior and solve a variety of business and engineering problems.
+
+Identify, collect, and explore the right data used for predictive modeling and algorithm development.
+
+Requirements
+
+5+ years of work and research experience in the machine learning field.
+
+A deep understanding of machine learning and interest in applying it at scale.
+
+Experience with data cleaning, preparation, and feature building and selection techniques.
+
+Experience working with large data sets to solve problems.
+
+Experience with Spark and/or Hadoop would be very helpful.
+
+Experience with deep learning library like TensorFlow and/or PyTorch is highly desirable.
+
+Experience with GPU Computing is highly advantageous.
+
+Prior hands-on experience with Python, Java or Scala and the ability to write reusable and
+
+efficient code to automate machine learning pipeline and data processes.
+
+Effective communication, interpersonal and teamwork skills.
+
+Ability to handle multiple concurrent projects while working independently and in teams.
+
+Ability to work in a fast-paced and deadline driven environment.
+
+Ph.D. or MS in Computer Science, Statistics, Computational Linguistics, Artificial Intelligence,
+
+Operations Research, Mathematics or related fields.
+
+About Jet
+
+Jet is reshaping ecommerce as we know it. Based in Hoboken NJ (just 10 min from Manhattan), we are a shopping site on the relentless pursuit to build the greatest shopping experience in the world. At Jet, we believe in bold. That means taking risks, asking "why not", looking where no ones looked before and bringing it! Our engineers are utilizing world class technologies, to optimize the supply chain, remove unnecessary costs, sprinkle in some surprise and delight all while saving customers every penny possible and we're just getting started. At Jet, we have worked hard to build a culture that stresses the importance of learning and sharing knowledge. If you want to be part of the team that is changing the shopping norm and learning a lot along the way, we have a hunch you'd look good in purple.
+
+See what we've been up to
+
+"A New & Improved Saving Experience ( https://medium.com/jet-stories/a-new-improved-savings-experience-f01846576b2c#.llzaqggis )" // by Jessica Anerella, Product Design at Jet.com

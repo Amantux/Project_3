@@ -1,0 +1,28 @@
+We believe a large part of building an effective insurance company can be solved with a principled quantitative framework. We are committed to the rigorous development and effective deployment of modern statistical machine learning methods to problems in the insurance industry.
+
+One of our core data science challenges is understanding driving behavior from smartphone sensor data. Dealing with the flood of sensor data requires us to build large-scale systems that ride the big data wave rather than being submerged by it. There is no shortage of computational and statistical challenges to tackle. In addition to telematics risk-scoring, the Data Science team works on core problems in pricing model development, reserving methodology, marketing, and strategic business forecasts.
+
+Root is looking for an experienced Senior Data Scientist to help drive the future of our team. This includes taking high-level business challenges, translating them into a concrete, quantitative framework, and shepherding solutions from R&D into production. A Senior Data Scientist is expected to join the team with years of industry or academic experience in directly relevant topics.
+Responsibilities
+Strong individual contributor with interest in growing a team of data scientists.
+Applying principled methods to quantitative insurance challenges in areas such as telematics risk scoring, pricing, reserving, and estimating customer lifetime value.
+Learning the required tools to get the job done, e.g. Python, R, Spark, SQL, etc.
+Building data processing pipelines to quickly iterate on research ideas and put them into production.
+Effectively communicating insights from complex analyses.
+Taking end-to-end ownership of problem domains and continuously improving upon quantitative solutions.
+Minimum Qualifications
+Masters or PhD in a quantitative discipline with 5+ years of applying advanced quantitative techniques.
+Exceptional communicator and storyteller.
+Strong programming skills with experience using modern packages in R and Python.
+Demonstrated experience building, validating, and applying statistical machine learning methods.
+Strong programming skills in R or Python
+Knowledge of data science technical stacks
+Why join Root? Because we believe the best way to move the world forward is the relentless pursuit of ideas. We build things that ought to exist, but would not exist, if we were not building them. We do this through immense dedication to our craft, an unwavering focus on our fellow human beings, and a maniacal obsession with the quality of our creations. Problems stick in our craw, and we don’t let them go until we solve them. We believe in the scientific process and know that experimentation is the best way to find truth. We don’t hold ideas down no matter how crazy they may seem. We foster them, nurture them, and unceasingly test them. If you are the kind of person that loves tackling big problems with a collaborative group of people until you find solutions, you belong here.
+
+We believe our customers deserve insurance that is:
+Fair. We lean on data, not demographic labels.
+Affordable. We base rates on good driver performance.
+Personal. We give our customers the power to affect their rates.
+Easy. We create an intuitive experience.
+Accessible. We make information clear.
+Beyond. We are never, ever satisfied with the status quo.

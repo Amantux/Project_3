@@ -1,0 +1,41 @@
+As a Senior Data Engineer at Guild, you'll work across teams to help us build the next generation of data products. You'll work with world class data engineers to design and build the scalable, robust, and high-quality data infrastructure and data pipelines needed to support growth of our education network and SaaS platform. Ultimately, you'll help change the landscape for how we think about delivering education products to learners across the country by building a digital solution that connects students, employers, and universities to deliver education at an affordable price to students.
+
+A day in our open, collaborative workspace might look like:
+Designing, building, and expanding Guild's backend data infrastructure, including data pipelines, ETL, data ingestion, data APIs, and data warehouses
+Building APIs that can be used internally or externally to serve crucial information across systems, partners, and teams
+Translating complex business requirements into usable, scalable data models and systems
+Mentoring other engineers and analysts on the team and sharing technical knowledge to enable others to be more effective at their jobs
+In this role, you'll expand your expertise by:
+Evolving our data products now and in the future by contributing to our backend data architecture
+Working in an agile team environment with a high performing engineering team
+Taking on a cross-functional role that will expose you to the ins and outs of Guild (working with our Product, Design, Client Success, and Student Services teams)
+Receiving feedback through our learning-focused, twice annual Structured Growth Conversations
+You'll know if you're successful by:
+Choosing and leveraging the latest technologies in data engineering to automate data integration and loading, such as, Amazon Redshift, Redis, Java, Scala, Spark, Kafka, Python, S3 and PostgreSQL
+Leveraging your experience to design solutions that will be the backbone of a highly scalable, reusable, backend data infrastructure
+Ensuring our data is clean, accurate, and secure
+Thriving in fast-paced and scaling environment
+You'll join a team:
+From diverse backgrounds – from traditional higher education, to athletic coaches, to politicians, to mental health professionals (and more!)
+Of learners & problem-solvers dedicated to our dual mission of changing education in America while building a successful, high-growth company
+Committed to building a diverse, equitable, and inclusive environment that you'd support every day
+What you'll add to Guild – as an individual and part of the broader team:
+Experience building data pipelines, custom ETL processes and data warehouses
+Experience with one or more programming languages such as Java, Python, or Scala
+Expertise in database technologies such as Redshift, PostgreSQL, Redis, and working with large sets of data
+Experience deploying solutions to cloud technology services such as Amazon Web Services
+Experience improving software products through engineering best practices such as refactoring, reusability, TDD and continuous integration
+A proven ability to thrive in changing environments by having a fast, flexible, cooperative work style
+Strong communication skills and the ability to effectively explain technical concepts to other engineers, analysts, product managers, and stakeholders.
+Experience with BI tools such as Looker, Tableau, Kibana, Chart.io, etc.
+Basic experience in statistical analysis, text processing, and machine learning
+Passion for higher education and our mission – Guild is pioneering a new path for education as a benefit in a complicated and regulated space – success means quickly and effectively adapting your expertise
+A drive to work hard and plan for how you can refresh/recharge while working in a startup
+Something else? Wonderful, we're curious to learn more about you!
+About Guild:
+
+Guild is increasing economic mobility for working adults by partnering with the largest employers in the country to offer education as a benefit to their employees via our marketplace of nonprofit universities and education institutions. Guild's proprietary technology platform facilitates the administration of this innovative benefit and our team of coaches helps each employee navigate the path back to school, providing individualized support from day one through program completion.
+
+We also just became the latest female-led company to hit a $1billion valuation and the only B-corp with those qualifications. Our Series D round was led by Ken Chenault, General Catalyst Partners chairman and former CEO of AMEX, and joined by Emerson Collective, LeadEdge Capital, and Iconiq.
+
+Guild Education is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

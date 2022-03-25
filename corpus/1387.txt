@@ -1,0 +1,16 @@
+Chicago, Illinois
+Skills : AWS (s3, redshift, EMR, EC2, lambda, SNS), unix shell scripting,python spark,scala
+Description : MUST HAVE
+
+AWS (s3, redshift, EMR, EC2, lambda, SNS),
+unix shell scripting,python
+
+spark,scala
+
+
+PREFER TO HAVE
+
+snowflake,presto,
+arrow,Airflow,Hadoop,Hive
+
+AWS (s3, redshift, EMR, EC2, lambda, SNS), unix shell scripting,python spark,scala

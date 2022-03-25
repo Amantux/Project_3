@@ -1,0 +1,79 @@
+Position Purpose
+
+Want to work at the forefront of artificial intelligence and agriculture? Cargill has a significant presence across agricultural supply chains. With that footprint comes massive amounts of data, that can inform us about markets, business practices, and research efforts. This position will be part of the Engineering and Data Sciences team and will bring strong technical skills to our data science capabilities. You will work on a multidisciplinary team exploring, connecting, and mining data. You will develop models using algorithms for pattern detection and optimization. In this position you will be managing projects that use advanced analytics and machine learning techniques, such as prediction and forecasting, classification and computer vision, reinforcement learning, and probabilistic programming, to develop solutions that help deliver significant value to Cargill’s businesses and functions. Candidates will be exposed to a wide spectrum of Cargill businesses working with data from Food Ingredients & Bio-Industrial, Animal Nutrition, Protein & Salt, Agricultural Supply Chain, and Metals & Shipping. You will be integral to teams developing POCs, MVPs, and fully-deployable solutions.
+
+Principal Accountabilities
+
+60% Develop and code models by applying algorithms to large data sets, including exploratory techniques, model development, back-testing, accuracy measurements, and communication.
+
+10% Network with business stakeholders to develop a pipeline of forecasting data science projects aligned with business strategies. Translate complex and ambiguous business problems into project charters clearly identifying technical risks and project scope.
+
+10% Work in a cross-disciplinary project team of database specialists, data scientists, and business subject-matter experts to complete project deliverables on-time and within budget, plus communicate technical solutions to a non-technical audience.
+
+10% Design strategies and propose algorithms to analyze and leverage data from a variety of sources.
+
+10% Continuously seek out industry best practices and develop skills to create new capabilities for data analytics at Cargill to improve business decisions.
+
+Qualifications
+
+Required Qualifications
+
+Bachelor’s degree from an accredited college/university in Data Science, Machine Learning, Computer Science, Statistics, Mathematics, Engineering, Computational Biology, Physics, Operations Research or related fields and 2+ years of work experience in a commercial setting using data science skills; OR a Master’s degree from similar college/university in similar areas
+
+2+ years’ experience in at least three algorithms types (e.g. regression, trees-based models, neural networks, ensembles, clustering, time series, reinforced learning, NLP, probabilistic programming, etc.)
+
+Experience in various feature engineering and selection techniques, e.g. binning, PCA, t-sne, transformations, etc.
+
+Experience using models for purposes such as prediction, categorization, forecasting, computer vision, computer listening, optimization or trading
+
+Experience in model deployment, tuning and performance monitoring
+
+Experience in Python (e.g. pandas, scikit-learn, bokeh, nltk), R (e.g. ggplot2, cluster, dplyr, caret), or other languages.
+
+Experience in software development environment and code management/versioning (e.g. git)
+
+Experience with SQL
+
+Preferred Qualifications
+
+Master’s degree from an accredited college/university in Data Science, Machine Learning, Computer Science, Statistics, Mathematics, Engineering, Computational Biology, Physics, Operations Research or related fields
+
+PhD degree from an accredited college/university in Data Science, Machine Learning, Computer Science, Statistics, Mathematics, Engineering, Computational Biology, Physics, Operations Research or related fields
+
+Experience with databases, Hadoop, and distributed computing frameworks
+
+Experience with testing machine learning and/or statistical projects and putting them into production
+
+Experience in agriculture or commodity businesses
+
+Experience with weather and geospatial data
+
+Experience with consumer, marketing, or sales data
+
+Experience working in a cloud environment e.g. Amazon Web Services
+
+Experience with deep learning frameworks (e.g. Tensorflow, MxNet)
+
+Success Factor
+
+Ability to understand complex and ambiguous business needs and applying the right tools and approaches.
+
+Curious, self-motivating, driven and have a passion for problem solving
+
+Collaborative team player
+
+Excellent communication skills, both written and verbal
+
+Strong presentation skills. Ability to present technical solutions to non-technical persons in an easy to understand way
+
+Equal Opportunity Employer, including Disability/Vet.
+
+Job Research and Development
+
+Primary Location US-MN-Wayzata
+
+Schedule Full-time
+
+Job Type Standard
+
+Shift Day Job

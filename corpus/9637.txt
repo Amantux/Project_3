@@ -1,0 +1,115 @@
+WHAT WE'RE ABOUT
+
+We're creating an airline people love. It begins with each Alaska Airlines employee, bringing unique strengths and energy to our work in the air and on the ground. Every day, we go beyond what's expected and reach for the remarkable, together.
+
+YOUR ROLE
+
+Role Summary
+
+The Data Scientist translates business strategy into advanced analytical experiments and models that blend data sources for creative insights into business problems and to align performance with the company's strategic goals, detailed action plans, key performance indicators, and progress metrics. This includes refining the end to end process from data ingestion, extract, profile, validation, cleansing, resolving data engineering challenges to modeling, training data, deploying the model as a REST endpoint, and general productionization.
+
+Scope & Complexity
+
+This individual contributor is a subject matter expert with the technical proficiency and knowledge of relational database concepts needed to lead strategic projects and maximize Alaska Airlines and Horizon Air performance across such areas as pricing, inventory control, distribution, e-commerce, scheduling, and network planning. This role defines the long-term strategy for data service offerings to the business and exercises considerable latitude and initiative to solve complex problems. Responsibilities include data analysis, demand modeling and research, optimization, and solution design/delivery.
+
+Key Duties
+
+Participates as the lead data and business information subject matter expert in the development of requirements and solutions for leadership, strategy, and Information Technology Services (ITS) data.
+
+Exercise considerable latitude and initiative to solve for continuous improvement processes through data-driven analysis, reporting, and goal setting to drive incremental improvement for key areas.
+
+Manage the full data lifecycle, including data collection, data mining, data integration, data analysis, extracting insights, and results visualization.
+
+Investigate, research, and combine new and disparate large-scale data sources and analytical tools to enhance and/or extend the data-driven business process.
+
+Develop and implement systems and technology to produce decision support tools that enable leaders and system practitioners to take strategic action in a dynamic competitive environment.
+
+Collaborate with analysts in the business and infrastructure team to create an environment that enable data discovery, model training, and running predictions.
+
+Set up patterns and framework to enable building data models in a repeatable and self-serve manner.
+
+Productionize models in Cloud environment, which would include, but not limited to: automated processes, CI/CD pipelines, monitoring/alerting, and troubleshooting issues. Present the model and results to technical and non-technical audience
+
+Select and apply the best supervised and unsupervised machine learning methods to develop insight and answers to business questions.
+
+Develop visualizations grounded in statistical best practices that facilitate effective communication of results and key findings to internal and external customers; including technical and non-technical audience.
+
+Select and influence the best methodologies to approach business problems; contributing to the continuous improvement of stakeholder processes and data life-cycle.
+
+Coordinate with stakeholders and ITS on the integration and support of business systems.
+
+Job-Specific Skills, Experience & Education
+
+Required
+
+A minimum of 7 years of experience in analytical role.
+
+A Bachelor's degree, preferably with a focus in mathematics, economics, operations research, finance, statistics, business, computer science, or technical/engineering.
+
+Advanced SQL skills.
+
+Basic database design, staging data, filtering, data preparation; experience using databases such as Oracle, SQL Server, etc.
+
+Experience coding in Python or R.
+
+Expert in visualization techniques; experience using data visualization tools such as Tableau, Power BI, etc.
+
+Experience developing optimization/simulation models.
+
+Expert in descriptive and diagnostic statistics (including Bayesian stats), sampling methodology, residuals analysis / ANOVA, hypothesis / significance testing, and experimental design.
+
+Modeling proficiency in unsupervised and supervised machine learning, such as linear and logistic regression, KNN, cluster analysis, and Neural networks.
+
+Demonstrated project management experience.
+
+Ability to work well with multiple, diverse teams.
+
+Experience with Spark, Hive, calling and building APIs
+
+Experience with machine learning models - know when to use what, pros/cons of each model
+
+Experience with productionizing machine learning models
+
+Experience working with cross functional teams (infrastructure engineers, data engineers, data scientists, business analysts, product owners, software engineers)
+
+High school diploma or equivalent.
+
+Minimum age of 18.
+
+Must be authorized to work in the U.S.
+
+Preferred
+
+Familiarity with Azure offerings: such as Azure Databricks, Azure Machine Learning Service, Azure Datalake Store, Azure Cosmos DB, Azure Data Factory, and Azure functions
+
+Familiar with various data transformation and visualization tools, such as Tableau, Power BI, PySpark, and Presto
+
+Understand how to use various file types efficiently, such as csv, json, xml, parquet, and delta
+
+Scala and C# experience
+
+High-level programming language experience.
+
+A Master's degree or a Ph.D.
+
+Job-Specific Leadership Expectations
+
+Embody our values to own safety, do the right thing, be kind-hearted, deliver performance, and be remarkable.
+
+EQUAL EMPLOYMENT OPPORTUNITY
+
+Horizon Air and Alaska Airlines are equal opportunity employers. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, age, protected veteran or disabled status, or genetic information.
+
+Horizon Air and Alaska Airlines will consider for employment qualified applicants with arrest and conviction records in accordance with applicable Federal, State, and local laws.
+
+Horizon Air and Alaska Airlines participate in E-Verify, a service of the Department of Homeland Security (DHS) and Social Security Administration (SSA), where required.
+
+Job ID 35037
+
+Location Seattle, WA
+
+FLSA Status Exempt
+
+Full/Part Time
+
+Regular/Temporary Regular

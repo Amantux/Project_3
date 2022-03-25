@@ -1,0 +1,20 @@
+Mandatory Skills - +12 years' hands on experience modeling data and developing database for master data management and/or similar enterprise application(s) in retail domains. TOOL ERWIN
+Must Have
+Ability and proven experience in translating business needs and business processes into data requirements.
+Experience in good SQL and Big Data system
+Extensive knowledge in Canonical Model and Data Vault modelling.
+Extensive experience on data modelling on Customer domain, Item, Organization/Location Domains. Should have experience modeling complex and multiple hierarchies, normalized and de-normalized objects, and Associations
+Experience on Retail or QSR based Industry models is a very big plus. Example - ARTS, REDW, RDS or QSR specific industry model
+Ability to independently lead working sessions with cross functional teams to understand and analyze impact of requirements and changes to data structures.
+Ability to independently review data model with all stakeholders such as enterprise architects, solution architects, development teams and business.
+Proven experience in developing conceptual, logical and physical data model for customer/Party and product domains .
+Utilize standards and best practices to define and articulate models and document them according to the enterprise standards and guidelines.
+Solid understanding of master data concepts, processes, and tools including data modeling, data profiling, data quality assessment, data integration and data governance.
+Should have excellent communication skill.
+Good to Have
+Experience in using SQL & other data extraction, reporting and analytic tools to develop, test, monitor and troubleshoot systems related issues.
+Expertise in performing source/target data analysis, data quality assessment, data validation and data reconciliation.
+Design and implement batch data integration, develop data mappings and data load routines and other artifacts necessary to implement ETL/ELT type integrations.
+Ability to work with cross technical teams to diagnose issues and optimize performance of database queries.
+Minimum 5 years' experience with MDM customer and/or product domain data architecture
+Bachelors in Computer Science or related field is a Plus

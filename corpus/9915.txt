@@ -1,0 +1,63 @@
+What's the role?
+
+The Team-
+
+Ever checked in somewhere on social media? Ever tracked your online orders? You might be using HERE Technologies every single day without even realizing it. You can find us everywhere: in vehicles, smartphones, drones or third-party apps. We believe that with the right people, we will continue to be a game-changer in the technology industry and improve the daily lives of people around the world. Find out more by clicking the video below or going HERE.
+
+Come join the HERE’s Location & Services Places Ingestion Pipeline team, responsible for identifying Points Of Interest (Places) by processing large volumes of raw data from a variety of sources using Machine Learning and Heuristics Models to improve the content coverage, accuracy, and freshness. Our collaborative environment offers a good work-life balance. You will be part of an energetic and dedicated team that works on challenging tasks in distributed processing of large data & streaming technologies which runs on Java/Spark/Scala/AWS. In addition to the technical challenges this position offers, you will have every opportunity to expand your career both technically and personally in this role.
+
+The Role-
+
+Help design and build the next iteration of process automation in HERE Places -Location & Services.
+
+Design, prototype, build, test and deploy models for statistical/predictive modeling techniques, advanced data analysis and complex algorithms to improve a wide variety of both internal data-driven processes.
+
+Develop and evaluate machine learning models using large datasets and scaling up successful prototypes and implementing a reliable automated production workflow for the model.
+
+Develop the scalable microservices that hosts the algorithms in both on-premise and cloud environments.
+
+Act as an expert in areas of data mining, machine learning, statistics, and predictive analysis and modeling.
+
+Who are you?
+
+You are collaborative and enjoy working in a dynamic workplace with leading edge technologies. To be successful you'll need much of the below:
+
+Masters in a discipline such as Computer Science and/or related field with an emphasis or thesis work on one or more of the following: data mining, machine learning, computational statistics/science/engineering and optimization.
+
+5+ years related professional experience.
+
+Computer Science fundamentals in object-oriented design, data structures, algorithm design, problem solving, and complexity analysis.
+
+Programming experience with Python,Java, Scala, Spark, SQL, shell script etc.
+
+Experience with common machine learning techniques such as preprocessing data, training, evaluation of classification and regression models, and statistical evaluation of experimental data and building,
+
+Knowledge of professional software engineering standard methodologies for the full software creation process, including coding standards, code reviews, source control management, build processes, testing, and operations.
+
+Familiarity with agile software development methodology and scrum ceremonies.
+
+What do we offer?
+
+An opportunity to work with exceptional people
+
+Challenging problems to solve
+
+Work that makes a difference in the world
+
+Freedom to decide how to perform your work
+
+Variety in the types of projects and problems you will tackle
+
+Feedback so you will know how well you are doing
+
+Collaborative, Supportive Colleagues
+
+Make HERE your destination, we are just getting started. Apply today.
+
+Equal Opportunity Employer: Race/Color/Sex/Sexual Orientation/Gender Identity/Religion/National Origin/Disability/Vets.
+
+#LI-BL1
+
+Who are we?
+
+Ever checked in somewhere on social media? Ever tracked your online orders? You might be using HERE Technologies every single day without even realizing it. You can find us everywhere: in vehicles, smartphones, drones or third-party apps. We believe that with the right people, we will continue to be a game-changer in the technology industry and improve the daily lives of people around the world. Find out more by clicking the video below or going HERE.

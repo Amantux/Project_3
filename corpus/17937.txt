@@ -1,0 +1,28 @@
+Fractal's Overview:
+Fractal Analytics is a strategic AI partner to Fortune 500 companies with a vision to power every human decision in the enterprise. Fractal is building a world where individual choices, freedom, and diversity are the greatest assets; an ecosystem where human imagination is at the heart of every decision. Where no possibility is written off, only challenged to get better. We believe that a true Fractalite is the one who empowers imagination with intelligence. Fractal has been featured as a Great Place to Work by The Economic Times in partnership with the Great Place to Work® Institute and recognized as a 'Cool Vendor' and a 'Vendor to Watch' by Gartner.
+
+Data engineering services required:
+Build data products and processes alongside the core engineering and technology team
+Collaborate with senior data scientists to curate, wrangle, and prepare data for use in their advanced analytical models
+Integrate data from a variety of sources, assuring that they adhere to data quality and accessibility standards
+Modify and improve data engineering processes to handle ever larger, more complex, and more types of data sources and pipelines
+Use Hadoop architecture and HDFS commands to design and optimize data queries at scale
+Evaluate and experiment with novel data engineering tools and advises information technology leads and partners about new capabilities to determine optimal solutions for particular technical problems or designated use cases
+Big data engineering skills:
+5+ years of hands-on experience in one or more modern Object-Oriented Programming languages (Java, Scala, Python) including the ability to code in more than one programming language.
+5+ years of hands-on experience applying principles, best practices, and trade-offs of schema design to different database systems, including relational (Oracle, MSSQL, Postgres, MySQL) and NoSQL (HBase, Cassandra, MongoDB)
+2+ years of hands-on experience implementing batch and real-time data integration frameworks and/or applications in private or public cloud environments (AWS, Azure, GCP, etc.) using various technologies (Hadoop, Spark, Impala, etc.), including assessing performance, debugging, and fine-tuning those systems
+Deep understanding of the latest data science and data engineering methods and processes to develop impactful and reusable patterns and abstractions from enterprise-level data assets
+3+ years of hands-on experience in all phases of data modeling from conceptualization to database optimization
+Demonstrated ability to perform the engineering necessary to acquire, ingest, cleanse, integrate, and structure massive volumes of data from multiple sources and systems into enterprise analytics platforms
+Proven ability to design and optimize queries to build scalable, modular, efficient data pipelines
+Ability to work across structured, semi-structured, and unstructured data, extracting information and identifying linkages across disparate data sets
+Proven experience delivering production-ready data engineering solutions, including requirements definition, architecture selection, prototype development, debugging, unit-testing, deployment, support, and maintenance
+Ability to operate with a variety of data engineering tools and technologies; vendor agnostic candidates preferred
+Domain and industry knowledge:
+Strong collaboration and communication skills to work within and across technology teams and business units
+Demonstrates the curiosity, interpersonal abilities, and organizational skills necessary to serve as a consulting partner, includes the ability to uncover, understand, and assess the needs of various business stakeholders
+Experience with problem discovery, solution design, and insight delivery that involves frequent interaction, education, engagement, and evangelism with senior executives
+Ideal candidate will have extensive experience with the creation and delivery of advanced analytics solutions for healthcare payers or insurance companies, including anomaly detection, provider optimization, studies of sources of fraud, waste, and abuse, and analysis of clinical and economic outcomes of treatment and wellness programs involving medical or pharmacy claims data, electronic medical record data, or other health data
+Experience with healthcare providers, pharma, or life sciences is a plus
+Experience with Kafka is required

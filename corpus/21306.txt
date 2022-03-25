@@ -1,0 +1,22 @@
+Job Description
+
+What you'll do:
+Create and develop data classification/data quality rules for identification of Schwab's most sensitive data
+Document user stories, requirements, and testing plans to support implementation of EDC application operating models to align with Data Governance Office requirements
+Document design and perform testing to support metadata import and export jobs and creation of data governance reporting/KPIs
+Oversee setup and design for classification of data for Schwab's enterprise applications
+Adhere to SDLC policies and standards for technical management of the EDC platforms for Schwab
+Support enterprise entities during data governance onboarding and utilization of EDC
+Required skills:
+2+ years of experience as a business system analyst working with data governance including 1+ years of recent experience in development of a data quality and/or data classification rules
+3-5 years of data-centric IT work
+Experience working in an Agile Scrum team environment
+Ability to understand, translate, and communicate abstract concepts/ideas in a clear, concise, and easy to understand communication style
+Must demonstrate analytical, problem solving, and research skills that allow working with problems that are complex and often unique
+Preferred Skills:
+Bachelor's degree in Business, Finance, Information Technology or a related field
+Experience with Informatica Enterprise Data Catalog (or other technical metadata tools) strongly preferred
+Experience with data governance tools including technical and business metadata, data lineage, etc.
+Experience working in a regulatory, risk, and compliance environment and supporting associated projects
+Experience in the financial services industry a plus
+Experience with JIRA and Confluence

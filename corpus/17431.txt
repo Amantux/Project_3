@@ -1,0 +1,58 @@
+A career at T. Rowe Price says you want to contribute and make a difference at a leading global investment management firm where success results from the dedication our associates have in building success for our clients. We are a growing organization of associates from diverse backgrounds, experiences, and perspectives.
+We take a long-term view on associates and their careers. Our associates do phenomenal work with purpose, and as a result, we provide growth opportunities through in-person and online training, management development programs, and career development on the job.
+If you are seeking a meaningful work experience along with a workplace culture that thrives on teamwork, we invite you to explore the opportunity to join us.
+
+
+Engineers at T. Rowe Price are playing a key role in helping build the future of financial services, working hand-in-hand with business partners to create client experiences that are changing the way people invest. We’re looking for software engineers at all levels to join our Technology Development Center located in Union Square NYC. We want technologists with a fresh perspective who are passionate about solving complex business, data and technical challenges. You’ll work with smart, talented people across our business to create groundbreaking, next-generation applications for n-tier cloud architectures. You’ll be involved, hands-on, through the entire development cycle. And you’ll redefine the way our traders, portfolio managers and analysts serve our clients.
+
+We will expect you to be agile / to lead / to think outside the box. In return, we’ll give you challenging work that has an impact / Opportunities to learn and grow / and a collaborative culture that encourages every member of our team to bring their point of view to the table—because that’s how we help our clients succeed. The TDC is working to develop the firm's next generation data distribution platform, with the aim to seamlessly deliver real-time and on-demand investments data to a global network of distributed trading and research platforms. We are employing new paradigms such as cloud computing, lightweight microservices, and distributed and non-relational databases to deliver elastically scalable, globally distributed and highly resilient software services.
+
+Designs, develops, modifies, adapts and implements short- and long-term solutions to information technology needs through new and existing applications, systems, databases and applications infrastructure. Reviews and interprets system requirements and business processes. Codes, tests, debugs and implements software solutions.
+Requires in-depth knowledge and expertise in their own job discipline and working knowledge of related disciplines
+Leads projects or work streams within broader projects
+Accountable for work of self and sometimes others, provides process and standards advice in area of specialty
+Works independently, receives minimal guidance
+Acts as a resource for colleagues with less experience
+ROLE SUMMARY AND JOB RESPONSIBILITIES
+Craftsman-like approach to building software; takes pride in engineering excellence and instills these values in others
+Demonstrable passion for technology (e.g. personal projects, open-source involvement) while using their problem solving capabilities to deliver solutions utilizing a top end engineering approach
+Focused on delivering value to the business with relentless efforts to improve process
+Exceptional technology skills; recognized by your peers as an expert in your domain
+A proponent of strong collaborative software engineering techniques and methods: agile development, continuous integration, code review or pairing, unit testing, refactoring and related approaches
+Strong analytical ability, true problem solvers
+High achiever who combines ambition with humility and is happy to let their performance do the talking
+Accountable for all parts of the software development lifecycle for their projects
+Contributes to the development of best practices within their group
+Leads code reviews and actively participates in providing feedback on others’ designs/code
+Accountable for technical debt in their own software
+At some levels, capable of leading a small team of developers for a specific project
+Takes control of complex or vague problems and steps through them in a rational way
+Makes tactical vs. strategic tradeoffs
+Flexible in his or her thinking; able to evolve a solution when additional information or ideas are presented
+Mentors junior members of the team
+Identifies when junior engineers need help and provides it in a positive way that promotes confidence.
+Proactively helps team members/make suggestions to improve practices.
+BUSINESS KNOWLEDGE
+Able to work directly with business stakeholders
+Decisions show a focus on current and future business priorities, together with fiscal responsibility
+Can articulate business needs and translate them into technology solutions
+REQUIREMENTS
+Professional Object Oriented development experience (Java preferred)
+Experience with automated delivery pipelines, agile delivery and test-driven development
+In-depth experience with server-side frameworks such as Spring Boot and Tomcat
+In-depth knowledge of software design patterns
+In-depth RDBMS development experience (e.g. SQL Server, PostgreSQL, MySQL)
+Working knowledge of Spark, Redshift, Apache Ni-Fi helpful
+Solid understanding of cloud native architectures (AWS, etc.) for containerized microservices
+Experience working in a dynamic, fast-paced, Agile team environment Strong interpersonal skills; able to establish and maintain a close working relationship with quantitative researchers, traders and senior business leaders
+Confident communicator; able to argue a point concisely and deal positively with conflicting views
+Enthusiasm for learning & results oriented
+A solid understanding of financial markets and instruments is a plus
+Stays current with many best-of-breed technologies
+Shows a commitment to quality by implementing suitable software using unit/integration and acceptance testing at the time of feature development
+Debugs large components with limited assistance and assists other engineers with debugging
+At some levels, leads code reviews and actively participates in providing feedback on others’ designs/code
+Performs as an expert in one or more parts of the software lifecycle (e.g., coding, testing, deployment). Oversees significant pieces of development within the development lifecycle
+Designs and develops practical APIs and abstractions.
+Owns technical debt in their own software
+T. Rowe Price is an equal opportunity employer and values diversity of thought, gender, and race. We believe our continued success depends upon the equal treatment of all associates and applicants for employment without discrimination on the basis of race, religion, creed, colour, national origin, sex, gender, age, mental or physical disability, marital status, sexual orientation, gender identity or expression, citizenship status, military or veteran status, pregnancy, or any other classification protected by country, federal, state, or local law.

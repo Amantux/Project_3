@@ -1,0 +1,53 @@
+Riot Games was founded in 2006 by Brandon Beck and Marc Merrill with the intent to change the way video games are made and supported for players. In 2009, Riot released its debut title League of Legends to worldwide acclaim. The game has since gone on to become the most played PC game in the world and a key driver of the explosive growth of esports. Players are the foundation of our community and it's for them we continue to evolve and improve the League of Legends experience. Riot Games is headquartered in Los Angeles, CA and has 23 offices worldwide. Delivering content to a global audience of millions of players whilst also building new games affords Riot's Engineering discipline with a mountain of exciting and technically complex challenges. That's where you come in.
+
+Riot's Data developers build tools to understand and delight our worldwide players using petabytes of data and state of the art data processing technology. Handling the potential these data offer is a tremendous and complex task. As we continue delivering and scaling content to passionate gamers, our discipline has challenges and opportunities centered on crafting, building, and maintaining data products that support the organization's growth. Whether you are a Data Scientist modeling game systems, a Data Engineer bringing scale and efficiency to systems, or a Data Architect organizing data in ways that make data products more efficient and dependable, we need you to help to push forward our "Player Experience First" goals.
+
+Riot Data Scientists combine their wide technical expertise across data processing, automation, machine learning ("ML"), artificial intelligence ("AI"), and experimental design to inform decisions and develop data-powered products. This role sits with the League Data team, which is the hub for all Data Science and Data Engineering on LoL. The team collaborates on multi-functional projects that range from in-game features to content design to infrastructure. In a world of high volume and complexity, you will develop products that bring personalized experiences to players, optimize our strategy, and refine in-game features.
+
+-----------------
+
+Responsibilities:
+
+-----------------
+
+You will design and implement data science systems (ML, AI, optimization, and statistics)
+
+You will pair with data engineers to design deployments and pipelines
+
+You will participate in peer review, paper reading, and tech prototyping
+
+You will identify new product opportunities and collaboratively develop them with partners
+
+You will represent data products to non-technical partners and collaborators
+
+-----------------------
+
+Desired Qualifications:
+
+-----------------------
+
+An MS or PhD in Engineering, Computer Science, Physics, Statistics, or related field
+
+2+ years data science industry experience
+
+1+ years productionalizing code into live systems
+
+Proficiency in Python and SQL
+
+Hands on experience with petabyte-processing-capable technologies such as Spark or Hadoop
+
+-------------------------------
+
+Applicable Technologies/Skills:
+
+-------------------------------
+
+Familiarity with iterative development methodologies like Scrum, Agile, etc.
+
+Familiarity with git
+
+Experience collaborating with a product team to deliver data solutions
+
+It's our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law, including the City of Los Angeles' Fair Chance Initiative for Hiring Ordinance relating to an applicant's criminal history (LAMC 189.00).
+
+#LI-JC1

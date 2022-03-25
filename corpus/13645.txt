@@ -1,0 +1,34 @@
+The Data Scientist supports the operations teams with insights gained from analyzing operational data from the manufacturing sites. She/he/them drives business results by discovering solutions hidden in large data sets and works in close relationship with stakeholders to improve business outcomes. She/he/them identifies opportunities for process optimization by applying models to typically large data sets and by testing their effectiveness in support of the different courses of action.
+
+This is an individual contributor role.
+
+Responsibilities:
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business value.
+Mine and analyze data from company databases to drive optimization and improvement of engineering work processing, decision making and anomaly detection.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Develop custom data models and algorithms to apply to data sets.
+Use predictive modeling to improve and optimize yield and maintenance.
+Develop model quality testing methodology.
+Coordinate with different functional teams to implement models and monitor outcomes.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+Requirements:
+Master's or PHD in Statistics, Mathematics, Computer Science or another quantitative field.
+1 - 2 years of related experience working as a Data Scientist or in a similar type of data science role.
+Familiar with the following techniques:
+Advanced machine learning algorithms and statistics, e.g.: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+Statistical and data mining techniques, e.g.: GLM/Regression, Random Forest, Boosting, Trees, Text Mining, etc...
+In support of the above, familiar with the following software
+Coding in different languages, e.g. C, C++, Java, JavaScript, etc.
+Querying databases and using statistical computer languages, e.g.: R, Python, SQL, etc.
+Distributed data/computing tools, e.g.: Map/Reduce, Hadoop, Hive, Spark/DataBricks, Kafka, etc.
+AI frameworks, e.g.: Pytorch & Torch, TensorFlow, Caffe, Gurobi etc..
+Business Intelligence and Visualization tools, e.g.: Qlik, Tableau, Spotfire, MS PowerBI, etc
+Cloud providers, e.g.: MS Azure, Google, AWS S3
+Competencies
+Strong problem solving skills.
+Excellent written and verbal communication skills for coordinating across teams.
+A drive to learn and master new technologies and techniques.
+Willing to travel globally
+ON Semiconductor (Nasdaq: ON) is driving energy efficient innovations, empowering customers to reduce global energy use. The company is a leading supplier of semiconductor-based solutions, offering a comprehensive portfolio of energy efficient power management, analog, sensors, logic, timing, connectivity, discrete, SoC and custom devices. The company's products help engineers solve their unique design challenges in automotive, communications, computing, consumer, industrial, medical, aerospace and defense applications . ON Semiconductor operates a responsive, reliable, world-class supply chain and quality program, a robust compliance and ethics program, and a network of manufacturing facilities, sales offices and design centers in key markets throughout North America, Europe and the Asia Pacific regions. For more information, visit http://www.onsemi.com .
+
+ON Semiconductor is an equal opportunity employer. The Company maintains policies and practices that are designed to prevent discrimination or harassment against any qualified applicant or employee to the extent prohibited by federal, state and local laws and regulations. By way of example, discrimination on the basis of race, ethnicity, color, religion, ancestry, national origin, citizenship, sex (including pregnancy, childbirth, or related medical conditions), age, marital status, sexual orientation physical or mental disability, medical condition, genetic information (including test results), status as a Vietnam-era or special disabled veteran, uniform service member status, political affiliation, union membership, gender identity or gender expression, or any other characteristic protected by applicable law is prohibited.

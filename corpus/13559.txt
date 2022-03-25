@@ -1,0 +1,33 @@
+JOB DESCRIPTION
+Position Duties and Responsibilities:
+• Develop new methods and maintain bioinformatics pipelines
+• Provide bioinformatics support to R&D by analyzing and interpreting Next Generation Sequencing (NGS) data
+• Participate clinical product development and new assay validation
+• Perform NGS data analysis and QA/QC platform
+• Provide troubleshooting and improvement for bioinformatics pipeline and applications for clinical tests
+
+Position Requirements:
+• PhD degree in bioinformatics, computational biology, computer science, or related discipline or MS degree plus at least 3 years industrial experiences
+• Knowledge of cancer genomics and human genetics
+• Experience in Illumina sequencing data, bioinformatics NGS pipelines and public domain tools for variant and CNV calling (BWA, SAMTools, Bowtie2, Picard, PINDEL, GATK, CVNKit etc.)
+• Extensive experience with somatic and oncology analytics bioinformatics pipelines
+• Proficiency in the use of bioinformatics databases (RefSeq, dbSNP, ClinVar, COSMIC etc)
+• Experiences with HPC and storage systems in cloud-based and on-premise computing environments
+• Experiences with relational databases such as MySQL, PostgreSQL or Microsoft SQL Server
+• Proficiency with Python, Perl, R, bash, Java, and SQL in Linux/Unix environment
+• Ability to read and write a variety of structured/semi-structured formats (example: XML, JSON, CSV, TSV)
+• Working knowledge of code repository best practices and distributed version control
+• Excellent oral and written communication skills
+• Ability to work within a team, across-departments, and as an independent contributor, requiring minimal supervision
+
+Location& Schedule:
+• This position is located at our Headquarters in Aliso Viejo, CA and regular schedule during normal business hours (8am - 5pm PST). All non-local candidates must be willing to commute or relocate for this position.
+• Flexible schedules& remote work can be discussed directly with the hiring manger(s).
+• Location& schedule is subject to change at any time for any reason based on business needs.
+
+About Us:
+Ambry Genetics Corporation is a CAP-accredited and CLIA-licensed molecular genetics laboratory based in Aliso Viejo, California. We are a genetics-based healthcare company that is dedicated to open scientific exchange so we can work together to understand and treat all human disease faster.
+
+At Ambry, everyone is welcome. A career at Ambry Genetics is a chance to be part of a dynamic company that aims to improve health by understanding the relationships between genetics and human disease. We earned our reputation as industry leaders by responsibly introducing cutting-edge genetic testing solutions and continually sharing what we learn with the global scientific community. We also support those with genetic conditions through the Mauli Ola Foundation and other nonprofit organizations.
+
+At Ambry you will be learning, challenging yourself, and having fun while collaborating with teammates through the open exchange of ideas. Employees at Ambry Genetics have many perks, including an onsite café with complimentary smoothies and infused waters! We also offer access to gym memberships, onsite food trucks,“Lunch and Learns,” and more. Our outstanding benefits program includes medical, dental, vision, 401k, FSA, and generous paid time off (PTO) program. Ambry Genetics is an Equal Opportunity Employer (EOE) and we maintain a drug-free work environment.

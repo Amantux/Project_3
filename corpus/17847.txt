@@ -1,0 +1,24 @@
+Ocient is searching for an experienced Data Center Engineer with strong problem-solving skills and a passion for solving hard problems to help maintain and expand Ocient's "as a service" offering of its cutting-edge data warehouse.
+
+Responsibilities:
+Assist with design and operations of highly available and efficient infrastructure hosting Ocient DB and related services, such as message queues and storage systems.
+Install and cable switches and servers
+Architect expansions of our datacenter space, including racks, network, power, and other equipment needed.
+Maintain system diagrams, configurations, runbooks and technical documentation.
+Administer Linux-based servers, including OS and application installation and configuration.
+Administer IP network switches and other equipment in the high performance, highly available network design.
+Develop and maintain monitoring of all equipment and services.
+Qualifications:
+2+ years of experience in data center engineering, network engineering, or system administration.
+Ability to work flexible hours and serve in on call rotations.
+Ability to lift 40lbs.
+Ideal Experience:
+Experience with SSAE18 SOC2 Compliance.
+Experience with large scale networks and protocols or technologies like BGP, OSPF, IPSEC, spine-leaf architecture, EVPN.
+Scripting experience for automation and monitoring.
+DevOps experience.
+Experience managing and operating cloud infrastructure. (e.g. AWS, GCP, Azure)
+
+About Ocient:
+
+Ocient is a Chicago-based, venture-funded startup building a SQL compliant, exabyte-scale database platform that achieves better performance than Hadoop and NoSQL systems. It is a distributed system optimized for NVMe drives, RDMA networks and high core count processors and is written in C++. We are led by a management team with seven successful startup exits, including Cleversafe which was one of the largest software startup exit in Chicago's history.

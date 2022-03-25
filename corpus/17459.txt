@@ -1,0 +1,54 @@
+Company Description
+
+Pinto is building the world’s smartest food data platform, with a mission of making food data fully personalized, transparent, and easily accessible for both consumers and businesses alike. Over 40% of Americans now follow a specific dietary eating pattern, and our data platform is organizing the world of food at scale across every dimension that matters to these modern consumers (diets, health conditions, ingredients, allergies/intolerances, personalized health needs, etc.). The era of personalization is here and we’re building Pinto to power it .
+
+We’re now looking for a Data Engineer to join our growing engineering team. In this role you’ll envision and build critical features for our data platform, design and implement API methods, and improve the overall performance and reliability of our data processing platform as we scale.
+
+This is an amazing opportunity for someone looking to join in the early stages of a rapidly growing technology startup solving a meaningful problem in food and the broader world of personalization in nutrition and consumer products.
+
+Job Description
+
+What you will be doing
+You’ll make key decisions on the architecture and implementation of scalable data processing and analytics structure
+You’ll help build data processes and pipelines, and craft the tools to make them efficient
+You’ll work on the backend of the Pinto stack using Javascript, Node.js, MongoDB, GraphQL
+You’ll work with our Research, Nutrition & Data Analyst teams to gain a deep knowledge of underlying use cases in food data and nutrition
+You’ll design systems that improve the accessibility and scalability of our data platform
+You’ll automate and handle the life-cycle of systems and platforms that process our data
+You’ll build and scale data infrastructure that powers batch and real-time data processing across our data platform
+You’ll evolve the maturity of our monitoring systems and processes to improve visibility and failure detection in our infrastructure
+You’ll use your skills to help solve real-word problems, while learning about the food, nutrition, and consumer product goods (CPG) ecosystem
+Qualifications
+4+ years of software engineering and/or Big Data Engineering experience
+Degree in Computer Science, Computer Engineering, or Statistics (or commensurate experience)
+Experience working with large, complex data sets from a variety of sources
+Proven track record of building and shipping large-scale engineering products
+3+ years experience with Node.js and the related ecosystem
+Experience with MongoDB, GraphQL, Redis, REST APIs in general
+Ability to collaborate cross-team with engineers, data analysts, product managers and business analysts
+You are a strong communicator. Explaining complex technical concepts to designers, support, and other engineers is no problem for you.
+Self-awareness and a desire to continually learn and improve
+Bonus points for
+An open GitHub profile to showcase some of your work (or code samples)
+Have built a deployment pipeline
+Have built a full stack application
+Experience with or strong interest in data science and/or machine learning
+Additional Information
+
+About Us
+
+Pinto is a smarter food data platform, designed for the needs of today's consumers in the world of personalized diet. To do this, we're rapidly bringing the world of food online and mapping it across every dietary need and preference — everything from general diets like Vegan, Paleo, and Keto, to health conditions like Diabetes Management, Heart Health, and Kidney health, to the long tail of ingredient and allergen considerations like Lactose Free, Gluten Free, Nut Free, and No Added Sugars. Over 40% of Americans now follow a specific dietary eating pattern, and our data platform is organizing the world of food at scale with partners that include Whole Foods and Kroger.
+
+Current retail partners include Whole Foods, Kroger, and more. Learn more about Pinto and the technologies we power: http://business.pinto.co
+
+See some examples searches:
+
+-- Vegan meat substitutes: https://bit.ly/2m14P0P
+
+-- Paleo snack bars: https://bit.ly/2lCOcYS
+
+-- Gluten-free cereals that are also kosher: https://bit.ly/2m1510
+
+Come join us on our mission as we build the future of smart, personalized product data!
+
+All your information will be kept confidential according to EEO guidelines.

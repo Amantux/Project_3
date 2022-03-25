@@ -1,0 +1,46 @@
+The Modern Applications and Data Intelligence (MADI) team is a group of highly experienced software development and data engineering experts who provide customized services to a wide variety of businesses. We strive to hire exceptional individuals who are interested in helping organizations make smarter business decision through data-driven insights. We continually educate and certify our consultants so that we can assure our clients the most comprehensive technical expertise possible, to stay competitive today and in the future.
+
+Becoming a consultant at Netrix takes more than technology expertise. It requires exceptional communication skills and strong analytical and problem-solving abilities. In addition, our consultants must understand our clients needs from both a technical perspective and a business point of view.
+
+Data Engineer Role
+
+As a Data Engineer on the MADI team you will provide leadership in creating and maintaining data enabled solutions that meet the business needs of the organizations we serve. You will work with clients to define requirements and design, perform data analysis necessary to understand business challenges, and provide innovative solutions to ensure consistent and flexible delivery of data. You will drive implementation of new analytics tools by staying knowledgeable of technology development.
+
+Responsibilities
+Analyze integration & BI needs, collaborate with other technical leads to design and implement integration & BI platforms
+Map out data systems/objects and define/design required integration, ETL & BI systems/processes
+Document and maintain technical configuration and mapping information
+Design, build and deploy system integrations for various enterprise and business-specific applications
+Collaborate with customers to analyze BI needs and design/develop reports in Power BI to satisfy business requirements
+Perform testing for integrations and data pipelines to ensure deliverables will satisfy business requirements
+Experience and Competencies
+Minimum two years hands-on experience in a development, systems/data analyst or similar role with a strong preference for experience in the area of BI/DW design, development, and implementation
+Ability to design and deliver solutions for enterprise data warehouse and business intelligence platforms
+Ability to collaborate with technical and non-technical individuals to solve complex business problems
+Strong ability to design and create modern and innovative BI experiences for customers
+Ability to model business process workflows, elicit system/application requirements, and design system/data interactions based on requirements discussions with business users/stakeholders at various levels in the organization
+Technology Skills & Experience
+Exposure to multiple database systems and familiarity with common architecture practices for data engineering
+Strong understanding of software systems design and application programming/development principles
+Strong understanding of relational databases, web applications and/or other distributed application architectures
+Strong ability to write SQL queries for data ingestion & transformation
+Knowledge of core data warehouse and BI concepts
+Strong ability to write custom scripts/programs to parse and manipulate structured and semi-structured data (JSON, TEXT, XML)
+Ability to create and consume web services (REST, SOAP) using Javascript, Python, C# or other languages
+Strong ability to implement complex business rules/logic in program code
+Solid understanding of API design, management, and security
+Awareness of industry-standard data security practices
+Preferred experience with a major ETL/ELT tool such as Azure Data Factory
+Understanding of OLAP model and OLTP database models
+Preferred experience with self-service BI tools, preferably PowerBI
+Preferred experience working with various third-party data sources (MS Dynamics AX, HR/ERP systems, Salesforce, etc.) and connections to these through APIs as well as direct-to-DB
+Experience with data quality practices and patterns in a DW environment
+Experience maintaining source code in a repo (ex: Git) and understanding of CI/CD pipelines, preferably with Azure DevOps
+Proficiency in Visual Studio, VS Code, SSMS, and/or SSDT preferred
+General/Soft Skills
+Strong organization skills and high attention to detail
+Ability to multi-task with good decision-making, analytical and problem-solving abilities
+Ability to learn the intricacies of a new industry and move through new topics at a rapid pace
+Excellent oral, written, presentation and interpersonal communications skills
+Ability to present and explain technical information in a way that establishes rapport, persuades others, and gains understanding
+Ability and willingness to accept responsibility for tasks and deliverables

@@ -1,0 +1,39 @@
+Minimum qualifications:
+
+Bachelor's degree in a quantitative discipline (Statistics, Operations Research, Bioinformatics, Economics, Computational Biology, Computer Science, Mathematics, Physics, Electrical/Industrial Engineering) or equivalent practical experience.
+
+Experience with one or more programming languages (C++, Python, Java).
+
+Experience with SQL, data processing software (Hadoop, Spark, Pig, Hive) and tools (MapReduce, Flume).
+
+1 year of relevant work experience.
+
+Preferred qualifications:
+
+Master's degree in a quantitative discipline.
+
+Hands-on experience in information retrieval, mining, or machine learning.
+
+Knowledge of data warehousing concepts, including technical architectures, infrastructure components, ETL, and reporting/analytics tools and environments.
+
+Ability to work cross functionally with technical and business stakeholders with demonstrated listening, critical thinking, and problem solving skills.
+
+About the job
+
+Whether you're on a consumer product (like Gmail, Search, Maps, Chrome, Android) or a business product (Google Ads, AdSense, Google Marketing Platform, Analytics), you take part in a complete marketing experience as you lead every facet of the product's journey. From determining positioning, naming, competitive analysis, feature prioritization and external communications, you help shape the voice of the product and help it grow a consumer base. This means you work with a cross-functional team across Sales, corporate communications, legal, webmasters, product development, engineering and more. In this role, you'll be involved with product marketing strategy from beginning to end.
+
+Our current projects are focused on identifying emerging consumer trends in Search and YouTube usage relevant for marketers, and understanding diversity trends for advertising content, to help foster equitable representation of all audiences. As a Data Scientist, you will evaluate and improve the data sets and pipelines that power our projects. You will bring scientific rigor and statistical methods to the challenges of data quality, insights and system performance to meet the users' high standards. You will be expected to use machine learning and AI tools (e.g. TensorFlow) for projects. You will build and prototype analysis pipelines iteratively to provide insights at scale through external tools, reports as well as internal dashboards. You will develop comprehensive knowledge of Google data structures and metrics, advocating for changes where needed for product development. This includes data gathering and requirements specification, processing, analysis, ongoing deliverables, and presentations.
+
+Know the user. Know the magic. Connect the two. At its core, marketing at Google starts with technology and ends with the user, bringing both together in unconventional ways. Our job is to demonstrate how Google's products solve the world's problems-from the everyday to the epic, from the mundane to the monumental. And we approach marketing in a way that only Google can-changing the game, redefining the medium, making the user the priority, and ultimately, letting the technology speak for itself.
+
+Responsibilities
+
+Solve difficult, non-routine analysis problems; apply advanced analytical methods as needed and work with large complex data sets.
+
+Integrate new sources into existing data sets and perform new calculations, including production code to maintain, improve and optimize analysis at scale.
+
+Create and track metrics about data pipelines and quality via dashboards. Identify quality issues, ensure they are visible to the appropriate stakeholders, and drive to resolution.
+
+Prioritize and work well in an environment with competing demands from multiple stakeholders in Marketing.
+
+At Google, we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form.

@@ -1,0 +1,30 @@
+RESPONSIBILITIES:
+
+Kforce has a client that is seeking a Lead Healthcare/Claims Data Scientist in San Diego, California (CA).
+
+Summary:
+The Lead Healthcare/Claims Data Scientist will undertake applied research and development in the areas of data science, biomedical informatics, and outcomes research, using the latest technologies in machine learning and distributed computing. You will utilize your previous experience with claims data and EHR data to develop platforms and algorithms developed may be used in a range of diagnostic and therapeutic applications, such as sleep disorder breathing, chronic obstructive pulmonary disorder, and other respiratory disorders, as well as co-morbidities such as congestive heart failure and diabetes and chronic disease management. You will utilize your previous experience with claims data and industry background to support our teams
+
+Responsibilities:
+Research, customization, and development of statistical and machine learning algorithms to meet unique and complex project requirements that have broad business impacts; tasks include defining hypotheses, executing necessary tests and experiments, evaluating, tuning and optimizing algorithms and methods to specific situations
+Analysis of big data for data-driven solution validation, evaluation and technology innovation
+Optimize data analysis processes and systems for better efficiency and maintainability
+Coordinate with different functional teams to implement models and monitor outcomes
+Leading project teams to achieve milestones and objectives
+Anticipating challenges and issues and recommending process, product, and service improvements
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions
+REQUIREMENTS:
+Degree in Computer Science, Engineering, Statistics, Applied Mathematics, or related fields. Minimal 8 years' industry or academic experience in data science
+Post-graduate research experience (Masters or PhD) in a field encompassing Data Science, Applied Statistics, Biomedical Informatics, or Outcomes research
+Experience in analyzing very large medical insurance claims with SAS and/or SQL
+Strong Experience in healthcare outcomes, healthcare insurance claims research
+Experience in building predictive models using medical history, EHR data, and claims data
+Senior level experience in leading a team or mentoring analysts and scientists
+Expert in statistical analysis methods, including analysis of variance, regression, time series analysis, survival analysis, etc.
+Expert knowledge in artificial intelligence and machine learning fundamental theories and data mining technologies
+Previous Healthcare, pharmaceutical, or similar domain experience and utilization of claims data
+Thorough knowledge of data engineering or informatics systems
+Leadership and hands on experience with development of data analytics systems, including data exploration/crawling, feature engineering, model building, performance evaluation, and online deployment of models
+Proficient with R programming and server side programming in Python or Java
+Hands on experience in handling large and distributed datasets on Hadoop, Spark, Hive, Pig or Storm, etc.
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.

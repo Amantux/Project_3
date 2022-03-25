@@ -1,0 +1,24 @@
+Job Description
+As a rapidly scaling technology company, we are expanding our commercial deployments team to support revenue growth. We are currently looking for a Data Scientist to join our growing team. In this position, the Data Scientist will work closely with our deployments team to deliver cutting-edge analytics/software solutions to our customers. The Data Scientist will deliver/implement analytics solutions that create value for our customers and ensure sustained customer satisfaction with the technical services implemented.
+
+At Tagup, we work with equipment owners, operators and manufacturers around the world to increase infrastructure reliability, reduce costs, and improve safety. Candidates for this position should have direct experience working with enterprise customers.
+
+Responsibilities:
+Develop and deploy analytic models on industrial data
+Integrate new data sources into our data pipeline
+Build and maintain data processing and visualization tools
+Validate model performance and quantify value creation potential
+Co-author technical reports on data analysis and model performance
+Work with customers to understand new data sources and the industrial processes they will support
+
+Desired Skills:
+3+ years of data science work experience
+Deep experience with python
+Experience shipping products and features early/often
+Experience working with very large datasets, especially using Dask
+
+Bonus Points:
+Background in time series analysis, hidden Markov models, Gaussian processes, or variational inference.
+Familiarity with node.js or front-end JavaScript
+Benefits:
+Join us in the vibrant Greentown Labs community, the largest cleantech incubator in the United States. As a fast growing technology company, we offer all members of the team part-ownership through an Employee Stock Option Plan. We also offer health insurance benefits, discounted gym memberships, and encourage a team-oriented work environment with regular company outings.

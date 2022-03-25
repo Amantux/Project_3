@@ -1,0 +1,17 @@
+We are looking for a senior software engineer with expertise in planning and controls for autonomous vehicles or mobile robots. Your contributions will focus on building motion planning and decision-making capabilities for autonomous systems. Your work will drive the design and development of cutting edge AV systems.
+
+In addition to your engineering contributions, by working in our dynamic and customer-focused team culture, you will contribute to and learn from best practices in the nascent autonomy industry. We move fast and we focus on excellence, for our products and for our business. If you are hands-on and looking for a place to have a multiplying effect on making autonomous systems a reality, Applied is the place for you!
+At Applied, you will
+Design and implement planning and controls software components that ensure safe and predictable vehicle behavior
+Build out foundational libraries that push our platform beyond the state of the art in terms of performance and fidelity for planning and controls development, such as scalable computational geometry or vehicle-terrain interaction models
+Work closely with in-house teams to build a fully functional autonomous stack
+We’re looking for someone who
+Is passionate about turning their domain expertise into tooling that boosts the productivity of teams working on various real-world applications of autonomous systems
+Has three or more years of experience building software components or (sub) systems that address real-world planning and control challenges
+Has hands-on experience with more than one domain of relevant software frameworks or tools, such as middlewares, benchmarking suites, data sets and related pipelines, or algorithmic libraries
+Has a deeper understanding of the concepts and methods behind any frameworks or libraries that they worked with
+Nice to have
+MSc or PhD in planning, control, or a closely related field
+Deep hands-on expertise in relevant algorithms or methods, such as non-linear optimization, computational geometry, numerical analysis, distributed systems
+Experience building and shipping software frameworks or tools
+Autonomy is one of the leading technological advances of this century that will come to impact our lives. The work you’ll do in our Los Angeles office will meaningfully accelerate the adoption of autonomous systems in the defense world. You will have a unique perspective on the development of cutting edge technology while working with major players across the industry and the globe.

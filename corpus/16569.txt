@@ -1,0 +1,18 @@
+AppZen delivers the world’s leading AI platform for modern finance teams. Starting with business spend, we automate manual process, uncover problems, and optimize decision making for enterprises around the globe, including one-fourth of the Fortune 500. Our platform combines patented deep learning, computer vision, and semantic analysis with intelligence from thousands of online data sources to understand financial transactions in business context and make decisions before those transactions happen. AppZen is a must have for CFOs and their teams to reduce spend, achieve compliance, and streamline process.
+
+We’ve taken off this year! Since we released our platform in 2016, over 1,800 enterprises have standardized on AppZen, including three of the top ten banks, four of the top ten media companies, three of the top ten pharmaceutical manufacturers, two of the top five aerospace companies, and five of the top ten software providers. We were a Gartner Cool Vendor last year, have been recognized as one of the fastest-growing technology companies in the market, and we just announced $50 million in Series C funding.
+
+We are looking for a Machine Learning Engineer to come and work on our growing AI stack. You will be working with a team of highly skilled machine learning engineers. If you are excited about computer vision and natural language processing, AppZen is the right place for you to apply and grow your skills.
+
+Must-Have:
+Solid understanding of machine learning fundamentals, and familiar with standard algorithms and techniques
+Ability to analyze a wide variety of data: structured and unstructured, observational and experimental, to drive system designs and product implementations Expert knowledge of a statistical computing language such as Python
+You should have a knack to solve problems in a creative manner: when annotation is not available, identify how to use the existing data and get going
+Knowledge of probability and statistics, including experimental design, predictive modeling, optimization, and causal inference. Experience in design and deployment of real-world, large-scale, user-facing systems
+Ensure data quality throughout all stages of acquisition and processing, including such areas as data sourcing/collection, ground truth generation, normalization, transformation, cross-lingual alignment/mapping, etc.
+Manage your own process: identify and execute on high impact projects, triage external requests, and make sure you bring projects to conclusion in time for the results to be useful
+Must have 4+ years of industry experience
+Preferred:
+Excellent written and verbal technical communication skills; communicate proposals and results in a clear manner backed by data and coupled with actionable conclusions to drive business decisions
+M.S. or equivalent experience in Computer Science/Engineering with graduate level experience in ML and/or Statistics, or other relevant technical field
+Come as you are, we do not discriminate! We celebrate, support, and thrive upon our diverse customer and employee base.

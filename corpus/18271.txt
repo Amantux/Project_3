@@ -1,0 +1,31 @@
+Location:
+Phoenix, AZ
+
+Qualification:
+BE/ B.Tech
+
+Experience:
+7 Years
+
+Technology:
+Big Data
+
+Role/Skills:
+Very strong server-side Java experience, especially in an open source, data-intensive, distributed environments.
+Strong previous professional experience building Distributed Solutions dealing with high volumes of data.
+Hands on experience on HDFS, Hive, Pig, Sqoop and NOSQL.
+Experience/ knowledge working with batch processing/ real-time systems using various open source technologies like Solr, Storm, Kafka, etc.
+Experience in Apache Spark Batch and/or Spark Streaming (at least 6 months)
+Good understanding of algorithms, data structure, performance optimization techniques and exposure to complete SDLC and PDLC
+Well aware of architectural concepts (Multi-tenancy, SOA, SCA etc.) and NFR’s (performance, scalability, monitoring etc.)
+
+Responsibilities:
+Implementing various solutions arising out of large data processing (GB’s/ PB’s) over various NoSQL, Hadoop and MPP based products—both on-premise and in the cloud
+Actively participating in various architecture and design calls with Big Data customers
+Developing Hive scripts and being involved in writing MapReduce jobs
+Implementing complex projects dealing with considerable data size (GB/PB) and with high complexity
+Leveraging your experience with Hadoop and software engineering to help our customers drive value from their data
+Working with Sr. Architects and providing implementation details to the Offshore team
+Conducting sessions/ writing whitepapers/ Case Studies pertaining to Big Data
+Being responsible for timely and quality deliveries
+Fulfilling organizational responsibilities – sharing knowledge and experience with other passionate Impetus professionals, conducting various technical development sessions and training on new technologies

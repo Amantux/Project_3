@@ -1,0 +1,53 @@
+Cargill is committed to helping the world thrive. From bringing new purchasing models that enrich the lives of small cocoa farmers to applying the latest technology and data to sustainable shrimp farming, our employees take on the enormous responsibility of nourishing the world. To accomplish our bold goals, employees are empowered with tools, encouragement and support. Join the brightest minds at Cargill and do something that matters!
+
+Job Purpose and Impact
+
+The Demand Forecasting Data Scientist applies strong technical skills to building predictive models. In this position you will be developing projects that use standard statistical forecasting and machine learning techniques that also collect external inputs, to develop solutions that help deliver significant value to Cargill’s businesses and functions. You will be integral to teams developing Proof Of Concepts (POCs), Minimum Viable Products (MVPs), and fully-deployable solutions. This position develops high-value solutions across Cargill, including Food Ingredients & Bio-Industrial, Animal Nutrition, Protein & Salt, Agricultural Supply Chain, and Metals & Shipping.
+
+Key Accountabilities
+
+You will develop and code models by applying algorithms to large data sets, including exploratory techniques, model development, back-testing, accuracy measurements and communication.
+
+You can expect to translate complex and ambiguous business problems into project charters, clearly identifying technical risks and project scope. You'll network with business partners to develop a pipeline of forecasting data science projects aligned with business strategies. And ensure strong communication of technical solutions to non-technical audiences.
+
+You'll design strategies and propose algorithms to analyze and use data from a variety of sources.
+
+On our multidisciplinary team of database specialists, data scientists, and business subject-matter guides, you'll focus on delivering work on-time and in budget. If you like to continuously seek out best practices and develop skills to build new capabilities for data analytics, this role would be a good fit for you.
+
+Qualifications
+
+Minimum Qualifications
+
+Bachelor’s degree in Data Science, Computer Science, Math, Engineering or related field plus 2 or more years business experience using data science skills; OR a Master’s degree or PhD in Data Science, Computer Science, Math, Engineering or related field
+
+Comprehensive knowledge of time series and temporal machine learning techniques, including ARIMA, exponential smoothing, ARCH/GARCH, and testing for seasonality, lags, hetero-skedasticity, and multicollinearity.
+
+Proficiency in R (e.g. ggplot2, forecast, tidyverse, caret, tseries, prophet) or Python (e.g. pandas, scikit-learn, bokeh, nltk).
+
+Proven ability to present to non-technical audiences.
+
+Knowledge of model tuning, deployment, and monitoring.
+
+Preferred Qualifications
+
+Experience in agriculture or commodity business; weather & geospatial data, and consumer & marketing/sales data.
+
+Experience in databases, Hadoop, and distributed computing frameworks.
+
+Experience in software development environment and code skills in the day of the life management/versioning (e.g. git).
+
+Strong SQL
+
+Knowledge of feature engineering and selection techniques (binning, PCA, t-sne, transformations, etc.)
+
+Equal Opportunity Employer, including Disability/Vet.
+
+Job Research and Development
+
+Primary Location US-MN-Wayzata
+
+Schedule Full-time
+
+Job Type Standard
+
+Shift Day Job

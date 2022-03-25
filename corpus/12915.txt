@@ -1,0 +1,34 @@
+Job Description
+
+At Shipt, we are transforming the grocery shopping experience and giving time back to consumers.
+
+Shipt is growing and we are searching for a Senior Data Scientist to join our team! At Shipt, we work at the intersection of a multi-sided marketplace and we're looking for help understanding our data, optimizing existing processes, and making predictions to improve the product and experience.
+
+Our team develops customer facing machine learning models that enable product recommendations and targeted promotions. Our ideal candidate will be able to devise and apply core algorithms that strengthen Shipt's marketplace and advance the industry state of the art.
+
+What You'll Gain
+
+You will get experience working with a cross-disciplinary team shipping real-world products to our customers around the nation. You will also receive hands-on mentorship from your friendly teammates on topics ranging from design to career advice
+
+Your Responsibilities
+Develop a thorough understanding of all personalization algorithms and evaluate them as they relate to member behavior, recommendations, sponsored items, and profitability
+Work through all phases of development including problem formulation, data understanding, model prototyping, evaluation, deployment and maintenance
+Collaborate with other members of the Data Science and Data Engineering teams on ways to approach problems, audit code, and share new techniques
+Work closely with functional team leaders (Product, User Research, Marketing, etc.) to explain your findings and support reproducibility
+Develop systems and techniques for model evaluation in both offline and online settings
+Stay abreast of developments in the field and contribute to its advancement
+Requirements
+5+ years of experience with machine learning and data science in an operational setting
+Demonstrated proficiency with SQL
+Demonstrated high degree of proficiency with one of Python or R
+Bachelor's Degree in a quantitative field
+Nice to Haves
+Comfortable writing and debugging production code
+Strong eye for detail
+Prior experience with recommender systems for e-commerce
+Experience deploying machine learning models
+Knowledge of game theory and mechanism design
+Published machine learning research
+Familiarity with on-demand and/or multi-sided marketplaces
+Graduate degree in a quantitative field
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

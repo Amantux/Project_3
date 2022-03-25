@@ -1,0 +1,24 @@
+SUMMARY
+
+
+At Hulu, the number one priority is our customers. We make business decisions around our customers preferences. The Data Science Team at Hulu combines deep data analysis and research of our rich user data to present a compelling vision around user retention and preferences across the vast ecosystem of Hulus product offerings and content. We are looking for a Data Scientist who is passionate about developing, improving and operationalizing models for personalizing content recommendations at scale. You will be engaged with other Data Scientists, and cross-functionally with analysts, product managers, and engineers to deliver machine learning based personalization products.
+
+WHAT YOU'LL DO
+Apply state of the art machine learning and statistics to develop personalization models
+Implement and debug models in Python using various ML frameworks (e.g. tensorflow, scikit-learn, lightGBM, etc.)
+Create and deploy training and prediction pipelines to operationalize models using a variety of technologies such Airflow/Luigi, Hive/Spark
+Collaborate with developers, program managers, and product managers in an open, creative environment
+WHAT TO BRING
+Bachelor's degree in a quantitative field (e.g. Computer Science, Engineering, Mathematics, Physics, Operations Research, Econometrics, Statistics)
+2+ years related experience with developing and operationalizing personalization models in either an academic or professional setting and 4+ years of relevant work experience
+Ability to draw insights and conclusions from data to inform model development and business decisions
+Desire to collaborate with other data scientists, data analysts, and business partners
+Familiarity with machine-learning concepts and statistics
+Proficient in analyzing data and developing machine-learning models using Python (with ML frameworks like tensorflow, scikit-learn, etc.)
+Capable of reading and writing Object-Oriented code to review and implement modeling pipelines (Airflow, Luigi, etc.)
+Working knowledge of SQL and distributed data technologies (Hive, Spark)
+NICE-TO-HAVES
+MS in Physics, Computer Science, Engineering, Economics, Statistics or related quantitative field (e.g. Econometrics, Mathematics, Operations Research)
+Experience fully integrating data science solutions into the business and operationalizing ML models
+Familiarity with Scala
+Previous project experience using time-series forecasting, clustering, or regression/classification

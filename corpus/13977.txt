@@ -1,0 +1,29 @@
+About ConcertAI
+
+ConcertAI is the leading provider of precision oncology solutions for biopharma and healthcare, leveraging the largest collection of research-grade Real-world Data and the only broadly deployed oncology-specific AI solutions. Our mission is to improve translational sciences; accelerate therapeutic clinical development; and provide new capabilities for post-approval studies to accelerate needed new medical innovations to patients and to improve patient outcomes.
+ConcertAI has emerged as one of the highest growth technology companies in Real-world Data and AI, backed by industry leading private equity companies: SymphonyAI, Declaration Partners, Maverick Ventures, and Alliance|Bernstein.
+
+Role Summary
+
+As a Data Scientist at ConcertAI you will be responsible for data exploration, analysis, and predictive/descriptive modeling on patient data for various stakeholders in the oncology and healthcare domain. You will report to the Vice President of Data Products. You should have a good mix of programming/CS, visualization, stats/math, and ML skills (with a particular strength in at least 2 of those areas), and ideally, you have been applying those skills in in healthcare. You will design methods and models around client driven needs and you will collaborate with various subject matter experts to inform those methods. You will assist the client delivery team with insights, dashboards, and ad-hoc analytics. You will also work with the engineering team to build prototypes and models for new product development.
+
+Responsibilities
+Understand client / product needs and translate them into tactical R&D initiatives with defined goals and timelines.
+Reason about healthcare specific problems to analyze visualize, interpret, and contextualize results.
+Run a variety of analytics from data QA to complex models.
+Understand the differences and tradeoffs between various ML/Stats techniques and be able to select them appropriately, and apply them in a meaningful way.
+Implement models using high level software packages (SKlearn, R, TensorFlow, Spark).
+Collaborate on software projects with engineers, providing analytical guidance and contributing to codebase.
+Requirements
+B.sc or higher in a STEM field, with formal training in CS, stats, and math.
+Strong programming abilities in at least one high level language (python, stata, R).
+Knowledge of statistical methods- regression, ANOVA, EDA, PCA, etc.
+Knowledge of machine learning methods- un/supervised, non/parametric, ensemble.
+Basic visualization skills- matplotlib/seaborn/plotly/etc, tableau.
+Experience with big data – Cloud data warehouses, cluster computing, Spark, MapReduce/Hadoop.
+Intimate familiarity with the python data science stack (pandas, sklearn, numpy/scipy, pyspark).
+Knowledge of advanced computational techniques and AI: neural networks, bayesian networks, mixture models, NLP, stochastic. optimization, HMMs, MCMC, search, NLP, image processing.
+Advanced visualization skills- interactive custom visualizations in d3.js, plotly, etc.
+Learn More About ConcertAI
+
+ConcertAI is transforming how healthcare is delivered and dedicated to improving patient outcomes in oncology by offering innovative solutions on how data and intelligence is used to solve healthcare problems. We are creating something special in our culture, by building a collaborative, engaged, patient focused, team approach to our mission. Our high-performance teams are looking to add great talent to the mix and we are hiring for the right mix of new skills and diverse mindset. Learn more about ConcertAI at www.concertai.com or on LinkedIn .

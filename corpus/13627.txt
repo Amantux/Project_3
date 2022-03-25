@@ -1,0 +1,58 @@
+Open Date 02/21/2020
+Requisition Number PRN23285B
+Job Title Data Scientist
+Working Title
+Job Grade H
+FLSA Code Computer Employee
+Patient Sensitive Job Code? No
+Standard Hours per Week 40
+Full Time or Part Time? Full Time
+Shift Day
+Work Schedule Summary
+VP Area U of U Health - Academics
+Department 00847 - Hematology
+Location Campus
+City Salt Lake City, UT
+Type of Recruitment External Posting
+Pay Rate Range 36.49 to 71.20
+Close Date
+Open Until Filled Yes
+Job Summary
+
+We are looking for a data scientist to accelerate scientific cancer related research. A strong candidate will join us in our use of big data in cancer research and patient care to discover better therapies for cancer patients, improve patient outcomes, reduce health care disparities, and optimize precision medicine. A strong candidate will have experience leading the data wrangling and design of algorithms and models to predict and solve healthcare related problems. Experience working with natural language processing algorithms for the purpose of data extraction is a desired skill. A strong candidate will be able to work with different departments across the university to leverage various data sources stored at the university’s data warehouse and huntsman cancer institute and develop a framework that can be reused for ML related cancer research.
+Responsibilities
+
+Collaborate with multidisciplinary team to develop and design algorithms such as predicting outcomes, treatment responses, and patient phenotype classification (cohort identification).
+Minimum Qualifications
+
+Bachelor’s Degree and 6-8 years of related experience in the field or related area is required.
+
+This position has no responsibility for providing care to patients.
+
+Applicants must demonstrate the potential ability to perform the essential functions of the job as outlined in the position description.
+Preferences
+
+• Master’s Degree in Computer Science, Statistics, Data Science, Medical Informatics, Applied Mathematics or related field, or a bachelor’s degree in those fields plus substantial data science work experience.
+• Strong knowledge of machine learning algorithms.
+• Demonstrate knowledge of medical informatics, data warehouse
+• Experience with data analytic and machine learning environments R, Python.
+• Experience with Big Data and data warehouse infrastructures
+• Demonstrate experience in devising complex algorithms
+• Strong written and verbal communication skills.
+• Apply deep learning and other machine learning techniques to various research problems in cancer research.
+• Demonstrate experience programing to clean and transform data and build predictive modeling with measured results programming in R or python
+• Self-motivated individual will be able to discuss and plan execution of subtasks to complete milestones in an agile environment.
+• High performance computing and parallel computing experience is desirable
+• Excellent SQL query skills querying healthcare databases.
+• Strong knowledge of medical terminologies used for billing, lab results and, patient phenotyping.
+Type Benefited Staff
+Special Instructions Summary
+Additional Information
+
+
+The University of Utah is an Affirmative Action/Equal Opportunity employer and is committed to diversity in its workforce. In compliance with applicable federal and state laws, University of Utah policy of equal employment opportunity prohibits discrimination on the basis of race or ethnicity, religion, color, national origin, sex, age, sexual orientation, gender identity/expression, veteran’s status, status as a qualified person with a disability, or genetic information. Individuals from historically underrepresented groups, such as minorities, women, qualified persons with disabilities, and protected veterans are strongly encouraged to apply. Veterans’ preference is extended to qualified applicants, upon request and consistent with University policy and Utah state law.
+To inquire about this posting, email: employment@utah.edu or call 801-581-2300. Reasonable accommodations in the application process will be provided to qualified individuals with disabilities. To request an accommodation or for further information about University AA/EO policies, please contact the Office of Equal Opportunity and Affirmative Action, 201 S. Presidents Cr., Rm 135, (801) 581-8365 (V/TDD), email: oeo@umail.utah.edu.
+
+The University is a participating employer with Utah Retirement Systems (“URS”). Eligible new hires with prior URS service, may elect to enroll in URS if they make the election before they become eligible for retirement (usually the first day of work). Contact Human Resources at (801) 581-7447 for information. Individuals who previously retired and are receiving monthly retirement benefits from URS are subject to URS’ post-retirement rules and restrictions. Please contact Utah Retirement Systems at (801) 366-7770 or (800) 695-4877 or University Human Resource Management at (801) 581-7447 if you have questions regarding the post-retirement rules.
+
+This position may require the successful completion of a criminal background check and/or drug screen.

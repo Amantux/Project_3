@@ -1,0 +1,62 @@
+Overview
+
+
+This position is open until filled with first review of resumes to take place on March 18th.
+
+The Department of Administration, Rehabilitation and Postsecondary Education (ARPE) includes three academic degrees: Master of Arts in Education with a concentration in Postsecondary Education Leadership, the Master of Science in Rehabilitation Counseling and the Doctorate in Education with a concentration in Community College/Postsecondary Education Leadership. The Department is located on Campus and the Interwork Institute is co-located in Mission Valley while the Institute’s Exceptional Family Resource Center is located at Sky Park.
+
+Interwork Institute administers approximately 50 federal grants, state contracts, and other contracts from a wide range of resources. These grants and contracts cover a diverse range of topics, i.e., master's degree in rehabilitation counseling, certificate in rehabilitation administration, capacity building, assistive technology, transition and supported employment, technical assistance and continuing education, statewide needs assessment, workforce education, postsecondary educational leadership, and community college teaching. The Interwork Institute includes six centers. There is a combination of funding through grants and contracts with the Foundation and the University.
+
+The ARPE/lnterwork Institute faculty and staff serve a large geographic area as well as diverse ethnic populations. This includes California, Arizona, Nevada, Hawaii, American Samoa, Guam, CNMI, Federated States of Micronesia, the Republic of the Marshall Islands, the Republic of Palau, other US states and selected international partnerships. There are more than 60 employees that staff and administer the grants and contracts under the ARPE/Interwork Institute.
+
+Responsibilities
+
+
+Under general direction of the Director for the Center for Distance Learning (CDL) for the Interwork Institute, the IS Analyst/Programmer I is responsible for developing and maintaining web sites and web applications:
+
+IT/Programming Duties (95%)
+Work closely with the Director of CDL and Senior Developer on all application development projects
+Create wireframes and prototypes to explore ideas for user flows
+Create automated test procedures to perform unit testing and browser testing
+Create classes and web applications modules based on the specification
+Create Section 508 and WCAG Web Accessibility standard compliant web application
+Create and maintain well-structured documentations
+Other Duties as Assigned: 5%
+Other programming/application development and the technology related duties as indicated/assigned
+Qualifications
+
+
+Qualifications & Special Skills:
+Basic foundation of knowledge and skills in technical information systems and application program packages
+1+ year of PHP application development
+Solid understanding of OOP and web application development
+Ability to understand and improve existing PHP codes in OOP environment
+Ability to manage the code using a distributed version control system
+Working knowledge of HTML, CSS, and Javascript
+Ability to understand Vue.js javascript framework
+Ability to write and run unit tests using PHPUNIT
+Ability to write well structured Javascript codes with understanding of datatypes, objects, properties, and methods
+Knowledge of how to employ the jQuery or other Javascript library for visual effects, event handling, and document manipulation
+Working knowledge of Section 508 and and WCAG Web Accessibility standard
+Working knowledge with cross browser compatibility
+Stay up to date on emerging and standard technologies
+Results-oriented self-starter who can operate under minimal supervision in an unstructured environment.
+Excellent communication skills and attention to detail
+A versatile attitude with ability to work in a small team
+Key non-technical skills should include communication and interpersonal skills, complex problem solving, results orientation, and adaptability.
+Overall understanding on Assistive Technology
+Minimum Educations & Experience:
+Bachelor’s degree, preferably in computer science or business, or equivalent training and applied experience.
+Working knowledge of a specific industry standard applications programming language and knowledge of standard systems analysis techniques.
+Preferred Qualifiations:
+One or more years experience working in PHP application development
+One or more year experience with MySQL and object-oriented programming preferred.
+One or more year experience with Laravel or similar PHP frameworks.
+One or more year JQuery experience.
+One or more year experience with Vue.js framework
+One or more year experience with Gulp, Bower, and NPM
+Previous experience with Composer
+Previous LESS or SAAS CSS Preprocessors experience.
+Previous Code revision tool such as SVN, GIT experience.
+One or more year experience with Linux command line.
+Previous experience with Phpstorm.

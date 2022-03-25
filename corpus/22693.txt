@@ -1,0 +1,34 @@
+Fixed Income Lead QA Business Analyst
+
+Company Name Morningstar
+
+Company Location 22 W. Washington St. , Chicago, IL 60602, US
+
+The Morningstar Fixed Income team provides expertise in bonds and derivatives - the data, the analytics, the use cases for target clients. It defines the fixed income capability roadmap, works with Data Operations and Data Technology organizations in sourcing and integrating value-added data, and coordinates across product squads to build new and enhance fixed income functionality. Morningstar’s Research group provides independent analysis on individual securities, funds, markets and portfolios. Morningstar is one of the largest independent sources of fund, equity, and credit data and research in the world, and our advocacy for investors’ interests is the foundation of our company.
+
+The Role: The Fixed Income team seeks an enthusiastic, results-driven senior business analyst with knowledge of and experience with fixed income securities and financial concepts. This critical role will have the opportunity to shape and design quality processes and systems within a growing and visible business line. The Lead QA Business Analyst works with data analysts, data developers, quantitative developers and project managers to ensure distribution of accurate, reliable, and timely data to clients. This individual will validate changes to the fixed income calculation library, assure the quality of data and analytics produced in production processes and delivered through front-end software and assist with model validation. You will monitor processing activities of the fixed income production data set and respond to all problems that may occur. This role is based in our Chicago office.
+
+Responsibilities:
+Guides software quality assurance practice, principles, and internal QA processes
+Continuously provides feedback for process improvements with testing activities
+Mentors junior members of the team
+Promotes QA best practice by developing quality assurance methodologies and tools
+Write effective test cases based on requirements documents, specifications and client use cases
+Analysis of automated test results and failure
+Perform exploratory testing to catch defects missed by test cases and automation
+Report defects into issue tracking system, maintain defect tracking lists
+Validate bug fixes and system builds, and write up testing summaries
+Keep Project Managers informed regarding testing status and issues found
+Perform post-deployment testing and effectively communicate with deployment team
+Environment management. Creation, upgrade and maintenance of test environments, creation and maintenance of test cases and expected results
+Requirements:
+A bachelor’s degree, with an exceptional academic record in economics, mathematics, finance, computer science, or a related field
+Experience working with fixed income data, in a QA or Business Analyst function within a software or investment company, or in an operational front, middle or back office function
+Knowledge of software testing methodologies and the Software Development Lifecycle
+Excellent analytic, writing and communication skills and a strong attention to detail
+Proven ability to manage and organize multiple projects in a flexible and fast-paced environment
+Self-motivated and the ability to work effectively with limited guidance when necessary
+Experience with project management and issue tracking systems, such as JIRA
+Experience working with relational databases (Microsoft SQL server, RedShift)
+Experience with the Microsoft Office suite of software, including Word, Excel, PowerPoint, and Outlook
+001_MstarInc Morningstar Inc. Legal Entity

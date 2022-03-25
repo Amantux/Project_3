@@ -1,0 +1,20 @@
+Data Engineering is the foundational layer of our Data & Analytics stack at Arrive. Data Engineers not only build and optimize data pipelines that transform and store data in a way that allows the rest of the organization (analysts, data scientists, other stakeholders) analyze and consume data. They are also in charge of building the systems and establishing the processes to enable the rest of the data team to develop, test, and deploy analyses and code in an efficient and scalable way.
+
+We’re looking for an experienced Data Engineer to help us grow our data infrastructure and platform. If you're seeking a role that is high impact and full of ownership....please read on.
+
+Please note...we are fully open to remote candidates for this position! Being in Chicago would be great, but not necessary.
+What you'll tackle
+Design new enterprise data models and ETL processes to populate them
+Extract and transform data from production databases and 3rd party services to provide consumable data and support functions across the organization
+Detect quality issues, track them to their root source, and implement fixes and preventative audits
+Manage and optimize Redshift clusters/data lake to ensure current health and performance and future scaling needs
+Help maintain the process we use to develop, test, and deploy good code
+Become the “go to” expert of our data. Work closely with staff to understand all data from our core systems, partner services, and any other platforms we rely on
+What you bring to the table
+Experience with AWS; expertise in Redshift, Postgres or other RDBSs (preferably column-oriented)
+Expertise in SQL and ability to write and optimize complex queries
+Experience with Docker, Elastic Container Service, Lambda a plus
+Ability to write customized software in Python, Bash, Go or other common open source languages. Experience with Airflow or similar scheduling service a plus
+Experience with CI/CD tools like Jenkins or Drone
+Creativity in approaching data organization challenges with an understanding of the end goal
+A collaborative nature and entrepreneurial spirit. Prior startup experience a huge plus

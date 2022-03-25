@@ -1,0 +1,51 @@
+Description
+
+The Data Engineer on the Enterprise Analytics team, is responsible for data acquisition strategies and integration scripting and tools, data migrations, conversions, purging and back-ups; fulfills data acquisition strategy requirements. They work with product, financial control, analysts, users and other stakeholders to understand business requirements and supports data architecture to translate into data acquisition strategies.
+
+The Data Engineer will author artifacts defining standards and definitions for storing, processing and moving data, including associated processes and business rules. Additionally, the Data Engineer will map the details within these their artifacts to business processes, non-functional characteristics, QA criteria and technical enablement. The role is responsible to be constantly thinking through the needs of the business to support efficient and error free processes.
+
+The Data Engineer, Enterprise Analytics, will be responsible for finding trends in datasets and developing workflows and algorithms to help make raw data more useful to the enterprise. He or she will also be responsible for creating data acquisition strategy and develops data set processes.
+Designs and implements standardized data management procedures around data staging, data ingestion, data preparation, data provisioning and data destruction (scripts, programs, automation, assisted by automation, etc).
+Ensures quality of technical solutions as data moves across Healthfirst environments
+Provide insight into the changing data environment, data processing, data storage and utilization requirements for the company and offer suggestions for solutions
+Ensures managed analytic assets support Healthfirst’s strategic goals by creating and verifying data acquisition requirements and strategy
+Develop, construct, test and maintain architectures
+Align architecture with business requirements and use programming language and tools
+Identify ways to improve data reliability, efficiency and quality
+Conduct research for industry and business questions
+Deploy sophisticated analytics programs, machine learning and statistical methods
+Prepare data for predictive and prescriptive modeling and find hidden patterns using data
+Use data to discover tasks that can be automated
+Create data monitoring capabilities for each business process and work with data consumers on updates
+Aligns data architecture to Healthfirst solution architecture; contributes to overall solution architecture
+Help maintain the integrity and security of the company data
+Minimum Qualifications:
+Bachelor’s Degree in Computer Engineering or related field
+7+ years’ experience in a data engineering
+10+ years’ experience in data programing languages such as java or python
+4+ years’ experience working in a Big Data ecosystem processing data; includes file systems, data structures/databases, automation, security, messaging, movement, etc.
+3+ years’ experience working in a production cloud infrastructure
+Preferred Qualifications:
+Proven track record of success directing the efforts of data engineers and business analysts within a deadline-driven and fast-paced environment
+Hands on experience in leading healthcare data transformation initiatives from on-premise to cloud deployment
+Demonstrated experience working in an Agile environment as a Data Engineer
+Hands on work with Amazon Web Services, including creating Redshift data structures, accessing them with Spectrum and storing data in S3
+Knowledge of SQL and multiple programming languages in order to optimize data processes and retrieval.
+Proven results using an analytical perspective to identify engineering patterns within complex strategies and ideas, and break them down into engineered code components
+Knowledge of provider-sponsored health insurance systems/processes and the Healthcare industry
+Experience developing, prototyping, and testing engineered processes, products or services
+Proven ability to work in distributed systems
+Proficiency with relational, graph and noSQL databases required; expertise in SQL
+Must be able to develop creative solutions to problems
+Demonstrates critical thinking skills with ability to communicate across functional departments to achieve desired outcomes
+Excellent interpersonal skills with proven ability to influence with impact across functions and disciplines
+Ability to work independently and as part of a team
+Ability to manage multiple projects/deadlines, identifying the necessary steps and moving forward through completion
+Skilled in Microsoft Office including Project, PowerPoint, Word, Excel and Visio
+WE ARE AN EQUAL OPPORTUNITY EMPLOYER. Applicants and employees are considered for positions and are evaluated without regard to mental or physical disability, race, color, religion, gender, national origin, age, genetic information, military or veteran status, sexual orientation, marital status or any other protected Federal, State/Province or Local status unrelated to the performance of the work involved.
+
+If you have a disability under the Americans with Disability Act or a similar law, and want a reasonable accommodation to assist with your job search or application for employment, please contact us by sending an email to careers@Healthfirst.org or calling 212-519-1798 . In your email please include a description of the accommodation you are requesting and a description of the position for which you are applying. Only reasonable accommodation requests related to applying for a position within Healthfirst Management Services will be reviewed at the e-mail address and phone number supplied. Thank you for considering a career with Healthfirst Management Services.
+
+EEO Law Poster and Supplement
+
+]]>

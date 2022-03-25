@@ -1,0 +1,31 @@
+About thredUP
+thredUP is the world’s largest fashion resale platform, inspiring a new generation to think secondhand first. The company has spent the past 10 years reinventing resale, building a marketplace and infrastructure now poised to power the $50B resale economy and usher in a more sustainable fashion future. Millions of consumers use thredUP as the easiest way to sell their clothes and shop over 35,000 brands at up to 90% off — online, in stores or via “try-before-you-buy” Goody Boxes. Backed by world-class investors, thredUP designed a resale engine that has redistributed nearly 100 million unique garments from closets across America and is now powering resale for the broader fashion industry via its Resale-As-A-Service (RAAS) platform.
+
+About the Role
+At thredUP, we’re working to revolutionize the clothing industry and we're looking for an experienced Data/BI Engineer to help grow the foundation of our data warehouse and Business Intelligence infrastructure., You will work in a highly collaborative environment of data engineers, data analysts, domain experts and business leaders to deliver data solutions that alter how the secondhand clothing industry is perceived. If you are excited by recent developments in cloud data technologies and the ability to solve complex data problems with an engineering team that is passionate about our culture, the quality of our code, and building a successful company, we'd love to hear from you.
+
+Responsibilities
+Design, implement and maintain data warehouse/ business intelligence solutions which will handle growing business needs
+Translate business questions and concerns into specific quantitative questions that can be answered with available data using sound methodologies. In cases where questions cannot be answered with available data, partner with engineers to produce the required data
+Automate, optimize, and maintain ETL flows in a repeatable, scalable manner
+Handle and respond to ad-hoc data support/analytical requests
+Explore/analyze data and work with Supple Chain Operations, Data Scientists and Product Managers
+Requirements
+5+ years of experience in data modeling, ETL, data warehousing, and transformation of large scale data sources using SQL, Redshift or other Big Data technologies
+Proficiency with analytical SQL and knowledge of how to optimize and troubleshoot
+BI Reporting experience with tools such as Looker or Tableau
+Bachelor's or Master’s degree in computer science, information systems, or a related technical discipline
+Experience with AWS Data technologies (such as Redshift, S3,Glue)
+Familiarity with Python or any other scripting language
+Excellent communication and problem solving skills
+(Bonus) Experience with Spark, Hadoop or other Big Data technologies.
+(Bonus) Experience working in an e-commerce business
+(Bonus) Experience working with Supply Chain data
+And in return, you'll have...
+The opportunity to make a massive impact & influence outcomes for our business and customers alongside passionate coworkers
+Autonomy. The ability to make, own, and carry out decisions
+Competitive salary, equity and full benefits (health/dental/vision insurance & 401k)
+Work from anywhere most Tuesdays and Thursdays meeting free (what we call Maker Days)
+Flexible PTO
+
+At thredUP, our mission has been built on extending the lives of millions of unique clothing items. Much like our inventory, we believe diversity is key. As a diverse and inclusive workplace, we are committed to ensuring our employees are comfortable bringing their authentic selves to work every day. A unique perspective is critical to solving complex problems and inspiring a new generation to think secondhand first. Everyone is welcome - be you.

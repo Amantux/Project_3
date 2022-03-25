@@ -1,0 +1,37 @@
+Job Description
+How you will help
+Working with our product and data science teams, you will own and be responsible for developing key components of our overall system that enables our customers to bring new insights to their own businesses. You’ll use the best tools for the job, whether modern and revolutionary or time tested and proven, to deliver elegant, scalable solutions that meet business and technical needs. Your team will support you and you the same. Peer review of solutions and implementations is expected. You will play an integral part in building the foundation of everything to come.
+
+What you will do
+Research and implement python solutions with a team of developers
+Work with some of the most exciting open-source tools like Spark, Hadoop, Docker, Airflow, Zeppelin
+Leverage distributed computing and server-less architecture such as AWS EMR & AWS Lambda, to develop pipelines for transforming data
+Produce peer reviewed quality software
+Solve complex problems related to the real-time discovery of large data
+About you
+You are...
+Experienced in writing scalable applications on distributed architectures
+Data driven, testing and measuring as much as you can
+Eager to both review peer code and have your code reviewed
+Comfortable on the command line and consider it an essential tool
+Confident in SQL, you know it, write smart queries, it’s no big deal
+
+Desired skills and experience
+5+ years of experience in programming in languages such as: Python, Ruby, Perl, C++, Java
+Expert knowledge of design patterns, multi-threaded systems, and automated unit testing
+Experienced in processing large scale data
+HealthVerity, headquartered in Philadelphia, is a venture-backed software company leveraging state-of-the-art technologies to empower healthcare organizations to discover, license and link traditional and emerging data for advanced analytics. By applying novel modern solutions to longstanding problems, we see a significant opportunity to improve the way our clients engage with patients. This is a unique opportunity to join an experienced and entrepreneurial management team to address a large unmet need and build the industry’s most flexible and scalable cloud platform for large-scale healthcare data.
+
+Our company challenges
+Empowering clients with highly rewarding data discovery and licensing tools
+Ingesting and managing billions of healthcare records from a wide variety of partners
+Standardizing on common data models across data types
+Orchestrating an industry-leading HIPAA privacy layer
+Innovating our proprietary de-identification and data science algorithms
+Building a culture that supports rapid iteration and new possibilities
+The infrastructure and culture we are building will provide an environment that cultivates innovation. We want to move fast knowing we can fix anything we break along the way. If a new need arises, we want to turn around a solution quickly. We want to solve our challenges in ways that create even more possibilities. We’re creating a platform that lets us discover what else we might do.
+
+We have big plans
+We are building a platform that will scale to support an ever-growing array of data providers and innovative products. You must be able to think big while still delivering on near-term requirements.
+
+HealthVerity is an equal opportunity employer.

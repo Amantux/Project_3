@@ -1,0 +1,45 @@
+Staff Data Engineer
+
+New York, NY
+
+Who we are
+
+DoubleVerify is the leading independent provider of marketing measurement software, data and analytics that authenticates the quality and effectiveness of digital media for the world's largest brands and media platforms. DV provides media transparency and accountability to deliver the highest level of impression quality for maximum advertising performance. Since 2008, DV has helped hundreds of Fortune 500 companies gain the most from their media spend by delivering best in class solutions across the digital ecosystem, helping to build a better industry. Learn more at www.doubleverify.com.
+
+
+
+The Role
+
+As a Staff Data Engineer, you own new initiatives, designs and build world-class platforms in order to measure and optimize ad performance. You ensure industry-leading scalability and reliability of mission-critical systems processing billions of real-time transactions a day. You apply state of the art technologies, frameworks, and strategies to address complex challenges with Big-Data processing and analytics.
+
+What you'll do
+Architect, design and build big data processing platforms handling tens of TBs/Day, serves thousands of clients and supports advanced analytic workloads
+Mentor a great team of motivated engineers by constantly reviewing code, looking for design breaches, providing meaningful and relevant feedback to developers and stay up-to-date with system changes
+Explore the technological landscape for new ways of producing, processing, and analyzing data in order to gain insights into both our users and our product features
+Design, develop, and test data-driven products, features, and APIs that scale
+Continuously improve the quality of deliverables and SDLC processes
+Operate production environments, investigate issues, assess their impact, and come up with feasible solutions.
+Understand business needs and work with product owners to establish priorities
+Bridge the gap between Business / Product requirements and technical details
+Work in multi-functional agile teams with end-to-end responsibility for product development and delivery
+Who you are
+Lead by example - design, develop and deliver quality solutions.
+Love what you do and are passionate about crafting clean code and have a steady foundation with 8+ years of programming experience in coding, object-oriented design and/or functional programming
+Deep understanding of distributed system technologies, standards, protocols, and have 3+ years of experience working in distributed systems like Hadoop, Big Query, Spark, Kafka Eco System ( Kafka Connect, Kafka Streams), and building data pipelines at scale.
+Hands-on experience building low latency, high-throughput APIs, and are comfortable using external APIs from platforms.
+Excellent SQL query writing abilities and data understanding
+Care about agile software processes, data-driven development, reliability, and responsible experimentation
+Genuine desire to automate decision making, processes, and workflows
+Experience working with dependency management tools such as Luigi/Airflow
+Experience with DevOps domain - working with build servers, docker and containers clusters (kubernetes)
+Experience in Mentoring and growing a diverse team of talented data engineers
+B.S./M.S. in Computer Science or a related field
+Excellent communication skills and a team player
+Vertica or other columnar data stores
+Google BigQuery
+Spark Streaming or other live stream processing technology
+Cloud environment, Google Cloud Platform
+Container technologies - Docker / Kubernetes
+Ad serving technologies and standards
+Experience with Avro, Parquet, or ORC
+Akka

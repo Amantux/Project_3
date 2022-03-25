@@ -1,0 +1,13 @@
+My client seeks a Machine Learning Scientist to design EEG studies and perform data analytics. The ideal candidate will take on the following tasks:
+Design experiments to analyze EEG pattern changes induced by pharmaceutical agents, gene knockout and gene expression, seizures, and sleep
+Compile and analyze EEG data, including sleep-scoring, seizure detection and spectral analysis
+Develop clear visualizations to convey complicated data in a straightforward fashion
+Perform custom scripting using Spike2, Matlab, or Python
+Perform sleep-scoring and seizure analysis as well as have knowledge on the use of applications such as Neuroscore, Spike2, and NeuroExplorer
+The ideal candidate will possess the following qualities:
+BS/MS/PhD in Neuroscience, Biomedical Engineering, or Electrical Engineering
+Experience with drug discovery or clinical experience
+Expertise in EEG analyses including signal processing, sleep scoring, and seizure detection
+Evoked potential experience is preferred
+Extensive machine learning experience is preferred
+Programming experience, for example MATLAB, EEGLAB, or Python, as well as Machine Learning experience

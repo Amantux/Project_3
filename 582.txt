@@ -1,0 +1,39 @@
+Maxar is seeking a Data Engineer to join our team. We use quick iteration and regular feedback to prototype for our government customers before ultimately discovering the perfect fit. We embed our Data Engineers with analytic teams to create dynamic and flexible data storage solutions that can be queried in a wide variety of ways.
+
+Life with Us
+
+Project:
+Were collecting and aggregating feature data from many different sources in order to model a spatial distribution. We use Apache NiFi and need a skilled developer to create and monitor inputs and implement streaming data enrichments for our analytic workflows.
+The team is currently well-sorted with regards to geospatial tools and techniques, but to round out the team properly we need someone to help accelerate our backend development timelines.
+
+Career:
+Were very serious about professional development and continuing education. We offer everyone the opportunity to define their own career trajectory. Our group has some amazing resources at its disposal specifically for this purpose. You will work with your direct supervisor and/or a mentor to set appropriate goals and design a plan to help you make consistent progress.
+Dedicated professional development time; conference attendance; corporate partner and industry training; peer groups; paid certifications; education reimbursement; student loan forgiveness; hackathons! And much more
+
+Day-to-day with your colleague:
+Youll be developing data pipelines and analytic enhancements. These transformations are used to facilitate greater workforce performance by:
+Encouraging further analytic exploration.
+Structuring data for use by multiple applications.
+Enabling potential in the workforce that is otherwise stifled by imperfect technologies.
+We work in very Lean Agile environment without the overhead associated with traditional Scrum. Weve eliminated unnecessary development meetings and we love it!
+
+Minimum requirements:
+Active TS/SCI clearance with Polygraph.
+Bachelor's degree in a related field, e.g. Computer Science, Systems Engineering, etc. or 4 years of additional experience may be substituted in lieu of degree
+5 years of development experience.
+Strong Python and Java skills!
+Recent experience with some of the following technologies:
+
+AWS: EC2, S3, RDS, Lambda
+High performance computing (HPC) clusters and distributed processing
+Backend: Apache Nifi
+Data Stores: PostgreSQL
+Version Control: GitHub or GitLab
+
+Preferred Qualifications
+Natural Language Processing, Independent Component Analysis, large data structures and organization, NoSQL methodologies.
+Understanding of Agile methodologies, specifically frequent, iterative releases which rely on user feedback to refine features over time.
+Exposure to GIS technologies, e.g. PostGIS or Esri ArcGIS.
+Knowledge of Design Thinking principles.
+
+#cjpost

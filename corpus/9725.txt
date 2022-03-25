@@ -1,0 +1,45 @@
+The Azure Production Infrastructure Engineering (PIE) team's vision is to make it easy for everyone to create, consume, and manage planetary-scale, reliable cloud production services and infrastructure to achieve more. As a team, we bring together significant and complementary capabilities with tooling, infrastructure, monitoring and insights in new ways to increase our perspective. Our diversity of knowledge and experience comes together for the benefit of our users, our colleagues, our business, and ourselves.
+
+We are looking for an exceptional Applied Scientist capable of using Machine Learning and Data Science techniques to design and implement state-of-the-art solutions to unique and challenging problems. As an Applied Scientist in our team you will be responsible for the development of highly impactful end-to-end machine learning and analytical systems. You will own all stages of data science development process, including identifying problems, designing experiments, building production services, and investigating new algorithms. You will have an opportunity to work with extremely large and sophisticated datasets, including graph, sequential, and natural language data. If you thrive in ambiguous and fast pacing environments, are able learn new concepts quickly, can work without supervision and enjoy being at the forefront of science and technology, then this opportunity is for you.
+
+Responsibilities
+
+Major responsibilities
+
+Use machine learning and analytical techniques to solve business problems in cloud computing domain
+
+Analyze and extract relevant information from both structured and unstructured data to help optimize experience of internal and external customers
+
+Design, develop, evaluate and deploy innovative predictive models and metrics
+
+Partner with software engineering and product teams to drive real-time model deployments and new feature improvements
+
+Mentor engineers and scientists in the use of ML techniques and data science best practices.
+
+Qualifications
+
+Preferred qualifications:
+
+PhD in Computer Science, Machine Learning, Statistics, Mathematics, or related area
+
+Extensive knowledge and practical experience in one or more of the following areas: machine learning, statistics, deep learning, NLP, recommendation systems, forecasting, hypothesis testing
+
+Peer reviewed scientific contributions in premier journals and conferences
+
+Experience distilling informal customer requirements into tangible problem definitions
+
+Excellent verbal and written communication and presentation skills, ability to convey technical concepts and their implications to non-experts
+
+Experience using Java, C#, or other programming language, as well as with R, MATLAB, Python or similar scripting language
+
+3+ years of practical experience applying machine learning to solve challenging problems
+
+#PIEJobs
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+
+#Azure #Cloud

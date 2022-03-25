@@ -1,0 +1,24 @@
+Collinwood is in search of an outstanding Senior Data Engineer for our client in the city of Chicago!
+
+As a Senior Data Engineer, you will contribute to database management of large-scale web-based applications through the use of SQL, Cloud (AWS or Azure), and the Microsoft BI stack. These technologies enable the client's business while supporting architectural vision of quality, scalability, performance and function. The proprietary software is created with the goal to simplify transportation for our customers and carriers and is one of our largest competitive advantages in an ever growing market.
+
+Responsibilities:
+Data Engineer's work in conjunction with Software Engineers, DBA's, Business Analysts, Quality Assurance and business owners
+Serve as a member of a data team that solves complex challenges and builds working database solutions using SQL Server, T-SQL, SSIS, stored procedures, views, user-defined functions, and table functions
+Develop solutions and contributing to development, leveraging Object-Oriented programming techniques (.Net), Software Development Lifecycles, Unit Test Techniques, and Debugging/Analytical Techniques.
+Collaborate with the team to develop database structures that fit into the overall architecture of the systems under development.
+Code, install, optimize, and debug database queries and stored procedures using appropriate tools and editors.
+Perform code reviews and provide feedback in a timely manner.
+Promote collective code ownership for everyone to have visibility into the feature codebase.
+Present technical ideas and concepts in business-friendly language.
+Provide recommendations, analysis, and evaluation of systems improvements, optimization, development, and maintenance efforts, including capacity planning.
+Identify and correct performance bottlenecks related to SQL code.
+Support timely production releases and adherence to release activities.
+Contribute to data retention strategy.
+Position Requirements
+3+ years in commercial-grade business applications environment leveraging the following:
+SQL Server, T-SQL, SSIS, stored procedures, user-defined functions and table functions
+Managing design risk
+3+ years leveraging OO programming techniques
+Software development lifecycles, Unit test techniques, debugging/analytical techniques
+2+ years of Cloud Platform experience with either AWS (preferred) or Azure

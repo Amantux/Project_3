@@ -1,0 +1,40 @@
+Position Summary
+
+Samsung Austin Semiconductor is one of the most advanced semiconductor manufacturing facilities in the world with more than 3,000 employees and 2.45 million square feet of floor space. Samsung Austin Semiconductor has broad semiconductor process technology offerings serving customers in various application areas including mobile, consumer, networking/high performance computing, Internet of Things, RF and automotive. Since 1996, SAS has invested approximately $17 billion in its Austin, TX campus, making it one of the largest direct foreign investments in United States history. Samsung Austin Semiconductor is a US-based subsidiary of Samsung Electronics Co., Ltd. The Austin facility is one of the few semiconductor plants the company has outside South Korea. Visit www.samsung.com/us/sas.
+
+SAS is focused on being the World’s Best Foundry product supplier.
+
+Role and Responsibilities
+Our company creates some of the world’s most high-tech semiconductor manufacturing line for CPUs, GPUs, and IoT sensors.
+We are currently in search of a Machine Learning developer to find and optimize signals from data from various resources, transform data, implement new features, and design machine learning models for business value.
+Looking for a Machine Learning engineer with a passion for data, and enjoys being a part of a small high performing team developing and maintaining in-house models.
+Be a member of the Defect Engineering Systems group which provides data summarization across many key dashboards.
+Helps by directing the focus of the factory and continuously improving time to detection, accuracy, and throughput.
+Working with key members of the organization to obtain stronger predictive data.
+Feature Engineering to improve model performance.
+Attend team meetings and offer solutions to challenging problems.
+Collaborate with peer data scientists across the organization on best methods for data modeling.
+Other duties as needed.
+Experience building and extending machine learning models.
+Experience with open source frameworks (Tensorflow, PyTorch).
+Comfortable working with command line interfaces (Ubuntu experience a plus).
+Ability to summarize results to a broad range of audiences.
+Ability to learn quickly and keep deadlines while applying good design principals.
+Experience with CNNs, Auto-Encoders, Manifold Learning, and Recommendation Systems.
+Ability to use VM container software (Docker / Kubernetes).
+Familiar with Atlassian software (BitBucket, Confluence, Jira).
+Semiconductor process knowledge (specifically defect domain knowledge: detection, classification, determining impact) is a plus.
+Enjoy solving challenging problems and eager to learn new technologies.
+Working with a small highly motivated team to develop and implement new ideas.
+Work days and hours: M-F, 8am to 5pm/1st shift
+Skills and Qualifications
+B.S or M.S Engineering Degree.
+3- 7 years of Data Science/Machine Learning experience is a must
+Proficient with Python, SQL, and data manipulation is required.
+Prefer experience with Tensorflow image processing and modeling
+Excellent communication, interpersonal, initiation, & troubleshooting skills.
+Fundamental understanding of analytic techniques is a plus.
+Fast learner with the ability to develop and maintain.
+* Please visit Samsung membership to see Privacy Policy, which defaults according to your location. You can change Country/Language at the bottom of the page. If you are European Economic Resident, please click here.
+
+* Samsung Electronics America, Inc. and its subsidiaries are committed to employing a diverse workforce, and provide Equal Employment Opportunity for all individuals regardless of race, color, religion, gender, age, national origin, marital status, sexual orientation, gender identity, status as a protected veteran, genetic information, status as a qualified individual with a disability, or any other characteristic protected by law.

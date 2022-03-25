@@ -1,0 +1,21 @@
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challenges—and we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every day—working for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITRE—and make a difference with us.
+
+MITRE’s Defensive Cyber Operations department is seeking creative people to work collaboratively with our staff of cybersecurity engineers to research, create, and deploy analytics to safeguard our sponsors’ networks and systems. Our technologies include security analytics platforms like ELK and Splunk, big data technologies like Apache Spark, and machine learning packages like scikit-learn.
+
+Some examples our work include:
+Combining cybersecurity domain expertise and contemporary data science skills to enhance adversary detection, network defense, and SOC process improvement.
+Building analytics leveraging heuristics and machine learning to identify malicious network traffic, endpoint behavior, user behavior, and files.
+Using MITRE ATT&CK® to hunt the adversary and build TTP-based defenses.
+Operationalizing purple teaming by developing analytics in conjunction with adversary emulation and red teams.
+Building security analytics and dashboards in ELK and Splunk.
+Advancing the state of the art by developing new approaches to cybersecurity analytics
+Basic Qualifications:
+Bachelor's degree in Computer Science, Cybersecurity, Data Science, Applied Mathematics, Statistics, or a related field.
+At least 3 years of successful professional experience in cybersecurity or a related field (more is great too, we’re hiring at all levels).
+Other Qualifications:
+Applicants selected for this position will be subject to a government security investigation and must meet eligibility requirements for access to classified information.
+MITRE is proud to be an equal opportunity employer. MITRE recruits, employs, trains, compensates, and promotes regardless of race, religion, color, national origin, gender, gender expression, sexual identity, disability, age, veteran status, and other protected status.
+
+MITRE intends to maintain a website that is fully accessible to all individuals. If you are unable to search or apply for jobs and would like to request a reasonable accommodation for any part of MITRE’s employment process, please contact MITRE’s Recruiting Help Line at 703-983-8226 or email at recruitinghelp@mitre.org.
+
+Copyright © 1997-2020, The MITRE Corporation. All rights reserved. MITRE is a registered trademark of The MITRE Corporation. Material on this site may be copied and distributed with permission only.

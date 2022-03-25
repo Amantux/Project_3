@@ -1,0 +1,36 @@
+Job Description
+We are a recruiting agency that works hard to tailor the right synergy between candidate and company. We do this by looking at the career experience and goals of each candidate and clarifying the specific needs of the job with each hiring manager and team.
+
+We are currently seeking a Senior Data Engineer/Data Scientist for an entertainment company in Burbank. The Data Engineer will lead an exciting team in developing innovative technology and delivering uniquely creative content globally. The salary for the Data Engineer starts at $90 per hour.
+
+Please, only apply if you are able to work directly for a U.S. company for the next three years. We are not currently able to work with C2C, H1, or OPT for this position.
+
+Duties & Responsibilities:
+Build and optimize performance of Hadoop and Spark batch jobs (Spark, Kafka, Cassandra, etc.).
+Construct and improve ElasticSearch performance.
+Build data pipelines orchestration.
+Create the design and architecture for data-lake, data-marts, data-models, and data-warehouse.
+Ensure efficiency of data science workflows and advanced machine learning algorithms.
+Contribute to open source solutions and communities.
+Stay current on emerging tools and technologies.
+Collaborate cross-functionally with other software engineers and their teams.
+Establish and demonstrate technologies, solutions, and leading practices.
+Balance resources, requirements, and complexity.
+Qualifications:
+At least, 5 years Data Engineer experience.
+Bachelor’s in Computer Science or similar field.
+Possess a passion for coding.
+Knowledge of distributed systems and computation.
+Experience with Scala, Java, Python, and Go-Lang.
+Experience with Apache Hadoop/Spark ecosystem.
+Demonstrated working knowledge of data modeling.
+Stellar interpersonal and communication skills.
+Required Experience:
+Git, Unix/Linux, Unit, Integration, Load Testing, developing REST APIs, Ant, Maven, SBT, Gradle, and Docker containers building and deployment.
+Experience, preferred:
+Jenkins, GraphQL, Amazon AWS (or other cloud services), Kubernetes, Apache Spark (MLib and Graph X).
+Salary for the Data Scientist:
+Starts at $90/hour.
+Powered by JazzHR
+
+XgGlT0mf3l

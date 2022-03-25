@@ -1,0 +1,31 @@
+Hadoop Data EngineerWe invite you to join the GIS team at Client as a Hadoop Programmer/Developer (Hadoop Data Engineer). We are a tight-knit, supportive community passionate about on delivering the best experience for our customers while remaining sensitive to their unique needs.
+
+In this role, you will be helping to build new data pipelines, identifying existing data gaps, and providing automated solutions to deliver advanced analytical capabilities and enriched data to applications that are supporting the operations team.
+
+You will also be responsible for obtaining data from the System of Record and establishing real-time data feed to provide analysis in an automated fashion.
+
+Desired Skills:
+• Experience working with Hadoop/Big Data related field
+• Working experience on tools like Hive, Spark, HBase, Sqoop, Impala, Kafka, Flume, Oozie, MapReduce, etc.
+• Hands on programming experience in perhaps Java, Scala, Python, or Shell Scripting, to name a few
+• Experience in end-to-end design and build process of Near-Real Time and Batch Data Pipelines
+• Strong experience with SQL and Data modelling
+• Experience working in Agile development process and deep understanding of various phases of the Software Development Life Cycle
+• Experience using Source Code and Version Control systems like SVN, Git, etc.
+• Deep understanding of the Hadoop ecosystem and strong conceptual knowledge in Hadoop architecture components
+• Self-starter who works with minimal supervision and the ability to work in a team of diverse skill sets
+• Ability to comprehend customer requests and provide the correct solution
+• Strong analytical mind to help take on complicated problems
+• Desire to resolve issues and dive into potential issues
+
+Required Skills:
+• Hadoop, SPARK, Scala, HIVE, Impala, Sqoop, MapReduce, Kafka
+• MySQL, Linux
+• SVN
+• PHP programming is a plus
+• Top 3 Job Qualifications:
+• Data Engineering
+• ETL experience
+• Agile experience
+
+Job Requirements:

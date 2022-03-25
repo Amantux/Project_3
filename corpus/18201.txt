@@ -1,0 +1,24 @@
+Seeking a passionate and experienced Software Engineer with solid computer science fundamentals to make a significant contribution to the Shutterfly Architecture team. This position will report to the Manager of Media Platform Engineering in Phoenix, AZ. The Shutterfly Architecture is responsible for creating the next generation of platform services for use by both the company, and external partners. The platform itself is new, as are the ways we test it, deploy it and operate/regulate it. We leverage a formal services gateway to intelligently route service traffic, and enforce access policies. We use the latest in industry standard Java technology at the core. The team is currently finishing up services around product/category data, as well as ecommerce/cart/checkout and user identity. Come and join the effort in creating the next generation services platform for the company!
+
+
+Responsibilities:
+Collaborate with product managers, engineers, operations, and other members of the project team in requirements specification, feasibility analysis, detailed engineering analysis and launch planning
+Design and development of highly performing and scalable REST services
+Contribute to best practices by helping author unit tests, functional tests and performance test automation.
+Work with middleware, enterprise buses and queues to help make services highly scalable and asynchronous in nature
+Leverage state-of-the-art NoSQL solutions for caching and data I/O performance
+Participate in design reviews of service and framework components
+Ensure services are highly scalable to handle large traffic with very low latency
+Desired Skills and Experience:
+Strong knowledge of data structures, algorithms and design patterns
+Strong object oriented design and modeling in Java or other JVM based languages
+Expertise in relational databases (one of Oracle/MySQL/Postgres) and SQL.
+Knowledge of web services and general services design, experience a plus
+Basic knowledge of the HTTP protocol
+Experience with web and mobile application development a plus
+Experience with all or some of the following technology is a plus – Git, DynamoDB, MongoDB, Redis, Java Spring framework, Eclipse, IntelliJ or other IDE
+Solid understanding of how the web and internet works
+Must be comfortable at the Unix/Linux command line
+Excellent communication and interpersonal skills
+BS/MS in Computer Science or Engineering highly desirable
+Must have a positive, Can Do! Attitude and willing to have fun while working

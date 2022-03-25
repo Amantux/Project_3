@@ -1,0 +1,31 @@
+Description
+Cognistx is looking to hire an experienced Data Scientist to help lead our Data Science team. The Data Scientist is responsible for designing, developing, implementing and testing statistical and machine learning models that are the core components and integrated modules of Cognistx’s products and services.
+For a full job description read here.
+Work Location: Pittsburgh PA
+
+Please submit your resume to:
+info@cognistx.com
+Essential Functions and Skills
+Client data science requirements gathering to define analytic/predictive objectives of Cognistx projects and/or products
+
+Execution of data analysis projects by: a) documenting the client’s requirements (including statistical analysis & visualization of data, data sampling, cleaning, and preprocessing), b) design, creation and optimization of statistical machine learning models to provide desired analytic capability (clustering, classification, matching/retrieval, prediction, regression, anomaly detection, etc.) on large-scale, real-world datasets
+
+Design and execute experimental data collection and present resulting analyses using appropriate data visualizations
+
+Best-practices implementation, maintenance and continuous improvement of created platforms and/or models, along with formal documentation and design/documentation reviews
+
+Collaborate with other staff members such as Software Engineers, Product Managers, Cloud Specialists.
+
+Writing, communicating and presenting results and findings to clients, and contributing to new proposal development
+Preferred Education & Experience
+Experience with other programming languages such as Java, R, Matlab.
+Academic or professional background in Natural Language Processing, Computer Vision or similar.
+Experience in presenting and visualizing complex data analysis and results to both technical and non-technical audiences.
+Required Education and Experience
+Masters degree or higher in Computer Science or related (Computer Engineering, Software Engineering, Statistics, Mathematics, Information Systems Management, etc.).
+2+ years of experience working with SQL, NoSQL, AWS and Python data analysis-related libraries such as Pandas, Numpy, Scikit-Learn, Keras, PyTorch, Tensorflow, Matplotlib, Seaborn.
+Solid academic and professional training in probability, statistics and Machine Learning. Academic courses such as: Statistics, Machine Learning, Deep Learning, Data Science, Data Mining, Big Data, Business Intelligence, etc.
+Proven exposure to projects that involve all the data analytics process: data cleaning, data manipulation, statistical modeling, and final presentation of results/recommendations.
+Solid knowledge of Machine Learning (classification and regression) algorithms such as Decision Trees, Random Forest, Logistic Regression, AdaBoost, Neural Networks. Able to work with unbalanced data sets, with structured and unstructured data.
+Experience and knowledge modeling time series in predictive analysis.
+Experience and solid knowledge working with large datasets using cloud services (Amazon Web Services, Google Cloud or Azure).

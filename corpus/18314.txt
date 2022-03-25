@@ -1,0 +1,26 @@
+The content platform team is seeking a Senior Software Engineer 2 to join the development team dedicated to building a flexible, scalable next generation platform that allows content producers, designers both internal and external, merch team to store, manage and curate digital assets, metadata/content and publish it to front end applications. As part of this team, you're going to have the opportunity to architect, build and scale a distributed web-scale content management system.
+
+Responsibilities:
+Collaborate with product managers, cross-functional partners and stakeholders
+Implement high quality code in an agile, test-driven development environment utilizing Java Stack
+Participate in design and code reviews across the team and establish best practices
+Act as a technical lead for small group of engineers, including offshore for assigned engineering projects
+Leverage technical skills to successfully drive infrastructure & tool improvements for new products and existing processes and workflows
+Explore and share industry trends, recommendations on new and emerging technologies, and drive higher discipline across organizations
+Resolve or escalate problems, and manage risk for both development and production support
+Lead/Coordinate teams that are located in remote locations
+Required Qualifications:
+7+ years of experience in building distributed and scalable software
+Hands-on experience with any object oriented or functional programming languages such as: Java, Javascript, React, Node.js
+Experience developing effective APIs and REST/SOAP web services
+Experience with different data store technologies such as RDBS, NoSQL, Redis
+Experience with Springboot, Akamai and Java caching
+Experience with SDLC, Test Automation, GitHub and CI/CD
+Experience with Agile development methodology
+Experience with leading remote teams
+Preferred Qualifications:
+Experience in building Content Management System
+Experience with cloud computing using Amazon Web Services (EC2, S3, SNS/SQS)
+Experience with K8S
+Experience with Adobe Creative Cloud and InDesign Server
+Experience in Micro Service architecture

@@ -1,0 +1,43 @@
+SUMMARYThe SQL Database Engineer will provide will have an enterprise background using MS SQL Server and be able to understand complex SQL design concepts, as well as practices and procedures. This position involves identifying business requirements, developing data models, performing data analysis, writing advanced SQL queries, designing, and coding complex stored procedures and performance tuning existing database processes.
+
+ESSENTIAL FUNCTIONS AND ACCOUNTABILITIES
+
+• Design and develop database objects, stored procedures, views, functions, tables, triggers and SSIS packages; ensure their stability, reliability, and performance
+• Troubleshoots escalated, complex problems; recommends, and reviews the implementation of associated fixes
+• Design, develop, and maintain SSRS reports based on user requirements
+• Write and optimize SQL statements for data access and retention
+• Test databases for performance, fine-tune when necessary
+• Collaborate with developers on database design, query tuning, and schema refinement
+• Independently analyze, solve, and correct database related issues in real time while providing efficient resolutions
+• Respond to feedback from users regarding performance and work with developers to improve the performance of queries and indexes
+• Tune stored procedures and T-SQL queries to improve performance and sustainability
+• Provide support for the deployment of database scripts in development, test, pre-production and production environments
+• Study the technical requirements provided by product team and design databases to fulfill the requirements
+• Migrate on-premises SQL databases and related workloads to Azure
+• Ensures that the environment is suitable for any proposed business applications, or propose scaling the environment to meet requirements
+• Utilize techniques to minimize operational costs
+• Ensures that the operational team is actively monitoring the backup environment for all applicable instances
+• Ensures that the operational team maintains compliance with established service level agreements
+
+WORK EXPERIENCE
+
+• In-depth knowledge of standard concepts, practices and procedures related to database management.
+• 7+ years of experience in software development using Microsoft SQL Server 2008 R2, T-SQL and T-SQL language (queries, views, procedures), SQL Server database design, stored procedure design and implementation.
+• Experience coding complex stored procedures (using T-SQL).
+• Experience developing SSIS packages
+• Experience with migrating on-premises databases to IaaS-based and PaaS-based SQL Databases
+• Experience with Azure cloud environment strongly preferred including:
+Azure Databricks
+Azure Databox
+Azure Synapse Analytics/SQL Data Warehouse
+Azure Event Hubs
+Azure Data Factory
+Azure Data Lake Storage
+Migrating On-Premises Databases to Azure IaaS and PaaS
+• Proven analytical problem solving and debugging skills
+• Experience in troubleshooting and resolving database integrity issues, performance issues, blocking and deadlocking issues, etc.
+• Experience with performance tuning, query optimization, using Performance Monitor, SQL Profiler and other related monitoring and troubleshooting tools.
+• Familiarity with BI technologies (e.g. Microsoft Power BI/Tableau)
+• Excellent communications skills (written and verbal)
+
+Job Requirements:

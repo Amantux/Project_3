@@ -1,0 +1,28 @@
+A ForeFlight Aircraft Data Analyst collects, analyzes and evaluates aircraft data (performance, weight & balance and more). A person in this role will use various techniques and tools to capture aircraft data and create models which are applied within ForeFlight.
+
+Great emphasis is placed on the ability to self-check all work and provide high quality and accurate results within ForeFlight’s Aircraft Data requirements and within a timely fashion. Deep knowledge of aircraft types, capabilities, and the aviation industry as a whole is beneficial.
+
+Duties and Responsibilities
+Work independently to collect, analyze, evaluate and model aircraft flight planning performance and weight & balance data from a variety of sources.
+Maintain flight planning performance and weight & balance databases for a library of aircraft.
+Develop software tools to assist in aircraft modeling efforts and data quality control.
+Assimilate customer feedback for use as a benchmark in evaluating model accuracy.
+Work cooperatively with internal teams to assist and provide guidance and expertise with any aircraft data related issues.
+Other duties as assigned by team lead & manager.
+
+Skills & Requirements
+Private pilot license required, Instrument rating a benefit
+Deep knowledge of aircraft manuals (POH/AFM), associated performance and weight & balance data, and procedures within, including reading, interpreting, and using technical/graphical charts and data.
+Comfortable familiarity with aircraft performance, weight and balance and other aircraft data and associated concepts.
+Uncompromising dedication to provide results with the highest accuracy
+Strong spreadsheet skills (pivot table, use of advanced functions, VBA/Javascript).
+Strong problem-solving and mathematical skills, especially in context of interpreting graphical and tabular data and how to model these data for use within algorithms.
+Programming and git version control experience a big plus.
+Python experience a plus.
+Atlassian product knowledge, including Confluence, Bitbucket and JIRA, a plus.
+Effective verbal and written communication skills.
+Effective keyboard skills.
+Professionalism, organization, time management skills.
+
+Education/Experience
+Requires a bachelor’s degree in area of specialty and 1-2 years of experience in the field or in a related field.

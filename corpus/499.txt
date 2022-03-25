@@ -1,0 +1,125 @@
+About Roam
+
+Roam is building the natural language processing infrastructure for modern healthcare systems. Our mission is to empower healthcare companies to derive structured meaning from language data to improve healthcare for all.
+
+Solving healthcare’s most complex problems requires a data-driven approach. Understanding patient population trends, predictive modeling, and leveraging data to inform treatment choices all call for relevant, sufficient clinical data as inputs. However, overall data quality in healthcare today is poor and focuses on structured data from electronic health records, medical/prescription claims, and others. Structured data represents only a small fraction of what is available to be analyzed.
+
+Language data is the richest, most abundant source of information in healthcare today. Modern healthcare companies spanning biopharma, hospital systems, and payers use Roam's technology infrastructure, tooling, and resources to make use of their language data. Our platform is designed and built to enable rapid specification, development, and deployment of world-class natural language processing systems that help healthcare companies quantify language data to make more informed business decisions.
+
+About Role
+
+The clinical data scientist role focuses on leveraging Roam’s data and NLP/machine learning assets to analyze customer data and develop models that address clinical or business use cases. Our ideal candidate will have deep familiarity with data intensive analytics in healthcare and understands the limitations and challenges associated with clinical data, as well as how analysis of clinical data might shape strategy within healthcare organizations. Candidates will work at the intersection of statistical and medical expertise, and should possess strong communication skills and creative approaches to visualizing findings are critical. Ideal candidates will have a portfolio of projects or research to demonstrate their capabilities.
+
+Responsibilities
+
+Work with healthcare clients and data partners to produce high-quality clinical data analysis
+
+Define use cases within our platform and identify data narratives that support them
+
+Serve as the subject matter expert to convey clinical and client considerations to our broader analytics team
+
+Explore and create data visualizations of patient care and clinical concepts within structured and unstructured data
+
+Contribute to the development of data-supported intervention strategies which will improve healthcare processes and patient outcomes
+
+Propose and prototype to new Roam platform capabilities
+
+Evaluate models in the context of real-world impact and applicability
+
+Develop creative approaches to best leverage incomplete or noisy health data to address high value analysis questions
+
+Bridge the gap between healthcare and NLP/machine learning experts for collaborative problem solving
+
+Position may require occasional travel for collaborating and working with clients
+
+Qualifications
+
+Bachelors (or higher) degree with relevant coursework in health informatics, biostatistics, epidemiology or similar
+
+2+ years experience of working with healthcare data (e.g. EHR, clinical text, clinical trials, insurance claims, pharmacy, patient registries)
+
+Ability to independently explore patient-level and unstructured data using Python or related languages
+
+Strong communication and presentation skills
+
+Experience conveying insights and conclusions from large, complicated healthcare datasets, using a variety of statistical and analytical approaches
+
+Understanding of common healthcare concepts, including disease prevalence, risk factors, comorbidities, medications, outcome measures, and how these are represented in (or created from) data
+
+Ability to understand scientific literature and experimental procedures, as well as the limitations and applications of this information in a clinical setting
+
+Beneficial Experience
+
+Masters or PhD in a scientific field
+
+Developed statistical models using large, longitudinal healthcare datasets (such as insurance claims, EMRs, or patient registries)
+
+Analyzed unstructured clinical data, e.g. clinical notes
+
+Python programming experience, with an emphasis on scientific computing libraries (e.g. Pandas, Scikit-Learn, Numpy, Scipy, SpaCy, Tensorflow)
+
+A strong history of publishing academic research
+
+ 
+
+About Roam
+
+Roam is building the natural language processing infrastructure for modern healthcare systems. Our mission is to empower healthcare companies to derive structured meaning from language data to improve healthcare for all.
+
+Solving healthcare’s most complex problems requires a data-driven approach. Understanding patient population trends, predictive modeling, and leveraging data to inform treatment choices all call for relevant, sufficient clinical data as inputs. However, overall data quality in healthcare today is poor and focuses on structured data from electronic health records, medical/prescription claims, and others. Structured data represents only a small fraction of what is available to be analyzed.
+
+Language data is the richest, most abundant source of information in healthcare today. Modern healthcare companies spanning biopharma, hospital systems, and payers use Roam's technology infrastructure, tooling, and resources to make use of their language data. Our platform is designed and built to enable rapid specification, development, and deployment of world-class natural language processing systems that help healthcare companies quantify language data to make more informed business decisions.
+
+About Role
+
+The clinical data scientist role focuses on leveraging Roam’s data and NLP/machine learning assets to analyze customer data and develop models that address clinical or business use cases. Our ideal candidate will have deep familiarity with data intensive analytics in healthcare and understands the limitations and challenges associated with clinical data, as well as how analysis of clinical data might shape strategy within healthcare organizations. Candidates will work at the intersection of statistical and medical expertise, and should possess strong communication skills and creative approaches to visualizing findings are critical. Ideal candidates will have a portfolio of projects or research to demonstrate their capabilities.
+
+Responsibilities
+
+Work with healthcare clients and data partners to produce high-quality clinical data analysis
+
+Define use cases within our platform and identify data narratives that support them
+
+Serve as the subject matter expert to convey clinical and client considerations to our broader analytics team
+
+Explore and create data visualizations of patient care and clinical concepts within structured and unstructured data
+
+Contribute to the development of data-supported intervention strategies which will improve healthcare processes and patient outcomes
+
+Propose and prototype to new Roam platform capabilities
+
+Evaluate models in the context of real-world impact and applicability
+
+Develop creative approaches to best leverage incomplete or noisy health data to address high value analysis questions
+
+Bridge the gap between healthcare and NLP/machine learning experts for collaborative problem solving
+
+Position may require occasional travel for collaborating and working with clients
+
+Qualifications
+
+Bachelors (or higher) degree with relevant coursework in health informatics, biostatistics, epidemiology or similar
+
+2+ years experience of working with healthcare data (e.g. EHR, clinical text, clinical trials, insurance claims, pharmacy, patient registries)
+
+Ability to independently explore patient-level and unstructured data using Python or related languages
+
+Strong communication and presentation skills
+
+Experience conveying insights and conclusions from large, complicated healthcare datasets, using a variety of statistical and analytical approaches
+
+Understanding of common healthcare concepts, including disease prevalence, risk factors, comorbidities, medications, outcome measures, and how these are represented in (or created from) data
+
+Ability to understand scientific literature and experimental procedures, as well as the limitations and applications of this information in a clinical setting
+
+Beneficial Experience
+
+Masters or PhD in a scientific field
+
+Developed statistical models using large, longitudinal healthcare datasets (such as insurance claims, EMRs, or patient registries)
+
+Analyzed unstructured clinical data, e.g. clinical notes
+
+Python programming experience, with an emphasis on scientific computing libraries (e.g. Pandas, Scikit-Learn, Numpy, Scipy, SpaCy, Tensorflow)
+
+A strong history of publishing academic research

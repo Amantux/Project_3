@@ -1,0 +1,61 @@
+Reporting to our Data Management and Governance Manager, this newly created Senior Cloud Data Engineer (a.k.a. Senior DMG Data Analyst) positions charter is to increase the companys profits through the efficient and high-quality management of data to support analysts throughout the company. This individual will be a key member of an exciting, fast-paced, and growing team that is making an immediate impact across the entire company. This is a great opportunity for a talented data analyst to take his/her next career step by playing a leading role in the transformation to an Azure analytics environment and by deeply learning the companys data and processes to gain the essential knowledge needed to support a wide variety of high-visibility projects. As the senior developer/analyst on the team, the Senior Data Cloud Developer will be challenged with projects that can span from tactical to strategic in nature and will be based at our Corporate Office (HQ) in Irving (Las Colinas), Texas.KEY RESPONSIBILITIES
+
+• Support the COO, CFO, and Directors of Decision Science, Marketing, Marketing Analytics, and Credit Risk Management by enabling their departments analysts with trustworthy data and act as their liaison to the BI and AppDev teams for their data needs
+• Play a key role in the companys transformation to a new Cloud paradigm, including the implementation of Azure Data Lake Analytics, SQL Database, and Data Factory
+• Develop a broad knowledge of the companys data assets and business processes that collect or produce data, and help the Data Management and Governance Manager to establish a culture of continuous learning about the business and financial services industry
+• Serve on an internal committee made up of senior analysts from across the company in defining the data vision, strategy, and tactics for the company and communicating changes to data systems
+• Assist in the development of standards for the companys analytics platform, data quality, naming conventions, and data formats, as well as coordinate across the business an agreement of definitions consistent with the consumer credit industry
+• Act as an evangelist and internal resource to all business analysts on data assets
+• Facilitate and accelerate iterative learning and innovation using data assets
+• Assist business teams in the finalization of business requirements for the purpose of providing to the BI team for productionalizing dashboards and reports
+• Translate business requirements into data harvesting prototypes (e.g. develop code to connect to APIs of new data sources for preliminary analysis as requested by business users, explore innovative approaches to harvest data, harvest data into data lake, and establish processes to allow future requests to become more efficient
+• Create and maintain data catalog and dictionaries
+• Add new data sources to data lake
+• Design and develop prototype data structures that refine raw data for use by business analysts, e.g. parse new data sources for preliminary analysis into a consumable format when requested by business analysts
+• Understand the processes of QA, design, and deployment used by BI and AppDev teams to ensure the resulting data meets the companys quality standards
+• Provide data management support to business teams, including simple ad hoc data queries structured for use by less-technical business leaders and analysts
+• Maintain in-depth knowledge of best practices and technology for data storage and retrieval tools
+• Accountable for the successful management and completion of multiple concurrent projects that are on-time and with high quality
+
+REQUIREMENTS
+
+• BS in Computer Science or related field, an analytical field (e.g. Statistics, Econometrics, Applied Mathematics), or a highly quantitative engineering (e.g. Chemical Engineering) field
+• 4 years of progressive experience in data engineering, data management, analytics, and data architecture
+• Advanced user of SQL and ETL tools (SSIS / Talend / Informatica / Data Services)
+• Proficiency in Microsoft Azure Cloud Data Services and Analytics Services, including Azure Data Lake, Azure Data Factory, and Azure SQL Database
+• Results-oriented self-starter who is confident in defending his/her critical thinking abilities
+• Proven track record of delivering successful projects on-time and with high-quality
+• Advanced knowledge of cloud analytics platforms best-practices
+• Customer service and consultative mindset
+• Capitalistic mindset supported by a strong business acumen and work ethic
+• Demonstrated ability to communicate ideas and analysis results effectively both verbally and in writing to a non-technical audience
+• Local (Dallas/Fort Worth area) candidates only no relocation
+• Must be currently authorized to work in the United States without sponsorship and not require sponsorship in the future
+
+PREFERRED QUALIFICATIONS
+
+• Masters degree
+• Microsoft Azure certifications in related areas, such as Azure Solutions Architect Expert, or Azure Data Engineer Associate
+• PowerBI developer-level experience
+
+COMPENSATION
+
+• Annual salary of $95,000
+
+BENEFITS
+
+• Medical, dental, and vision
+• Voluntary life/ AD&D
+• Short-term & long-term disability
+• 401K with company match
+• Paid vacation, holidays, and sick time
+• Paid maternity, paternity, extended medical leave, and jury duty
+• Corporate discount program on personal cell phone accounts with select providers
+• Business casual work environment
+
+ABOUT COTTONWOOD
+Founded in 1996, Cottonwood Financial is one of the largest privately held retail consumer finance companies in the United States. We have zero debt, have been profitable every year since inception, and our growth is funded entirely through internally generated capital. Headquartered in Irving (Las Colinas), Texas, we have company-owned locations, under our Cash Store brand, across the country. Through this national brick-and-mortar footprint, we provide best-in-class customer service and offer an innovative mix of financial products and services to our customers.
+
+We have been named several times to the Inc. 5000 list of Americas fastest-growing private companies, as well as to the Dallas 100 list of the fastest-growing private companies in North Texas.
+
+Job Requirements:

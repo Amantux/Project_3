@@ -1,0 +1,61 @@
+Job Description
+Python Data Engineer - RT
+
+Houston, Texas, United States, 77002
+
+Contract, Contract - Option to Extend
+
+Our key client is looking to add a Python Data Engineer to their team located in Downtown Houston, TX. They are a Fortune 500 energy company serving more than 3 million customers across the US. This is a 6-month contract opportunity with the possibility of extension. If you would like to hear more about this amazing opportunity, please let us know!
+
+We apply advanced analytics and modeling to address challenging business problems. Within our Texas mass markets retail business, we aim to promote customized offerings: the right product offered through the right channel, with the right message at the right time for each current or prospective customer. To accomplish this, we leverage our data via predictive modeling, statistical analyses, and optimization. We are looking for a talented data engineer to build robust data pipelines to pull data from various data sources, apply transformation logic, and combine into large datasets that support model building and scoring in production.
+
+Essential Duties/Responsibilities:
+Design and develop data pipelines in Python
+Abstract, refactor, and package reusable code for broad use
+Develop test suites to ensure code works as planned and enable fast edits as business requirements change
+Additional Knowledge, Skills and Abilities:
+Desire to automate everything
+Good communication skills
+Independent and self-driven worker
+Creative problem solver
+Required Knowledge, Skills, and Abilities: (Submission Summary):
+
+1. Degree (BS, MS, or PhD) in Computer Science, Electrical and Computer Engineering, Software Engineering, or Information Systems preferred; any STEM BS, MS or PhD with appropriate work experience will be considered.2+ years of professional Python software design and development
+
+2. Linux administration experience a plus
+
+3. Expert-level Python programming
+
+4. Test-driven development
+
+5. Building and monitoring data pipelines
+
+6. Proficient with the following Python packages: SQLAlchemy, pandas, sphinx, and pytest
+
+7. Git
+
+8. SQL
+
+9. Continuous Integration and Deployment (Gitlab-ci, Ansible, Jenkins, or equivalent)
+
+10. Experience developing in containerized environments (Docker, LXC)
+
+11. Experience with multiprocessing and multithreading in Python
+
+12. Experience with MongoDB and Redis is a plus
+
+13. Experience with a pipeline framework like Prefect, Airflow, Luigi is a plus
+
+14. Experience with AWS or other cloud service a plus
+
+15. Ability to design Python software from scratch
+
+16. Candidate's home phone #:
+
+17. Candidate's cell phone #:
+
+18. Candidate email address:
+
+19. Best time to contact the candidate:
+
+20. When is the candidate available to start?

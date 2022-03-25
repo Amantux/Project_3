@@ -1,0 +1,29 @@
+Company:
+Qualcomm Technologies, Inc.
+Job Area:
+Engineering Group, Engineering Group > Machine Learning Engineering
+Job Overview:
+
+
+Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform 5Gs potential into world-changing technologies and products. This is the Invention Age - and this is where you come in.
+
+Artificial Intelligence is changing the world for the benefit of human beings and societies. AI is moving from cloud to the edge devices. QUALCOMM, as the world's leading mobile computing platform provider, is committed to enable the wide deployment of intelligent solutions on all possible devices. Be a part of our Deep Learning research project in Corporate R&D, where you will be involved and participate in building best-in-class solutions and tools needed to enable state-of-the-art technologies for next generation mobile/embedded machine learning platforms for smart phones, autonomous vehicles, robotics and IOT devices. In this role, you will work in a dynamic research environment, be part of a multi-disciplinary team of researchers and software developers, collaborate with internal teams, work with popular neural network frameworks, and understand the architecture of Qualcomm’s SOC compute and ML HW accelerators. You will design, develop & test software for machine learning tools and frameworks that enable making models smaller and run efficiently on all edge devices. The successful applicant should have a strong software background, and passion to work on neural network frameworks/libraries.
+
+We are looking for motivated engineers at various levels who possess experience in some of the areas below:
+Extensive programming in Python, C/C++
+Object-oriented software design and development
+Experience in debugging complex software issues
+Knowledge of neural networks, with hands-on experience using ML frameworks such as TensorFlow or PyTorch
+Knowledge of Convolutional Neural Networks (CNNs), RNN/LSTMs
+Familiarity with any of the deep learning compiler frameworks TVM, Glow or XLA
+Experience with compiler frameworks such as LLVM or GCC
+Knowledge Qualcomm Hexagon DSP is a plus
+Experience developing embedded software, preferably on-device ML
+Experience with CI/CD tools like Jenkins, Docker, and Cloud technologies
+Previous experience working on machine learning data pipelines
+Previous experience working in an Agile environment, and collaborating with multi-disciplinary teams
+Applicants: If you are an individual with a disability and need an accommodation during the application/hiring process, please call Qualcomm’s toll-free number found here for assistance. Qualcomm will provide reasonable accommodations, upon request, to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. Qualcomm is an equal opportunity employer and supports workforce diversity.
+
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.
+
+EEO Employer: Qualcomm is an equal opportunity employer; all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or any other protected classification.

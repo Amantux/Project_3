@@ -1,0 +1,81 @@
+SUMMARY
+
+The Data Scientist will use expertise in programming databases modeling statistics and visualization to analyze data at scale. This may entail querying databases data processing supervised and unsupervised machine learning deploying production models and communicating findings.
+
+The Data Scientist is a thought partner assisting MAPMG to make strategic data-related decisions by analyzing and manipulating data and building models to assist in the clinical and operational setting. The primary focus will be on models used in the clinical care of patients. The Data Scientist works with team members physicians and managers and uses team collaboration and project management tools to monitor and manage the work.
+
+RESPONSIBILITIES
+
+Perform data discovery collection and integration of data from multiple source systems to support exploratory data analysis and model building.
+
+Apply statistical methods to understand and analyze data in support of business requests; ability to influence product decisions.
+
+Build predictive models in Python or R. Explain models analyses and present findings to other data scientists and business partners.
+
+Build data applications and data access libraries to support general data scientist activities.
+
+Integrate data and technical solutions by maximizing the use of the Electronic Medical Records.
+
+Communicate data science results to both technical and non-technical stakeholders.
+
+Create database-to-deployment pipelines for models using the necessary programming languages (primarily Python SQL).
+
+Adhere to data analysis/machine learning best practices to create a sustainable data science infrastructure.
+
+Work with business partners to identify areas where data science can best deliver value.
+
+Test and validate code to ensure robustness of data applications.
+
+Through the use of Kaiser systems specifically Kaiser Permanente Health Connect (KPHC) researches plans for data gathering and analysis; participates significantly in interpreting analyses and developing action plans accordingly. Data will involve pending orders and sending staff messages within KPHC.
+
+Writes clean performant reusable code to perform repeatable analyses and to train and deploy models to multiple environments.
+
+Other duties as assigned.
+
+Core Technical Skills
+
+Software architecture skills for data science (ability to build full systems)
+
+Advanced SQL and schema design
+
+Ability to develop deep domain expertise
+
+Expert in Machine Learning and the statistics that underlie Machine Learning
+
+Key Performance Indicators and Metrics
+
+High-quality code with on-time delivery
+
+Goal attainment
+
+Knowledge advancement
+
+Knowledge transfer to other team members
+
+Core Soft Skills
+
+Interpersonal skills
+
+Team work
+
+Problem solving
+
+Mentoring and teaching others
+
+QUALIFICATIONS
+
+Bachelor’s degree in Computer Science or related field required. An Advanced Degree (Master of Science or PhD) is preferred or portfolio of project demonstrating solid skills in programming and machine learning.
+
+Must be proficient with Python.
+
+Must be proficient with SQL.
+
+1 + year work experience with design patterns implementation and deployment of AI and/or data science products.
+
+Experience with Atlassian suite (Bitbucket Jira Confluence) and Git strongly preferred.
+
+Strong problem-solving skills and capability to understand and set direction for complex technology integration
+
+Understanding and focus on business outcomes
+
+Ability to write clean performant reusable code to perform repeatable analyses and to train and deploy models to multiple environments.

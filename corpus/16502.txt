@@ -1,0 +1,47 @@
+Req ID: 94197
+
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a SMART Platform Lab Data Scientist to join our team in Palo Alto, California (US-CA), United States (US).
+
+Data Scientist will:
+Select features, build and optimize classifiers using machine learning techniques
+Perform data mining using state-of-the-art methods
+Extend company’s data with third party sources of information when needed
+Enhance data collection procedures to include information that is relevant for building analytic systems
+Process, clean, and verify the integrity of data used for analysis
+Perform ad-hoc analysis and present results in a clear manner
+Create automated anomaly detection systems and constant tracking of its performance
+Basic Qualification:
+15+ years of overall technology experience, with 7+ years of data science and data analysis experience
+Minimum of 3-5 year of excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc
+Minimum of 3-5 years of experience with common data science toolkits, such as R, Weka, NumPy, MatLab, etc.
+Minimum of 3-5 years of experience with data visualization tools, such as D3.js, GGplot, etc
+Minimum of 3-5 years of experience using query languages such as SQL, Hive, Pig and systems like SPARK.
+3-5 years of experience with NoSQL databases, such as MongoDB, Couchbase, or Cassandra
+Minimum of 3-5 years of experience with applied statistics skills, such as distributions, statistical testing, regression, etc
+Minimum of 3-5 years of experience with scripting and programming skills
+3-5 years of experience operating successfully in large-scale, highly complicated and global environments – Japan experience is a plus
+Advanced technical degree
+Nice to have:
+Experience with NoSQL databases, such as Cassandra, MongoDB, or CouchDB
+Experience with various messaging systems, such as MQTT or RabbitMQ
+Experience working in public cloud environments like AWS, Azure.
+Experience with assisting Data Scientists with conforming and integrating data, data preparation and data cleansing, and then automating that work over time.
+Good understanding of Lambda Architecture, along with its advantages and drawbacks
+Experience with Cloudera/MapR/Hortonworks
+Experience working in large-scale, highly complicated and global environments – Japan experience is a plus
+A strong team-oriented mindset
+Experience with SQL and RDBMS systems for analytic querying
+Experience using various ETL techniques and frameworks, such as Flume and Informatica
+Experience using Big Data querying tools and approaches including Parquet, Hive, and Impala
+About NTT DATA Services
+
+NTT DATA Services is a global business and IT services provider specializing in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.
+
+NTT DATA Services is an equal opportunity employer and will consider all qualified applicants for employment without regard to race, gender, disability, age, veteran-status, sexual orientation, gender identity, or any other class protected by law.
+
+Nearest Major Market: San Jose
+Nearest Secondary Market: Palo Alto
+Job Segment:
+Database, Consulting, SQL, Data Mining, Technology

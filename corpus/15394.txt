@@ -1,0 +1,34 @@
+Overview
+
+goPuff is seeking a Data Engineer which will be responsible for supporting the data ingest and integration needs at goPuff. The data engineer must provide technical expertise and leadership on architecture, design, and integration of multiple datasets into goPuff’sever evolving, large scale data environment. Emphasis of this position will be in developing and deploying a robust data processing pipeline and streams.
+
+Responsibilities
+Responsible for designing, deploying, and maintaining analytics about goPuff’s environment that process data at scale
+Contributes design, configuration, deployment, and documentation for components that manage data ingestion, real time streaming, batch processing, data extraction, transformation, enrichment, and loading of data into a variety of cloud data platforms, including AWS and Microsoft Azure
+Identifies gaps and improves the existing platform to improve quality, robustness, maintainability, and speed
+Evaluates new and upcoming big data solutions and makes recommendations for adoption to extend our platform to meet advanced analytics use cases, such as predictive modeling and recommendation engines
+Performs development, QA, and dev-ops roles as needed to ensure total end to end responsibility of solutions
+Qualifications
+4-6 years of experience in a Data Engineering role
+Experience building, maintaining, and improving Data Processing Pipeline / Data routing in large scale environments
+Fluency in common query languages, API development, data transformation, and integration of data streams
+Strong experience with large dataset platforms such as (e.g. Amazon EMR, Amazon Redshift, Elasticsearch, Amazon Athena, Azure SQL Database, Azure Database for PostgreSQL, Azure Cosmos DB)
+Experience in producing and consuming topics to/from Apache Kafka, AWS Kinesis, or Azure Event Hubs
+Experience with data flow monitoring, batching, and streaming
+Experience working with variety of databases and expert using SQL
+Experience data storage performance analysis and enhancements such as data replication, distribution, and compression
+Experience with acquiring data from varied sources such as: API, data queues, flat-file, remote databases
+Creativity to go beyond current tools to deliver the best solution to the problem
+Data QA experience is a plus
+Experience with event-based and transaction-based system is a plus
+About Us
+
+The only predictable thing about life is that it’s wildly unpredictable. That’s where we come in.
+
+When life does what it does best, customers turn to goPuff to deliver their everyday essentials, and to get through their day & night, work day and weekend.
+
+We’re assembling a team of thinkers, dreamers & risk-takers...the kind of people who know the value of peace of mind in an unpredictable world. (And people who love snacks.)
+
+Like what you’re hearing? Welcome to goPuff.
+
+The goPuff Fam is committed to an inclusive workplace where we do not discriminate on the basis of race, sex, gender, national origin, religion, sexual orientation, gender identity, marital or familial status, age, ancestry, disability, genetic information, or any other characteristic protected by applicable laws. We believe in diversity and encourage any qualified individual to apply. We are an equal employment opportunity employer.

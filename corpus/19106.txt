@@ -1,0 +1,41 @@
+Get your career started at eHealth
+
+
+eHealthInsurance has many exciting career opportunities in a number of locations, across various functions. Come join us today!
+
+Data Engineer
+
+At eHealth, we are passionate about solving our nation's toughest problems to bring more suitable, accessible, and affordable health insurance to Americans. We are seeking a talented data engineer to join our growing data team, which is already making a valuable impact on the entire company. This person will help us develop cutting-edge data tools and pipelines to drive better and faster decision making within our company and to better serve our customers. This is a fast-paced, collaborative, and iterative environment requiring quick learning, agility, and flexibility.
+
+Responsibilities:
+Become the subject matter expert on our data and its capabilities. Your scope of knowledge will need to include various data systems that are specialized to internal departments and 3rd party data platforms.
+Design and build highly scalable data integration / ETL pipelines to improve data accessibility and consumption.
+Automate data processing using workflows tools to schedule and manage dependency of various data pipelines.
+Work directly with data scientists to develop scalable implementation of statistical and machine learning models in production, and work with software engineers to design, build, and maintain APIs to interact with those models.
+Recommend ways to improve data reliability, efficiency, and quality.
+Assist eHealth’s data architect with logical and physical data model designs and documentation.
+Work with data infrastructure team to triage issues and support issue resolution.
+Minimum Qualifications:
+Bachelors or Masters in Computer Science, Engineering, or a related quantitative field.
+2+ years of experience with designing, implementing and maintaining scalable and reliable data pipelines
+Mastery of SQL in writing complex and high performance queries
+Working experience with MPP systems (Snowflake, Spark SQL, Hive) and NoSQL systems (MongoDB, etc).
+Production coding experience with Python, Scala or Java and scripting languages (Unix shell) as well as solid experience with git.
+Expertise with relational databases and experience with schema design and dimensional data modeling.
+Working experience with various ETL technologies and frameworks (Pentaho, Informatica, Matillion, etc.)
+Knowledge of AWS data tools.
+Excellent communication skills.
+Highly motivated problem-solver who enjoys working in a fast-paced environment and can also be patient with the pace of highly regulated industries like healthcare.
+Nice to Have:
+Experience collaborating with data science team.
+Strong experience in designing and implementing data APIs.
+Product familiarity with Adobe Analytics, Cisco systems, Snowflake.
+Familiarity with workflow management tools (Airflow).
+Working experience with data warehousing.
+Ability to create beautiful data visualizations using D3, Tableau, or similar tools.
+Working experience with large healthcare related datasets, including EHRs, medical claims data, and health population surveys. Experience in building healthcare data pipelines would be a big plus.
+Knowledge of healthcare insurance industry, products, systems, business strategies, and products.
+Experience working with call center operations.
+eHealth is an Equal Employment Opportunity employer. It is our policy to provide equal opportunity to all employees and applicants and to prohibit any discrimination because of race, color, religion, sex, national origin, age, marital status, sexual orientation, genetic information, disability, protected veteran status, or any other consideration made unlawful by applicable federal, state or local laws. The foundation of these policies is our commitment to treat everyone fairly and equally and to have a bias-free work environment.
+
+If you are interested in applying for employment with eHealth and need special assistance or an accommodation to apply for a posted position contact us at: accommodations@ehealthinsurance.com.

@@ -1,0 +1,49 @@
+Who_We_Are
+
+The Personalization & ML Engineering team is responsible for building features
+powered by machine learning such as personalized content recommendations.
+
+Responsibilities
+Build and improve machine learning pipeline that power Peloton s
+content recommendations.
+Evaluate, implement, and improve machine learning models.
+Productionize, deploy and monitor machine learning based services.
+Qualifications
+Passion for building scalable backend framework that supports a rapid
+growing user base
+4+ years of software development experience
+Strong understanding of software engineering principles and fundamentals
+including data structures and algorithms.
+Proficient in at least one programming language, e.g., Python, Java,
+Kotlin, Go, C++, C.
+Experience with relational and non-relational databases such as Postgres,
+MySQL, Cassandra, or DynamoDB.
+Experience with both machine learning and developing services with
+production quality deployment and monitoring.
+Strong machine learning knowledge, including neural networks, RNNs and
+CNNs. Good understanding of the practical aspects of ML such as train/
+dev/test sets, bias, variance, overfitting, hyperparameter tuning, etc.
+Experience using machine learning libraries and tools, such as PyTorch,
+Tensorflow, Keras, Caffe, Theano, or scikit-learn.
+Familiar with monitoring and deployment tools and platforms, for
+instance, DataDog, Jenkins, Docker, Kubernetes, Terraform and AWS
+services.
+Self directed and detail oriented with ability to come up with good
+design proposals or thorough analysis of production issues.
+About_Peloton
+Founded in 2012, Peloton is a global interactive fitness platform that brings
+the energy and benefits of studio-style workouts to the convenience and comfort
+of home. We use technology and design to bring our Members immersive content
+through the Peloton Bike, the Peloton Tread, and Peloton Digital, which provide
+comprehensive, socially-connected fitness offerings anytime, anywhere. We
+believe in taking risks and challenging the status quo by continuously
+innovating and improving. Our team is made up of passionate brand ambassadors,
+and we know that together, we go far.
+
+Headquartered in New York City, with offices, warehouses and retail showrooms
+in the US, UK and Canada, Peloton is changing the way people get fit. Peloton
+has been named to many prestigious industry lists, including Fast Company's
+Most Innovative Companies, CNBC's Disruptor 50, Crain's New York Business'
+Tech25 and Fast50, as well as TIME's Genius Companies. Visit
+to learn more about joining our team.
+Show moreShow less

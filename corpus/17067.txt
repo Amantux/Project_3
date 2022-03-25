@@ -1,0 +1,62 @@
+Experfy*, a Harvard-incubated on-demand talent platform, is working with Deloitte to build an innovative Future of Work model in which elite consultants work remotely on short-term and long-term projects. Top experts who are selected to become part of Deloitte TalentCloud receive preferred access to contract opportunities that are focused on cutting-edge emerging technologies. We invite candidates to apply to become part of this prestigious community and take advantage of virtual work arrangements.
+Position Summary: *Deloitte is looking for a Master Data Management (MDM) Engineer works in collaboration with the MDM team and product stakeholders to implement, maintain, and enhance data models and solutions used to define and measure quality of data domains. The MDM Engineer applies innovative and best practice techniques for modeling, developing, enhancing, and deploying database, reporting, and integration solutions. The MDM Engineer will support existing MDM solutions and play a key role in new data integration and reporting initiatives that support organizational priorities while complying with the organization's IT and architectural standards.
+Roles and Responsibilities: *
+• Design, construct, install, test and maintain highly scalable data pipelines with state-of-the-art monitoring and logging practices.
+• Bring together large, complex and sparse data sets to meet functional and non-functional business requirements.
+• Design and implement data tools for analytics and data scientist team members to help them in building, optimizing and tuning our product.
+• Integrate new data management technologies and software engineering tools into existing structures.
+• Help in building high-performance algorithms, prototypes, predictive models and proof of concepts.
+Technical Qualifications: *
+· At least 4+ years of experience in architecting, designing and configuring Informatica MDM.
+
+· 4+ years of relevant data management consulting or industry experience (master data, metadata, data architecture, data governance, data quality, data modeling).
+
+· 2+ years experience with Informatica MDM multi-domain edition or one of the 360 solutions in architecting, designing, and configuring solutions.
+
+· 2+ years of experience leading workstreams with significant experience leading components of data engagements and team sizes ranging from 3 to 10 resources.
+
+· Bachelors Degree or 4+ years equivalent professional experience
+
+· Informatica Data Director, Business Enterprise service
+
+· MDM User Exits, IDD user exits and validation framework configuration
+
+· Deep understanding of MDM and upstream and downstream integration
+
+· Knowledgeable in Informatica Power center ETL design development
+
+· Experience in ActiveVOS workflow management
+
+· Experience in Pub/Sub model for data integration both on premise and cloud
+Preferred Skills: *
+· Experience in the latest components of Informatica multi-domain MDM editions including Entity 360 and ActiveVOS.
+
+· Experience with other data management toolsets: Reltio, Informatica Powercenter, Informatica Data Quality, etc.
+
+· Experience in designing and architecting integrations between Informatica MDM and other systems using standard connectors, publish-subscribe, and other mechanisms.
+
+· A proven resource in defining systems strategy, developing systems requirements, designing and prototyping, testing, training, defining support procedures, and implementing practical business solutions under multiple deadlines.
+
+· Strong oral and written communication skills, including presentation skills (MS Visio, MS PowerPoint).
+
+Job Type: Contract
+
+Pay: $70.00 - $130.00 per hour
+
+Experience:
+Cleansing and Match and Merge: 5 years (Preferred)
+Informatica MDM: 5 years (Preferred)
+Informatica Powercenter ETL: 5 years (Preferred)
+ACTIVOS workflow management: 5 years (Preferred)
+Informatica Data Director, Business Enterprise: 5 years (Preferred)
+Pub/Sub model for data integration both on premise and cloud: 5 years (Preferred)
+Landing/Staging/Base table configuration: 5 years (Preferred)
+MDM full cycle Implementation: 5 years (Preferred)
+License:
+Informatica (Preferred)
+Application Question:
+"Are you currently an independent contractor/have your own company/working on a W2 please specify? Also confirm if you need visa sponsorship?"
+Work Location:
+Fully Remote
+Work Remotely:
+Yes

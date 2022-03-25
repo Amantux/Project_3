@@ -1,0 +1,12 @@
+Job Description
+Job Description:
+The AI/DL Data Scientist will help design and implement AI/DL systems for a wide variety of use cases and applications. This position will be responsible for tracking and projecting the evolving needs of the AI community as well as understanding AI systems architectures, hardware technologies evolution, emerging technology opportunities, and the maturing AI applications software landscape and horizon.
+
+Primary responsibilities:
+• Assist customers in POCs by developing and optimizing Deep Learning models for GPU environments. Help design and deploy solutions for the leading customers
+• Develop optimized model repository for common use cases and verticals (finance, life sciences, etc) on Dell + NVIDIA technology to provide a starting point for customers
+• Familiarity with the Frameworks such as Tensorflow, py torch, mxnet, caffe 2 etc.
+• Develop best practices for GPU training at scale (Example: Optimal usage of tensorcores and FP16 training, Using TensorRT for model optimization before deployment)
+• Demonstrate Dell’s thought leadership in the AI space by publishing in peer-reviewed forums and blogs, collaborating with university partners and other companies to expand the company’s knowledge of emerging techniques in data analysis
+• Maintain constant awareness of the emerging AI techniques and will participate in research activities to maintain technical vision and perspective.
+• Python programming experience.

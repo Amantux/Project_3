@@ -1,0 +1,44 @@
+Job Title: Software Engineer
+Locations: HOUSTON, Texas
+Job Type: Direct
+Start Date: 2/17/20
+End Date:
+Status: Active
+Candidates Sought: 1
+Still Needed: 1
+Skills:
+Email this job to a friend.
+
+DESCRIPTION OF POSITION/DUTIES:
+
+Primary responsibilities are Data Validation support for:
+Data parameter review, validation and certification
+Establishing and maintaining data/command alarms and limits for testing and flight
+Integration of data, electrical and mechanical interfaces across the vehicle.
+Design, develop and execute Orion Spacecraft Flight Software formal verification tests. Tasks encompass full life cycle of safety critical requirements based testing through the following steps:
+Derivation of verification success criteria from analysis of requirements text and design considerations
+Creation of test procedure to drive execution of requirements under test
+Translation of test procedure into executable python script
+Execution of test script in formal test lab- Gathering of test artifacts
+Creation and execution of any post-processing artifacts if necessary
+Generation of test results report
+Tech review of test results with stakeholder community
+Will be required to participate in team scrum activities for planning and statusing
+
+Will be required to share knowledge and lessons learned with other team members
+
+May be required to work flex hours occasionally to run tests in labs on second and third shift
+
+EDUCATION LEVEL:
+Minimum BS or equivalent in Computer Science, Math, Physics or most Engineering disciplines
+SKILLS/CERTFICATIONS:
+
+Programming skills/experience:
+Python - moderate to advanced required
+C++ - moderate preferred, familiarity required
+An appreciation of software configuration management rigor is necessary
+Must be comfortable working in both Linux and Windows environments
+Previous experience with testing safety critical software in a real-time operating system is highly desired, preferably aeronautical or astronautical
+United States Citizenship required.
+YEARS OF EXPERIENCE:
+4+ Years

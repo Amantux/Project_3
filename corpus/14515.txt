@@ -1,0 +1,52 @@
+Job Description
+What We Do
+Kalderos delivers technology that solves the challenges facing the US healthcare system. At Kalderos, we develop technology solutions with a focus on simplifying the complex coordination of drug discount programs from exhaustive data services to intelligent reporting to issue resolution.
+
+To learn more: https://www.kalderos.com/company/about
+
+What Data Scientists Do
+
+The Data Science team’s mission at Kalderos is to maximize the trust of all participants in our Drug Discount Management Platform. This starts with having trust in each other as a team, then expanding it to do this work in three primary ways: building differentiated datasets, measuring what matters, and optimizing the right process transparently. If that means a model, great! If that means working with design to develop a different product approach, also great! Below are some possible day to day tasks for a data scientist at Kalderos.
+Build, test, deploy, and maintain supervised or unsupervised learning models. Work with internal teams that operationalize that work to ensure their output is high quality and continually improving for end users
+Create internal dashboards to monitor processes and measure impact
+Participate in generating collateral that supports our sales process or creates valuable industry content that showcases Kalderos’ unique position in the industry
+Work with product teams to collect forward looking data points to enable future data science solutions
+Build internal tools to enable team mates to scale their knowledge and increase impact
+Learn a new programming language, data science technique, or about the pharmaceutical industry - we continually build our skills and explore new things
+
+What We Are Looking For
+Some work experience as a Data Scientist in a full time role
+Ability to write machine learning and data analysis code in R or Python
+Some ways you may demonstrate this are:
+Open GitHub Repositories or portfolios
+Project descriptions of what you have accomplished
+Kaggle competitions
+Published or working papers that use data science methods
+Ability to take complex information and communicate it clearly for different stakeholders, both technical and non-technical
+Some ways you may demonstrate this are:
+Talks or presentations you have given in the past
+Speaking through your work history in a phone interview
+High quality data visualizations that communicate complex information clearly
+Candidates must be authorized to work in the US and be able to work in Chicago
+
+What May Set You Apart
+Experience in healthcare or pharmaceuticals
+Open source contributions to popular data science tools
+Experience with data engineering tools such as Airflow
+Experience working with Azure or similar public cloud
+Experience working with SQL Server or similar databases
+
+If you think you meet some of the list of the above, but not everything, that’s perfectly fine! We encourage you to apply regardless. At Kalderos, we know talent comes in many forms, and we’re willing to look beyond a set of rigid criteria to find the right teammate.
+
+Company Perks
+401K plan with matching
+Healthcare benefits
+Flexible schedule and a fair PTO system that allows for a healthy work-life balance
+Opportunity to work on new technologies and learn new skills
+Celebration, and education stipends
+
+To learn more: https://www.kalderos.com/company/culture
+
+Kalderos is an equal opportunity workplace. We are committed to equal opportunity regardless of race, color, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or veteran status.
+
+Due to the circumstances of the COVID-19 pandemic, Kalderos has decided to protect our current and future employees by shifting to an entirely remote workforce. We will continue to operate, interview, onboard, and work remotely. Please be aware that some of our roles will not be remote long-term and will return to an office setting once we're safe to do so following the guidance of local health authorities and the CDC.

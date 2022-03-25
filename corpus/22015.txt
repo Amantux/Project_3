@@ -1,0 +1,50 @@
+Project Overview
+This role will support the Application LEM program that entails upgrading several critical applications to ensure they continue to function, and to support the clients goal of becoming a Digital Utility. This program includes the following projects:
+Niagara Apps Upgrade
+IB/Integration Bus Upgrade,
+Integration Gateway upgrade (DataPower)
+SiteCore Cloud Migration
+Live Data Servers Upgrade
+Content Server Upgrade
+
+Job Functions & Responsibilities
+The Business Analyst plays a key role gathering functional and technical requirements, conducting data mapping, preparing test plans and scripts, executing testing, assisting with completion of Disaster Recovery and Technology Impact documents, assisting with stakeholder communications and change management. The BA will, at a minimum:
+Inventory existing applications requiring upgrades.
+Document functional requirements for each application to be upgraded.
+Create Business Process flows / Business process documents
+Create Technical Requirements documents
+Create Requirements Traceability Matrices
+Create Test Plans, Scenarios and Scripts. Execute testing.
+Assist team with stakeholder communications
+Assist team with completion of provided Technology Impact Assessment forms
+Weekly status reports. Meeting agendas, materials, and minutes for weekly meetings.
+
+Skills
+Extensive experience in developing detailed requirements functional and technical.
+Excellent written and verbal communication skills, and interpersonal skills.
+Excellent analytical, critical thinking and problem-solving abilities.
+A deep understanding of technical concepts, principles and terminology.
+Knowledge of data science concepts and experience gathering data requirements.
+Ability to work in a team environment with both employees and consultants is a must.
+Ability to communicate effectively across many different levels of technical and business teams.
+Experience with Agile and hybrid waterfall project methodologies.
+Superior presentation and negotiation skills.
+Proven management and organizational skills.
+Strong adaptability and capacity to work in fast-paced environments.
+Experience with Azure, AWS, DataPower, IBM Integration Bus/Websphere a plus
+Experience with DevOps and associated tools (Azure DevOps a plus).
+Experience with Project Portfolio Management tools (Innotas/PPM Pro) a plus.
+Utilities and Governmental experience is a plus.
+
+Education & Certifications
+BS in Computer Science, Information Systems, or a related field from an accredited school, or equivalent.
+5+ years of applicable experience, preferably in the area of Business Analysis for IT projects including cloud computing and data integration.
+Any of the following BA certifications a plus:
+IIBA Entry Certificate in Business Analysis (ECBA)
+IIBA Certification of Competency in Business Analysis (CCBA)
+IIBA Certified Business Analysis Professional (CBAP)
+IIBA Agile Analysis Certification (AAC)
+IQBBA Certified Foundation Level Business Analyst (CFLBA)
+IREB Certified Professional for Requirements Engineering (CPRE)
+PMI-Professional in Business Analysis (PBA) Certification
+Certifications in Agile, DevOps a plus

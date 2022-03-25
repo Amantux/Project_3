@@ -1,0 +1,21 @@
+Ladders is seeking an experienced Data Engineer to join our engineering-led organization. Come join the team responsible for the flow of data from ingestion to consumption. This role is highly visible and works with a variety of stakeholders. We currently run primarily RDBMS in the cloud but are looking to expand our use of cloud native technologies. The ideal candidate would understand both RDBMS and newer technologies (like RedShift, BigQuery, etc.). We seek someone with a passion for data while being grounded in solid engineering fundamentals (version control, monitoring, automated testing, etc.). The right person will have ample opportunity to make an impact on the organization.
+RESPONSIBILITIES
+Participate in the architecture and development of our cloud-based data pipeline
+Practice and promote craftsmanship in data infrastructure components (monitoring, testing, code reviews, documentation, scalability, performance, etc.)
+Own long-term impacts of key design decisions and balance technical debt with business needs
+Break down requirements, estimate tasks, and assist in planning roadmap accurately
+Help users get value from analytic data
+Grow engineering teams through mentorship, recruiting, and interviewing
+Focus on team over individual achievements
+Lead definition of team objectives and drive team towards them
+QUALIFICATIONS
+Previous success in a Data Engineering role, working knowledge of data concepts (optimization, integrity, policies, etc.)
+Strong SQL and Relational Skills
+Working knowledge of Cloud Data Platforms (RedShift, BigQuery)
+Ability to collaborate cross functionally with other engineering and non-engineering departments
+Architected non-trivial solutions for a company at scale
+Curious, self-motivated, and an empathetic drive to solve problems
+BONUSES
+Project/Product management experience
+Application development experience
+Previous experience working in a startup environment

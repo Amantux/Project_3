@@ -1,0 +1,36 @@
+At Recursion, we combine experimental biology, automation and artificial intelligence to quickly and efficiently identify treatments for human diseases. The Principal Data Scientist (Computational Chemistry) will identify and use computational chemistry methods, integrating them with machine learning and data science approaches to augment our AI platform, accelerate our current drug discovery programs, and lead towards the discovery of high value medicines.
+
+THE PROBLEMS YOU'LL SOLVE
+
+This is an individual contributor position reporting to the Director, Data Science, in which you'll help lead the expansion of Recursion's capabilities downstream of our high-throughput image-based phenotypic discovery platform. Specifically, you will collaborate with teams spanning data science, chemistry, and biology to apply ligand-based drug design techniques in the context of therapeutic project teams, and help guide methods development efforts in this area to complement a phenotypic-discovery-oriented process.
+
+In this role you will:
+Build. You will advance chemistry related R&D processes across Recursion's small molecule discovery programs by identifying and building computational tools to accelerate and automate them. You will apply the methods in hit to lead and lead optimization programs. In collaboration with chemistry, you will actively identify opportunities to contribute to Recursion's chemical space strategy, e.g. in evolving the screening library.
+Guide, Create, and Question. Just because something has been done one way for decades doesn't mean it's optimal. You will bring new methods to bear while staying thoughtful about the value that exists from many tried and true approaches, and guide your peers in the implementation of a creative vision for computational chemistry in drug discovery.
+Code. You are both a chemist and technologist at heart and won't be happy unless you are also writing code to be used throughout the organization.
+THE EXPERIENCE YOU'LL NEED
+Advanced degree in Computational Chemistry, Physical Organic Chemistry, Computer Science, Machine Learning, or relevant fields.
+Experience in shaping and executing programs in computational medicinal chemistry and pharmacology as part of multidisciplinary teams.
+Demonstrated contributions that changed the course of both active therapeutic candidate projects and longer-term research and development programs.
+3+ years experience in developing ligand-based drug design methods, including pharmacophore modeling, QSAR, 3D-QSAR, and conformational analysis.
+Experience in developing novel predictive models for DMPK/Tox in the context of active candidate programs is desirable.
+Experience developing new methods and products in computational chemistry for virtual library assembly and screening
+Experience in machine learning applied to chemistry, including both classical (e.g., matched-pairs and substructure analysis) and recent (e.g., representation learning and graph convolutional) methods.
+Expertise programming in thePython data stack, including ML packages such as Scikit-Learn,PyTorch, and Tensorflow/Keras, in a Linux environment.
+THE PERKS YOU'LL ENJOY
+Coverage of health, vision, and dental insurance premiums (in most cases 100%)
+401(k) with generous matching (immediate vesting)
+Stock option grants
+Two one-week paid company closures (summer and winter) in addition to flexible, generous vacation/sick leave
+Commuter benefit and vehicle parking to ease your commute
+Complimentary chef-prepared lunches and well-stocked snack bars
+Generous paid parental leave (including adoptive)
+Fully-paid gym membership to Metro Fitness, located just feet away from our new headquarters
+Gleaming new 100,000 square foot headquarters complete with a 70-foot climbing wall, showers, lockers, and bike parking
+WHAT WE DO
+
+Recursion is reinventing the pharmaceutical industry's approach to drug discovery. Our unique platform combines the most advanced biology, high-throughput automation, and artificial intelligence to rapidly discover treatments for rare diseases, diverse immune and inflammatory diseases and new indications in the future.
+
+Recursion is an equal opportunity employer and complies with all applicable federal, state, and local fair employment practices laws. Recursion strictly prohibits and does not tolerate discrimination against applicants because of race, color, religion, creed, national origin or ancestry, ethnicity, sex, pregnancy, gender (including gender nonconformity and status as a transgender individual), age, physical or mental disability, citizenship, past, current, or prospective service in the uniformed services, or any other characteristic protected under applicable federal, state, or local law.
+
+Check out what it is like to work at Recursion: https://www.youtube.com/watch?v=UpOENLieOd8

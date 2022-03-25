@@ -1,0 +1,42 @@
+Data Engineer
+
+Amazon is all-in on games. We are a new and energetic team building the BI systems for our games.
+Our mission is to be the most customer-obsessed company in the industry. At Amazon Games, were creating compelling games like New World, a sandbox MMO set on a supernatural continent in the 17th century, our multiplayer shooter Crucible, and our upcoming The Lord of the Rings MMO, plus unannounced projects.
+Were looking for an experienced Data Engineers to help us architect and build a centralized data system that integrates with multiple data sources (game data, Twitch, retail, marketing). As a data engineer you will develop scalable and innovative solutions to process terabytes of data and enable us effectively operate our business.
+
+If youd like to come join us, heres some things that are essential to success in this role:
+· Have a penchant for digging deep and attacking difficult and complex problems.
+· Be a self-starter who is able to work alone or as a member of a team.
+· Excellent oral and written communication skills as well as strong analytical and problem-solving skills.
+· Ability to work on multiple concurrent projects and interface with all levels within the organization.
+
+Key responsibilities include:
+· Architect scalable data pipelines that handle millions of events per second in a cost-effective manner using AWS technologies including Airflow, Spark, EMR, Glue, Kinesis, Redshift/Spectrum and Athena.
+· Create automated ingestion, processing, cleaning and aggregation of large data sets
+· Design user access controls that allows partial and complete data access to large and diverse groups of users
+· Work closely with game teams, Twitch, finance and marketing to build data solutions.
+· Help continually improve ongoing reporting and analysis processes
+
+
+Basic Qualifications
+
+· 5+ years of industry experience in data engineering, with a track record of manipulating, processing, and extracting value from large datasets
+· Demonstrated strength in data modeling, ETL development, and data warehousing
+· Experience using big data technologies (Airflow, EMR, Columnar Data Warehouses, Spark etc.)
+· Knowledge of data management fundamentals and data storage principles
+· Knowledge of distributed systems as it pertains to data storage and computing
+
+
+
+Preferred Qualifications
+
+· Experience working with AWS big data technologies (Redshift, S3, EMR)
+· Experience with Airflow or other similar ETL tools
+· Experience providing technical leadership and mentoring other engineers for best practices on data engineering
+· Proven success in communicating with users, other technical teams, and senior management to collect requirements, describe data modeling decisions and data engineering strategy
+· Familiarity with statistical models and data mining algorithms
+· Knowledge of software engineering best practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes, testing, and operations
+· Meets/exceeds Amazons leadership principles requirements for this role.
+· Meets/exceeds Amazons functional/technical depth and complexity for this role.
+
+Amazon is an Equal Opportunity Affirmative Action Employer Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation / Age

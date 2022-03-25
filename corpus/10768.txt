@@ -1,0 +1,31 @@
+Responsibilities
+
+The Health Analytics Data Scientist will work with a multidisciplinary team of faculty members and data scientists to extract meaningful and actionable insights from a variety of healthcare data, including but not limited to clinical, imaging, claims, and other biomedical and patient-related information. The individual will be responsible for integrating data from multiple sources with the goal of understanding the current operations of UCLA, a complex health system, including working with the Senior Data Scientists, health services researchers, and faculty to identifying areas where operational improvements can be made. The incumbent would directly contribute to delivering more efficient, more personalized care to the 600,000 unique patients seen by the UCLA Health System each year. In conjunction with the Senior Health Analytics Data Scientist, the Health Analytics Data Scientist will assist in data aggregation, data wrangling, implementation of classifiers using machine learning techniques, validation and updating of these classifiers to ensure optimal performance, exploration of clinical decision making tools, and implementation of a software platform to automate these tasks.
+
+Qualifications
+
+Bachelor’s or master’s degree in a quantitative field (e.g., mathematics, computer science, physics, economics, engineering, statistics, operations research, quantitative social science, etc.) highly desired, or equivalent work experience
+
+3 or more years of advanced data analysis experience and expertise in diverse statistical, data mining techniques and technologies.
+
+In depth knowledge of programming for data analysis, including Python, SQL, and/or R.
+
+Experience building, querying, and modifying relational databases such as My SQL or Postgres.
+
+Demonstrated knowledge of software development principles and architecture.
+
+Demonstrated analytical and problem-solving abilities in the context of analyzing large, real-world datasets that may contain inconsistent, missing, and/or conflicting information.
+
+Demonstrated skill to break down, synthesize and understand complex problems, define a solution, and implement it using advanced quantitative methods.
+
+Skilled at oral and written communication with prior experience in giving presentations, writing technical reports, and documenting code. The ability to present technical concepts and results in a manner that is understandable to other technical and non-technical stakeholders is critical.
+
+Self-motivated, strong work ethic, and independent.
+
+Familiarity with cloud-based platforms such as Microsoft Azure or Amazon Web Services.
+
+Must be a team player with excellent communication and problem-solving skills and have experience working with customers across teams.
+
+Familiarity with scientific notebook/development environments, such as Jupyter and/or equivalents
+
+Prior experience with development of predictive models involving clinical, biological, or health-related datasets

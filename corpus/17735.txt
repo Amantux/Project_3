@@ -1,0 +1,42 @@
+Data Engineer
+Do you have Streaming Platform experience and want to build the next Netflix? If yes and you are a Data Engineer with experience, please read on!
+Top Reasons to Work with Us
+As the Data Engineer on the team, you will be a part of the team that is responsible for developing, constructing, test existing and new architectures. You will play an integral role in identifying ways to improve data reliability, efficiency, and quality. This position will work closely with the Content Intelligence team along with all of the Data Engineering and cross-functional teams.
+What You Will Be Doing
+" Provide thought leadership and lead best practice solutions for the entire Data Engineering team.
+" Take lead in driving a culture of high quality, innovation, and incremental experimentation.
+" Design, implement and fully own critical portions of analytical data models and pipelines used to populate them.
+" Lead the collaboration with stakeholders to understand requirements, lead and design data structures using best practices, and develop batch or real-time data pipelines to ensure the timely delivery of high-quality data.
+" Own, maintain and support existing data pipelines and platforms storing petabytes of data quickly and reliably.
+" Creatively explore and demonstrate the value of data for the team. Be part of a driving force that enables and empowers better decision making through data.
+" Has a knack of using flexible and scalable methodologies that can be applied to a broad set of problems across the Data Engineering organization.
+" Always be thirsty for optimizations and always be eager to find new, improved ways to address an old problem.
+What You Need for this Position
+" 2-3 years in a lead capacity.
+" SQL Rockstar: can code complex SQL logic, lead best practices and drive the development of other data engineers.
+" Proven Computer Science fundamentals in Algorithms and Data Structures.
+" 7-8 years of experience in Python or other programming languages such as Scala or Java.
+" Significant experience with Big Data technologies such as Apache Spark.
+" 2-3 years of experience with MPP/Cloud Data Warehouses such as Snowflake.
+" Five years of experience with core AWS services related to data engineering.
+" Education: Bachelor's or Master's degree in computer science or related field.
+The Nice to Haves
+" Experience with using Apache Kafka or AWS Kinesis as a message bus for storing and processing high-velocity real-time data.
+" Experience with building data notebooks using Jupyter, AWS Sagemaker, or Databricks.
+" Experience with building and productionizing ML Pipelines and other solutions.
+" Experience with Graph-based workflow orchestration engine such as Apache Airflow.
+" Familiarity with marketing and media platforms/data sets.
+What's In It for You
+Great Benefits Package!
+So, if you are a Data Engineer with experience, please apply today!
+-
+Applicants must be authorized to work in the U.S.
+
+
+CyberCoders, Inc is proud to be an Equal Opportunity Employer
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.
+
+Your Right to Work In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+CyberCoders will consider for Employment in the City of Los Angeles qualified Applicants with Criminal Histories in a manner consistent with the requirements of the Los Angeles Fair Chance Initiative for Hiring (Ban the Box) Ordinance.

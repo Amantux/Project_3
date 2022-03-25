@@ -1,0 +1,83 @@
+About Us:
+
+AVAST Software (www.avast.com), maker of the world's most popular antivirus, protects over 400 million computers and mobile devices with our security applications. In business for 30 years, AVAST is one of the oldest companies in the computer security business, with a portfolio covering everything from free antivirus for PC, Mac, and Android, to premium suites and services for business – offered in about 40 languages.
+
+Headquartered in Prague, Czech Republic, with offices in the U.S., Europe, and Asia, AVAST Software employs some of the brightest new talent in the IT industry, from around 30 different nations.
+
+The position is based in Redwood City, CA and Emeryville, CA
+
+About Avast Intelligence Lab:
+
+The Avast Intelligence Lab analyzes data from our vast customer base, and provide up-to-the-second updates to our security products such as the antivirus and network security solutions. We also calculate and provide meaningful insights about the usage and anomalies of your devices.
+
+Avast Intelligence Lab is a fast growing team of ~50 data scientists utilizing artificial intelligence to enhance security and privacy for all devices (mobile, PC, and IoT) and to provide a rich user experience. Our team of researchers is a collection of brilliant minds from the top universities including Berkeley, Stanford, MIT, Czech TU, and we work across Silicon Valley and Europe.
+
+If you are excited about Machine Learning, and want to put your skills against a true adversary who wants to evade you at all costs, then come work with us to solve the next generation of threats in consumer security and privacy.
+
+About You:
+
+We are looking for a data scientist who will venture with us to solve the next generation of problems in consumer privacy. You will be focusing on research questions like: What private data are consumers exposing deliberately or inadvertently, and what kinds of profiles can be generated from this data? How can customers continue to get value from connected products without exposing private data unnecessarily?
+
+Your primary focus will be discovering hidden correlation when mining huge datasets and applying ML algorithms to predict user privacy, and finally developing an enhanced service (both mobile and PC) in collaboration with the engineering and product teams.
+
+Responsibilities:
+
+Data mining to uncover hidden correlation among data
+
+Applying supervised and unsupervised algorithms to generate better insights of user behavior
+
+Analyzing and propagating discovered insights to the team and discovering new ways for enhanced user experience
+
+Having fun in creating new and crazy ideas!
+
+Requirements:
+
+M.S. in EE/CS/Math/Stat/Physics with focus in AI/ML or equivalent qualification
+
+2+ years of relevant experience preferred
+
+Excellent understanding and experience with supervised and unsupervised machine learning algorithms such as SVM, AdaBoost, DBSCAN
+
+Experience with data science toolkits, such as Pandas, scikit-learn, Tensorflow
+
+Scripting and programming skills such as Python
+
+Experience with CNN, RNN, adversarial learning and reinforcement learning is a plus
+
+Proficiency in data engineering toolkits, such as Hive, BigQuery, Spark is a plus
+
+Experience with Docker, Kubernetes, AWS is a plus.
+
+Great statistical understanding and interpretation of complex data patterns and correlation
+
+Dedicated enthusiasm and courage to digest, hack, and dive into unknown challenges
+
+Communication, presentation, and visualization skills
+
+What we offer:
+
+The chance to join a major global tech company
+
+Amazing and truly international work environment
+
+Unlimited PTO
+
+Competitive Bonus Program
+
+Employee Share Matching Plan
+
+401k Match
+
+Medical, dental, and vision plan
+
+HSA AND FSA
+
+Commuter Benefit
+
+Onsite Gym
+
+Snacks, Wednesday breakfast, Friday lunches, and fun outings
+
+Sounds like fun? We look forward to hearing from you!
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

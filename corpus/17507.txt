@@ -1,0 +1,51 @@
+We are looking for a Data Engineer to join our team. You will be responsible for all aspects of the design, development and delivery of data and database solutions.
+
+What you'll do...
+Design, develop and implement data solutions. This may include: architecture design, prototyping of concepts to proof of concept, development of standards, design and development of test plans, code and module design, development and testing, data solution debugging, design and implementation of a solution that follows efficient design techniques and development that meets and exceeds the intent of the design of the data solution.
+Develop, construct, test and maintain optimal data pipeline architecture
+Support and maintain data and database systems to meet business delivery specifications and needs.
+Partner with a team of developers to effectively meet the deliverables and schedule of a data solution component within a larger application project.
+Lend support to various business and technology teams as necessary to ensure solid, scalable, robust solutions.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using MySQL, Python and ETL Tools
+Assemble large, complex data sets that meet functional / non-functional business requirements.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Prepare data for predictive analysis & use data to discover tasks that can be automated
+Partner with internal stakeholders including the BI & Finance teams to assist with data-related technical issues and support their data infrastructure needs.
+About you...
+3-5 years of experience in a Data Engineer role
+Degree in Computer Science, Statistics, Information Systems or equivalent field
+Advanced working SQL knowledge and experience working with relational databases
+Proven experience with Data Transformations & Integrity testing by using test-driven development methodologies.
+Demonstrated experience with EXPLAIN, indexing and query optimizations
+Prior experience with object-oriented/object function scripting languages: Python, Java, C++
+Prior experience with Amazon AWS RDS & Aurora
+Working knowledge of with Docker, Git & SDLC Methodologies
+Knowledge of Salesforce Data APIs and SOQL
+Experience building (or redesigning) and optimizing data pipelines, architectures and data sets.
+Knowledge of non-SQL data sources: such as JSON, MongoDB, and consuming data from APIs
+Prior experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Proven experience building processes supporting data transformation, data structures, metadata, dependency and workload management.
+Demonstrated experience with data security, encryption, HIPAA
+About us...
+
+Progyny is a leading fertility benefits management company in the US. We are redefining fertility and family building benefits, proving that a comprehensive and inclusive fertility solution can simultaneously benefit employers, patients, and physicians.Our benefits solution empowers patients with education and guidance from a dedicated Patient Care Advocate (PCA), provides access to a premier network of fertility specialists using the latest science and technologies, reduces healthcare costs for the nation’s leading employers, and drives optimal clinical outcomes. We envision a world where anyone who wants to have a child can do so.
+
+Our mission is to make any member’s dream of parenthood come true through a healthy, timely, and supported fertility and family building journey.
+
+Come join a company that’s been recognized by Modern Healthcare as one of the Best Places to Work in Healthcare.
+
+Our perks:
+Family friendly benefits:
+Paid maternity and paternity
+Fertility benefits (including egg freezing and IVF)
+Emergency childcare program
+Parent’s group
+Health, dental, vision and life insurance options for employees and family
+Paid vacation and summer flex time
+Company equity
+Bonus program
+401K Match
+Monday breakfasts/ Friday lunches/ healthy snacks
+Company social events
+Sit/ stand desks
+Progyny is an Equal Opportunity Employer. We respect and seek to empower each individual and support the diverse cultures, perspectives, skills and experiences within our workforce.

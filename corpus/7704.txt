@@ -1,0 +1,45 @@
+A desire to work in a collaborative, intellectually curious environment.
+
+Degree in Computer Science, Engineering, Mathematics, or a related field or 7+ years industry experience
+
+Demonstrated strength in data modeling, ETL development, and data warehousing.
+
+Data Warehousing Experience with Oracle, Redshift, Teradata, etc.
+
+Experience with Big Data Technologies (Hadoop, Hive, Hbase, Pig, Spark, etc.)
+
+MS in Statistics, Computer Science, or Mathematics
+
+Experience in data mining, machine learning techniques and statistics
+
+The ability to distill problem definitions, models, constraints from informal business requirements; and to deal with ambiguity and competing objectives.
+
+Ability to translate business requirements into solutions
+
+Ability to analyze mined data and extrapolate conclusions
+
+The mission of the Systems Intelligence team is to provide situational awareness to Amazon’s leaders enabling them to make decisions that will directly impact the culture of software development. A Sr. Data Scientist is critical to the success of this program to analyze the data we collect and provide statistical correlations that will drive future business decisions. Our team must provide visibility into the metadata collected from Amazon’s internal systems, software development tools, developer output metrics, and internal surveys to highlight differences across organizations. These variances will help drive discussions and investigations into areas that present potential bottlenecks or risks to software delivery. Based on the learnings from these investigations, we will identify best practices that can be shared with all levels of the organization to drive continuous improvement. A Sr. Data Scientist will complete the feedback cycle for our team, synthesizing the data we collect, providing correlation analysis, and guiding future investigations.
+
+As a Data Scientist, your role will be to leverage the past data to make future predictions, thereby helping us mitigate the uncertainty of the future by making predictions of future performance. While business intelligence tends to be structured, data science leans more toward the unstructured. You must deal with incomplete, messy, unorganized data, not immediately usable without some degree of cleaning and prepping. You will generate predictive insights and new product innovations by applying advanced analytical tools and algorithms utilizing advanced statistical packages, SQL, Hadoop, and open source tools like Python and Perl.
+
+In 2019, our team will deliver a dashboard for software development managers that provides in depth insights and business metrics about their teams, providing historical trending analysis along with comparisons against organizational averages, guiding managers toward improvement opportunities in development agility. By gathering datasets such as deployments, code submissions, code reviews, and team hierarchy, the dashboard will also provide a view for technical leaders to drive crosscutting initiatives such as SDE Ratios, remote code contributions, and migration to native AWS. Success will be measured by providing a dashboard built on Systems Intelligence (our internal data lake) that improves development agility. Examples include quantifying the efficiency gained by migrating to optimized platforms (pre-compute queries and deployment automation) along with identifying teams that could benefit from leveraging these services. Other examples include enabling teams to track increases in deployment velocity, increase in code coverage, and/or reduction in technical debt. With the cost of engineering resources constantly on the rise, leaders must seek opportunities to increase the efficiency of software development. Attempting to quantify software agility and baseline the maturity of software development teams has been a long-standing challenge because of the complexity in the development process and various forms of output. Providing visibility into the outcome of software development enables teams to identify maturity opportunities within their own processes and better understand the impact of changes.
+
+Industry experience as a Data Scientist or related specialty (e.g., Software Engineer, Business Intelligence Engineer, Data Eningeer) with a track record of manipulating, processing, and extracting value from large datasets.
+
+Coding proficiency in at least one modern programming language (Python, Ruby, Java, etc)
+
+Experience building/operating highly available, distributed systems of data extraction, ingestion, and processing of large data sets
+
+Experience building data products incrementally and integrating and managing datasets from multiple sources
+
+Query performance tuning skills using Unix profiling tools and SQL
+
+Experience leading large-scale data warehousing and analytics projects, including using AWS technologies – Redshift, S3, EC2, Data-pipeline and other big data technologies
+
+Experience providing technical leadership and mentor other engineers for the best practices on the data engineering space
+
+Linux/UNIX including to process large data sets.
+
+Experience with AWS
+
+Amazon.com is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation

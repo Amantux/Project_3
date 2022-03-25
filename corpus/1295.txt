@@ -1,0 +1,6 @@
+Job Title :Data Engineer
+Location : Austin, TX (remote)
+Position Type :Contract
+US Citizen, Green Card, TN, GC EAD and H4 EAD only No Third-party agencies corp to corp.
+Job Description:
+Candidates would need to have 10 years of experience or higher. Here's the technology stack - Greenplum, Hadoop (for their Data Lake) and Teradata (for their Datawarehouse). Spark is used for Data transformations. Experience with MongoDB and any type of Graph databases(Neo4j, Amazon Neptune, Cassandra) is a plus.

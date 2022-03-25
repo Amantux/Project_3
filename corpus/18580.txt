@@ -1,0 +1,20 @@
+ELK (ElasticSearch, Logstash and Kibana) Stack Engineer
+
+The ideal candidate will have experience with building and deploying a distributed ELK Stack.
+
+The candidate will implementLogstash configuration files, and set up data pipelines for various log types (Syslog, Web, etc.) and various types of reporting (JSON/XML).
+Designing, accessing, and maintaining data stores, feeds, and processing tools based on the ELK stack to include integration in an environment with multiple data sources and third-party applications
+Provide direction and guidance on the technical design and implementation. Assist with and/or coordinate the activities of other software developers to meet over-arching client program requirements
+Building and deploying Elasticsearch solutions to improve the implementation and enhancement of network and system monitoring and control tools and processes to include:
+Installing, configuring, and managing Elasticsearch clusters
+Setting up Logstash Pipelines
+Familiarity with LogStash filters: Grok, Mutate, Split
+Indexing data into those clusters
+Querying and analyzing the indexed data
+Develop automation scripts to identify anomalies and visualize results in Kibana
+*Prior experience with Node.JS, Python or React JS is required
+*Clearance Eligible
+
+About Aerotek:
+
+We know that a company's success starts with its employees. We also know that an individual's success starts with the right career opportunity. As a Best of Staffing® Client and Talent leader, Aerotek's people-focused approach yields competitive advantage for our clients and rewarding careers for our contract employees. Since 1983, Aerotek has grown to become a leader in recruiting and staffing services. With more than 250 non-franchised offices, Aerotek's 8,000 internal employees serve more than 300,000 contract employees and 18,000 clients every year. Aerotek is an Allegis Group company, the global leader in talent solutions. Learn more at Aerotek.com.

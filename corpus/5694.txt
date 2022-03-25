@@ -1,0 +1,78 @@
+**Intro:**  
+  
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.
+  
+**Summary:**  
+  
+Marketing Science R&D is an interdisciplinary team of data scientists focused on research that improves measurement and ads delivery on our platform. The team's expertise spans domains, including causal inference, survey methodology, machine learning, cryptology, location and identity prediction algorithms. We develop methodologies, design and prototype solutions, and partner with our engineering and product colleagues to scale these solutions such that millions of advertisers can benefit.
+  
+We're looking for researchers and data scientists with expertise in cryptology that can develop new technologies to securely receive, handle, and process data that is collected through various channels on and off Facebook. Team members will pursue deep technical knowledge of signals, identity, network and measurement systems at Facebook, and research new frameworks such that we can advance the state of advertising and measurement while maintaining a focus on security and privacy principles.
+  
+**Required Skills:**  
+  
+1. Research opportunities to leverage new data sources, systems, or technologies to improve data security, user privacy or ads measurement
+  
+2. Design and develop prototypes with scalable validation frameworks for ongoing evaluation
+  
+3. Work both independently and build cross-functional relationships with Engineering, Product and Analytics to shape long-term product roadmaps with a balance of technical rigor and strategic considerations
+  
+4. Learn new tools, systems and languages -quickly- as required by the particular project you are working on
+  
+5. Apply communication skills to engage diverse audiences on technical topics and nuanced insights
+  
+**Minimum Qualifications:**  
+  
+6. PhD in Computer Science, Engineering, Cryptography or related field, or a Master's within one of these fields combined with 3+ years of hands-on research experience in the internet, financial services, payments, security, or advertising industry architecting and implementing security features and solutions
+  
+7. Experience in Python and Presto, Hive or Spark SQL
+  
+8. Programming and scripting experience in a Linux environment to develop scalable research prototypes using at least one of: Bash, C/C++, Java, JavaScript or PHP
+  
+9. Experience designing and implementing analytical and/or algorithmic solutions, tailored to particular business needs and tested on large data sets
+  
+10. Experience with at least two of the following core security concepts:
+  
+11. Privacy enhancing technologies, e.g. data minimization and management, data anonymization, differential privacy
+  
+12. One or more cryptographic research areas: e.g. design and analysis of cryptographic algorithms and protocols, homomorphic encryption, secure multi-party computation, searchable encryption, and/or their application to data protection and privacy, authentication, payments, or digital advertising
+  
+13. Web security (SQL injection, XSS, side channel attacks)
+  
+14. Web services technologies (REST, SOAP, HTTP, JSON) and their application in relation to browser cookies and mobile device identifiers
+  
+15. Experience in privacy and data protection systems architecture and experience developing technical solutions to secure personal data across data infrastructures
+  
+16. Knowledge in security-related patents, conference presentations, academic papers, or other indicators of research proficiency in industry-grade security
+  
+**Preferred Qualifications:**  
+  
+17. Applied experience leveraging causal inference, machine learning or advanced statistical modeling
+  
+18. Experience with online advertising, targeting, optimization and measurement systems and advertising technology platforms (ad servers, DSPs, DMPs, etc.)
+  
+19. Familiarity with network and web security protocols such as TLS, IPSec etc.
+  
+20. Familiarity with user and code authentication and authorization systems
+  
+**Industry:**  Internet
+  
+**Equal Opportunity:**  Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law. Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.  
+
+Job Summary
+
+                             
+                     
+                         Location 
+                             Seattle, WA 98194 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         206355063

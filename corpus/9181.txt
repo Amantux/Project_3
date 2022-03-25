@@ -1,0 +1,51 @@
+About Hive
+
+Hive is a full-stack deep learning platform helping to bring companies into the AI era. We take complex visual challenges and build custom machine learning models to solve them. For AI to work, companies need large volumes of high quality training data. We generate this data through Hive Data, our proprietary data labeling platform with over 1,000,000 globally distributed workers, generating millions of high quality pieces of data per day. We then use this training data to build machine learning models for verticals such as Media, Autonomous Driving, Security, and Retail. Today, we work with some of the largest companies in the world to redefine how they think about unstructured visual data. Together, we build solutions that incorporate AI into their businesses to completely transform industries.
+
+We are fortunate that investors like Peter Thiel (Founders Fund), General Catalyst, 8VC, and others see Hive's potential to be groundbreaking in AI business solutions. We have over 120 rock stars globally in our San Francisco and Delhi offices. Please reach out if you are interested in joining the AI revolution!
+
+Data Scientist Role
+
+In order to execute our vision, we need to grow our team of best-in-class machine learning engineers. We are looking for developers who are excited about staying at the forefront of deep learning technology, prototyping state-of-the-art neural net models and launching these models into production. We value hard workers who have no qualms working with terabyte-scale datasets, who are interested in learning new technologies at all levels of the machine learning stack, and who move fast and take ownership of their projects. Our ideal candidate has experience creating a working machine learning-powered project from the ground up, contributes innovative ideas and ingenious implementations to the team, and is capable of planning out scalable, maintainable data pipelines.
+
+Responsibilities
+
+Everything involved in analyzing a production data set, including:
+
+Writing code to transform massive raw data output into a structured, usable form
+
+Leveraging more traditional machine learning techniques to uncover hidden relationships in our data sets
+
+Conducting statistical analysis of results to prove / disprove hypotheses, and
+
+Write up reports that our other team members can use to deliver in a product
+
+Interface closely with the Product, Business Development, and Sales teams to answer questions about our data sets that our customers and partners are seeking solutions for
+
+Requirements
+
+You have an undergraduate or graduate degree in computer science or similar technical field, with significant coursework in mathematics or statistics
+
+You have 1-2 years of industry data science experience
+
+You have successfully worked with complex data sets and are familiar with Hadoop / Spark
+
+You know the ins and outs of Python, especially as it applies to the above data processing frameworks
+
+You are capable of quickly coding and prototyping data pipelines involving any combination of Python, Node, bash, and linux command-line tools, especially when applied to large data sets consisting of millions of files
+
+You have a working knowledge of the following technologies, or are not afraid of picking them up on the fly: C++, Scala / Spark, R, Matlab, SQL, Cassandra, Docker
+
+You are comfortable with running and interpreting common statistical tests, and also with common data science techniques including dimensionality reduction and supervised and unsupervised learning
+
+You have great communication skills and ability to work with others
+
+You are a strong team player, with a do-whatever-it-takes attitude
+
+What We Offer You
+
+We are a group of ambitious individuals who are passionate about creating a revolutionary machine learning company. At Hive, you will have a significant career development opportunity and a chance to contribute to one of the fastest growing AI startups in San Francisco. The work you do here will have a noticeable and direct impact on the development of Hive.
+
+Our benefits include competitive pay, equity, health / vision / dental insurance, catered lunch and dinner, a corporate gym membership, etc.
+
+Thank you for your interest in Hive.

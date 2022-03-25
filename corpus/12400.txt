@@ -1,0 +1,56 @@
+Pilgrim’s is the second largest chicken producer in the world, with operations in the U.S., Puerto Rico, Mexico and the U.K. Pilgrim’s processes, prepares, packages and delivers fresh, further-processed and value-added poultry products for sale to customers in more than 100 countries, employs more than 50,000 people and contracts with more than 5,200 family farmers. Pilgrim’s is headquartered in beautiful Greeley, Colorado, at the JBS USA corporate office where our 1,200 employees enjoy more than 300 days of sunshine a year. 
+  We are looking for a Data Scientist for Pilgrim’s that is based out of the Greeley, CO Corporate Office.   
+  Responsibilities:   
+Development of comprehensive solutions in QlikSense using QVD, CSV files with data coming from SAP BI. 
+Fine tuning of data models and QVD data to minimize latency. 
+Thorough understanding of star schema, facts, dimensions, infocubes, data marts for understanding and designing of data models as needed. 
+Creating Calculated Key Figures, input parameters, filters and other reporting components with minimal hard-coding and customization for scalability. 
+Providing expert statistical guidance on suggesting appropriate statistical charts, graphs, diagrams etc. to design “single-glance” dashboards at executive level to comprehend full story. 
+Recognize and understand business drivers required to be represented/accented within the QlikSense reports. 
+Design reports using minimalist design (UI) style to navigate detailed aggregated reports and cross functional reports with minimal mouse clicks. 
+Design each report with data and report dissemination and download ability respectively. 
+Dashboard designing and visualizations must come naturally for optimum UI/UX experience. 
+Gather requirements and convert requirements into use cases for development. 
+Ensure reports to be easily scalable and modifiable for future modifications. 
+Leverage the optimum machine learning techniques for predictions to enhance revenue and reduce costs. 
+Design, develop, and implement end to end machine learning production pipelines (data exploration, data preprocessing, feature engineering, model building, and performance evaluation). 
+Maintain existing and setup new machine learning hardware/software infrastructure with latest updates. 
+Collect and maintain data in local and cloud computing platform such as SAP BI Hana, SQL Server, AWS etc. 
+Setup and maintain code check-in/check-out system such as git-hub for each project. 
+Present findings and defend predictions results and methods to peers and executives through effective data visualization techniques. 
+Work with different business units across the company to understand their needs and help identify new predictions opportunities.  
+    Qualifications:     
+Master’s or Ph.D. degree in Applied Mathematics, Computer Science, Software Engineering, Statistics, Business Analytics or related fields. 
+Must have two to three years of experience with a Qliksense driven workshop. 
+Three or more years of Data Science experience. 
+Verifiable Data Science immersion program from a reputable academy can augment academic qualifications and professional experience. 
+Experience working with SQL Server, Qlikview (QVD), cloud computing databases. 
+Understanding of various data modeling concepts such as relational database, star schema. 
+Highly proficient in Python, and SQL. 
+Technical skills in machine learning (Regression, classification, clustering, dimensionality reduction), deep learning (CNN, RNN/LSTM, GAN), time series data, anomaly detection, statistical algorithms, data mining, and data engineering. 
+Proficient in Karas, TensorFlow, optimizers and other machine learning techniques. 
+Experienced in cloud computing to run models and connect to various systems using connecting tools such as putty. 
+Strong ability to use logic and excellent problem-solving skills. 
+Experience in agricultural/meat/animal husbandry industries is a plus. 
+Ability to analyze data from multiple sources and aggregate into a cohesive output. 
+MS Office proficiency, SAP BI proficiency, reporting sense strongly preferred.  
+ EOE/M/F/V/Disabled 
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Greeley, CO 80639 
+                     
+                 
+                             
+                     
+                         Posted 
+                         1 Days ago 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         3625_61065948

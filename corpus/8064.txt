@@ -1,0 +1,47 @@
+As a Sr. Data Scientist on Grainger’s analytics team, you will use your machine learning and statistical expertise to optimize our site experience and marketing activity. You will contribute actionable insights and build automated systems to help Grainger realize our mission of providing useful information and time-saving solutions to our customers. Areas of particular interest include: applying supervised learning techniques to understand marketing ROI and customer value; extracting insights from unstructured text to understand industries, job roles, and products; and combining automated intelligence with expert content curation to deliver the most relevant search results.
+
+Principal Duties & Responsibilities:
+
+Exploring and visualizing data to understand the most relevant features that impact Grainger’s business
+
+Conducting analysis of text data to understand the relationship between Grainger’s product assortment and user search queries, industries, and job functions
+
+Researching and building machine learning applications (structured and unstructured data, regression, classification, dimensionality reduction, clustering)
+
+Designing, implementing, and validating your solutions using Python and SQL;
+
+Providing data-driven recommendations of relevant products to customers
+
+Identifying marketing opportunities and optimizing marketing spend across multiple channels
+
+Preferred Education & Experience:
+
+Masters’ or graduate degree in a quantitative field required (statistics, economics, mathematics, computer sciences, etc.) or equivalent work experience
+
+Hands-on software engineering and data science experience beyond coursework
+
+Ability to develop algorithms and predictive models to derive insights and business value from data
+
+Minimum 3 years experience in coding (Python, Spark, R, Java, Scala) and programming concepts
+
+Expertise with Python data science stack
+
+Ability to build, test, and validate machine learning applications in Python, R, or other programming language (Python preferred)
+
+Ability to explore data sets and identify data transformation and data quality needs for targeted applications
+
+Deep knowledge of database design and logic (SQL)
+
+Curiosity, enthusiasm, positive attitude and passion to build. Willingness to learn and research new concepts.
+
+An iterative approach to developing data science solutions (build, test, improve)
+
+Biased toward action, great collaborator and master simplifier, constantly pushing toward clarity and delivery
+
+Strong product mindset: you ask and tackle the most important analytical questions with the goal of driving product impact
+
+Excellent written and verbal communication skills
+
+Outstanding analytical skills
+
+Grainger is an Equal Opportunity / Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or protected veteran status.

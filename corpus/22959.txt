@@ -1,0 +1,45 @@
+Position Summary
+
+
+The Senior Business Intelligence and Reporting Analyst is responsible for supporting our Operations, Clinical, Sales, and Customer Services teams in providing operational and financial analysis and support pertaining to strategic planning, budgeting, operations planning, performance monitoring, and variance analysis.
+
+This position participates in the development and maintenance of business intelligence reporting frameworks, tools, and data marts; and works cross-functionally with various departments to determine and meet their reporting and analytics needs and ensure timely high-quality reporting and analytics. This position ensures that business leaders have the necessary data and information for ongoing daily operations and strategic planning.
+
+Position Responsibilities
+Determines reporting needs; design, create and generate reports required to facilitate effective business decisions.
+Analyze master data sources, create integration jobs and feeds to move data from original source into data warehouse.
+Create and modify SSIS jobs, research and analyze queries to understand data sources and how to relate data from disparate sources into a usable format for reporting.
+Works directly with users across the business to collect report, data, and information requirements and translate them into reporting deliverables.
+Interprets and provides appropriate analysis of requested data or information.
+Identifies KPIs/metrics and works with development, operations, clinical, sales and support teams to provide reports utilized in operational and strategic decision making.
+Successfully works with a cross-functional team throughout all phases of SDLC.
+Works independently in performing business analysis and requirements gathering.
+Troubleshoots and resolves technical issues in SSRS Reports.
+Troubleshoots and resolves technical issues including debugging, tuning and optimizing reports and queries.
+Develops automated and reusable routines for extracting requested information from database systems.
+Troubleshoots data integrity issues, analyzes data for completeness to meet business needs, and proposes solutions and recommendations.
+Gains comprehensive understanding of various data sources and internal processes and provides feedback for process improvement opportunities.
+Recommends and implements new or modified reporting methods and procedures to improve report content and completeness of information.
+Collaborates with functional and technical staff on data architecture issues.
+Participates in evaluating new technologies to ensure the advancement of technical architecture and data to support the organization’s Business Intelligence needs.
+Position Qualifications
+Bachelor’s Degree from an accredited college or university in Computer Science or Mathematics. Advanced degree in Computer Science or Mathematics is a plus (equivalent experience considered in lieu of degree).
+Proficiency in SQL and report writing utilizing SSRS. SSAS experience is a plus.
+Advanced experience with SSIS, ETL and data cleansing.
+Experience with Microsoft Data Factory is a plus.
+Advanced experience with Power BI, including row level security controls.
+Hands-on experience with OLAP, data visualization, data mining, and statistical analysis.
+Self-motivated with excellent analysis and problem-solving skills.
+Strong problem-solving skills, the capacity to define problems, collect data, investigate facts, and draw conclusions.
+Strong interpersonal, oral and written communication skills.
+Ability to multi-task and achieve deadlines.
+Demonstrated clear, persuasive and motivational leadership skills and the ability to interact with all levels of employees.
+Track record of successful collaboration with executive-level management.
+Flexible and able to work in a fast-paced, ever changing environment with multiple priorities/projects.
+Self-starter with a proven ability to take ownership of job responsibilities and ensure successful completion of all projects and requests.
+Working Environment / Physical Requirements
+Sitting for extended periods of time will be required
+Standing, walking and light lifting periodically required
+Use of hands repetitively to type, handle, and operate standard office equipment will be required
+Employee will work under typical office conditions
+All employees must pass drug test and must have valid proof of eligibility to work in the USA

@@ -1,0 +1,93 @@
+Job Description:
+
+The Data Scientist for this position will provide the
+
+Precise Imagery Division (SFNP) with data management and
+
+automation support. Any data management solutions
+
+created by the contractor should take into consideration
+
+any SFNP modernization objectives including the
+
+modernized database applications as well as other
+
+enterprise activities (e.g., GEOINT Workbench
+
+Foundation)
+
+The ideal candidate will be responsible for, but not
+
+limited to:
+
+Develop a modernized data management workflow for
+
+all SFNP programs
+
+Coordinate utilization and sustainment of the new
+
+database management processes and workflows with
+
+database developers and analysts
+
+Research and understand current SFNP data management
+
+workflows
+
+Plan new workflows ensuring automation is built-in
+
+Ensure new workflows have the ability to be
+
+integrated seamlessly with our modernized database
+
+applications and enterprise-level APIs
+
+Assist in other data management tasks related to
+
+SFNP's modernizations activities
+
+Additional duties may include:
+
+Converting MapInfo (MapBasic) scripts to Python
+
+Implementing enterprise database management
+
+processes
+
+Automating repetitive data management tasks
+
+Job Requirements:
+
+ACTIVE TS/SCI
+
+Minimum 10+ years of relevant experience
+
+A bachelor's degree in a relevant field can be
+
+substituted for up to 4 years of experience
+
+Proficiency with the following tools:
+
+Python
+
+ArcGIS, ArcSDE, ArcPro
+
+Quantum GIS (QGIS)
+
+PostgresSQL, Postgis, PgAdmin
+
+Application programming interfaces (APIs)
+
+Understanding the familiarity with the following
+
+tools:
+
+MapInfo
+
+MapBasic
+
+Desired:
+
+Experience with workflow management systems, such as
+
+Flowable

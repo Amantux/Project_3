@@ -1,0 +1,95 @@
+Read what people are saying about working here. 
+
+JOB DESCRIPTION:
+
+Provide SME support to the Marine Corps Cyberspace Operations Group (MCCOG) in Quantico, Virginia by conducting advanced data analysis using data science techniques to identify malicious activity not detected by existing signatures. Utilize data science techniques (Data Preprocessing, Data Transformation, Descriptive Statistical Analysis, Centrality Analysis, Connected Components Analysis, Mutual Information Analysis, Clique Tree Analysis, etc) to identify malicious activity not identified by deployed signatures.
+
+Daily activities include:
+
+Support the continuous operational improvement of the command through bridging the operations, intelligence and capability development divisions. Leverage knowledge of data science, methodologies, and processing techniques to analyze vast amounts of sensor data for decision support.
+
+Work with an agile team to develop machine learning analytics across domains.
+
+Perform statistical analysis, data mining, temporal and pattern analysis, correlation of events, predictive modeling, and pattern recognition.
+
+Document and visualize analytics both temporally and spatially, and present analytic results and uncertainty to decision makers.
+
+Provide informational briefings to explain methodologies and analytical findings to peers and customer stakeholders.
+
+Investigate and implement new scientific analysis and methodologies to support big data analytics efforts.
+
+Provides input to briefings, transitioning concepts to execution and assisting in the coordination of joint operational planning in support of training, combat, and contingency operations.
+
+Provides input for the development of cyberspace Tactics, Techniques and Procedures (TTPs), Concepts of Operation (CONOPS), Courses of Action (COAs), and other related documents.
+
+Provides input to address shortfalls, prioritize, and validate requirements and be prepared to modify development planning efforts based on the changing cyberspace environment.
+
+Contributes to the development of exercise scenarios, exercise operational plans, and other required documentation.
+
+Conducts research of current and emerging threats to U.S. critical infrastructure and key resources (CIKR).
+
+Performs threat and mission impact assessments specific to vulnerabilities directly impacting the MCEN and/or sister DoD entities. The DCO team analysts will identify, analyze, and recommend mitigation actions for factors potentially affecting MCIE.
+
+ Assist with Incident Response (IR) triage; provide incident response (IR) support when analysis confirms actionable incident.
+
+Provide threat and vulnerability analysis as well as security advisory services.
+
+Investigate, document, and report on information security issues and emerging trends.
+
+Coordinate with Intel analysis on open source activities impacting the network.
+
+Qualifications
+
+CLEARANCE REQUIREMENT:
+
+Clearance Level Must Currently Possess: TS/Sensitive Compartmented Information (SCI)
+
+REQUIRED EDUCATION/EXPERIENCE:
+
+Bachelor’s Degree in computer science, information technology, cybersecurity, or related field. Four years of experience in lieu of degree.
+
+At least 14 years of experience.
+
+At least one year of experience in the cybersecurity field.
+
+Successful completion of college-level courses in statistics to include statistical regression.
+
+At least two years of experience with data science tools including Elastic Search, Logstash, Kibana, Hadoop, NOSQL, etc
+
+At least two years of experience utilizing the Python scripting language to conduct data analysis.
+
+At least two years of experience working with large data- sets to extract actionable insights.
+
+Knowledge of Information Assurance, Risk Management Framework, CND, DCO.
+
+REQUIRED CERTIFICATIONS
+
+DoD 8140/8570 IAT Level II Certification
+
+CEH, GCIA or GCIH
+
+DESIRED SKILLS/EXPERIENCE:
+
+Master’s Degree in Engineering, or Information Technology
+
+Experience supporting JOC/COC/SOC or CSSP
+
+Hands-on experience with machine learning technologies, including Natural Language Processing (NLP)
+
+Fluency with languages such as R/python and tools such SAS/SPSS
+
+Familiarity with big data technologies
+
+Working in interdisciplinary teams
+
+Excellent writing skills and ability to communicate effectively
+
+Ability to develop briefing materials, administrative, and logistics support
+
+Proficiency in the use of Microsoft Office
+
+Overview
+
+SAIC is a premier technology integrator, solving our nation's most complex modernization and systems engineering challenges across the defense, space, federal civilian, and intelligence markets. Our robust portfolio of offerings includes high-end solutions in systems engineering and integration; enterprise IT, including cloud services; cyber; software; advanced analytics and simulation; and training. We are a team of 23,000 strong driven by mission, united purpose, and inspired by opportunity. Headquartered in Reston, Virginia, SAIC has annual revenues of approximately $6.5 billion. For more information, visit saic.com. For information on the benefits SAIC offers, see Working at SAIC. EOE AA M/F/Vet/Disability
+
+ SAIC is a premier technology integrator providing full life cycle services and solutions in the technical, engineering, intelligence, and...

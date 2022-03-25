@@ -1,0 +1,37 @@
+The world's largest and fastest-growing companies such as Accenture, Adobe, DocuSign, and Salesforce rely on Demandbase to drive their Account-Based Marketing strategy and maximize their B2B marketing performance. We pioneered the ABM category nearly a decade ago, and today we lead the category as an indispensable part of the B2B MarTech stack. Our achievements and innovation would not be possible without the driven and collaborative teams here at Demandbase. As a company, we're as committed to growing careers as we are to building world-class technology. We invest heavily in people, our culture, and the community around us, and have continuously been recognized as one of the best places to work in the Bay Area.
+
+This Data Science role will be a member of the Targeting team that generates a major component of Demandbase's annual revenue and leads the Machine Learning and engineering technology innovation at Demandbase. Our real-time bidder and augmentor has a throughput of 300QPS and less than 10ms response time. Our batch and streaming data pipeline processes over 10 billion auctions daily and flows data downstream for campaign forecasting, audience segment generation, campaign metrics, and reporting. Our Data Scientists apply cutting edge machine learning and natural language processing algorithms to extract relevant intent signals from the billions of web visits, to predict CTR and engagement, etc. The team is product-centric and consists of Data Scientists, Big Data Engineers, Software Engineers, and Analysts. We work closely with Product Managers and UX Designers to deliver the world's best B2B targeting product to our valued customers.
+
+The Targeting team is currently looking for a Data Scientist to develop ground-breaking insights from our data sets and create robust machine learning models in B2B marketing —providing Sales and Marketing users with unique approaches for account-based advertising and web engagement. As a Data Scientist you are responsible for discovering insights, identifying opportunities and solving complex problems using simple, pragmatic and state-of-the-art solutions. Some of our projects include Natural Language Processing/Understanding, Entity Extraction, Deep Learning, Graph and Optimization.
+
+Responsibilities
+Develop Machine Learning algorithms that optimize and make an immediate business impact on Targeting KPIs.
+Build, test and deploy custom ML/AI models and algorithms on large datasets, and develop processes for monitoring and analyzing their performance on production environments.
+Communicate about algorithms, complex data science methods, and statistical results to normal people in simple English.
+Stay current with the latest technology/research and drive innovation.
+What we're looking for:
+2-4 years of data science experience—you have driven more than one greenfield project from concept to production release
+Background in Statistics, Computer Science, Machine Learning, Mathematics, Computational Psychology, Operational Research, Physics or relevant field
+Demonstrated ability to write clean and performant code in Python
+Experience working with AI/ML technologies like TensorFlow, scikit-learn, Spark MLlib, Bigquery Machine Learning, and large-scale data sets and generating unique models and algorithms
+Proficiency with analytical and database tools (e.g. Jupyter notebooks, Hive, SQL, No-SQL)
+Strong background in classical machine learning and deep knowledge in a variety of techniques in feature selection, regression, classification, and clustering, and their real-world advantages and drawbacks
+Experience with Google Cloud and AWS is a plus.
+Prior experience in the programmatic advertising/data science space desired
+Knowledge or experience with continuous delivery for machine learning (CD2ML) framework is a plus.
+Other important qualities:
+You enjoy working in a fast-paced and dynamic environment
+You are a driver, a learner, and a doer
+You do what you say you will do
+You are highly self-motivated and able to operate with significant autonomy
+You are able to break down complex problems and come up with simple innovative solutions
+You are able to dig deep into problems yet being able to focus on the goals and don't get lost in the details
+Data is your thing, you love metrics and use metrics to drive projects
+You are willing to build end-to-end and own the machine learning products you build or help build
+Benefits:
+
+Our benefits include 100% paid for Medical, Dental and Vision for you and your entire family, 100% paid for short-term and long-term disability, 100% paid for life insurance, 401k, flexible vacation
+
+About Demandbase:
+
+Demandbase is the leader in Account-Based Marketing (ABM) and an indispensable part of the B2B tech stack. The company offers the only end-to-end ABM platform that helps B2B marketers identify, engage, close, and measure progress against best-fit accounts. The biggest and fastest-growing companies in the world, such as Accenture, Adobe, DocuSign, GE, Salesforce, and others rely on Demandbase to drive their ABM strategy and maximize their marketing performance. The company has been named to the JMP Securities list "The Hot 100: The Best Privately Held Software Companies," the Deloitte Fast 500, and named a Gartner Cool Vendor for Tech Go-To-Market. In 2019, Demandbase executives authored the definitive book on ABM, Account-Based Marketing: How to Target and Engage the Companies That Will Grow Your Revenue. For more information, please visit www.demandbase.com or follow the company on Twitter @Demandbase.

@@ -1,0 +1,31 @@
+Position Summary
+
+The Department of Biomedical Informatics (DBMI) at Columbia University is revolutionizing the clinical research enterprise with the help of information technology. At DBMI, we are building the infrastructure of the future to support and enable better research and dissemination. We have an immediate opening for a talented and self-motivated data engineer developer who can succeed in a collaborative work environment. The ideal candidate will have experience with data pipelines and cloud environments. The candidate will be responsible for data processing, data exchange/transfer/load (ETL), data visualization, DevOps, and software architecture. The ideal candidate will have professional experience in a number of programming languages, databases, and development environments. The candidate should be able to contribute to improving the reliability and quality of data. Experience in clinical medicine, clinical vocabulary, and cloud development are not required but preferred. The successful candidate will contribute to the development of open source solutions together with a community of international researchers.
+
+Current available position is grant-funded.
+
+Columbia University's Department of Biomedical Informatics is internationally recognized as one of the best programs of its kind. Our mission is to improve health for society by focusing on discovery and impact: we develop new informatics methods, enrich the biomedical knowledge base, and enhance the health of the population.
+
+Responsibilities
+
+1. Software and system design, implementation, and testing (75%)
+
+2. Application deployment and configuration (10%)
+
+3. Communicate with technical individuals at various grant sites (10%)
+
+4. Software requirements specification (5%)
+
+Minimum Qualifications
+
+Bachelor's degree or equivalent in education and experience (computer science, biomedical informatics, information science), plus four years of related experience.
+
+Other Requirements
+
+Great communication skills; Experience with one or more compiled programming languages (e.g. Java, Scala, C#, C++, etc.) and one or more interpreted programming languages (Python, JavaScript, Perl, bash, etc.)
+
+Working knowledge of SQL; Experience with big data, NoSQL databases, and health care data a plus.
+
+Equal Opportunity Employer / Disability / Veteran
+
+Columbia University is committed to the hiring of qualified local residents.

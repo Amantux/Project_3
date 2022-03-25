@@ -1,0 +1,119 @@
+Stanford Medicine is seeking a Clinical Data Scientist to join the Research IT (https://researchit.stanford.edu/) group, Stanford Medicine, Information Resources & Technology (IRT). Our mission is to supply infrastructure, tools, and services used by researchers, patients/participants, and clinicians to collect and combine data to make discoveries and to improve human health and wellness.
+
+The Clinical Data Scientist will participate in the ongoing development and utilization of clinical data warehouse (CDW). The CDW was created in 2008 and is used by thousands of researchers in a variety of scientific endeavors including population health research, basic science research, translational research and the conduction of clinical trials. The CDW has resulted in hundreds of peer reviewed publications. The ongoing development of CDW is in support of Stanford’s precision health focus, a fundamental shift to a more proactive and personalized health care that empowers people to lead healthy lives. Our CDW is combining various streams of complex data such as imaging, pathology, genomics, bedside monitoring, and real time device locations, into a single mineable database with interoperable data. This position will collaborate with Stanford Research Informatics Center and researchers to enhance the CDW to meet research needs.
+
+We are looking for an individual with an educational background in Clinical/Biomedical Informatics and a passion for learning and working with clinical data and researchers. Some of the responsibilities of our Clinical Data Scientist are:
+
+Design, develop, and release clinical data processing pipelines. Primary focus of these pipelines will be development of the CDW and data lakes.
+
+Maintain existing databases and data lakes; analyze and troubleshoot system issues as needed and implement appropriate remediation.
+
+Devise methods for identifying patterns in available data to create reports, dashboards and charts.
+
+Distribute and disseminate reports to applicable agencies, researchers, management and other internal end-users.
+
+Determine and recommend data collection, data augmentation, quality analysis and reporting requirements.
+
+Serve as a resource for non-routine inquiries regarding the data in the CDW from research teams and analysts
+
+Lead the implementation of data standards and common data elements for data collection.
+
+Test prototype software and participate in approval and release process for new software.
+
+Demonstration of one or more of the following skill sets are desired:
+
+Experience working with data, and data analysts on research projects.
+
+Experience with writing data processing pipelines using Java, or Python.
+
+Experience with data science environments such as Jupyter Notebooks.
+
+Experience with code repositories such as github.
+
+Experience with project management and Agile methodologies.
+
+Experience with clinical and observational data including Electronic Medical Records, claims data etc.
+
+Experience with standards and biomedical ontologies such as FHIR, HL7, RxNorm, LOINC etc.
+
+Experience with database technologies such as Oracle, MySQL, PostgreSQL
+
+Experience with scientific content communication - conference talks, posters, blogs, publications etc.
+
+This position is currently located at the new Stanford Redwood City campus near Woodside Road and 101. At Research IT we work very closely with both Stanford Hospitals and Clinics and the Stanford Children’s Hospital IT groups.
+
+- Other duties may also be assigned
+
+DESIRED QUALIFICATIONS:
+
+We are looking for an individual with an educational background in Clinical/Biomedical Informatics and a passion for learning and working with clinical data and researchers.
+
+Experience working with data, and data analysts on research projects.
+
+Experience with writing data processing pipelines using Java, or Python.
+
+Experience with data science environments such as Jupyter Notebooks.
+
+Experience with code repositories such as github.
+
+Experience with project management and Agile methodologies.
+
+Experience with clinical and observational data including Electronic Medical Records, claims data etc.
+
+Experience with standards and biomedical ontologies such as FHIR, HL7, RxNorm, LOINC etc.
+
+Experience with database technologies such as Oracle, MySQL, PostgreSQL
+
+Experience with scientific content communication - conference talks, posters, blogs, publications etc.
+
+EDUCATION & EXPERIENCE (REQUIRED):
+
+Bachelor's degree and three years of relevant experience or combination of education and relevant experience. Experience in a quantitative discipline such as economics, finance, statistics or engineering.
+
+KNOWLEDGE, SKILLS AND ABILITIES (REQUIRED):
+
+In-depth knowledge and experience using and applying analytical software, database management system software, database reporting software, database user interface and query software, and data mining software.
+
+Expert ability to collect data using a variety of methods, such as data mining and hardcopy or electronic documentation study, to improve or expand databases.
+
+Basic statistical ability.
+
+Strong listening, verbal and written communication skills.
+
+Ability to manage multiple activities in a deadline-oriented environment; highly organized, flexible and rigorous attention to detail.
+
+Ability to use logic to calculate data; efficiently construct a database or scrutinize the form of a question.
+
+Ability to work with data of varying levels of quality and validity.
+
+Demonstrated ability to produce data in a clear and understandable manner meeting user requirements.
+
+Ability to work effectively with multiple internal and external customers.
+
+Ability to take a leadership role on projects and with users/clients.
+
+PHYSICAL REQUIREMENTS*:
+
+Constantly perform desk-based computer tasks.
+
+Frequently sit, sort, file paperwork or parts, grasp lightly, and use fine manipulation, lift, carry, push and pull objects that weigh 10 pounds or less.
+
+Occasionally write by hand, twist, bend, stoop and squat.
+
+Rarely stand, walk, reach or work above shoulders and use a telephone.
+
+- Consistent with its obligations under the law, the University will provide reasonable accommodation to any employee with a disability who requires accommodation to perform the essential functions of his or her job.
+
+WORKING CONDITIONS:
+
+May work extended hours during peak business cycles.
+
+WORK STANDARDS:
+
+Interpersonal Skills: Demonstrates the ability to work well with Stanford colleagues and clients and with external organizations.
+
+Promote Culture of Safety: Demonstrates commitment to personal responsibility and value for safety; communicates safety concerns; uses and promotes safe behaviors based on training and lessons learned.
+
+Subject to and expected to comply with all applicable University policies and procedures, including but not limited to the personnel policies and other policies found in the University's Administrative Guide, http://adminguide.stanford.edu.
+
+IndeedSOM

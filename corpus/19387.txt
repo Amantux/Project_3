@@ -1,0 +1,30 @@
+Business Intelligence / Data Engineer
+
+We are looking for a Business Intelligence / Data Engineer to work alongside with our Senior BI Engineer, our analyst and our game engineers to ensure data-driven decision-making within the Analytics Solutions team at EA. The Business Intelligence / Data Engineer will be a part of the development process of our Bioware titles. They will work collaboratively to implement in-game telemetry, refine the ETL process, and develop dashboards that promote deeper understanding of our games. This role is located in Austin, TX and will work remotely with internal customers across multiple EA locations.
+
+If you are someone who has a passion for transforming raw data into simplified but well-designed data-driven visualizations with an appetite for analytical solutions then you are in the right place.
+
+Responsibilities:
+As a BI/Data Engineer you will be involved in the product development life cycle from brainstorming ideas to designing quality interactive data visualizations that deal data complexity with elegance.
+You will be a primary technical expert for Game Analytics telemetry and BI systems across multiple studio projects.
+You will work with dev teams and studio analytics to develop technical data specifications for game telemetry, including documentation to support production code to produce comprehensive, accurate, and holistic data artifacts.
+You will oversee the process of adoption of new technologies and applications we use to collect, integrate, analyze, and deliver relevant BI solutions.
+You will guide communications between our users and studio engineers to provide scalable end-to-end solutions.
+You will partner with UI designers and business analysts to incorporate design into building outstanding insightful visualizations.
+You will explore and advocate for self-service analytics at EA.
+You will promote strategies to improve our data modeling, quality and architecture
+You will work with big data solutions, data modeling, understand the ETL pipelines and dashboard tools.
+You will be engaged in every step of the development life cycle, from collecting requirements, communicating to users, design, development and testing the products.
+Required qualifications:
+3+ years relevant industry experience in enterprise-class business intelligence tools like Power BI, Looker, Tableau or similar BI tools.
+Proficiency in writing SQL queries and knowledge of cloud-based databases like Snowflake, Redshift, BigQuery or other big data solutions.
+Experience in data modeling, ETL processes, and data warehousing.
+Excellent visualization and story telling skills using tools such as Looker, Dundas or Tableau.
+Summarize technical details to non-technical audience
+Comfortable working with a multi-functional team, both locally and remote, understanding the perspectives of each partner.
+Experience with Process Management tools such as JIRA, Target process, Trello or similar
+Bonus Points:
+A passion for games and gaming industry.
+Experience with telemetry structures and analysis.
+Knowledge of latest data pipeline tools such as Airflow.
+Experience with analytics programming languages in Python/R.

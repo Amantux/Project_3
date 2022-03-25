@@ -1,0 +1,45 @@
+At Uber, we ignite opportunity by setting the world in motion. We take on big problems to help drivers, riders, delivery partners, and eaters get moving in more than 600 cities around the world.
+
+We welcome people from all backgrounds who seek the opportunity to help build a future where everyone and everything can move independently. If you have the curiosity, passion, and collaborative spirit, work with us, and let’s move the world forward, together.
+
+About the role
+
+You will join the team building machine learning models for the security platform supporting multiple Uber business lines (Rides, Eats, Social, U4B, etc) and multiple risk and security programs (Incentive Fraud, Account Security, Payment Risk, Privacy etc). Our team works together with product managers, engineers, and data analysts.
+
+As a member of our team, you'll protect Uber's riders and drivers by bringing state of the art technology to bear on the world's richest dataset about how people move. You will experiment with a range of machine learning techniques including supervised, unsupervised and semi-supervised approaches, and tackle a variety of interesting and challenging problems including knowledge graph analysis, identity and reputation scores, mobile sensor and GPS feature development etc.
+
+What You’ll Do
+
+Provide analysis using optimization and machine learning models to improve business processes and decisions.
+
+Provide timely anomaly detection for actions, features and models in risk organization.
+
+Define creative solutions to business problems using advanced mathematical algorithms.
+
+Partner closely with engineering, business, and operations.
+
+What You’ll Need
+
+MS or PhD in computer science, statistics, or a quantitative domain
+
+Minimum 4 years professional experience (post-graduation) delivering, scaling, and leading highly successful and innovative machine learning products
+
+Team spirit: you thrive in diverse teams and everyone in the team loves working with you
+
+Hands on mastery of data wrangling, modeling, and telling a story based on data
+
+A strong background in mathematics, statistics, machine learning combined with experience using these skills to solve hard problems
+
+Fanatical attention to detail
+
+A natural desire to learn and innovate: ML and Risk are fast-paced domains and we need to find the most efficient and clever approaches to solving risk problems
+
+Excellent programming skills - ability to prototype effective algorithms and collaborate with engineering team to implement them in the production system
+
+Experience of working with large scale data set and knowledge of mapreduce, spark is desired but not mandatory
+
+Knowledge of the latest ML techniques like deep learning is a plus, but not a requirement
+
+About the Team
+
+Our team applies a variety of learning algorithms such as CNN, LSTM, DBSCAN, tree-based models, neural networks, and other graph based techniques such as matrix decomposition, embedding, traversal and clustering etc. You will benefit from Uber's unique talent pool spanning several machine learning domains, including our advance research groups and the Uber AI labs (formerly Geometric Intelligence), applying and extending their research to our domain areas.

@@ -1,0 +1,133 @@
+Project Manager
+
+Qualification: Bachelors in science , engineering or equivalent
+
+Responsibility:Project Planning and Setup:
+
+Understand the project scope, identify activities/ tasks, task level estimates, schedule, dependencies, risks and provide inputs to Module Lead for review.
+
+Provide inputs to testing strategy, configuration, deployment, hardware/software requirement etc.
+
+Review plan and provide feedback on gaps, timeline and execution feasibility etc as required in the project.
+
+Participate in KT sessions conducted by customer/ other business teams and provide feedback on requirements.
+
+Requirement Understanding and Analysis: • Analyze functional/non functional requirements and seek clarifications for better understanding of requirements.
+
+Based on understanding of system upstream & downstream, provide feedback and inputs on gaps in requirements and technical feasibility of requirements.
+
+Design: • Prepare the LLD/ detailed design documents based on HLD and briefing from Module Lead.
+
+Seek inputs from the developers on specific modules as applicable.
+
+Consolidate all modules and provide to Module Lead/ Architects/ Designers for review.
+
+Suggest changes in design on technical grounds.
+
+Develop components inventory for the code to be developed tying it to the nonfunctional requirements.
+
+Perform sampling of data to understand the character/ quality of the data (project dependent in the absence of data analyst or designer).
+
+Identify tools and technologies to be used in the project as well as reusable objects that could be customized for the project.
+
+Coding: • Follow coding standards and best practices to develop code and check code quality.
+
+Share developed code with supervisor for review.
+
+Rework on the code based on inputs if required.
+
+Perform complex integration.
+
+Guide the developers in identifying, preparing and conducting unit test cases and fixing defects based on results.
+
+Consolidate the test results and share with supervisor.
+
+Provide periodic status update to supervisor and highlight / recommend any changes in design based on challenges faced.
+
+Anticipate unreported defects and raise the same to supervisor.
+
+Conduct technical troubleshooting.
+
+Conduct reviews for codes created by team.
+
+Testing Management: • Develop unit test case for each module.
+
+Conduct/ guide conducting of unit and integration testing and fix defects.
+
+Review/ approve code to be moved to testing environment.
+
+Provide support to the QA team and coordinate for various phases of testing.
+
+Address queries raised by QA within defined timelines.
+
+Investigate critical defects and establish need for fixing.
+
+Raise issues to leads/QA.
+
+Report defect status as per project standard process within agreed timelines.
+
+Share revised code with supervisor for review.
+
+Assist team lead and project manager on estimates around defect fixes.
+
+Configuration Management: • Maintain versions of the code or consolidate version maintained by the Developers.
+
+Provide support as required to the Administrators during configuration, code backups, deployment etc.
+
+Deployment: • Assess and create deployment/ roll back plan.
+
+Validate if all the components have been migrated and the right version is checked in.
+
+Maintain deployment tracker.
+
+Perform sanity checks post deployment to ensure smooth production.
+
+Share activity status with supervisor and highlight concerns if any.
+
+Project Execution Monitoring & closure (Support to Project Management activities): • Monitor work of the developers and share work achieved with them.
+
+Provide guidance through SDLC.
+
+Provide status of progress to leads.
+
+In case of change requests, provide inputs on the plan.
+
+Service Support and Maintenance:
+
+Specific to production and maintenance support: • Provide support for 1 week and hand over to production team.
+
+Identify if the incoming request is a service request/ defect during the warranty or an incident.
+
+If it is code defect in the warranty, highlight to Lead and initiate defect fix process.
+
+Post warranty, support in transition to maintenance team.
+
+Knowledge Management: • Post release participate in project review call and discuss points on what went well and what didn't.
+
+Create and update knowledge articles (case studies, lessons learnt) in the knowledge management repository.
+
+Guide developers in creating such documents.
+
+Publish white papers/ blogs/ articles (if required).
+
+People Management: • Conduct training through academy or internally within the team.
+
+Conduct technical, face to face interviews for internal transfer or external hiring.
+
+Provide feedback on Developers form technical /domain standpoint to the module lead.
+
+Technical Skills SNo Primary Skill Proficiency Level * Rqrd./Dsrd. 1 3NF data modeling PL3 Desired 2 Apache Hadoop PL3 Desired 3 Visual Design Elements & Funda PL4 Desired 4 Tableau PL3 Desired 5 Python PL2 Required 6 JavaScript PL3 Desired 7 PL/SQL PL3 Required
+
+Proficiency Legends Proficiency Level Generic Reference PL1 The associate has basic awareness and comprehension of the skill and is in the process of acquiring this skill through various channels. PL2 The associate possesses working knowledge of the skill, and can actively and independently apply this skill in engagements and projects. PL3 The associate has comprehensive, in-depth and specialized knowledge of the skill. She / he has extensively demonstrated successful application of the skill in engagements or projects. PL4 The associate can function as a subject matter expert for this skill. The associate is capable of analyzing, evaluating and synthesizing solutions using the skill.
+
+Employee Status : Full Time Employee
+
+Shift : Day Job
+
+Travel : No
+
+Job Posting : Jul 26 2019
+
+About Cognizant Cognizant (Nasdaq-100: CTSH) is one of the world's leading professional services companies, transforming clients' business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build and run more innovative and efficient businesses. Headquartered in the U.S., Cognizant is ranked 193 on the Fortune 500 and is consistently listed among the most admired companies in the world. Learn how Cognizant helps clients lead with digital at www.cognizant.com or follow us @Cognizant.
+
+Cognizant is recognized as a Military Friendly Employer and is a coalition member of the Veteran Jobs Mission. Our Cognizant Veterans Network assists Veterans in building and growing a career at Cognizant that allows them to leverage the leadership, loyalty, integrity, and commitment to excellence instilled in them through participation in military service.

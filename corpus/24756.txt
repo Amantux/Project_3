@@ -1,0 +1,41 @@
+The AWS EC2 Compute Business Development (BD) team is looking for a passionate, results-oriented Business Analyst to own defining, building, and scaling metrics and analytical insights for Outposts. As a business analyst, you will use your analytical mind to drive operations, strategy, and planning across key BD teams. You will ensure that we are capturing and surfacing the right data and information to make informed business decisions and communicate findings and recommendations to the senior leadership team. Youll collaborate with engineers to build self-service reports and establish automated processes for large scale data analyses. You will also work closely with members of the BD, Product and Sales teams. Successful candidates will be analytical with strong business acumen and detail-oriented with proven problem-solving skills.
+
+The ideal candidate has worked in depth in identifying business insights through data analysis, including experience extracting and manipulating large scale data set using SQL, leveraging BI services such as QuickSight and Tableau for data analysis, and producing digestible business intelligence and actionable information. The candidate should also have strong communication and project management skills, enabling them to work with key business stakeholders to understand requirements and shape analytical deliverables. He/she should also have a demonstrated ability to think strategically and analytically about business, product, and technical challenges, with the ability to work cross-organizationally.
+
+Key responsibilities include:
+· Advanced SQL skills to extract, aggregate, and load data from multiple data sources
+· Work with and synthesize large data sets from multiple data sources in order to automate reporting
+· Partner cross-functionally to navigate through data sources and introduce new metrics to measure the success of the business
+· Design and build rhythm of the business processes and reporting that help business leaders understand performance and progress to goals in order to guide overall strategic direction
+· Produce digestible business analytics and insights that lead to actionable results
+· Manage and execute entire projects from start to finish including project management, data gathering and manipulation, synthesis and modeling, problem solving, and communication of insights and recommendations
+· Perform ad hoc analysis as needed and present findings to senior management with effective written and verbal communication skills
+
+Basic Qualifications
+
+· Bachelors degree in a quantitative field such as Mathematics, Statistics, Engineering, Computer Science, Economics, Finance, or related field
+· 5+ years of professional experience in data analytics, business analysis, or comparable analytics position
+· Advanced skills in data mining using SQL, ETL, data warehouse, and BI platforms, as well as Excel
+
+
+
+
+Preferred Qualifications
+
+
+
+· 5+ years of relevant experience in a business analyst, data analyst, or statistical analysis role
+· Excellent communication (verbal and written) and interpersonal skills to translate ambiguous business requirements into complex analyses and actionable insights
+· Ability to structure complex analysis and perform the analysis to drive insights
+· Proven problem solving skills, project management skills, attention to detail, and exceptional organizational skills
+· Experience using AWS analytical services (e.g., Redshift, Data Pipeline, EMR, QuickSight)
+· Experience with building multi-dimensional data models to serve as a foundation for future analyses
+· Ability to deal with ambiguity
+· Understanding of predictive modeling
+· Understanding of R or Python/another scripting language
+
+This position must be located at one of our U.S. AWS Corp. offices with a preference for Seattle.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Amazon.com is an Equal Opportunity-Affirmative Action Employer Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation/ Age.

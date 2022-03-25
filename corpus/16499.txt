@@ -1,0 +1,23 @@
+Who We Are
+
+
+Nuro is a robotics start-up whose mission is to accelerate the benefits of robotics for everyday life. We have an elite team of entrepreneurs and engineers, designers, and scientists. We believe AI and robotics are at the cusp of transforming daily life and we are dedicated to building meaningful products with this technology. Join us and play a critical role in our mission.
+
+About the Role
+
+
+Our team is growing and we are looking for machine learning R&D experts to join us. We apply machine learning to solve the challenging behavior(prediction and planning) problems, e.g. predicting other road agents’ behaviors, understanding their intents, and plan our own self driving vehicle in a safe and acceptable manner. In this role, you will work on developing novel machine learning models, robust and scalable data pipelines, and deploy the models on our self driving vehicles.
+
+About the Work
+Develop machine learning models to predict agents’ future trajectories, and classify agents’ intents
+Develop sequential decision making models for safe and acceptable planning for self driving vehicles
+Develop scalable and robust data pipelines that are able to process petabytes of data for model training, and deploy models in production
+Collaborate closely with engineers across behavior, perception, research, mapping and localization, infrastructure, etc.
+About You
+Experience designing advanced sequence, generative machine learning models
+Experience with reinforcement/imitation learning
+Experience with scalable and robust production machine learning data pipeline
+Strong C++ or python programming skills
+Have a passion for researching and solving near-impossible research problems
+Have an advanced degree (PhD preferred) in Machine Learning, robotics, CS (or other related fields)
+Nuro is an equal opportunity employer and expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status.

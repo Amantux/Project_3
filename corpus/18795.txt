@@ -1,0 +1,39 @@
+Software EngineerDescription
+
+Come work at the technology division of one of the largest US health care data companies. The product that you would be working on would help our clients make accurate and cost-effective decisions about medical treatments and insurance coding, as well as where to focus their marketing strategies and research efforts to meet market needs. Its information services include database management (including electronic health records, or EHRs), analytics, and a variety of consulting services to health care providers, insurance firms, government agencies, and life science researchers. We are currently working on modernizing a variety of software applications to the newest versions of the .NET framework as well as moving most of the applications suite to Azure.
+
+We are looking for driven engineers who want to work in an environment where their voice is heard and can autonomously make product improvements. We need someone who can get to the root cause of issues and resolve them by developing new tools or improving existing tools. The department has a lot of different technologies and we are looking for someone who is a self-starter and willing to learn on the job.
+
+Qualifications
+
+• 3+ years' software engineering experience (design patterns, data structures and algorithms)
+• Must be skilled with C#/.Net development technologies, including SQL Server
+• Experience with MongoDB, WebAPI, RabbitMQ, and Angular (blend of all preferred)
+• Strong grasp of Computer Science fundamentals.
+• Problem solving, analysis, planning, and time management skills.
+• Ability to communicate effectively with end users
+
+Responsibilities
+
+• Develop tools to help reduce the time spend resolving support issues
+• Contribute source code to existing projects.
+• Troubleshoot customer reported issues for products developed by the department for both internal and external end users.
+• Move data between systems to support testing.
+• Create builds and deployments to automate VM setup.
+• Fix bugs and improve error messages in products to help customer requests.
+
+Preferred Skills
+
+• Chef
+• Jenkins
+• Python
+• Java
+• C++
+• TFS - Team Foundation Server
+• Microsoft SQL Server
+
+About TEKsystems:
+
+We're partners in transformation. We help clients activate ideas and solutions to take advantage of a new world of opportunity. We are a team of 80,000 strong, working with over 6,000 clients, including 80% of the Fortune 500, across North America, Europe and Asia. As an industry leader in Full-Stack Technology Services, Talent Services, and real-world application, we work with progressive leaders to drive change. That's the power of true partnership. TEKsystems is an Allegis Group company.
+
+Job Requirements:

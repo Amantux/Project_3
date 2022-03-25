@@ -1,0 +1,183 @@
+Read what people are saying about working here. 
+
+Senior Data Scientist
+
+Location: Duke Institute of Health Innovation (DIHI)
+
+Job Description
+
+Position Summary
+
+The Senior Data Scientist will direct efforts to integrate clinical, claims, financial and related data sets to develop predictive models to enable innovative care models that improve patient outcomes and population health. The scientist will employ data science, AI / deep learning, advanced machine learning and traditional statistical techniques to address clinical care problems and business needs. The Senior Data Scientist will direct efforts and develop risk prediction and care models, to make data meaningful, accessible, and actionable; she/he will play a key role in catalyzing novel care and health management programs. This position will interface with care providers, as well as with industry partners to identify and develop opportunities and to execute projects for the Duke Institute for Health Innovation (DIHI). The scientist will foster collaborations amongst other data scientists, statistics/machine learning experts, clinicians/clinical researchers, and software developers to build valuable technology solutions that are scalable both within the Duke clinical enterprise as well as more broadly. This role will help to build capability and capacity in health data science (including both personnel and technology) for DIHI to rapidly develop, validate, support deployment and commercialize health care new data science products. Exceptional communication skills and the ability to convey and teach complex concepts will be required.
+
+He/she will work closely with the DIHI Program Director to manage existing efforts that rely on the effective use of health care data and to help set strategic priorities. The Senior Data Scientist will report to the Program Director of DIHI.
+
+Duties and Responsibilities
+
+Application of Data Science and AI (35%)
+
+Research, design, develop and implement AI and advanced machine learning applications to support DIHI innovation projects.
+
+Propose novel solutions to problems, develop solutions, demonstrate and evaluate the feasibility of solutions and, adapt and refine models and solutions into a real-world clinical care context. Apply statistical analysis and machine learning to develop new insights and predictive models.
+
+Support DIHI Program Director to coordinate and manage teams of statisticians, clinical researchers, clinicians, and software developers who have received DIHI support to develop data science products to improve health outcomes or health system operations.
+
+Collaborate closely with clinicians, IT and administrative partners and other data scientists in a multidisciplinary environment to facilitate deployment of innovative solutions.
+
+Regularly interact with leaders at Duke Health and industry to identify opportunities to leverage data and technology to improve health care delivery.
+
+Work with the DIHI Program Director to execute on priorities to maximize the impact and value of data science efforts.
+
+Capacity Development (20%)
+
+Manage the development and expansion of student and trainee programs aimed at engaging undergraduate students, graduate students, SOM/MD students, and health care professional trainees from across campus in DIHI efforts.
+
+Help with recruitment and growth of DIHI analytics and data science staff and work with the School of Medicine, School of Nursing and other academic entities across Duke to build health data science capabilities.
+
+Conduct training and educational sessions in data science; coaching and developing students, project members and colleagues.
+
+Tools and product development: (30%)
+
+Develop documentation, software, support tools, and technology infrastructure to enhance the ability of analysts and operational leaders across the clinical enterprise to effectively and rapidly extract meaning from health care data.
+
+Maintain fluency in existing and emerging data science technologies and complete online coursework or independent study to fill in gaps of knowledge as needed to manage and execute innovation projects.
+
+Oversee the development of novel data pipelines that integrate and normalize large data from a variety of sources (e.g., electronic health record, claims, wearable device, publicly available data, etc.) to enable learning health, machine learning model development, and deployment.
+
+Run complex SQL queries and existing automation to correlate disparate data to identify questions and extract critical information
+
+Work with quantitative sciences and clinical faculty to evaluate predictive models and innovation pilots and help disseminate results through peer-reviewed publications and at academic conferences.
+
+Develop processes and tools to monitor and analyze analytical model performance and data accuracy; provide ad-hoc analysis and visualizations.
+
+Knowledge sharing, translation, and scaling: (15%)
+
+Present findings and data-driven recommendations to clinical partners and leadership and at national/international conferences. Develop research manuscripts for peer-reviewed journals.
+
+Represent DIHI at internal and external conferences and gatherings that bring together experts data science, machine learning and AI in health care.
+
+Identify opportunities to commercialize the output of innovations validated at Duke and work with the Office of Licensing and Ventures, internal, and external partners to support project leaders during such transitions.
+
+Education, Licensures, Certifications
+
+Bachelor’s degree in math, statistics, computer science, economics, physics, or other quantitative field required.
+
+One or more Epic Clarity Data Model certifications preferred
+
+Preferred experience:
+
+Four or more years of applied experience of statistics, machine / deep learning in a healthcare setting. Experience in a patient care environment, population health improvement, applications programming, database management and analysis and interpretation of health care data with statistical programming/data science tools. Or an equivalent combination of relevant education and/or experience. This position requires a self-starter who is adept at independent decision-making and is ideally suited for emerging leaders in health data sciences.
+
+Knowledge, Skills, and Abilities
+
+Extensive experience working with R and Python data science tools to analyze and visualize health care data and to develop data pipelines to support AI and machine learning model development.
+
+Strong skills in software development and engineering with expertise in applicable programming languages and open source machine learning and deep learning packages like Tensorflow, Torch, Theano, and Caffe.
+
+Expertise in working with electronic health record and claims data and fluency working with ICD, CPT, LOINC, RxNorm and related standardized vocabularies.
+
+Experience in working across interdisciplinary teams.
+
+Excellent communication and interpersonal skills.
+
+Duke University is an Affirmative Action/Equal Opportunity Employer committed to providing employment opportunity without regard to an individual's age, color, disability, gender, gender expression, gender identity, genetic information, national origin, race, religion, sex, sexual orientation, or veteran status.
+
+Duke aspires to create a community built on collaboration, innovation, creativity, and belonging. Our collective success depends on the robust exchange of ideas—an exchange that is best when the rich diversity of our perspectives, backgrounds, and experiences flourishes. To achieve this exchange, it is essential that all members of the community feel secure and welcome, that the contributions of all individuals are respected, and that all voices are heard. All members of our community have a responsibility to uphold these values.
+
+Essential Physical Job Functions: Certain jobs at Duke University and Duke University Health System may include essential job functions that require specific physical and/or mental abilities. Additional information and provision for requests for reasonable accommodation will be provided by each hiring department.
+
+Education
+
+Refer to Job Description
+
+ 
+
+Senior Data Scientist
+
+Location: Duke Institute of Health Innovation (DIHI)
+
+Job Description
+
+Position Summary
+
+The Senior Data Scientist will direct efforts to integrate clinical, claims, financial and related data sets to develop predictive models to enable innovative care models that improve patient outcomes and population health. The scientist will employ data science, AI / deep learning, advanced machine learning and traditional statistical techniques to address clinical care problems and business needs. The Senior Data Scientist will direct efforts and develop risk prediction and care models, to make data meaningful, accessible, and actionable; she/he will play a key role in catalyzing novel care and health management programs. This position will interface with care providers, as well as with industry partners to identify and develop opportunities and to execute projects for the Duke Institute for Health Innovation (DIHI). The scientist will foster collaborations amongst other data scientists, statistics/machine learning experts, clinicians/clinical researchers, and software developers to build valuable technology solutions that are scalable both within the Duke clinical enterprise as well as more broadly. This role will help to build capability and capacity in health data science (including both personnel and technology) for DIHI to rapidly develop, validate, support deployment and commercialize health care new data science products. Exceptional communication skills and the ability to convey and teach complex concepts will be required.
+
+He/she will work closely with the DIHI Program Director to manage existing efforts that rely on the effective use of health care data and to help set strategic priorities. The Senior Data Scientist will report to the Program Director of DIHI.
+
+Duties and Responsibilities
+
+Application of Data Science and AI (35%)
+
+Research, design, develop and implement AI and advanced machine learning applications to support DIHI innovation projects.
+
+Propose novel solutions to problems, develop solutions, demonstrate and evaluate the feasibility of solutions and, adapt and refine models and solutions into a real-world clinical care context. Apply statistical analysis and machine learning to develop new insights and predictive models.
+
+Support DIHI Program Director to coordinate and manage teams of statisticians, clinical researchers, clinicians, and software developers who have received DIHI support to develop data science products to improve health outcomes or health system operations.
+
+Collaborate closely with clinicians, IT and administrative partners and other data scientists in a multidisciplinary environment to facilitate deployment of innovative solutions.
+
+Regularly interact with leaders at Duke Health and industry to identify opportunities to leverage data and technology to improve health care delivery.
+
+Work with the DIHI Program Director to execute on priorities to maximize the impact and value of data science efforts.
+
+Capacity Development (20%)
+
+Manage the development and expansion of student and trainee programs aimed at engaging undergraduate students, graduate students, SOM/MD students, and health care professional trainees from across campus in DIHI efforts.
+
+Help with recruitment and growth of DIHI analytics and data science staff and work with the School of Medicine, School of Nursing and other academic entities across Duke to build health data science capabilities.
+
+Conduct training and educational sessions in data science; coaching and developing students, project members and colleagues.
+
+Tools and product development: (30%)
+
+Develop documentation, software, support tools, and technology infrastructure to enhance the ability of analysts and operational leaders across the clinical enterprise to effectively and rapidly extract meaning from health care data.
+
+Maintain fluency in existing and emerging data science technologies and complete online coursework or independent study to fill in gaps of knowledge as needed to manage and execute innovation projects.
+
+Oversee the development of novel data pipelines that integrate and normalize large data from a variety of sources (e.g., electronic health record, claims, wearable device, publicly available data, etc.) to enable learning health, machine learning model development, and deployment.
+
+Run complex SQL queries and existing automation to correlate disparate data to identify questions and extract critical information
+
+Work with quantitative sciences and clinical faculty to evaluate predictive models and innovation pilots and help disseminate results through peer-reviewed publications and at academic conferences.
+
+Develop processes and tools to monitor and analyze analytical model performance and data accuracy; provide ad-hoc analysis and visualizations.
+
+Knowledge sharing, translation, and scaling: (15%)
+
+Present findings and data-driven recommendations to clinical partners and leadership and at national/international conferences. Develop research manuscripts for peer-reviewed journals.
+
+Represent DIHI at internal and external conferences and gatherings that bring together experts data science, machine learning and AI in health care.
+
+Identify opportunities to commercialize the output of innovations validated at Duke and work with the Office of Licensing and Ventures, internal, and external partners to support project leaders during such transitions.
+
+Education, Licensures, Certifications
+
+Bachelor’s degree in math, statistics, computer science, economics, physics, or other quantitative field required.
+
+One or more Epic Clarity Data Model certifications preferred
+
+Preferred experience:
+
+Four or more years of applied experience of statistics, machine / deep learning in a healthcare setting. Experience in a patient care environment, population health improvement, applications programming, database management and analysis and interpretation of health care data with statistical programming/data science tools. Or an equivalent combination of relevant education and/or experience. This position requires a self-starter who is adept at independent decision-making and is ideally suited for emerging leaders in health data sciences.
+
+Knowledge, Skills, and Abilities
+
+Extensive experience working with R and Python data science tools to analyze and visualize health care data and to develop data pipelines to support AI and machine learning model development.
+
+Strong skills in software development and engineering with expertise in applicable programming languages and open source machine learning and deep learning packages like Tensorflow, Torch, Theano, and Caffe.
+
+Expertise in working with electronic health record and claims data and fluency working with ICD, CPT, LOINC, RxNorm and related standardized vocabularies.
+
+Experience in working across interdisciplinary teams.
+
+Excellent communication and interpersonal skills.
+
+Duke University is an Affirmative Action/Equal Opportunity Employer committed to providing employment opportunity without regard to an individual's age, color, disability, gender, gender expression, gender identity, genetic information, national origin, race, religion, sex, sexual orientation, or veteran status.
+
+Duke aspires to create a community built on collaboration, innovation, creativity, and belonging. Our collective success depends on the robust exchange of ideas—an exchange that is best when the rich diversity of our perspectives, backgrounds, and experiences flourishes. To achieve this exchange, it is essential that all members of the community feel secure and welcome, that the contributions of all individuals are respected, and that all voices are heard. All members of our community have a responsibility to uphold these values.
+
+Essential Physical Job Functions: Certain jobs at Duke University and Duke University Health System may include essential job functions that require specific physical and/or mental abilities. Additional information and provision for requests for reasonable accommodation will be provided by each hiring department.
+
+Education
+
+Refer to Job Description

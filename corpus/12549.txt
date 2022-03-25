@@ -1,0 +1,89 @@
+Company Description
+
+Govini empowers America's defense leaders by providing decision-grade information through our purpose-built data science and analytics platform. Leveraging our database of record, Govini applies machine driven processes and proprietary algorithms to answer vexing questions and advance the national defense strategy. Govini is a venture backed startup and has grown to include locations in Arlington, VA, San Francisco, CA and Pittsburgh, PA.
+
+Job Description
+
+We are seeking an inquisitive data scientist to join our team and work with our various datasets to find connections, knowledge, and potential issues in order to help our government clients make more informed decisions.
+
+Your role on the Data Science team will be primarily focused on our large datasets, and you will design and implement scalable statistical systems based on your analysis. You will have the opportunity to expand and grow data-driven research across Govini, and lead new areas to apply advanced analytics to drive business results.
+
+We need a creative, out-of-the box thinker who shares our passion and obsession with quality. As part of our team, you must be a data nerd with a strong understanding of the various fundamentals of data science and analysis, and know how to bring data to life.
+
+This is a full-time team member position, working onsite in our Pittsburgh, PA office.
+
+Scope of Responsibilities
+
+Design experiments, test hypotheses, and build models for advanced data analysis and complex algorithms
+
+Apply advanced statistical and predictive modeling techniques to build, maintain, and improve on multiple real-time decision systems
+
+Make strategic recommendations on data collection, integration and retention requirements, incorporating business requirements and knowledge of data industry best practices
+
+Model and frame business scenarios that are meaningful and which impact critical processes and decisions; transform, standardize, and integrate datasets for client use cases
+
+Convert custom, complex and manual client data analysis tasks into repeatable, configurable processes for consistent and scalable use within the Govini SaaS platform
+
+Optimize processes for maximum speed, performance and accuracy; craft clean, testable, and maintainable code
+
+Partner with internal Govini business analysts and external client teams to seek out the best solutions regarding data-driven problem solving
+
+Participate in end-to-end software development, on an agile team in a scrum process, collaborating closely with fellow software, machine learning, data and QA engineers
+
+Qualifications
+
+In order to do this job well, you must be a highly organized problem-solver and possess excellent oral and written communication skills. You are independent, driven and motivated to jump in and roll up your sleeves to get the job done. You lead by influence and motivation. You have a passion for great work and nothing less than your best will do. You share our intolerance of mediocrity. You’re uber-smart, challenged by figuring things out and producing simple solutions to complex problems. Knowing there are always multiple answers to a problem, you know how to engage in a constructive dialogue to find the best path forward. You’re scrappy. We like scrappy.
+
+Candidate must be able to work in the United States without sponsorship.
+
+Required Skills
+
+Bachelor's degree in Computer Science, Computer Engineering, Mathematics, Statistics, or a related field; Master’s or PHD preferred
+
+Minimum 3 years hands on data science experience
+
+Expertise with Python
+
+Experience with NLP
+
+Prior hands-on experience working with data-driven analytics
+
+Proven ability to develop solutions to loosely defined business problems by leveraging pattern detection over large datasets
+
+Proficiency in statistical analysis, quantitative analytics, forecasting/predictive analytics, multivariate testing, and optimization algorithms
+
+Experience working on agile/scrum teams
+
+Ability to work independently with little supervision
+
+Strong communication and interpersonal skills
+
+A burning desire to work in a challenging fast paced environment
+
+Desired Skills
+
+Expertise with building or using systems, such as Apache Beam or Spark, that can handle data engineering tasks
+
+Experience with Spacy
+
+Programming skills in Hadoop, MapReduce or other big data frameworks, Java, and/or statistical modeling such as SAS or R
+
+Experience using machine learning algorithms, experience with one of the open source systems, such as TensorFlow or Keras
+
+Familiarity with Git source control management
+
+Experience working in a product organization
+
+Experience in or exposure to the nuances of a startup or other entrepreneurial environment
+
+We firmly believe that past performance is the best indicator of future performance. If you believe you meet the qualifications above, and you’re prepared to perform complex, mentally rigorous work, we’re eager to hear from you.
+
+Press
+
+"Some of the biggest government contractors are looking to Silicon Valley for help winning new contracts. Big data analytics company Govini is promising companies better analytics geared toward identifying new opportunities to win work." - Washington Post
+
+"Govini is all set to disrupt the market for professional services in government contracting in much the same way Google disrupted the market for advertising - by automating processes that were once handled in a one-off, non-repeatable basis." - FCW
+
+"There are many professional services firms that just help manage processes around revenue capture. They, by hand, pull data and run metrics and shove stuff into Excel and in databases and come out with answers. In Govini, you can get the same answers in three clicks." - Federal Times
+
+Govini is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law.

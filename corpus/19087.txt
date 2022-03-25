@@ -1,0 +1,34 @@
+Our Data Warehouse team is looking to add a Senior Data Engineer to their team. A qualified applicant will have 5-7 years of experience in a Data Engineer position; as well as a background in supporting data transformation, data structures, metadata, dependency, and workload management. Expert experience with Talend and SQL is highly desired.
+
+Here's what you can expect from the job and what you need to be successful:
+
+Job Duties
+Create and maintain optimal data pipeline architecture
+Assemble large and complex data sets to meet functional/non-functional business requirements
+Build a data pipeline infrastructure for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL, cloud based relational, and/or non-relational databases employing Talend and/or scripting languages like Perl/Python
+Identify, design, and implement internal process improvements, including automating manual processes, optimizing data delivery, and re-designing infrastructure for greater scalability
+Work with key stakeholders, including members of the executive, product, data and design teams to assist with data-related technical issues and support data infrastructure needs
+Create data tools for analytics and data scientist team members that assist in building and optimizing data integration platform to serve credit union business data needs
+Partner with data and analytics experts to ensure greater functionality of data integration platform
+Follow established configuration/change control processes
+Identify options for ETL, data, and data warehouse potential solutions and assess for technical and business suitability
+Essential Skills
+5-7 years of experience in a Data Engineer or similar position
+Minimum 3 years of developing ETL processes using Talend, informatica cloud including the processing of NoSQL and JSON formats
+Talend experience is a requirement
+Advanced working knowledge in employing Talend tool to build robust data pipelines. Talend certification is preferred
+Advanced working knowledge in scripting languages, including Perl/Shell& Python
+Advanced working SQL knowledge and experience working with relational/non-relational databases, query authoring (SQL), and excellent SQL troubleshooting skills
+Experience performing root cause analysis on internal and external data and processes to respond to specific business questions and identify opportunities for improvement
+Experience in building processes to support data transformation, data structures, metadata, dependency, and workload management
+Experience in working with an agile project management environment
+Exposure to basic issues in working within a Cloud (Azure/AWS ) environment
+Experience in building data pipelines in a Big Data environment
+Excellent problem solving and critical thinking skills with the ability to carry out assigned tasks with limited oversight
+Superb verbal and written communication skills
+Bachelor’s degree in Business Administration, Computer Science or other related fields of study or equivalent work experience. Experience in financial services industry is preferred
+Location: San Jose, CA 95134
+
+First Tech may consider Visa sponsorship for this position,but only for existing H1B (no new).
+
+HP123

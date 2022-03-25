@@ -1,0 +1,95 @@
+Developing innovative therapies is one of the most challenging, most essential and personally rewarding fields in science. This is the most exciting time to be a part of Astellas, a company with a uniquely collaborative and patient-focused culture. 
+  
+There's something special about working at Astellas. It's reflected in our focus on the people we serve, the way we treat each other and the results we achieve together as a company. 
+  
+Astellas is announcing an Associate Director, Real World Data Strategy & Alliances Data Scientist in Northbrook, IL. 
+  
+Purpose & Scope: 
+The Associate Director, RWDSA Data Scientist is responsible for providing statistical expertise and analytic execution for epidemiology and genomic analytic projects using real-world databases (e.g,EMR, claims, etc.) and various genomic data sources across Astellas' geographic footprint and therapeutic areas. The Data Scientist will work closely with the RWDSA Head to execute large and/or complex data set builds, interact with cross functional teams, and be accountable for the statistical soundness of all project plans, output and deliverables for the assigned projects. The Data Scientist will work closely with the biomarker development and translational sciences teams, as well as with the Development study teams responsible for designing and conducting clinical trials to increase success of the early POC studies. This individual will: 
+  
+* Assist in the identification and evaluation of potential data sources 
+* Work with AIA Operations to onboard and structure datasets for evaluation 
+* Establish effective communications with all internal stakeholders to understand underlying business and scientific challenges 
+* Work as member of cross-functional team to scope out analyses to address key questions 
+* Ensure that analyses are statistically valid and appropriately planned and executed; 
+* Manage collaborations and lead analyses across multiple external database vendors and experts to ensure that Astellas sponsored RWDSA initiatives are clinically relevant and support the needs of patients, health care providers and payers. 
+  
+Essential Job Responsibilities: 
+* Support the Head Real World Data Strategy & Alliances by providing data sciences and statistical expertise for all RWDSA projects as requested 
+* Contribute to RWDSA projects/initiatives, protocol development, regulatory documents, scientific publications, and independent research proposals across multiple teams in all therapeutic areas for both in-line and development projects across multiple functions 
+* Conduct exploratory data analyses of new data sources to assess completeness and fit for purpose; incorporate into disease specific data tables to support integrated analyses. 
+* Implement analyses and studies, defining endpoints, executing protocols with data programming, conducting statistical analyses using SAS, R, SQL and other programs 
+* Provide analytic and methodological support to CPED, Translational Sciences and Development projects along with study execution including patient segmentation and biomarker development 
+* Develop data mining, machine learning, artificial intelligence and/or data modeling plans to support RWDSA projects and programs 
+* Ensure that all analyses are performed in accordance with good statistical practice and applicable regulatory guidelines 
+* Build strategic analytic collaborations with Astellas colleagues and external partners to advance RWDSA initiatives as appropriate 
+  
+Quantitative Dimensions: 
+The RWDSA Data Scientist supports the use of Real World Data to address key discovery and development questions across the life cycle of development. Early work focuses on understanding the key patient segments within a disease area based on symptoms, comorbidities and underlying genetic mutations and gene expression patterns. The RWDSA Data Scientist is an integral part of identifying key data needs, evaluating and acquiring those data sources, loading and integrating licensed data sources into a useful environment and conducting requisite analyses to address business and scientific needs. They are responsible for collaborating with internal across multiple products and therapeutic areas to provide statistical expertise, assessment and management for RWDSA projects. The results produced by the Data Scientist must be reproducible and statistically sound, and are subject to internal and external inspections. 
+  
+Organizational Context: 
+RWDSA Data Scientist reports directly to the RWDSA Head as an individual contributor. They will collaborate closely with multiple project teams across Astellas functions, geographies and therapeutic areas. The Data Scientist will collaborate with the colleagues across the entire Astellas value chain: 
+* Drug Discovery & Research 
+* Translational Sciences 
+* Clinical Pharmacology and Early Development 
+* Clinical Development 
+* Medical Affairs / HEOR 
+* Strategic functions -- including product, portfolio and marketing strategy 
+* External: Astellas partners, Vendors, Key Opinion Leaders 
+ 
+Qualifications:  
+Required: 
+* Experience in various types of RWD data including large clinical registries, insurance claims, electronic medical records, laboratory results, genetic markers and gene expression data 
+* Experience in working with clinical coding systems including ICD9/10, LOINC, MEDRA 
+* Advanced Bioinformatics experiences working with NCBI files and sources 
+* Advanced Statistical modeling experience in clinical trials, HEOR, epidemiology research, or GWAS 
+* Experience with SAS, R, Python, Tableau, Qlik, and other data analysis and visualization software 
+* Master/PhD Degree in Statistics, Biostatistics, Epidemiology, or Mathematics and at least 7 years relevant experience with at least 2 years in support of pharmaceutical research; or PhD in Computational Biology, Systems Biology and extensive experience in Bioinformatics 
+* Experience in working on project teams and managing projects and people within a matrix environment 
+* Advanced and broad knowledge of statistical methodology and strong understanding of industry practices related to the statistical analysis and modeling of real world data. 
+* Excellent organizational, people, project and time management skills 
+* Solid oral, written, and presentation communication skills (e.g. able to clearly communicate statistical and epidemiological issues and methods to statisticians and non-statisticians) 
+ Preferred: 
+* Experience in the development & execution of RWD (observational) studies and/or peer reviewed manuscripts 
+* Solid knowledge of Bioinformatics tools, Machine Learning and NLP 
+* Working knowledge of common databases such as insurance claims (eg. Pharmetrics, Optum,Truven), EMR data sources (GE, Cerner, Flatiron), DNA markers and Transcripomic data sources (eg. Tempus, Concerta) 
+* Familiar with AWS and Hadoop working environments 
+ #LI-DM
+Equal Opportunity Employer Minorities/Women/Protected Veterans/Disabled 
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Northbrook, IL 
+                     
+                 
+                             
+                     
+                         Job type 
+                         Full Time, Employee 
+                     
+                 
+                 
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                 
+                     
+                         Industries 
+                         Other/Not Classified 
+                     
+                 
+                 
+                     
+                         Career level 
+                         Experienced (Non-Manager) 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         4264_5000506290210

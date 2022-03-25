@@ -1,0 +1,36 @@
+Company Description:
+
+Quartet is a pioneering healthcare technology company striving to improve the lives of people with mental health conditions. We connect people to a personalized care team to get them the right care at the right time. Our collaborative technology platform and range of services brings together physicians, mental health providers, and insurance companies to effectively improve patient outcomes and drive down healthcare costs. Backed by $153MM in venture funding from top investors like Oak HC/FT, GV (formerly Google Ventures), F-Prime Capital Partners, Polaris Partners, Centene Corporation and Echo Ventures. Quartet is headquartered in NYC and is currently operating in several markets across the United States Pennsylvania, Washington, Northern California, New Jersey, North Carolina, Louisiana, and Illinois.
+
+About the team & opportunity:
+
+As a Data Scientist at Quartet, you will work on a range of projects -- developing statistical analyses to study impact of Quartet interventions; predicting mental health needs among populations; building machine learning models to suggest timely and appropriate behavioral health care interventions for patients. You'll develop a deep understanding of Quartet interventions and the predictive models and algorithms.
+
+You will design and develop effective models, features, and algorithms involving multiple datasets, including user activity, Electronic Health Records (EHR), admissions, discharges and transfers (ADT), medical claims, pharmacy claims, and lab test claims. Leverages knowledge of computer science, machine learning, data mining and software architecture to build high-quality data products. Supports the design of Quartet products, including: an entity resolution and de-duplication library for linking patients and providers data, which is collected from multiple sources; a machine learning application for the detection of opioid use disorder in patients using supervised learning and deep learning; and an optical mark recognition (OMR) computer vision application for transcribing paper assessments.
+
+Accountabilities:
+Research and develop machine-learning and statistical models in Quartet Health's platform to improve software personalization and recommendations for users
+Drives a data-informed process for experimenting with new products to improve patient outcomes and operational efficiency.
+Performing ML research, exploratory data analysis, and computer-vision modeling; developing model evaluation and online maintenance methodologies, including confidence estimation, calibration, and concept drift
+Develop general-purpose frameworks to support machine learning applications in production.
+Minimum Qualifications:
+2-3 years experience as a data scientist.
+Formal training in statistics and computer science.
+Knowledge of mathematical fundamentals: probability theory, linear algebra and statistics.
+Strong data transformation and extraction skills with SQL databases.
+Strong statistical programming skills in both Python and R.
+Comfort/self-sufficiency with Amazon Web Services infrastructure.
+Comfort/self-sufficiency with Linux command line.
+Comfort/self-sufficiency with git for version control.
+Ability to work on projects from initial to final phase- beginning by defining a problem, developing an implementation plan, and overseeing deployment and maintenance.
+Ability to clearly communicate across disciplines and work collaboratively.
+Experience with any of the following: Docker, TensorFlow, Keras, Numpy, Scipy, Pandas, Gensim, Scikit-learn, NLKT, Jupyter
+Employee Benefits for Quartet include: Unlimited vacation, volunteer opportunities, catered lunches, snacks, team events and outings, mental healthcare coverage of 15 free therapy sessions + unlimited copay reimbursements, medical, dental + vision coverage, generous parental leave, commuter benefits, 401K, stock option grants, gym benefits.
+
+Want to know what Quartet life is like? Click here to meet our team.
+
+Quartet is committed to building a diverse team and fostering an inclusive culture, and is proud to be an equal opportunity employer. We embrace and encourage our employees' differences in race, religion, color, national origin, gender, family status, sexual orientation, gender identity, gender expression, age, veteran status, disability, pregnancy, medical conditions, and other characteristics. Headhunters and recruitment agencies may not submit resumes/CVs through this Web site or directly to managers. Quartet does not accept unsolicited headhunter and agency resumes. Quartet will not pay fees to any third-party agency or company that does not have a signed agreement with Quartet.
+
+Please note: Quartet interview requests and job offers only originate from quartethealth.com email addresses (e.g. jsmith@quartethealth.com). Quartet will also never ask for bank information (e.g. account and routing number), social security numbers, passwords, or other sensitive information to be delivered via email. If you receive a scam email or wish to report a security issue involving Quartet, please notify us at: security@quartethealth.com.
+
+Have someone to refer? Email talent@quartethealth.com to submit their details to us.

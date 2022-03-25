@@ -1,0 +1,12 @@
+Position: Sr. AI/Machine Learning Engineer (Must be able to work CST hour)
+Position Type: Fully remote contract to hire
+Company: Waste Management
+Rate: DOE
+
+Requirements and scope:
+
+Client needs machine learning to identify object and image -- building algorithms to find images and find objects with the images. Question where they have safety issues, people in zones where they need to be, video surveillance, spillage issues, image analytics, use cases etc.
+Team lead experience
+Python, R, Java
+Background in machine learning frameworks such as TensorFlow, Keras or similar tools, and AWS
+Experience working with object detection projects

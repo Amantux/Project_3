@@ -1,0 +1,62 @@
+Our Purpose
+
+We work to connect and power an inclusive, digital economy that benefits everyone, everywhere by making transactions safe, simple, smart and accessible. Using secure data and networks, partnerships and passion, our innovations and solutions help individuals, financial institutions, governments and businesses realize their greatest potential. Our decency quotient, or DQ, drives our culture and everything we do inside and outside of our company. We cultivate a culture of inclusion for all employees that respects their individual strengths, views, and experiences. We believe that our differences enable us to be a better team – one that makes better decisions, drives innovation and delivers better business results.
+
+Job Title
+
+Lead Data Engineer (St. Louis, Austin or Toronto)The Position:
+Ethoca is seeking a Lead Data Engineer, Cloud to join our team in Toronto to drive Azure cloud enablement and explore big data solutions within our technology landscape. The role is visible and critical as part of a high performing team – it will appeal to you if you have an effective combination of domain knowledge, relevant experience and the ability to execute on the details.
+You will bring cutting edge software and full stack development skills with advanced knowledge of cloud and data lake experience while working with massive data volume. You will own this – our teams are small, agile and focused on the needs of the high growth fintech marketplace. You will be working across functional teams within Ethoca and Mastercard to deliver on the cloud strategy.
+We are committed in making our systems resilient and responsive yet easily maintainable on premise and on cloud.
+
+Your Challenge:
+Own the development of ETL/ELT, data movement, streaming and non-streaming data with a solid background in development of reports/dashboards, applications, services, user interfaces while maintaining and scaling existing solutions.
+Existing solutions are built on data that resides in the SAP HANA data warehouse, we expect the successful candidate will always pay attention to detail: configuration, maintenance, security and reliability of data and Data Services in the different environments as we build out a state-of-the-art analytics foundation (on premise and on cloud).
+
+Qualifications:
+• Tenured in the fields of Computer Science/Engineering or Software Engineering
+• Bachelor's degree in Computer Science, or a related technical field including programming
+• Experience with cloud infrastructure management and automation (preferably Azure)
+• Experience with software development and configuration automation is a must have
+• Expertise in designing, analyzing, and troubleshooting large-scale systems
+• Capability to debug, optimize code, and automate routine tasks
+• Extensive experience in Machine Learning
+• Hands-on experience with building data lake solutions, streaming analytics solutions and code development across environments (i.e. DevOps)
+
+Here’s what sets you apart:
+
+• 5+ years of data warehousing/data lake development experience
+• Strong data modeling and data integration experience
+• Strong SQL and higher-level programming languages
+• Solid knowledge of data mining, machine learning algorithms and tools
+• Good understanding of data warehouse/data lake design patterns and best practices
+• Solid understanding of data ingestion (i.e. streaming platforms like Kafka)
+• Strong experience with data integration tools – ETL/ELT tools (i.e. Apache NiFi, Azure Data Factory, Pentaho, Talend)
+• Experience working:
+o In a Data Warehousing and BI environment with understanding of warehousing concepts
+o With Source Control System (SCS) is a must – preferably “Git” source control
+• Systematic problem-solving approach, with effective communication skills and a sense of drive
+• Strong understanding and working knowledge of Continuous Integration and Continuous Deployment concepts
+• Excellent written and verbal communication skills
+• Top notch problem solving and analytical skills
+• Plan and own deployments, migrations and upgrades to minimize service impacts with mitigation plans
+• Understand and tune performance across all physical and logical dimensions
+• Support Ethoca’s architects and analysts as they design and build effective, agile applications
+• Use your experience to help shape and scale the future of our development and production infrastructure
+• Work efficiently within a high security, PII and PCI-DSS Level 1 environment
+• Self-starter that explores opportunities for efficiencies and propose options to bridge gaps that exists
+
+Nice to have:
+• Scripting experience with one or more of the following:
+o Java and Java Script, Python, R
+• Experience working with analytics and data processing engines like Apache Spark/Storm
+• Experience with application development
+• Experience working with SAP HANA or Teradata
+
+Ideally you have experience in banking, e-commerce, credit cards or payment processing and exposure to both SaaS and premises-based architectures. In addition, you have a post-secondary degree in computer science, mathematics or a quantitative science and at least 5 plus years of increasingly responsible work experience.
+
+Due to COVID-19, most of our employees are working from home. We’ve implemented a virtual hiring process and continue to interview candidates by phone or video and are onboarding new hires remotely. We value the safety of each member of our community because we know we’re all in this together.
+
+Mastercard is an inclusive Equal Employment Opportunity employer that considers applicants without regard to gender, gender identity, sexual orientation, race, ethnicity, disabled or veteran status, or any other characteristic protected by law.
+
+If you require accommodations or assistance to complete the online application process, please contact reasonable.accommodation@mastercard.com and identify the type of accommodation or assistance you are requesting. Do not include any medical or health information in this email. The Reasonable Accommodations team will respond to your email promptly.

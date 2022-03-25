@@ -1,0 +1,105 @@
+JCC: 5522
+
+Grade: I
+
+Fixed-Term: 2 Years
+
+The Department of Ophthalmology at Stanford University School of Medicine is seeking a highly motivated, hard-working and professional Data Scientist to lead and facilitate research efforts with ophthalmology. The incumbent will be part of the department of ophthalmology, however, the position will require engaging with other Stanford faculty and staff across multiple departments, including Health Research and Policy, Biomedical Data Science, and Medicine. The incumbent will coordinate and lead Stanford’s research activities for the ophthalmology IRIS (Intelligent Research In Sight) national clinical data registry—Stanford having been selected as one of 5 registry research sites in the US. The incumbent will also work with other data sets, including commercial and Medicare claims data, national survey data, clinical trial data, electronic health record data (structured and unstructured), imaging data, and other sources.
+
+The position will require an incumbent who is comfortable working with some independence; consulting with and advising investigators to refine research questions, define hypotheses, design studies and devise analysis plans; and working with project team members—including other statistician(s), methods content experts, and clinicians—to implement analysis plans and publish findings. The incumbent must be proficient at balancing involvement in multiple simultaneous projects and prioritizing to manage competing priorities.
+
+Under minimal supervision, the incumbent will perform the most complex technical work associated with a wide variety of analytical data and may supervise and advise students, trainees, and other statisticians performing data analysis. The incumbent will work closely with others to interrogate databases to create analytic files, perform quality control and data cleaning, and manage and analyze data. Present results orally to clinical investigators. Provide guidance to clinical investigators on design and analysis issues.
+
+Duties include:
+
+Work directly with investigators and independently identify appropriate statistical approaches to data analyses; assist in study design and proposal development.
+
+Create analytic files with detailed documentation.
+
+Lead research projects, collaborator engagement, and project status updates for national ophthalmology IRIS registry data at Stanford
+
+Implement data analysis through statistical programming.
+
+Create data dictionaries and libraries that document how data are housed
+
+Create non-routine databases and their related information summary; develop algorithms and statistical models; and perform statistical analyses appropriate to complex data and reporting requirements
+
+Work under consultative or self-initiated direction to assess and produce relevant, standard, or custom information (reports, charts, graphs and tables) from structured data sources by querying data repositories and generating the associated information. Distribute and disseminate reports to applicable agencies, researchers, management and other internal end-users
+
+Devise methods for identifying data patterns, trends in available information sources using a variety of qualitative and quantitative techniques. Determine and recommend additional data collection and reporting requirements
+
+Serve as a resource for non-routine inquiries such as requests for statistics or surveys
+
+Summarize findings orally and in written form.
+
+Participate in preparation of conference presentations and peer-reviewed journal articles.
+
+Oversee and advise lower level staff on analyses
+
+- Other duties may also be assigned
+
+DESIRED QUALIFICATIONS:
+
+PhD in biomedical informatics, computer science, biostatistics, health services research, or related field
+
+Strong background in machine learning, biostatistics and bioinformatics.
+
+At least 2 years of experience in industry as a data scientist, or collaborating with biostatisticians and clinical investigators on research studies
+
+Experience with large datasets and database use.
+
+Experience with analysis of electronic medical data.
+
+Manipulation and analyses of complex high-dimensional data.
+
+Programming (python, R, Javascript, C++) and database skills (SQL) for database manipulation
+
+Familiarity with statistical packages such as SAS, R, and/or Stata
+
+Experience with database curation
+
+Experience with deep learning approaches, e.g., neural networks
+
+Demonstrated ability to implement machine learning models in scalable format for broad applicability.
+
+Strong communication and presentation skills.
+
+EDUCATION & EXPERIENCE (REQUIRED):
+
+Master's degree in biostatistics, statistics or related field and at least 3 years of experience.
+
+KNOWLEDGE, SKILLS AND ABILITIES (REQUIRED):
+
+Strong listening, verbal and written communication skills
+
+Ability to manage multiple activities in a deadline-oriented environment; highly organized, flexible and rigorous attention to detail
+
+In-depth knowledge and experience using and applying analytical software, database management system software, database reporting software, database user interface and query software, and data mining software
+
+Proficient in at least two of R, SAS, SPSS, or STATA.
+
+Skills in descriptive analysis, modeling of data, and graphic interfaces.
+
+Outstanding ability to communicate technical information to both technical and non-technical audiences.
+
+Demonstrated excellence in at least one area of expertise, which may include coordinating studies; statistical methodology such as missing data, survival analysis, statistical genetics, or informatics; statistical computing; database design (e.g., expertise in RedCAP or MySQL); graphical techniques (e.g., expertise in Illustrator).
+
+PHYSICAL REQUIREMENTS*:
+
+Frequently perform desk based computer tasks, seated work and use light/ fine grasping.
+
+Occasionally stand, walk, and write by hand, lift, carry, push pull objects that weigh up to 10 pounds.
+
+- Consistent with its obligations under the law, the University will provide reasonable accommodation to any employee with a disability who requires accommodation to perform the essential functions of his or her job.
+
+WORKING CONDITIONS:
+
+May work extended or non-standard hours based on project or business cycle needs.
+
+WORK STANDARDS:
+
+Interpersonal Skills: Demonstrates the ability to work well with Stanford colleagues and clients and with external organizations.
+
+Promote Culture of Safety: Demonstrates commitment to personal responsibility and value for safety; communicates safety concerns; uses and promotes safe behaviors based on training and lessons learned.
+
+Subject to and expected to comply with all applicable University policies and procedures, including but not limited to the personnel policies and other policies found in the University's Administrative Guide, http://adminguide.stanford.edu.

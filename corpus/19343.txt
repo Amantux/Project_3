@@ -1,0 +1,31 @@
+Cirrus Logic's Hardware organization is seeking highly skilled Analog IC Design Engineers to join our team developing high performance data converter IC's and amplifiers for consumer audio markets. In this position, your primary design focus will be delta sigma ADC’s and DAC’s, but you will also have opportunities to participate in the design of various classes of amplifiers, DC/DC converters and other supporting circuitry in advanced CMOS processes. This is a meaningful position in a fun, challenging, and dynamic environment and provides excellent opportunities for personal and professional growth.
+
+Responsibilities
+
+Developing CMOS mixed signal circuitry from concept to production
+Modeling analog circuits in Matlab, Verilog-A, and real number SystemVerilog
+Simulating and verifying circuit performance and functionality using Spectre and ADEXL
+Simulating and verifying at the chip level using analog on top and digital on top methodologies
+
+Required Skills and Qualifications
+
+Master's in Electrical Engineering with 10+ years of experience or PhD in Electrical Engineering with 8+ years of experience in analog/mixed-signal IC development
+Strong skills in CMOS analog design and layout
+Strong s-domain and z-domain analysis skills
+Organized, thorough, and detail-oriented with strong communication skills
+Self-motivated with strong analytical and problem-solving skills
+Ability to work with a sense of urgency and thrive in a dynamic environment
+
+Preferred Skills and Qualifications
+
+Knowledge of discrete-time and continuous-time signal processing
+Experience in system and behavioral modeling
+Mentoring of junior engineers
+Good silicon debug skills
+Understanding of layout
+Understanding of reliability concerns
+Different CMOS processes and geometry nodes
+
+This position is located in Austin, TX
+
+Cirrus Logic is an Equal Opportunity/Affirmative Action Employer. We strive to select the best qualified applicant for any opening and to reward employees based on their skills, experience and performance. We do not discriminate on the basis of race, national origin, pregnancy status, marital status, gender, age, religion, physical or mental disability, medical condition, veteran status, sexual orientation, genetic information or any other characteristic protected by law.

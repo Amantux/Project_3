@@ -1,0 +1,50 @@
+Your Opportunity
+
+
+Do you want to work on databases that process hundreds of billions of transactions per month? Do you strive to build database systems that are highly reliable, performant, and easy to operate using the automation you write? If you find these challenges exciting, we encourage you to apply.
+
+As a part of the Database team, you’ll be working with engineers who build and support our containerized database orchestration platform, Megabase, which hosts MySQL, Postgres, and Redis systems for internal teams. You’ll be involved in the early stages of migrating our database platform to AWS and provide consulting to teams that are migrating workloads to AWS. We believe in using automation to increase reliability and reduce toil, so you’ll have the opportunity to use your programming skills to create tools that automate provisioning, manage user access, and set up advanced database monitoring.
+
+Opportunity to work from a remote office in Portland, Chicago, Detroit, New York, Philadelphia, Houston, Baltimore.
+
+What You’ll Do
+Build systems that help teams migrate from our containerized database platform (Megabase) to new cloud environments.
+Assist in the creation, administration, and monitoring of MySQL, Postgres, and Redis systems and infrastructure.
+Partner with internal development teams on datastore selection, schema design, query optimization, and monitor database capacity.
+Investigating database tuning settings and query changes needed to improve performance, availability, and reliability.
+Developing tools in Go to automate the operation (server and database provisioning, backups, fail-overs, monitoring, etc.) of our Dockerized database infrastructure to reduce possibilities for manual error and increase team efficiency.
+Your Qualifications
+
+
+Must-have:
+4+ years experience supporting database systems or in system administration roles.
+Real-world experience administering MySQL, Postgres, and/or Redis in production.
+Experience operating databases hosted on cloud platforms
+Nice-to-have:
+Experience using AWS managed databases: RDS, Aurora, ElastiCache
+Proficiency using Go, Python and/or Ruby to automate system-level tasks (the team has standardized on Go for tool development)
+Experience with Docker container deployments and administration
+Experience with Ansible, Terraform, Puppet or other configuration management tools.
+Please note that visa sponsorship is not available for this position.
+
+About Us
+
+
+New Relic (NYSE: NEWR) is the industry’s largest and most comprehensive cloud-based instrumentation platform built to create more perfect software. The world’s best software and DevOps teams rely on New Relic to move faster, make better decisions and create best-in-class digital experiences. If you run software, you need to run New Relic. We’re proudly trusted by more than 50% of the Fortune 100.
+
+Founded in 2008, we’re a global company focused on building a culture where all employees feel a deep sense of belonging, where every ‘Relic’ can bring their whole self to work and feel supported and empowered to thrive. We’re consistently recognized as a distinguished employer and are committed to building world-class products and an award winning culture. For more information, visit newrelic.com.
+
+Our Hiring Process
+
+
+In compliance with applicable law, all persons hired will be required to verify identity and eligibility to work and to complete employment eligibility verification. Note: Our stewardship of the data of thousands of customers means that a criminal background check is required to join New Relic.
+
+We will consider qualified applicants with arrest and conviction records based on individual circumstances and in accordance with applicable law including, but not limited to, the San Francisco Fair Chance Ordinance. https://sfgov.org/olse/sites/default/files/Document/FCO%20Poster%20Set%20All%20Languages%2010%2001%2018.pdf
+
+Headhunters and recruitment agencies may not submit resumes/CVs through this website or directly to managers. New Relic does not accept unsolicited headhunter and agency resumes, and will not pay fees to any third-party agency or company that does not have a signed agreement with New Relic.
+
+New Relic is an equal opportunity employer. We eagerly seek applicants of diverse background and hire without regard to race, color, gender identity, religion, national origin, ancestry, citizenship, physical abilities (or disability), age, sexual orientation, veteran status, or any other characteristic protected by law.
+
+Interested in the details of our privacy policy? Read more here: https://newrelic.com/termsandconditions/applicant-privacy-policy
+
+#LI-PY1

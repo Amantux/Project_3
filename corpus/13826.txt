@@ -1,0 +1,42 @@
+SunIRef:it
+
+Full Time - Rochester, NY - (Remote possible for perfect candidate)
+
+Measures for Justice is a fast-paced, entrepreneurial organization that is on a mission to make good criminal justice data available and actionable to spur reform. We've got world class criminal justice data and technology chops. And a culture that demands excellence, rigor, and people who like to make good ideas come to life.
+
+To make it happen, we deploy three strategies:
+We show people what criminal justice looks like across the country via our free, interactive Data Portal;
+We help standardize and improve criminal justice data via work on the state and national levels;
+We help put criminal justice data to work with tools, services, and research.
+
+Since 2011, we have pioneered a methodology to compare how different justice systems perform on the county level and led the charge to improve county-level criminal justice data. We have strong support from prominent philanthropists, in particular from leading technology entrepreneurs and criminal justice foundations across the country, as well as from system practitioners and policymakers nationwide.
+What You Will Do
+
+Write smart machine learning algorithms to drive insight from criminal justice data to inform decision-making by practitioners and policy-makers in a way that improves lives everywhere.
+Work with our Tech team to refine and implement a data engineering process to handle a datastream that is composed of live, ongoing criminal cases to feed public-facing products that visualize data from prosecutor offices and other criminal justice agencies to bring transparency to local criminal justice.
+Ensure that data science decisions conform with Measures for Justice's rigorous methodology.
+Help to rapidly iterate on new features to find the ones which move the needle and hit consumer engagement to drive real change.
+Creatively assess and mine our data for how they can be used to explain what's happening in our communities when it comes to criminal justice, and to be the basis for new products and innovations.
+About You
+
+You are passionate about data science and its applications to create tools that are useful in the real world. You enjoy working with cutting edge technology, and you relish the opportunity to make an impact on the way millions of people are affected by the criminal justice system. You are able to work effectively with a variety of other disciplines, such as criminologists, technologists and journalists. You are a skillful communicator who can distill complex technical information to the language different audiences, such as prosecutors, researchers, and journalists, among others, will understand. Data Science skills
+Sophisticated understanding of statistics and statistical modeling techniques, including spatial analysis
+Familiarity with machine learning techniques
+Experience with data validation
+Experience with data visualizationTech/Software skills
+Ability to work with a variety of file formats and database engines
+Ability to work with cloud computing and storage resources
+Ability to work with git source control and continuous integration services
+Understanding of configuration file formats like JSON and YAML
+Familiarity with at least one JVM language and its build, dependency release technologies
+Familiarity with regular expressions
+Comfortable with the Unix/Linux command line
+Ability to wrangle malformed data
+Experience with ETL operationsBackground
+Masters degree or PhD in Criminal Justice, Statistics, Math, Computer Science, Data Science or similar degree or an equivalent combination of education and experience
+Background in quantitative criminal justice data and research preferred but not required
+Next Steps
+
+Please apply by sending your resume and cover letter to . The subject line should read: Data Scientist.
+
+Review of applications will begin immediately and will continue until the position is filled.

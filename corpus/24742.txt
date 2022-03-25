@@ -1,0 +1,39 @@
+GRAIL is a healthcare company whose mission is to detect cancer early, when it can be cured. GRAIL is focused on alleviating the global burden of cancer by developing pioneering technology to detect and identify multiple deadly cancer types early. The company is using the power of next-generation sequencing, population-scale clinical studies, and state-of-the-art computer science and data science to enhance the scientific understanding of cancer biology, and to develop its multi-cancer early detection blood test. GRAIL is located in Menlo Park, California. It is supported by leading global investors and pharmaceutical, technology, and healthcare companies. For more information, please visit www.grail.com
+
+You will serve as a key point of contact & subject matter expert to support, maintain and administer our key business systems such as Salesforce (CRM), Apttus (CLM), Coupa (S2P): architect, design, build and deliver optimized and scalable solutions. As an individual contributor, with your expertise, you will build business applications and influence the rollout of processes/features that will improve the reliability of Grail’s applications and systems. You will also define the scope of technical projects and oversee their execution.
+
+This position will require strong cross-functional skills, ability to translate business requirements into system requirements, strong change management skills and ability to drive business/system requirements and projects to completion. You will Stay ahead of the new Coupa, Apttus, Salesforce features and functionality, and provide recommendations for improvements. Work with other stakeholders & key partners to scope work and produce deliverable estimates. Adapt to changing priorities of the business and seek out ways to develop new skills. Balance multiple concurrent projects and contending priorities.
+You will:
+Translate business requirements into technical solutions that best leverage the current tech stack and offer other technical solutions for consideration where necessary
+Experience in Designing and developing technical solutions for multiple Salesforce projects.Experience with both Sales and Service Cloud that provides Salesforce Customer Support and Customer Management.
+Experience developing solutions for the Apttus Contract Lifecycle Management (CLM) systems including X- Author for Word & development of clause libraries and contract templates.
+Serve as the technical leader/product owner and work with business users to map out the technical roadmap for automating complex business processes to achieve operational efficiencies
+Advise the business and articulate the benefits and risks to a solution’s feasibility and functionality as a trusted technology partner
+Design, configure and develop templates and workflows for contract management using Apttus CLM
+build proof-of-concept (POC) and own any new feature implementation and maintenance of the system’s stability & support
+Accountable for timely delivery of projects as per established project plans by working closely with the business teams
+Participate in end-to-end implementation planning including project management, issue management, communication and change management
+Provide hands-on technical expertise for Salesforce, Coupa & Apttus
+Assist with data management and governance and also support reporting requirements and leverage Salesforce for data-driven decisions
+Work within the framework of the Scrum standards to deliver business needs
+Build configurations using recommended best practices while delivering scalable high-quality solutions to integrate Salesforce with downstream systems and Billing systems with financial systems like Coupa and NetSuite
+Demonstrate a strong technical aptitude and understand both business and technical language and ideas and develop and maintain the strategic stakeholder roadmaps – short term to 12+ months
+Drive adoption of technology and process changes
+Methodologies: Waterfall, Agile - Scrum
+Business Analysis: Visio, Requirement Analysis, Data Flow Diagrams, Business Process Modeling & Re-engineering, Gap Analysis, Cause & Effect Analysis, UAT, Use Case, Test Scripts.
+Tools: & Software: Apttus X Author for Word
+Query Tools: Salesforce dataloader
+Project Documentation Tools: Smartsheet, Lucid Charts
+
+About you:
+
+4-5 years of hands-on Apttus Contract Management experience
+Overall 4+ years of SFDC Administration experience with deep understanding of SFDC Security setting, Sharing rules, Permissions Sets, etc.
+Understand Apttus CLM Out of the box components versus Custom components capabilities
+Understand Coupa S2P process and administration
+SFDC and/or Apttus CLM certification highly desirable
+Prior experience supporting technology projects such as CLM, Billing, S2P, ERP, CRM & Contract Management systems etc.
+Familiar with and able to drive the Agile development and release methodologies, especially for automation of business processes, improvements/redesigns
+Ability to work across teams and influence ideas and execute them among various business groups
+Bachelor’s degree preferably in Engineering, Management Information Systems, or equivalent years of industry experience
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

@@ -1,0 +1,53 @@
+Organization: Accenture Federal Services
+Location: San Antonio, TX
+Accenture Federal Services, a U.S. based subsidiary of Accenture combining bold ideas with proven Accenture commercial innovation, new technologies and mission experience to help our federal clients reach their full potential in the cloud. Using the power of Accenture, we are expanding cloud adoption and taking programs to the next level. We are changing the way the world works and lives. Are you ready to help and learn as much as you can to make a difference? Well give you numerous opportunities from training sessions to courses and certifications that will keep your tech smarts sharp. Join us in making yourself and our country better.
+
+The Identity Operations Engineering Senior Analyst is responsible for the engineering, operation and support of the Accenture Federal Services Identity Management Infrastructure including Microsoft Azure, Microsoft Office 365, Microsoft Forefront Identity Manager, Microsoft Forefront Identity Manager Certificate Manager, PKI, Active Directory, and associated tools. Requires knowledge of Azure Active Directory, Azure Application Proxy, Single Sign On (SSO), MFA, scripting and code that interfaces with Directory Services. The Identity Operations Engineering Tech Specialist will engineer services and applications, deploy these to a hybrid environment and support reporting, automation, and processes related to them. In addition, the individual will share responsibility with the team to be the primary escalation point for service requests, perform advanced troubleshooting of incidents, as well as mentoring junior level team members in expanding their technical knowledge and skills. They will also provide backup support to the I&AM Team Lead and assist in keeping all service and operational level agreements.
+
+Responsibilities Include:
+
+- Azure AD, MFA and SSO support, configuration and troubleshooting
+
+- Design, develop, and deploy complex application features
+
+- Design and support software development processes
+
+- Tier 3 support activities around AFS I&AM services
+
+- Perform advanced troubleshooting of incidents
+
+- Monitor junior level team members in expanding technical knowledge and skills
+
+- Rotating On-call support schedule
+Basic Qualifications:
+U.S. Citizenship Required
+1 year of IT experience to include
+Microsoft Directory Services (Active Directory/ADDS 2012 preferred)
+Azure Active Directory
+DIRSync/Azure AD Connect
+Preferred Qualifications:
+Hands-on PowerShell Scripting experience
+Experience with FIM/MIM
+Proven Ability to work Independently and as a team member
+Good communication (written and oral) and interpersonal skills
+Good organizational, multi-tasking, and time-management skills
+Office 365 experience
+Experience with Azure MFA
+Experience with Azure Application Proxy
+Experience with Azure Single Sign-on
+Experience in Certificate Services/PKI
+
+Important information
+An active security clearance or the ability to obtain one may be required for this role.
+
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States and with Accenture (i.e., H1-B visa, F-1 visa (OPT), TN visa or any other non-immigrant status).
+
+Accenture is a Federal Contractor and an EEO and Affirmative Action Employer of Females/Minorities/Veterans/Individuals with Disabilities.
+
+Equal Employment Opportunity
+All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process.
+
+Accenture is committed to providing veteran employment opportunities to our service men and women.

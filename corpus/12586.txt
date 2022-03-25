@@ -1,0 +1,53 @@
+As a UW employee, you have a unique opportunity to change lives on our campuses, in our state and around the world. UW employees offer their boundless energy, creative problem solving skills and dedication to build stronger minds and a healthier world.
+
+UW faculty and staff also enjoy outstanding benefits, professional growth opportunities and unique resources in an environment noted for diversity, intellectual excitement, artistic pursuits and natural beauty. All of which has allowed the UW to be nationally recognized as a “Great College to Work For” for five consecutive years.
+
+The Joint Institute for the Study of the Atmosphere and Ocean (JISAO) has existed since 1977 for the purpose of fostering research collaboration between UW and the National Oceanic and Atmospheric Administration (NOAA). JISAO’s research is at the forefront of investigations on climate change, ocean acidification, fisheries assessments, and tsunami forecasting.
+
+JISAO, in conjunction with NOAA’s Pacific Marine Environmental Laboratory (PMEL), conducts groundbreaking oceanographic and environmental research. The Science Data Integration Group (SDIG) at PMEL develops software and defines processes to integrate data management processes into research projects (such as the Surface Ocean CO2 Atlas project) and to preserve UW/JISAO and PMEL’s scientific data assets. In support of UW and PMEL scientists, SDIG develops applications and frameworks to facilitate the documentation, access, visualization, analysis and assessment of scientific data.
+
+JISAO has an exciting opportunity for a Data Scientist.
+
+The Data Scientist will develop, install and maintain software in support of PMEL’s scientific data management and data analysis objectives. This includes development to support enhancements, installation and maintenance of the SDIG developed PyFerret scientific data visualization and analysis application. Understanding and competence in working with Python and Python scientific libraries is essential to supporting the PyFerret application. Other development efforts include Java backend server processes used to support management of PMEL’s scientific data assets as well as building interactive web-visualization tools using modern JavaScript frameworks. The developed tools and frameworks are designed to improve data management processes for various research projects, including the Surface Ocean CO2 Atlas (SOCAT) project, and to support efforts by groups such as NOAA’s Ocean Acidification Program. The incumbent will be expected to support and interact with developer and scientific communities through software repositories, collaboration hubs and occasional scientific and developer meetings. Presentations at scientific and data management conferences are encouraged. Support of scientific colleagues and SDIG members requires experience with close collaboration and open communication, including weekly group meetings and occasional presentations to the wider UW and PMEL community.
+
+DUTIES and RESPONSIBILITIES:
+
+PyFerret development and support: Assist in adding new features to PyFerret, creating distribution packages, maintenance of codebase, installation and user support. This requires experience with Python and Python modules, as well as familiarity with source code version control systems such as Git.
+
+Web Visualization development and testing: The Research Consultant will be involved in developing, improving and implementing web-based visualizations using modern Java and JavaScript frameworks.
+
+Development of Quality Control software: The Research Consultant will be involved in developing software to help implement quality control routines developed by scientists for biogeochemical data from various ocean observing platforms.
+
+Dataset Curation: The Science Data Integration Group works closely with a variety of projects to improve data and dataset management and the Research Consultant will join other group members in curating such datasets. This requires knowledge of modern scientific dataset formats such as NetCDF.
+
+Meetings and Collaborations: The Research Consultant will be expected to participate in weekly group meetings to discuss status of current projects and raise any issues that may be hampering progress. The Research Consultant will be encouraged to occasionally present results of recent work at appropriate scientific conferences.
+
+As a UW employee, you will enjoy generous benefits and work/life programs. For detailed information on Benefits for this position, click here.
+
+REQUIRED:
+
+Master’s degree in computer science, engineering, earth science, applied mathematics or data science, with four or more years work experience in scientific data programing, graphical displays, and data management, with focus on oceanographic and meteorological applications.
+
+Highly experienced programming in Python, Java, C and JavaScript with knowledge of computer graphics applications.
+
+Software development experience in a web environment; experience using internet and WWW technologies (e.g. email, file transfer, content management) and standards (e.g. HTML, XML).
+
+Familiarity with common scientific data formats and programming interfaces (e.g. NetCDF, HDF).
+
+Ability to work in a heterogeneous computing/IT environment comprised of Unix/Linux servers, Linux/MacOSX/MS Windows workstations and portable computers.
+
+Knowledge of source code version control systems such as Git/Github.
+
+Excellent verbal communication and technical writing skills
+
+Equivalent education/experience will substitute for all minimum qualifications except where there are legal requirements such as license/certification/registration.
+
+DESIRED:
+
+Ability to work in a heterogeneous computing/IT environment comprised of Unix/Linux servers, Linux/MacOSX/MS Windows workstations and portable computers.
+
+Knowledge of Unidata’s THREDDS Data Server and NOAA’s ERDDAP data platform.
+
+Experience with Fortran, R, Jupyter Notebooks, Matlab.
+
+Experience with Machine Learning or Artificial Intelligence a plus

@@ -1,0 +1,41 @@
+Immuta was founded in 2015 based on a specific mission to build a platform that accelerates self-service access and control of sensitive data. Immuta’s award-winning automated data governance software platform creates trust across security, legal, compliance, and business teams so they can work together to ensure timely access to critical business data with minimal risks. Our automated, scalable, no code approach makes it easy for users to access the data they need, when they need it, while protecting sensitive data and ensuring their customers’ privacy.
+
+Our Mission is clear. Enable the legal and ethical use of data. How we approach this mission is also clear!
+
+We are mission focused. Born out of a government mission, we understand why data is about more than just analytics - it also represents our values. Our mission is to enable the legal and ethical use of data, ensuring that data is accessible to only those who need it, for the right reasons, and in the proper form.
+We are humble intellects. We are experts in privacy, ethics, law, and engineering. But true expertise requires constant change - to always learn and to always adapt. And that means we excel as students and as teachers. We have something to learn from everyone, at any time, in any place.
+We are independent achievers. We don’t need guidance to get things done, yet we know when to ask for help. We accomplish our mission while upholding our values, whatever it takes.
+We are helpful and caring. For us, life is about the values we uphold, not the credit we receive or the attention we garner. We operate with respect and consideration of our peers, acting with empathy, honesty, transparency, and integrity.
+
+APPLIED DATA TEAM
+Immuta’s Applied Data team manages internal data pipelines and platforms, delivers key business insights, and provides leadership on effective data governance with the Immuta platform. One month, they might work closely with Immuta’s Sales & Customer Success teams to gain a comprehensive understanding of customer problem sets. Another month, they may work closely with the Product & Research teams to ensure Immuta’s Query Engine works efficiently with each tool and to plan future tight integrations between Immuta and business intelligence tools. Team members will often support both pre-sales and customer success efforts to ensure customers derive value from their siloed data, to get buy-in from analytical end users, and to gather feedback to consider for future development. In short, the Applied Data team strives to make data at Immuta valuable, trustworthy, and accessible, and to help Immuta’s customers do the same.
+
+YOUR ROLE
+The Data Scientist, Analytics Architecture will provide leadership on integrating Immuta's data platform and privacy driven approach to data governance in customer environments. They will be a hybrid architect and practitioner, able to pivot from high level technical architecture discussions to prescribing the details required for ground level execution. This is a position for a data scientist who enjoys jumping into new problem sets and technologies, interacting with customers, conducting training, and backing every insight with data.
+
+A primary focus will be in developing design patterns of analytics architecture on various cloud platforms, such as Amazon Web Services and Microsoft Azure. You’ll work to understand the analytic use cases of current & prospective Immuta customers, determine archetypal analytics for each, find or generate the data needed for the analysis, and build the analysis across several tools.
+
+You will:
+- Work on high impact projects that improve data availability and quality, and provide reliable access to data for the rest of the business
+- Be the first to master new features of the product, whether that’s a new data classification service, anonymization technique or a database technology integration
+- Become the go-to analytic and machine learning technology expert at the company
+- Build relationships across Sales, Customer Success and Product teams to communicate best practices and potential improvements
+
+We are looking for candidates that have recently served within industry as a practitioner, solving real world business problems using cloud data and analytics technologies. The ideal candidate will be able to dive into a new problem set quickly and architect modern solutions to solve it. Strong written and verbal communication skills are required.
+
+WE ARE LOOKING FOR DATA SCIENTISTS WHO:
+- Have excellent communication skills and can effectively discuss technical issues with both technical and non-technical stakeholders
+- Have extensive experience in data processing and analysis, preferably in an enterprise setting
+- Align with our core values
+- Are outstanding problem solvers
+- Can drive interest in Immuta’s data management solution through articles, blogs, and speaking engagements
+
+TECHNOLOGIES YOU'LL USE
+- Multiple business intelligence tools, including Tableau, Looker and Power BI
+- Immuta's data platform
+- Python, SQL & Spark
+- Kubernetes, Docker, & AWS Infrastructure
+
+Immuta provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, national origin, marital status, age, disability (including disability due to pregnancy) or genetics, protected veteran status, or any other characteristic protected by law. Immuta complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment.
+
+NOTICE TO THIRD PARTY RECRUITERS: Immuta does not accept candidates from third party recruiters. All candidates submitted through are considered to be submissions by the candidate and no submission will obligate Immuta to pay any third party for the referral or hiring of a candidate.

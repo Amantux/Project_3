@@ -1,0 +1,72 @@
+Position:
+
+Data Engineer II
+
+Job Description:
+
+Black Knight is the premier provider of integrated technology, services, data and analytics that lenders and servicers look to first to help successfully manage the entire loan life cycle. Our deep understanding of regulatory and compliance issues complements the knowledge, technology and solutions we offer to help our clients achieve their business goals. Black Knight offers leading software systems; data and analytics offerings; and information solutions that facilitate and automate many of the business processes across the mortgage life cycle.
+
+JOB FAMILY DESCRIPTION
+
+As a Data Engineer II for Black Knight's Innovation Lab, you will join a team of 15+ developers and product enthusiasts engineering a next generation Artificially Intelligent Virtual Assistant known as AIVA. AIVA works alongside operators, loan officers and lenders to make their jobs more efficient. Each quarter, she reads millions of documents and then summarizes significant data points for her colleagues to review. Although she's early career, she already has cut down certain manual tasks from 30 minutes to just 8 minutes! Our team employs leading-edge cloud computing technology and leverage Amazon Web Services to build AIVA's infrastructure. Her make-up is well beyond mainstream workflow automation/RPA. We're continuously training AIVA's lexicon to give her context what she's studying. We tinker with algorithms and build deep learning networks to fortify her skill sets as she reads through bank statements, pay stubs, W2s and more. Most importantly, we capitalize on large data sets from our enterprise clients so we can optimize our feature selection at scale. Each day we train AIVA so that she can save people from millions of hours of stare-and compare work. We know with AIVA in the workforce, she can free her colleagues' time, talent and imaginations to develop new skills, provide better service, and to become more engaged at work.
+
+There is room for a range of skills. Some you already have and some you will quickly gain when you are here.
+Agile (Scaled Agile Framework)
+Machine Learning ( Natural Language Processing ,Vision , Classification , Search)
+DevOps ( Infrastructure as Code , Continuous Integration and Continuous Delivery)
+Behavioral Driven Development
+Design and Architecture
+Cloud (AWS)
+Languages (Java , AngularJS , Python)
+GENERAL DUTIES & RESPONSIBILITIES
+Participates in project meetings with other technical staff, business owners and subject matter experts.
+Designs scalable, highly available, fault tolerant and resilient data processing infrastructure, assembled from microservices in a Continuous Integration Continuous Delivery environment.
+Builds streaming and batch data extraction transformation and load processes using AWS Serverless technologies.
+Interacts with product managers and/or users to define system requirements and/or necessary modifications.
+Assesses and develops design requirements for the project and communicates in writing or in meetings with development team while assessing detailed specifications against design requirements.
+Develops and/or reviews development of test protocols for testing application before user acceptance.
+Reviews application in progress of development to ensure compliance with overall design parameters and corporate development standards.
+Verify stability, interoperability, portability, security, or scalability of system architecture.
+Monitor system operation to detect potential problems.
+Document design specifications, installation instructions, and other system-related information.
+Performs additional related duties as assigned.
+EDUCATIONAL GUIDELINES
+
+A Bachelor's degree in Computer Engineering, Computer Science or other related discipline; or equivalent combination of education and experience that is required for the specific job level.
+
+GENERAL KNOWLEDGE, SKILLS & ABILITIES
+Experience building and optimizing 'big data' data pipelines, architectures and data sets
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases
+Experience with build processes supporting data transformation, data structures, metadata, dependency and workload management
+Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.
+Experience with big data tools such as Hadoop, Spark, Kafka, etc. strongly preferred
+Experience with relational SQL and NoSQL databases, including Postgres and Cassandra preferred
+Experience with data pipeline and workflow management tools such as Azkaban, Luigi, Airflow, etc.
+Experience with AWS cloud services: S3, Glue, Athena, Kinesis, DynamoDB, Sagemaker, EMR, RDS, Redshift a plus
+Experience with stream-processing systems such as Storm, Spark-Streaming, etc. a plus
+Strong analytic skills related to working with unstructured datasets
+A successful history of manipulating, processing and extracting value from large disconnected datasets
+Working knowledge of message queuing, stream processing, and highly scalable 'big data' data stores
+Experience building production quality cloud products preferred
+Experience with AWS , DevOPs , CI/CD preferred
+Knowledge of financial services industry a plus
+Knowledge of banking practices, regulations and operations within the assigned line(s) of business a plus
+Outstanding verbal and written communication skills to technical and non-technical audiences of various levels in the organization (e.g., executive, management, individual contributors)
+Excellent analytical, decision-making, problem-solving, team, and time management skills
+Ability to estimate work effort for project sub-plans or small projects and ensure the project is successfully completed
+Positive outlook, strong work ethic, and responsive to internal and external clients and contacts
+Willingly and successfully fulfills the role of teacher, mentor and coach
+JOB FAMILY LEVEL
+
+Intermediate professional role. Proficient in at least two higher-level programming languages and knowledge of at least one systems development life cycle model. Understands the products, services, practices, regulations and operations associated with the assigned line of business. Conducts detailed analyses of all defined systems specifications for changes in systems requirements, business requirements or equipment configurations, and develops all levels of logic flow charts. Develops and prepares moderately complex computer programs, prepares program test data, tests and debugs programs. Documents all procedures used throughout the computer program when it is formally established. Receives general supervision and is competent in most phases of programming to work on own, and requires only some general direction for the balance of the activities. May assist and help train Entry-level software engineers. Typically requires five (5) or more years of software engineering work experience or an equivalent combination of education and experience.
+
+Black Knight is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, disability, age, and protected veteran or military family status. Our employees' diversity is our strength, and when we embrace our differences, it makes us better and brighter. Black Knight's commitment to inclusion is at the core of who we are, and motivates us in how we do business each and every day.
+
+Location:
+
+Philadelphia, PA
+
+Time Type:
+
+Full time

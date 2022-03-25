@@ -1,0 +1,45 @@
+The services that Elsevier provides are becoming increasingly dependent on data science and analytics to support Elsevier’s corporate strategy of greater volume, types, and sophistication of content in health markets. Elsevier is looking for a Director of Health Data Science to lead Elsevier’s Health Data Sciences team within Health Content Operations (HCO). Elsevier considers growth in health markets as one of the key strategic priorities and is investing significantly in localised and new healthcare solutions which better serve the needs of healthcare providers, physicians, nurses, and medical and nursing students. The Director of Health Data Science will have a critically important role in working with the Clinical Solutions and Education business units to drive growth and innovation.
+
+This person will have proven hands on experience developing best models and standards as well as extensive knowledge of how to apply the right algorithms to the right problems. Our search solutions depend heavily on concept indexing or annotation (for example using ontologies in the medical domain), relationship extraction (from clinical data and scientific literature) or extracting data from images and tables. The ideal candidate will have industry experience solving data science problems (entity extraction, named-entity recognition, word-sense disambiguation, information retrieval, clustering, supervised and unsupervised learning) using NLP, machine learning, deep learning and statistical methods on vast quantities of data. In-depth knowledge and understanding of Healthcare industry is needed for this role.
+
+The person is able to lead teams to design, prototype, and implement TDM/ML/DL and automation applications for our businesses. These applications have two main goals: cost savings by building workflow efficiencies or revenue generation by directly impacting products and platform capabilities. Sample projects may include extracting information from electronic health records (EHR), recommender systems for adaptive nursing and education, integrating big and disparate data sets to perform predictive analytics, classifying and curating our image assets, content enrichment pipelines for clinical decision support and search algorithms.
+
+You will also work closely with the EMMeT (Elsevier Medical Merged Taxonomy) team providing data analytics support to EMMeT and Elsevier’s healthcare knowledge graph (H-graph) to support decision-making, designing automated approaches for ontology and graph development, ontology validation and terminology mappings. You will work with a team of medical and subject matter experts, as well as product leads to determine how to best build and leverage semantic capabilities.
+
+You will be working in a leadership role in Health Content Operations and act as the key business liaison between the business partners, stakeholders and health data science teams. You will gather business requirements and work with a cross-functional team of data scientists, product, technology, health informatics and content colleagues to pilot and deliver cognitive solutions for extracting, localising, tagging and surfacing value-added content for our end-users and customers.
+
+Main Activities and Responsibilities:
+
+Drive Innovation & Key Results
+Propose, design, and deliver innovative data science and cognitive solutions which align with product and business strategy.
+Identify opportunities to leverage state-of-the-art technology such as machine translation, deep learning, and artificial intelligence to facilitate automation, optimise existing products, and develop new AI-first solutions.
+Lead the development of investment cases for unmet needs with resource requirements and return on investment projections for ideation, elaboration, and implementation phases, as required.
+Define and track metrics for success within Health Content Operations
+Lead teams to develop relevant technology and run rapid prototyping experiments, POCs, and pilots to prove feasibility and viability.
+Business alignment & stakeholder management
+Develop strong collaboration and partnership with business and product owners across health markets
+Build strong working relationships with Health Informatics, Precision Medicine, Search, and Technology teams.
+Foster greater collaboration across other content teams within Elsevier (ERC, Clinical Solutions, & NHE)
+Gain a deep understanding of various end-user and customer needs by working closely with business development and market research teams.
+Thought & team leadership
+Provide thought leadership and guidance to business facing units and HCO when developing new ideas, POCs and pilots
+Keep up-to-date with latest developments in technology and advances in relevant technologies (e.g. machine learning, NLP, Computer Vision).
+Perform outreach activities such as presenting at technical conferences and publishing in relevant peer-reviewed journals
+Be ahead of the market by having the vision on what is possible for product innovation and skill to communicate it effectively.
+Lead and develop a team that comprises both NLP and Machine Learning scientists as well as health domain subject matter experts and make the team effective.
+Technical Competencies, Behaviours, & Qualifications
+Expertise in the design and application of state-of-the-art modelling solutions with demonstrated hand-on coding experience
+Track record of delivering Big Data / ML / NLP / Knowledge Graph based information solutions.
+Experience with medical terminologies such as UMLS, SNOMED CT, ICD-9, ICD-10, CPT, LOINC and SMART on FHIR framework is a plus
+Track record of being able to work successfully in a matrixed environment and being able to lead through demonstration of a strong work ethic and commitment.
+Highly motivated self-starter who is relentlessly results driven
+Strong understanding of business and product strategy - previous experience with product development is a plus.
+Entrepreneurial mindset, experience working in a start-up is a plus.
+5+ years professional experience, with strong background in healthcare innovation
+2-5 years of experience leading teams in a related field required.
+University graduate (Master or PhD level) computer science, data science, machine learning, computational biology, bioinformatics, computational linguistics, physics, mathematics, statistics or any other quantitative discipline. PhD is a plus.
+This role will be based out of Philadelphia, USA and report to VP of Data Science, Health Content Operations
+
+Elsevier is an equal opportunity employer: qualified applicants are considered for and treated during employment without regard to race, color, creed, religion, sex, national origin, citizenship status, disability status, protected veteran status, age, marital status, sexual orientation, gender identity, genetic information, or any other characteristic protected by law. If a qualified individual with a disability or disabled veteran needs a reasonable accommodation to use or access our online system, that individual should please contact 1.877.734.1938 or accommodations@relx.com.
+
+Elsevier is a global information analytics business that helps institutions and professionals progress science, advance healthcare and improve performance for the benefit of humanity. We help researchers make new discoveries, collaborate with their colleagues, and give them the knowledge they need to find funding. We help governments and universities evaluate and improve their research strategies. We help doctors save lives, providing insight for physicians to find the right clinical answers, and we support nurses and other healthcare professionals throughout their careers.Elsevier provides digital solutions and tools in the areas of strategic research management, R&D performance, clinical decision support, and professional education; including ScienceDirect, Scopus, SciVal, ClinicalKey and Sherpath. Elsevier publishes over 2,500 digitized journals, including The Lancetand Cell, more than 35,000 e-book titles and many iconic reference works, including Gray?s Anatomy. Elsevier is part of RELX Group, a global provider of information and analytics for professionals and business customers across industries. Elsevier employs over 7,000 people in more than 70 offices worldwide. We are an employer of choice, attracting and developing talented and creative people who thrive in a challenging and fast-paced environment. We offer an excellent compensation and benefits package as well as a real opportunity for career growth in a growing organization.

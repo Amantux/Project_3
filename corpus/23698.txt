@@ -1,0 +1,40 @@
+Description:At Lockheed Martin Rotary and Mission Systems, we are driven by innovation and integrity. We believe that by applying the highest standards of business ethics and visionary thinking, everything is within our reach and yours as a Lockheed Martin employee. Lockheed Martin values your skills, training and education. Come and experience your future!
+
+Our Test Sites Engineering organization employs an exciting mix of technologies to empower all of our team member with the best resources available to perform there assignment. We are seeking an Information Technology (IT) professional with proven Network/System Administrator (SA) skills & experience in Provisioning, Operations, Support, Maintenance, Cyber Security & Information Assurance.
+
+Candidate will work on both cross-product & cross-program initiatives, working closely with the baseline Systems Engineering team to define program requirements & evolve project resources, as well as deploy new technologies to the user community to support product development. As an IT professional in this role you will manage, coordinate, install, debug and refresh computing infrastructure equipment. This will include deploying & maintaining computing platforms that range in scale from single and/or multi server systems to High Performance Computing platforms that include Beowulf clusters, high speed network fabrics, high available storage (SAN), & GP-GPU computing assets, as well as maintaining & supporting operating systems software (including Linux, Solaris and Windows) & various engineering development applications & tools. The successful candidate will also have responsibilities that extends to maintaining and monitoring the computing infrastructure as well as the physical infrastructure elements such as power, temperature, & chilled water conditions to ensure optimal environmental conditions are maintained within the Program Generation Center (PGC) and 780 Modeling & Simulation (M&S) Data Center.
+
+This individual will assist Modeling & Simulation (M&S) project teams with technical issues in the Initiation, Planning as well as the Design, and Execution phases of Model Based System Design (MBSD) Methodology. These activities include the definition of requirements, performing cost/benefit analysis, technical trades, product evaluations; and conducting research & development within the project life-cycle and rolling-out the product level solutions. Participation on projects is focused on smoothing the transition between model development and Data Analysis by effectively performing SA activities within the Data Center.
+
+This individual will be accountable for the following systems: Linux and Windows physical and virtual systems that support Data Reduction/Analysis, High Performance Parallel Compute Beowulf Cluster equipment; consisting of multiple multi-core HPC, high-performance servers w/General Purpose-Graphic Processing Unit (GP-GPU) compute nodes clustered together with a high performance low-latency switch fabric managed and controlled via GRID Engine master scheduler. A backend storage solution that employs a multi-tier Veritas high-speed volatile storage platform complemented by a high-volume EMC & NexSAN production storage.
+
+This role combines Data Center infrastructure management with network/systems administration duties to perform, lab design/activation, equipment provisioning, installation, configuration/tuning, assuring cyber-security, information assurance compliance, trouble shooting skills and project management essentials to coordinate and plan multiple projects and deployment of periodic infrastructure upgrades (e.g., Tech Refresh). In order to support Test Site Engineering growth, you must thrive in a fast-paced environment while being able to work multiple concurrent projects.
+
+Must be able to obtain and maintain a US Secret Security Clearance.
+Basic Qualifications:
+• Bachelor's degree (BS/BA) in Computer Science, Computer Systems Engineering or MIS related field.
+• Demonstrated experience with Microsoft Windows platforms both servers and desktops platforms
+Demonstrated experience with modern scripting languages such as Bash, Perl, PhP or Python
+Demonstrated experience with Linux, Ubuntu, CentOS or other UNIX operating systems (OS)
+• Demonstrated ability to perform analytical tasks related to diagnosing operational issues with enterprise level servers, network switches/routers and storage devices within the data center environment
+Hands-on experience performing user account administration, backup/recovery, and supporting periodic security auditing/logging
+Hands-on experience implementing Active Directory "AD" and configuring Domain Controller "DC".
+• Demonstrated ability to perform Cyber-security tasks such as apply system SCANs, STIGs, Controls, Policies, perform remediation develop POAMs, and support security audits
+• Must be able to obtain and maintain a US Secret Security Clearance.
+Desired Skills:
+• Master's degree (MS/MA) in Computer Science, Computer Systems Engineering or MIS related field.
+• Hands-on experience working with Windows (Server) / Citrix Operating Systems (OS) environments specifically: Windows 2012 R2; Windows 2007/2008 for client desktop platform administration
+• Hands-on experience administering systems hosting Linux, Ubuntu, or CentOS with Linux shell scripting skills in Bash, Perl, PhP or Python
+• Knowledgeable of storage platforms as applied to Big Data applications and data analytics applications within the Data Center.
+• Applicable industry certifications such as: Security+, Certified Information Systems Security Professional (CISSP), Cisco Certified Network Associate (CCNA) Data Center, Cisco Certified Design Professional (CCDP), Citrix Certified Professional Virtualization (CCP-V), or VMware Certified Professional Data Center Virtualization (VCP-DCV), System Security Certified Practitioner (SSCP), CompTIA Cloud+, and Red Hat Certified Virtualization Administrator (RHCVA).
+• Experience working with Cisco network equipment (i.e., L2/L3 switches, and routers) with understanding network fundamentals (including TCPIP/UDP, SNMP, ARP, IP, Layer 3/Routing protocols/technologies as well as Layer 2 Carrier technologies)
+• Hands-on experience deploying virtualization platforms and implementing hyperconvergence and automation techniques in Data Center via leveraging products such as VMware, KVM, Hyper-V, Red Hat OpenStack, CloudFroms, and Ansible
+BASIC QUALIFICATIONS:
+job.Qualifications
+
+Lockheed Martin is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.
+Join us at Lockheed Martin, where your mission is ours. Our customers tackle the hardest missions. Those that demand extraordinary amounts of courage, resilience and precision. Theyre dangerous. Critical. Sometimes they even provide an opportunity to change the world and save lives. Those are the missions we care about.
+
+As a leading technology innovation company, Lockheed Martins vast team works with partners around the world to bring proven performance to our customers toughest challenges. Lockheed Martin has employees based in many states throughout the U.S., and Internationally, with business locations in many nations and territories.
+EXPERIENCE LEVEL:
+Experienced Professional

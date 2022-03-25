@@ -1,0 +1,52 @@
+Data Scientist 
+ If you are a Data Scientist with experience, please read! 
+
+We are seeking a highly skilled data scientist who is going to design and develop our AI platform to create a new AI-driven wireless network operations paradigm for customers of our industry-first converged wireless edge platform. In this role, you will be working with highly skilled designers, product managers and other engineering peers. You will also be involved in the solution design from the conceptual stages through the development cycle and deployments.     What You Will Be Doing 
+ As a key member of a small team, you will develop robust, scalable AI pipelines at the core of our predictive analytics platform.
+
+-You will use your expertise in mobile networks, AI and big data analytics to come up with novel solutions for optimizing end-to-end application performance in a variety of scenarios. You will build PoC systems to demonstrate these.
+-You will work closely with the production software team to architect your models for efficient integration into a production environment.   What You Need for this Position 
+ -Ability to map application experience to wireless network and core network KPIs, recognize issues in the mobile networks that could lead to degraded application performance
+-Ability for choosing the best-fitting technique for data at hand from a repertoire of advanced machine learning techniques (like CNN, RNN, LSTM, Deep RL) and classical machine learning tools (nonlinear regression, support vector machines, random forests, and ARIMA)
+-Intuition into computational performance and parallelizability of models for translating designs into scalable implementations and trading accuracy for efficiency when needed
+-Strong team player capable of working in a demanding start-up environment
+
+Desired Qualifications:
+
+-Bachelor's degree in Computer Science or Mathematics or Electrical Engineering with relevant coursework in mathematics, statistics, machine learning and data mining 
+-Relevant coursework in mathematics, statistics, machine learning and data mining
+-Practical Experience with deep learning (CNN, RNN, LSTM, Deep RL)
+-Experience with rapid model prototyping using R/python-pandas/python-scikit-learn.
+-Experience with deploying Neural Networks on live data streams. Designing pipelines with online model re-training.
+-Experience with wireless networks - preferably 4G LTE RAN, 5G, SON, 3GPP
+-Experience running and scaling Spark jobs
+-Fluent with Python and/or Java    
+ So, if you are a Data Scientist with experience, please apply today!   - 
+Applicants must be authorized to work in the U.S. 
+
+
+CyberCoders, Inc is proud to be an Equal Opportunity Employer 
+
+                        All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected by law.                     
+
+
+Your Right to Work  – In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire.
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Cupertino, CA 95014 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         CT2-15463991

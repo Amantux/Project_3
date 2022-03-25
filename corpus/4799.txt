@@ -1,0 +1,35 @@
+Read what people are saying about working here. 
+
+Reed Exhibitions (RX) is one of the largest trade show organizers in the world and is one of the four group companies within RELX (formerly Reed Elsevier), which is a FTSE 100 company. As part of a set of C-suite supported strategic programs that aim to use data to deliver the best of face-to-face and digital services around trade shows, a number of projects have been identified under the ‘Data & Analytics’ program. The first of these projects is to globally rollout a single lead/badge scanning capability across 100s of RX 500+ shows over the next two years.
+
+The opportunity here is to provide a consistent data platform for this data, so exhibitors and visitors can easily access who they have met, but additionally underlying business networks can be identified and understood to improve business outcomes for RX’s 7 million annual customers through the development of world-class products and services in the B2B and B2C trade show space.
+
+The role
+
+RX is putting together a project team for this and subsequent projects under the Data & Analytics program. An important member of the team will be a Data Scientist who with a Data Engineer and Product Manager will make up the central team who will work with local show teams and business units around the world. Additional project resources will come from Central IT and 3rd party agencies as required.
+
+The ideal candidate will be a ‘true’ multi-skilled data scientist with a business leaning: a genuine hybrid of computing, statistical, communication skills and business acumen. Combined with the imagination to see what and how data is currently or can be collected and then developed into new customer valued services.
+
+Due to the semi-decentralized nature of RX the following list of skills and personal attributes would be prized. If these skills can be evidenced by past projects that would be ideal.
+
+Statistical modelling, e.g., general linear model, survival models (Cox regression)
+
+Hypothesis testing, ideally for product development A/B testing, e.g., ANOVA, t-tests, Chi-Squared, McNemar, non-parametric methods
+
+R or Python script writing
+
+Understands data pipelines and can support strategic decisions on technology choices
+
+RESTful APIs (usage, ability to write them is desirable, but not required)
+
+SQL, both DDL, indexing when and why, DML
+
+Experience in design and enhancing data models that have been used in production code
+
+Visualisation experience to include dashboards, management or customer reports (e.g., Excel, ggplot, Matplotlib, Shiny, D3)
+
+#LI-LP1
+
+Reed Exhibitions is an equal opportunity employer: qualified applicants are considered for and treated during employment without regard to race, color, religion, sex, national origin, disability status, protected veteran status or any other characteristic protected by law. If a qualified individual with a disability or disabled veteran needs a reasonable accommodation to use or access our online system, that individual should please contact 1-877-734-1938.
+
+ Reed Exhibitions is the world's leading events business. We develop, market, sell and organise over five hundred events each year, bringi...

@@ -1,0 +1,40 @@
+At GenapSys we are working to power the world of healthcare and diagnostics with advanced DNA sequencing technology. Our sequencing instrument platform leverages a proprietary electrical microfluidic sequencing chip with a scalable number of detectors, enabling a wide range of applications including targeted sequencing in oncology, pharmacogenomics and genome-wide sequencing in microbiology and others. We believe in a world where every researcher has a compact, scalable, and affordable sequencer in their own lab, empowering the democratization of genetic sequencing. Our novel sequencing method is revolutionizing genomics discovery, biomedical research, healthcare, diagnostics, agriculture, and a variety of other fields.
+
+Our team brings together an incredibly diverse and multidisciplinary set of backgrounds and skills – from electrical and mechanical engineers, physicists, chemists, microfluidic engineers, molecular biologists, bioinformaticians, mathematicians and more. It is a super exciting time to join GenapSys as we recently launched our first product which is generating a tremendous amount of interest.
+
+About the Role:
+
+Signal denoising is the first and one of the most fundamental pieces in our data analysis pipeline that directly influences the quality of the biological signal and in turn the overall performance of our technology. As a Signal Processing Engineer, you would be working in a cross functional R&D team to improve the performance of the core technology through close collaboration with lab scientists, genomic application scientists, and data scientists. You will develop DOE (design of experiments) for troubleshooting and failure mode analysis, extract information from biomedical sensors, develop DNA sequencing base calling algorithms, present written and oral reports and proposals to peers and management, and play an important role in shaping and productionizing new products and cutting-edge applications.
+
+Qualifications:
+MS, or Ph.D. in Electrical Engineering, Physics, Mathematics, Statistics, or equivalent fields.
+Expertise in Python and with version control practices and tools, especially Git/Github.
+Demonstrated ability to write high-quality, production-ready code (readable, well-tested, with well-designed APIs).
+1- 4 years of real-world work experience in signal processing algorithm and software development on time series data.
+Expert in regression analysis, statistical estimation and signal detection theories.
+Expert in implementing clustering algorithms, PCA analysis, and Markov models.
+Skilled in data analysis and characterization of physical systems.
+Skilled in modeling, simulating and validating dynamical systems.
+Innovative, driven, results-oriented and methodical with a successful track record.
+Detail oriented with strong documentation skills.
+Strong team player who is flexible, adaptable, can communicate effectively and collaborate within a multidisciplinary organization.
+Ability to manage work within tight timelines.
+Bonus Points If:
+Experience with biological data (DNA sequences, RNAseq, proteomics, microscopy images, etc.).
+Proficiency in Linux environment (including shell scripting), experience with database languages (e.g., SQL, No-SQL).
+Familiarity with cloud computing services (AWS or GCP).
+Working knowledge with Deep learning networks and concepts.
+Experience with Tensorflow.
+What we offer (US based-employees)*:
+Competitive compensation and generous stock options.
+Comprehensive, industry-leading medical, dental and vision benefits for employees and dependents.
+Pre-tax savings plans for health care, child care, elder care, public transportation and parking expenses.
+401(k) retirement plan with matching employer contribution.
+Free daily catered gourmet lunches and snacks.
+For those emergency moments - long and short term disability, life insurance (2x salary) and an employee assistance program.
+Work with driven and enthusiastic colleagues in a fast-paced and entrepreneurial environment, the opportunity to work on problems that matter in a highly collaborative environment.
+*Eligible international employees' benefits are specific to their location and dependent on their employer of record
+
+GenapSys does not accept unsolicited agency resumes. Please do not forward unsolicited agency resumes to our website or to any GenapSys employee. GenapSys will not pay fees to any third party agency or firm and will not be responsible for any agency fees absent a formal agreement.
+
+A diverse and inclusive workplace where we learn from each other is an integral part of GenapSys' culture. We actively welcome people of different backgrounds, experiences, abilities and perspectives. We are an equal opportunity employer and a great place to work. Join us and help us achieve our mission!

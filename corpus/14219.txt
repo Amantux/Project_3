@@ -1,0 +1,62 @@
+Job ID
+R10010227
+
+Location
+
+Los Angeles, California, United States
+
+Business
+true[x]
+
+Date posted
+Jan. 11, 2020
+JOB DESCRIPTION
+
+
+True[X]
+
+Senior Data Scientist
+
+The Senior Data Scientist will be a key member of true[X]’s Data Science team. This team is responsible for researching and analyzing data sets, and creating the statistical and machine learning models that power some of our most advanced advertising technology.
+
+WHO WE ARE LOOKING FOR:
+
+Changing the established guidelines of an industry, especially one as rooted as digital advertising, isn't an easy or quick effort, but we believe it's the right thing to do and we want to be the ones to do it. We're looking for hungry people who are passionate about redefining the digital video and media world, from how consumers experience it to how content creators fund it.
+
+We work hard at true[X], and we believe in fostering an open, collaborative, motivating, creative culture for our team; put simply, our employees love to come to work. We have all the perks you can expect from a startup environment, including a sunlit rooftop patio, corn hole and ping pong, and a stocked pantry and fridge.
+
+We are looking for smart, driven, accountable, and friendly individuals to build the next generation of advertising innovation for the premium video ecosystem. Being part of a compact tech team in a company with start-up vibe, everyone is entrusted with significant ownership and responsibility. Plus, choose and attend your favorite tech conference, fully sponsored by true[X]. And this is just one of many training and learning opportunities which true[X] invests in every employee.
+
+Innovation is at the core of true[X]’s company values. We are the pioneers in interactive value exchange advertising and are focused on inventing new disruptive mechanisms for advertising targeting and measurement. There is an endless supply of Data Science work to be done. Our Data Scientists are constantly expanding their knowledge and experience, whether it be exploring a deep learning model for optimizing in-content ad experience on a Hackday, learning the internals of various state-of-the-art machine learning algorithms, or leveraging new cloud platforms and Open Source tools to automate the model training and deployment processes. Boredom doesn’t exist here.
+
+As a Data Scientist, you will be joining a most inventive team that is the driving force and steering wheel behind true[X]’s next generation ad products. We empower the creation of engaging ad experiences and effective ad measurement products for Desktop, Mobile, and Connected TV that are optimized for consumers’ time and attention. We do cutting edge advertisement optimization, we ensure campaign performance is properly and correctly measured, and this is just the tip of the iceberg. If you've wanted to join a team where your work can really have an impact, you’ve found the right place.
+
+RESPONSIBILITIES:
+Leverage "Big Data” tools (Spark/Hadoop Ecosystem) and cloud services to build ETL pipelines for the massive and complex data collected on true[X]’s proprietary ad platform and by third-party vendors. Ensure data quality throughout all stages of acquisition and processing, including data sourcing, cleansing, normalization, transformation, mapping, etc. Develop statistical methods and data mining algorithms to solve difficult, non-routine analysis problems and provide insights to various internal and external stakeholders.
+Research and implement state-of-the-art machine learning and deep learning methods. Deliver a machine learning project from beginning to end, including validating needs, specifying the requirements, defining an approach, aggregating and exploring data, building and validating models, deploying completed models, and using the results to deliver business impact to true[X].
+Write production-level code (Python/Scala/C++) to implement machine learning models at scale. Work with QA/data/software engineers to test and deploy the models to cloud-hosting ad serves. Monitor the model performance and efficiency in real time, diagnose and resolve potential production issues, and improve as needed.
+Interact cross-functionally with a wide range of people and teams. Collaborate with colleagues from engineering, business and liberal arts backgrounds. Present proposals and results in a clear manner backed by data and coupled with actionable conclusions.
+Provide direction and guidance to junior members of team on all aspects of Data Science from business context to technical coaching.
+REQUIREMENTS:
+Advanced degree in computer science, optimization, statistics, or relevant fields
+In-depth understanding of modern machine learning (including deep learning, reinforcement learning) models and their mathematical underpinning
+Minimum 5 years of working experience in the areas of machine learning, predictive modeling and data mining
+Proven track record of customizing machine learning solutions to business problems in a cross functional team
+Knowledge of common data structures and ability to write efficient code in at least one programing language (Python, Scala, Java, or C++)
+Experience with cloud services (AWS/Google Cloud/Microsoft Azure/Databricks etc.)
+Excellent verbal and written communication and data/model presentation skills, including an ability to effectively communicate with both business and technical teams
+We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, gender identity, disability, protected veteran status, or any other characteristic protected by law. We will consider for employment qualified applicants with criminal histories consistent with applicable law.
+
+About true[x]:
+
+
+About The Walt Disney Company:
+
+
+The Walt Disney Company, together with its subsidiaries and affiliates, is a leading diversified international family entertainment and media enterprise with the following business segments: media networks, parks and resorts, studio entertainment, consumer products and interactive media. From humble beginnings as a cartoon studio in the 1920s to its preeminent name in the entertainment industry today, Disney proudly continues its legacy of creating world-class stories and experiences for every member of the family. Disney’s stories, characters and experiences reach consumers and guests from every corner of the globe. With operations in more than 40 countries, our employees and cast members work together to create entertainment experiences that are both universally and locally cherished.
+
+This position is with trueX, Inc., which is part of a business segment we call true[x].
+
+trueX, Inc. is an equal opportunity employer. Applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Disney fosters a business culture where ideas and decisions from all people help us grow, innovate, create the best stories and be relevant in a rapidly changing world.
+
+We will consider for employment qualified applicants with criminal histories consistent with applicable law.

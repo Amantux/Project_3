@@ -1,0 +1,46 @@
+Job Description
+Cloud Data Engineer (Azure)
+
+Chicago, IL
+
+Responsibility:
+
+The role will be responsible for deploying the model that is designed by the Data Scientist. The deployment will use Azure Platform and is expected to have the scalability and performance of the cloud deployment.
+
+Requirement:
+
+1. At least continuous 4 years of experience with Spark, especially pySpark implementation
+
+2. Experience with Azure Deployment using AKS and Container Services
+
+3. MUST HAVE experience with Azure Data Bricks solution that includes
+
+a. Azure ML library
+
+b. Azure Kafka
+
+c. Azure CosmosDB
+
+d. Azure BlobStorage
+
+4. At least a total 8 years in a career related to data analytics
+
+5. Must have a high level understanding of analytics use cases mentioned in one or more of the following:
+
+a. Assortment optimization
+
+b. Promotional planning and effectiveness
+
+c. Dynamic pricing
+
+d. Markdown optimization
+
+e. Labor scheduling & optimization
+
+f. Various types of forecasting & large scale predictions
+
+g. Large-scale experimental frameworks (multi-arm bandits, etc.)
+
+h. Channel optimization;
+
+i. Fraud detection

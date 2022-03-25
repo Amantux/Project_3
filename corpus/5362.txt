@@ -1,0 +1,52 @@
+Read what people are saying about working here. 
+The Data Scientist’s primary responsibilities include pulling, cleaning, transforming and analyzing both internal and external data, as well as performing more advanced modeling and machine learning tasks. Some of our projects are based on requests from other departments, others are driven by larger data science team goals. Often we are asked to look into fairly open-ended problems, which requires a degree of creativity, curiosity and research skill.
+
+Responsibilities:
+
+Extract, transform and analyze learning platform and conference data based on requests from product, sales, marketing and executive teams
+
+Write code to automate processes for routine data reporting requirements
+
+Undertake research to explore more open-ended data problems
+
+Work with product teams on platform features such as user-facing dashboards, personalization, topic organization, search and content discovery
+
+Combine data from multiple sources for more complicated analyses
+
+Help drive the Data Team’s impact in the company by taking the initiative with data-driven solutions for company problems
+
+About You
+
+You should have strong foundation in Python programming for data-related tasks, including experience with data science packages such as numpy and scikit-learn, and strong SQL skills. The level of coding required will go beyond simple scripts and queries: we are always trying to automate the boring stuff with well-designed and efficiently engineered packages of code. Some knowledge of git, unix commands and big data solutions such as Spark or Hadoop is essential.
+
+Minium Requirements:
+
+Four-year college degree in computer science, mathematics, economics or equivalent, relevant experience. (Some team members studied, Physics, Mathematics, Engineering).
+
+2+ year in data science and analytics
+
+Excellent Python skills
+
+Strong SQL skills (especially Postgres)
+
+Significant experience combining and transforming data
+
+Experience with wrangling dirty data
+
+Excellent critical thinking skills and the ability to develop creative solutions to challenging problems
+
+Excellent written, verbal, and presentation skills
+
+Experience with scientific computing and machine learning, especially numpy, scipy and scikit-learn
+
+Experience working with unstructured text data and performing NLP tasks. Knowledge of spaCy is a plus
+
+Comfortable working in a Linux based, open source software environment
+
+Experience with “big data” technologies like Hadoop, Spark or Redshift
+
+Self motivated and ability to work independently when necessary
+
+Personable and able to work with with others in a team
+
+Work in a JIRA-based Scrum engineering process.

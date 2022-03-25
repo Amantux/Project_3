@@ -1,0 +1,125 @@
+Read what people are saying about working here. 
+
+New York University: NYU - Domestic: Faculty of Arts and Science (FAS): Politics Department
+
+Location
+
+New York
+
+Open Date
+
+Apr 11, 2019
+
+Description
+
+The Public Safety Lab at New York University is looking for a full-time data scientist to build and
+
+oversee a large-scale automated crawl of daily criminal justice data. You will: generate and
+
+deploy scripts to crawl online jail rosters on a daily basis for approximately 1,000 facilities;
+
+create a scheduler to run each script for each location each day; create and provide a data
+
+storage environment for jail crawl content; create a dashboard that monitors the success of
+
+crawls and identifies errors; adjust jail crawl scripts experiencing errors; generate and deploy
+
+scripts to crawl criminal case records from available sites; provide a data storage environment
+
+for criminal case crawl content; and support the merging of jail and criminal case records using
+
+probabilistic matching strategies. We require candidates to have either experience
+
+programming in relevant environments or a degree in information systems/computer science.
+
+Significant skills working with Python and AWS are a plus.
+
+The Public Safety Lab, launched in 2017, applies the tools of data science and social science to
+
+the project of criminal justice reform. For example, many relatively minor offenses are easy to
+
+detect and interdict. Many more serious offenses are much harder to detect and interdict. As a
+
+consequence we may overpunish relatively minor offenses, and underpunish more serious
+
+offenses. The Public Safety Lab works with both confidential and publicly accessible data to
+
+identify strategies that minimize both overpunishment and underpunishment.
+
+For more information about the Public Safety Lab see www.publicsafetylab.org.
+
+Qualifications
+
+Required education: undergraduate degree in information technology or computer science
+
+Required experience: significant knowledge of and experience with programming in Python,
+
+AWS architecture, web crawling
+
+Preferred education: master's degree in information systems/information technology,
+
+computer science, or data science is a plus.
+
+ 
+
+New York University: NYU - Domestic: Faculty of Arts and Science (FAS): Politics Department
+
+Location
+
+New York
+
+Open Date
+
+Apr 11, 2019
+
+Description
+
+The Public Safety Lab at New York University is looking for a full-time data scientist to build and
+
+oversee a large-scale automated crawl of daily criminal justice data. You will: generate and
+
+deploy scripts to crawl online jail rosters on a daily basis for approximately 1,000 facilities;
+
+create a scheduler to run each script for each location each day; create and provide a data
+
+storage environment for jail crawl content; create a dashboard that monitors the success of
+
+crawls and identifies errors; adjust jail crawl scripts experiencing errors; generate and deploy
+
+scripts to crawl criminal case records from available sites; provide a data storage environment
+
+for criminal case crawl content; and support the merging of jail and criminal case records using
+
+probabilistic matching strategies. We require candidates to have either experience
+
+programming in relevant environments or a degree in information systems/computer science.
+
+Significant skills working with Python and AWS are a plus.
+
+The Public Safety Lab, launched in 2017, applies the tools of data science and social science to
+
+the project of criminal justice reform. For example, many relatively minor offenses are easy to
+
+detect and interdict. Many more serious offenses are much harder to detect and interdict. As a
+
+consequence we may overpunish relatively minor offenses, and underpunish more serious
+
+offenses. The Public Safety Lab works with both confidential and publicly accessible data to
+
+identify strategies that minimize both overpunishment and underpunishment.
+
+For more information about the Public Safety Lab see www.publicsafetylab.org.
+
+Qualifications
+
+Required education: undergraduate degree in information technology or computer science
+
+Required experience: significant knowledge of and experience with programming in Python,
+
+AWS architecture, web crawling
+
+Preferred education: master's degree in information systems/information technology,
+
+computer science, or data science is a plus.
+
+ Higher education is at the core of this Big Apple institution. The setting and heritage of New York University (NYU) make it one of the n...

@@ -1,0 +1,19 @@
+The Ads Analytics team helps the Spotify Free Business understand our users better so that we can create a platform where users can enjoy millions of tracks for free while being able to support the artists they love for their work. We strive to understand our user’s taste in music and how they use our platform so that we can show them the most relevant ads at the right time, creating a frictionless experience for them while helping brands reach the right users and artists live off of their work.
+We are a team of data scientists working on range of problems at Spotify, from automated tools that help our sales team get insight into our platform to ML models that helps us understand our users, business dynamics and utilize our inventory. We are looking for an expert in statistical modeling, machine learning and causal attribution with hands on experience training and deploying models to production systems at Spotify scale.
+What You'll Do
+Build proofs of concept and production models that will help us understand our users
+Lead research initiatives to help us be an industry-leader when it comes to technical and modeling capabilities
+Mentor more junior data-scientists one to one, through peer reviews and academic guidance
+Help us maintain our current infrastructure and design new ML platforms to train, predict and serve the results to other parts of the Spotify business
+Contribute to our internal tooling and be thought leader in the broader analytics community at Spotify
+Work from our office in New York
+Who You Are
+You will have at least 5 years experience in applied research, statistical modeling and ML with a degree or higher (MS/PhD) in statistics, mathematics, econometrics, or similar field
+Significant breadth and depth of statistics/ML knowledge
+High level of ability in R or Python
+Competence with SQL and experience performing analysis on large datasets
+Experience working and creating data/feature pipelines is a plus
+You are capable of taking on loosely defined business problems and translating complex thinking into practical application for diverse audiences
+You are a communicative person who values building strong relationships with colleagues and partners and enjoys mentoring and teaching others
+You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be brilliant. So bring us your personal experience, your perspectives, and your background. It's in our differences that we will find the power to keep revolutionizing the way the world listens.
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world’s most popular audio streaming subscription service with a community of more than 271 million users.

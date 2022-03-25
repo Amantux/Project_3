@@ -1,0 +1,57 @@
+Senior/Staff Engineer, Systems Algorithms Timing
+
+PositionSummary
+
+This position is for a Senior/Staff Systems Engineer working on the development of advanced algorithms for optimal ranging (time of arrival determination) with focus on timing using terrestrial radio navigation signals, algorithm optimization using simulations and extensive field data, and working with SW/FW teams to have the algorithmsimplemented, verified and demonstrated on target hardware platforms.
+
+Responsibilities
+
+·Support R&D activities to derive timing using a terrestrial navigation system
+
+·Develop and improve algorithms for the estimation of the time of arrival (ranging) and/or Doppler of terrestrial radio navigation signals as it applies to extracting timing from a terrestrial beacon system
+
+·Develop quality metrics for the timing and frequency estimate from a terrestrial radio navigation signals and facilitate integration with GNSS/other systems.
+
+·Develop algorithms for time transfer to/from other terrestrial/satellite timing systems
+
+·Analyze field data and optimize algorithms accordingly for good timing performance
+
+·Architectimplementation of optimized algorithms in C/ C++ for target hardware platforms
+
+·Support design, implementation and testing of various algorithms in a terrestrial PNT receiver
+
+·Support field tests and customer demos
+
+Desired Skills& Experience
+
+Required:
+
+·MS or PhD (preferred) in EE/ECE with emphasis in Signal Processing/Communications.
+
+·At least 3+ years of experience in design and implementation of advanced signal processing algorithms.
+
+·Solid foundation in probability, statistics and random processing
+
+·Experience working with oscillators such as TCXO, OCXO, atomic clocks and analyzing clock quality including frequency stability, phase noise, time stability, jitter
+
+·Experience with GPS timing receivers and GNSS measurements including pseudo-ranges, Doppler/carrier phase.
+
+·Understanding and optimization of algorithm implementation complexity for target hardware platforms
+
+·Proficient with Matlab, Knowledge of C/C++ programming concepts
+
+·Strong analytical and problem-solving ability
+
+·Ability to work independently and within a team on challenging technical problems across multiple teams
+
+Preferred:
+
+·Experience with time transfer from synchronization sources such as fiber, satellite (GNSS/other satellite systems), as well as analysis of holdover in the absence of synchronization sources
+
+·Experience with advanced Spectral estimation techniques, including Eigen decomposition-based methods
+
+·Solid foundations in Signal processing for estimation& detection, Bayesian optimization functions
+
+·Experience with GPS timing receiver implementation
+
+·Programming experience in C/C++ for implementation of algorithms

@@ -1,0 +1,48 @@
+CGIs global emerging technology practice brings the latest technology innovation locally to our clients through digital insights, digital platforms, and human-centered design. Our Digital Insights tower is seeking a Data Engineer with experience developing and deploying applications on the Microsoft Azure Databricks platform.
+
+The Azure Data Engineer will be responsible for the development, deployment, maintenance, diagnostics, and support of spark ETL jobs on the MS Databricks platform.
+
+The ideal candidate will have:
+• Experience in development of apache Spark code using PySpark or Scala
+• Experience in using Azure Databricks Platform
+• Experience in using Azure Data Factory to call Azure Databricks notebook activities
+• Experience in using Git based repositories
+• Good fundamental knowledge about distributed computing, RDBMS and Dimensional modeling concepts
+• Exposure to Azure DevOps
+• Exposure to Azure Storage (Blob/Data Lake Store), Azure Catalog, Databricks Delta
+
+Build your career with us.
+
+It is an extraordinary time to be in business. As digital transformation continues to accelerate, CGI is at the center of this changesupporting our clients digital journeys and offering our professionals exciting career opportunities.
+
+At CGI, our success comes from the talent and commitment of our professionals. As one team, we share the challenges and rewards that come from growing our company, which reinforces our culture of ownership. All of our professionals benefit from the value we collectively create.
+
+Be part of building one of the largest independent technology and business services firms in the world.
+
+Learn more about CGI at www.cgi.com.
+
+No unsolicited agency referrals please.
+
+CGI is an equal opportunity employer.
+
+Qualified applicants will receive consideration for employment without regard to their race, ethnicity, ancestry, color, sex, religion, creed, age, national origin, citizenship status, disability, medical condition, military and veteran status, marital status, sexual orientation or perceived sexual orientation, gender, gender identity, and gender expression, familial status, political affiliation, genetic information, or any other legally protected status or characteristics.
+
+CGI provides reasonable accommodations to qualified individuals with disabilities. If you need an accommodation to apply for a job in the U.S., please email the CGI U.S. Employment Compliance mailbox at US_Employment_Compliance@cgi.com. You will need to reference the requisition number of the position in which you are interested. Your message will be routed to the appropriate recruiter who will assist you. Please note, this email address is only to be used for those individuals who need an accommodation to apply for a job. Emails for any other reason or those that do not include a requisition number will not be returned.
+
+We make it easy to translate military experience and skills! Click here to be directed to our site that is dedicated to veterans and transitioning service members.
+
+All CGI offers of employment in the U.S. are contingent upon the ability to successfully complete a background investigation. Background investigation components can vary dependent upon specific assignment and/or level of US government security clearance held.
+
+CGI will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with CGIs legal duty to furnish information.
+
+Your future duties and responsibilities
+
+As an Azure Data Engineer on our Digital Insights team, you will streamline code, rationalize datasets and tables to arrive at a single source of truth, identify and delete dead tables and identify areas of overlap between datasets and tables. In parallel, you will build detailed architecture diagrams or Entity Relationship Diagrams for all workflows and processes. All code and diagrams should be maintained in a code bank or repository.
+
+You will work with cloud architects to establish a pipeline to Azure data stores using either NiFi or DataBricks as well as build templates for engineering processes in the cloud.
+
+Required qualifications to be successful in this role
+
+Skills: SQL, TeraData SQL, scripting, Hive. Must have experience in NiFi or DataBricks.
+
+#LI-JS2

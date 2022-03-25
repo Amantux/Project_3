@@ -1,0 +1,42 @@
+Manhattan designs, builds and delivers market-leading supply chain technology solutions for leading companies around the world. We help drive the commerce revolution with unmatched insight and unrivaled technology, connecting front-end revenue and relationships with back-end execution and efficiency—optimized on a common technology platform. This platform-based approach is enabling leading companies across the globe to Push Possible® by getting closer to customers and achieving real-world results.
+
+Summary:
+
+As a Data Scientist within Manhattan Associate’s Global R&D organization, you will be responsible for researching, evolving, innovating, and productizing advanced analytic methods and Machine Learning capabilities across our industry leading Supply Chain solutions. You will help lead the analysis and solution designs of complex analytical supply chain management problems using a variety of methods from Predictive Analytics, Forecasting, Statistical Analysis and Modeling, Data Science, Simulation, and Machine Learning to ensure that the analytical business tasks and processes used within our solutions have been reliably and accurately modeled and productionalized.
+
+You will have access to customers (and their data) to fully gain an understanding about their analytical business needs and opportunities while collaborating with product management, software engineers, and business analysts – as well as with other scientists within our global science group. You will be viewed as an expert and thought leader within the disciplines of Predictive Analytics, Data Science, and Machine Learning. You will have the opportunity to provide leadership and have direct influence on building world-class, industry leading, science-based enterprise software products for global supply chain management.
+
+Responsibilities:
+Provide strong analytical, advanced Data Science and Machine Learning expertise as a key member of our specialized science-based team focused on the research, development, and deployment of Manhattan Associates’ next generation cloud-native Machine Learning platform
+Work with our customers, product management, and application development teams to identify, prototype, develop, and deploy ML-empowered solutions
+Assist product and cloud teams with deployment and lifecycle oversight, performance analysis, issue troubleshooting, tuning and refreshing of production models/pipelines within our ML platform
+Work with large, complex data sets to extract, analyze, visualize, and infer meaningful insights
+Stay current with state-of-the-art techniques and technologies in the field
+Research, experiment, and benchmark new ML use cases, methods, and technologies
+Communicate and document effectively, especially when communicating with non-technical business partners and customers
+Requirements:
+A graduate degree in a field such mathematics, statistics, computer science, engineering, data science or machine learning, or a related technical field
+Experience with the research and development of ML-based solutions, including the productization, deployment, and lifecycle management of production-level ML models/pipelines
+Proven experience developing ML solutions with a Python ML stack: numpy, pandas, scikit-learn, keras/tensorflow, etc.
+Knowledge and application of Data Science and ML techniques and best practices, such as but not limited to:
+ETL; EDA; Data cleansing/preprocessing, wrangling & transforms, and visualization, …
+Feature Extraction, Engineering, & Selection; Dimension reduction techniques, …
+Hyperparameter tuning/optimization, ML model performance analysis and tuning, ML model selection techniques, Concept Drift & Model decay, Class imbalance, …
+Knowledge and application of statistical data analysis and modeling techniques such as ANOVA, linear models, multivariate analysis, stochastic models, sampling methods – including hypothesis testing, model validation
+Demonstrated skills in selecting the right statistical tools given a data analysis problem
+Ability to craft new concepts and stay current with academic research
+Solid experience working with databases: SQL and/or NoSQL
+Experience with Linux or Unix operating systems, installing, deploying, maintaining packages
+Strong verbal and written communication skills – including successful experience working with non-technical stakeholders
+Additional Preferred Qualifications (things that might help you stand out):
+Experience working with and deploying solutions within a Cloud platform
+Experience with ML model/pipeline productization, deployment, and lifecycle management within a Cloud platform -- especially within a Microservices Architecture
+Experience with Big Data processing:Hadoop, Spark, Flink, BigQuery, …
+Experience with machine learning on large datasets
+Experience with Discrete-event simulation, Markov-chains, and/or MC methods/experiments
+Experience with storage/search and related logging/presentation techniques (e.g. Elasticsearch/Kibana, Prometheus/Grafana, fluentd, Logstash, Solr/Lucene, …)
+Experience with orchestration and/or lifecycle management tools (e.g. Airflow, Luigi, MLflow, …)
+Experience with Enterprise Application R&D for an Independent Software Vendor (ISV)
+#LI-RK1
+
+Manhattan Associates is at the forefront of the most innovative supply chain technologies in the industry. We pride ourselves on promoting a culture that encourages open minds, fosters superior communication and creates opportunity for growth. We are proudly an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a veteran. In the United States, Manhattan Associates participates in the Employment Eligibility Verification Program (E-Verify) operated by the Department of Homeland Security in partnership with the Social Security Administration. Participation in the E-Verify Program allows Manhattan Associates to confirm the employment eligibility of all newly hired employees after the Employment Eligibility Verification Form (Form I-9) has been completed.

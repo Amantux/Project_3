@@ -1,0 +1,40 @@
+Job Description
+Summary:
+The main function of the Data Engineer is to develop, evaluate, test and maintain architectures and data solutions within our organization. The typical Data Engineer executes plans, policies, and practices that control, protect, deliver, and enhance the value of the organizations data assets.
+
+Job Responsibilities:
+Design, construct, install, test and maintain highly scalable data management systems.
+Ensure systems meet business requirements and industry practices.
+Design, implement, automate and maintain large scale enterprise data ETL processes.
+Build high-performance algorithms, prototypes, predictive models and proof of concepts.
+
+Skills:
+Ability to work as part of a team, as well as work independently or with minimal direction.
+Excellent written, presentation, and verbal communication skills.
+Collaborate with data architects, modelers and IT team members on project goals.
+Strong PC skills including knowledge of Microsoft SharePoint.
+
+Education/Experience:
+Bachelor's degree in a technical field such as computer science, computer engineering or related field required.
+5-7 years of experience required.
+Process certification, such as, Six Sigma, CBPP, BPM, ISO 20000, ITIL, CMMI.
+
+***Please submit candidates with the following must haves***
+- Analytical and problem solving skills, applied to Big Data domain
+- Proven understanding and hands on experience with Hadoop, Hive, Pig, Impala, and Spark
+- 5-8 years of Python or Java/J2EE development experience
+- 3+ years of demonstrated technical proficiency with Hadoop and big data projects
+
+Day to Day duties:
+- Data collection – gather information and required data fields.
+- Data manipulation – Join data from multiple data sources and build ETLs to be sent to Tableau for reporting purpose
+- Measure & Improve - Implement success indicators to continuously measure and improve, while providing relevant insight and reporting to leadership and teams.
+
+A lot of times candidates screened have been really good in SQL but not in python/shell/Hadoop or vice versa.
+Mostly we are looking for someone with advanced skills in Hive/SQL and moderate skills in python/shell and Hadoop.
+
+Company Description
+Intelliswift Software, Inc. is a premier business and technology solutions company headquartered in the Silicon Valley, with offices across the United States, India and Singapore.
+The company has a proven track record of delivering results through its global delivery centers and flexible engagement models for over 450 brands ranging from Fortune 100 to growing companies.
+Intelliswift provides a variety of services including Enterprise Applications, Mobility, Big Data/BI, Staffing Services, and Cloud Solutions.
+Growing at an outstanding rate, Intelliswift has been recognized as the second largest private IT Company in the East Bay.

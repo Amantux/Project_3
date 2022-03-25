@@ -1,0 +1,39 @@
+This position is available in Montréal, Canada: Visa sponsorship to Canada and assistance from Talent Acquisition Québec is included.
+
+CIC Montreal is an IBM Client Innovation Centre operated by LGS, a wholly owned subsidiary of IBM. The Centre provides services in application development and support to public and private Canadian organizations. Focussed on innovation, CIC Montreal employs a large number of young professionals who are supervised and mentored by more experienced employees. It is distinguished by a capacity to simultaneously offer large-scale projects, highly stimulating professional challenges, an environment favorable to continuous learning, professional mentoring and, lastly, opportunities for career advancement. CIC Montreal enables our clients to raise their productivity, reduce costs, improve their innovative capacity and accelerate their time-to-market.
+
+What you will do
+
+The Data Engineer role is part of the Cognitive Process Transformation (CPT) team which focuses on those activities that support the integration, design and modeling, storage, and organization of data. This individual must have a solid understanding of SAP data services and process automation techniques. This individual must have strong experience in building large complex data sets, be able to articulate best practices related to data quality and cleansing and be able to incorporate those practices into delivered solutions.
+
+What you need to have
+Ability to work with the client directly to understand and meet their requirements;
+Excellent verbal and written communication abilities: must effectively communicate with technical and non-technical teams;
+Participate in teams working in an Agile/Scrum or Waterfall process and ensure the stories/tasks are well defined and have all the information and tools to be successful
+Work with the Project Manager and project stakeholders to ensure we meet our commitments;
+Ability to work independently on tasks and deliver with a high-level of quality;
+Ability to work in teams and be open to comments and feedback;
+Ability to learn quickly and to adapt to a fast-paced environment;
+Data processing, data design and modeling, deploying the model;
+Technical competencies
+3+ years experience in SAP data services
+3+ years Python experience (preferable using PySpark);
+3+ year of in-depth database knowledge of SQL and NoSQL including the ability to write, tune, and interpret SQL queries;
+Experience with Cloud services (Azure, AWS, IBM Cloud);
+3+ year experience in data warehousing (Hadoop, MapReduce, HIVE, PIG, Apache Spark, Kafka)
+Experience building large, complex big data sets and delivery mechanisms to support advanced analytics and insights analysis
+Knowledge of tools to perform data quality, data cleansing, data wrangling and data standards;
+Experience with other languages such as C #, Javascript, Matlab an asset
+Experience working with container-orchestration system( Kubernetes) or any other containerized applications systems also an asset
+Solid knowledge on different operating sytems such as Unix, Microsoft windows etc (an asset)
+Basic Machine Learning Familiarity (an asset)
+Previous experience industrializing machine learning projects will be highly considered.
+1+years experience translating business needs to data requirements and designing data-driven solutions supporting analytics and insights.
+Education
+
+Must have a technical academic degree in the Comp engineering, Comp Science, Systems Engineering or Mathematics & Statistics field.
+
+Job Type: Full-time
+
+Work Remotely:
+No

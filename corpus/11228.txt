@@ -1,0 +1,57 @@
+Are you interested in being a part of Microsoft’s mission to help every person on the planet to achieve more? Are you fascinated with finding new ways for millions of users to live and work better? Are you obsessed with creating products that are simple, useful, and delightful? So are we. Come and help us create the future of technology and productivity.
+
+We are the Outlook Calendar Scheduling team and currently looking for a highly motivated data scientist who can help build scalable prediction, machine learning, and AI to change the way people use calendar to organize their life. If you are passionate about designing and building the next generation time management intelligence and scheduling solution used by hundreds of millions of users every day then this is the job for you. You will have the opportunity to work on the cutting-edge technology that will transform the way we manage our personal and work life. This space will be your canvas to generate new ideas and experiment to enable time management intelligence across Outlook.
+
+Culture –You will work on the full technology stack with other team members and partners, as well as participate in product specs, operations, and direct customer interactions. It's an exciting opportunity to challenge yourself to do things you've never done before. We believe in having fun and enjoying each other's company.
+
+Technology – Coding environment on the backend is C#/ASP.Net/NoSql utilizing a dozen different Azure resource types and accessing intelligence substrate services, such as LUIS and Bot Framework. Our frontend is comprised of TypeScript/jQuery/Angular, HTML5, and LESS.
+
+If you want to be part of a fast moving team on the leading edge of transforming Outlook calendar, this job is for you.
+
+Responsibilities
+
+Your responsibilities include:
+
+Experience owning and developing features end-to-end
+
+Derive useful insights from data to help identify opportunities for relevance experimentation.
+
+Research, design, implement and validate algorithms to analyze and leverage data to automate humans-in-the-loop tasks
+
+Training models that can then be deployed at scale.
+
+Exploring applications of Deep Learning across multiple domains and identifying models that can bring value to our customers in those domains.
+
+Write development design plans including core design, unit test, relevant telemetry, and technical roadmap
+
+Work independently and collaboratively with other research and product teams.
+
+Monitor telemetry to continue to validate features in production
+
+Experimentation infrastructure including tools for configuring and launching experiments, dashboard, live marketplace monitoring, and diagnosis.
+
+Qualifications
+
+Requirements:
+
+5+ Years expertise in applied analytics and data science
+
+Experience in implementing relevance rankers and algorithms with high relevance to target specific user scenarios.
+
+Experience prototyping and developing software in traditional programming languages (C++/ Java/ Python/Perl ) a plus.
+
+Familiarity with Deep Learning frameworks like PyTorch, Tensorflow, and CNTK.
+
+Experience implementing models and analysis tools through the use of high-level modeling languages (e.g. R, Matlab, Cplex).
+
+Deep passion for customers, design thinking, and technology
+
+Outstanding cross-discipline and team collaboration skills
+
+Ability to deliver outstanding results in fast-paced, dynamic environment
+
+Bachelor’s or Master’s degree in Computer Science/Engineering with emphasis on AI and ML
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.

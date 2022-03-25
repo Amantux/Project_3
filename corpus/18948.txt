@@ -1,0 +1,83 @@
+Locations: TX - Plano, United States of America, Plano, Texas
+
+At Capital One, were building a leading information-based technology company. Still founder-led by Chairman and Chief Executive Officer Richard Fairbank, Capital One is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. We measure our efforts by the success our customers enjoy and the advocacy they exhibit. We are succeeding because they are succeeding.
+
+Guided by our shared values, we thrive in an environment where collaboration and openness are valued. We believe that innovation is powered by perspective and that teamwork and respect for each other lead to superior results. We elevate each other and obsess about doing the right thing. Our associates serve with humility and a deep respect for their responsibility in helping our customers achieve their goals and realize their dreams. Together, we are on a quest to change banking for good.
+
+Senior Data Engineer
+
+We are looking for driven individuals to join our team of passionate data engineers in creating Capital Ones next generation of data products and capabilities.
+
+- You will build data pipeline frameworks to automate high-volume and real-time data delivery for our Hadoop and streaming data hub
+
+- You will build data APIs and data delivery services that support critical operational and analytical applications for our internal business operations, customers and partners
+
+- You will transform complex analytical models into scalable, production-ready solutions
+
+- You will continuously integrate and ship code into our on premise and cloud Production environments
+
+- You will develop applications from ground up using a modern technology stack such as Scala, Spark, Postgres, Angular JS, and NoSQL
+
+- You will work directly with Product Owners and customers to deliver data products in a collaborative and agile environment
+
+Responsibilities:
+
+- Develop sustainable data driven solutions with current new gen data technologies to meet the needs of our organization and business Customers
+
+- Ability to grasp new technologies rapidly as needed to progress varied initiatives
+
+- Break down data issues and resolve them
+
+- Build robust systems with an eye on the long term maintenance and support of the application
+
+- Leverage reusable code modules to solve problems across the team and organization
+
+- Utilize a working knowledge of multiple development languages
+
+What we have:
+
+- A startup mindset with the backing of a top 10 bank
+
+- Monthly Innovation
+
+- Days dedicated to test driving cutting edge technologies
+
+- Flexible work schedules
+
+- Convenient office locations
+
+- Generous salary and merit-based pay incentives
+
+- Your choice of equipment (MacBook/PC, iPhone/Android Device)
+
+Basic Qualifications:
+
+- Bachelors Degree
+
+- At least 2 years in coding in data management, data warehousing or unstructured data environments
+
+- At least 2 years experience working with leading big data technologies (Cassandra, Accumulo, HBase, Spark, Hadoop, HDFS, AVRO, MongoDB, or Zookeeper)
+
+Preferred Qualifications:
+
+- Master's Degree
+
+- 2+ years experience with Agile engineering practices
+
+- 2+ years in-depth experience with the Hadoop stack (MapReduce, Pig, Hive, Hbase)
+
+- 2+ years experience with NoSQL implementation (Mongo, Cassandra)
+
+- 2+ years experience developing Java based software solutions
+
+- 2+ years experience in at least one scripting language (Python, Perl, JavaScript, Shell)
+
+- 2+ years experience developing software solutions to solve complex business problems
+
+- 2+ years experience with Relational Database Systems and SQL
+
+- 2+ years experience designing, developing, and implementing ETL
+
+- 2+ years experience with UNIX/Linux including basic commands and shell scripting
+
+At this time, Capital One will not sponsor a new applicant for employment authorization for this position.

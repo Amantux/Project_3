@@ -1,0 +1,51 @@
+Position Description
+
+Customer Science group consists of trusted, influential, proactive consultants & data scientists. We provide actionable insights and personalization solution that enable Walmart to deliver on its core purpose. We translate the voice of the customer on the company’s most important initiatives. This includes understanding what they want now as well as in the future, and monitoring progress. We create or acquire capabilities that broaden influence and allow decision makers to make a more customer-centric decision. We provide the customer perspective synthesized from multiple sources of data – sales, click stream, marketing, operations, customer care, services, 3rd party data, etc... We use big data eco-systems in Google Cloud Platform and on-premise Hadoop clusters.
+
+Job responsibilities:
+
+Design single view of customer data structure to accelerate analytics and machine learning with data science experience
+
+Develop deterministic and probabilistic algorithms to map different customer profiles to each customer and measure algorithm performance
+
+Gather requirement and understand need from business partners across organizations for single view of customer
+
+Understand data structures and usages of different customer data assets from different technology areas to plan single view of customer development
+
+Development statistical measurement process to evaluate customer mapping algorithms
+
+Support 3rd party data acquisition by reviewing and assessing new external data asset using statistical analytics. Drive proof of concept of new data capabilities
+
+Ensures adherence to data standards and compliance policies
+
+Lead data scientists and engineers and provide technical and data science guidance
+
+Build data science roadmap for single view of customer development
+
+Develop customer profiling and analytics strategy, and data science best practices
+
+Minimum Qualifications
+
+Bachelor of Science and 6 years' data science experience OR Master of Science and 4 years' data science experience OR PhD.
+
+Additional Preferred Qualifications
+
+Experience with statistical analysis and modeling and related software tools, such as R/Python
+
+Experience in machine learning including deep learning
+
+Experience in using customer profile data from brick & mortar data and online data
+
+Experience in mapping customer profiles from differences to each customer using probabilistic model
+
+Working knowledge of Relational Database Systems and SQL
+
+Experience with Google Cloud Platform and Azure Platform in big dagta development
+
+Experience with Big Data distributed computing tools, such as Hadoop, Hive, Spark
+
+Experience with Shell scripting and Linux operating system
+
+Company Summary
+
+What started small, with a single discount store and the simple idea of selling more for less, has grown over the last 50 years into the largest retailer in the world. Each week, over 260 million customers and members visit our 11,695 stores under 59 banners in 28 countries and e-commerce websites in 11 countries. With fiscal year 2017 revenue of $485.9 billion, Walmart employs approximately 2.3 million associates worldwide. Walmart continues to be a leader in sustainability, corporate philanthropy and employment opportunity. It's all part of our unwavering commitment to creating opportunities and bringing value to customers and communities around the world.

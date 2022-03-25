@@ -1,0 +1,99 @@
+MITRE performs leading-edge research
+and development toward transformational solutions to our world’s most
+challenging problems. Our Center for Advanced Aviation Systems Development is a
+Federally-Funded Research and Development Center (FFRDC) established to serve
+as strategic partners to the federal government and various aviation groups
+around the world. Our engineers, analysts, technical and operational experts
+team to solve problems in the public interest that improve the safety and
+efficiency of the airspace system in the U.S. and abroad.
+
+The Aviation Safety & Analysis
+department is individuals with interest in applying their data science skills
+to deep and challenging problems in the aviation domain. We have a treasure trove of data including
+time series, text and sensor data and challenging problems to solve. We are
+seeking skills in machine learning, deep learning, text mining, big data and
+software/application development.
+
+If
+Sklearn, pyTorch, Keras,TensorFlow, LSTM, LDA, anomaly detection, entity
+extraction, summarization mean something to you, we want to talk to you. You
+are not required to have skills in all of these but should have hands-on skill
+in at least one area and the ability to dive deep in the data, and learn the
+necessary skills to get the job done.
+
+The candidate will
+work with the FAA and international customers, leveraging one of the largest repositories
+of aviation data to improve the capabilities, safety, and efficiency of the
+aviation system.
+
+The candidate will
+be responsible for supporting a team of more senior AI/ML staff and Data
+Scientists in the following tasks:
+Leveraging
+AI/ML techniques and solutions to identify complex patterns for predicting
+safety hazards
+Increasing
+the efficiency and quality of the vulnerability discovery process by tightly
+integrating automated processes, AI/ML techniques and human SME/analyst
+expertise
+Develop and
+prototype AI algorithms and software tools.
+Enhance and
+maintain current analysis tools, including automation of current processes
+using AI/ML algorithms.
+Conduct
+quantitative data analysis using a variety of datasets, including developing
+retrieval, processing, fusion, analysis, and visualization of various datasets
+Develop
+techniques that make use of both digital flight data, text-based safety
+reporting, and a variety of other aviation data sets both in a silo and in a
+fused environment to identify potential safety vulnerabilities
+Basic
+Qualifications:
+Bachelor’s
+Degree in Computer Science, Mathematics, Statistics, Physics, Electrical
+Engineering, Computer Engineering or related fields
+Hands-on
+Software Development Skills (Python-Preferred)
+Experience
+or educational courses/projects in Machine Learning, and/or Text Mining Algorithms.
+Ability to
+work closely with Domain experts to develop tools/algorithms needed to answer
+research questions in their studies
+Excellent
+Communication Skills (with the abilty to explain developed tools and ML
+algorithms to a non-technical audience)
+Ability to
+formulate operational problems in aviation domain as technical problems that
+allows for reuse of leading research in the area.
+Proven
+ability to work independently to learn new technologies, techniques, processes,
+languages, platforms, systems
+Strong
+analytic, inferencing, critical thinking, and creative problem-solving skills
+Self-starter
+with ability to work both independently and with a team
+
+Preferred
+Qualifications:
+1 to 2 years
+of relevant experience
+Experience
+with Deep Learning Frameworks such as Keras, Tensorflow, PyTorch,Mxnet etc.
+Ability to apply these frameworks to real problems in the ‘time -series’ domain
+Experience
+with interpretability of deep learning models
+Big Data
+Skills (Hadoop, Spark, recent deep learning platforms)
+Visualizations/Web
+Development Skills (e.g. Tableau, MEAN stack - MongoDB,
+ExpressJS, AngularJS, NodeJS).
+Practical
+experience with statistical analysis
+Experience
+with text mining tools and techniques including in areas of summarization ,
+search (e.g. ELK Stack) , entity extraction, training set generation (e.g.
+Snorkel) and anomaly detection
+Expert
+software development skills lifecycle including developing and maintain good
+production quality code

@@ -1,0 +1,57 @@
+You’re passionate about a zero-emissions future and want to build something special. You want to own your space but work with talented, like-minded people on important projects. The pace doesn’t scare you - it excites you. Quality and integrity matter to you.
+
+We feel exactly the same way.
+
+Drive Forward. Introduce yourself to us and let’s start a conversation.
+
+We are currently seeking a Senior Validation and Verification Engineer to join our team. In this position, you will perform a critical role in developing, planning, coordinating, and executing vehicle validation tests on Nikola Motor’s Various Vehicle Product lines. You have a passion for understanding how vehicle systems work and how they can fail. The Senior Validation and Verification Engineer will have an immediate impact on the V&V organization at Nikola Motor and support the development of world-class, industry-leading electric vehicles.
+
+Responsibilities:
+Highly Experienced and responsible for the creation of Vehicle Validation Plans, Vehicle System DVP/Rs design, test procedures, and support development of subsystem test procedures and DVP/Rs
+Development of DVP/Rs, Test Plans, and test procedures for Vehicle NVH, durability, and high mileage accumulation
+Manage all test cases and track statuses and issues of all validation activities in Jira
+Work jointly with the testing and simulation teams to formulate a plan that ensures verification coverage for all vehicle requirements
+Work with requirement vehicle system owners to ensure that all requirements are verifiable and are linked to test cases with well-defined pass/fail criteria
+Coordinate with the broader system teams (functional safety, EE, etc.) to look for potential coverage gaps and develop mitigation plans where gaps exist
+Interface with Safety and Compliance office to ensure that the verification plan meets product, regulatory and business needs
+Work closely with internal engineering teams to track development statuses for all vehicle systems and adjust validation and test schedules accordingly
+Ensure that data collected during public road testing provides validation feedback on the completeness and correctness of requirements
+Establish best practices to publish status and progress towards verification and validation of requirements throughout the product development lifecycle
+Work with engineering teams to ensure that system and subsystem verification plans are coherent and that clearly defined acceptance criteria are in place
+Plan and perform a wide range of vehicle tests including performance, reliability, durability, vehicle systems validation, and abuse testing
+Responsible for identifying test equipment and instrumentation to purchase for vehicle level testing and measurement
+Experienced setting up and using data acquisition systems to collect road load data, noise levels, temperature, and electrical data
+Experience using CAN Tools and analyzing CAN data
+Experience driving a wide range of vehicle types and ability to identify issues or potential areas of the vehicle that require improvements such as handling, electrical issues, ride comfort, and interior noise/vibration
+Creation of Vehicle Test Reports for Durability, Environmental, Electrical, Firmware, Reliability, and High Mileage Accumulation Testing that includes both subjective and objective test findings and results
+Responsible for creating subsystem test reports as required
+Participate and provide input into Vehicle level DFMEA development
+Participate in root cause analysis and failure analysis activities
+Support development of acceptance criteria for vehicle level validation tests
+Capable of inspecting and identifying vehicle issues
+Create detailed Vehicle Level Test Plans
+Coordinate with external test labs, suppliers, and test tracks to organize and execute testing
+Capable of performing simple and complex driving maneuvers per test requirements and procedures
+Correlate test data to vehicle level requirements to ensure all vehicle systems meet targets and acceptance criteria
+Document and track all issues discovered by validation testing activities and lead issue resolution efforts
+Work with design teams, systems teams, and CAE teams to resolve issues found during validation testing
+Manage and track all vehicle testing schedules and highlight and prioritize critical path tests
+Capable of using hand and power tools to perform repairs and modifications as required
+Preferred Qualifications:
+Experienced with full electric vehicle architecture and have a strong understanding of High Voltage Battery Systems, Low Voltage Systems, Powertrain Systems, Structures, Chassis/Suspension, Braking Systems, and Vehicle Software/Firmware
+Data Analysis experience with MATLAB or other relevant tools
+Experience with reliability metrics such as MTTF, MMTF, and MTBF
+Proven ability to identify and solve complex engineering problems
+Experience with developing and updating vehicle KPIs and targets for validation testing
+Solidly established connections with 3rd party test tracks and test labs with an extensive knowledge base of various test site and test lab capabilities
+Ability to provide both requirements-based and subjective feedback based on vehicle validation and testing
+Experience with high-performance vehicles and operating vehicles at high speeds on a wide range of surfaces and weather conditions
+Experience with JIRA, JAMA, and CATIA a plus
+Basic Qualifications:
+BS in ME, EE, or other related Engineering field. Extensive experience will be considered in lieu of Bachelor’s degree.
+Minimum of 8 years of vehicle validation engineering experience
+Strong technical writing skills is a must
+Able to effectively communicate and work cross-functionally across all technical teams and disciplines
+Must have an active driver’s license with a clean driving history
+Willing and able to travel domestically and internationally
+This position is not eligible for CPT or OPT.

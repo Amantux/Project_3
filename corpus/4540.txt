@@ -1,0 +1,81 @@
+Read what people are saying about working here. 
+
+Overview
+
+Perspecta's risk decision group is the largest provider of background investigation services for the U.S. government in the federal, intelligence and civilian space.
+
+We are currently seeking candidates for a Sr. Data Scientist. Candidates for this opening must be located in Loveland, CO, Slippery Rock, PA or Fairfax, VA or include a cover letter explaining relocation plans.
+
+The Sr. Data Scientist interprets results using a variety of techniques, ranging from simple data aggregation to complex machine learning algorithms. This position works directly with project and business leaders to identify analytical requirements. This position will have periodic supervision but needs to demonstrate the ability to work independently and seek out answers to complex problems. The Senior Data Scientist will work on design and maintenance for end-to-end machine learning pipelines including data ingestion, transformation, continuous model updating, streaming analytics, and API delivered model prediction. The Senior Data Scientist will also help to architect and implement Statistical models in software applications.
+
+Responsibilities
+
+Expert knowledge of the implementation of modern Statistical methods, including but not limited to, regression models, survival analysis, classification methods clustering, projection, natural language processing, and others using R and Python.
+
+Working knowledge of SQL and database design, APIs, map reduce and the ability to self-service data
+
+Familiarity with real-time data pipeline software such as Apache Kafka
+
+Ability to work in interdisciplinary teams effectively and drive projects to completion
+
+Demonstrate strong interest in statistical research activities and in application of novel methods
+
+Must also demonstrate the ability to learn, be proactive and motivated, and consistently focus on detail and execution
+
+Experience managing statistical consulting projects with people outside the discipline
+
+Willingness to research and learn suggested approaches to complex problems and structure data properly for implementation of these methods
+
+Working knowledge of application development in R and Python including experience with at least one of Shiny, Django, Flash, or Dash
+
+Other duties as assigned
+
+Essential FunctionsThe job tasks identified below are representative of those required to successfully perform the essential functions of this job. Reasonable accommodations may be made as appropriate to enable individuals with qualified disabilities to perform these essential functions.
+
+Sit for long periods of time, stand, walk, move about the facility, bend, stoop, and climb stairs; demonstrate sufficient hand, arm and finger dexterity to operate computer keyboard and other office equipment; reach above shoulder height, below the waist, and lift to file documents or store materials; lift and move up to 25 pounds; speak and hear sufficiently to communicate in person and over the phone; read words and numbers; maintain visual ability including close vision, distance vision, color vision, peripheral vision, depth perception and to adjust focus; work overtime as required; meet expectations for attendance and punctuality; able to pay attention to details; able to concentrate; interact professionally, cooperatively and productively; perform in a manner that prevents errors and omissions; tolerate a constant, moderate noise level; work independently; carry out assignments to completion within parameters of general instructions, prescribed routines and standard practices; successfully manage stressful work situations; meet multiple deadlines consistently.
+
+Qualifications
+
+Masters or equivalent degree in Quantitative discipline such as Math, Statistics, Economics, Computer Science or Biology
+
+New hire orientation
+
+3+ years of experience in a combination of:
+
+Constructing datasets from data warehouses or centralized database for analysis using SQL
+
+Building dashboards containing compelling visualizations and data snippets
+
+Incorporating Statistical models including, but not limited to, classic Statistical models such as regression, Survival analysis, and functional data analysis to build analyses that address business problems
+
+Applying predictive and classification models and evaluating their performance
+
+Usage of the tidyverse collection of R packages, R shiny, R markdown, and html
+
+Strong written and verbal communication skills and the ability to interact with technical and non-technical team members
+
+Excellent organizational skills with ability to work on multiple projects/assignments simultaneously and meet deadlines and goals
+
+High energy with a strong determination to overcome obstacles and creative, innovative approach to solving problems
+
+Highly analytical individual who enjoys working with databases and database tools
+
+Experience researching data issues
+
+U.S. citizenship (required for federal security clearance)
+
+Federal Background Investigation REQUIRED please read.
+
+The selected candidate for this position must be able to successfully obtain and maintain a favorably adjudicated government background investigation. This background investigation requires U.S. citizenship and will include an investigation of 10+ years of history including financial, education, employment, medical, residence, and personal records. The cost of this investigation will be paid by Perspecta.
+
+About Perspecta:
+
+Every day at Perspecta, we enable hundreds of thousands of people to take on our nation's most important work. We're a company founded on a diverse set of capabilities and skills, bound together by a single promise: we never stop solving our nation's most complex challenges. Our team of engineers, analysts, developers, investigators, integrators and architects work tirelessly to create innovative solutions. We continually push ourselves—to respond, to adapt, to go further. To look ahead to the changing landscape and develop new and innovative ways to serve our customers.
+
+Perspecta works with U.S. government customers in defense, intelligence, civilian, health care, and state and local markets. Our high-caliber employees are rewarded in many ways—not only through competitive salaries and benefits packages, but the opportunity to create a meaningful impact in jobs and on projects that matter.
+
+Perspecta's talented and robust workforce—14,000 strong—stands ready to welcome you to the team. Let's make an impact together.
+
+Perspecta is an AA/EEO Employer - Minorities/Women/Veterans/Disabled and other protected categories.
+
+ At Perspecta, we question, we seek and we solve. Because we know what it takes to answer our nation’s most pressing challenges. It’s more...

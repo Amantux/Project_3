@@ -1,0 +1,73 @@
+Overview
+
+AbleTo, Inc. is a market leader in providing technology-enabled behavioral health care. AbleTo has been treating patients for over six years, and improves patient outcomes and lowers costs by providing treatment that integrates behavioral and medical health care. AbleTo's structured therapy programs strengthen medical recovery and self-care among members with chronic or complex clinical needs. AbleTo analytics, coupled with our multi-channel engagement platform, identify and engage members with unmet, often undiagnosed, behavioral health needs. A proprietary platform connects individuals and their care teams with AbleTo licensed providers who deliver weekly sessions by phone or video supported by an integrated digital experience. AbleTo programs are clinically proven to improve both behavioral health and medical outcomes while lowering overall spending for higher-cost, higher-risk members. AbleTo's investors include .406 Ventures, Sandbox Industries, HLM Venture Partners, Horizon Healthcare Services, Inc., Bain Capital Ventures, Aetna Ventures, and Optum Ventures.
+
+Data science at AbleTo is a hands-on function focused on capturing important signals from medical claims to predict high-cost patients with medical comorbidities and behavioral health needs. The team will also focus on enhancements to the models using pharmacy claims as well as socio-demographic data and other consumer data. Due to the complexity of health care, careful feature engineering is a key component in creating highly accurate and clinically valid models. The role requires someone passionate about utilizing predictive modeling to have an impact on health outcomes of our patients.
+
+Members of the Data & Analytics team are
+
+Highly collaborative & greatly appreciated across the company
+
+Focused on the success of the team and company
+
+Both technically and strategically savvy, able to sift through large amounts of data
+
+Focused on building well-designed solutions and preserving quality control
+
+Willing to experiment with new tools and algorithms
+
+Responsibilities
+
+You will report directly to our Director of Data Science
+
+You will be working in collaboration with many other teams within the organization – Research, Engagement, Clinical and Product teams.
+
+You will work to build and enhance claims-based predictive models which help the company determine which members will benefit from our various programs and services.
+
+You will use analytics and models to help optimize prospective member outreach
+
+Using data, you will work to determine which are the most effective treatment protocols for each member and improve patient experience
+
+With our Product team you will help design and implement data-driven features of new products and services
+
+Qualifications
+
+Technical Skills
+
+High proficiency in Python or R, and libraries for data processing, analytics, machine learning, etc.
+
+Highly skilled in SQL
+
+Experience working with large data sets. Familiarity with big data tools (e.g., Spark)
+
+Experience collaborating on code with other developers (e.g., git)
+
+Experience with the Google Cloud Platform a plus
+
+Machine Learning / Statistical Analysis Skills
+
+Experience in building and preferably deploying predictive models using standard and novel machine learning methods
+
+Experience in improving the performance of predictive models (e.g., using feature engineering, novel data, redefining outcomes, hyperparameter tuning, etc.)
+
+Some exposure to natural language processing preferred
+
+Understanding of and experience with evaluating program impact (counterfactual analysis using observational and/or experimental data, hypothesis testing, etc.)
+
+Education / Experience
+
+2+ years of experience in data science, preferably with a focus in health care
+
+Graduate degree in a highly quantitative discipline preferred (e.g., physics, computer science, statistics, public health, economics, etc.). PhD preferred.
+
+Strong communication and presentation skills. Experience with translating the results of regression analyses / predictive models to non-technical audiences.
+
+Familiarity with healthcare analytics is a big plus (e.g., risk scoring / risk adjustment, medical diagnosis and procedure codes, prevalence and incidence rate calculation, comorbidities, etc.)
+
+Familiarity with public sources of data such as American Community Survey / Census data
+
+Payor / Medicare / Medicare Advantage experience a plus
+
+AbleTo is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or veteran status. AbleTo is an E-Verify company.
+
+Upon the acceptance of an offer to enter into this agreement, AbleTo requires the satisfactory completion of reference and background checks and successful completion of drug testing in accordance with local, state and federal laws.

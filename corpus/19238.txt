@@ -1,0 +1,22 @@
+**Please Read**
+
+Local candidates only. This opportunity does not provide Visa sponsorship. No corp to corp applicants please. Candidate must be available to work on our W2.
+
+Data Engineer
+
+Data applications are critical to our success, powering many aspects of our marketplace and supporting products. We are looking for data engineers who will build, migrate and maintain data pipelines. In this role, you’ll expand and refactor the data sets that generate and transform data into applications, insights, and experiences for our users.
+
+The work includes:
+? Refactoring existing and build new data pipelines
+? Migrating existing data sets into next-gen reporting frameworks and tools
+? Using existing data tools and frameworks to configure reports and metrics
+? Developing and automating large scale, high-performance data processing systems to drive our business growth and improve the product experience
+? Building and refactoring scalable data pipelines on top of Hive and Spark leveraging Airflow scheduler/executor framework
+
+We are looking for engineers with:
+? Demonstrated ability to analyze large data sets to identify gaps and inconsistencies, provide data insights, and drive effective product solutions
+? Experience designing and deploying high performance systems with robust monitoring and logging practices
+? Experience building high performance data pipelines
+? Nice to have: proven ability to think critically about team direction and use analysis to inform that
+? Experience using machine learning is a plus, but not required.
+? Excellent communication skills, both written and verbal

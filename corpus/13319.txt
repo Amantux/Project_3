@@ -1,0 +1,30 @@
+Are you interested in being on the cutting edge of software development? Do you want to push the boundaries of learning with new technologies? Here at Strivr, we're at the intersection of technology, science, business, and sports. We offer an end to end, VR-based immersive learning platform that changes the way people around the world train, learn, and perform.
+
+Strivr was founded in 2015 out of Stanford University’s Virtual Human Interaction Lab, using the football field as our proving ground. Since then, we have quickly expanded from the athlete to the enterprise, partnering with leading Fortune 500 companies including Walmart, Verizon and Fidelity to innovate and elevate employee development. Strivr was recognized by Fast Company as one of the Most Innovative Companies of 2019 and 2020 and Inc. magazine called us one of the Best Workplaces for 2019.
+
+We are now seeking a Senior Software Engineer to build out our data engineering/pipeline efforts. The ideal candidate has strong software engineering experience with scalable systems that process terabytes of data to draw key insights. This role provides an opportunity to redesign the data pipeline for scale by leveraging emerging technologies and tools for data storage, processing and analytics. Software engineers at Strivr play a vital role in the success of a fast-growing company and must be willing and able to adapt to daily challenges.
+
+Your responsibilities:
+Design and develop processing pipelines that convert data to useful information consumed by internal teams
+Build a scalable data pipeline that is responsible for streaming and batch processing of VR information
+Design and implement systems that can efficiently transfer and store terabytes of data with data warehouses that can scale to billions of reads and writes.
+Develop services that make data available for in-production applications that are fault tolerant and horizontally scalable
+Build monitoring and debugging tools to analyze the flow of data throughout STRIVR’s systems
+Design data schemas and manage operational scalability of data models
+Create processes to extract and clean data into different databases. Design and create ETL pipelines to automate big data processes
+Create SQL queries and scripts to manipulate medium and large volumes of data
+Analyze and optimize queries and pipelines for internal and external reporting
+Identify and implement performance improvements across all pipelines. Ensure data pipeline is highly scalable, available and accurate
+Perform ad-hoc data analysis, data processing and data visualization
+Data investigations to validate assumptions or find the source of a problem
+Implement the security and compliance policies to protect the data and govern the access
+Be a visible technical leader. Develop and promote data management best practices.
+Your skills:
+7+ years of experience in a software engineering role
+Excellent programming skills using Python, Java, or C#
+Experience working with large-scale distributed systems such as Hadoop/Spark/Storm, data warehousing systems such as Redshift or BigQuery, event brokers such as Kafka or Google Cloud Pub/Sub, and/or databases such as HBase/Cassandra.
+Strong database fundamentals including SQL, performance and schema design
+Experience with cloud computing platforms like AWS, Google Cloud or Microsoft Azure
+Experience building data pipelines at Internet scale (terabytes per day)
+Operational experience with databases and data warehouses. Knowledge of the tooling for deployment, monitoring and site reliability
+Good communication skills to work with Data Scientists, Product Managers, and other stakeholders of the Data insights

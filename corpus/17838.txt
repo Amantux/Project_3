@@ -1,0 +1,29 @@
+About Akuna:
+
+Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully we design and implement our own low latency technologies, trading strategies and mathematical models.
+
+Our Founding Partners, including Akuna's CEO Andrew Killion, first conceptualized Akuna in their hometown of Sydney. They opened the firm's first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, and Boston.
+
+What you'll do as a Senior Information Security Engineer at Akuna:
+
+Akuna is seeking a Senior Information Security Engineer to join our growing team. This person will be responsible for providing leadership and expertise in the area of information security, as it relates to our people, systems, and infrastructure around the globe. This individual will drive technical and policy contributions to improve the security posture of the firm, working with a broad range of teams – including infrastructure engineers, application developers, compliance, and risk – to design and roll out security solutions. The ideal candidate will serve as the technical and functional subject matter expert across multiple security domain areas, including our continuously evolving, global cryptocurrency and digital asset ecosystem. Areas of responsibility will include cybersecurity, business continuity, security of intellectual property, system controls and release procedures, data retention and encryption, amongst others. In this role, you will:
+Design, implement, and manage security solutions across endpoints, servers, and applications supporting our trading and corporate environments
+Provide security domain expertise on protective controls, including system, network, encryption, and authentication services
+Refine and develop firm-wide information security training programs
+Perform enterprise-wide operations to uncover sophisticated and undetected threats
+Conduct periodic vulnerability scans and manage follow-up investigation and root-cause analysis
+Ensure the enforcement of – and audit adherence to – information security policy
+Help coordinate and drive remediation of identified risks and control deficiencies
+Perform security evaluations and research on new products, vendors, and services to ensure protection of Akuna data and intellectual property
+Maintain and evolve our global cryptocurrency security policies and approaches
+Direct and manage incident response and technical security investigations
+Qualities that make great candidates:
+5+ years of direct information security experience, with broad exposure to multiple security disciplines
+Strong knowledge of modern adversary tactics, techniques, and procedures found in financial services and crypto industries
+Experience with securing public cloud service providers (e.g. AWS, Azure, GCP)
+Ability to remain extremely technical and learn Akuna's network, systems, and application stack
+Knowledge of crypto and private key security (including smart contracts, multi-signature wallets, hardware wallets, key splitting)
+Highly collaborative individual, with the ability to partner with multiple cross-functional areas, and guide and educate developers on security best practices
+Demonstrated ability to independently manage and run projects, and prioritize efforts among conflicting priorities
+Experience with application security, threat modeling, and integrating security tooling (open source or commercial) into a CI/CD pipeline
+Excellent oral and written communication skills

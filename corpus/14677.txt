@@ -1,0 +1,57 @@
+ABOUT US
+
+Are you ready to transform an industry? At Centro we are building a comprehensive tech platform that radically increases efficiencies and impact across businesses, teams, and campaigns. Our clients can run all their digital business through Basis, with robust business intelligence, workflow automation, search and social integrations, and the number one rated DSP.
+We’re taking the digital advertising world by storm and are proud to be headquartered in the rapidly growing tech hub of Chicago, with offices that span across the United States, Canada, Mexico, and London. Join us in our mission to improve the lives of everyone working in the industry!
+WHY WORK WITH US?
+At Centro, we believe that lasting success is achieved through continual dedication to the growth and well-being of the individual. Our people are the core of what makes Centro unique. Driven by the Centro Manifesto and our guiding principles, we look to hire the best and brightest minds—curious, passionate learners who are driven to create impact.
+We are committed to building a culture of highly motivated individuals who create a positive and supportive environment together. When we work hard, stay focused, and act in service to others, we believe that anything is possible. Come grow with us!
+
+ABOUT THE TEAM
+
+Technology is at the core of what we do. Centro’s innovative Engineering team designs and develops new features and integrations for Basis, our industry-leading, comprehensive software solution. Our platform processes over 300 billion events per day and uses AI and machine learning to automate and simplify the entire digital campaign process.
+
+This team is all about data—and in order to create value from the massive amount of data we collect, engineering leverages their dynamic Data Engineering, Data Science, and Business Intelligence teams to create insights that benefit the industry as a whole.
+
+Our Tech Stack:
+• Ruby, Java, Python, and React.js
+• Kubernetes, Docker, Kafka
+• PostgreSQL, NoSQL
+• AWS
+
+ABOUT THE ROLE
+
+We are looking for engineers who are excited about building distributed data pipelines. We want you to help us shape our internal and external brand-new data warehouses, leveraging the latest advances of big data processing: a combination of Kafka Streams, Hadoop, and traditional RDBMS.
+YOU WILL
+Be a part of our Big Data team and of an overall Data Organization spanning multiple offices.
+Participate in architecture discussions and bring your experience in scalable data pipelines using Kafka Streams and/or other Big Data tools.
+Take ownership of design and implementation of scalable and fault tolerant projects.
+Maintain and incrementally improve existing solutions.
+Get to build brand new pipelines with the technology stack including Spark, Spark Structured Streaming, Kafka, Hadoop, MySql, Python.
+WHAT WE ARE LOOKING FOR
+Solid understanding of distributed system fundamentals.
+Experience in developing, troubleshooting, diagnosing, and performance tuning of distributed data pipelines at scale.
+Demonstrated professional experience working with various components of Big Data ecosystem: Spark/Spark Streaming, Hive, Kafka/KSQL, Hadoop (or similar NoSQL ecosystem), et. al, in a production system.
+Strong software engineering skills with Python.
+Knowledge of some flavor of SQL (MySQL, Oracle, Hive, Impala), including the fundamentals of data modeling and performance.
+EVEN BETTER IF YOU HAVE
+Skills in real-time streaming applications.
+Knowledge of Scala.
+A development workflow using Docker containers.
+Compulsion for automating your day-to-day processes.
+WHAT WE OFFER
+Ability to see your direct impact on a high visibility project.
+An opportunity to both create new projects and help improve the existing big data pipelines.
+Work in a mature, private, nationally-known company with a CEO approval of 90% on Glassdoor and a positive atmosphere in our San Francisco tech team.
+401K plan with employer matching.
+Commuter pre-tax contributions.
+Flexible working hours and work-from-home days.
+Health plan.
+In-office snacks.
+Organized team events.
+LIFE WITH CENTRO
+
+We take care of our people. Our team has put together a thoughtful benefits package and provides a wide range of perks, including competitive 401k matching, a tax-free health savings account, tuition reimbursement, generous maternity/paternity leave, and more.
+
+Aside from benefits, we’re always finding new ways to invest in the personal and professional growth our employees. We’re proud to support a variety of employee-led communities that enrich our culture of uniqueness, inclusivity, and empowerment. Centro is more than a workplace.
+
+Centro is an Equal Opportunity Employer. We respect and support an inclusive workplace diverse in thought, perspective and culture. We celebrate all team members regardless of gender/identity, sexual orientation, race or cultural background, religion, physical disability and age. We are better together.

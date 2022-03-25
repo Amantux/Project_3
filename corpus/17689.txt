@@ -1,0 +1,23 @@
+Job Description
+Builds and maintains distributed systems, services and data pipelines. The role is focused on working on complex distributed systems, the performance of these systems and the ongoing optimization in service of our core business. This role is required to write highly scalable and fault tolerant code
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using Spark on Databricks, Apache Airflow and AWS ‘ big data’ technologies like AWS Glue, AWS Athena.
+Solid experience in SQL development
+Solid experience with Python, Spark, shell scripting
+Extensive ETL development experience with large-scale DBS or big data systems such as Redshift, Snowflake, Databricks, etc.
+Experience working with reporting tools such as Tableau or Looker
+Extensive experience with design & development of relational databases and data warehouses
+Ability to look at solutions unconventionally and explore opportunities and devise innovative solutions
+Technologies:
+Python
+Scala
+Java
+AWS Glue
+AWS Redshift
+AWS EMR
+AWS Data Pipeline
+AWS Kinesis
+GCP Dataflow
+GCP BigQuery
+Looker
+Snowflake
+Redshift Spectrum

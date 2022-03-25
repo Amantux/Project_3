@@ -1,0 +1,26 @@
+Team and Role Overview
+
+Relativity is looking for a talented software engineer to join a rapidly growing space startup. As a member of the Integrated Software team, you will help develop mission critical software for control of the rocket, ground system software for vehicle interaction, and sophisticated software simulations for testing.
+
+The Mission/Outcomes and Objectives
+
+Our mission is to reimagine the way rockets are built and flown. As a Software Engineer on the Integrated Software team, you will help push us towards this goal by contributing in many areas. The core responsibility will be to work with our Avionics, Guidance, Navigation, Control, and Propulsions team to develop complex software in the loop environments for ensuring proper operation of our mission critical flight software. In this capacity you will also be expected to contribute to both flight and ground software that is critical to mission success.
+
+Minimum Required Skills and Competencies
+Bachelor's in computer science or related technical field and 3+ years relevant experience in software development
+Expert in C++, and/or other object-oriented languages
+Expert in algorithms and data structures
+Experience with software development processes including: source control, bug tracking, and design documentation.
+Experience developing, debugging, and shipping software products on large code bases that span platforms and tools.
+Demonstrated experience working collaboratively in cross-functional teams.
+Experience with continuous integration
+Preferred Skills and Competencies
+Master's in Computer Science or related technical field and 5+ years of experience in software development.
+Experience in a startup or agile development environment
+Experience with micro-service architectures.
+Experience with systems-level programming like synchronization primitives, memory management, etc.
+Experience with different inter-process communication methods
+Experience with python
+This position must meet Export Control compliance requirements, therefore a United States Person as defined by 22 C.F.R. § 120.15 is required.
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

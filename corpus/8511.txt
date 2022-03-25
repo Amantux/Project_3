@@ -1,0 +1,41 @@
+The Data Sciences and Analytics team is part of the TE Information Solutions (TEIS) Organization. We are responsible for driving organic growth by leveraging big data and advanced analytics. The team reports to the VP and Chief Data Officer at TEIS, works closely with the SVP of Corporate Strategy and has regular interactions with the company’s C-Suite.
+
+This position will directly report to the Director of Data Science and Lead Data Scientist at TE and is expected to support a variety of complex analysis and visualizations using big data technologies for our different businesses and functional areas spanning through multiple geographic areas.
+
+Responsibilities & Qualifications
+
+Daily work will involve performing one or more of the following activities:
+
+Translating a complex strategic challenge into relevant analytic framework(s):
+
+Setup and lead meetings to gather business requirements.
+
+Ask probing questions to understand business intent and how the end-results will be used. Surface implicit assumptions by the business user. Agree on template end-deliverables.
+
+Identify structured and unstructured data sources (e.g. manufacturing sensors systems, website search and usage behavior, etc.) and determine appropriate acquisition approaches (e.g. skim relevant data or creation of structured database for manipulation, etc.)
+
+Create specific project management plans defining the scope (number and type of analyses, assumptions) and timelines, ensuring that data is obtainable for the analysis required.
+
+Where necessary, pulling data into analytic environment using tools from our Hadoop Ecosystem and/or cloud solutions.
+
+Identifying practical approaches to test and learn key hypotheses to extend analytic insight.
+
+Creating statistical and machine learning models, algorithms and data visualizations to enable solutions to complex business questions. Examples of analytical approaches that may be used include optimization, simulation, regression, decision trees, neural networks, cluster analysis, mixed models, machine learning, deep learning, semantic and behavioral analysis through text mining, etc.
+
+Coding and conducting analyses using tools like Python, Spark, R and others within a Hadoop Ecosystem.
+
+Facilitating the assimilation of insights through visualizations, dashboards and workflows designed in conjunction with BI and Analytics partners.
+
+A rigorous understanding of the fundamentals of statistics, machine learning and artificial intelligence applied to business challenges and microeconomics is required.
+
+Proficiency in tools like R, Python and/or Spark is required.
+
+Exposure to distributed computing frameworks as well as cloud technologies is required.
+
+A strong curiosity to learn and apply data science techniques and tools is required.
+
+Proven ability to work within a climate of ambiguity is necessary.
+
+Outstanding communication and presentation skills is a must.
+
+A graduate degree (MS or PhD) in STEM disciplines (Science, Technology, Engineering, Math) or in other disciplines with heavy focus on quantitative domains, including statistics, analytics, data science, computing or actuarial sciences is desired.

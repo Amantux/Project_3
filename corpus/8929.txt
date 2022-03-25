@@ -1,0 +1,41 @@
+Job Description
+
+The Sr. Data Scientist will contribute to the ideation, design, development, and deployment of end-to-end analytics applications and solutions. The primary responsibilities are analytics product development and statistical modeling related to media effectiveness and efficiency measurement. The applications we create are critical for helping internal teams optimize media planning and buying. This role is with the Architecture & Technology, Product Team within Advanced Analytics & Insights (AAI).
+
+Key Responsibilities
+
+Working collaboratively with cross-functional teams to identify and understand business needs and opportunities, and then using this knowledge to design and build analytics application prototypes.
+
+Selecting and applying the right statistics or statistical learning techniques to solve modeling problems, including regression analysis (continuous, categorical, survival, time-series, and count models, etc.); classification (CART, SVM, etc.), clustering (k-means, hierarchical, etc.), and other machine learning techniques; experimental design; and forecasting/sensitivity analysis.
+
+Providing technical leadership in planning and executing Big Data application development.
+
+Working with external analytical stakeholders (both internal media teams and external clients) to plan, analyze, and execute against client analytics roadmaps.
+
+Qualifications
+
+Degree in any quantitative field; and 2+ years work experience in a data science role.
+
+Extensive programming experience in Python; numpy, scipy, statsmodels, tensorflow, etc.
+
+Experience in *nix environments; comfortable with the command line and writing bash scripts.
+
+Extensive experience with SAS, Stata, or R.
+
+Experience with Hadoop, MS SQL Server, application server, and using third-party APIs.
+
+Strong business judgment.
+
+Ability to rapidly brainstorm and develop testable ideas alone or with teams.
+
+Experience with programmatic media and platforms, such as The Trade Desk, Amobee, AAP, DBM, etc. a plus.
+
+Previous experience in an agency environment a plus.
+
+Broad knowledge of large-scale distributed systems and client-server architectures a plus.
+
+Passionate curiosity, a positive attitude, conscientiousness, and pro-active problem solving are all essential for success in this role.
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.

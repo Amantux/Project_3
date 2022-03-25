@@ -1,0 +1,42 @@
+Where will Amazon's growth come from in the next year? What about over the next five? Which product lines are poised to quintuple in size? Are we investing enough in our infrastructure, or too much? How do our customers react to changes in prices, product selection, or delivery times?
+
+These are among the most important questions at Amazon today. The Topline Forecast team in the Supply Chain Optimization Technologies (SCOT) organization is dedicated to answering these questions using statistical methods. We develop cutting edge data pipelines, build accurate predictive models, and deploy automated software solutions to provide forecasting insights to business leaders at the most senior levels throughout the company. We are looking for a talented, driven, and analytical researcher to help us answer these (and many more) questions.
+
+
+This Data Scientist role will design quantitative systems and forecasting models that generate multi-billion dollar predictions of the highest level of visibility and importance for Amazon's financial and operational planning. A successful candidate will be a problem solver who enjoys diving into data, is excited by difficult modeling challenges, and possesses strong communication skills to effectively interface between technical and business teams. As a Data Scientist on the Topline team, you will collaborate directly with economists and statisticians to produce modeling solutions, you will partner with software developers and data engineers to build end-to-end data pipelines and production code, and you will have exposure to senior leadership as we communicate results and provide scientific guidance to the business.
+
+
+Key Responsibilities:
+· Implement statistical methods to solve specific business problems utilizing code (Python, R, Scala, etc.).
+· Develop models and data-driven analyses to support strategic decisions
+· Improve upon existing methodologies by developing new data sources, testing model enhancements, and fine-tuning model parameters.
+· Directly contribute to the design and development of automated forecasting systems.
+· Build customer-facing reporting tools to provide insights and metrics which track forecast performance and explain variance.
+· Collaborate with researchers, software developers, and business leaders to define product requirements, provide analytical support, and communicate feedback.
+· Presenting critical data in a format that is immediately useful to answer questions about the inputs and outputs of Forecasting systems and improving their performance.
+
+Amazon is an Equal Opportunity Employer Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.
+
+
+
+Basic Qualifications
+
+
+· MS in a quantitative discipline such as Statistics, Mathematics, Data Science, Business Analytics, Economics, Finance, Engineering, or Computer Science.
+· 2+ years work experience in an analytical role involving data extraction, analysis, and communication.
+· Proficiency in at least one statistical software package such as R, Stata, Matlab, or Python.
+· Experience with object-oriented programming languages.
+· Expertise using SQL for acquiring and transforming data.
+· Outstanding quantitative modeling and statistical analysis skills.
+· Excellent verbal and written communication skills with the ability to effectively advocate technical solutions to research scientists, engineering teams and business audiences.
+
+
+
+Preferred Qualifications
+
+
+· 4+ years of work experience in an analytical role involving data extraction, analysis, and communication.
+· Experience building complex data visualizations.
+· Experience working in command-line Linux environments.
+· Experience with causal inference, applied time series modeling or machine learning forecasting applications.
+· Strong project management skills.

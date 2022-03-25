@@ -1,0 +1,33 @@
+Job Description
+Reverb is a leading online marketplace for buying and selling new, used, and vintage musical instruments. Since launching in 2013, Reverb has grown into a vibrant community of buyers and sellers all over the world. By focusing on inspiring content, price transparency, musician-focused eCommerce tools, a music-savvy customer service team, and more, Reverb has created an online destination where the global music community can connect over the perfect piece of music gear.
+Our core belief is that music makes the world a better place. Through Reverb Gives, a portion of every sale provides students, teachers, and leaders of music programs across the world with instruments they need.
+
+About the Role
+Our Engineering organization takes pride in crafting extraordinary software in service of our mission. We take an active role in product ownership by measuring the impact of features we release, collaborating with internal partners, fixing bugs, and ultimately building products and features that have a measurable impact on the business. Our team works together, pairing on design and coding patterns, peer-reviewing code, and elevating other developers through continuous mentorship and learning opportunities.
+
+As part of Reverb’s Data Engineering team, you’ll help build a platform to enable confident, informed decisions and products that scale along with our business. We are a small, forward-thinking team looking for creative engineers who can face a wide range of problems, researching and implementing innovative solutions that make the most of our data.
+
+Responsibilities
+Maintain and improve our data pipeline and data warehouse to ensure our users have timely access to accurate data. Our current stack uses Python, Airflow, Redshift, DBT, Looker, and more.
+Collaborate with data analysts and other internal partners across the organization to find exciting insights within our data and make them available to our product teams.
+Partner with our data science team to model, train, and apply machine learning models to new areas within our product.
+Build and share a deep understanding of your chosen languages, framework, or other area of expertise. Push yourself and the team to be continuously learning and growing.
+Demonstrate a sense of ownership for your work including understanding requirements, crafting solutions, and building robust testing plans to ensure the highest data quality.
+Participate in pairing sessions, code reviews and other team rituals.
+
+Relevant Skills and Experience
+
+We use a wide variety of languages, frameworks, and databases, so there are many skills and experiences that would make you a good fit for our team, including, but not limited to:
+Python and/or Ruby experience, either in web applications or data engineering applications.
+ETL pipelines and data warehousing solutions such as Airflow or Redshift.
+Relational databases including data modeling, performance and other optimizations, and SQL queries.
+Understanding of different types of data storage and their trade-offs.
+High-level understanding and/or interest in machine learning techniques and their applications.
+Ability to work and connect with engineering peers, data analysts, and other business partners.
+Familiarity with AWS infrastructure.
+Experience in agile development.
+
+Additional Information
+At Reverb, we believe that a diverse, equitable and inclusive workplace makes us a more relevant and resilient company. We encourage people from all backgrounds, ethnicities, cultures, and experiences. Reverb is an equal opportunity employer. We do not discriminate on the basis of race, color, ancestry, religion, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender identity or expression, veteran status, or any other legally protected status. We will ensure that individuals with disabilities are provided a reasonable accommodation to participate in the job application or interview process, to perform crucial job functions, and to receive other benefits and privileges of employment.
+
+We know that the imposter syndrome and confidences gap are real. Please do not hesitate to apply!

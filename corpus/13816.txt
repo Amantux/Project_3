@@ -1,0 +1,26 @@
+About Concerto HealthAI
+
+Concerto HealthAI is the leading provider of precision health clinical and commercial real-world data and AI solutions to the global pharma community and across the broader healthcare landscape. Our mission is to accelerate drug development, clinical trials, and HEOR analytics to dramatically improve patient outcomes.
+Concerto HealthAI is part of a select set of companies backed by SymphonyAI Group (SAI) the largest AI-focused investment firm in the world, which was founded and is led by Dr. Romesh Wadhwani, a highly successful serial tech entrepreneur, investor, and philanthropist. Dr. Wadhwani has committed $1 billion in capital to build SAI’s portfolio companies into global leaders that deliver extraordinary new value across diverse industries.
+
+Role Summary
+
+As a Deployed Data Scientist at Concerto HealthAI you will work closely with our customers to understand their needs, evangelize Concerto data capabilities, and perform a range of data exploration, feasibility analysis, and project work in support of our client relationships. You should have a good mix of programming/CS skills and have background in supporting life sciences / healthcare customers in a customer-facing capacity. You will work closely with research scientists, business development, and other data scientists to assist on client data delivery, client management, and various deliverables built on clinical and claims data. This role reports to the Vice President of Data Products.
+Responsibilities
+Understand client / product needs and translate them into tactical R&D initiatives.
+Run feasibilities and query the data to support day-to-day questions of the data.
+Share client feedback with key internal stakeholders.
+Reason about healthcare specific problems to analyze visualize, interpret, and contextualize results.
+Run a variety of analytics from data QA to complex models.
+Learn from our ML/AI team on the underlying methodology deployed in client-facing models.
+Collaborate on software projects with engineers, providing analytical guidance and contributing to codebase.
+Requirements
+BSc or higher in a STEM field, with formal training in CS, stats, and math.
+Strong programming abilities in at least one high level language (python, stata, R).
+Knowledge of statistical methods- regression, ANOVA, EDA, PCA, etc.
+Basic visualization skills- matplotlib/seaborn/plotly/etc, tableau.
+Experience with big data – Cloud data warehouses, cluster computing, Spark, MapReduce/Hadoop.
+Advanced visualization skills- interactive custom visualizations in d3.js, plotly, etc.
+Learn More About Concerto HealthAI
+
+Concerto HealthAI is transforming how healthcare is delivered and dedicated to improving patient outcomes in oncology by offering innovative solutions on how data and intelligence is used to solve healthcare problems. We are creating something special in our culture, by building a collaborative, engaged, patient focused, team approach to our mission. Our high performance teams are looking to add great talent to the mix and we are hiring for the right mix of new skills and diverse mindset. Learn more about Concerto HealthAI at www.concertohealthai.com , or follow us on LinkedIn.

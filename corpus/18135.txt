@@ -1,0 +1,59 @@
+Job Description
+
+CACI is looking for an experienced Lunar Gateway Space Vehicle Data Software Systems Engineer to provide NASA Johnson Space Center with software systems engineering skills in the design and development of flight software and data toolchains to manage and configure the Lunar Gateways data-driven flight software infrastructure. This engineering position involves analyzing and developing software requirements, developing Interface Requirements Documents (IRDs), developing Interface Control Documents (ICDs), defining vehicle tasks and associated data definitions, designing data interfaces, developing design artifacts, interfacing with Gateway subsystem teams, and interfacing with data toolchain users. The work includes analysis of data characteristics and data flow. It also involves assessing the effectiveness of autonomous system behavior and characteristics. Avionics and flight software Systems Engineering and Integration (SE&I) domains include data engineering, fault management, mission plan and timeline execution, flight and ground software, etc. This work also requires collaboration with system test and verification, missions and ground operation, and vehicle system teams, such as avionics, command and control, crew life support, displays, power, thermal, etc.
+
+This position requires a self-motivated, capable person with strong verbal and written communication skills. In addition to outstanding technical expertise, the individual must be very people savvy, have strong customer relationship skills, possess a positive team-player attitude, be flexible and willing to take on new assignments and responsibilities as they arise, and be an articulate speaker able to communicate complex technical ideas in a convincing manner. The individual must share our passion for our Nation's Space Program and share in the excitement of developing the next human-rated space vehicles.
+
+What Youll Get to Do:
+Perform requirements analysis of flight software as well as enterprise software data toolchains to manage and configure flight software.
+Develop and refine data definitions for the various Gateway subsystems.
+Interface with Gateway subsystem teams to define data-driven tasks and develop data definitions.
+Define inputs and outputs for the various data toolchains.
+Develop various design artifacts defining interfaces between software applications. This includes IRDs and ICDs.
+Perform validation of algorithms that support autonomy as well as data fed into those algorithms.
+Work with data toolchain users to define interfaces to existing tools within the Mission Control Center (MCC) as well as requirements and interfaces to new data products and tools.
+Analyze data flow within the system network and at the device level including identifying data sources, destinations, and routing of data, and analyzing data rates and data throughput.
+Analyze data characteristics and interactions within the flight system.
+Perform systems engineering on vehicle subsystem domains.
+Coordinate software issues and resolution across programs and vehicle systems engineering teams.
+Evaluate software architecture concepts, design, and implementation.
+Interface with NASA and contractor engineering teams.
+This work takes place at NASA/JSC in Houston, TX, a highly stimulating and dynamic environment that is critical in human space flight and the space exploration initiative.
+
+Youll Bring These Qualifications:
+Must be a U.S. Citizen or Permanent Resident to facilitate access to USG facilities.
+B.S. in Aerospace, Electrical, Software, Computer or Systems Engineering, Computer Science, or related disciplines required.
+At least five to twelve years of related experience in software systems engineering.
+Experience with requirements definition.
+Experience with data analysis.
+Must be flexible, open to new challenges in a dynamic environment, and possess strong technical expertise combined with strong verbal and written communication skills.
+Ability to manage multiple priorities with little supervision.
+Must be a highly responsible, team-oriented individual with strong work ethic.
+Must have highly developed coordination and organization skills.
+These Qualifications Would be Nice to Have:
+M.S. in Aerospace, Electrical, Software, Computer or Systems Engineering, Computer Science, or related discipline.
+Experience with autonomous systems.
+Experience in avionics and flight software development for human-rated space vehicle, e.g., Space Shuttle, International Space Station, Commercial Crew Vehicles, or Orion Multi-Purpose Crew Vehicle.
+Experience with data networks, fault management, and mission planning and execution.
+Vehicle-wide knowledge of space vehicle systems, e.g., avionics, commanding telemetry, command and control, crew life support, displays, power, propulsion, thermal, guidance, navigation and control, communications and tracking, NASA Docking System, etc.
+Experience in the full life cycle of human-rated flight projects.
+Experience with NASA Core Flight Software (CFS).
+Experience with Real-time Operating Systems and Time-Triggered Ethernet.
+C/C++ /Python software development skills
+Experience developing software for data and web services including database back-end, middle-ware, and front-end enterprise software using Java, C#, XML, SQL, REST, and SOAP.
+NSIS.ENG
+
+What We Can Offer You:
+Weve been named a Best Place to Work by the Washington Post.
+Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives.
+We offer competitive benefits and learning and development opportunities.
+We are mission-oriented and ever vigilant in aligning our solutions with the nations highest priorities.
+For over 55 years, the principles of CACIs unique, character-based culture have been the driving force behind our success.
+
+NASDEV
+
+Job Location
+
+US-Houston-TX-HOUSTON
+
+CACI employs a diverse range of talent to create an environment that fuels innovation and fosters continuous improvement and success. At CACI, you will have the opportunity to make an immediate impact by providing information solutions and services in support of national security missions and government transformation for Intelligence, Defense, and Federal Civilian customers. CACI is proud to provide dynamic careers for employees worldwide. CACI is an Equal Opportunity Employer - Females/Minorities/Protected Veterans/Individuals with Disabilities.

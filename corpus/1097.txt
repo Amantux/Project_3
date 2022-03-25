@@ -1,0 +1,113 @@
+Work Shift: DAY
+
+Work Week: M - F
+
+Job Summary
+We are seeking to hire a driven, smart and a motivated Application Analyst with a passion to work in the healthcare sector. The primary focus of this position will be to provide support for assigned sub-projects within a large-scale project involving cross institutional big data and artificial intelligence. Prior experience with AWS technologies and Epic is desirable. More specifically, experience with various data storage technologies on cloud such as S3 Buckets, Glacier, DynamoDB, Cassandra, MangoDB, Redis and other relational DBs is desirable. Experience with Kafka and Hadoop Ecosystem, modeling for relational and NoSQL schemas and development with Java, Python/pySpark and scala languages is also a plus. Prior experience in healthcare is highly desirable.
+
+This position is expected to interface with clinical domain data for neurological diseases and stroke, and individuals with previous knowledge of clinical domain are encouraged to apply. The candidate is expected to be responsible for intermediate level support and configuration of assigned applications.
+
+Among others, responsibilities will include to build and manage infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using big data technologies such as AWS and SQL, build and manage analytics tools that utilize the data pipeline for various purposes such as research and achieving key clinical and operation goals.
+
+The position also entails actively participating in design, cataloguing, and documentation of data systems and associated processing. Further roles include assisting, training and supporting customers with the operation and administration of systems. Candidate will be required to have active engagement with diverse functional teams (technical and clinical) and evidence of working with teams and strong communication skills (written and verbal) are preferred. The Application Analyst troubleshoots issues and may also work with vendors on issue resolution. The Application Analyst will partner with end users to increase their understanding of available tools to enhance research and operational productivity. Responsibilities will include creating, documentation and assisting other IT groups and teams with issues and problems. The Application Analyst ensures the services provided contribute to the successful accomplishment of department and organizational goals. The Application Analyst possess intermediate technical expertise to support specific healthcare applications. The Analyst will cross train to become proficient in multiple applications including AWS technology. The Application Analyst applies skills in line with Houston Methodist values and goals, to assure the efficient, effective and consistent delivery of high-quality IT and data services.
+
+PATIENT AGE GROUP(S) AND POPULATION(S) SERVED
+
+Refer to departmental "Scope of Service" and "Provision of Care" plans, as applicable, for description of primary age groups and populations served by this job for the respective HM entity.
+HOUSTON METHODIST EXPERIENCE EXPECTATIONS
+Provide personalized care and service by consistently demonstrating our I CARE values:
+INTEGRITY:We are honest and ethical in all we say and do.
+COMPASSION:We embrace the whole person including emotional, ethical, physical, and spiritual needs.
+ACCOUNTABILITY:We hold ourselves accountable for all our actions.
+RESPECT:We treat every individual as a person of worth, dignity, and value.
+EXCELLENCE:We strive to be the best at what we do and a model for others to emulate.
+Focuses on patient/customer safety
+Delivers personalized service using HM Service Standards
+Provides for exceptional patient/customer experiences by following our Standards of Practice of always using Positive Language (AIDET, Managing Up, Key Words)
+Intentionally rounds with patients/customers to ensure their needs are being met
+Involves patients (customers) in shift/handoff reports by enabling their participation in their plan of care as applicable to the given job
+PRIMARY JOB RESPONSIBILITIES
+
+Job responsibilities labeled EF capture those duties that are essential functions of the job.
+
+PEOPLE -25%
+Accurately prepares written business correspondence that is coherent, grammatically correct, effective and professional. (EF)
+Establishes and maintains effective working relationship with clients. Shares acquired skills with team members through documentation and training. (EF)
+Assists, trains and supports customers with the operation and administration of systems. (EF)
+SERVICE - 30%
+Debugs, programs and tests systems and applications. Proposes solutions to problems and considers timeliness, effectiveness, and practicality in addressing client needs. (EF)
+Utilizes working knowledge of assigned applications to effectively complete assigned tasks. Applies workflow to and from clinical and business applications. (EF)
+Effectively leads and facilitates meetings. Develops meeting objectives, agendas and action items.
+Supports and installs software applications, including on call support. (EF)
+QUALITY/SAFETY - 20%
+Provides high quality technical support for assigned application(s). Creates custom solutions or configuration options to solve operational or workflow issues. (EF)
+Leads medium to large scale projects utilizing Houston Methodist project guidelines including budget adherence. (EF)
+FINANCE - 10%
+Establishes responsible deadlines and personal work plans and manages time effectively. Accurately completes and submits assigned work and status reports according to project timelines and expectations. (EF)
+Prioritizes issue resolution, work requests and tasks effectively. (EF)
+GROWTH/INNOVATION - 15%
+Anticipates client needs and communicates to department leadership for solution development. (EF)
+Resolves problems of moderate to advanced complexity using strong analytical and logic skills. Generates innovative solutions in partnership with customers, vendors cross and functional IT teams(EF)
+Seeks out opportunities to cross train and become proficient in multiple applications (EF)
+Participates in professional development. Completes Individual Development Plan. (IDP) (EF)
+This job description is not intended to be all inclusive; the employee will also perform other reasonably related business/job duties as assigned. Houston Methodist reserves the right to revise job duties and responsibilities as the need arises.
+
+EDUCATION REQUIREMENTS
+Bachelors Degree in Information Technology, Business Administration or related field or experience working as a licensed clinical or certified IT professional. An additional four years experience in addition to the experience listed below in lieu of Bachelors or licensed clinical or certified IT professional experience
+EXPERIENCE REQUIREMENTS
+Three years experience in IT or clinical or business workflow required
+Experience supporting clinical, ancillary or business environments
+CERTIFICATIONS, LICENSES AND REGISTRATIONS REQUIRED
+Certification within six months of hire if appropriate to assigned application. (i. e. Epic) Epic Certification must be maintained.
+KNOWLEDGE, SKILLS AND ABILITIES REQUIRED
+Demonstrates the skills and competencies necessary to safely perform the assigned job, determined through on-going skills, competency assessments, and performance evaluations
+Sufficient proficiency in speaking, reading, and writing the English language necessary to perform the essential functions of this job, especially with regard to activities impacting patient or employee safety or security
+Ability to effectively communicate with patients, physicians, family members and co-workers in a manner consistent with a customer service focus and application of positive language principles
+Understanding of business processes and requirements as related to the assigned (clinical or business) environment.
+Ability to support large scale clinical and ancillary systems
+Familiar with current database and operating systems as required for assigned applications
+Technical skills to support multiple applications
+Intermediate level competency in multiple applications or areas of clinical workflow.
+Demonstrated project management skills.
+Ability to problem solve and generate innovative solutions in conjunction with customers, vendors, and Information Technology
+SUPPLEMENTAL REQUIREMENTS
+Work Attire Yes/No
+
+
+Uniform No
+
+Scrubs No
+
+Business professional Yes
+
+Other (dept approved) No
+
+On-Call* Yes, on a regular basis (for Non-Exempt or Exempt jobs)
+
+*Note that employees may be required to be on-call during emergencies (ie. Disaster, Severe Weather Event, etc) regardless of selection above.
+
+
+Travel**
+
+May require travel within Yes
+
+Houston Metropolitan area
+
+May require travel outside Yes
+
+of Houston Metropolitan area
+**Travel specifications may vary by department.
+
+Please note any other special considerations to this job: __________________________
+
+Equal Employment Opportunity
+
+Houston Methodist is an Equal Opportunity Employer.
+
+Equal employment opportunity is a sound and just concept to which Houston Methodist is firmly bound. Houston Methodist will not engage in discrimination against or harassment of any person employed or seeking employment with Houston Methodist on the basis of race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, status as a protected veteran or other characteristics protected by law.
+
+VEVRAA Federal Contractor priority referral Protected Veterans requested.
+
+Company Profile
+
+Houston Methodist Research Institute was formed in 2004 to rapidly and efficiently translate discoveries made in the laboratory and the clinic into new diagnostics, therapies and treatments. The research institute was created to provide the infrastructure and support for these endeavors, and to house the technology and resources needed to make innovative breakthroughs in important areas of human disease. A 540,000 square foot building dedicated to research, the research institute houses over 1,500 staff and trainees, 277 principal investigators and has more than 840 ongoing clinical trials.

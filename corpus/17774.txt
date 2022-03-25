@@ -1,0 +1,38 @@
+DESCRIPTION
+
+
+Ring.com self-directed Senior Software Engineer to design and implement robust, scalable, cloud-based data processing systems As
+a senior member of our data team, you will assess and recommend architecture frameworks, design and implement proprietary high-performance solutions, define data ingestion and publication API’s, and contribute to the technical vision of our data processing infrastructure. If you are passionate about data and new technology, eager to seek challenging and innovative opportunities, and motivated to deliver the best customer experience, then our team is the perfect fit for you.
+
+Responsibilities
+· Work with engineering and business stakeholders to understand data requirements
+· Help shape the growth of transformative in-house big data resources and capabilities
+· Drive design, model, implement, and operate large, evolving, structured and unstructured datasets
+· Evaluate and implement efficient distributed storage and query techniques
+· Interact and integrate with internal and external teams and systems to extract, transform, and load data from a wide variety of sources
+· Implement secure and auditable data infrastructure as required
+· Train users on data capabilities and best practices
+BASIC QUALIFICATIONS
+
+
+· Bachelor’s degree in Computer Science or a related field
+· 5+ years of experience in Software Engineering / Data Engineering / Data Warehousing roles working in high traffic, fault tolerant, and highly available environments
+· 5+ years experience with SQL skills
+· 5+ years experience with Big Data Technologies (Hadoop, Hive, Hbase, Pig, Spark, etc.)
+· 2+ years of experience with Streaming platforms like Kafka or Kinesis
+· 2+ years of experience with Elasticsearch, Logstash, Splunk or similar technologies
+· 2+ years of experience with Scala, Golang, Python, Java, Ruby or a similar programming language
+PREFERRED QUALIFICATIONS
+
+
+· Experience implementing solutions to comply with GDPR and/or other Data Privacy regulations
+· Experience designing and implementing Data Governance programs
+· Experience with AWS
+· Experience integrating NoSQL alongside RDBMS such as Postgres or MySQL in a multi-tiered, globally replicated environment
+· Having planned and/or participated in terabyte-scale data migrations
+
+About Ring
+
+Ring's mission is to make neighborhoods safer by creating a Ring of Security around homes and communities with its suite of home security products and services. The Ring product line, along with the Ring Neighbors app, enable Ring to offer affordable, complete, proactive home and neighborhood security in a way no other company has before. In fact, two Newark, NJ neighborhoods saw an over 50 percent decrease in home break-ins after Ring Video Doorbells and Spotlight Cams were installed on 11% of homes in the communities from April-July 2018 when compared to the same time period in 2017. Ring is an Amazon company. For more information, visit www.ring.com. With Ring, you’re always home.
+
+Ring LLC is proud to be an equal opportunity employer and provides equal employment opportunities (EEO) to all employees and applicants without regard to race, color, religion, sex, national origin, age, disability, veteran status, sexual orientation, gender identity or genetics.

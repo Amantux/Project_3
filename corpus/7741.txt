@@ -1,0 +1,81 @@
+Overview
+
+Be part of the Data Science team of the innovative leader in healthcare financial decision support. EPSi, an Allscripts company, is currently seeking a Data Scientist to help build out our brand-new, state-of-the-art, next generation real-time platform in the cloud.
+
+Do you want to make a difference? Are you ready to shape your future into an exciting career? Do you want to work in an exciting environment that will enable you to use your passion, experience, and skills to help change healthcare for the better?
+
+With the right team, anything is possible. The talent of our team is what has made us a leader in healthcare budgeting and decision support. We hire the best people, and help them grow professionally, ensuring a bright future for our teams and our clients.
+
+We are looking for a Data Scientist who is responsible for collaborating with Business Analysts and other Business Stakeholders to design and develop complex systems based on data science and machine learning principles. Strong Python coding skills and familiarity with Python Data Science stack is a must.
+
+We want a hands-on design-oriented person who loves to turn an idea into code; and writes structured, well documented code that can easily go from development to production. Must be problem-solving oriented and pragmatic in approach. Being a team player and having a collaborative style is important. Insatiable curiosity about both the data and the business problem is imperative.
+
+Responsibilities
+
+Develops production-level Python code for near-real-time analytic healthcare cost platform of the future
+
+Maintains and expands existing Python code for future development
+
+Interfaces between design/development team and DevOps team to move Python code from development to production
+
+Collaborates with SMEs and business stakeholders to select and prepare relevant data for analysis
+
+Prepares train, test, and validate datasets either from raw customer files or already-cleaned and prepped data in Postgres or Redshift databases on AWS cloud
+
+Designs, codes, tests, validates, and documents Python programs for production, both descriptive and predictive analyses and algorithms
+
+Demonstrates intellectual curiosity about the business problem at least as much as about the analysis and the code
+
+Will work in a rapid application development/prototyping environment where one works more with subject matter experts and business stakeholders than with detailed design documents to determine business requirements
+
+Must have the desire and the flexibility to work closely, iteratively, and collaboratively with a diverse, fast-paced development team
+
+Works with business analysts and stakeholders to develop UI and data visualizations using a BI tool
+
+Qualifications
+
+Academic and Professional Qualifications:
+
+Bachelor’ Degree in related field or relevant technical/business experience
+
+Master’ Degree preferred
+
+Experience:
+
+Minimum of 3 to 5 years Python and Python Data Science stack experience (i.e., NumPy, Pandas, Matplotlib, scikit-learn)
+
+Minimum of 3 to 5 years SQL experience
+
+Familiarity with data modelling, database design, and Big Data environments, structured and unstructured data processing, business intelligence tools and concepts required
+
+Must have experience handling large amounts of data
+
+Experience with traditional forecasting models (ARIMA/SARIMA)
+
+Experience with statistical modeling in Python (StatsModels)
+
+Experience with data visualization, Tableau is a plus
+
+Some knowledge/experience with machine learning
+
+Experience with AWS platform a plus
+
+ Travel requirements:
+
+Less than 10%
+
+Working Arrangements:
+
+The preference is for someone based at the EPSi headquarters in Chesterfield, Missouri but we are open to an extremely strong candidate in a remote role.
+
+Core hours are based on Central time zone, but willing to be flexible in work schedule to accommodate various time zones of a global organization.
+
+Work is performed in a standard office environment with minimal exposure to health or safety hazards
+
+Allscripts offers a comprehensive compensation and benefits package, including holidays, vacation, medical, dental, and vision insurance, company paid life insurance and retirement savings.
+
+Allscripts policy is to provide equal employment opportunity and affirmative action in all of its employment practices without regard to race, color, religion, sex, national origin, ancestry, marital status, protected veteran status, age, individuals with disabilities, sexual orientation or gender identity or expression or any other legally protected category. Applicants for North American based positions with Allscripts must be legally authorized to work in the United States or Canada. Verification of employment eligibility will be required as a condition of hire.
+
+EPSi is a stand-alone brand, fully owned by Allscripts, with its own C-level and senior leadership. When you work for EPSi, you get the advantages and benefits of working with a large, public company with the innovative culture and direction and of a small, nimble company.
+
+From a "VEVRAA Federal Contractor" We request Priority Referral of Protected Veterans

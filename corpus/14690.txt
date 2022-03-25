@@ -1,0 +1,40 @@
+Sr. Data Visualization Developer / Sr. Data Visualization Engineer
+Job Summary
+This role is responsible for designing and creating compelling and insightful data and advanced analytics visualization applications for executive-level stakeholders. The successful candidate should have a natural curiosity about business questions and needs related to advanced analytics, knowledge of advanced analytic modeling approaches, and an outstanding ability to communicate advanced analytic model outputs through visually captivating and impactful interactive applications that drive business decisions and support CGI’s strategic priorities.
+Essential Duties and Responsibilities
+Design, develop, implement, and maintain complex interactive visualization applications using modern JavaScript libraries.
+Engage with executive-level stakeholders to understand business strategies and needs related to advanced analytics, and translate requirements into captivating designs and sustainable applications
+You’ll understand tools like D3.js, Angular, VUE, React, Semiotic and R Shiny etc – knowing the strengths and tradeoffs of each; and can guide the team on selecting the best tool for the task.
+You’ll work with the data scientists to determine the best approach to communicating the analysis or model, then bring it all the way from design through development to production.
+You’ll work with the data engineers to ensure the sustainable data pipelines you need are available to, and consumed by, your visualization tools in a robust, maintainable way.
+Create documentation and deliver training to business users on the use of developed tools to drive user adoption
+Establish subject matter expertise and strongly influence CGI’s data visualization strategy and enterprise tool selections
+Maintain and advance professional and technical skills and knowledge
+Provide leadership to third-party contractors
+Protect CGI reputation by keeping information confidential
+Minimum Qualifications
+
+Education/Certifications:
+Bachelor’s degree in computer science, information technology, design, or other quantitative field
+Experience:
+3+ years of hands-on professional design and development of complex interactive advanced data visualization applications
+Experience implementing solutions using JavaScript-based data visualization libraries and tools, such D3.js, and building web and mobile interfaces for displaying applications across a range of devices
+Proficiency with front end development tools such as HTML5, CSS3, and Node.js
+Experience working with business stakeholders
+Knowledge, Skills, and Abilities:
+Demonstrated knowledge of core concepts in data visualization design
+Familiar with connecting data to visualizations through RESTful APIs
+Exceptional problem solving / analytical thinking and skills
+Natural sense of urgency, teamwork, and collaboration reflected in daily work ethic
+Must thrive in a dynamic and changing environment
+Outstanding attention to detail
+Strong communication skills
+Preferred Qualifications
+
+Education/Certifications:
+Master’s degree in quantitative field
+Experience:
+5+ years of professional experience, with 2+ years of experience using data and visualization to influence executive-level decision making
+Knowledge, Skills, and Abilities:
+Familiarity with modern advanced analytics and Machine Learning techniques
+Familiarity with business intelligence visualization tools such as Qlikview/QlikSense, Tableau, or Power BI a plus

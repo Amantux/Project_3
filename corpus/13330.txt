@@ -1,0 +1,47 @@
+WHO WE ARE
+
+
+Postmates enables anyone to have just about anything on-demand. We pioneered the on-demand space and currently serve 3500+ cities with a fleet of more than 350,000 Postmates and the largest network of merchants in the US. We're changing the landscape of commerce by making cities our warehouses, providing the delivery infrastructure, and connecting our customers to any product, anywhere, anytime. Postmates isn't just an app, it's a way of life and a part of pop culture. We are the O.G. of on-demand and we've given people a new superpower — the ability to Postmate anything from anywhere. We're building a movement to make Postmates a verb: Postmate it.
+
+WHAT WE DO
+
+
+Postmates relies heavily on our engineering team to realize this vision. Building a software platform that is reliable, scales, and stays agile under demanding product needs is a serious technical challenge. Postmates is a three-part balancing act connecting customers, merchants, and couriers in real-time. If any piece is out of whack, the whole system suffers. Working with the Postmates engineering team offers an opportunity with explosive growth, cutting-edge technology, a highly visible charter, and a cool user-focused product vision.
+
+Postmates runs one of the largest real-time delivery fleets in the country and collects a tremendous amount of data about those deliveries. And we view that data to be core to our product roadmap and business processes.
+
+This team includes Data Engineers and Data Infrastructure Engineers. We're looking for engineers with a proven track record of shipping high-impact data systems. We care much more that you understand how to build simple, clear, and reliable tools than you have experience with any given toolset or pattern. We love learning, and we expect that you will learn new things and teach us new things as we build out the Postmates data infrastructure. The systems built in this team will have a critical impact on all our data pipelines by helping transition all Postmates services to an event-driven model, and helping build data-driven products that match our millions of customers to couriers in near real-time.
+
+YOUR RESPONSIBILITIES
+Design, build and operate large scale data infrastructure systems across all environments to store, aggregate and process large amounts of data
+Implement various ETL infrastructures and guidelines on how to most effectively build and maintain them for reporting, analytics and product features
+Write maintainable and self-documenting code, perform code reviews
+Build a data platform-as-a-service for internal consumers, operating on open-source technologies on AWS and GCP
+Serve in the on-call rotation to make sure our data infrastructure is highly available to all internal customers
+Support our Applied Machine Learning team
+OUR REQUIREMENTS
+Bachelor's degree (or equivalent experience) required
+Minimum of 5 years of relevant professional experience
+Experience building on, deploying, and maintaining open-source data infrastructure systems (HDFS, Spark, ZooKeeper, Druid, etc.) in production environments
+Experience with various types of data sources including relational stores such as MySQL, PostgresSQL and NoSQL data stores such as Cassandra or MongoDB and in-memory stores like Redis or Memcache
+Understanding of distributed systems and principles (consistency, durability, resilience, consensus)
+Experience working with cloud-native infrastructure on the public cloud (we operate on GCP and AWS)
+Ability to declare and work with infrastructure-as-code (all our infrastructure is defined in Terraform or Deployment manager)
+Ability to write clean and maintainable code (our codebases are in Python, Go, Erlang, and Java)
+YOUR BENEFITS
+
+
+Postmates has your back. In our impact-first work environment, we value huge company vision. As you strive to build the future with us, we'll support you with:
+Competitive salary and generous stock option plan.
+Access to the Postmates 401(k) plan.
+100% coverage for employees medical, dental, and vision insurance.
+95% coverage for dependents medical, dental, and vision insurance.
+Pre-tax Flexible Spending Account (FSA) for qualified out-of-pocket health care costs.
+Flexible time off policy under which Postmates will not limit paid time off for vacations or to handle personal affairs. (Salaried US Employees)
+16 days paid time off and 7 days paid sick leave (Hourly US Employees; amount of paid sick leave depends on state).
+3 days paid time to volunteer through CivicLabs and positively impact the communities we serve.
+Generous parental leave including flexible transition plans, Postmates meal credit, and subsidized access to the Milk Store, Urban Sitter, and Concern.
+Free and confidential counseling resources through an Employee Assistance Program.
+Pre-tax Commuter Benefits for parking or transit fees.
+A free subscription to Postmates Unlimited.
+Catered lunches, open snack bar, and subsidized Postmates Pickup meals.

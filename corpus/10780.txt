@@ -1,0 +1,41 @@
+We are looking for a Data Scientist to apply data mining techniques, do statistical analysis, and build high quality prediction systems integrated with the Datatron platform.
+
+Your responsibilities will include:
+
+Selecting features, building and optimizing machine learning models
+
+Data mining using state-of-the-art methods
+
+Predictive analysis on large datasets
+
+Requirements
+
+Experience with building non-trivial machine learning models
+
+Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc.
+
+Experience with open-source machine learning packages, such as Sci-kit Learn, Weka, etc.
+
+Experience with at least one object-oriented, scripting language (Python, Java/Scala, Ruby, Perl)
+
+Proficiency in using query languages such as SQL, Hive or Pig
+
+Good applied statistics skills, such as distributions, statistical testing, regression, etc.
+
+Good To Haves:
+
+Experience building deep learning models using open-source frameworks e.g. Tensorflow, Keras, Pytorch
+
+Experience with data visualisation tools, such as Matplotlib, Plot.ly, D3.js, GGplot, etc.
+
+Experience deploying machine learning models in production
+
+Benefits:
+
+Lunch provided daily
+
+Health, Dental, Vision
+
+Close proximity to Caltrain
+
+Free parking on-site

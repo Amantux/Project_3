@@ -1,0 +1,27 @@
+The AWS Well-Architected Tool team is hiring Data Engineers!!
+Imagine if you could help shape the future of architecture, and go on a journey where few have tread before. AWS Well-Architected aims to help our customers develop technical expertise in AWS services, learn how to architect their cloud applications, and provide a great experience for customers and partners.
+AWS is one of Amazons fastest growing businesses. More than a million active customers, from Airbnb to SAP, use AWS Cloud solutions to deliver flexibility, scalability, and reliability. As a Data Engineer at Amazon, your Primary responsibilities will be
+· Design, implement and support an analytical data infrastructure providing ad-hoc access to large datasets and computing power.
+· Interface with other technology teams to extract, transform, and load data from a wide variety of data sources using SQL and AWS big data technologies.
+· Creation and support of real-time data pipelines built on AWS technologies including Glue, Redshift/Spectrum, Kinesis, EMR and Athena
+· Continual research of the latest big data and visualization technologies to provide new capabilities and increase efficiency
+· Working closely with team members to drive real-time model implementations for monitoring and alerting of risk systems.
+· Collaborate with other tech teams to implement advanced analytics algorithms that exploit our rich datasets for statistical analysis, prediction, clustering and machine learning
+· Help continually improve ongoing reporting and analysis processes, automating or simplifying self-service support for customers
+
+
+Basic Qualifications
+
+· 2+ years of industry experience in software development, data engineering, business intelligence, data science, or related field with a track record of manipulating, processing, and extracting value from large datasets
+· Demonstrated strength in data modeling, ETL development, and data warehousing
+· Experience using big data technologies (Hadoop, Hive, Hbase, Spark etc.)
+· Knowledge of data management fundamentals and data storage principles
+· Experience using business intelligence reporting tools (Tableau, Business Objects, Cognos etc.)
+
+Preferred Qualifications
+
+· Degree/Diploma in computer science, engineering, mathematics, or a related technical discipline
+· Experience working with AWS big data technologies (Redshift, S3, EMR)
+· Experience building/operating highly available, distributed systems of data extraction, ingestion, and processing of large data sets
+· Experience working with distributed systems as it pertains to data storage and computing
+· Knowledge of software engineering best practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes, testing, and operations

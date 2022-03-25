@@ -1,0 +1,58 @@
+NG - 017
+Big Data Engineer
+
+San Jose, California, USA
+
+JOB TITLE
+
+
+Big Data Engineer
+
+Job Duties
+
+
+• Complete spark and hive based ETL framework with Python/Java/Scala along with AWS services and Cloud.
+
+• Write the Python Pyspark code for data analysis and data management and spark development for reports.
+
+• Design AWS migration Python framework application which helps the Data engineering team data pipelines migration from On-prem to AWS cloud.
+
+• Translate business requirements into flow charts and user stories as a baseline for development for Data pipelines with automation tools to eliminate human error and speed up production processes.
+
+• Write SQL and NoSQL queries for different data requirements.
+
+• Participate in designing and develop pipelines from different type resources.
+
+• Deploy AWS EMR cluster and create data for reports using Spark and Hive.
+
+• Write CloudFormation scripts to provision different AWS resources.
+
+• Manage the AWS EMR clusters to complete data generation.
+
+• Analyze data and create data pipeline for data modeling and data quality.
+
+• Contribute and implement the continuous integration and continuous delivery pipeline
+
+• Ensure data availability, data quality and data modeling smooth process.
+
+• Act to find out the root cause of any issues, while generating the data using spark and Hadoop eco system components with AWS services and cloud services.
+
+• Implement data management using Redshift, HBase, Kafka, spark, hive and sqoop.
+
+• Create reports using AWS Glue, AWS Athena, Hadoop, Spark, AWS EMR, Hive and Databricks Platform.
+
+• Ability to communicate with data analysts, Data scientists and Clients requirements for Data, to deliver the data from data pipelines. Taking proactive identification & resolve the incidents in data delivery process.
+
+• Review Design, code changes, test scenarios and test results to onboard the migration changes.
+
+Job Requirements
+
+
+Required Bachelors or foreign equivalent in CS, CA, CIS, IT, MIS, Engineering (Any), or any related field. Must be able to travel/relocate to various client sites throughout the U.S.
+
+Location of Work
+
+
+San Jose, CA.
+
+To apply please send resumes to NextGen Technologies Inc., 1735 N 1st ST. Ste#308, San Jose, CA 95112 or email resumes to kushal@nextgentechnologiesinc.com.

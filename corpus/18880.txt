@@ -1,0 +1,40 @@
+Scientific Research Corporation is an advanced information technology engineering company that provides innovative products and services to government and private industry, as well as independent institutions. At the core of our capabilities is a seasoned team of highly skilled engineers and scientists with multidisciplinary backgrounds. This team is challenged daily to provide cutting edge technology solutions to our clients.
+
+PRIMARY DUTIES & RESPONSIBILITIES:
+Assist with development, maintenance, and tracking of System Categorization, Security Plan (SP), Ports, Protocols, and Services Management (PPSM) registration, Department of the Navy Application and Database Management System (DADMS) registration, Security Assessment Plan (SAP), and System Level Continuous Monitoring (SLCM) Strategy
+Identify and tailor the security control baseline with applicable overlays
+Develop and perform security testing and assist with security control implementation
+Make data entries into the Enterprise Mission Assurance Support Service (eMASS) and POA&M consistent with implementation results
+Perform validation of a system's or network's security controls, known threats, vulnerabilities, and document in eMASS
+Prepare and complete a Security Assessment Report (SAR) and SAR Executive Summary based on validation results
+Review and concur/non-concur with a Validator's residual risk assessment
+Perform vulnerability-level risk assessment on the POA&M
+Ensure traceability of all vulnerabilities from raw assessment results to the POA&M
+Perform cybersecurity testing throughout the system lifecycle to assess security controls and record security control compliance status in eMASS
+Perform vulnerability assessments against cyber directives and determine deviations from configurations or policies, develop mitigations, and document results in VRAM
+Consult on the development and maintenance of a system's cybersecurity solutions
+Translate security requirements into application design elements including documenting the elements of the software attack surfaces, conducting threat modeling, and defining any specific security criteria
+Verify minimum cybersecurity requirements are identified or waived for systems or applications
+Perform comprehensive assessments of the management, operational, and technical security controls and control enhancements employed within or inherited by DoD IT to determine the overall effectiveness of controls
+Provide cybersecurity recommendations based on significant threats and vulnerabilities
+Develop and/or support security compliance processes and/or audits for external services (e.g., cloud service providers, data centers)
+Consult with engineering staff to evaluate interface between hardware and software
+Analyze and report the effectiveness of security controls
+Analyze and report system security posture and trends
+Analyze and report security measures to resolve vulnerabilities, mitigate risks and recommend changes to system or system components as needed
+Analyze and report security measures to ensure confidentiality, integrity, availability, authentication, and non-repudiation
+Analyze and report security deficiencies identified during security/certification testing and/or recommend mitigations and risk acceptance
+Analyze security of new or existing computer applications, software, or specialized utility programs and provide actionable results
+Ensure cybersecurity-enabled products or other compensating security control technologies reduce identified risk to an acceptable level
+Apply coding and testing standards, apply security testing tools including "'fuzzing" static analysis code scanning tools, and conduct code reviews
+Identify basic common coding flaws at a high level
+Perform program testing, review, and/or assessment to identify potential flaws in codes and identify mitigations
+Perform risk analysis (e.g., threat, vulnerability, and probability of occurrence) whenever an application or system undergoes a major change
+Verify and update security documentation reflecting the application/system security design features
+Assist in the mitigation and closure of open vulnerabilities under the system's change control process
+Maintain information systems assurance and accreditation materials using online, collaborative tools
+Scientific Research Corporation offers a competitive salary, an extensive benefits package and a work environment that encourages excellence. Applicants selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information.
+
+Scientific Research Corporation is an equal opportunity and affirmative action employer that does not discriminate in employment.
+
+All qualified applicants will receive consideration for employment without regard to their race, color, religion, sex, age, sexual orientation, gender identity, or national origin, disability or protected veteran status.

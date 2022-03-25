@@ -1,0 +1,39 @@
+Title: Machine Learning Engineer
+
+Company: Samsung Research America (SRA)
+
+Lab: Think Tank Team
+
+Location: Mountain View, CA
+
+Lab Summary:
+
+The Think Tank Team is an interdisciplinary collective of researchers, designers, scientists and engineers located in Mountain View, CA. Our mandate is to explore what's next for Samsung by applying bleeding-edge advances in software, machine learning, computer-human interaction, sensor and display technologies to solve real-world challenges that will transform users' experiences in ways we can only just glimpse on the horizon today.
+
+TTT began as a small team in 2012 and brought its first concept -- the Samsung Gear watch -- to market one year later. Since then we have released several projects such as the Beyond 3D/360/4k camera for AR/VR cinematography, the BotChef cooking robot, the Ballie personalized companion, and others. We work on a wide variety of time scales, advancing science and applying it to create new products and experiences that will impact the lives of millions.
+
+Our team members represent a diverse skillset, including electrical engineering, computer engineering, signal processing, machine learning, computer vision, visual design, interaction design, industrial design, optics, physics, and more from institutions such as MIT, Caltech, Stanford, CMU, Oxford and others. We believe that the best way to show is to design and build prototypes, and that the best products come from teams collaborating to understand and solve a problem from multiple perspectives. We believe that design and creativity are core duties of every member of our team.
+
+Qualifications & Skills
+
+You must be passionate about creating new devices and technologies, and ready to learn on the fly, solve complex problems, work closely with others, and creatively approach design and engineering tasks at all scales. We believe a person's work speaks for itself, and welcome everyone with the right drive, attitude, and skills.
+BS/MS/PhD degree in Computer Science or related technical field or equivalent practical experience.
+2 years of work experience in Machine Learning or Artificial Intelligence in real-world settings.
+Strong C++ and/or Python skills.
+Ability to rapidly prototype with leading ML frameworks.
+Experience with current state-of-the-art methods from machine learning & deep learning libraries such as TensorFlow, Caffe, Scikit-Learn, Scipy, Pandas, Torch and others.
+Experience with a multitude of machine learning methods such as SVMs, logistic regression, boosting, decision trees, clustering, HMMs etc.
+Experience with CV libraries such as OpenCV
+Experience in multiple forms of machine leaning, from the very simple to the most complex.
+Experience in creation of novel custom features and pre-processing approaches to improve baseline algorithms. Work should go beyond using standard libraries.
+Solid understanding of proper evaluation including folds, cross-validation and metrics.
+Experience with one or more of the following: Natural Language Processing, GANs, autoencoders, Reinforcement Learning, CNNs, and others.
+Flexibility to deal with rapidly changing environment.
+Prior experience with signal processing from sensor data is a plus.
+Responsibilities
+Participate in cutting edge research in machine intelligence and machine learning applications. Leverage expertise from ML research and develop novel predictive models/algorithms
+Develop solutions and algorithms that can be applied in variety of real-world applications and devices.
+Work closely with researchers and engineers from variety of disciplines to develop new algorithms, product concepts and core-technologies that will bring new business opportunities to Samsung.
+If this is something you would love to do, let us know. Show us what you have built, and tell us what you would like to build next!
+
+Samsung is an EEO/Veterans/Disabled/LGBT employer. We welcome and encourage diversity as we strive to create an inclusive workplace.

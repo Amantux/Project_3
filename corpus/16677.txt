@@ -1,0 +1,28 @@
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.The Infrastructure Quantitative Engineering group is responsible for the strategic analysis to support and enable the continued growth critical to Facebooks infrastructure organization. We are applied quantitative and computational experts using math, statistics and machine learning to measure & optimize cost, performance, reliability and efficiency of Facebooks infrastructure & global telecom systems to deliver the best experience to our global audience. The ideal candidate will be passionate about Facebook, have strong analytical and modeling aptitude and has experience using data to drive cost effective decision making.This position has a 16-week duration beginning in August 2020. All candidates should be able to commit to a consecutive 16-week timeframe for successful completion of the program. At the end of the term, those who have demonstrated their abilities to succeed and make an impact at Facebook will be considered for a full-time position. Candidates are encouraged to apply early!This program is open to all candidates who have been out of the workforce for 2 years of longer. This is a 16-week position based in Menlo Park, CA; Seattle, WA; and Boston, MA.
+
+Responsibilities:
+
+Build pragmatic, scalable, and statistically rigorous solutions to large-scale web, mobile and data infrastructure problems by leveraging or developing state-of-the-art statistical and machine learning methodologies on top of Facebook's unparalleled data infrastructure
+Work cross-functionally to define problem statements, collect data, build analytical models and make recommendations
+Build and maintain data driven optimization models, experiments, forecasting algorithms, and machine learning models
+Leverage tools like Python, R, Hadoop & SQL to drive efficient analytics
+Communicate final recommendations and drive decision making
+Mininum Qualifications:
+
+Degree in quantitative field (e.g. Computer Science, Engineering, Mathematics, Statistics, Operations Research or other related field)
+2+ years of industry or graduate research experience solving analytical problems and building models using quantitative, statistical or machine learning approaches
+Experience with Machine Learning, Statistics, or other data analysis tools and techniques
+Experience performing data extraction, cleaning, analysis and presentation for medium to large datasets
+Experience with at least one programming language (i.e. Python, R, Java, or C++)
+Experience writing SQL queries
+Experience with scientific computing and analysis packages such as NumPy, SciPy, Pandas, Scikit-learn, dplyr, or ggplot2
+Experience with statistics methods such as forecasting, time series, hypothesis testing, classification, clustering or regression analysis
+Experience with data visualization libraries such as Matplotlib, Pyplot, ggplot2
+Preferred Qualifications:
+
+Advanced degree (Masters or PhD or Equivalent experience) in quantitative field
+Experience working with distributed computing tools (Hadoop, Hive, Spark, etc.)
+Proficiency in algorithmic complexity
+Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.
+
+Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.

@@ -1,0 +1,31 @@
+Garner Health is a unique health benefit for employers that helps employees find and access the best possible doctors nearby. Using our proprietary doctor quality ranking algorithms, consumer-friendly product tools, and creative financial incentives, we are able to guarantee a 10% cost savings for employers while lowering employee cost shares and improving the care experience.
+
+The company is led by former Oscar Health leadership and has secured funding from top-tier venture capital firms.
+
+Were looking for a Data Scientist to join the team to help build out the firms proprietary algorithms that rank individual doctor quality. These algorithms are a key component of the companys product that significantly decreases healthcare costs while improving clinical outcomes.
+
+Responsibilities will include:
+
+-Work with Garners CEO and analytics team to conduct deep research and understand how to measure the quality and efficiency of doctors.
+
+-Interact with external clinical resources to ensure models are consistent with best clinical practice.
+
+-Architect and write code that will process claims data and derive scores for individual doctors.
+
+-Administer databases and data pipelines in a quickly evolving system.
+
+-Run ad-hoc analytics to demonstrate the value of the companys product to customers.
+
+The ideal candidate has:
+
+-2+ years of continuous professional experience in an elite and fast-paced work environment with a track record of authoring complex analytics.
+
+-A demonstrable ability to write sophisticated code in Python and SQL for production systems. Bonus for experience in backend app development.
+
+-Strong conceptual thinking: the ability to understand complex systems and think in frameworks.
+
+-A desire to work in a rapidly evolving startup environment. Previous startup experience is not essential.
+
+-A desire to be a part of our mission to improve the healthcare system. Bonus for working with claims data previously.
+
+Powered by JazzHR

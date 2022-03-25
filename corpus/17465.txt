@@ -1,0 +1,48 @@
+Technical Lead, Data Engineering
+
+
+About Us:
+
+At Teachers Pay Teachers (TpT), we're unlocking the power of educator-created content. More than 3 out of 4 teachers in the U.S., Canada, and Australia come to TpT every year to get teacher-tested, engaging, and rigorous materials. What began as a humble exchange for teachers looking to share lesson plans has since exploded into a massive marketplace where teachers have created more than 4 million resources for all aspects of PreK-12 education. More than six million educators worldwide (including teachers, administrators, and parents) have downloaded TpT resources more than a billion times. That's why Fast Company named us one of the top 50 Most Innovative Companies in the world in 2019, and awarded us the #1 spot for the education sector.
+
+If you haven't heard of TpT yet and want to learn more, just ask a teacher.
+
+Who we are looking for:
+
+We're a team of good people doing great things. We listen first. We love our work. And we are all teachers and learners in whatever we do. We believe that productivity is never an accident. It's the result of a commitment to excellence, intelligent planning, passionate teamwork, and focused effort. We want every day to be fun and to matter.
+
+Role:
+
+As the Technical Lead for the Data Engineering at TpT you will be designing, building and iterating on the architecture that will provide clean, reliable, and curated data to systems and internal stakeholders. Along with your manager, you'll ensure the team's projects and processes are focused, on track, high quality and that partnerships with other teams are effective and coordinated.
+
+You'll help to build and improve our Data Warehouse, pipelines, and related infrastructure by using your ability to think systematically, abstractly, and empathetically.
+
+Some things you may be responsible for include:
+Contributing code to iterate on our data models and infrastructure
+Scaling up your impact through team leadership and technical project management
+Acting as a mentor to other engineers on the team
+Shepherding technical decisions for the team
+Balancing technical debt and ensuring high code quality
+Monitoring and maintaining the team's products in production
+Collaborating with product stakeholders to scope and refine projects
+Working with the team to improve processes and keep things running smoothly
+Qualities for a successful candidate
+Strong grasp of advanced SQL, including windowing functions, nested queries, regular expressions, and a solid understanding of how relational databases and cloud data warehouses work.
+Experience with data warehouse design and development, including dimensional modeling and ETL/ELT pipelines.
+Experience with backend web development practices and tools, including CI/CD, SQL databases, APIs, git/GitHub, etc.
+Experience with building, scaling, and monitoring resilient systems.
+Enjoys working collaboratively with peers across business and engineering teams.
+Comfortable with mentoring teammates, communicating, and teaching your learnings.
+Experience with many of the primary tools we use: BigQuery, dbt, Looker, Airflow, Kubernetes, AWS, Python.
+At least three years of experience as a data engineer.
+Strong communications skills, including the ability to speak clearly to technical and nontechnical audiences and to write clearly.
+Extra Credit for
+Experience with Ed-Tech or ecommerce marketplaces.
+Experience as a Business/Data Analyst or related role.
+Relevant education, such as a degree or substantial coursework in a field such as Computer Science.
+Open source contributor or active in your professional community.
+Here at TpT we value Diversity & Inclusion and encourage people to bring their most authentic selves to work. We cultivate an environment where people are recognized and celebrated for their individuality.
+
+Any TpT applicant who requires reasonable accommodations during the interview process can contact the TpT People Ops Team (accommodations@teacherspayteachers.com) to make the need for an accommodation known.
+
+Finally, if you're a California resident, California law requires that we provide you notice about the collection and use of your personal information. We encourage you to read it carefully. You can find our full notice here.

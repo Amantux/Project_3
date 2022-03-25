@@ -1,0 +1,123 @@
+Position Details
+
+Title of Position Enterprise Systems Engineer
+Requisition Number BES20200234P
+Department Posting Name Enterprise Infrastructure Systems
+Location Main Campus
+Recruitment Type External
+Position Type This is a Classified, benefits eligible, position.
+Grant Funded? No
+Hours per week 40
+If employee will be working a schedule other than Monday - Friday, 8:00am - 5:00pm, specify hours and days to be worked
+
+This position will be required to participate in an on-call rotation (nights and weekends) for one week at a time. The frequency of the on-call rotation may vary.
+If Temporary, Ending Date
+Recruiting Rate $65,000-$78,000/Annualized (beginning salary negotiable based on qualifications)
+Beginning Salary Flexibility Yes
+Pay Basis Salary
+Required Education Bachelor's Degree
+Do you want to allow additional experience to substitute for required education? Yes (1 Year Experience = 1 Year Education)
+Preferred Education Bachelor's Degree
+Field of Study
+
+Preferred Information Systems or Computer Science.
+MS Office Experience Required Word, Excel, PowerPoint, Outlook, Access
+Will this position require driving a UT or personally owned vehicle? Yes - Marginal Function
+Other Computer and Software Skills Required
+
+N/A
+Experience and Other Skills Required
+
+Five (5) years of experience with common server hardware architecture including servers (CPU, bus, memory), SANS, disk arrays, network hardware.
+
+Three (3) years of experience with Operating Systems (e.g., Windows, Solaris, OR Linux, including processes, files, memory management and I/O systems; distributed information systems including 2 and 3 tier designs, and web based systems; networking services and protocols (e.g., TCP/IP, SSL, FTP, Telnet, LDAP).
+
+Basic understanding of IP networking, basic routing, TCP ports and network services, including SSH, LDAP, SFTP and HTTP.
+
+Ability to design, promote, and implement change control and configuration management, patch management, high availability systems, structured design and support methodologies.
+Do you want to allow additional education to substitute for required experience? No
+Other Skills Preferred
+
+Five (5) years of experience in supporting, configuring, administering, monitoring Red Hat/CentOS Linux operating systems in an enterprise environment.
+
+Two (2) years of experience in automation/administration utilizing Red Hat Ansible/Tower, Puppet, Chef or other automation technologies.
+
+One (1) year of experience in Red Hat/CentOS patch management utilizing Red Hat Satellite server or similar technologies.
+
+One (1) years of experience in administering VMware in an enterprise environment.
+
+One (1) year of experience in managing, administering and maintaining system level backups.
+
+Understanding of Red Hat/CentOS server operating system processes, files, memory-management, security, host-based firewall, and user-management.
+
+Understanding of system level monitoring, alerting, and performance optimization.
+
+Understanding of directory services and related concepts such as LDAP,
+Active Directory, Shibboleth.
+
+Ability to program/script system support tasks in Power Shell, bash, or other general-purpose system configuration management tools.
+
+Understanding of LAMP, WordPress, Web server support.
+
+Understanding and ability to diagnose and troubleshoot systems, networking services and protocols issues.
+
+Excellent communication and teamwork skills.
+
+Ability to work in a diverse and fast paced team environment.
+
+Ability to handle diverse situations, multiple tasks and rapidly changing priorities.
+
+Ability to recognize procedural issues, advise corrective actions and escalate when appropriate.
+
+Excellent analytical and time management skills.
+Description of Job Duties
+
+1. Plans and designs implementation of new servers, storage products, and applications. Documents processes, procedures, and proposes improvements.
+
+2. Architects, manages, tests, and provides support to multiple enterprise wide systems and servers in a data center environment
+
+3. Designs, installs and supports enterprise-wide computing systems, and related infrastructure, e.g., Active Directory, BIND, CIFS, NFS, WINS, DNS, DHCP.
+
+4. Architects and implements security for server protection and client access.
+
+5. Analyzes server requirements from functional specifications.
+
+6. Develops and maintains hardware and application documentation standards in enterprise data center environment.
+
+7. Consults on server application design; coordinates changes to server applications, including upgrades, patches and fixes.
+
+8. Schedules and performs installation and upgrades and maintains them in accordance with established Information Technology policies and procedures.
+
+9. Monitors and tunes the system to achieve optimum performance levels.
+
+10. Recognizes and troubleshoots problems with server hardware and applications.
+
+11. Ensures data or media recoverability by implementing a schedule of system backups.
+
+12. Supports media management through internal methods and procedures and through offsite storage and retrieval services.
+
+13. Conducts routine hardware and software audits of servers to ensure compliance with established standards, policies, and configuration guidelines.
+
+14. Develops and maintains a comprehensive operating system hardware and software configuration database or library of all supporting documentation.
+
+15. Assists with special projects, as needed.
+
+16. Knowledge of all Microsoft Office software and able to learn and use institutional software systems.
+
+17. Complies with all State and University policies.
+
+18. Other duties may be assigned.
+Posting Open Date 06/26/2020
+Posting Close Date at midnight on
+Open Until Filled Yes
+Special Notes To Applicants
+
+-UTSA is a tobacco-free campus.
+
+-UTSA is an Equal Employment Opportunity/Affirmative Action Employer. Minorities, women, veterans, and individuals with disabilities are encouraged to apply.
+
+-This is a security sensitive position. Employment is contingent upon a successful background check.
+
+-Applicants who are selected for interviews must be able to show proof that they are eligible and qualified to work in the United States by time of hire.
+
+-At the discretion of the hiring department, this position posting may be closed once a sufficient number of qualified applications has been received.

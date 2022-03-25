@@ -1,0 +1,17 @@
+The Vendor Data Group is part of the larger Core Development team at Jump Trading and is responsible for curating a centralized source of research and reference data for the firm to utilize. The Vendor Data Group operates in a very dynamic environment utilizing a sophisticated and diverse technology stack. The team interfaces with all aspects of the firm, from Trading, Research, and Technology to Risk, Middle Office and Accounting – providing individuals within the group a full 360-degree view of Jump. The role offers the individual the opportunity to develop both business and technical expertise, while significantly contributing to our evolving code base.
+
+The ideal candidate will be able to dig into the technical details and work with end-users to understand their needs and implement streamlined solutions to deliver results. We are looking for individuals who are instinctively curious self-starters, demonstrating the ability to independently drive tasks and projects to completion in a team environment.
+
+What you'll do:
+Working with a variety of datasets provide a scalable, centralized, validated representation of reference data for consumers to utilize. This includes though is not limited to Security Master, Corporate Actions, Pricing and Entity Master data.
+Review and understand various datasets leveraging vendor documentation, liaising with external vendors as needed to better understand data.
+Anticipate data behavior, based on analysis and understood vendor and market conventions, and implement appropriate solutions and controls to identify and resolve issues during daily processing.
+Skills you'll need:
+At least 2+ years of demonstrated strong development skills in Python
+Exposure/use of data analytics tools such as Pandas a bonus
+Strong unit-testing / test-driven coding style
+Willingness to diversify and master other technical skills on the job
+Experience working with relational databases
+Hands-on experience working within a Linux environment
+Excellent written and verbal communication, analytical, and problem-solving skills
+If you are currently a student or recent graduate, please see our Campus postings which offer both intern and full-time opportunities.

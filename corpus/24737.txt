@@ -1,0 +1,13 @@
+Business Analyst
+
+Understanding of and experience with extracting business requirements from direct interviews with users, business process owners, and IT.
+
+Regarding user interviews, candidate must be able to identify and understand workflows, data touch points and interactions with systems such that use cases and user stories can be created that “leave no stone unturned” and are comprehensive, exhaustive and ensure the solution will meet ALL requirements.
+
+Business Analyst candidates should have an eye toward BPI and Innovation while understanding the WHY of current state BPs, workflows, data sources, data uses, and be able to identify ALL “players” (human, software, data source, etc.) in each BP / workflow. Their work product should expose data integration points. Their experience and skill should allow them to quickly identify where the integration challenges and major affected systems lie inside the solution AND at the boundaries.
+
+Regarding IT, the candidate MUST be able to speak (and understand) their language and use their terms correctly. Successful Bas understand and have experience in BOTH business and technology. Their career path should be headed toward Solution Architect and recent work experience should exhibit that aspiration. They should enjoy being mentored by EA / SA roles. They should understand major HW platforms, SW packages, the role of databases, why SOA adds value and what that value is, the role of “Cloud”, the impact of Mobile, and some appreciation of custom SW vs. package integration.
+
+In all cases, their work products should “stand alone” and be clearly understood by other team members anywhere in the world without rework or excessive explanation.
+
+Desired Skills: Experience with (does NOT have to be expert in) SAP, Salesfoce.com, Configure-Price-Quote (CPQ), ERP functional areas, CRM solutions, data migration, MDM, Informatica

@@ -1,0 +1,46 @@
+The Data Platform at Blackbaud is a core domain service that enables engineers and data scientists to store, discover, enrich, and use data across Blackbaud. This scalable and performant big data platform supports data science, data enrichment, research, modeling, machine learning and data analysis as well as making data operationally able to be consumed by Blackbaud’s products and services.
+
+The Data Platform Architect sets the technical direction that assists engineers and data engineers to take on large, complex data problems/initiatives. This role has considerable technical influence within the Data Platform, Data Engineering teams, and the Data Intelligence Center of Excellence at Blackbaud. This individual acts as an evangelist for proper data strategy with other teams at Blackbaud and assists with the technical direction, specifically with data, of other projects. The Data Platform Architect has wide-ranging experience and extensive knowledge in all parts of our data platform and major parts of our data engineering tech stack, serving as strategy and process owner of significant components of our data architecture. This role provides high-level guidance, technical mentoring, and influencing technical direction within the Data Teams. They are also creativity leaders, finding alternatives and new approaches to difficult problems and application of data and insight.
+
+In addition to the technical architecture responsibilities this role will help craft the vision for how Blackbaud’s Data Strategy helps nonprofit organizations be more effective raising money and facilitating their visions.
+
+What will I be doing?
+Develop and direct the strategy for all aspects of Blackbaud’s Data Platform
+Defining how legacy products integrate data to newer offers
+Set, communicate and facilitate technical direction more broadly for the Data Intelligence Center of Excellence and collaboratively beyond the Center of Excellence
+Build data access strategy to securely democratize data with the data lake and enable research, modelling, machine learning and artificial intelligence work.
+Keep current on technology: distributed computing, big data concepts and architecture.
+Help define the tools and pipeline patterns our engineers and data engineers use to transform data and support our data science practice
+Architect design patterns that support data ingestion, data movement, transformation, aggregation, machine learning, data science, and much more.
+Design and develop breakthrough products, services or technological advancements in the Data Intelligence space that expand our business
+Work alongside product management to craft technical solutions to solve customer business problems.
+Set and achieve annual and quarterly Objectives and Key Results (OKRs)
+Own the technical data governance practices and ensures data sovereignty, privacy, security and regulatory compliance.
+Promote internally how data within Blackbaud can help change the world.
+Continuously challenging the status quo of how things have been done in the past.
+Other duties as assigned
+We'd love to hear from you if:
+You have 8+ years of software and/or data engineering experience (specifically data focused or SaaS based products)
+Strong understanding of Cloud Big Data and Pipeline services(Azure preferred)
+Experience with technologies such as Azure Data Lake, Hadoop, and Cassandra.
+Direct solution experience with message bus and Data ETL and ELT tools
+Expert in Big Data design patterns and implementation, as well as connected domains (real-time streaming, machine learning, etc.)
+Experience with Spark/Databricks that include Scala and Python
+Knowledge of security protocols such as OAuth
+Professional experience enabling Data Science with the proper data and platform
+Proven expertise in both batch and real-time processing models and tools
+Experience with continuous machine learning development and deployment
+Have experience integrating multiple data sources into a common set of data assets or common data models
+Professional experience employing asynchronous, loosely coupled design patterns
+You are comfortable executing autonomously in the face of ambiguity
+You possess the growth mindset (“the code I just wrote should be rewritten”)
+Why you'll want to come work here:
+Our benefits are unmatched. Not only do we offer competitive salaries, 4 weeks paid time off, tuition reimbursement, and 401K match, we also provide endless community involvement opportunities to encourage our employees to give back, through our CSR programs like gift matching and volunteer for vacation.
+Blackbaud has been named to Forbes America's Best Employers for Diversity 2019, Forbes America’s Best Midsize Employer 2019, and AnitaB.org's Top Companies for Women Technologists 2018, we are rapidly growing and offer incredible opportunity for career advancement!
+We understand that people thrive in a culture focused on teamwork and purpose. That's why Blackbaud offers a tremendous company culture, encouraging open, collaborative working environments in all of our offices around the world, including; North America, Australia, the United Kingdom and Costa Rica.
+We have proven that we are one of the best technology companies to work for. Blackbaud has been ranked Best Technology Company in Charleston, SC for the fourth year in a row, and ranked by BuiltIn Austin as one of the Best Places to Work in Austin, TX.
+Stay up to date on everything Blackbaud, follow us on Linkedin, Twitter, Instagram, Facebook and YouTube
+
+Blackbaud is proud to be an equal opportunity employer and is committed to maintaining a diverse and inclusive work environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, or veteran status or any other basis protected by federal, state, or local law.
+
+To all recruitment agencies: We do not accept unsolicited agency resumes and are not responsible for any fees related to unsolicited resumes.

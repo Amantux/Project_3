@@ -1,0 +1,42 @@
+Phreesia is looking for a Senior Data Engineer who is passionate about the software engineering side of Data Science to join our Data Science Team; someone familiar with building production tooling to support the entire data journey, from data extraction and transformation to deploying and validating machine learning models. You will have a tremendous impact on the next generation of data infrastructure for our Life Sciences Department.
+
+You will report to the Director, Strategy & Analytics and work mainly with data scientists to build software and improve workflows, and collaborate with our data engineering. You will design our data infrastructure, and use it to develop extensible analytics pipelines, tools and visualizations for our data science products. Some of the primary upcoming initiatives include extending our Spark distributed computing infrastructure, streamlining CI/CD pipelines for the team's data products as well as supporting the next generation of predictive modeling and forecasting tools.
+
+What You Will Do:
+Build fault-tolerant, scalable batch and real-time distributed data processing
+Design and configure hosted and cloud-based data and machine learning infrastructure
+Develop technology to more efficiently and effectively curate large amounts of unstructured data
+Tool our systems for observability, including logging, metrics monitoring, and dashboarding
+Build data pipelines to make key datasets available to both data scientists and analysts throughout the company
+Design, develop, refactor, package, harden, and deploy software products (Python, R, Shiny, Flask, Docker, PySpark, Scikit-Learn)
+Develop tools and automate workflows
+Guide the data science team's adoption of new software and frameworks
+What You Will Need:
+Bachelor's degree or higher in computer science or related discipline
+6+ years of experience building data ingestion infrastructure
+Experience working in a data science team with a strong engineering culture
+Have taken a leading role in delivering complex software systems all the way from design to production
+Strong production SQL skills
+Experience with Docker, machine learning and data science toolsets in Python & R
+Professional command of Spark/PySpark other streaming data pipelines
+Experience managing an entire data flow, ingesting data from a variety of sources including SQL, NoSQL, streams, and external APIs
+Hands-on experience and understanding of graph and/or search databases is preferred
+Experience with cloud service providers such as AWS, GCP or Azure is preferred
+Familiarity with Apache Airflow or similar workflow orchestration platforms is preferred
+Healthcare experience and a basic understanding of clinical terms is a plus
+Who We Are:
+
+At Phreesia, we're committed to helping healthcare organizations succeed in a fast-changing landscape—and we need smart, passionate people to help us do it. Our innovative SaaS platform offers our clients a suite of applications to manage the intake process, giving them the tools to engage patients, improve efficiency, optimize staffing and enhance clinical care.
+
+Basically, what you do here matters, and hard work does not go unnoticed. Not only does Phreesia care about our clients, we also care about our employees. In fact, we're a three-time winner of Modern Healthcare magazine's Best Places to Work in Healthcare award. If you're interested in consistent feedback and recognition, defined career paths, and the opportunity to work with driven and engaged colleagues in a dynamic industry, this may be the right opportunity for you.
+
+Benefits and Perks:
+Variety of health plan options, dental/ vision coverage, and short/long-term and life insurance plans
+401(k) savings plan
+Flexible working hours
+Unlimited vacation
+Unlimited snacks and drinks in our offices
+Mobile phone stipends, monthly subway pass reimbursement and Internet reimbursement
+100% paid maternity leave to our U.S. employees, as well as a generous maternity benefit to our employees in Canada.
+Tuition and certification reimbursement, as well as other professional development opportunities
+We strive to provide a diverse and inclusive environment and are an equal opportunity employer.

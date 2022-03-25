@@ -1,0 +1,42 @@
+Company Description:
+
+InEight is a leading developer of construction project management software that enables contractors, engineers and owners to overcome their greatest project pain points. InEight’s solutions span every stage of the project life cycle from design to estimate and from field execution to turnover. The solutions give project stakeholders the real-time information and insights needed to minimize risks, improve operational efficiency, control project costs, and make educated decisions easily. Based in Scottsdale, Arizona, InEight has offices in Omaha, Nebraska; Houston, Texas; Portland, Oregon; Melbourne, Australia; Sydney, Australia; Colombo, Sri Lanka; and Bengaluru, India. InEight, an ISO 9001:2015-registered company, is a subsidiary of Kiewit Corporation (Kiewit). Kiewit, through its subsidiaries, is one of North America’s largest and most respected construction and engineering organizations.
+
+InEight is a fast-paced, innovative company comprised of high energy teams of self-starters playing integral roles in shaping the future of capital projects around the world. Our industry-leading solutions, dedicated employees, and proven leadership team provide a solid foundation to support our continued growth and success.
+
+About InEight Portland:
+
+Our Portland office is an engineering focused outpost of InEight with a distinctly start-up culture. We value an ego-less engineering culture, where the best idea wins. We believe that a talented and cohesive team is the most critical element to developing good software. We want the 'right' amount of process, because if we are in meetings all day then no-one is building software.
+
+Position Summary:
+
+The Quality Assurance Engineer will work closely with both the Development and Product teams to build a deep understanding of our products and platform. As part of the Quality team you will participate in the Agile process, helping to refine requirements, estimate stories, define acceptance criteria, validate stories, and file bugs as necessary. We have ambitions to expand our automation coverage, so while this position doesn't require experience writing test automation, we are looking for an individual who either has a little experience with automation or who would like to grow that skillset but who hasn't had the chance yet. Some words that might describe you: savvy, driven, enthusiastic, positive, pragmatic, collaborative, accountable, meticulous, precise.
+
+The development of our products encompasses, but is not limited to, the following technologies: iOS, Mac, Windows, Angular, AWS, Azure, C#, C++, Confluence, CSS, HTML, Git, Java, JavaScript, Jira, MySQL, Objective-C, Protobuf, SQLite, Swift, TeamCity, TestRails, WPF
+
+Responsibilities:
+Write, revise, and own QA test plans on iOS, Web, and/or Desktop
+Help define acceptance criteria and validate new work meets the requirements
+Work with Product and Dev to resolve bugs as they are discovered
+Proactively identify opportunities and take initiative
+Maintain test data sets
+Be an active participant in our agile process
+Drive to results
+Speak up when you have something to say
+Hold yourself and your team accountable
+Celebrate successes
+Requirements & Qualifications:
+2+ years experience in a Quality or Development role
+Exposure to any programming or scripting language
+Demonstrated ability to execute and improve upon existing QA processes
+Experience using defect tracking solutions (Jira, VSTS)
+Excellent written & verbal communication skills
+Have a little experience with test automation, or the desire to learn
+Preferred Requirements:
+Computer Science Degree or equivalent experience
+Experience writing SQL queries
+Experience with CI tools (Jenkins, TeamCity)
+Strong UX and design sensibilities
+Experience testing across multiple platforms and mediums
+Competency in Windows, Mac, and Linux environments
+InEight Inc. is an Equal Opportunity Employer, (EOE) and will consider all applications without regard to race, marital status, sex, age, color, religion, national origin, veteran status, disability or any other characteristic protected by law.

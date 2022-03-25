@@ -1,0 +1,23 @@
+ZEFR is hiring! Our Software Engineering team is hiring a Data Engineer to be involved in designing and building large-scale applications and systems to acquire, process, store, and illuminate multi-terabytes of YouTube, Facebook and other social media data. This role is an important part of the rapidly scaling infrastructure and data management demands of being the leader in VideoID technology for enterprise media companies and content owners.
+
+Technology @ ZEFR:
+Languages: Python, Scala, Java, and Kotlin
+Data stores: PostreSQL, Elasticsearch, Redshift
+Data processing: Apache Kafka, Apache Spark
+DevOps: Jenkins, Docker, Terraform, Ansible, AWS ECS, AWS EMR
+
+Here's what you'll get to do:
+Provide seamless and timely data access for your users
+Build reliable and dependable ETL
+Build and maintain production machine learning infrastructure
+Troubleshoot complex issues in distributed systems
+Debate data processing philosophies and methodologies with your team
+Here's what we're looking for:
+Bachelor's or Master's degree in Computer Science or related field
+Fluency with Python, Java, Kotlin, or Scala
+Experience with distributed systems
+Strong foundation in data structures, algorithms and software design
+Experience with digital media, social media, and video APIs such as YouTube's Data API is a big plus
+Thorough testing and code review standards/practices
+Strong verbal and written communication skills
+Openness to new technologies and creative solutions

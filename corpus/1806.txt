@@ -1,0 +1,54 @@
+Req Id: 2702
+Location: Charlotte, North Carolina
+
+Brighthouse Financial is on a mission to help people achieve financial security. As one of the largest providers of annuities and life insurance in the U.S., we specialize in products designed to help people protect what they've earned and ensure it lasts. We are built on a foundation of experience and knowledge, which allows us to keep our promises and provide the value they deserve.
+
+At Brighthouse Financial, we're fostering a culture where diverse backgrounds and experiences are celebrated, and different ideas are heard and respected. We believe that by creating an inclusive workplace, we're better able to attract and retain our talent, provide valuable solutions that meet the needs of our advisors and their clients, and deliver on our mission of helping more people achieve financial security. We're se eking passionate, high-performing team member to join us. Sound like you? Read on.
+
+How This Role Contributes to Brighthouse Financial:
+
+Brighthouse Financial's Chief Data Officer is establishing an Information Governance function to ensure the appropriate procedures are in place in support of the Corporate Policies defined by the Corporate Information Security Officer to ensure information assets are adequately protected. The Governance Business Information Analyst (BIA) is part of this function and reports into the Head of Data Strategy and Governance. The BIA works with Business and IT Solution Leaders, Architects, Data Scientists, Business Analysts, and Engineers to drive the definition and implementation of data driven and analytical solutions, platforms, and services in alignment with Brighthouse Financials' Data & Analytics strategy. The BIA is responsible to support data governance and data quality, for critical business data, business and process metadata, master data and reference data required to realize the value of data science and business intelligence solutions through operationalization.
+
+In this role, the BIA will be called upon to perform: data profiling and assessment to interpret data; analyze results using statistical techniques to provide ongoing informational, descriptive, and diagnostic evaluations and data stories; identify, analyze, and interpret trends/patterns in complex data sets; and work with management to prioritize business and information needs. As required, the BIA will be responsible for development of: business/data requirements; business definitions of data; data flows; data mappings and lineage based on "best practices"; specifications to model and implement data collection, optimization, solution delivery, data analytics and other strategies that optimize statistical efficiency and quality.
+
+Location: Morristown, NJ OR Charlotte, NC
+
+Key Responsibilities:
+Ensure each data solution includes the definition, approval, and deployment of appropriate procedures for the protection of all required information assets.
+Ensure the information assets being requested for each data solution are at the correct grain, has the required level of quality and business approved fidelity and is available for the required timeframes.
+Ensure all new data sources introduced to BHF as part of data solutions capture all business, physical, and technical metadata and are added to the enterprise data catalog solution at both the source and attribute levels.
+Provide analysis to inform the design and delivery of the data and analytics value-oriented outcomes, solutions, platforms, and to provide services to continuously assess and generate insights to continuously improve operations, processes, and solutions.
+Enable and support the smooth transition of data and analytics solutions from inception through implementation and operationalization to ensure long term stability and reliability in alignment with the BHF best in cost approach.
+Lead data analysis efforts, directing as necessary, other business and/or information analysts across one or more concurrent delivery efforts to understand and assess the availability, quality, and optimal alignment of data to meet business needs across operations and solutions.
+Lead and perform hands-on data analyses, data profiling, and data assessment to develop data understanding, narratives, and data flows using methods and tools, to translate for data scientists, engineers, designers, and other product managers to shape and drive solution delivery.
+Identify business critical data, key measures and metrics to design instrumentation, reconciliation, validation, and acceptance criteria to inform the quality, fidelity and integrity of the data and solution.
+Address and mitigate open security and risk items in conjunction with audit, compliance, and enterprise security.
+Collaborate with solution owners, business, data scientists, engineers, and other product managers to determine if data identified to be valuable is "fit for use" and available for analysis, modeling, discovery and exploration, data quality governance and other analytics.
+Work with business, business analysts, and other BIAs to provide deep working knowledge of data and business understanding to operationalize data governance, meta data management, reference data management, and data quality.
+Collaborate with other areas that are sourcing data and consuming data to align expectations as part of developing requirements, creating and executing test plans and to effectively support production processing.
+Complete special projects as assigned by manager and perform other duties as requested.
+Coordinate with peers and senior leadership to identify and prioritize key initiatives, systems level priorities, risks and issues.
+Ensure the appropriate level of data accessibility is in place to support data solutions development
+Essential Business Experience and Technical Skills:
+Demonstrated working experience as a data analyst or business data analyst, applied knowledge of statistics and experience using statistical packages for analyzing datasets and strong analytical skills with the ability to collect, organize, analyze, and disseminate significant amounts of information with attention to detail and accuracy.
+Strong working knowledge, experience, or technical expertise with data design and modeling, database design development, data mining and segmentation techniques, reporting, databases, programming experience will be considered as a plus.
+Working knowledge of standard Information classifications such as PI, NPI, PII, PHI as well privacy regulations such as HIPPA, CCPA and GRPR
+Proven track record in data analysis or the development of data requirements, data flow analysis, and data specifications, as well as hands on experience with data profiling and assessment.
+Broad understanding of data technologies and their applied usage including enterprise data platforms (SAP HANA/BDS, Hadoop, Azure SQL, Teradata, Netezza), No SQL (MongoDB, HBase), DBMS (SQL Server, MS SQSL DW (Synapse), Oracle), ETL (SAP DS, Informatica, Pentaho, Talend), Reporting (Business Objects, Tableau, MicroStrategy), Data Governance (Axon, Collibra), Data Catalog (Informatica EDC, IBM Infosphere Information Governance Catalog, Alation Data Catalog), Business Rules(Drools, IBM ODS), Data Quality(Informatica DQ, IBM QualityStage) and languages (Java, Python, Scala, C++).
+Familiarity with a range of data management, Business Intelligence, and Data Science approaches and the latest, tools, approaches, techniques, and methodologies in data and analytics development management.
+Deep understanding and appreciation for both business and technology components of information management in insurance and financial services industry.
+Proven track record in meeting aggressive deadlines in an environment with shifting priorities.
+6+ years of experience - we ware looking for a Subject Matter Expert
+Experience working in an Insurance environment required
+Travel:
+
+Up to 10%
+
+Number of Openings:
+
+2
+
+Nearest Major Market: New Jersey
+Job Segment: Database, ERP, Oracle, Business Intelligence, Data Warehouse, Technology
+
+PI121218707

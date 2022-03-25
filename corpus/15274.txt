@@ -1,0 +1,14 @@
+We’re seeking a highly driven, production-oriented quantitative research developer who has strong technical skills, first-hand experience with tick data, and interest in the intersection of market microstructure and alpha generation.
+
+Primary Responsibilities:
+Design, develop and support simulation frameworks for backtesting execution approaches.
+Work with other quantitative researchers to develop new trading ideas.
+Requirements:
+Proficiency and experience in C++ and Python.
+Experience researching, building and maintaining trading systems utilizing market data.
+Strong understanding of data path from tick to trade.
+Experience analyzing time series data.
+Experience with large data sets.
+Excellent verbal and written communication skills.
+Strong work ethic and desire for excellence.
+Desire to think critically and creatively.

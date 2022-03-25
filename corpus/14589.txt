@@ -1,0 +1,17 @@
+Chicago, Illinois
+Skills : Hadoop,big data,AWS,spark,Python,snowflake,presto,hive
+Description :
+
+MUST HAVE
+
+AWS (s3, redshift, EMR, EC2, lambda, SNS), Unix shell scripting, Python, Spark, Scala
+
+PREFER TO HAVE
+
+Snowflake, Presto, Arrow, Airflow, Hadoop, Hive
+
+Additonal Notes:
+Between 3-5 years exp (can exceed 5 years), looking for mid-senior level experience
+2 types of work they are doing – one is they have batch jobs which process the files from their partners and other files from their data processer. These files currently processed in ab initio. Trying to go from ab initio to AWS (EMR)
+They have other jobs which are currently running in production, some are ab initio
+Hadoop,big data,AWS,spark,Python,snowflake,presto,hive

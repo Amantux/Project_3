@@ -1,0 +1,53 @@
+About PicnicHealth
+
+PicnicHealth's mission is to collect and structure patient records to improve care. We give patients the first truly useful personal health record by doing all the legwork to collect medical records from any US provider and digitize them to create a unified timeline. Life sciences companies sponsor PicnicHealth accounts for patients who consent to contribute their anonymized medical data to research registries: patients get the PicnicHealth service free of charge, companies get critical data on how diseases look in the real world, and academic researchers get free access to data sets that drive cutting edge medical research.
+
+Through our Research Product, we partner with life sciences companies to build real world evidence (RWE) data sets that power some of today's most cutting edge research. Our patient-centered strategy allows us to build RWE datasets that provide a complete, longitudinal picture of patient care, covering all of a patient's providers, not limited by site or EMR system. Combined with a novel machine learning approach architected to drive real automation, we're able to work across diseases and customize data abstraction to meet our customers' specific research needs. We're already delivering on a series of partnerships with some of the largest players in pharma, academic research, and insurance, with more deals on the horizon in this high-growth phase.
+
+The Opportunity
+
+As the founding Clinical Research Data Scientist, you'll help identify and define scientific questions, and the strategies and means for answering them, for research programs in particular disease areas. You'll collaborate with scientists, clinicians, and analysts from our life sciences partners who have expertise in the disease area, and will be the expert on data that PicnicHealth can abstract from patient records. You'll collaborate to help our partners use PicnicHealth data in publications, sometimes co-authoring, and regulatory submissions. Within the PicnicHealth team, you'll be an expert on clinical data, defining specifications for how PicnicHealth's human-in-the-loop machine learning system should abstract data, and ensuring that we're abstracting to the established standard. Ultimately, you'll help direct and drive the development of our research products, armed with your understanding of real world clinical data, and how PicnicHealth data is - and could be - used.
+
+As the Clinical Research Data Scientist, you will:
+
+Identify relevant research questions in disease areas, and how they can be answered by data abstracted from medical records.
+
+Work with scientists, clinicians and analysts at our life sciences partners to help them answer research questions with PicnicHealth data.
+
+Define data specifications for PicnicHealth's abstraction process, and ensure it will meet the standards needed for publication and regulatory purposes.
+
+To internal and external audiences, be an expert on clinical records and abstracting data from them.
+
+Occasionally travel to meet in person with partners and to represent PicnicHealth in public forums such as panels and conferences.
+
+Collaborate closely with PicnicHealth product, engineering, operations, and commercial teams.
+
+Shape the research data products PicnicHealth produces.
+
+You will have:
+
+--------------
+
+MD, PhD, or MD/PhD in relevant field (e.g. epidemiology, statistics / biostatistics, bioinformatics, genetics, health economics, neurology, immunology, pharmacology, etc)
+
+Publications using clinical data.
+
+Strong communication skills, with the ability to translate complex concepts to different audiences.
+
+Outstanding presentation skills, with the ability to read a room and lead people where you need them to go.
+
+An understanding of how RWE can be used in a research context.
+
+Ideally, you have:
+
+------------------
+
+Clinically practiced for several years
+
+Driven research in a RWE group at a pharma company
+
+Publications based on RWE data, ideally from electronic medical records
+
+A vision for how better medical record data could transform medical science
+
+Strong desire to improve patient lives and the healthcare system.

@@ -1,0 +1,34 @@
+Principal Data Scientist-- Ensemble Algorithms and Architecture
+
+Job Summary
+
+A Principal Data Scientist in our client's operations enhances customers' magical luxury shopping experience and increases NPV by applying algorithms. The Data Scientist performs statistical and econometric analysis, AI/Client modeling, and optimization. The Data Scientist solves use cases related to personalization, marketing promotions, merchandise planning, supply chain, pricing, and cost. This position will lead data science needs across all our client brands, divisions and selling channels.
+The major job responsibility for this position is to develop ensemble algorithms in cascaded orchestration platform for multi-service use cases for our client. The Principal Data Scientist will develop expandable and rapidly deployable algorithm and models for use cases such as Next Best Action (NBA). The position requires expert level skills in neural network and graph theory in building time-sensitive and association-based next best action and next best complete the look product recommendation system. Modular algorithm and models developed by the Principal Data Scientist can be cascaded to be used for many use cases for various use cases in personalization, marketing promotions, merchandise planning, supply chain, and pricing optimization.
+
+Job Duties
+The position will report to the Director of Data Science and will have a dotted-line leadership responsibility to mentor and train at least three junior- or senior-level data scientists.
+Collaborate with cross-organization to ideate and prioritize use cases, business problems, and user stories that can enhance customers experience and increase our client's ROI.
+Lead data science projects independently while collaborating with team members and multi-organizational stakeholders.
+Perform hands-on advanced analysis in personalization, marketing science, retail analytics, business analytics, and supply-chain analytics using big data in cloud environment to improve customer satisfaction and promote growth.
+Leverage state-of-the-art data science tools, methodologies, and algorithms to drive improved decisions
+Collaborate in the development and implementation of predictive models, segmentation strategies, optimization algorithms, and data mining analyses with a targeted result of increasing revenue.
+Research, innovate, and design algorithms and techniques to contribute in optimization and automation.
+Job Requirements
+At least a quant-based graduate degree such as Computer Science, Electrical Engineering, Math, Statistics, Physics, Economics, or other related fields from a reputed university with course work that includes analytics, coding, statistics, math, and algorithm development. Ph.D. is Preferred
+Strong in Math, Statistic, Finance, and Econometric
+Expert Level skills in one or many of the followings:
+Graph/Network Theory
+Personalized Recommendation Engine for Next Best Action and Next Best Choice
+5+ years of hands on experience in Data Science.
+Experience in processing and performing multi-faceted analysis with on-line browsing, sales transaction, product, and inventory data.
+Experience in working in retail space will be a plus.
+Experience in developing or enhancing models applying machine learning and neural network algorithms, graph/network theory, statistical analysis, and optimization theories.
+Experience in using Keras, Tensorflow, and scikit-learn
+Strong coding skills in SQL, Python.
+Experience in working with distributed computing i.e. Hive, Apache Spark
+Experience in working on AWS SageMaker, S3, and SnowFlake will be a plus
+Knowledge of descriptive analytics and data visualization
+Experience with full lifecycle agile and experimental design methods.
+Exceptional standards for quality and strong attention to detail
+Ability to manage multiple projects and on-demand business requests simultaneously
+Able to work in a fast-paced core team environment with team members from diverse areas such as marketing, creative, strategy, and product.

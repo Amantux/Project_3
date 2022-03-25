@@ -1,0 +1,41 @@
+Faire is using machine learning to change wholesale and help local retailers compete with Amazon and big box stores. Our experienced data scientists and machine learning engineers are tackling recommendations, ranking, search, logistics, underwriting, and more - all with the goal of helping local retail thrive.
+
+Job Description
+
+The Data Science team owns a wide variety of algorithms and models that power the marketplace. We care about building machine learning models that help our customers thrive. The data science team helps answer questions like; How do we underwrite retailers with thin files? How do we optimally assign term limits to Faire retailers? How to minimize the risk of defaults while maximizing the share of wallet growth driven by net terms? What data sources should we invest in to improve the performance of our credit models?
+
+We're looking for someone who's comfortable working on the cutting edge of machine learning research. You're happy working autonomously and delivering results without micromanagement. You wake up ready to take a problem end-to-end, dive into the guts of our information-rich databases, and produce actionable insights. You can't wait to push the boundaries and discover the next big thing, then share it with your peers. You are, or will be, world-class in credit risk and help lead the wider data community. Faire will soon be known as a top destination for data scientists and machine learning, and you will help take us there!
+
+You're excited about this role because
+You'll be able to work on cutting edge credit underwriting problems combining a wide variety of data about our retailers, makers and products
+You are passionate about solving problems in the FinTech space with innovative machine learning techniques and using alternate data sources for risk management
+You want to use machine learning to help local retailers and independent makers succeed
+You want to be a foundational member of a fast-growing company
+Qualifications
+3+ years of industry experience in developing, testing, and validating credit risk models in the financial services industry
+Experience applying with either boosted trees models, decision trees, or other models to solve credit underwriting problems
+Strong skills in statistics, probability, and/or machine learning
+A track record of solving problems using data science. The tooling/language isn't important. (e.g., numpy, pandas, scikit-learn, R, etc.)
+Experience with relational databases and SQL
+Relentless resourcefulness and the ability to thrive in a startup -- you're willing to do what needs to be done for the success of your team
+The ability to self-regulate and get stuff done with minimal direct supervision
+Strong communication skills and the ability to work with others in a closely collaborative team environment.
+Nice to have:
+MSc or PhD in any mathematical or statistical subject, e.g.: mathematics, statistics, computer science, astrophysics, neuroscience, operations research, economics, any of the physical sciences
+Experience with capital markets reporting and credit line management is a plus
+What We Offer:
+We're growing fast. You will get in on the ground floor of something that's going to be special.
+We're funded by the best VCs in the world.
+Our founding team is experienced and led the development of one of the top 25 apps in the US App Store (Square Cash).
+Great technology stack. It's fun to work with the best tools and the latest software.
+The business makes sense. It's straightforward, provides clear value to both retailers and makers. You get to help change an entire industry for the better.
+It's beautiful. Work on something that's well-designed, following the footsteps of Apple and Square.
+About Faire
+
+Faire is an innovative online marketplace that uses machine learning to match local retailers with the makers of products that uniquely fit their stores. We are using the power of technology to connect makers and boutiques from all over the world, building a thriving community of over 50,000 small business owners.
+
+Our mission is to empower entrepreneurs to chase their dreams. We believe entrepreneurship is a calling. It's a way of life that offers people a level of autonomy and fulfillment that's become difficult to find elsewhere in our economy. Most of our customers have left behind jobs they hated to take a chance on themselves. We want to make sure their boldness and self-belief gets rewarded.
+
+This mission also extends to the way we are building the company. Every member of our team is an owner of the business and taking part in the founding process.
+
+Faire is being built for entrepreneurs, by entrepreneurs.

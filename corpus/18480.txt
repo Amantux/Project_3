@@ -1,0 +1,34 @@
+Job Description:
+The primary role for the Business Intelligence Engineer is to provide technical and business expertise in integrating data from a variety of source systems and presenting it through an array of self-service applications.
+The BI Engineer will support all development efforts including data analysis, data modeling, and data design tasks as well as the creation of metrics and attributes to be consumed by interactive dashboards and data visualizations tools like MicroStrategy and Tableau are widely used throughout the organization.
+Additionally, the BI Engineer will be instrumental in the creation of optimal reporting structures at the database for ongoing reporting and analytics.
+The candidate will be partnering with the data engineers for translating business requirements into data requirements and structures for schema creation.
+Mandatory Skills:
+Data Management - Data Modelling.
+Responsibilities:
+Develop data modeling and data transformation for business intelligence tools like MicroStrategy and Tableau using Cloudera Impala, Hive, Spark, etc.
+Perform data analysis, data modeling, and data design tasks on complicated datasets with potentially complex data integration scenarios for Hadoop and Snowflake.
+Build data structures and data blending technologies to support data harmonization and provide data to MicroStrategy and Tableau.
+Develop data structures using Hadoop and Snowflake to build dashboards, reports, and self-service templates to enable visualization through BI tools like Microstrategy, Tableau, etc.
+Create Schema objects to produce reports, Templates, and metadata for MicroStrategy.
+Convert business requirements into Data Warehouse design for Business Intelligence tools.
+Provide technical requirements to data engineering for the conversion of business requirements to events to the database schema.
+Build database objects based on schema provided by data engineers to be consumed by reporting tools like Tableau and Microstrategy.
+Be knowledgeable in visualization tools data structure requirements to enable the requirements in Cloudera and HANA.
+Bachelor's degree in Computer Science/Engineering preferred.
+8+ years database, data integration experience.
+3+ years' experience with Hadoop, SQL, and Big Data solutions.
+Preferred experience with SAP HANA.
+5+ years' experience in designing and implementing the data structures (conceptual, logical, physical, and dimensional models) for reporting tools like MicroStrategy, Tableau, or any reporting tools.
+Developing Enterprise Business Intelligence solutions on one or more of the following EDW platforms - Cloudera Impala, Hive, HANA, and BW on HANA.
+Development experience in using Big Data solutions using open source technologies within the Hadoop ecosystem such as Impala, Hive, Spark, Pig, etc.
+Strong knowledge of key scripting and programming languages such as Python, Java.
+Experience with data integration tools such as Talend.
+Strong knowledge of data security principles.
+Proven track record working with complex, interrelated systems and bringing that data together on Big Data platforms.
+Heavy, In-Depth Database Knowledge – SQL and NoSQL.
+Essential Functions:
+Handle multiple priorities simultaneously.
+Work collaboratively with cross-functional teams.
+Establish and maintain a working environment conducive to positive morale, individual style, quality, creativity, and teamwork.
+Ability to work in a fast-paced, team environment.

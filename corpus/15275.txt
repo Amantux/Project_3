@@ -1,0 +1,40 @@
+As a Retention Data Scientist, you will be delivering solutions while leveraging your experience in machine learning. You will bring a curiosity about how the consumers search in information and match that with a strong technical ability to analyze large data sets, reveal insights, and turn the insights into recommendations
+
+You will have a deep understanding of the mortgage lending industry and the levers that can be pulled to improve business outcomes based on data analysis and modeling.
+
+Role Description
+
+In this role, you will:
+Partner with a cross-functional team of data scientists, software engineers, and product managers to deliver a product customers love
+Leverage a broad stack of technologies — Hadoop, Spark, H20.ai, Django, Sagemaker and other cloud AI platforms, containerization and more — to reveal the insights hidden within huge volumes of numeric and textual data
+Build machine learning models through all phases of development, from design through training, evaluation, validation, and implementation
+Flex your interpersonal skills to translate the complexity of your work into tangible business goals
+
+
+The Ideal Candidate is:
+Customer first. You love the process of analyzing and creating, but also share our passion to do the right thing. You know at the end of the day it’s about making the right decision for our customers.
+You continually research and evaluate emerging technologies. You stay current on published state-of-the-art methods, technologies, and applications and seek out opportunities to apply them.
+You thrive on bringing definition to big, undefined problems. You love asking questions and pushing hard to find answers. You’re not afraid to share a new idea.
+A leader. You challenge conventional thinking and work with stakeholders to identify and improve the status quo. Your passionate about talent development for your own team and beyond.
+You’re comfortable with open-source languages and are passionate about developing further. You have hands-on experience developing data science solutions using open-source tools and cloud computing platforms.
+Statistically-minded. You’ve built models, validated them, and backtested them. You know how to interpret a confusion matrix or a ROC curve. You have experience with clustering, classification, sentiment analysis, time series, and deep learning.
+A data guru. “Big data” doesn’t phase you. You have the skills to retrieve, combine, and analyze data from a variety of sources and structures. You know understanding the data is often the key to great data science.
+You will be successful in this role if you have:
+Bachelor's degree in Statistics, Computer Science, Math or another STEM discipline. Master's or advanced degree preferred.
+Understand how mortgage lending works across origination and servicing.
+5-10 years of related experience, including hands-on experience analyzing data and applying machine learning techniques to build models that are integrated into applications
+10-20 years’ experience overall, including data mining & analysis, software or product development, software or systems engineering
+Key Skills:
+Knowledge of a variety of techniques and when/how to apply to problems: Statistical modeling, machine learning, deep learning, natural language processing, data mining, reinforcement learning, etc.;
+Experience building and running stable, scalable pipelines to structure and to integrate across the Big Data Vs on premise and in the cloud
+Experience with elastic storage and categorizing data in a data lake repository
+Experience with designing, building, and deploying MLOps pipelines
+Experience using statistical computer languages such as R and Python.
+Strong analytical and algorithmic skills
+Ability to work in a collaborative team context.
+Preferred Qualifications
+MS in Statistics, Computer Science or another STEM discipline
+2-3 years of Experience with ML or experience with AI planning or multi-agent algorithms
+Experience with ML frameworks such as SciKit-Learn, TensorFlow, Keras, etc.
+Strong programming experience in Python, Java, C++, etc.
+Experience in developing and operationalizing systems that include advanced algorithmic components

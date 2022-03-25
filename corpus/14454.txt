@@ -1,0 +1,22 @@
+Job Description
+Responsibilities
+
+We are looking for a Machine Learning Engineer to build world-class machine learning platform solutions. You will be responsible for empowering data scientists and AI scientists by developing a collection of industry-strength platform services to greatly improve scientists productivity and facilitate innovation. Your responsibilities include, but not limited to:
+
+? Build Stats Perform’ s Machine Learning platform and services to support major AI and Data Science use cases
+
+? Manage the ML lifecycle, including data prep, training data generation, feature engineering, optimization, experimentation, reproducibility, deployment and end-to-end workflow management
+
+? Enable ML and Deep Learning capabilities at vast scale by developing the necessary systems, tools, technologies and integrations as part of the ML Platform offering
+
+? Help accelerate the velocity from idea to interference in production
+
+? Contribute to capabilities around data programming, data augmentation (transformation function), active learning (slicing function) for training data, and transfer learning
+
+? Engineer the de-bias, ethics, security and compliance aspects of ML pipelines, centralized feature store, model metastore, and inference metrics store etc.
+
+? Work with partners and stakeholders to identify data acquisition opportunities, create requirements, transform large volume data into AI ready high quality relevant datasets
+
+? Achieve quality ML data using a triad of people, process & technology
+
+? Identify, assess and implement 3rd party technologies that may complement Stats Perform capabilities, and accelerate advancement of critical features; maintain strong collaborative relationships with 3rd party technology providers

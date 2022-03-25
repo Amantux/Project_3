@@ -1,0 +1,51 @@
+Data Engineer/Senior Data Engineer
+
+At Liberty Mutual, technology isn't just a part of our business, it's what drives us forward. We deliver our customers peace of mind every day by helping them protect what they value most. Our passion for placing the customer at the center of everything we do is driving a transformational shift at Liberty Mutual. Operating as an Agile team within a Fortune 100 company, we are on the front edge of an IT transformation for how people work and deliver solutions.
+
+GRM Data & Analytics Engineering actively searching for a highly productive member of a distributed, dynamic agile team to serve as a technical expert in analysis, design, coding, and testing innovative data warehouse reporting solutions and analytics. This position will support Agency and Strategic Partnerships within Business Data Solutions Engineering.
+
+Note: This is a range posting. Candidates will be considered at the Data Engineer/Senior Data Engineer level based on experience.
+Job Summary:
+
+In this role you will work collaboratively on a geographically diverse agile team to develop and enhance complex systems and/or software from user stories and technical/architectural specifications. You will analyze complex technical system problems and create innovative solutions that exceed customer expectations.
+
+This is a fast-paced environment providing rapid delivery for our business partners. You will be working in a highly collaborative environment that values speed and quality, with a strong desire to drive change and foster a positive work environment as we continue our agile transformation journey. You will have the opportunity to help lead this change with us as we grow this culture, mindset and capability.
+In this role you will:
+Work in a dynamic and exciting agile environment with Scrum Masters, Product Owners, and team members to develop creative data-driven solutions with our ETL pipeline that meet business and technical initiatives
+Improve speed to market by focusing on current Agency & Strategic Partners data needs as well as building out the long-term strategic data solutions using AWS, SQL, Unix, Informatica, as well as other modern data technologies
+Design and develop programs and tools to support ingestion, curation and provisioning of complex enterprise data to achieve analytics, reporting, and data science
+Demonstrate open minded and collaborative approach to creating innovative technical solutions
+Analyze data and technical system problems to design and implement effective, flexible solutions
+Handle end-to-end development, including coding, testing, and debugging during each cycle
+Develop automated tests for multiple scopes (Unit, System, Integration, Regression)
+Mentor new and junior developers
+Identify and recommend appropriate continuous improvement opportunities
+Qualifications:
+Bachelor's or Master's degree in technical or business discipline or equivalent experience, technical degree preferred
+Experience developing back end, data warehouse technology solutions
+Knowledge of a variety of data platforms including Teradata, DB2 (Cloud based DB a plus)
+Experience with AWS (such as S3, Snowflake, Athena, snapLogic), Unix, Informatica & SQL
+Extensive knowledge of IT concepts, strategies, methodologies.
+Experience working with agile methodologies (Scrum, Kanban, XP) and cross-functional teams (Product Owners, Scrum Masters, Developers, Test Engineers)
+Versed in diverse technologies and new technical architecture principles and concepts
+Demonstrates leadership and active pursuit of optimizing CI/CD process and tools, testing frameworks and practices
+Must be proactive, demonstrate initiative, and be a logical thinker
+Must be team oriented with strong collaboration, prioritization, and adaptability skills required
+Additional Qualifications:
+Java, Ruby, NoSQL, Python development experience
+Understanding of Cloud / Hybrid data architecture concepts
+Understanding of insurance industry and products
+Excited by trying new technology and learning new tools
+Benefits & Culture:
+
+In GRM Data & Analytics Engineering, we embrace all of the values of our Fortune 100 company and push our practices and technology skill sets to the next level. In this organization, we are an agile set of teams dedicated to helping impact the lives of thousands of customers every day. We embrace a modern co-working style with exceptional work/life balance, ergonomic work areas, substantial benefits, and best-in-class amenities.
+
+Liberty Mutual is one of America's Best Employers for Diversity and one of the Best Employers for Women http://bit.ly/LibertyMutual-BestPlacesToWorkforWomen one of the Best Employers for New Grads http://bit.ly/LibertyMutual-BestPlacesforNewGrads and one of the Best Places to Work http://bit.ly/LibertyMutual-BestPlacestoWork . We offer excellent benefits for our employees including generous parental leave, retirement plans including 401k and pension, education reimbursement, commuter benefits, college savings plans, and much more.
+
+To learn more about our benefit offerings and culture please visit:
+https://LMI.co/Benefits
+http://bit.ly/LibertyMutual-Culture
+
+EOE Statement:
+
+Liberty Mutual is an equal opportunity employer. We embrace an environment that is free from all discrimination in the workplace, in its business, or by its vendors. Liberty Mutual values diversity and the differences and similarities of our employees. We foster a diverse and inclusive work environment that leads to better ideas, stronger teams and more innovative products and services for our customers. Learn More:

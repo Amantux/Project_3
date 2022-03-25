@@ -1,0 +1,63 @@
+The Site Reliability Engineer will design, build and automate large-scale, distributed, fault-tolerant infrastructure and systems. SREs are focused on giving teams the ability to run better production systems by creating creative engineering solutions to resolve deployment, monitoring, and operations problems across the enterprise. They live by the credo - Automate all the things! The Site Reliability Engineer will contribute as a team member with Product Owners, Tech Leads, Agile Coaches, and other team members to deliver on the SRE teams vision.
+
+Duties:
+Assist in defining the architecture, design, development, and automation of core strategic technology projects and infrastructure
+Always think about Automation first and developing Infrastructure as Software
+Develop software and automation using standard Software Engineering practices
+Design, analyze, and engineer large-scale distributed systems
+Work with cross functional teams to create prototypes and/or Proof of Concepts as needed to ensure projects are viable and successful in a controlled environment.
+Use in-depth product and industry knowledge to provide technical and business expertise to the company
+Work with the management and various departments to ensure the appropriate knowledge, skills, and abilities will be available when needed to meet evolving business needs
+Build business and technical relationships with strategic partners
+Train and/or mentor team members and peers as appropriate
+Identify opportunities to improve processes and best practices
+Define and ensure security policies in place are met, reviewed, and constantly evolving to meet industry needs
+Coordinate with various teams for deployment and production support activities
+Follow all defined IT standards and processes (i.e. IT Governance, SM&G, Architecture, etc.), and provides input for improvements to the appropriate process owners as needed
+Maintain a proper balance between business and operational risk
+Advise on short term plans for the team to effectively utilize resources
+You Have:
+Experience using current Software Engineering best practices
+Experience in container operations (Docker, OpenShift Enterprise, GKE, ECS), orchestration (Docker Swarm, Kubernetes), and databases(Postgres, MySql, no sql dbs, etc)
+Skilled with requirement gathering, validation, fulfillment and change management
+Infrastructure operations experience including self-healing autonomy
+3+ years professional experience in software development or systems engineering at enterprise/web scale
+5+ years professional experience with platforms and systems
+2+ years professional experience in infrastructure as code development (Chef, Puppet, Ansible) or infrastructure engineering
+Understanding of cloud computing concepts, immutability, and pipeline automation (AWS, Azure, GCP and private cloud)
+Experience with algorithms, data structures, complexity analysis, and software design
+Experience in one or more of the following: C, C++, Java, Python, Go, Perl, or Ruby
+Strong communication across all mediums and organisational skills
+Basic ability to architect systems
+Experience with the software development lifecycle (SDLC)
+Proven experience in software development practices
+Experience coaching, mentoring, training individuals in a professional environment
+Ability to facilitate and influence
+Demonstrated Agile Project Management understanding
+Demonstrated ability to deliver projects that required working with and influencing multiple teams
+Superb ability to multi-task, manage time, prioritize, pay attention to detail, and meet deadlines in a fast-paced environment
+Ability to work independently and as a member of a greater team, including cross-team activities
+Experience with testing, debugging, and optimizing code
+Proven systematic problem-solving approach with the ability to think analytically
+Bachelors Degree in Computer Science, Mathematics, or Related discipline or equivalent experience
+Location:
+
+Our Engineering teams are distributed between our Ann Arbor, MI and San Antonio, TX locations. Successful candidates can live/work in one of these locations.
+
+About us
+
+In this age of technology, we give you more than just the best and widest choice of hosting products. We give you The Most Helpful Humans In Hosting. We believe the more you need technology to fuel your business, the more you need expert, caring people to be there for you.
+
+Liquid Web is the market leader in managed hosting services to SMBs and web professionals. We are all the managed hosting you will ever need. Whether you need the simple elasticity of our PaaS offering, tried-and-true dedicated servers, the fastest VPS in the industry or Managed WordPress, weve designed our product portfolio to allow you to choose the hosting product that will best serve your project. You can count on reliability and have the flexibility to run what you like, how you like it. There are no limits here.
+
+Join our team and enjoy the following benefits:
+100% Employer paid Benefits options - Medical, Dental, Vision, Prescription
+Traditional and Roth 401k with company matching
+Continuous beverage service
+Fun employer-sponsored events
+A collaborative team culture
+Flexible work environment
+Challenging non-redundant daily duties
+A voice in how things get done
+Access to ongoing training
+Powered by JazzHR

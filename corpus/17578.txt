@@ -1,0 +1,11 @@
+Job Description
+Phyton Talent Advisors is partnering with a hedge fund here in NYC in their search for a Data Engineer. They are looking for talented individuals who have experience developing and maintaining the data ingestion and data quality processes and platform that feed systems to support risk management and trading in Equities, Fixed Income, Commodities, Credit, and FX business. This person would be working closely with quants, risk managers, and other technologies in global offices to develop automated rules and validation frameworks to ensure quality of underling inputs and outputs to and from the risk platform.
+
+Requirements:
+Strong analytical skills, and experience using Python to build statistical/analytical libraries/systems
+Three to Five years of Experience with larger scale python in a data intensive environment
+Experience working with Machine Learning/Data related libraries; Scikit-learn, Tensorflow, Keras and/or PyTorch as well as Pandas/Numpy.
+Professional experience with a SQL-based database, such as MS SQL Server
+Experience with big data tools Spark, Hadoop, and especially streaming platforms like Kafka
+Able to work independently in a fast-paced environment.
+BA or Master in computer science or any other scientific/data fields

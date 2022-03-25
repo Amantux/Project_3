@@ -1,0 +1,38 @@
+Who We Are
+
+
+The team is responsible for placing each and every ad that Twitter serves. While placing those ads we decide how best to balance user experience, advertiser results, and Twitter revenue. Our team optimizes supply/demand, operation points and trade-offs for the ads marketplace, as well as improve product outcomes by applying data science. We routinely deliver significant improvements to our revenue, and work in a close sync with our executive staff (including our COO & CFO) due to our direct impact on Twitter’s business.
+
+What You’ll Do
+
+
+We’re looking for a key individual contributor to drive our advertising products forward. We decide which ads to serve billions of times a day under a sub-second setting. You will ship new features and optimize existing products. You will perform rigorous analysis, understand our advertising products, experiment, make data-driven decisions, optimize for impact, and measure performance funnels.
+
+Your team will empower you with the autonomy to make good product decisions and discover/understand the software and product stack. You’ll own significant projects end-to-end. The small teams of talented, passionate people in which you’ll work will include engineers and data scientists from across the revenue engineering organization. We work on every high-priority ads project at Twitter.
+
+Who You Are
+
+
+You’re a data scientist with a track record of delivering results. You find satisfaction in shipping changes that deliver measurable impact in the form of immediate revenue. You apply machine learning and data science techniques when applicable, but are just as happy to implement a simple heuristic when you find it’s as effective at driving impact to your product. You’re looking to join a strong, high-performing team.
+
+Sample Projects
+We build new ways for advertisers to buy ads on Twitter, such as paying up front for guaranteed results
+We design incrementality studies to measure the lift in brand awareness that our advertising campaigns drive
+We dive into individual products (e.g. video ads) to improve results for our most critical business priorities
+We evaluate the impact of ads on new Twitter users, determining how to show them ads in order to maximize their long-term usage of the product
+We are responsible for measuring the results of all experiments on Twitter ads
+Requirements
+Experience using data intelligently to optimize product performance
+Experience performing analysis on raw event data in modern data warehouse systems
+Deep understanding of data platforms in which you’ve previously worked
+Good understanding of how to grow and shape data tools and datasets to improve data-driven decision making
+Ability to thrive in an unstructured environment, working autonomously on a strong team to find opportunity and deliver business impact
+Good understanding of (one or more of the following): Python or R
+Bonus Points
+Past experience in adtech
+PhD or MS in computer science, machine learning, or statistics
+Good understanding of (one or more of the following): Java, Scala, or C++
+Interesting side projects or Kaggle competition results
+We are committed to an inclusive and diverse Twitter. Twitter is an equal opportunity employer. We do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic information, marital status or any legally protected status.
+
+San Francisco applicants: Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.

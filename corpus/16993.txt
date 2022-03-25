@@ -1,0 +1,32 @@
+A Senior Data Engineer is responsible for implementation and delivery of backend services, data pipelines and data platform frameworks that build on our high-value data assets. They will leverage PaaS and IaaS cloud offerings to build services that support data management, infrastructure and industry interoperability. They should contribute to projects and development efforts using agile methodologies.
+
+YOUR RESPONSIBILITIES
+Leverage Cloud PaaS and IaaS offerings to build services in support of data liquidity, data management and storage, data pipelines including both traditional ETL and streaming platforms, master data management and data stewardship
+Write traditional code and server-less functions using the language best suited for the task, which typically include C#, T-SQL and PowerShell
+Apply Cloud and Object Oriented design and resiliency patterns
+Provide subject matter expertise on performance tuning and query optimization to full-stack peers and data analysts
+Participate in building and owning a culture of DevOps and Quality Assurance
+Continuously document your code, framework standards, and team processes
+EDUCATION, TRAINING, AND PROFESSIONAL EXPERIENCE
+Five (5) or more years of experience in an enterprise or commercial software development environment. Healthcare IT background is highly preferred.
+Extensive experience developing data-intensive solutions in a Cloud environment.
+Highly skilled in writing SQL queries, DML, DDL, CDC/change tracking, index and performance tuning.
+Enterprise development experience coding in at least one, but preferably more than one, procedural/OO language, including C#, Java, Python, PowerShell.
+Enterprise experience developing solutions that use event sourcing and/or Big Data architectures.
+Experience with at least once traditional ETL platform including SSIS, Informatics and Talend, or with cloud ETL platforms like Azure Data Factory.
+MUST HAVE THE RIGHT TO WORK IN THE US WITHOUT VISA SPONSORSHIP
+PROFESSIONAL COMPETENCIES
+Team player who is not afraid to ask questions, take risks, share in owning team victories as well as team failures
+Good communicator - both written and verbal - with high emotional intelligence
+Ability to focus on MVP and shipping software while remaining cognizant of the long-term costs of technical debt
+ABOUT US
+
+At Bright Health, we brought together the brightest minds from the health care industry and consumer technology and together we created Bright Health: a new, brighter approach to healthcare, built for individuals. Our plans are easy to manage, personalized and more affordable, giving people the quality care they deserve. Through our exclusive care partnerships with leading health systems in local communities we are reshaping how people and physicians achieve better health together.
+
+We're Making Healthcare Right. Together.
+
+We've won some fun awards like: Great Places to Work, Modern Healthcare, Forbes, etc. But more than anything, we're a group of people who are really dedicated to our mission in healthcare. Come join our growing team!
+
+As an Equal Opportunity Employer, we welcome and employ a diverse employee group committed to meeting the needs of Bright Health, our consumers, and the communities we serve. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.
+
+BRIGHT ON!

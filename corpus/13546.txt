@@ -1,0 +1,43 @@
+Schrödinger’s mission is to revolutionize drug discovery through the use of breakthrough computational methods. We are currently looking for outstanding individuals to join our drug discovery group and contribute to our rapidly expanding portfolio of drug discovery collaborations.
+
+Our drug discovery group of around 100 scientists includes designers, modelers, computational chemists, medicinal chemists, crystallographers, biochemists, and biologists. The group is supported by more than 100 software developers and engineers. Our powerful computational platform is accelerating the discovery and development of new medicines for patients with unmet medical needs. For an overview of our pipeline, go to this website.
+
+If you have an interest in combining science and technology on drug discovery projects, we are eager to hear from you.
+
+Job Requirements
+Participate in drug discovery group projects, including research, curate, and prepare computational chemistry data sets; compile, analyze, and summarize results
+Prepare and maintain drug discovery group chemical database content, including: process confidential data and information according to guidelines; manage master data, including creation, updates, and deletion; provide quality assurance of imported data, working with key internal or external advisors as necessary; and assess new or upgraded software
+Exhibit strong organization skills, attention to detail, and time management skills
+Participate in improving software and processes, including: early access usage and bug reporting; user storyboarding and defining feature requirements; and development of research and data curation web apps and scripts
+
+
+Essential Qualifications and Experience
+Bachelor’s in Physics, Biology, Chemistry or a related discipline with 2+ years related experience
+Successful completion of at least one year of organic chemistry coursework
+Practical experience with analyzing chemistry journal articles
+Strong programming skills in Python
+Fluency with data analysis packages, e.g., Pandas, Numpy
+Experience with data visualization packages, e.g. Plotly, Bokeh, Seaborn
+Experience managing virtual environments
+Basic computer skills, e.g., familiar with Excel, Word, Google Suite
+Basic Unix/Linux command line skills
+Basic git version control skills
+Excellent technical communication skills
+Ability to thrive in a fast-changing environment
+
+
+Desirable Skills
+Basic understanding of enzyme inhibition and receptor agonism/antagonism
+Experience with any of the following: Gleaning, cleaning, and preparing data sets from online sources of scientific information especially DepMap, 1000 Genomes, Genomic Data Center, StringDB, NCBI PubMed, RCSB, UniProtKB, EMBL-EBI ChEMBL, SciFinder, Reaxys)
+Computational chemistry, cheminformatics, or bioinformatics
+Experience working with genetic data analysis, e.g. RNA-Seq
+DevOps experience with any of the following:
+Docker/Docker-Compose
+Django
+Querying RESTful APIs
+Data modeling (e.g. Natural Language Processing)
+
+Schrödinger understands it’s people that make a company great. Because of this, we’re prepared to offer a competitive salary, stock options, and a wide range of benefits that include healthcare (with dental and vision), a 401k, pre-tax commuter benefits, a flexible work schedule, and a parental leave program. We have catered meals in the office every day, a company culture that is relaxed but engaged, and over a month of paid vacation time. Our Administrative and Human Resources departments also plan a myriad of fun company-wide events.
+
+
+As an equal opportunity employer, Schrödinger hires outstanding individuals into every position in the company. People who work with us have a high degree of engagement, a commitment to working effectively in teams, and a passion for the company's mission. We place the highest value on creating a safe environment where our employees can grow and contribute, and refuse to discriminate on the basis of race, color, religious belief, sex, age, disability, national origin, alienage or citizenship status, marital status, partnership status, caregiver status, sexual and reproductive health decisions, gender identity or expression, or sexual orientation. To us, "diversity" isn't just a buzzword, but an important element of our core principles and key business practices. We believe that diverse companies innovate better and think more creatively than homogenous ones because they take into account a wide range of viewpoints. For us, greater diversity doesn't mean better headlines or public images - it means increased adaptability and profitability.

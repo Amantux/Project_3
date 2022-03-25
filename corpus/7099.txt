@@ -1,0 +1,45 @@
+ClimaCell  is transforming meteorology by developing novel techniques for gathering and assimilating weather data into real-time analysis systems. One of the most important tools we leverage to accomplish this is robust statistical analysis of both our observations and the forecast model output we generate in-house and consume from public agencies. 
+ 
+ 
+ As an Atmospheric Data Scientist, you’ll lead our efforts to build new statistical forecasting systems which combine these observational and model to produce the best forecasts possible for our clients. You have a background in statistical applications in the geosciences, and understand how to extract the signal from the noise of many disparate forecasts. You’re comfortable wielding a diverse toolkit to tackle these problems, including ensemble/timeseries analysis techniques, bias correction procedures, and machine learning. A successful candidate will leverage their knowledge of these tools to prototype new statistical forecasts and analyses applied to massive meteorological datasets. 
+  
+What You'll Be Doing
+ 
+  
+ Lead initiatives to develop novel ensemble statistical analysis/post-processing systems to combine unique observations and model data to produce the best possible weather forecast 
+ Develop novel applications for machine learning to build dynamic, self-correcting forecast systems which iteratively update and refine themselves as new data arrive into ClimaCell’s unique collection of weather observations 
+ Help develop robust validation procedures  and conduct verification studies across the company’s data product portfolio, to ensure that our forecasts are always one step ahead of the changing weather  
+ 
+ 
+  What You Bring   
+ Extensive background in statistical and/or machine learning applications to weather forecasting and data analysis 
+ Experience working with or developing  state-of-the-art ensemble forecasting systems and analyses, such as NOAA’s National Blend of Models or NCAR’s DiCast system 
+ Knowledge of and familiarity with operational ensemble numerical weather prediction systems such as NOAA’s GEFS or ECMWF’s EPS 
+ Experience building statistical modeling tools using scientific Python (particularly NumPy, pandas, scikit-learn, statsmodels, or related packages) or R  
+ Familiarity with Linux  
+ 
+ 
+  Bonus points   
+ Experience working on cloud computing systems, especially Amazon AWS or Google Cloud 
+ Experience with other scientific Python libraries or frameworks, especially those used widely in the geosciences (SciPy, sklearn, skimage, xarray, Numba, etc.) or the R “tidyverse” (dplyr, purrr, broom, etc)  
+ Familiarity with building data processing pipelines and databases to support big data statistical analysis applications 
+ A Masters or PhD in statistics, mathematics, meteorology, or any other field with corresponding coursework and application in atmospheric science  
+
+Job Summary
+
+                             
+                     
+                         Location 
+                             Boston, MA 02111 
+                     
+                 
+                             
+                     
+                         Posted 
+                         14 Days ago 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         P_AAAAAADAAADAKnaRgDMVhH

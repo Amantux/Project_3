@@ -1,0 +1,98 @@
+IZEA was built to connect the world’s top brands with influential content creators and publishers to enable influencer marketing and content production at scale. With over 500,000 Creators reaching over 3 billion fans and followers around the globe, IZEA is unmatched in its industry experience, network diversity, and technology ecosystem. A career at IZEA offers countless ways to make an impact in a fast-growing organization!
+
+IZEA is looking for a Data Engineer to join our Core Technology group.
+
+This team member may be located in the Orlando area or remote.
+
+You will use the latest tools and technology to build and support IZEA's industry-leading data initiatives. Whether contributing to our data pipelines that ingest millions of records per hour, distilling vast amounts of data into meaningful insights, or operating the services that surface those insights, you will help define what the future of Influencer and Content Marketing looks like.
+
+You will have direct access to end-users and stakeholders, and you are encouraged to build and leverage these relationships in your work. You will write and test your code, and work with our QA team to get it deployed to production. With the help of a homegrown, bot-driven CI/CD pipeline, your code will be delivered to users daily. This cross-functional team leverages Amazon Web Services for everything from ECS for containerized virtualization and hosting, to S3 for durable object storage, RDS and DynamoDB for persistence, EMR for the batch processing of billions of records, and Lambda for distributed workloads and stream consumption.
+
+Aside from the day to day, we can offer you incredible benefits including an annual continuing education budget, a trust-focused development process, a flexible and collaborative work environment where balance matters, stock ownership, and an annual company retreat.
+
+The team strives to be ego-free and motivated only by building amazing software for our users. We seek to understand the "why" behind the "what". We regularly break out into small teams to tackle problems, learn new technologies, or just share what we know with others. We test our code and invest in the health of our systems. We push each other, learn from each other, and strive to continually grow.
+
+Primary Responsibilities
+
+You will...
+Work with stakeholders to define the solutions to development problems and business requirements
+Develop and maintain the features and capabilities of our data ingestion pipelines
+Extract actionable and impactful insights from vast amounts of data
+Develop and maintain the services that surface those insights and make them available for consumption in a performant manner
+Create unit and integration tests for your code
+Reproduce and fix bugs reported by internal and external users
+Set goals and communicate often about your progress toward them
+Contribute to the ongoing improvement of the engineering organization and our software
+
+What We’re Looking For
+
+A problem solver at heart
+Much of our work revolves around problems that have no existing off-the-shelf solution or consensus on best practices. You'll often need to break down large problems into smaller more manageable tasks and utilize critical thinking to come up with novel ideas.
+
+3+ years of engineering experience
+Things move quickly in the data group. You’ll need to be comfortable and familiar with delivering highly scalable cloud based applications.
+
+Professional experience with frameworks like Hadoop, Spark, or similar
+This will be a significant component of your responsibilities. You will be working with large data sets in a distributed environment on a daily basis. Familiarity w/ the Hadoop/Spark ecosystem is a must.
+
+Professional experience with Python data tools
+Our data team uses PySpark and Jupyter notebooks extensively. Familiarity with these technologies will also serve you well.
+
+Direct experience with relational and NoSQL databases technologies
+We use the best tool for the job around here. When it comes to storing and accessing data, we recognize that the technology decisions we make directly impact our ability to provide a performant customer experience, and our own costs.
+
+Experience designing and building JSON based RESTful APIs
+Because we are building our application with a front end framework, we carefully design and document the APIs to power it. To help us, we follow the JSON API spec, but any experience in building a RESTful API will be useful. Remember, the API is your contract with the consumers of your data!
+
+Understanding of monolithic and micro-service based architectures
+IZEAx still has some legacy monolithic characteristics. We move more and more of our technology to a distributed set of services, there are new challenges to overcome. Understanding the differences between these two models will help you take those challenges head on.
+
+Basic Linux skills
+In order to develop our data pipelines and services, you need to run it on your laptop. This means opening up some terminal windows, running some commands, and keeping the log output open. Additionally, some of our technology stack is better accessed through CLIs. Examples include the Ember CLI, the Rails CLI/console, Docker commands, Gradle, and our own CLIs. We'll walk you through it, but you should be comfy in a terminal.
+
+Ability to multitask and prioritize multiple incoming requests
+IZEA's Engineering team strives to provide a great experience and great service to our users. In order to do that, you may need to context switch into a support issue or drop what you are doing to start work on something else. This is part of what Agile means to us.
+
+Excellent verbal and written communications skills
+Regular and timely communication is the key to a trust based development process. You should be able to simply and concisely ask for feedback and direction in terms that your audience understands, and relay requested information in a timely fashion to your leaders. You should prioritize documentation of processes and code.
+
+Demonstrated experience with the following will be highly valued
+
+Data Science Background
+While not required, a fundamental understanding of statistics and modeling would be a great asset. Practical experience with Machine Learning and/or complex data pipelines would also be welcome.
+
+Front End development experience
+From time to time you may need to build visualization, or (lite) user facing experiences. Familiarity with modern web frameworks like Angular, React, Ember, or Vue would be helpful. Extra bonus points if you have familiarity w/ Javascript based visualization libraries like d3.js or Highcharts.
+
+Amazon Web Services, or other cloud providers
+IZEA's software is hosted on AWS, and you will need to acquire some familiarity with it. Previous experience in using a cloud provider, even if just for developer tooling, shows that you understand some of the nuances involved in working in the cloud. Familiarity with Amazon’s EMR would also be an asset.
+
+Continuous Integration & Deployment
+IZEA needs to get features and fixes out to customers as soon as we possibly can with as much confidence as possible. To facilitate this, we have developed a CI/CD pipeline (using 3rd party services). An understanding of what CI/CD is will help you understand how this pipeline works and how to make it even better.
+
+GitHub
+All of IZEA's code is source controlled on Github. We leverage Github Pull Requests for code reviews, Github integrations manage parts of our CI/CD pipeline, and Github releases define the code tags that ultimately get deployed. Much of our process documentation exists on Github pages. Familiarity with navigating Github's features will help you ramp up in our SDLC faster.
+
+JIRA
+IZEA uses JIRA to manage projects and report on progress to stakeholders inside and outside the company. While we strive to automate as much of JIRA as possible with bots, webhooks and reports, understanding how JIRA issues, links, attachments, and workflows work will help you understand our SDLC faster.
+
+About IZEA:
+
+We are IZEA: The Creator Marketplace. Our cloud-based technologies connect Brands and Publishers with content Creators who blog, tweet, pin, and post on their behalf.
+
+Our driving belief is that the only way to thrive in our rapidly changing world is to change ahead of it. IZEA is in a constant state of evolution and reinvention. While we may have invented the industry, we still operate like an entrepreneurial, scrappy start-up. Your time here will be exciting, educational, and at times, a bit crazy.
+
+With IZEA, you have the opportunity to join a non-traditional corporate culture, where creativity and productivity are valued over a suit and tie. We call it "The IZEA Way."
+
+
+Why would you want to work here?
+
+Our developers use the latest tools and technology to build the applications and services that make up the IZEA Exchange platform. We write in whatever language we need to get the job done including Ruby, Java, Python, PHP, Swift, and Javascript. We leverage the latest frameworks, such as Rails, Symphony2, and Drop Wizard for iterating quickly on our technology.
+
+Our code is deployed and operated by the people who write it, with the help of Amazon Web Services. We leverage everything from EC2 for virtualization and hosting, to Amazon EMR and Machine Learning for advanced analytics.
+
+Aside from the day to day, we offer incredible benefits including an annual continuing education budget, a flexible trust-focused development process, and an open collaborative work environment.
+
+Our team is ego-free and motivated to build great software. We regularly break out into small teams to tackle problems, learn new technologies, or just share what we know with others. We test our code and invest in the health of our systems. We push each other, learn from each other, and strive to continually grow as a team.
+
+California residents, please follow this link to view the types of information we may gather from California residents who are applicants, employees, or contractors of IZEA, and how we use such information.

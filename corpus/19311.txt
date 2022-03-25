@@ -1,0 +1,36 @@
+Our Story
+
+The National Research Center for College and University Admissions™ (NRCCUA®), now a part of ACT®, is a membership organization that links colleges and universities to the nation’s largest college and career planning program for students seeking post-secondary guidance. In addition, members can receive exclusive access to Encoura™ Data Lab—an educational data science, analytics, and research platform. Since 1972, ACT | NRCCUA has been a leading provider of data, technology, and programs servicing public and private colleges and universities to enhance their marketing and recruiting efforts.
+
+Over the years, ACT | NRCCUA has continued to evolve its offering to represent the link between students and higher education institutions. As part of that evolution, ACT | NRCCUA acquired Eduventures—the leading research and advisory firm focused exclusively on higher education. We are now able to provide forward-looking and actionable research based on proprietary market data, as well as advisory services that support both strategic and operational decision-making. All Eduventures Research is now available in the Encoura Data Lab platform.
+
+The Senior Database Engineer is a hands-on technical position for a senior-level professional. The role involves an advanced, experienced skill set to design, develop and implement database objects, procedures and processes using the SQL Server platform to support business objectives throughout the organization.
+You'll be working as part of an Agile team, developing the systems that power our business. This is a hands-on role, working with other engineers, writing code, testing, and deploying the finished apps and libraries.
+Responsibilities and Deliverables
+In partnership with your co-workers, design and develop database infrastructure (tables and views) to support a complex and rapidly changing data environment.
+Create working, maintainable, and fast Python scripts and stored procedures using best practices and current organizational standards to support data-driven applications, both internal and client-facing.
+Use indexing and other techniques to optimize new and existing objects and processes.
+Develop processes for the ETL of data throughout the entire organization.
+Generate data to support reporting (ad-hoc and standardized).
+Follow and help develop database team standards and methodologies; use source control and build management procedures to ensure stable development, staging and production database environments.
+Enhance, refactor, and continuously improve the database schemas and related code.
+Communicate effectively with technical and non-technical people.
+Solve business needs with short-term deliverables, while constantly improving and moving towards long-term architectural goals.
+Generate new ideas, never say or think "that's not my job."
+Be proactive in keeping your skills fresh
+Qualifications and Experience
+5+ years of T-SQL development experience in SQL Server.
+3+ years of experience developing ETL processes with SQL Server Integration Services, Pentaho, or other tools. Bonus points for having developed ETL processes with Python and AWS.
+2+ years of experience in development with Python 3.
+1+ years of experience developing on AWS and Linux.
+Mastery of advanced database design methodologies and experience with database modeling tools, dimensional modeling and statistical analysis
+Clear understanding of SQL Server best practices for development of stored procedures, views, tables, security objects, indexes, etc.
+Experience with any of the following is a plus: Postgres, SQL Server Reporting Services, MongoDB, Redis, Exasol
+An appreciation for pragmatism and simplicity in code.
+A strong code and architecture design sensibility.
+Customized mathematical skills as determined by the requirements of the job
+NRCCUA is an Equal Employment Opportunity (EEO) employer. It is the policy of the Company to provide equal employment opportunities to all qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information. All applicants must be eligible to work in the U.S.
+
+NRCCUA endeavors to make reasonable accommodations for applicants with disabilities and disabled veterans pursuant to applicable federal and state law. If you are an individual with a disability and require a reasonable accommodation to complete any part of the application process or are limited in the ability and need an alternative method for applying, please contact the People Team.
+
+To review our privacy policy, please click this link: https://encoura.org/privacy-policy/

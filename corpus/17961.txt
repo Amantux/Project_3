@@ -1,0 +1,33 @@
+Who's Clearcover?
+Clearcover is the smarter car insurance company. We use powerful technology to offer everyday drivers better coverage for less money. We're proud to be one of the fastest growing startups in Chicago, and we're currently looking to add a few more extraordinary people to our team.
+
+What is an Analytics Engineer at Clearcover?
+Reporting to the Director of Business Intelligence, the Analytics Engineer will work within the larger Product team collaborating with all business units to deploy analytic solutions as well as supporting self-service analytics across Clearcover.
+
+What will you do?
+Provide leadership to a fast-paced and talented team that is focused on delivering analytical solutions
+Design and optimize our cloud based data warehouse architecture
+Write production-quality ELT/ETL data transformation code with an eye towards performance, maintainability and scalability
+Coach product analysts and business users on utilizing BI data tools
+Collaborate with data engineers on infrastructure projects for sourcing data
+Responsible for delivering new, re-usable business intelligence solutions and demonstrating value proposition to business stakeholders
+Work with the product team to develop novel approaches to finding, collecting and using data
+What do you need?
+Significant experience developing and delivering data solutions as a member of a business intelligence or analytics team
+Have a passion for solving problems using data and analytics
+Must have a solid understanding of data warehouse architecture and best practices
+Deep understanding of SQL query writing and use it on a daily basis in your current role
+Experience with DBT (Data Built Tool) or ETL/ELT tools in a production environment
+Experience with Snowflake or Redshift serving as the Data Warehouse production platform
+Experience with Tableau or other data visualization tools (Looker, Periscope)
+Experience working with semi-structured data types such as JSON and XML.
+Have used Python, Ruby, or R when SQL failed you or was needed for a complex report or analysis
+Strong written and verbal communication skills including the ability to collaborate across teams
+What's in it for you?
+Unlimited vacation and flexible work schedule, we hire adults
+Equity for all employees, so you own a piece of the pie too
+Dental and Vision, we've got you covered 100%
+Medical, we cover 90% of your premium, 75% of your dependents and contribute to your HSA and HRA (cha-ching)
+We invest in your future by contributing 3% of your salary to a 401(K), even if you don't
+Come to work pre-taxed through our FSA commuter benefits
+and yes, we have unlimited LaCroix, beer, snacks and the occasional ice cream social

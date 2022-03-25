@@ -1,0 +1,22 @@
+Posted: Mar 26, 2020
+Weekly Hours: 40
+Role Number:
+200159737
+At Apple, new ideas have a way of becoming extraordinary products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish! We are seeking an enthusiastic team member to join our growing team. Will you help us design and build the next generation of Apple products? How are Apple products used? How can they be improved? These are the kinds of questions that the SWE Analytics Engineering team answers. Are you passionate about helping to inform the strategic direction of software at Apple? Do you want to work with the latest Big Data technology on one of the largest data sets in the world? If you are passionate about working on issues that address the highest levels of performance and quality for Apple software, then we want to talk to you.
+
+The SWE Data Analytics team at Apple collects, processes, and analyzes diagnostics and usage data from Apple devices across the world. Our data is used to generate insights that informs and drives product strategies across all of software and hardware development. We develop batch and streaming analytics solutions using Kafka, Flume, Hadoop, Spark, Jenkins, and other state of the art technologies in a large scale infrastructure. We are looking for a passionate and results-oriented Big Data Engineer to join our team and work on some of the highly visible data projects in software engineering organization! Collaborating with data analysts, device engineers and engineering teams, you will drive the development of data pipelines and services with high degree of ownership.
+Key Qualifications
+Deep experience developing large scale distributed computing systems in a large organization.
+In-depth knowledge and experience in one or more of the following technologies: Hadoop ecosystem, Kafka, Samza, Flume, HBase, Cassandra, Redshift, Vertica, Spark.
+Deep understanding of key algorithms and tools for developing high efficiency data processing systems
+Validated software engineering experience and discipline in design, test, source code management and CI/CD practices
+Experience in data modeling and developing SQL database solutions
+Proficient in working with Linux or other Posix operating systems, shell scripting, and networking technologies
+Strong software development, problem-solving and debugging skills with experience in one or more of the following languages: Java, Python, Scala, or Ruby
+Ambitious, passionate about software development, especially in data technologies, you love working in a fast-paced and dynamic environment
+Organized, detail oriented, and thorough in every undertaking. You are able to multi-task and change focus quickly
+Excellent interpersonal skills.
+Description
+As part of a small team of highly skilled data engineers, you will own significant responsibility in crafting, developing and maintaining our large-scale ETL pipelines, storage, and processing services. You will build self-service analytics tools to help engineering teams derive actionable metrics out of large volumes of raw data. You will partner with data science and engineering teams and develop algorithms to answer complex questions on usage of our products. You will work closely with the DevOps team and develop monitoring and alerting scripts on various data pipelines and jobs You will have the opportunity to learn and work on the latest Big Data technologies, lead POCs to demonstrate new ideas and influence the future direction of our technology stack
+Education & Experience
+B.S. in Computer Science or equivalent.

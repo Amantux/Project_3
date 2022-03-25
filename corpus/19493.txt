@@ -1,0 +1,38 @@
+SNI Technology is pleased to represent our client in their search for a talented DevOps Engineer who specializes in Hadoop for a 6 month contract to hire (Remote) opportunity.Please no 3rd parties, C2C is not an option for this role!
+
+Duties:
+
+• Provide infrastructure and support for software developers to rapidly iterate on their products and services and deliver high-quality results. This includes infrastructure for automated builds and testing, continuous integration, software releases, and system deployment
+• Automate the development and test automation processes through CI/CD pipeline (GitFlow, Jenkins, SonarQube, CheckMarx, Puppet, Terraform, etc.)
+• Develop and configure tools for more productive Front-end Operations (build tools, deployment, speed, app, tests, builds, deploys, monitoring errors/logs, and stability)
+• Install and configure Hadoop clusters (experience in Cloudera is a plus)
+• Manage Hadoop, Sqoop and Spark cluster environments
+• Broad understanding of tools and technologies: source control, continuous integration, infrastructure automation, deployment automation, container concepts, orchestration and cloud
+• Ensure proper resource utilization between the different development teams and processes
+• Design and implement a toolset that simplifies provisioning and support of a large cluster environment
+• Aligning with the systems engineering team to propose and deploy new hardware and software environments required for Hadoop and to expand existing environments
+• Apply proper architecture guidelines to ensure highly available services
+• Review performance stats and query execution/explain plans; recommend changes for tuning
+• Create and maintain detailed, up-to-date technical documentation
+• Manage and maintain multiple environments to ensure proper setup, configuration and availablility for each project as scheduled
+• Solve live performance and stability issues and prevent recurrence
+
+Qualifications:
+
+• Bachelor's Degree in Computer Science or equivalent work experience
+• 6+ years' software engineering / devops experience
+• 6+ years' experience in architecting, administrating, configuring, installation and maintenance of Open Source Big-data applications, with focused experience in MapR distribution
+• Experience in utilizing and implementing ZooKeeper and Broker with Kafka
+• Must be hands-on with Apache/Confluent Kafka, Hadoop, Apache stack
+• Expertise in administration of Hive / Drill / Hbase / Spark / Sqoop
+• Experience in setting up Kerberos principals and testing HDFS, Hive, Impala and Spark access for the new users
+• Strong knowledge of scripting and automation tools and strategies, e.g. Shell, Python, Powershell
+• Experienced overseeing web application installations, upgrades, and deployment as well as any servers/systems that support hosted web applications
+• Experience installing/upgrading applications and deploying applications/solutions
+• Work with Jenkins and CI tools to automate software delivery (build, test, deploy)
+• UNIX/Linux system administration experience
+• Experience with performance tuning of Cloudera clusters, YARN & Spark
+• Experience with modern application infrastructure methodologies such as ansible and Kubernetes deployment
+• Healthcare IT experience - a plus
+
+Job Requirements:

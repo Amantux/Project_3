@@ -1,0 +1,21 @@
+RiverPoint Group has an exciting permanent role that has opened up in Chicago for a skilled Data Catalog Engineer. This is a 6 month contract for hire role located in down town Chicago.
+
+The Data Catalog Engineer will be responsible for the construction of an enterprise data catalog which will connect to data assets throughout the organization, tag the data, house technical and business meta data, intelligently discover relationships between the data, and enable usage by a wide variety of enterprise users.
+
+Responsibilities:
+Continually add to the data catalog by Ingestion of data from a wide variety of data sources, including relational databases, flat files, unstructured data, NoSQL data, ETL repositories, and reporting repositories.
+Configure data sources, data domains, and their relationships.
+Meet data definition, data quality, data profiling, and data lineage expectations by utilizing the data catalog functionality
+Create and administer a data catalog security model to ensure the proper groups can access the right information; create a foundation for future data governance
+Meet data privacy requirements by proper data classification and remediation of data privacy use cases
+Work closely with the Lead Data Project Manager and Lead Data Business Analyst to ensure that the Data Catalog and Data Privacy programs are meeting expectations.
+Collect data issues across the meta data ecosystem, work with business owners and data stewards to remediate issues.
+Create a highly structured and comprehensive control environment so that data catalog content remains in high quality
+Required Skills:
+Bachelor’s Degree in Computer Science, Statistics, Information Systems or other related field
+At least 1 year of experience with data catalog systems, technologies, and workflows. Broad technical skills necessary, with a solid understanding of data systems and infrastructure.
+Strong SQL and data analysis skills to query a wide variety of data sources. Ability to analyze data models, data taxonomy, and deep appreciation of data standards and quality.
+Previous hands-on experience with ETL, data profiling, and data lineage tools.
+Ability to work with cross functional teams, perform root cause analysis and resolve complex issues.
+Strong written and verbal communication skills, including the ability to articulate ideas concisely and clearly to both technical and non-technical audiences
+#IND123

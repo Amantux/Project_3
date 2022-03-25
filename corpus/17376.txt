@@ -1,0 +1,56 @@
+Job Description
+Dedicated Tech Services, Inc. (DTS) is an award-winning IT consulting firm based in Columbus, OH. We now have an opening for a Technical Data Analyst in Columbus, Ohio.
+
+US Citizens and those authorized to work in the US are encouraged to apply. We are unable to sponsor at this time.
+
+Direct applicants only, no corp-to-corp candidates, third parties, or agencies, please.
+
+This is a right-to-hire position with our client.
+
+This is a mid-level position. It is not suitable for recent college or graduate school graduates who do not have 3-5 years of professional data analysis experience.
+
+Required Skills and Experience:
+3-5 years of professional experience in technical data analysis
+Experience in analyzing business needs to determine technical requirements and communicate with engineers and business stakeholders.
+Experience in eliciting, analyzing, validating, documenting, and managing technical systems and application requirements and in developing artifacts such as user stories and story cards
+Experience developing current and future state process flows
+Must have strong SQL query skills for relational databases (Postgres, Redshift) and for manipulating data and inserting application configurations
+Strong Agile knowledge experience
+Experience in data modeling, mapping, reporting, and profiling
+JIRA skills and experience
+Need UI backend data warehouse experience
+Understand data warehouse concepts, schemas, relational and dimensional data models.
+Organization skills to understand project status, answer support questions, and handle multiple, sometimes conflicting, priorities and requests.
+Desired Skills and Experience:
+Alation data catalog
+Healthcare/clinical data experience; Varian/Onco EMR; EDI 837/835
+HIPAA/PHI/HiTrust privacy/security understanding
+Confluence
+Jupyter notebooks
+Scrum, Kanban, and agile processes and methods
+Acceptance test driven development (ATDD) requirements methods
+Clinical data knowledge, test scenarios, GitHub, as-is, to be and data flow diagramming
+Technical professional that can describe their process for breaking down epics, acceptance criteria for cards, 3 amigos and helping the team size and break down work.
+Job Description:
+
+We are looking for a Technical Data Analyst who will build and operate the clinical data lake. Our client’s team imports and exports clinical patient data for use in other applications, as well as commercial reporting and analytics products. The data lake consists of multiple products, including managed file transfer (MFT); data parser, router, and compliance filter; and patient matching and de-identifications services. You will perform operations support, data analysis (including data profiling and mapping) for defects and anomalies, and you will write requirements for Agile stories. Specifically, you will:
+Elicit, analyze, validate, document, and manage IT systems requirements
+Execute daily operations queries to ensure all files were received from vendors as expected, all data was ingested, exports occurred, and data quality counts are matching expectations.
+Serve as the initial triage point for all issue resolution with vendors and customers if data was not imported or exported as expected.
+Contact vendors to arrange for data to be re-sent and communicate with downstream customers as to the status of issues resolution.
+Escalate to management, stakeholders, engineering, and infrastructure staff as necessary.
+Ensure data quality by analyzing counts of data sent, processed, and received. Identify and investigate data anomalies in the data warehouse and create defect cards for corrections of code and/or data.
+Based on roadmap items, business needs, and upcoming projects, decompose epics into user stories that include technical requirements for development; sources of information will be product owner and tech lead.
+Lead team joint application development discussions, and issue sizing and prioritization to answer questions about requirements to ensure defect-free completed work.
+For small projects, work directly with stakeholders and other technical teams to plan sequencing and timeline for development and testing activities.
+For completed work, perform issue acceptance activities, ensuring requirements were met, check non-prod data to ensure correct processing.
+Document standard operating procedures and team processes; organize the team document repository.
+Create process models and diagrams to communicate internal application processes for business stakeholders.
+Using data catalog tool, document, annotate, and describe data assets for others to understand available data and metadata for feasibility analysis.
+Additional tasks may include:
+Facilitate Agile ceremonies (standups/retros/demos)
+Leadership of small projects
+Assist with product roadmaps/planning
+Assist product ownership activities
+Pair development with engineers
+Communicating with customers/vendors

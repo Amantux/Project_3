@@ -1,0 +1,29 @@
+Blackfynn is looking for a talented Data Curator to join us in our mission to improve the lives of patients affected by neurological diseases using data-driven insights & initiatives.
+ABOUT US
+We're a group of engineers, scientists, and clinicians tackling tough problems at the intersection of science and software. As a data curator at Blackfynn, you will be supporting our data scientists by modeling and transforming valuable clinical data to optimize their application to neurological disease research. You will help shape Blackfynn’s novel data platform and the richest clinical datasets in neurology — starting with Parkinson’s disease, and expanding to Huntington’s disease, ALS, dementia and others.
+
+WHAT YOU'll DO
+Acquire and curate large, complex clinical datasets.
+Drive the development of core aspects of Blackfynn’s data ecosystem, with the goal of enhancing data discovery, analytic utility and analysis reproducibility.
+Annotate and validate datasets utilizing research data standards (CDASH, RxNorm, ICD, etc).
+Develop tools to facilitate data cleaning, transformation, and mapping.
+Generate data summary dashboards and analysis reports.
+Develop data documentation standards and processes.
+
+REQUIREMENTS AND QUALIFICATIONS
+BS or MS in the life sciences, bioinformatics, or a related subject.
+1+ years experience in the collection or processing of clinical or scientific data.
+Proficiency in a scripting language such as Python or R.
+Experience with a UNIX-like OS and command line (Bash).
+Experience with database technologies (SQL, RDBMS).
+Familiarity with clinical trial or medical data standards (SDTM).
+Strong project management skills; systematic, structured, and pragmatic approach to tasks, with good attention to detail.
+Flexible. Deals positively with ambiguity and finds appropriate solutions.
+Entrepreneurial mindset.
+WHAT WE OFFER
+Competitive salaries and equity participation – we all share in Blackfynn’s success
+Generous vacation benefits – we want you to work hard but also rest and recharge
+Excellent health benefits – at the end of the day, we are here to improve healthcare
+WHY BLACKFYNN?
+Neurologic conditions affect one in six people worldwide. The data collected when researching and treating these conditions is some of the most complex in the field today. To improve the lives of those impacted, access to and collaboration around this data needs to be vastly improved. To achieve these goals, we need passionate, bright, collaborative, problem-solvers who want to use their skills and talents to make a positive impact on the world.
+For more information, please contact us at: tim@blackfynn.com

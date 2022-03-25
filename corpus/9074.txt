@@ -1,0 +1,89 @@
+Description:
+
+Jr. Data Scientist, Jr. Database Development & Performance specialist
+
+Works on problems of moderate and varied complexity where analysis of data may require adaptation of standardized practices or precedent. Acts independently to identify and select appropriate methodologies. Work customarily and regularly (50% of time or more) requires the exercise of discretion and independent judgment. Normally receives general instructions on non-routine work assignments. Requires additional instructions and frequent guidance on new assignments. Decisions are made independently. Assigned multiple tasks or projects are generally reviewed after completion. Contact is typically coordinative in nature and involves exchanging detailed technical information. May deal with both internal and external contacts. Demonstrates working knowledge in job-related functional area and of the business.
+
+Minimum 7 to 8 years full SDLC development experience with Informatica Power Center 9.1. 6-7 years Oracle PL/SQL, SQL, Stored Procedures, Packages, SQL Navigator or similar 3-4 years Unix Shell scripting Working knowledge of the Data Transformation 8.6 or higher and how it integrates with Power Center. Full understanding of each Power Center component: Designer, Workflow Manager, Workflow Monitor. Ability to create and maintain Tasks, Worklets, Workflow, Sessions, Mappings, Mapplets, Transformations. Full understanding of each data transformation type and ability to effectively implement into a mapping. Ability to trouble-shoot and solve configuration issues. Design and implement full solutions according to Business Requirements. Identify existing software defects and develop solutions Create design documents of work done for the project team. Can take ownership of assigned tasks and plan own time to ensure project milestones are met. very good understanding of database structures to support data integrity and performance, SQL, PL/SQL, query tuning
+
+The team member in this role will work on database systems critical to a great customer experience in or self service channel (web portals and mobile application).
+
+JOB DUTIES:
+
+Informatica
+
+ETL
+
+Dataware house
+
+Expert in Unix shell scripting
+
+Oracle SQL & PS/SQL programming
+
+Expertise in handling large data loads using informatica ETL
+
+C++ programming for mapper and parser
+
+Experience with Informatica Data Transformation Studio 10.2
+
+Analysis and debugging of Informatica work flows, mapping and Jobs
+
+Develop, Enhace and Debug Informatica ETL jobs,Oracle packages and Unix shell Scripting.
+
+Experience working across business and IT stakeholders delivering new Data Warehouse projects and applciation enhancements.
+
+Experience in Performance Tuning of SQL scripts and ETL Jobs.
+
+Ability to work independently and as a memeber of a team.
+
+Perform overall solution design and creation of design specifications to implement changes.
+
+Testing
+
+Create and execute test plan to exercise functional and technical requirements.
+
+Release Support
+
+Verifying database schema and data patches applied correctly
+
+Monitoring database activity and log activity during release testing
+
+Investigate issues found during a release, assess customer and system impacts
+
+MUST HAVE SKILLS:
+
+Development experience with
+
+Oracle 10g
+
+PostgreSql
+
+Database development IDE (Toad, Oracle SQL Developer, or other)
+
+SQL, DDL, Explain plan analysis
+
+Experience with all phases of the Software Development Life cycle, including system analysis, design, coding, testing, debugging and documentation
+
+Excellent written and verbal communication skills
+
+Team player, collaborative
+
+Delivers excellent quality of code and documentation
+
+Critical thinker, good problem solver
+
+Can deliver assigned work independently
+
+DESIRED SKILLS:
+
+Cassandra design, development experience
+
+Elastic design, development experience
+
+Java
+
+OOM framework
+
+EDUCATION/CERTIFICATIONS:
+
+BS in computer science, information systems, or other technical field is a plus but not required

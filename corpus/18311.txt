@@ -1,0 +1,31 @@
+Company Description:
+Limelight Networks provide one of the largest Content Delivery Networks (CDN), covering the whole world, and is the content delivery partner for thousands of entertainment, technology, enterprise and government entities globally. Limelight’s mission is to securely manage and globally deliver digital content, building customer satisfaction through exceptional reliability and performance.
+
+Job Purpose:
+As part of the Content Delivery software development team, the Software Engineer will assist in all aspects of the software development life-cycle. We implement using agile and continuous deployment methodologies and obsess about streamlining delivery of software seamlessly into production environments. We communicate tirelessly across and within organizations to ensure silo free implementations. We assist in troubleshooting in the development, QA labs, as well as in production. We strive to focus on performant and robust solutions, that scale and utilize our infrastructure to the maximum.
+
+Required Experience and Education:
+Bachelor’s Degree in Computer Science, Information Systems or equivalent experience
+2+ years experience with implementing software in C or C++ on Unix or Linux systems with experience of awk, sed and similar command line utilities
+Web services with implementation practice of HTTP, REST, JSON etc.
+Scripting languages such as bash, python or equivalent
+Agile, Continuous Deployment
+Version Control such as Git, Continuous Integration such as Jenkins, Configuration management such as SaltStack
+Excellent coordination, planning and written and verbal communication skills
+
+Essential Functions:
+Passionate and self-motivated
+Work in a fast-paced, collaborative environment while providing exceptional visibility across all organizations including actively participating in daily scrums, and all communication methods
+Drive efficiency improvements in the deployment and management of systems and services
+Support and maintain existing applications and platforms adding new features and improving performance and operability, including monitoring, automation and configuration management.
+Design, implement, evaluate, and recommend solutions to complex problems in a large multi-tiered enterprise environment
+Collaborate and add value through participation in peer code reviews, providing comments and suggestions and enforcing coding standards
+Maintain a positive demeanor and a high level of professionalism at all times
+Ability to travel occasionally as necessary
+Other duties as assigned by management
+Valued Knowledge, Skills & Abilities
+FreeBSD, Ubuntu
+TCP networking fundamentals, and use of tools such as tcpdump, wireshark as well as abilities to profile
+Ability to document technical information and track tasks and projects on a daily basis and in a clear and concise manner
+Familiarity with enterprise monitoring applications such as Zabbix
+Data storage systems including MySQL and/or Postgres

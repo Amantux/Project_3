@@ -1,0 +1,33 @@
+Sr. Data Scientist (Multiple Openings) - 63682
+
+Data Science - USA Chicago, Illinois
+
+Founded in 1923, Nielsen is the global authority on the consumer. We help over 20,000 clients, from Coca-Cola to Walmart to Apple to Disney, in 105 countries understand consumers and grow their businesses, every day. The company is organized into two areas: What Consumers Watch, serving media, telecom and tech industries; and What Consumers Buy, serving consumer goods, retail, financial services and automotive industries.
+
+In this role, you will be responsible for:
+
+Gather business requirements and create technical requirements for statistical analytics solutions. Create data processing systems for production purposes. Using established Nielsen development, testing and deployment practices, draft design documents that are presented to internal and external stakeholders. Present material to internal department stakeholders. Partner with the Software Engineering department to build best-of-class Cloud-based analytical solutions based on the Agile solutions development methodology. Implement statistical and econometric models. Analyze (i.e., to determine the quality of) econometric models, and implement and analyze supervised and unsupervised learning approaches. Write modules for Nielsen analytics platform. Prototype and design analytic methods. Extract, and conduct quality assurance for, market research/marketing, economic and company data from different external and internal platforms. Conduct research to identify new quality assurance measures. Train and mentor (without supervisory authority) 1-2 Data Scientists. Involves domestic travel, 1-2 times per year, for up to 2-3 days per trip. Tools used include: SQL, Python, Pandas, Scikit Learn, R, Spark MLib and Scala.
+
+FOR THIS ROLE, WE ARE LOOKING FOR INDIVIDUALS THAT HAVE:
+
+Minimum Requirements:
+
+Master’s degree in statistics, mathematics, economics, or a related hard science, social science or engineering field with a quantitative focus, such as computer science or engineering, physics, chemistry or sociology (foreign equivalent degree acceptable) plus 3 years of experience in conducting data modeling and statistical analysis using large and complex (at least 10 GB) datasets (would also accept a Ph.D. in such a field plus 1 year of experience). This must include: 3 years of experience (or 1 year of experience after a Ph.D.) in/with: gathering data requirements for statistical, econometric and/or predictive analytics research that drives market research/marketing analytics product innovation and implementation; handling large volumes (at least 10 GB) of structured and unstructured data; Python and its libraries (such as Pandas, Numypy and/or SciKit Learn), SQL, Spark, and R, all via a Cloud-based platform (such as AWS and/or Azure). 1 year of experience in/with: building efficient data processing pipelines for analytical systems; and Airflow. Must be willing to travel domestically, 1-2 times per year, for 2-3 days per trip.
+
+#LI-DNP
+
+ABOUT NIELSEN
+
+We’re in tune with what the world is watching, buying, and everything in between. If you can think of it, we’re measuring it. We sift through the small stuff and piece together big pictures to provide a comprehensive understanding of what’s happening now and what’s coming next for our clients. Today’s data is tomorrow’s marketplace revelation.
+
+We like to be in the middle of the action. That’s why you can find us at work in over 100 countries. From global industry leaders to small businesses, consumer goods to media companies, we work with them all. We’re bringing in data 24/7 and the possibilities are endless. See what’s next with us at Nielsen: careers.nielsen.com
+
+Nielsen is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity/Affirmative Action-Employer, making decisions without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability status, age, marital status, protected veteran status or any other protected class.
+
+Job Type: Regular
+
+Primary Location: Chicago,Illinois
+
+Secondary Locations: , , ,
+
+Travel: Yes, 5% of the Time

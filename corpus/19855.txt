@@ -1,0 +1,53 @@
+Data & Service Health Analyst
+
+The successful candidate may work remotely if not located near the NYC or College Park, Maryland office.
+
+Data & Service Health Analyst must have experience working across a wide variety of data types (structured, unstructured in a variety of sourcetypes) and ingest processes (e.g. ETL, streaming analytics, field extraction, etc). Must be able to maintain and troubleshoot solutions that enable ingest, transform, and redaction of security data/metadata used by multiple stakeholders into a Splunk Based System. Partner with clients to architect the appropriate data collecting and pipeline processes to support monitoring within our core platform. Must understand core IT security and Network fundamentals and be well capable of working with a client-facing/customer-service mindset.
+
+Primary Role Success Criteria:
+
+Experience working with enterprise class Anti-Virus software.
+Understanding of core network protocols (DNS, DHCP, ARP, TCP, UDP, SSL, SSH, SCP, FTP, IPSec, etc.)
+Linux systems and networking admin/ troubleshooting
+Knowledge of technology solutions in one or more of the following functional areas:
+Cyber Security,
+IT Network/Cloud Environment data/metadata
+Ownership mindset, with demonstrated partnership with functional counterparts to deliver on a material set of business objectives.
+Service Health Delivery experience a plus
+Experience writing custom queries in SIEM (ideally in Spunk)
+
+Secondary Role Success Criteria:
+
+Java based regular expressions
+Experience with Python or other scripting languages
+Hands-on experience with data pipelines and ingest, normalization and modeling solutions and processes with SIEM technologies (ideally Splunk)
+Recent Experience using Splunk or other big data database solutions for ingestion and analytics
+
+What you will do as a Data & Service Health Analyst:
+
+Willing to work one weekend day a week required (Sun-thursday or tues-Sat schedule). Hours are flexible, but standard business hours preferred
+Triage and troubleshoot service health issues with respect to our managed security solutions.
+Examples include, troubleshooting network connectivity, linux operating system problems, event data flow issues, software installation issues
+Work in a client facing role to assist customers with correcting service issues.
+
+About BlueVoyant
+
+BlueVoyant is a global cybersecurity firm that provides Advanced Threat Intelligence, for large companies and a comprehensive Managed Security Service and Professional Services for small businesses, powered by one of the largest commercially available cyber threat databases in the world.
+
+By working with BlueVoyant, companies can gain unique and far-reaching visibility into malicious activity on their networks, in the dark web and across the internet, as well as real-time, automatable remediation services. Through our unique real-time external threat monitoring, predictive human and machine-sourced intelligence, and proactive managed security and incident response, BlueVoyant offers the private sector exceptional cyber defense capabilities.
+
+Co-founded by CEO Jim Rosenthal, former Chief Operating Officer at Morgan Stanley, and Executive Chairman Tom Glocer, former Chief Executive Officer at Thomson Reuters, BlueVoyant has attracted a management team that comes from the worlds preeminent intelligence, law enforcement, and private sector organizations. Other leaders include:
+
+• Jim Penrose, COO, former EVP at Darktrace with 17 years at the NSA in key leadership roles.
+• Robert Hannigan, Chairman of BlueVoyant International, former Director of GCHQ.
+• Gad Goldstein, President BlueVoyant International and Chairman of BlueVoyant Israel, former division head in the Israel Security Agency, Shin Bet.
+• Austin Berglas, Global Head of Professional Services, former head of the FBI's New York Cyber Branch.
+• Milan Patel, Chief Client Officer, former CTO of the FBI Cyber Division.
+• Ron Feler, Global Head of Threat Intelligence and Operations, former Deputy Commander of Unit 8200, the cybersecurity division of the Israel Defense Forces.
+• Mike Wertheimer, Senior Advisor, former Research Director of NSA
+• Bill Crumm, Senior Advisor, former NSA SIGINT Director and former Cybersecurity Head, Morgan Stanley.
+• Jim Bieda, Senior Advisor, former NSA Deputy CTO.
+
+All employees must be authorized to work in the United States or Israel. BlueVoyant provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, BlueVoyant complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities.
+
+Powered by JazzHR

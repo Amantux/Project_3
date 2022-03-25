@@ -1,0 +1,26 @@
+Plume develops and deploys cloud based control planes with scale to manage tens of millions of customer homes through some of the world's largest Internet Service Providers. Our cloud applications include WiFi network management and optimization, device access control, network provisioning, IoT security, and end customer user interaction through mobile apps.
+
+We are growing our team and looking for talented individuals to help us define and drive the success of our cloud based service offering. Our focus is on the home market and we support B2B and B2C product offerings.
+
+The Opportunity:
+
+As a Senior Data Engineer at Plume, you will focus on providing actionable insights and build highly available resilient systems that will impact and help make business decisions. You will ensure that the platform service we are delivering will meet both our and our customers' reliability expectations.
+
+What you will do:
+Build infrastructure and abstractions that can enable anyone (engineer or data scientist) to craft a scalable ETL pipeline for whatever the purpose is: metrics, analysis, machine learning, dashboard visualizations
+Work closely with ops team to monitor and tune existing infrastructure.
+Make intuitive decisions about what services, frameworks, and capabilities need to be in place before they are needed.
+Build and maintain a data collection system that robustly extracts meaningful data from multiple sources and data stores.
+Build analytics and Machine learning platforms to collect, store, process, and analyze huge sets of data
+Who you are:
+BA/BS in Computer Science, Information Systems or related technical field.
+3+ years of experience in Data Infrastructure, with Cloud SW experience a plus.
+Experience in crafting and scaling data infrastructure, models, and pipelines
+Hands-on experience with a variety of data infrastructures, such as:
+Processing: Spark, Flink, Hadoop, Lambda
+Messaging: Kafka, Zookeeper, Pulsar
+Storage: Hive, Mongo DB, Athena, Phoenix, Splice, Redshift, DynamoDB
+Machine Learning: Sagemaker, H2O, Keras, NumPy
+Open and active in sharing knowledge as well as excellent communication skills
+Programming experience in one or more application or systems languages including Scala, Java, or Python
+Have an ability to own a project from inception to completion

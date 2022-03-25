@@ -1,0 +1,33 @@
+About Us
+
+Tachyon Technologies is a Digital Transformation consulting firm that partners with businesses to implement customer-focused business transformation. Tachyon Technologies understandÂwhat it takes for a consulting partner to be effective and strives to deliver a meaningful solution that exceeds its clients' expectations.
+
+Role: Hadoop Data Engineer
+Location: Irving, TX
+Duration: 3 - 6 + Months
+
+Responsibilities
+â Partner with data analyst, product owners and data scientists, to better understand requirements, solution designs, finding bottlenecks, resolutions, etc.
+â Support/Enhance data pipelines and ETL using heterogeneous sources
+â Transform data using data mapping and data processing capabilities like Spark, Spark SQL, Impala etc.
+â Expands and grows data platform capabilities to solve new data problems and challenges
+â Ability to dynamically adapt to conventional big-data frameworks and tools with the use-cases required by the project
+
+Basic Skill Requirements
+â 7+ years Enterprise Development
+â 3+ years of experience with the Hadoop and Big Data technologies
+â 2+ Years Design with Big Data Strategies.
+
+Other Skills
+â Hands-on experience with the Hadoop eco-system - HDFS, MapReduce, Hive, Impala, Spark,Â
+â Experience in implementing Hadoop Data Lakes - Data storage, partitioning, splitting, file types (Parquet, Avro, ORC) for specific use cases etc.
+â Experience with Query languages â SQL, Hive, Impala, Drill etc.
+â Solid hands on experience of development/automation in Unix OS
+â Experience in agile(scrum) development methodology
+â Exposure to Data ingestion methodologies such as Kafka, Sqoop, Storm, Web Scrapping, etc.
+â Experience with development/automation skills. Must be very comfortable with reading and writing Python/Shell script and SQL code
+â Experience with Hadoop open source distributions - Cloudera
+
+Tachyon's full-time employees receive complete and competitive benefits. We offer a collaborative work environment, competitive compensation, generous work/life opportunities, and an outstanding benefits package that includes paid time off plus holidays. In addition, all colleagues are eligible for a number of rewards and recognition programs. Encouraging a healthy work/life balance and providing our colleagues great benefits are just part of what makes Tachyon a great place to work.
+
+A Disclaimer: The above statement is not a complete job description. The Client retains the discretion to add or change the duties of the position at any time.

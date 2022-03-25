@@ -1,0 +1,61 @@
+The Data Scientist is a technical expert with a broad set of responsibilities related to the collection, management, visualization, and analysis of part, process, and business data. It is a multi-disciplinary role that blends data, statistics, computer science, and engineering. Duties range from production support to managing complex, long-term development projects.
+
+Responsibilities:
+
+Ensure seamless data collection and storage
+
+Support complex data mapping
+
+Develop efficient and useful reporting tools
+
+Maintain accuracy of data with high level of detail, implementing corrective actions as required
+
+Maintain system efficiency, propose improvements, and monitor technology developments
+
+Initiate new data collection streams with guidance from the engineering team to determine parameters or processes to monitor
+
+Generate manufacturing data reports to support immediate feedback to the operators and generation of Quality documentation
+
+ Monitor production to detect and prevent process drifts
+
+Analyze manufacturing data to assess capability and determine opportunities for process improvements.
+
+Support SPC administration, data collection and analysis
+
+Provide data or documentation and make technical presentations to management
+
+Apply statistical methodology to complex data
+
+Perform mathematical modeling in support of production projects
+
+Support the effort to make pertinent data visible throughout the manufacturing facility
+
+Perform internal audits to validate the quality and usability of the data
+
+Perform engineering database administration, maintenance and updates
+
+Interact with engineering team and international team of data engineers & data scientists to ensure alignment of data collection, analysis, and reporting amongst three facilities
+
+Propose, lead, and participate in data driven projects utilizing DMAIC and DMADV principles
+
+Manage urgent work deadlines and high profile deliverables in an efficient manner
+
+Develop training material and facilitate training sessions as warranted
+
+Identify opportunities for process improvement while coordinating and implementing automated solutions
+
+Qualifications:
+
+Bachelor’s degree in Engineering, Computer Science, Data Science/Engineering, Information Technology, Mathematics, Physics, or other relevant technical degree including a strong statistical background
+
+Experience in a related role, or a comprehensive portfolio that demonstrates technical abilities that are commensurate with the job requirements
+
+Strong IT skills: database knowledge; ability to specify software development requirements
+
+Strong proficiency in SQL and Object-Oriented Programming (e.g., C#, Python, Java)
+
+Experience with web development frameworks (e.g., Django, ASP.NET, Ruby On Rails)
+
+Experience with data visualization packages preferred (e.g., Plotly, Shiny, etc.)
+
+Machine learning & deep learning experience preferred

@@ -1,0 +1,52 @@
+Job Description
+
+CACI is seeking experienced Data Scientists to support our Enterprise Application Support contract with Commander, Navy Reserve Forces Command (CNRFC).
+
+Overview:
+As a member of the CNRFC AES team, you will support the Navy Reserve by modernizing and sustaining data interface and analytics capabilities of the Navy Reserve Data Warehouse (NRDW), Navy Reserve Homeport (NRH), and other subordinate business systems. You will be responsible for managing existing data interfaces, warehouse, and reporting capabilities, as well as enabling decision maker by analyzing and discovering new opportunities to leverage data sources to build analytical dashboards, predictive models and algorithms.
+
+Duties and Responsibilities:
+We are seeking a candidate that is highly analytical with a knack for analysis, math and statistic using critical thinking and problem-solving skills which are essential for interpreting data.
+Developing and sustaining system data interfaces, utilizing Informatica, Oracle, and Microsoft SQL Server
+Support the refresh of data warehouse capabilities, to include installing, configuring, testing, and deploying additional software, such as Tableau and Power BI.
+Collaborate and coordinate with product managers, engineers, subject matter experts, and stakeholders to understand needs and devise possible solutions
+Undertake preprocessing of structured and unstructured data. Coordinates research and analytic activities utilizing various data points (unstructured and structured) and tools to programmatically clean, massage, and organize the data.
+Works closely with all business units and engineering teams to develop strategy for long term data platform architecture.
+Present information using data visualization techniques
+Analyze large amounts of information to discover trends and patterns
+Identify valuable data sources and automate collection processes
+Implement new statistical or other mathematical methodologies as needed for specific models or analysis
+Responsible for executing statistical methods to solving specific business problems
+Responsible for developing new data sources, testing model enhancements, and fine-tuning model parameters to improve upon existing methodologies
+Responsible for the construction of customer-facing reporting tools to provide insights and metrics which track forecast
+Responsible for the accurate exploration of internally and externally sourced data to search for unseen insights and correlation
+Responsible for data management for constructing analytic systems
+Strongly supports the adoption of data science and well improved analytics across the whole organization, and also at managerial, executive, and operational stages.
+Ensure that the integrity and dependability of data for analytical purposes are processed, cleansed and verified
+Ensure that the models are well developed, tested, trained, and implemented
+Required Qualifications:
+5-8 years practical experience with ETL, data processing, database programming and data analytics
+An active SECRET, or higher, level security clearance
+Proven experience as a Data Scientist or Data Analyst
+Possess both an understanding of real-world mission/business objectives and a working grasp of software development practices and technologies
+Possess hands on experience with relevant data sets, to include DoD and/or DoN business data (financial, personnel, etc).
+Able to understand various data structures and common methods in data transformation
+Experience using data management tools (e.g. Informatica, SSIS)
+Experience using structured databases (e.g. Oracle, MS Sql Server)
+Experience using business intelligence tools (e.g. Tableau, Power BI, Business Objects)
+Experience in data mining and statistical analysis
+Knowledge of R, SQL and Python
+Proven ability to multi-task and prioritize accordingly
+Ability to adapt quickly to an existing, complex environment
+Strong understanding of business requirements and IT strategies
+What We Can Offer You:
+Weve been named a Best Place to Work by the Washington Post
+Our employees value the flexibility at CACI that allows them to balance quality work and their personal lives
+We offer competitive benefits and learning and development opportunities
+We are mission-oriented and ever vigilant in aligning our solutions with the nations highest priorities
+For over 55 years, the principles of CACIs unique, character-based culture have been the driving force behind our success
+Job Location
+
+US-Norfolk-VA-NORFOLK-VIRGINIA BCH
+
+CACI employs a diverse range of talent to create an environment that fuels innovation and fosters continuous improvement and success. At CACI, you will have the opportunity to make an immediate impact by providing information solutions and services in support of national security missions and government transformation for Intelligence, Defense, and Federal Civilian customers. CACI is proud to provide dynamic careers for employees worldwide. CACI is an Equal Opportunity Employer - Females/Minorities/Protected Veterans/Individuals with Disabilities.

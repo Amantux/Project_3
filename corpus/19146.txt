@@ -1,0 +1,48 @@
+CAREERS
+
+Data Engineer – Sunnyvale, CA
+
+Sunnyvale, CA
+JOB DESCRIPTION
+
+As a Data Engineer with Tredence, you will demonstrate ability to transform business requirements to code, specific analytical reports and tools. You will also provide business insights, while leveraging internal tools and systems, databases and industry data.
+THE IDEAL CANDIDATE WILL
+
+Very Strong engineering skills. Should have an analytical approach and have good programming skills.
+Provide business insights, while leveraging internal tools and systems, databases and industry data
+Minimum of 5+ years’ experience. Experience in retail business will be a plus.
+Excellent written and verbal communication skills for varied audiences on engineering subject matter
+Ability to document requirements, data lineage, subject matter in both business and technical terminology.
+Guide and learn from other team members.
+Demonstrated ability to transform business requirements to code, specific analytical reports and tools
+This role will involve coding, analytical modeling, root cause analysis, investigation, debugging, testing and collaboration with the business partners, product managers other engineering team.
+Must Have
+Strong analytical background
+Self-starter
+Must be able to reach out to others and thrive in a fast-paced environment.
+Strong background in transforming big data into business insights
+ELIGIBILITY CRITERIA
+
+Technical Requirements
+Knowledge/experience on Teradata Physical Design and Implementation, Teradata SQL Performance Optimization
+Experience with Teradata Tools and Utilities (FastLoad, MultiLoad, BTEQ, FastExport)
+Advanced SQL (preferably Teradata)
+Experience working with large data sets, experience working with distributed computing (MapReduce, Hadoop, Hive, Pig, Apache Spark, etc.).
+Strong Hadoop scripting skills to process petabytes of data
+Experience in Unix/Linux shell scripting or similar programming/scripting knowledge
+Experience in ETL/ processes
+Real time data ingestion (Kafka)
+Nice to Have
+Development experience with Java, Scala, Flume, Python
+Cassandra
+Automic scheduler
+R/R studio, SAS experience a plus
+Presto
+Hbase
+Tableau or similar reporting/dash boarding tool
+Modeling and Data Science background
+Retail industry background
+Education
+
+BS degree in specific technical fields like computer science, math, statistics preferred
+Send your CV to careers@tredence.com

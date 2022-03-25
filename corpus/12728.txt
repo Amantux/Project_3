@@ -1,0 +1,23 @@
+Join the Mobile Future with Tapjoy
+
+Data Science is pretty much our business - we drive conversions. Given our massive scale, relatively modest improvements can have an outsized impact.
+
+If you're looking to be a point of influence on a celebrated team (*not* just another in a giant machine), a thought leader & mentor, and implement cutting edge machine learning tools -- this gig is for you.
+
+Responsibilities
+Experiment and improve machine learning models for the recommendation/ad optimization system.
+Inform bidding strategy and data engineering architecture.
+Understand various ad-optimization algorithms (CTR prediction, eCPM optimization, user targeting and segmentation, RTB optimization, Exploration/Exploitation Algos)
+Competencies
+Solid coding skills in SQL and in a scripting language like Python. Packages: scikit-learn & TensorFlow. Scaling GPU clusters to train deep neural networks.
+Experimental Design.
+Deep expertise in recommendation systems, classification models, class imbalance, model calibration.
+Experience with BigQuery or PySpark or another modern method to access data
+Skills > credentials.
+Bonus:
+Domain and/or marketplace knowledge
+Tapjoy is an equal opportunity employer. We believe that diversity and inclusion lead to stronger, more innovative teams and better business results; we want to draw from the broadest talent pool possible and encourage qualified applicants. Tapjoy does not discriminate on the basis of sex, race, ethnicity, color, age, sexual orientation, gender (including identity and expression), disability (mental or physical), religion, national origin, citizenship, marital status, military or veteran status, or any other protected classification protected by applicable law; we will provide reasonable accommodations for qualified individuals with disabilities, and pursuant to applicable fair chance ordinances, we will consider for employment qualified applicants with arrest and conviction records.
+
+For more information, please visit www.tapjoy.com.
+
+]]>

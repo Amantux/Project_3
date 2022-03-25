@@ -1,0 +1,56 @@
+At BGDS, our vision is to untap the economic welfare potential of technology through entrepreneurship. In order to fully realize our vision, we have committed ourselves the mission to provide transparency, openness, collaboration, ease-of-use and insights to technology startup financing so that entrepreneurship thrives globally and founders can develop life-changing technologies.
+
+Job Overview
+
+BGDS is looking for a savvy Data Engineer to join our growing team of data and analytics experts.
+
+As a Data Engineer, you will be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for many external sources and professional users. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up.
+
+You will support our software developers, database architects, data analysts and data scientists on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing needs. They must be self-directed and comfortable supporting the data needs of multiple users, systems, and products.
+
+The ideal candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data initiatives. We’re in the process of revolutionizing startup financing, and we’re hoping you’ll be part of that experience.
+
+Responsibilities and Duties
+
+Help to design and implement the data repository architecture and a large-scale processing system for BGDS product.
+
+Help to identify, design, and implement processes improvements: optimizing data gathering, data quality, data consolidation, and data delivery. Re-designing infrastructure for greater scalability and stability, etc.
+
+Recommend and sometimes implement ways to improve data reliability, efficiency, and quality.
+
+Help to build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and NoSQL ‘big data’ technologies.
+
+Help to create data tools for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader.
+
+Help to keep our data separated and secure across national boundaries through multiple data centers and regions, respecting the data privacy regulation (GDPR and similar).
+
+Work with data and analytics experts to strive for greater functionality in our data systems.
+
+Our approach to supervision is very adaptive, which is to say that we are happy to accommodate a variety of personal styles. We are searching for someone who is an independent contributor, but you will also get the support you need when you need it.
+
+Qualification and Experience
+
+Ability to work in our Austin office 5 days per week
+A bachelor’s or higher degree in Computer Science, Physics, Statistics, Informatics, Information Systems or another quantitative field.
+3+ years of work experience in software design and development
+3+ years in data engineering
+Advanced working SQL and CQL knowledge and experience working with relational databases and Cassandra, query authoring (SQL, CQL, KSQL, SparkSQL) as well as working familiarity with a variety of databases.
+Experience building and optimizing ‘big data’ data pipelines, architectures and data sets.
+Discover opportunities for data acquisition.
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Strong analytic skills related to working with unstructured datasets.
+Build processes supporting data transformation, data structures, metadata, dependency and work- load management.
+A successful history of manipulating, processing and extracting value from large disconnected datasets.
+Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores.
+Strong project management and organizational skills.
+Experience supporting and working with cross-functional teams in a dynamic environment.
+Experience with big data tools: Spark, Kafka, etc.
+Experience with relational SQL and NoSQL databases, including Postgres and Cassandra.
+Experience with data processing engines: Apache Beam, Dataflow, etc.
+Experience with data pipeline and workflow management tools: Azkaban, Luigi, Airflow, Python Fireworks, etc.
+Experience with GCP cloud services: Compute, Kubernetes, Cloud Functions, BigQuery, Dataproc,
+Experience with stream-processing systems: Storm, Spark-Streaming, etc.
+Experience with object-oriented/object development languages: Python, Java, C++, Scala, etc.
+Start-up experience is ideal
+
+Salary based on experience - $100K +

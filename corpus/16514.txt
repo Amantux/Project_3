@@ -1,0 +1,29 @@
+Minimum qualifications:
+Master's degree in Operations Research, Industrial Engineering, Statistics, related field, or equivalent practical experience.
+2 years of relevant work experience (e.g., as a data scientist) or equivalent. Analytical engagements outside class work while at school can be included.
+Experience with statistical software (e.g., R, Python) and database languages (e.g., SQL)
+Preferred qualifications:
+PhD in Operations Research, Industrial Engineering, Statistics or related field.
+4 years of relevant work experience (e.g., as a data scientist), including experience applying advanced analytics to planning and infrastructure problems.
+Experience designing and building statistical forecasting models.
+Experience designing and building machine learning models.
+Excellent problem-framing, problem-solving and project management skills.
+Excellent customer service and team collaboration skills.
+About the job
+
+
+At Google, data drives all of our decision-making. Data Scientists work all across the organization to help shape Google's business and technical strategies by processing, analyzing and interpreting huge data sets. Using analytical rigor and statistical methods, you mine through data to identify opportunities for Google and our clients to operate more efficiently, from enhancing advertising efficacy to network infrastructure optimization to studying user behavior. As an analyst, you do more than just crunch the numbers. You work with Engineers, Product Managers, Sales Associates and Marketing teams to adjust Google's practices according to your findings. Identifying the problem is only half the job; you also figure out the solution.
+
+As a member of the Operations Data Science team, you will apply operations research and statistical methods to solve challenges related to compute, storage, network, and datacenter capacity for both Google’s internal services and Google Cloud Platform. You will work broadly across Google’s Platforms Engineering, Systems Infrastructure, and Site Reliability Engineering teams to optimize our deployment of resources and drive innovation in our software stack, allowing for efficient use of resources.
+
+As a Data Scientist, you will think critically and strategically about Google’s cloud as a technology, a business, and as an operation. You will be comfortable discussing total cost of management with hardware engineers, resource optimization with software engineers, or reviewing fleet plans and deployment policies with operations executives, all based upon the analytical models that you will be developing.
+
+Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google's product portfolio possible. We're proud to be our engineers' engineers and love voiding warranties by taking things apart so we can rebuild them. We're always on call to keep our networks up and running, ensuring our users have the best and fastest experience possible.
+Responsibilities
+Lead projects with hands-on analysis and modeling, drawing from multiple of analytical methods to choose the right tool and right level of complexity appropriate for the business challenges.
+Engage broadly with the organization to identify, prioritize, frame, and structure complex and ambiguous challenges, where advanced analytics projects or tools can have the biggest impact.
+Identify and communicate the challenges and opportunities that the group should be working on.
+Help define the analytical direction and influence the direction of the associated engineering and infrastructure work.
+Articulate business questions and use mathematical techniques to arrive at an answer using data. Translate analysis results into business recommendations.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form.

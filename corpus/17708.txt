@@ -1,0 +1,21 @@
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.Facebook is seeking an experienced Software Engineer to join the Software Engineering (Infrastructure) team. The Software Engineering (Infrastructure) team builds large distributed components that run Facebook. Our code serves millions of requests per second and it does so with sub-second latency and in a fault tolerant manner. We handle everything from Facebook scale data storage, to synchronization and coordination of large server clusters, to providing a runtime environment for front end Facebook code. We are looking for candidates who share a passion for tackling complexity and building platforms that can scale through multiple orders of magnitude.
+
+Responsibilities:
+
+Design core, backend software components
+Code using primarily C/C++, Java, PHP and Hack
+Interface with other teams to incorporate their innovations and vice versa
+Conduct design and code reviews
+Analyze and improve efficiency, scalability, and stability of various system resources
+Mininum Qualifications:
+
+8+ years coding experience in C, C++, Java and/or C#
+4+ years coding experience in Perl, PHP, Hack or Python
+4+ years experience building server applications
+Preferred Qualifications:
+
+B.S. Computer Science or related technical field
+Experience with operating system internals, filesystems, programming language design, compilers
+Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.
+
+Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.

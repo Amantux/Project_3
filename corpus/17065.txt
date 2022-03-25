@@ -1,0 +1,24 @@
+We are hiring experienced, creative and innovative engineers to join our extraordinary ASIC and Analog/Mixed-Signal Verification, Modeling and Methodology Team. You will have opportunities to work and gain competence in several areas such as modeling (TLM), Block- and Top-Level ASIC and verification, test bench development, HW emulation, HW acceleration, SW driven verification. You will be part of a diverse team where there will be opportunities for learning, working on new designs and more.
+
+Responsibilities
+You will contribute to a team that performs verification planning and AMS simulation on full custom ASICs for audio processing applications
+Develop behavioral models using SystemVerilog real number modeling (sv-rnm), user-defined types(sv-udt), & Verilog AMS
+Develop test plans, test benches, and verification methodologies to verify the microarchitecture and design
+Independent Interpretation of analog circuit schematics into abstract models
+Collaborate with system architects and designers to streamline architectural exploration of next-generation IP
+Collaborate with UVM verification engineers to ensure all verification components are used for AMS-UVM flow
+Collaborate with multi-functional teams to streamline chip-level integration
+You will perform failure analysis and resolution, coverage analysis and population
+Develop directed/constraint-random test generation, gate-simulations
+Performing regression debug support and other flow/infrastructure development
+Required Skills and Qualifications
+MS or higher in Electrical Engineering or Computer Engineering and 5+ years of verification experience preferably in mixed-signal products
+Strong background in HDLs (e.g. Verilog, VHDL) and HVLS (e.g. SystemVerilog/OVM, UVM, AVM, Vera)
+Preferred Skills and Qualifications
+Experience teaming closely with digital/analog designers, applications engineers, and manufacturing test to support both pre-silicon verification and post-silicon validation efforts
+Knowledge of signal processing and Verilog Assertions
+Ability to build, evaluate, debug, and improve a verification process
+Ability to mentor junior engineers in verification methodology
+This position is located in Austin, TX
+
+Cirrus Logic is an Equal Opportunity/Affirmative Action Employer. We strive to select the best qualified applicant for any opening and to reward employees based on their skills, experience and performance. We do not discriminate on the basis of race, national origin, pregnancy status, marital status, gender, age, religion, physical or mental disability, medical condition, veteran status, sexual orientation, genetic information or any other characteristic protected by law.

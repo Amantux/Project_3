@@ -1,0 +1,153 @@
+Description
+
+SHIFT: No Weekends
+
+SCHEDULE: Full-time
+
+HCA Healthcare is a comprehensive healthcare network where 265,000 people across more than 1,800 care facilities are all committed to creating a positive impact every day. It’s an organization that exists to give people healthier tomorrows. Our scale enables caregivers to deliver great outcomes for patients and gives colleagues unparalleled opportunities to learn and grow. Most importantly, as a part of HCA Healthcare we’re connected to something bigger, which means more resources, more solutions and more possibilities for everyone who walks through our doors. What matters most to our diverse and talented colleagues is giving people the absolute best healthcare possible. Every day, we seek to raise the bar higher, not just for ourselves, but for healthcare everywhere.
+
+At HCA, you have options. You can choose from a variety of benefits to create a customizable plan. You have the ability to enroll in several medical coverage plans including vision and dental. You can even select additional al la carte benefits to meet all your needs. Enroll in our Employee Stock Purchase Plan (ESPP), 401k, flex spending accounts for medial and childcare needs, and participate in our tuition reimbursement and student loan repayment programs.
+
+Do you have a passion for healthcare and helping others? Do you enjoy working in a fast-paced, patient-centered environment? Jump-start your career in our Human Resources, Analytics department. Submit your application today!
+
+We are seeking a Senior Data Scientist for our center to ensure that we continue to provide all patients with high quality, efficient care. We are an amazing team that works hard to support each other and are seeking a phenomenal addition like you who feels patient care is as meaningful as we do.
+
+Job Summary:
+
+As a Senior Data Scientist, you will develop Machine Learning (ML), Artificial Intelligence, Natural Language Processing, and Deep Learning (DL) solutions to save lives and support the care of HCA patients. This technically focused position is responsible for understanding challenges/problems within the healthcare industry and leveraging these technologies to deliver real-time predictions and signals which enable our care providers to better care for our patients.
+
+Major Responsibilities:
+
+This Senior Data Scientist will deliver ML / DL products from beginning to end, including understanding the business need, aggregating data, exploring data, building & validating predictive models, and deploying completed models to deliver impactful results to the organization. They will also design and implement monitoring of product function and performance. A Senior Data Scientist conforms to, and contributes to improving, department processes and standards. The Senior Data Scientist is a highly motivated self-starter, is a continual learner, and is committed to delivering high quality solutions within agreed upon timelines. This table illustrates the relative experience/expertise of the Data Scientists.
+
+Machine Learning Development
+
+Build life-changing healthcare technology using Data Science solutions such as Machine Learning, Deep Learning, Natural Language Processing, and Artificial Intelligence.
+
+Perform descriptive, exploratory and inferential statistical analysis as well as supervised and unsupervised machine learning.
+
+Use front-end tools and interfaces (e.g. notification and alert systems, dashboard reports) for internal clients to view and interact with processed data.
+
+Stay on the cutting edge of technology, Data Science, and Machine Learning Engineering.
+
+Develop deep expertise in working with clinical, operational, and financial data.
+
+Perform data gathering (SQL, etc.) and data cleaning/wrangling.
+
+Develop Machine Learning and AI software applications with industry-standard programming languages such as Python and R.
+
+Perform feature engineering & modeling with clinical, operational, and financial data.
+
+Produce high quality, modular, reusable code that incorporates coding best practices and serves as an example for less experienced Data Scientists.
+
+Design and implement highly scalable applications that take advantage of distributed infrastructure on physical and cloud servers with technologies such as Docker, Kubernetes, OpenShift, and Apache Kafka.
+
+Work collaboratively with DevOps team to evolve Data Science Integration configuration/customization for different environments.
+
+Create and execute test cases (both automated and manual).
+
+Possess knowledge and experience with different phases of testing (unit testing, integration testing, performance testing).
+
+Participate in various code review activities.
+
+Be incorporated in development teams from design to deployment of enterprise services.
+
+Mentoring/Consulting Activities
+
+Define and help implement processes and standards for Machine Learning tools, code, testing, and product deployment for the CSG Data Science Team.
+
+Train and mentor other Data Scientists with respect to Data Science techniques and tools, mathematical and statistical understanding of Machine Learning, and industry best practices for Data Science development and solutions.
+
+Mentor other Data Scientists on the applications and system architecture.
+
+Data Science Project Delivery and Leadership
+
+Engage with stakeholders to define problem and impact of possible Data Science solutions.
+
+Influences, persuades, or convinces others to achieve meaningful discussion/results.
+
+Possess excellent communication skills to interface with various stakeholders from business consumer to technical staff.
+
+Write strategic documents from business leaders. Lead discussion and presentation to senior groups. Maintain authoritative relationships.
+
+Work as part of a team and work independently.
+
+Form internal/external relationships necessary to be successful.
+
+Generate collaboration between teams.
+
+Complete assignments on time.
+
+Anticipate likely adverse events and problems. Facilitate conversation and solution amongst peers and partners across enterprise.
+
+Accurately report issues and status to project management.
+
+Lead troubleshooting activities.
+
+Qualifications:
+
+Education:
+
+Bachelors degree is required.
+
+Master's degree/PHD is preferred.
+
+Experience:
+
+5+ years of relevant work experience is required.
+
+Technical expertise in the realms of math, statistics, machine learning/deep learning, model fitting and optimization
+
+Extensive experience in statistical modeling and machine learning
+
+Extensive expertise/experience in data analysis, exploration, modeling and visualization required
+
+Business acumen (i.e., ability to set up & frame predictive analytic problems/projects)
+
+Unix/command line proficiency
+
+Presentation skills (communicates well with stakeholders)
+
+Story telling (explains technical info/project well)
+
+Collaboration & teamwork ability
+
+Project management
+
+Healthcare domain knowledge
+
+Has deployed models into production that are being used
+
+Able to evaluate performance of models in production
+
+SQL experience / database interrogation techniques
+
+Expertise with data visualization tools such Tableau, Qlik, and MicroStrategy
+
+Big Data experience (HDFS, Impala, Spark/PySpark, Flume, Kafka)
+
+Experience with container-based platforms such as Docker, Kubernetes, OpenShift, Mesosphere, Rancher, and CoreOS
+
+Experience with container monitoring applications such as monitoring solutions such as SysDig, Data Dog, AppDynamics, New Relic, Nagios, and Zabbix
+
+Experience with one or more formal development languages (e.g., Python, R, JavaScript, Ruby, Scala, or Clojure) required
+
+Experience with Hadoop, Spark, Kafka, Cassandra (i.e. distributed compute and storage)
+
+Experience in data acquisition, data cleansing and parsing required.
+
+Scrum, Agile, Lean Product Development, Domain Driven Design
+
+Excellent communication skills, both written and verbal
+
+Healthcare experience, preferable
+
+Working Environment:
+
+In office working environment.
+
+Some travel, up to 25% may be required.
+
+If you are looking for an opportunity that provides satisfaction and personal growth, we encourage you to apply. We promptly review all applications. If you are highly qualified you will hear from one of our managers. Come unlock the possibilities and apply today!
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

@@ -1,0 +1,26 @@
+Sr. Data Analyst - Twitter Service Tech, San Francisco
+
+Do you love protecting platforms from adversarial actors? Are you a data-driven analyst who is willing to dive deep and identify what spammers are up to? Join us in protecting Twitter from various forms of spam and abuse!
+
+Who We Are
+
+The Platform Intelligence Team is responsible for protecting Twitter from platform manipulation and ensuring integrity of accounts through smart intelligence, scaled & automated enforcement, and operational excellence. We focus on combating scaled attack patterns, automation development, and protecting the Twitter brand and user experience by preventing terms of service violations across the Twitter platform.
+
+The Twitter Service organization provides meaningful and effective support and services to the Twitter community. We are on our way to becoming recognized as the best embodiment of a service driven culture, placing customer needs at the center of operations as we actively listen and help. Our mission is to provide customer service so remarkable, it removes any barriers towards participating in the public conversation.
+
+What You’ll Do
+Conduct forensic investigation and take action on suspicious accounts that violate our terms of service at scale, including but not limited to spam, abuse, identity, media, etc.
+Identify new problems of policy violations on the platform and implement solutions at scale.
+Conduct studies to accumulate intelligence on identified networks of spammy or abusive actors;
+Rapidly build and launch auto-enforcement rules based on heuristics;
+Build simple heuristic rules, advanced statistical models, or machine learning models, to identify opportunities in remediating accounts with spam and abuse activities
+Maintain and improve an existing set of rules for automation and generating manual review queues;
+Work with XFN partners, to communicate findings and investigate problems.
+Who You Are
+
+If this role sounds like a great match, you probably have:
+Multiple years of experience combating spam and abuse, conducting forensic analysis and investigations;
+Strong experience working with SQL on large data sets;
+Experience writing data pipelines with a programming language like R, Python and Go;
+Experience using data visualization tools (e.g, Data Studio, Zeppelin) to share ongoing insights;
+Strong communication skills to collaborate with other operations, engineering and product teams.

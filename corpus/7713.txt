@@ -1,0 +1,81 @@
+Riot Games was established in 2006 by avid gamers who believe that player-focused game development can result in great games. In 2009, Riot released its debut title League of Legends to critical and player acclaim. Players form the foundation of our community and it's for them that we continue to evolve and improve the League of Legends experience, and beyond! We're looking for passionate professionals who can teach us a thing or two. We promise to return the favor. We embrace those who see things differently and aren't afraid to experiment. That's where you come in.
+
+Riot's Data developers build tools to understand and delight our worldwide players using petabytes of data and state-of-the-art data processing technology. Handling the potential these data offer is a tremendous and complex task. As we continue delivering and scaling content to passionate gamers, our discipline has challenges and opportunities centered on crafting, building, and maintaining data products that support our growth. Whether you are a Data Scientist modeling game systems, a Data Engineer bringing scale and efficiency to systems, or a Data Architect organizing data in ways that make data products more player-focused and dependable, we need you to help push forward our "Player Experience First" goals.
+
+Riot Data Scientists combine their wide technical expertise across data processing, automation, machine learning ("ML"), artificial intelligence ("AI"), and experimental design to inform decisions and develop data-powered products. As a Senior Data Scientist, you'll dive into projects that focus on cross-team goals. You'll provide other data scientists with a north star of "what extraordinary data science should look like". You are the lead for complex or significant technical work, where the problem requires evaluation of intangibles. You can customize methods to suit an unusual data problem and juggle technical requirements. You work at a multi-team scale, influencing product vision, technical designs, and other scientists' development across an organization. You lead by example, but you also lead by leading - you achieve results while elevating others' data science craft.
+
+As a Senior Data Scientist on the League Data Central team, you will work on a team that collaborates on multi-functional projects that range from in-game features to content design to infrastructure. In a world of high-volume and complexity, you will develop products that bring personalization, optimization, and scale to players.This role would report directly into the Data Science Manager for League of Legends.
+
+-----------------
+
+Responsibilities:
+
+-----------------
+
+Design and implement data science systems (ML, AI, optimization, and statistics)
+
+Improve the scale and efficiency of data science approaches
+
+Pair with data engineers to design deployments and pipelines
+
+Improve team technical craft with peer reviews, paper reading, and tech prototyping
+
+Identify new product opportunities and collaboratively develop them with partners
+
+Represent data products to non-technical partners and collaborators
+
+------------------------
+
+Required Qualifications:
+
+------------------------
+
+An MS or PhD in Engineering, Computer Science, Physics, Statistics, or related field
+
+5+ years data science experience
+
+3+ years productionalizing code into live systems
+
+Proficiency in Python and SQL
+
+-----------------------
+
+Desired Qualifications:
+
+-----------------------
+
+2+ years hands on experience with petabyte-processing-capable technologies such as Spark or Hadoop
+
+Experience setting up and using with cloud infrastructure (e.g., AWS)
+
+Understand trade-offs between data infrastructure and database systems
+
+Familiarity with iterative development methodologies like Scrum, Agile, etc.
+
+Familiarity with Java, Scala, C++
+
+Familiarity with git
+
+For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will certainly be looking at your past studies and experience, but for this role, we also look for dedicated people with a personal relationship with games. If you embody player empathy and care about the experiences of players, this could be the role for you!
+
+----------
+
+Our Perks:
+
+----------
+
+Medical, dental, and vision plans that cover you, your spouse/domestic partner, and children
+
+Open paid time off
+
+Retirement benefits with company matching
+
+Life insurance, parental leave, plus short-term and long-term disability
+
+Play funds so you can broaden and deepen your knowledge of our players and community through games
+
+We will double down on your donations of time and money to non-profits
+
+It's our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law, including the City of Los Angeles' Fair Chance Initiative for Hiring Ordinance relating to an applicant's criminal history (LAMC 189.00).
+
+Don't forget to include a resume and cover letter. We receive many applications, but we'll notice a fun, well-written intro that shows us you Dare to Dream and Execute with Excellence.

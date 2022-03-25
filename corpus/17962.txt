@@ -1,0 +1,38 @@
+AddThisShare
+
+Data Engineer
+
+Avaap is a global, cross-platform industry-focused technology management consulting and advisory services organization. Our customers include health systems, educational institutions, manufacturers, and government agencies. Avaap executes with a purpose-driven approach that combines expert-level technology consulting, industry knowledge, and deep application expertise with superior customer experiences. The track record of successful deployments and strategic engagements is the result of our growing, dedicated team and culture that supports a rewarding work experience fueled by personal and professional growth.
+
+Data Engineering Job Overview
+
+We are looking for a experienced Data Engineers to join our growing team of analytics experts. This resource will join our consulting organization with a focus on optimizing data and data pipeline architectures, as well as optimizing data flow and collection for cross-functional teams. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up. The Data Engineer will support our analytics project teams on data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects. They must be self-directed and comfortable supporting the data needs of multiple teams, systems and products.
+
+Responsibilities for Data Engineer
+Create and maintain optimal data pipeline architecture,
+Assemble large, complex data sets that meet business requirements.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL, Hadoop ‘big data’, and cloud native technologies.
+Build analytics tools that utilize the data pipeline to provide actionable insights
+Work with executive, functional, and technical stakeholders regarding data-related technical design, development, and architecture initiatives
+Create data tools for analytics and data scientist team members
+Qualifications for Data Engineer
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+Experience building and optimizing ‘big data’ pipelines, architectures and data sets.
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Strong analytic skills related to working with unstructured datasets.
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+Ability to design and build data models which facilitate end user reporting and analysis
+A successful history of manipulating, processing and extracting value from large disconnected datasets.
+Working knowledge of message queuing, stream processing, and highly scalable ‘big data’ data stores.
+Strong project management and organizational skills.
+Experience supporting and working with cross-functional teams in a dynamic environment.
+Willingness to travel.
+We are looking for a candidate with 2+ years of experience in a Data Engineer role, who has experience using the following software/tools:
+Experience with big data tools: Hadoop, Spark, Kafka, etc.
+Experience with relational SQL and NoSQL databases
+Experience with data pipeline and workflow management tools
+Experience with object-oriented/object function scripting languages: Python, Java, Scala, etc.
+Education: Bachelor’s degree.
+
+#LI-BB1

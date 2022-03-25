@@ -1,0 +1,40 @@
+At 605 we are engineers, analysts, data scientists, media experts, marketing strategists and political operatives. Our team of data scientists pioneered the field of TV data analytics. We offer unique, independent audience measurement and analytics to build better marketing and programming initiatives within the media and entertainment industries.
+
+The Data Scientist role is a mid-level position in 605’s data science group, a technical and methodology-focused team within 605’s Product division. All analysts and data scientists at 605 share a knowledge of statistics and machine learning, R and/or python, and familiarity with relational databases and the scale/variety of 605’s data assets. In contrast to the more client-facing teams within the Product division (e.g., the Analytics team), the Data Science team brings to the table some deeper technical skills, including:
+Hands-on experience with industry-standard predictive modeling solutions such as scikit-learn, xgboost, Spark ML, and H2O.ai in a production setting
+Familiarity with diverse methods for supervised learning, unsupervised learning, ETL pipelines in general
+A more nuanced understanding of cloud-based (Amazon Web Services) computing resources/infrastructure, especially the need for and methods of parallelization for analytics tasks
+Experience in designing and implementing wrapper/tool/utility functions for automated tasks, to be used by less-technical Analytics team members, and organizing them into distributable, regularly maintained and tested R/python packages
+Proficiency with source code management (git) and related code development/review workflows, as well as continuous integration tools like Travis or Jenkins
+A data scientist will generally be involved in one or two projects at any given time, managed by the Senior Director of Data Science, and will work alongside other data scientists or analysts. Projects produce both client-facing deliverables as well as internal tools/datasets consumed by various teams at 605 (Analytics, Engineering, and Client Solutions).
+
+Requirements
+
+Basic Requirements:
+Masters degree in a quantitative, scientific, or engineering field, or > 2 years experience in a data-related work environment
+Intermediate-to-advanced level proficiency in either R or Python
+Knowledge of modeling algorithms for supervised learning
+Familiarity with Linux/Unix operating system, shell environments and using remote machines
+Beginner-to-intermediate level proficiency of postgres SQL
+Preferred Skills:
+Doctoral degree in a quantitative, scientific, or engineering field, or > 4 years experience in a data-heavy work environment
+Experience with AWS services (Redshift / S3 / EC2)
+Experience with Databricks
+Familiarity with git and/or github.com, or any other version control framework
+Proficiency with Apache Spark (via Scala, Python, R or Java)
+Past work with survey data, demographic and consumer data, and/or TV viewing data
+Advanced knowledge of postgres SQL
+Benefits
+Comprehensive health and dental insurance for employees and their families
+Life insurance
+401k with match, eligible for match after one year
+Pre-tax flexible compensation plan for medical, transit, parking or dependent care expenses
+15 paid vacation days
+Sick days—if you’re sick, you stay home
+Work-from-home Fridays
+A kitchen stocked with sodas, snacks, yogurt and other goodies
+A tight-knit startup community who likes to eat! We celebrate everyone’s birthdays, have frequent team lunches, and do events in and out of the office
+605 is an active participant in conferences
+EEO STATEMENT
+
+At 605, we’re just as passionate about diversity as we are about pioneering the field of TV data analytics. We are committed to cultivating an environment of mutual respect and equal opportunity. All hiring and advancement decisions are made on the basis of qualification, merit, and business need.

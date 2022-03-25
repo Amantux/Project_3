@@ -1,0 +1,69 @@
+CenturyLink’s Strategic Planning & Transformation (SP&T) organization is accountable and responsible for supporting existing products that are currently being sold by our global enterprise, federal, wholesale, small and medium and consumer business units, develop the new products that our product management team want to develop, simplify and enhance the digital user experience for north American and global operations, and keep up with the new optical, ethernet, WAN, IP, voice and security technologies so that our customers benefit from low cost per bit but high quality network and services that we offer.
+
+Job Description
+
+The Sr Data Scientist is a highly skilled individual contributor, under minimal supervision, who designs and develops programs, methods, processes, and systems to consolidate and analyze diverse, structured and unstructured “big data” sources to generate actionable insights and solutions using machine learning and advanced analytics. Interprets and communicates insights and findings from analyses and experiments to other analysts, data scientists, and team members.
+
+Principal Duties and Responsibilities:
+
+The Sr Data Scientist proactively identifies meaningful insights by executing data discovery, exploratory data analysis, and iteratively developing predictive and prescriptive models to identify optimal solutions.
+
+This position will also assist with operationalizing the insights and solutions and changing business processes to maximize the value of those solutions.
+
+Analyze data and build predictive and prescriptive models in the areas of capacity planning, anomaly detection, predictive asset failure/maintenance, workload optimization, customer segmentation and business performance.
+
+Mine information for previously unknown patterns and insights hidden in these assets and leverage them for competitive advantage.
+
+The problems this position will solve will be at the cutting edge of technology and will lie at the intersection of science, engineering and business acumen.
+
+Solves moderate problems as part of a highly skilled agile team and within a strongly focused DevOps culture.
+
+Qualifications
+
+Able to apply techniques such as classification, clustering, regression, association, anomaly detection, time series forecasting, Hidden Markov models and Bayesian inference to solve pragmatic business problems
+
+Able to design working models and implement them on Big Data systems using Elastic Search, Map Reduce or Spark frameworks.
+
+Familiar with Hadoop, Pig, Hive, Cosmos, Kafka, Scoop or similar technologies.
+
+Able to work within an agile, iterative DevOps development process
+
+3 + years’ experience delivering Machine Learning and Advanced Analytics solutions
+
+Experience with statistical programming environments like Python, R, SPSS or SAS
+
+Fluent in one or more object-oriented languages like C#, C++, Scala, Java, and scripting languages like Python or Ruby
+
+Experience compiling data into an easily understandable and consumable business format to meet the needs of the intended audience and influencing the
+
+Ability to articulate ideas to both technical and non-technical audiences.
+
+Intermediate analytical, evaluative, and problem-solving abilities. Can solve problems of intermediate complexity; good at gleaning meaning from whatever data is available;
+
+Communicate effectively in person, written, and verbal
+
+Preferred: Experience with Cloudera or Pivotal Hadoop distributions, Experience with Microsoft Assure in a Hybrid Data Lake environment; Experience working with streaming data and deriving insights from network and network element telemetry data
+
+Education:
+
+Bachelor’s Degree in Math, Computer Science, Data Mining, Machine Learning, Statistics or other quantitative discipline. Master’s Degree preferred.
+
+Education
+
+Bachelors or Equivalent
+
+Masters or Equivalent
+
+Alternate Location: US-Colorado-Littleton
+
+Requisition #: 214916
+
+This job may require successful completion of an online assessment. A brief description of the assessments can be viewed on our website at http://find.centurylink.jobs/testguides/
+
+EEO Statement
+
+We are committed to providing equal employment opportunities to all persons regardless of race, color, ancestry, citizenship, national origin, religion, veteran status, disability, genetic characteristic or information, age, gender, sexual orientation, gender identity, marital status, family status, pregnancy, or other legally protected status (collectively, “protected statuses”). We do not tolerate unlawful discrimination in any employment decisions, including recruiting, hiring, compensation, promotion, benefits, discipline, termination, job assignments or training.
+
+Disclaimer
+
+The above job definition information has been designed to indicate the general nature and level of work performed by employees within this classification. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities, and qualifications required of employees assigned to this job. Job duties and responsibilities are subject to change based on changing business needs and conditions.

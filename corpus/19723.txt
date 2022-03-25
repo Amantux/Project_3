@@ -1,0 +1,38 @@
+At Schwab, the Global Data Technology (GDT) organization leads the strategy, implementation and management of the enterprise data technology. They enable the management of data as assets and the delivery of data along the value-chain across Schwab. They help Marketing, Finance, Risk and various P&Ls make fact-based decisions by integrating and analyzing data as well as operationally leverage data for competitive advantage. The team delivers innovative client experience capability and rich business insight through robust enterprise data-driven capabilities.
+The Platform Operations team within GDT focuses on streamlining incident management, identification and socialization of operational best practices, and most importantly building systems/services to help discover insights and improve observability with the goal to improve overall efficiency and user experience of the data platform.
+We are looking for Senior Big Data Engineer to realize this vision for the data platform, to help evolve our operations practices, and to build infrastructure to support the continued evolving needs of our user base. The individual should have passion for data technologies and mindset to identify and implement innovative ideas to mature our platform operations.
+
+Ensure Platform support is performed in a professional, effective, and efficient manner.
+Contribute to overall system design, architecture, security, scalability, reliability, and performance of Big Data platform
+Work with vendor teams to manage Big Data Operations and drive Automations & enable DevOps
+Support the build and deployment pipeline and when necessary, both diagnose and solve production support issues
+Recommend changes to processes and tools at the team level based on industry standards, patterns, and practices
+Diagnose / fix highly complex technical issues independently
+Identify and communicate cross-team dependencies
+Communicate individual and project-level development statuses, issues, risks, and concerns to technical leadership and management
+Create documentation and training related to technology stacks and standards within assigned team
+Coach and mentor junior engineers in engineering techniques, processes, and new technologies; enable others to succeed
+Willing to work on Shifts and support on-call duties.
+Experience collaborating with business and technology partners and offshore development teams
+
+Minimum of 7 years of experience in Data Management in Both Traditional Data Warehousing and Big Data
+4+ years of experience in working in Large scale Enterprise Bigdata lake Operations team
+Strong SQL experience with the ability to develop, tune and debug complex SQL applications is required
+Knowledge in schema design, developing data models and proven ability to work with complex data is required
+Hands-on experience in object oriented programming (At least 2 years)
+4+ years of experience in Hadoop Cluster Administration & experience in maintaining, optimizing and resolution of issues in medium to large Hadoop clusters.
+Experience in working in large environments such as RDBMS, EDW, NoSQL, etc. is required
+Hands-on experience with Hadoop, MapReduce, Hive, SPARK, Kafka and HBASE is required
+Understanding Hadoop file format and compressions is required
+Experience with scheduling tools (eg. Control M, ESP)
+Understanding of best practices for building Data Lake and analytical architecture on Hadoop is preferred
+Scripting / programming with UNIX, Java, Python, Scala etc. is preferred
+Knowledge in batch/real time data ingestion into Hadoop is preferred
+Experience with Test Driven Code Development, SCM tools such as GIT, Jenkins is preferred
+Very good experience/understanding on Building Enterprise Data Lake using Talend, Scoop, Hive, Mongo DB, etc
+Worked in all types of data processing/Consumption Batch, Micro Batch, Real-time and streaming data
+Implement wrapper scripts using Unix, Spark, Scala, Sqoop, Spark SQL, Hive QL, Python
+Experience in ETL and Reporting tools like Informatics, Tableau, Business Objects and Talend
+Design schemas, data models and data architecture for Hadoop and HBase environments
+Design, build and support data processing pipelines to transform data in Big Data, Teradata platforms, Cloud Platforms (GCP, AWS)
+Experience in Java design patterns/Web Application development and ReST API

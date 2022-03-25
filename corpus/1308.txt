@@ -1,0 +1,24 @@
+Job Description
+
+The Cooking Lab is the publisher of both Modernist Cuisine: The Art and Science of Cooking (2011) and Modernist Cuisine at Home (2012). Our interdisciplinary team in Bellevue, Washington includes scientists, development chefs, and a full editorial department, as well as business and marketing staff—all dedicated to advancing the state of the culinary arts through the creative application of scientific knowledge and experimental techniques. In addition to our award-winning Modernist Cuisine books, The Cooking Lab provides consulting, R & D, and invention services to food companies and culinary equipment makers, large and small. Our research laboratory in Bellevue includes one of the best equipped kitchens in the world as well as access to a full set of machining, analytical, and computational facilities, provided by the Intellectual Ventures Lab.
+
+The Cooking Lab is looking for a Data Scientist to join their journey to understand food and cooking. In addition to its primary research, MC is very interested in analyzing the received wisdom of recipes from around the world and over time. The Data Scientist will be responsible for leading an audacious effort to catalog, ingest, and analyze the world's pastry recipes.
+
+The Data Scientist will apply computer vision, OCR, natural language processing, and other techniques to transform formatted recipes into structured data. He or she will lead further development of our pipeline for tagging unstructured data to train machine learning algorithms to identify new recipes. Then, he or she will perform analysis on the resulting structured data to answer specific questions about the data. For instance, "What is the distribution of baking temperatures recommended for a croissant?" Or, "How has the amount of salt in chocolate chip cookie recipes varied over time?"
+
+In addition to the recipe analysis responsibilities, the Data Scientist will work with the culinary team for a variety of other scientific analysis and visualization projects.
+
+Responsibilities:
+Expand our in-house framework for catalog of pastry recipes
+Further develop our methodology for schematizing, codifying, and analyzing recipes
+Implement processes, including human tagging, machine learning, and quality evaluation for codified recipes
+Mine data for useful insights and storytelling
+Support culinary team in scientific analysis and visualization projects
+Key Qualifications and Required Skills:
+Experience with natural language processing and machine learning
+Proficiency in software development (.NET, C/C++, Python, Java)
+Ability to design data processing pipelines, storage structures, and automation for both on-premise and cloud computing environments
+Experience with extraction, transformation, and loading (ETL) of large datasets for ad-hoc analysis in Excel, Matlab, or other packages
+Familiarity with computer vision and OCR software
+Passion for cooking, culinary history, or culinary science a plus
+We are an equal opportunity employer

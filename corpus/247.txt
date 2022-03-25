@@ -1,0 +1,93 @@
+Our mission is to understand what we’re doing on, and to, Earth. This includes all of the economic and social trends impacting us. In order to do that we are building the best data science team in the world to generate actionable intelligence from millions of satellite and aerial images from a variety of different sensors, as well as other sources of geospatial data. Current members of our data science team come from backgrounds including evolutionary biology, geophysics, neuroscience, and astrophysics.
+
+We are data detectives and our job is difficult because although we have Big Data, we exist in a persistent state of spatio-temporal data starvation. The work is fast-paced, highly iterative, and continuously trading off between what works and what’s best. Before we even start analyzing real world data we typically build simulations to inform our models and approaches. The actual data analysis typically goes from computer vision to mathematical modeling to validation with rigorous testing at every step of the way.
+
+Along with our team of data scientists, you’ll work with product managers, sales, and engineers to build data-driven products and solutions. If you enjoy working with data to build products and solve hard problems in creative ways, you will fit right in.
+
+This position will be based in Palo Alto, CA.
+
+Responsibilities:
+
+Research and model real world systems and behavior based on actual observations
+
+Help develop (large-scale) simulations to assess a new product’s complexity, yield, and feasibility
+
+Conceive of and implement experiments to test hypotheses regarding (statistical) behavior of data/models/products
+
+Help develop training and cross-validation data sets for machine learning algorithms
+
+Translate product management, engineering, and business constraints and queries into tractable data science questions
+
+Work cross-functionally with software engineers to integrate data science models into production pipelines
+
+Iterate rapidly on everything; all of the above happens in a relatively fast paced business driven environment, and you must be comfortable with that
+
+Help develop, improve, and evangelize our data science knowledge base and infrastructure
+
+Skills & Qualifications
+
+Masters degree in a STEM field (e.g., statistics, machine learning, computer science, engineering); PhD preferred
+
+An ability to communicate complex data science concepts and results in a readily-understood manner
+
+Minimum two years of demonstrable experience working with large and noisy datasets that have sparsity in some dimension (e.g., spatially, temporally)
+
+Demonstrable experience implementing efficient data science models and deploying them in a production environment
+
+Excellent coding skills in python (including deep familiarity with NumPy, SciPy, pandas)
+
+Significant experience with git, GitHub, SQL, AWS (S3 and EC2), Docker, and Unix/Linux
+
+Orbital Insight is a fast-growing provider of geospatial data and geo-analytic services to commercial, nonprofit and public sector clients across the globe. Leveraging advancements in computer vision and cloud computing, Orbital Insight is turning millions of images into a big picture understanding of the world that is quantitatively grounded in observation, creating unprecedented transparency, and empowering global decision makers with new sources of objective, quantified socio-economic insights.
+
+Backed by marquee investors such as GV (formerly Google Ventures), Sequoia Capital, In-Q-Tel and Bloomberg Beta, Orbital Insight is rapidly expanding its commercial and public sector capabilities. Come join us if you are unafraid to try new approaches and relentlessly seek to push the state of the art, taking projects all the way from prototype to production-ready.
+
+Note to Recruiters and Placement Agencies: Orbital Insight does not accept unsolicited agency resumes. Please do not forward resumes to any person or email address at Orbital Insight prior to obtaining a signed agreement from Recruiting/HR. Orbital Insight is not liable for and will not pay placement fees for candidates submitted by any agency other than its approved recruitment partners. Furthermore, any resumes sent without an agreement in place will be considered your company's gift to Orbital Insight and may be forwarded to our recruiters for their attention.
+
+ 
+
+Our mission is to understand what we’re doing on, and to, Earth. This includes all of the economic and social trends impacting us. In order to do that we are building the best data science team in the world to generate actionable intelligence from millions of satellite and aerial images from a variety of different sensors, as well as other sources of geospatial data. Current members of our data science team come from backgrounds including evolutionary biology, geophysics, neuroscience, and astrophysics.
+
+We are data detectives and our job is difficult because although we have Big Data, we exist in a persistent state of spatio-temporal data starvation. The work is fast-paced, highly iterative, and continuously trading off between what works and what’s best. Before we even start analyzing real world data we typically build simulations to inform our models and approaches. The actual data analysis typically goes from computer vision to mathematical modeling to validation with rigorous testing at every step of the way.
+
+Along with our team of data scientists, you’ll work with product managers, sales, and engineers to build data-driven products and solutions. If you enjoy working with data to build products and solve hard problems in creative ways, you will fit right in.
+
+This position will be based in Palo Alto, CA.
+
+Responsibilities:
+
+Research and model real world systems and behavior based on actual observations
+
+Help develop (large-scale) simulations to assess a new product’s complexity, yield, and feasibility
+
+Conceive of and implement experiments to test hypotheses regarding (statistical) behavior of data/models/products
+
+Help develop training and cross-validation data sets for machine learning algorithms
+
+Translate product management, engineering, and business constraints and queries into tractable data science questions
+
+Work cross-functionally with software engineers to integrate data science models into production pipelines
+
+Iterate rapidly on everything; all of the above happens in a relatively fast paced business driven environment, and you must be comfortable with that
+
+Help develop, improve, and evangelize our data science knowledge base and infrastructure
+
+Skills & Qualifications
+
+Masters degree in a STEM field (e.g., statistics, machine learning, computer science, engineering); PhD preferred
+
+An ability to communicate complex data science concepts and results in a readily-understood manner
+
+Minimum two years of demonstrable experience working with large and noisy datasets that have sparsity in some dimension (e.g., spatially, temporally)
+
+Demonstrable experience implementing efficient data science models and deploying them in a production environment
+
+Excellent coding skills in python (including deep familiarity with NumPy, SciPy, pandas)
+
+Significant experience with git, GitHub, SQL, AWS (S3 and EC2), Docker, and Unix/Linux
+
+Orbital Insight is a fast-growing provider of geospatial data and geo-analytic services to commercial, nonprofit and public sector clients across the globe. Leveraging advancements in computer vision and cloud computing, Orbital Insight is turning millions of images into a big picture understanding of the world that is quantitatively grounded in observation, creating unprecedented transparency, and empowering global decision makers with new sources of objective, quantified socio-economic insights.
+
+Backed by marquee investors such as GV (formerly Google Ventures), Sequoia Capital, In-Q-Tel and Bloomberg Beta, Orbital Insight is rapidly expanding its commercial and public sector capabilities. Come join us if you are unafraid to try new approaches and relentlessly seek to push the state of the art, taking projects all the way from prototype to production-ready.
+
+Note to Recruiters and Placement Agencies: Orbital Insight does not accept unsolicited agency resumes. Please do not forward resumes to any person or email address at Orbital Insight prior to obtaining a signed agreement from Recruiting/HR. Orbital Insight is not liable for and will not pay placement fees for candidates submitted by any agency other than its approved recruitment partners. Furthermore, any resumes sent without an agreement in place will be considered your company's gift to Orbital Insight and may be forwarded to our recruiters for their attention.

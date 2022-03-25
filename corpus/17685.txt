@@ -1,0 +1,25 @@
+Our client is searching for a Data Engineer to join their team.
+The Data Engineer will be responsible for creating solutions,
+comprehensive analytics and will be integral in implementing
+company-wide data strategy.
+
+Responsibilities:
+Collaborate with other departments to understand data needs
+Develop and optimize ETL processes
+Optimize data warehouse by defining technical requirements
+Improve and maintain data access for our BI tools
+Auditing and automating data quality
+Work closely with development teams to create long term plans
+for problem resolution
+
+Requirements:
+Bachelors Degree or greater (technical or science degree
+preferred).
+2 years of experience in the following:
+scalable architectures and large data processing
+AWS, Linux and Shell Scripting
+ETL and data mining
+open source programming language
+data warehousing concepts
+SQL, and System-level DBA functions ex: configuring replication,
+automating backups, performance tuning and RDBMS

@@ -1,0 +1,87 @@
+Read what people are saying about working here. 
+
+At Waymo, we’re focused on bringing self-driving technology to the world. Our mission is to make it safe and easy for people and things to move around. Today, our driverless cars are serving our first customers with no drivers behind the wheel. To experience our self-driving technology, see this 360-degree video.
+
+In this data science role, you will:
+
+Safety: Safety evaluation is of fundamental importance to Waymo, and measuring it is subtle. This role works with a wide variety of teams across the company (onboard software engineering, product, safety, systems engineering) to evaluate the driving and safety performance of Waymo's self driving car. This is based on a wide variety of data from real and simulated driving from Waymo’s self-driving system as well as from external data sources.
+
+Planner Evaluation: The Planner Team is responsible for "motion planning" for the self driving car. This includes gracefully handling many complex situations involving social interactions (merging, negotiating narrow roads, etc), while dealing with a noisy and uncertain environment. Evaluation of this onboard decision-making system is a complex, open-ended problem with tremendous potential impact. The quality of the road maneuvers we execute is subjective, contextual, and geometrically subtle, and evaluation needs apply to a wide variety of conditions with an extremely long tail.
+
+Additionally:
+
+Analysis and improvement of existing data sources and metrics
+
+Development of novel approaches to measuring and improving
+
+Self-driving performance (either generally, or for motion planning specifically)
+
+Collaborate with engineers and other data scientists to evaluate and improve core
+
+Waymo technologies, with a focus on bringing statistical depth, general analytical rigor, and accurate causal interpretation of data.
+
+We'd like you to have:
+
+PhD in statistics, math, or other quantitative area
+
+Progressive statistics background either in academia or industry
+
+Data science and system evaluation experience
+
+Willingness to understand a complex system and its various components
+
+Experience with tools for manipulating big data
+
+Experience with R/Python and statistical libraries
+
+It's preferred if you have experience in:
+
+Experience with C++
+
+Familiarity with Spark/MapReduce
+
+Training or interest in geometry or classical physics
+
+ 
+
+At Waymo, we’re focused on bringing self-driving technology to the world. Our mission is to make it safe and easy for people and things to move around. Today, our driverless cars are serving our first customers with no drivers behind the wheel. To experience our self-driving technology, see this 360-degree video.
+
+In this data science role, you will:
+
+Safety: Safety evaluation is of fundamental importance to Waymo, and measuring it is subtle. This role works with a wide variety of teams across the company (onboard software engineering, product, safety, systems engineering) to evaluate the driving and safety performance of Waymo's self driving car. This is based on a wide variety of data from real and simulated driving from Waymo’s self-driving system as well as from external data sources.
+
+Planner Evaluation: The Planner Team is responsible for "motion planning" for the self driving car. This includes gracefully handling many complex situations involving social interactions (merging, negotiating narrow roads, etc), while dealing with a noisy and uncertain environment. Evaluation of this onboard decision-making system is a complex, open-ended problem with tremendous potential impact. The quality of the road maneuvers we execute is subjective, contextual, and geometrically subtle, and evaluation needs apply to a wide variety of conditions with an extremely long tail.
+
+Additionally:
+
+Analysis and improvement of existing data sources and metrics
+
+Development of novel approaches to measuring and improving
+
+Self-driving performance (either generally, or for motion planning specifically)
+
+Collaborate with engineers and other data scientists to evaluate and improve core
+
+Waymo technologies, with a focus on bringing statistical depth, general analytical rigor, and accurate causal interpretation of data.
+
+We'd like you to have:
+
+PhD in statistics, math, or other quantitative area
+
+Progressive statistics background either in academia or industry
+
+Data science and system evaluation experience
+
+Willingness to understand a complex system and its various components
+
+Experience with tools for manipulating big data
+
+Experience with R/Python and statistical libraries
+
+It's preferred if you have experience in:
+
+Experience with C++
+
+Familiarity with Spark/MapReduce
+
+Training or interest in geometry or classical physics

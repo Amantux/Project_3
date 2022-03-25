@@ -1,0 +1,37 @@
+How will this role have an impact?
+
+
+The Data Quality Analyst reports to the Director of Data Quality. The Data Quality Analyst is responsible for the data quality initiatives of the Data Management organization with respect to all healthcare data ingested and used by the organization in reporting use cases. The Data Quality Analyst will help establish the vision for data quality standards that are maintained by development teams within the Data Management organization.
+
+The Data Quality Analyst is responsible for developing tests that can be automated and run routinely to proactively identify potential issues in reports, outputs, and other deliverables before they manifest as an incident with the business.
+
+The Data Quality Analyst will be responsible for completing quality reviews of new development of and enhancements to reports, client deliverables, and miscellaneous outputs as needed.
+
+The Data Quality Analyst will work closely with development teams and other leaders in the company to help formulate strategic healthcare data partnerships where new data must be ingested, processed and disseminated downstream into new and existing reporting or new and existing data contracts.
+
+The Data Quality Analyst is expected to utilize available tools and software to improve accuracy and efficiency of data quality validations and initiatives.
+
+What will you do?
+Support the Director of Data Quality Management
+Establish standards for Data Quality
+Utilize available toolsets and standardize validations
+Establish best practice standards for data quality initiatives
+Investigate and resolve problems of data accuracy and availability
+Participate in integral testing to identify problems early.
+Identify opportunities to leverage existing or new tooling to enhance Data Quality
+Develop and maintain data quality documentation.
+We are looking for someone with:
+Bachelor's degree in computer-related field or equivalent experience.
+Master's degree in a computer-related field is a plus.
+Excellent verbal and written communication skills.
+3+ years of relevant experience in a report development, data science, business analytics, business intelligence or comparable data engineering role
+Knowledge of SQL to write complex, highly-optimized queries across large volumes of data
+Extensive experience in the Healthcare Industry, working with CMS or other healthcare-related agencies, strongly preferred.
+Minimum of 2 years of experience in working with users to understand business processes and data quality-affecting requirements
+About Us:
+
+Signify Health is helping build the healthcare system we all want to experience by transforming the home into the healthcare hub. We coordinate care holistically across individuals' clinical, social, and behavioral needs so they can enjoy more healthy days at home. By building strong connections to primary care providers and community resources, we're able to close critical care and social gaps, as well as manage risk for individuals who need help the most. This leads to better outcomes and a better experience for everyone involved.
+
+Our high-performance networks are powered by more than 9,000 mobile doctors and nurses covering every county in the U.S., 3,500 healthcare providers and facilities in value-based arrangements, and hundreds of community-based organizations. Signify's intelligent technology and decision-support services enable these resources to radically simplify care coordination for more than 1.5 million individuals each year while helping payers and providers more effectively implement value-based care programs.
+
+To learn more about how we're driving outcomes and making healthcare work better, please visit us at www.signifyhealth.com.

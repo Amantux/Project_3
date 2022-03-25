@@ -1,0 +1,20 @@
+We’re seeking an experienced engineer with test chip design, device characterization and Spice modeling background. In this position, you will be responsible for maintaining device lab equipment functions, performing a wide range of device characterization activities and generating Spice models for custom devices.
+
+Required Skills and Qualifications
+Master’s in Electrical Engineering or Physics with 2+ years of experience or Bachelor’s in Electrical Engineering or Physics with 5+ years of experience
+Fundamental understanding of device physics related to compact modeling
+Solid experience in deep submicron CMOS and BCD device measurement and characterization with parametric analyzer, LCR meter, etc
+Thorough knowledge in using manual, semi-automatic, and automatic probers
+Familiar with active and passive devices in CMOS technologies
+Understanding of device noise and matching behaviors
+Experience in test structure layout of individual devices and arrays
+Experience in Spice model generation and QA flow
+Excellent verbal communication skills and technical report writing skills
+Preferred Skills and Qualifications
+Ability to stress test devices to understand post stress behavior and SOA
+Prior experience with digital and analog design flow and methodology is a plus
+Experience running siimulations using Cadence ADE
+Knowledge and experience in test structure layouts for various technology nodes, including advanced CMOS and BCD/HV for Analog or Mixed-Signal products
+This position is located in Austin, TX
+
+Cirrus Logic is an Equal Opportunity/Affirmative Action Employer. We strive to select the best qualified applicant for any opening and to reward employees based on their skills, experience and performance. We do not discriminate on the basis of race, national origin, pregnancy status, marital status, gender, age, religion, physical or mental disability, medical condition, veteran status, sexual orientation, genetic information or any other characteristic protected by law.

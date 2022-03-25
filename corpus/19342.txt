@@ -1,0 +1,32 @@
+About the role:
+
+As a Software Engineer focused on Configuration Management, you will be responsible for developing, engineering, configuring and automating enterprise level solutions to monitor our compute, network and storage devices in several data centers and cloud environments. In addition, this role will engineer and support server build automation and patching. Within each of these responsibilities we need a person to drive and create automation and identify areas of improvement.
+
+What you'll be doing:
+Developing event views, ad-hoc or scheduled reports and scripts to provide effective event resolution and situational awareness
+Maintaining the overall health, stability, and security of supported systems and environments with current standards
+Contribute to reusable automation scripts, libraries, services, and tools to increase system and process efficiencies; pursue opportunities to further operational excellence by increasing efficiency and reducing risk, complexity, waste and cost.
+Contribute to the automation of stored procedures helping achieve consistent implementation & efficiency
+Manage and optimize centralized application for asset discovery and configuration management of compute devices and software
+Manage and maintain the CMDB (configuration management database) to account for, manage and protect the integrity of constituent configuration items
+Collaborate with infrastructure and engineering teams to troubleshoot discovery errors to insure the completeness of inventory data in the CMDB
+Collaborate with ACE team to discover, engineer and integrate solutions to support asset discovery, configuration management and auditing of system changes throughout the service lifecycle
+Conduct physical asset inventories of Blackbaud datacenters and reconcile inventory gaps and discrepancies with CMDB data
+Provide reports and data to consumers of CMDB information in support of various asset and configuration use cases
+What we'll want you to have:
+B.S. in Computer Science, Engineering or 1-3 years of work experience or equivalent project experience required.
+Experience managing enterprise monitoring solution; System Center Operations Manager (SCOM), Solarwinds, and/or CA UIM preferred
+Experience managing server automation tool and server patching tool; System Center Configuration Manager (SCCM) preferred
+Experience creating or modifying scripts or automation, such as Perl, PowerShell, Python, TCL/TK, Ruby or similar for cloud orchestration required
+Familiarity with and general understanding of compute infrastructure architecture and operations including networking, systems and storage
+Available on a 24x7x365 basis when needed to provide tactical response for production impacting incidents or key customer events
+Why you'll want to come work here:
+Our benefits are unmatched. Not only do we offer competitive salaries, 4 weeks paid time off, tuition reimbursement, and 401K match, we also provide endless community involvement opportunities to encourage our employees to give back, through our CSR programs like gift matching and volunteer for vacation.
+Blackbaud has been named to Forbes America's Best Employers for Diversity 2019, Forbes America’s Best Midsize Employer 2019, and AnitaB.org's Top Companies for Women Technologists 2018, we are rapidly growing and offer incredible opportunity for career advancement!
+We understand that people thrive in a culture focused on teamwork and purpose. That's why Blackbaud offers a tremendous company culture, encouraging open, collaborative working environments in all of our offices around the world, including; North America, Australia, the United Kingdom and Costa Rica.
+We have proven that we are one of the best technology companies to work for. Blackbaud has been ranked Best Technology Company in Charleston, SC for the fourth year in a row, and ranked by BuiltIn Austin as one of the Best Places to Work in Austin, TX.
+Stay up to date on everything Blackbaud, follow us on Linkedin, Twitter, Instagram, Facebook and YouTube
+
+Blackbaud is proud to be an equal opportunity employer and is committed to maintaining a diverse and inclusive work environment. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, physical or mental disability, age, or veteran status or any other basis protected by federal, state, or local law.
+
+To all recruitment agencies: We do not accept unsolicited agency resumes and are not responsible for any fees related to unsolicited resumes.

@@ -1,0 +1,52 @@
+Job Title:
+Sr. Data Engineer
+Requisition ID:
+R001902
+Job Description:
+
+
+Job Title: Sr. Data Engineer
+Reporting To: Director, Data Governance
+Department: Central Tech
+Location: Sherman Oaks, CA
+
+Your Platform
+
+Activision Central Tech works to support our development studios and their titles. Comprised of seven main teams, we have many specialties including big data, privacy and security, motion capture and animation pipeline technologies, graphics, build and infrastructure for studio development and data centers, optimization, systems programming and online services including matchmaking and networking. Central Tech is distributed globally with offices across the U.S., and in Canada, England, Ireland and Japan.
+
+Most of our teams are comprised of both engineering and research talent, allowing us to always have an eye on the future. Our talented engineers help with title development and provide valuable knowledge sharing between studios while our researchers are action-oriented and keep a strong connection with the needs of the game studios.
+
+Central Tech is part of Activision. To learn more about us and our research, please visit us at https://research.activision.com/.
+
+Your Mission
+
+Do you have a passion for solving complex privacy engineering and data governance problems? Are you an outspoken advocate for the implementation of best in class data privacy and governance standards and practices? If so, our Sr. Data Engineer role is for you!
+
+Activision Data team is looking for a strong engineer who is well-versed in developing solutions in large-scale big data environment with a primary focus on privacy engineering and data governance. The ideal candidate will have extensive hands-on experience in designing and developing scalable and robust engineering solutions. Previous gaming industry experience is a plus. You should be willing and able to wear multiple hats.
+
+Responsibilities:
+Develop scalable, efficient, forward-looking privacy solutions that support requirements of GDPR, CA Privacy Act, and other global privacy regulations.
+Work closely with other engineering teams and business stakeholders to design automated solutions for privacy and compliance.
+Be the engineering voice of privacy and data governance at Activision.
+Implement best in class data protection standards and solutions for data pseudonymization, data anonymization, access control, logging, and auditing.
+Implement data governance tools such as data catalog and processes for effectively managing metadata, data classification, and lineage.
+Develop solutions for data profiling, data quality monitoring, reporting, and testing.
+Support creation and implementation of data governance policies, standards, and processes.
+Player Profile
+Proven verbal and written communication skills, including the ability to communicate complex technical ideas to the business stakeholders.
+Experience working with big data technologies (Hadoop, Hive, Spark, Presto, or similar.)
+4+ years of production engineering experience.
+Experience in working with cloud infrastructures.
+Familiarity with GDPR, CCPA, and other privacy regulations.
+Production experience in Python and/or Java
+Experience writing / debugging complex SQL statements
+Experience in implementation of Data Catalog tools such as Atlas, Collibra, or Alation
+Our World
+
+Activision Blizzard, Inc. (NASDAQ: ATVI), is one of the world's largest and most successful interactive entertainment companies and is at the intersection of media, technology and entertainment. We are home to some of the most beloved entertainment franchises including Call of Duty®, World of Warcraft®, Overwatch®, Diablo®, Candy Crush and Bubble Witch. Our combined entertainment network delights hundreds of millions of monthly active users in 196 countries, making us the largest gaming network on the planet!
+
+Our ability to build immersive and innovate worlds is only enhanced by diverse teams working in an inclusive environment. We aspire to have a culture where everyone can thrive in order to connect and engage the world through epic entertainment. We provide a suite of benefits that promote physical, emotional and financial well-being for Every World - weve got our employees covered!
+
+The videogame industry and therefore our business is fast-paced and will continue to evolve. As such, the duties and responsibilities of this role may be changed as directed by the Company at any time to promote and support our business and relationships with industry partners.
+
+Activision is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, gender expression, national origin, protected veteran status, or any other basis protected by applicable law and will not be discriminated against on the basis of disability.

@@ -1,0 +1,87 @@
+RESPONSIBILITIES
+
+The Federal Civilian Solutions Mission Area provides guidance and support to its clients in the areas of program and acquisition life cycle management, information technology systems modernization management, applied telecommunications and networking, applied contact centers, and serves as a uniquely neutral technology clearinghouse and information sharing institution.
+
+This team is building a behavioral analytics team to support a wide variety of client needs focused on detecting fraudulent electronic transactions/usage. Team members will work collaboratively with the Noblis data analytics architects and data scientists to design and implement an offline and near real time analytics capability, visualization and a near real-time dash boarding and visualization capabilities to support Federal Agencies in strengthening their security posture against fraudulent web transactions.
+
+The Data Scientist will participate in various aspects of the implementation and operations of the analytics capability, including developing applications for analyzing large scale data sets, and designing and developing analytical approaches, including machine learning and modeling.
+
+Responsibilities include:
+
+Support the design and implementation of data integration across data analytics infrastructures.
+
+Identification of analytics approaches, and development of supporting analytical data sets.
+
+Conduct data exploration and identify approaches for model development, feature definition, and application of machine learning.
+
+Conduct independent analysis to identify new insights into user behavior and anomalies.
+
+Development of dashboards and reports to assess data performance and quality control.
+
+Assist with the development of project status briefings and dashboards for Agency executives
+
+Interact with client project team members and operational staff
+
+QUALIFICATIONS
+
+Bachelor’s degree and 18 years of experience or a Masters and 10+ years of experience or PHD and 8 years of experience.
+
+Degree in a computer science, applied mathematics or similar technical disciplines required.
+
+Highly focused, detail-oriented temperament are required.
+
+Experience in the design, development, integration, testing, and implementation of a large-scale data sets
+
+Solid knowledge of data analytics tools and methods; knowledge and experience with SAS analytics, R, or a demonstrated ability to quickly learn new tools and languages
+
+Knowledge of Hadoop is a strong preference.
+
+Strong ability to navigate and process large log files in a Linux command line environment, including use of vi editor for application development.
+
+Working knowledge of data processing tools/languages including Perl, SQL, Bash, etc.
+
+Experience in developing statistical models, and knowledge of machine learning approaches and algorithms
+
+Progressive experience in data analytics; specific focus on internet web transactions is preferred.
+
+Experience in the design and development, integration, testing, and implementation of a large scale analytics infrastructures
+
+Strong analytic and creative problem solving abilities are required
+
+Strong teamwork, communication and interpersonal skills
+
+Excellent communication, written, and organizational skills
+
+Ability to work on multiple aspects of a large scale project which includes prioritizing, tracking, attention to detail, follow-up and follow-through to project completion
+
+Project management skills preferred
+
+Experience with, or exposure to Hadoop and Splunk is considered a plus.
+
+Applicants selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information.
+
+10 - #LI-JO1
+
+OVERVIEW
+
+Noblis and Noblis ESI are solving difficult problems that help our government and our country. We bring the best of scientific thought, management, and engineering expertise with a reputation for independence and objectivity. We support a wide range of government and industry clients in the areas of national security, intelligence, transportation, healthcare, environmental sustainability, and enterprise engineering.
+
+Why work at a Noblis company?
+
+Our employees find greater meaning in their work and balance the other things in life that matter to them. Our people are our greatest asset. They are exceptionally skilled, knowledgeable, team-oriented, and mission-driven individuals who want to do work that matters and benefits the public.
+
+Noblis has won numerous workplace awards. Over the past two decades, Noblis has consistently earned wide recognition:
+
+1. Best Employer: We have been a Washington Post “Top Workplace” for 5 consecutive years (2018, 2017, 2016, 2015, 2014) including the three among the top 10. We’ve also been recognized by Glassdoor “Best Medium-Sized Company to Work For” for 2 years, and many similar awards in previous years
+
+2. Business Ethics and Integrity: A “World’s Most Ethical Company” for 7 years by Ethisphere Institute, and a Finalist at the Greater Washington Government Contractor Awards
+
+3. Leadership and Innovation: CEO Amr ElSawy selected to Executive Mosaic’s annual Wash 100 List, and as a “Tech Titan” by the Washingtonian Magazine.
+
+Noblis maintains a drug-free workplace and is an equal opportunity employer.
+
+CLIENT ENGAGEMENT
+
+Support and lead evolving business development efforts by applying technical and functional expertise to develop business solutions.
+
+Lead proposal sections for small or limited competition proposals and actively participate in teaming strategy discussions

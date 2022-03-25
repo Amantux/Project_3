@@ -1,0 +1,55 @@
+Software Architect (Distinguished Software Engineer) - Data Integration
+
+Location: San Diego
+
+This position reports to: Chief Architect, applications
+
+ServiceNow is changing the way people work. With a service-orientation toward the activities, tasks and processes that make up day-to-day work life, we help the modern enterprise operate faster and be more scalable than ever before.
+
+We're disruptive. We work hard but try not to take ourselves too seriously. We are highly adaptable and constantly evolving. We are passionate about our product, and we live for our customers. We have high expectations and a career at ServiceNow means challenging yourself to always be better.
+
+What you get to do in this role:
+
+ServiceNow is looking for the top industry leading Integrations Architect. As an architect on the application architecture group, you will be responsible for helping to architect and implement the next generation Integration Platform as a Service.
+
+Integrations are often hard to code, configure, test, monitor and maintain. Our fundamental goal is to make them simpler. We are providing the same easy to use integration experience independent of the target cloud system, API or IoT device we are interoperating with, while also scaling to handle large scale and concurrent integrations. This is a role where you will be work closely with the application teams, helping them code, design, architect and provide guidelines on integrations between ServiceNow and products such as: Salesforce, AWS, GCP, Azure, Office365, WorkDay and more.
+
+You will use your expertise in performance, scalability, architecture and object-oriented design to push the boundaries in the Integration space.
+
+You will collaborate with cross-functional engineering teams to develop new and improve on existing platform features.
+
+You will provide technical leadership and be able to coach and mentor other software engineers in different methodologies.
+
+You will provide perspective on leading industry trends in the Integrations space, recommendations on new and emerging integration technologies.
+
+In order to be successful in this role, we need someone who has:
+Top Industry leader in the Integrations Space.
+15+ years of hands-on experience developing Enterprise Integration Software.
+Experience connecting to numerous enterprise systems via a wide range of protocols.
+Expertise in dealing with large dataset processing/throughput and transformation.
+Expertise with Integration protocols: REST, SOAP, JDBC, PowerShell, SSH, SFTP, SCP, MQTT
+Expertise with Integration technologies: Open API/Swagger, OAuth, RabbitMQ, GraphQL, OData
+Expertise in performance tuning Java applications.
+Excellent understanding of Java and Streaming.
+Expertise with Java threading models.
+Experience with front-end technologies (HTML, JavaScript, CSS, Javascript frameworks).
+Familiarity with an Agile development environment.
+Familiarity with industry standard IDEs and build tools for Java development
+Ability to troubleshoot and debug, under pressure, critical customer issues.
+Excellent verbal and written communication skills.
+Our technology stack:
+
+Programming Languages/Frameworks
+Java
+JavaScript (Server-side & Client Side)
+AngularJS
+React
+Environment & Build Environments:
+Maven
+Git
+Tomcat
+MySql
+Linux
+IntelliJ/Eclipse
+Why ServiceNow is a great place to work
+We provide competitive compensation, generous benefits and a professional atmosphere. This is a very collaborative and inclusive work environment where individuals strong on aptitude and attitude will have an opportunity to grow their professional careers through working with some of the most advanced technology and talented developers in the business.

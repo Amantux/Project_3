@@ -1,0 +1,65 @@
+Read what people are saying about working here. 
+
+Temporary
+
+Must be a US Citizen or Green Card Holder
+
+Estimated duration of 3 months with the potential for extension or conversion.
+
+W2 with full benefits
+
+Customer and contract specific training will be required and provided.
+
+Labor Category: Technologist I
+
+==
+
+Job Description:
+
+This opportunity is part of an effort to develop statistical methodology and software to support simulation-based uncertainty quantification (UQ) for atmospheric remote sensing retrievals. The project team is developing analysis tools for Monte Carlo simulation experiments for satellite retrievals. A further activity is focused on applying this technology to understand sources of uncertainty in the Atmospheric Infrared Sounder (AIRS) Level-2 retrieval algorithm. AIRS is a remote sensing instrument on NASA's Aqua satellite that has provided estimates of important weather and climate variables for over 15 years. The retrieval algorithm used to produce these estimates is a complex inverse method that is subject to systematic and random errors.
+
+Responsibilities will include software development and statistical analysis supporting simulation experiments to study the behavior of the AIRS retrieval system. The simulation system begins with a known true state of the atmosphere (temperature, humidity, and clouds) and generates synthetic AIRS measurements. The synthetic measurements are used in a retrieval, and the retrieved quantities can be compared to the known true state, to quantify the extent of retrieval errors. The project team has developed several modules for various stages of this simulation system, and this task will involve integrating these components into a comprehensive end-to-end framework. The simulation system will be executed for several focused geophysical conditions that represent application use cases for AIRS data products.
+
+Required Skills:
+
+Must be a US Citizen or Green Card Holder
+
+Offer contingent on ability to successfully pass a background check and drug screen
+
+Candidate must have completed requirements for a Bachelor's degree in mathematics, statistics, computer science, data science, or related discipline by the position start date. Degree program must include at least three courses in the physical and/or mathematical sciences. Minimum cumulative 3.0 GPA for undergraduate program. Candidate must have excellent verbal and written communication skills, as well as scientific programming experience.
+
+Desired Skills :
+
+Desired skills include experience in data analysis with complex and/or large datasets, as well as familiarity with data formats used in Earth science and remote sensing. Programming experience in Python, R, and/or Matlab is preferred. Experience working in a collaborative team environment is desired.
+
+ 
+
+Must be a US Citizen or Green Card Holder
+
+Estimated duration of 3 months with the potential for extension or conversion.
+
+W2 with full benefits
+
+Customer and contract specific training will be required and provided.
+
+Labor Category: Technologist I
+
+==
+
+Job Description:
+
+This opportunity is part of an effort to develop statistical methodology and software to support simulation-based uncertainty quantification (UQ) for atmospheric remote sensing retrievals. The project team is developing analysis tools for Monte Carlo simulation experiments for satellite retrievals. A further activity is focused on applying this technology to understand sources of uncertainty in the Atmospheric Infrared Sounder (AIRS) Level-2 retrieval algorithm. AIRS is a remote sensing instrument on NASA's Aqua satellite that has provided estimates of important weather and climate variables for over 15 years. The retrieval algorithm used to produce these estimates is a complex inverse method that is subject to systematic and random errors.
+
+Responsibilities will include software development and statistical analysis supporting simulation experiments to study the behavior of the AIRS retrieval system. The simulation system begins with a known true state of the atmosphere (temperature, humidity, and clouds) and generates synthetic AIRS measurements. The synthetic measurements are used in a retrieval, and the retrieved quantities can be compared to the known true state, to quantify the extent of retrieval errors. The project team has developed several modules for various stages of this simulation system, and this task will involve integrating these components into a comprehensive end-to-end framework. The simulation system will be executed for several focused geophysical conditions that represent application use cases for AIRS data products.
+
+Required Skills:
+
+Must be a US Citizen or Green Card Holder
+
+Offer contingent on ability to successfully pass a background check and drug screen
+
+Candidate must have completed requirements for a Bachelor's degree in mathematics, statistics, computer science, data science, or related discipline by the position start date. Degree program must include at least three courses in the physical and/or mathematical sciences. Minimum cumulative 3.0 GPA for undergraduate program. Candidate must have excellent verbal and written communication skills, as well as scientific programming experience.
+
+Desired Skills :
+
+Desired skills include experience in data analysis with complex and/or large datasets, as well as familiarity with data formats used in Earth science and remote sensing. Programming experience in Python, R, and/or Matlab is preferred. Experience working in a collaborative team environment is desired.

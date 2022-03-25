@@ -1,0 +1,33 @@
+Job Description
+About Us
+
+At the Parker Institute for Cancer Immunotherapy, we imagine a world where cancer is curable. We are making this a reality by transforming the way research is done. We bring together the top minds in cancer immunotherapy. We fund the boldest ideas that will lead to breakthrough discoveries. And we give our researchers the most innovative tools and resources to fuel their work. A not-for-profit organization, our goal is to accelerate the development of breakthrough immune therapies to turn cancer into a curable disease.
+
+At the Parker Institute, you’ll be welcomed into a mission-driven family of smart, motivated colleagues. You’ll work on projects that make an impact for cancer patients and have a front row seat to innovations in cancer research.
+
+Help create a world that is cancer-free. Join us. www.parkerici.org
+
+Overview of the Role
+
+The Bioinformatics Analyst will work alongside scientists on the informatics team to make contributions to crucial ongoing projects. Such projects include analyzing large multi-omic data sets and contributing to the construction of a biological reference database. The bioinformatics analyst will be responsible for processing raw forms of biological data through cloud based pipelines to generate meaningful features from molecular data sets. They will further be responsible for structuring these features and importing them into our central data store. Finally, the bioinformatics analyst will work with informatics team scientists to analyze these data by making plots and comparing molecular features to clinical variables.
+
+This role will be full time remote to start with the option to work at the PICI main office in San Francisco in the future. This is a temporary role for 9 months, with potential to extend.
+
+Essential Job Functions
+
+The precise job functions of the bioinformatics analyst include:
+Analyzing and organizing large multi-omic data sets
+Using internal software to import published data sets into our central data store
+Running bioinformatic pipelines to clean and process biological data, including but not limited to, whole exome sequencing, RNA-sequencing, flow cytometry, CyTOF, IHC imaging, single cell RNA-seq, and others.
+Generating plots and figures to summarize data results and insights that can affect the future of immune-oncology research
+Knowledge, Skills, Experience
+Undergraduate degree in computer science, bioinformatics, physics, applied mathematics, molecular biology, immunology or similar required; Masters a plus.
+Have experience programming in R
+Have experience working with the unix command line (Linux or Mac) and shell scripting (bash)
+Have experience working at least one form of biological data: sequencing, cytometry or imaging.
+Have experience manipulating, exploring, and cleaning tabular data (ie csv, data.frame)
+Experience working with data modeling and database systems a strong plus.
+Have experience reading and understanding scientific papers, ideally in cancer immunotherapy, clinical trials, and/or immunology
+Have a passion for collaborative, interdisciplinary scientific research that generates real impact
+Be highly motivated and able to work independently
+this is a remote position

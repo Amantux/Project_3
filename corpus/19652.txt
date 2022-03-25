@@ -1,0 +1,19 @@
+In this position the engineer will design and develop complex electronic hardware systems for aircraft. A major focus of this mission critical engineering role will involve developing aircraft electronic systems. The engineer will be responsible for Circuit design, Field Programable Gate Array (FPGA) programing, and Printed Circuit Board (PCB) and Circuit Card Assembly (CCA) designs working on a cross functional team. Working on a cross functional team the engineer will be working with mechanical and software design teams to develop a complete qualified flight tested aircraft solutions.
+
+The engineer will have an opportunity have an impact on the following areas: Requirements analysis/derivation, concept development, hardware architecture, component selection, schematic capture, reliability analysis (derating, thermal, signal integrity, power integrity, stability, overstress), design verification, system integration, and qualification.
+
+Basic Qualifications:
+A BS Degree in Electrical Engineering or closely related technical field or equivalent experience/combined education
+Experience with circuit design concepts
+Experience in circuit analysis, troubleshooting, test instrumentation, and data analysis tools
+Experience with Printed Circuit Board (PCB) board design and Circuit Card Assembly (CCA) design
+Experience with VHDL, Verilog, or System Verilog languages to support FPGA firmware programing
+The technical ability to effectively define and interpret system level requirements and derive the requirements necessary to interface between lab and hardware
+The ability to work well in a teaming environment with other disciplines (Systems Engineering, Software Engineering, Mechanical Engineering, etc.)
+Desired Skills:
+Experienced using Xilinx and/or Microsemi FPGAs
+Experienced with design and simulation tools (Xilinx Vivado, Microsemi Libero, Mentor QuestaSim)
+Experience with Perl, Visual Basic, and C/C++,
+DO 178C/254 verification
+High Speed and RF design
+Cadence schematic capture, PCB layout Allegro

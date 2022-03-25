@@ -1,0 +1,101 @@
+Read what people are saying about working here. 
+
+At Ravel we develop the legal profession’s most innovative products for data analysis, visualization, and research. We use the latest techniques in machine learning, knowledge modeling, and data visualization to uncover insights about judges’ rulings, build forecasts of likely outcomes, and reveal critical connections in massive datasets spanning the law, news, and finance. Industry leader LexisNexis acquired Ravel in 2017.
+
+As a Data Scientist on the Ravel team, you will work on new product development in a small team environment writing production code in both run-time and build-time environments. You will help propose and build data-driven solutions for high-value customer problems by discovering, extracting, and modeling knowledge from large-scale natural language datasets. You will prototype new ideas, collaborating with other data scientists as well as product designers, data engineers, front-end developers, and a team of expert legal data annotators. You will get the experience of working in a start-up culture with the large datasets and many other resources of an established company.
+
+This position is located in San Francisco, California.
+
+RESPONSIBILITIES
+
+Evaluate and help maintain our data assets and training/evaluation data sets
+
+Develop and implement NLP-based information extraction solutions
+
+Propose and identify trade-offs of various algorithmic solutions
+
+Interface with other technical personnel or team members to finalize requirements.
+
+Work closely with other development team members to understand moderately complex product requirements and translate them into software designs.
+
+Successfully implement development processes, coding best practices, and code reviews for production environments.
+
+PREFERRED QUALIFICATIONS
+
+New Graduate with MS in Computer Science, Statistics, Machine Learning, or another Data Science related field
+
+DATA SCIENCE AND NLP SKILLS
+
+Formal training in dimensionality reduction, clustering, and sequence classification algorithms
+
+Practical training in NLP methods such as OpenNLP, StanfordNLP, Mallet, LDA, word2vec
+
+TECHNICAL SKILLS
+
+Strong Scala or Java background, as well as some Python knowledge preferred.
+
+Functional Programming experience/interest highly preferred.
+
+Understanding of data modeling principles.
+
+Ability to work with complex data models.
+
+Knowledge of AWS or other similar platforms.
+
+Knowledge of Spark, Hadoop, or other distributed computing systems.
+
+Knowledge of relational and NoSQL databases (e.g. Postgres, ElasticSearch, GraphDBs)
+
+Knowledge of test-driven development.
+
+ 
+
+At Ravel we develop the legal profession’s most innovative products for data analysis, visualization, and research. We use the latest techniques in machine learning, knowledge modeling, and data visualization to uncover insights about judges’ rulings, build forecasts of likely outcomes, and reveal critical connections in massive datasets spanning the law, news, and finance. Industry leader LexisNexis acquired Ravel in 2017.
+
+As a Data Scientist on the Ravel team, you will work on new product development in a small team environment writing production code in both run-time and build-time environments. You will help propose and build data-driven solutions for high-value customer problems by discovering, extracting, and modeling knowledge from large-scale natural language datasets. You will prototype new ideas, collaborating with other data scientists as well as product designers, data engineers, front-end developers, and a team of expert legal data annotators. You will get the experience of working in a start-up culture with the large datasets and many other resources of an established company.
+
+This position is located in San Francisco, California.
+
+RESPONSIBILITIES
+
+Evaluate and help maintain our data assets and training/evaluation data sets
+
+Develop and implement NLP-based information extraction solutions
+
+Propose and identify trade-offs of various algorithmic solutions
+
+Interface with other technical personnel or team members to finalize requirements.
+
+Work closely with other development team members to understand moderately complex product requirements and translate them into software designs.
+
+Successfully implement development processes, coding best practices, and code reviews for production environments.
+
+PREFERRED QUALIFICATIONS
+
+New Graduate with MS in Computer Science, Statistics, Machine Learning, or another Data Science related field
+
+DATA SCIENCE AND NLP SKILLS
+
+Formal training in dimensionality reduction, clustering, and sequence classification algorithms
+
+Practical training in NLP methods such as OpenNLP, StanfordNLP, Mallet, LDA, word2vec
+
+TECHNICAL SKILLS
+
+Strong Scala or Java background, as well as some Python knowledge preferred.
+
+Functional Programming experience/interest highly preferred.
+
+Understanding of data modeling principles.
+
+Ability to work with complex data models.
+
+Knowledge of AWS or other similar platforms.
+
+Knowledge of Spark, Hadoop, or other distributed computing systems.
+
+Knowledge of relational and NoSQL databases (e.g. Postgres, ElasticSearch, GraphDBs)
+
+Knowledge of test-driven development.
+
+ LexisNexis Group is a corporation providing computer-assisted legal research (CALR) as well as business research and risk management serv...

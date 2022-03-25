@@ -1,0 +1,79 @@
+LOC_1300_MKT-Wanamaker Building Req ID: 57161
+
+Shift: Days
+
+Employment Status: Regular - Full Time
+Job Summary
+We are looking for a Data Engineer to join our growing team of analytics experts. The hire will be responsible for expanding and optimizing our data warehouse and building data integrations, developing data best practices and governance, performing clinical and administrative reporting and data visualization, as well as optimizing data flow and collection for cross functional teams.
+
+The ideal candidate has been exposed to all aspects of data from multiple complex sources who enjoys optimizing data systems and building them from the ground up. The Data Engineer II will support our developers, database architects, data analysts and data scientists ensuring optimal data delivery architecture is consistent throughout ongoing projects. They will also support non-technical colleagues in the collection and appropriate use of clinical and non-clinical data. They must be self-directed and comfortable supporting the data needs of multiple teams, systems and products. The right candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data initiatives.
+Job Responsibilities
+Data Modeling – evaluate structured and unstructured data, determine the most appropriate schema for new fact tables, data marts, etc.
+Data Integration – incorporate new business and system data into the CHOP Data Warehouse while maintaining enterprise best practices and adhering to data governance standards.
+ETL – apply business rules to our data as we migrate from source to target using Informatica or scripting language. Validate data to ensure quality.
+Reporting – collaborate with colleagues across the enterprise to scope requests. Extract data from various data sources, validate results, create relevant data visualizations, and share with requester. Develop dashboards and automate refreshes as appropriate.
+Governance / Best Practices – adhere and contribute to enterprise data governance standards. Also educates and supports colleagues in best practices to ensure that data is used appropriately.
+Product Ownership – collaborate and act as the voice of the customer to offer concrete feedback and project requests as well as an advocate for analytics from within the business units themselves.
+Assemble large, complex data sets that meet functional / non-functional business requirements.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources (including ground, hybrid cloud, and cloud) using SQL and various programming technologies.
+Develop analytics tools that utilize data resources to provide actionable insights, operational efficiency and other key business performance metrics.
+Work with stakeholders including the Executive, Clinical, and Analyst teams to assist with data-related technical issues and support their data infrastructure needs.
+Develop optimized tools for analytics and data scientist team members that assist them in building and optimizing projects into an innovative industry leader.
+Proficient at integrating predictive and prescriptive models into applications and processes.
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+Make recommendations about platform adoption, including technology integrations, application servers, libraries, and frameworks.
+Participate in a shared production on-call support model.
+Be a critical part of an Agile Scrum software development team, ensuring the team successfully meets its deliverables each sprint.
+Required Licenses, Certifications, Registrations
+One (1) Certifications or proficiency in appropriate Data Science/Data Integration/Data Warehousing technology or subject domain.
+Required Education and Experience
+Required Education:
+Bachelor’s Degree in Computer Science, Computer/Software Engineering, Information Technology or related fields.
+Required Experience:
+Minimum of three (3) years of Data Engineering/Business Intelligence/Data Warehousing experience, preferably in a healthcare environment.
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Experience supporting and working with cross-functional teams in a dynamic environment.
+Working knowledge of message queuing, stream processing, and highly scalable data stores.
+Previous experience manipulating, processing and extracting value from large disconnected datasets.
+Preferred Education, Experience & Cert/Lic
+Preferred Education:
+Advanced Degree in Computer Science, Informatics, Information Systems or another quantitative field.
+Preferred Experience:
+Minimum of six (6) years of experience in a Data Engineer role
+Additional Technical Requirements
+Strong analytic skills related to working with structured and unstructured datasets.
+Must possess critical thinking and creative problem solving skills along with the ability to communicate well with stakeholders throughout the organization.
+Strong communication, project management and organizational skills.
+Proficient in SQL
+Exposure to big data tools: Hadoop, Spark, Kafka, BigSQL, Hive, etc.
+Experience with relational SQL and NoSQL databases, including IBM PDA (Netezza), MS SQL Server and HBase.
+Experience with data integration tools: Informatica, MS Integration Services, Sqoop, etc.
+Exposure to cloud vendors and services: AWS, Google, Microsoft, IBM
+Exposure to stream-processing systems: IBM Streams, Flume, Storm, Spark-Streaming, etc.
+Experience consuming and building APIs
+Experience with object-oriented/object function programming languages: Python, Java, C++, Scala, etc.
+Experience with statistical data analysis tools: R, SAS, SPSS, etc.
+Experience with visual analytics tools: QlikView, Tableau, Power BI etc.
+Familiarity to Agile methodology for development
+Familiarity with electronic health record and financial systems. i.e. Epic Systems, Cerner, WorkDay, Infor, Strata etc.
+
+All CHOP employees who work in a patient building or who provide patient care are required to receive an annual influenza vaccine unless they are granted a medical or religious exemption.
+
+Children's Hospital of Philadelphia is committed to providing a safe and healthy environment for its patients, family members, visitors and employees. In an effort to achieve this goal, employment at Children's Hospital of Philadelphia, other than for positions with regularly scheduled hours in New Jersey, is contingent upon an attestation that the job applicant does not use tobacco products or nicotine in any form and a negative nicotine screen (the latter occurs after a job offer).
+
+Children's Hospital of Philadelphia is an equal opportunity employer. We do not discriminate on the basis of race, color, gender, gender identity, sexual orientation, age, religion, national or ethnic origin, disability or protected veteran status.
+
+VEVRAA Federal Contractor/Seeking priority referrals for protected veterans. Please contact our hiring official with any referrals or questions.
+
+CHOP Careers Contact
+
+Talent Acquisition
+
+2716 South Street, 6th Floor
+
+Philadelphia, PA 19146
+
+Phone: 866-820-9288
+
+Email:TalentAcquisition@email.chop.edu

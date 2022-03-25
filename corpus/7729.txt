@@ -1,0 +1,79 @@
+Requisition Id 1517
+
+Overview:
+
+The Scientific Data Group at the Oak Ridge National Laboratory (ORNL) seeks highly-motivated scientists to research and develop cutting-edge scientific data management, analytics, visualization, statistical and information technologies. In this role you will work on some of the most challenging scientific problems facing the Department of Energy, creating new algorithms, tools, and technologies to facilitate knowledge discovery.
+
+ Our collaborative work concerns all stages of the scientific life cycle and utilizes computing platforms ranging from the desktop to next generation supercomputers. Our group works closely with application scientist (e.g. fusion, accelerator, seismology, nuclear), applied mathematicians, and computer scientists. Our group focuses on research and software artifacts in highly cited journals and conferences, helping to enable bleeding edge science at scale.
+
+Our research has resulted in numerous awards and software including an R&D 100 award for the Adaptable I/O System (ADIOS), programming big data in R (pbdR), the Visit visualization system, and the many core version of the Visualization Tool Kit (VTK-m). Our emphasis is on team work, and it is important for the applicant to show a strong desire to work within a team, as well as promote her/his research.
+
+Job Duties and Responsibilities:
+
+Make direct contributions working closely with project teams to create, evaluate, and publish novel research ideas.
+
+Mentor students and postdocs.
+
+Publish papers in high-quality refereed conferences and journals.
+
+Collaborate with industry, academia, government labs.
+
+Participate in proposal development for potential external and internal funding.
+
+Basic Qualifications:
+
+Ph.D. in computer science, computational science or a discipline related to the job duties.
+
+2-5 years of experience
+
+Experience in parallel computing
+
+Experience with storage systems
+
+Previous research experience in ONE or more of the following areas is also required:
+
+I/O
+
+Workflows
+
+Provenance
+
+Data Science
+
+Visualization
+
+Using machine Learning to solve complex problems
+
+Data Compression
+
+Performance Modeling and/or Tuning of HPC codes
+
+Computer Systems
+
+Preferred Qualifications:
+
+Strong programming skills in one or more of the following languages: C/C++, Python, Fortran
+
+Excellent interpersonal skills, oral and written communication skills, and strong personal motivation
+
+The ability to work in a dynamic, interdisciplinary team
+
+The ability to take initiative on research insights to bring them to fruition through publication or demonstration on mission applications
+
+ORNL Ethics and Conduct:
+
+As a member of the ORNL scientific community, you will be expected to commit to ORNL's Research Code of Conduct. Our full code of conduct, and a statement by the Lab Director's office can be found here: https://www.ornl.gov/content/research-integrity
+
+Benefits at ORNL: UT-Battelle offers a quality benefits package, including a matching 401(k), contributory pension plan, paid vacation, and medical/dental plan options. Onsite amenities include a credit union, medical clinic, cafeteria, coffee stands, and fitness facilities.
+
+Relocation: Moving can be overwhelming and expensive. UT-Battelle offers a generous relocation package to ease the transition process. Domestic and international relocation assistance is available for certain positions. If invited to interview, be sure to ask your Recruiter (Talent Acquisition Partner) for details.
+
+For more information about our benefits, working here, and living here, visit the “About” tab at jobs.ornl.gov.
+
+This position will remain open for a minimum of 5 days after which it will close when a qualified candidate is identified and/or hired.
+
+We accept Word (.doc, .docx), Adobe (unsecured .pdf), Rich Text Format (.rtf), and HTML (.htm, .html) up to 5MB in size. Resumes from third party vendors will not be accepted; these resumes will be deleted and the candidates submitted will not be considered for employment.
+
+If you have trouble applying for a position, please email ORNLRecruiting@ornl.gov.
+
+ORNL is an equal opportunity employer. All qualified applicants, including individuals with disabilities and protected veterans, are encouraged to apply. UT-Battelle is an E-Verify employer.

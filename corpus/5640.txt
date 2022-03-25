@@ -1,0 +1,73 @@
+Read what people are saying about working here. 
+
+Jewelers Mutual Insurance, the nation's only company exclusively insuring the jewelry industry is hiring for a Data Scientist I. This position will be open to Dallas, TX office.
+
+About the Dallas, Tx Office:
+
+Our new office in Dallas, TX will be located at the Premier Place and offers an onsite athletic club (62,000 sq. ft. health club), an onsite deli, convenient transit, dining and shopping all within walking distance!
+
+http://premierplacedallas.com/location/index.html
+
+The Data Scientist I will work with our Enterprise Information Management (EIM) and Corporate Analytics (CA) teams to improve data access and integration. This position will work with the various functional areas to understand the reporting and data needs required by the Profit and Loss owners. This will include construction of self-service capability that allows for deeper mining of the data as well as reports and dashboards. The Data Scientist I will work closely with EIM BI Engineers to be data subject matter experts as the Data Lake environment is constructed. This will include an understanding of data sources and data structures, understanding and discovery of data quality issues and design of aggregations and transformations. In addition, this position will work with CA Data Scientists to develop and improve their statistics skills. This will involve statistical model development and other analytic based research that reveals key insights that drive the strategic direction of corporate initiatives.
+
+Communicate directly with Profit and Loss owners to identify requirements and meet analytic needs
+
+Leverage large proprietary and third-party datasets in novel ways to derive insights and optimize processes
+
+Participate in requirement definition and development of automated data pipelines and maintenance of cloud based analytical databases (warehouse) and tables
+
+Monitor processing of data out of data lake into production data warehouses to ensure data quality
+
+Develop and implement periodic data quality tests for production data
+
+Participate in the construction of research data suitable for statistical research, testing, and prediction
+
+Monitor key metrics to help identify issues, trends and opportunities
+
+Produce daily, monthly and quarterly reports and dashboards
+
+Interpret data, extract trends and create action plans from data and statistical analysis
+
+Collaborate with agencies and partners to ensure continuity and advancement of analytics reporting and analysis
+
+QUALIFICATIONS
+
+To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required.
+
+Data Engineering and Reporting
+
+Solid understanding of ETL processes and data warehouse design and structure
+
+Solid handle around various programming tools and open source applications that enhance data and analytic integration to accomplish data wrangling/cleansing and advanced statistical analysis (e.g. R, Python, Airflow, SAS, SQL, Tableau, GCP)
+
+Familiarity with the intersection of Big data environments and analytics such as data lake construction, cloud based analytical data storage (Big Query, Redshift or Snowflake), Automated Data Pipelines, GCP applications, and cloud deployment
+
+Experience translating requests and requirements into concise and useful reports
+
+Statistical Modeling
+
+Basic understanding of statistical techniques including regression (OLS, GLMs, logistic) and other core multivariate techniques
+
+Familiar with deep learning techniques, machine learning algorithms, text mining / NLP, and A.I. concepts
+
+Data Science Leadership
+
+Analytical and critical thinker with a high attention to detail and an ability to communicate complex concepts to a non-technical audience.
+
+Ability to creatively think outside of the box and look for new ideas around improving company performance and operational efficiency.
+
+EDUCATION AND/OR EXPERIENCE
+
+Master of Science or equivalent experience in a quantitative field (computer science, physics, mathematics, statistics, engineering, bioinformatics, etc.) with an emphasis on predictive modeling.
+
+2+ years of professional experience in a technical and/or analytical role. No actuarial exams required.
+
+Property/casualty insurance background/experience are helpful.
+
+Education
+
+Required
+
+Masters or better
+
+ Jewelers Mutual was founded by jewelers in 1913 and remains the leading insurer soley dedicated to insuring jewelery and the jewelery ind...

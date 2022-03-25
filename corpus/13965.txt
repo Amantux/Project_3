@@ -1,0 +1,29 @@
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.The goal of the Family Stories team is to build a healthy stories ecosystem across Facebook and Instagram. We do this by supporting teams that are currently building cross-app experiences, investing in shared architecture, and exploring new product experiences that enable greater liquidity of stories.The FB Family of apps includes 3 of the 4 biggest Stories platforms in the world, including the largest one, Instagram Stories. The Family Stories team at Instagram has been tasked with building a platform that fosters sharing between you and family, friends, and community, and giving everyone the best tools to share and consume Stories regardless of the app theyre using. Stories is one of the top product priorities for Facebook and Instagram, and given how fast the product has grown, there are a lot of unanswered product questions in the space. This role is responsible for testing and iterating on new entry points for Stories (a good example here is being able to cross-post to Stories from other apps like Facebook and even WhatsApp), as well as owning key company growth channels like Stories notifications and Stories ranking. You are directly responsible for ensuring proper goal-ing, testing, forecasting and developing insights that identify the biggest opportunities for the IG community and drive product strategy. This is a highly cross functional role and this person will be driving many product efforts across IG as well as working with DS and product teams at Facebook, Messenger, and WhatsApp. This person will be the first Data Scientist joining the newly formed team. The ideal candidate can shape and own a narrative and interface directly with leadership. The Family Stories team will scale in H2 2020 and H1 2021, so this is an ideal role for an IC who wants to move into a lead and then into a manager position.
+
+Responsibilities:
+
+Developing Goal Metrics and Evaluate Product Team Performance
+Investigating Ad Hoc Issues and Debugging Regressions
+Develop Testing Plans and Validate Statistically Accurate Results
+Reporting to Instagram and FB Inc Stakeholders and Coordination Across the Company Strategy:
+Analyze Data Trends to Identify Opportunities and Drive Product Strategy
+Size opportunities to ensure product teams are prioritizing the most impactful work
+Ensure product strategy has actionable measurement plans by developing goal metrics and evaluating product team performance
+Determine ways to use data as a strategic asset in product development Technical Execution:
+Ensure our data and analysis are reliable and rigorous across all of our products
+Partner with Data Engineering to ensure the right metrics are created and validate accuracy
+Oversee the building/maintaining of reports, dashboards, and metrics to monitor the performance of our products
+Ensure we have the appropriate logging, tables and dashboards to measure product success
+Develop new metrics with accuracy and stability
+Validate metric accuracy for internal and external reporting
+Mininum Qualifications:
+
+5+ years of hands-on data science experience
+Expert knowledge of SQL
+Knowledge of one scientific computing language such as R, Python, or Julia
+Experience on working with multiple cross functional partners and influence decision making based on data experience initiating and drive projects to completion with minimal guidance
+Analytical toolbox in probability and causal inference, especially experimental design
+Preferred Qualifications:
+Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.
+
+Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.

@@ -1,0 +1,29 @@
+Koneksa Health is a health information technology firm. Our customers are pharmaceutical and biotechnology companies developing new medicines through clinical trials. Koneksas software platform is used to integrate, manage and analyze certain types of real world data that are gathered in from patients who participate in clinical studies. This includes data that can be reported by patients using a mobile device such as a phone or tablet, or gathered from other types of medical devices that can be used remotely to collect important data such as activity, sleep, lung function or vital signs.
+
+Our back end platform is rapidly becoming the sensor data equivalent of a financial trading platform - applied to clinical research for processing device sensor data platform for healthcare data.
+
+We are looking for a self sufficient and experienced data processing architect and software engineer to partner with statisticians and scientists in a broad range of projects and activities. The ideal candidate will question the output of their work in terms of both technical elegance/simplicity and in terms of clinical and physical context.
+
+Experience
+B.Sc. or M.Sc. in physical science or mathematics prefered
+5 years commercial coding experience - algorithms, data processing pipelines / in python
+Experienced with working under and following standard software development procedures
+Experienced in statistics relevant to assessing data quality
+Familiar with enterprise architecture, data modeling and modular coding patterns and testing
+Familiar with integrating with AWS, mongo and APIs
+Work in scope
+
+Building data export / processing / quality data processing pipelines:
+
+Processing:
+Thousands of rows of different data sources
+assembling a single dataset
+automated quality reporting on data assembled
+Algorithms:
+Take mathematical specifications and implement in code
+Work with science team to productionize algorithms and models
+Test algorithm performance / tolerance / operational quality
+Environment:
+regulated environment in which following standard procedures is must do
+significant client and regulatory deliverables
+Powered by JazzHR

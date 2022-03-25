@@ -1,0 +1,30 @@
+Vectra Networks delivers a new class of advanced threat defense that delivers real-time detection and analysis of active network intrusions. Vectra technology picks up where perimeter security leaves off by providing deep, continuous analysis of both internal and Internet-facing network traffic to automatically detect all phases of a breach as attackers attempt to spy, spread, and steal within your network.
+
+Vectra directly analyzes network traffic in real time using a patent-pending combination of data science, machine learning, and behavioral analysis to detect attacker behaviors and user anomalies in the network. All detections are correlated and prioritized to show an attack in context, and Vectra Networks' machine learning adapts as attacks evolve.
+
+SENIOR DATA SCIENTIST
+
+Position Overview
+
+
+Be on the leading edge of applying machine learning and data modeling to the world of advanced cyber security – as part of the data science engineering team, you will directly impact the product by developing core algorithms to model complex problems. Specific responsibilities include:
+Prototyping, development and testing of complex mathematical models in order to facilitate the detection of anomalous behavior with a very high degree of accuracy
+Development and testing of methods to combine models in order to improve accuracy, as well as automatically training and retraining these models
+Innovating around new models to solve new problems
+Required Experience
+2+ years of post academic work experience in machine learning,
+Successfully applied machine learning, statistical methods, data mining to work projects
+Strong math/statistics/machine learning background
+Parallel programming experience
+C++ coding experience
+Python or Scala experience
+Linux experience
+Team player
+Qualifications
+MS/PhD in Computer Science, Mathematics, Physics or related discipline (or equivalent experience)
+Experience designing and implementing new algorithms
+Statistical package experience: R, Python/Pandas or MATLAB/Octave
+Familiarity with systems that make use of multiple machine learning and statistical methods at the same time, ensemble learning
+Hadoop ecosystem experience
+Database hands-on experience (SQL or noSQL)
+Experience working in a software development team

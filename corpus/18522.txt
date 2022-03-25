@@ -1,0 +1,21 @@
+Position: Data Engineer
+Location: Wilmington, DE
+Duration: Contract/ Full time
+
+DESIRED TECHNICAL SKILLS:
+Experience with big data tools: Hadoop, Apache Spark, Kafka, etc.
+Experience with relational SQL, Snowflake and NoSQL databases, including Postgres and Cassandra.
+Experience with data pipeline and workflow management tools: NiFi, Kylo, Luigi, Airflow, Azkaban, etc.
+Experience with AWS cloud services: S3, EC2, EMR, RDS, Redshift
+Experience with stream-processing systems: Storm, Spark-Streaming, etc.
+Experience with object-oriented/object function scripting languages: Python, Java, C++, PySpark, Scala, etc.
+Qualifications for Data Engineer:
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+Experience building and optimizing 'big data' data pipelines, architectures, and data sets.
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Strong analytic skills related to working with unstructured datasets.
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+A successful history of manipulating, processing and extracting value from large disconnected datasets.
+Working knowledge of message queuing, stream processing, and highly scalable 'big data' data stores.
+Strong project management and organizational skills.
+Experience supporting and working with cross-functional teams in a dynamic environment.

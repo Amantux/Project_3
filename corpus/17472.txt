@@ -1,0 +1,44 @@
+BrainPOP is an online K-12 educational solution that makes rigorous learning experiences accessible and engaging for all. Proven to raise academic achievement, BrainPOP has been a trusted resource to more than six million educators, and engages the hearts and challenged the minds of over 300 million learners worldwide.
+
+BrainPOP provides endless opportunities for kids to take agency over their learning through playful, knowledge-building content and learner-driven projects, preparing them for success in the classroom and beyond.
+
+We are seeking a Data Engineer to join our growing Data team. We believe that information is most useful when delivered accurately and on-time. As a Data Engineer, you will focus on building data pipelines that feed data from various sources into our new data warehouse, so that other teams may utilize the datasets that you curate to generate insights of their own. You will be working collaboratively alongside other passionate Data Engineers, Data Analysts, and Software Engineers to support and maintain our data infrastructure.
+
+In this role, you will:
+Build and maintain data pipelines that ingest and process large and complex data.
+Curate and prep datasets for other teams to use.
+Work with various teams to ensure data is collected properly and accurately.
+Identify areas of improvement in our current pipeline architecture.
+Reinforce best practices for ETL processes and data storage.
+On your resume:
+Experience working with large-scale data sets.
+Experience working with a cloud-based data warehouse such as Snowflake or Redshift.
+Experience working with data pipeline tools such as an in-house Airflow pipeline or commercial applications like Segment.
+Fluency with SQL and a scripting language like Python, Shell, or Java.
+Excellent understanding of data structures and algorithms.
+Our ideal candidate has:
+A passion for improving education.
+Experience working with Looker, AWS, Snowflake, and Google Analytics.
+Strong organizational skills.
+BS, BA, MS, MA, or PhD in Computer Science, Mathematics, or a related technical field.
+3+ years of work experience.
+Familiarity with basic data science concepts and statistics.
+Life at BrainPOP
+
+Our commitment to supporting and empowering teachers and students is reflected in our dedication to enhancing the lives of our employees—in and out of the office.
+
+Our team is made up of educators, data scientists, published authors, engineers, artists, bakers, film buffs, cyclists, dual-citizens, and so much more. We value collaboration and learning from multiple perspectives.
+
+Besides offering a comprehensive benefits package and putting an emphasis on work-life balance, we make it a point to integrate fun and play into the workplace.
+
+We offer:
+Monthly Wellness Activities
+Catered Wednesday community lunches
+401K with a company match
+ClassPass Corporate Membership
+Learning & Development Opportunities
+Seasonal In-Office Activities
+Friends & Family BrainPOP Subscriptions
+What we do today directly impacts how teachers teach, and students learn. We continue to be inspired because we can see the difference we’re making and we’re proud to be a creative, collaborative, always-teaching and always-learning community.
+
+We believe that a diverse organization is a more effective organization. BrainPOP is an Equal Opportunity/Affirmative Action Employer.

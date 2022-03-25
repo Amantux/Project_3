@@ -1,0 +1,31 @@
+What if you could use your technology skills to develop a product that impacts the way communities' hospitals, homes, sports stadiums, and schools across the world are built? Construction impacts the lives of nearly everyone in the world, and yet it's also one of the world's least digitized industries, not to mention one of the most dangerous. That's why we're looking for a talented Principal Data Engineer to join Procore's journey to revolutionize a historically underserved industry.
+
+As a Principal Data Engineer on our Data Engineering team, you'll drive solutions to wide-ranging data engineering and infrastructure challenges for product and internal operations. You'll partner with a group of highly skilled developers, engineers, architects, and data scientists to drive strategy, provide technical leadership, and collaborate on defining best practices around data engineering.
+
+This position will report into the Director, Data Engineering, and has the opportunity to be based in our Carpinteria, CA, or Austin, TX offices. We're looking for someone to join us immediately.
+
+What you'll do:
+Provide technical leadership for efforts around tooling and infrastructure that enable teams to efficiently complete and maintain data science projects
+Partner with teams on modeling and analysis problems—from transforming problem statements into analysis problems, to working through data modeling and engineering, to analysis and communication of results
+Lead code reviews, design, and best practices
+Coach and mentor senior engineers
+Participate in the evolution of Data Engineering at Procore
+Create and share best practices for the development and deployment of machine learning based solutions
+Work alongside our Product, QA, UX, and Prototype Engineering teams, you'll leverage your experience and expertise in this space to influence our product roadmap, developing innovative solutions that add additional capabilities to our product suite
+What we're looking for:
+BS degree in Computer Science, a similar technical field of study, or equivalent practical experience is required; MS or Ph.D. degree in Computer Science or a related field is preferred
+7+ years of experience in a Data Engineer role
+Experience with AWS (EC2, EMR, RDS, Redshift), JAVA, PostgreSQL, Spark, Snowflake, and Data pipeline/streaming tools (Kafka) is preferred
+Experience building and optimizing data pipelines, architectures, and data sets
+Successful history of manipulating, processing, and extracting value from large disconnected datasets
+Deep knowledge of stream processing and highly scalable 'big data' data stores
+Demonstrated experience designing or implementing an enterprise-wide data strategy
+Experience supporting and working with cross-functional teams in a dynamic environment
+Strong oral and written communication skills
+About Us
+Procore Technologies is building the software that builds the world. We provide cloud-based construction management software that helps clients more efficiently build skyscrapers, hospitals, housing complexes, and more. Our headquarters is located on the bluffs above the Pacific Ocean in Carpinteria, CA, with growing offices worldwide. Check us out on Glassdoor to see what others are saying about working at Procore!
+
+We are an equal opportunity employer and welcome builders of all backgrounds. We thrive in a diverse, dynamic, and inclusive environment. We do not tolerate discrimination against employees on the basis of age, color, disability, gender, gender identity or expression, marital status, national origin, political affiliation, race, religion, sexual orientation, veteran status, or any other classification protected by law.
+
+Perks & Benefits
+You are a person with dreams, goals, and ambitions—both personally and professionally. That's why we believe in providing benefits that not only match our Procore values (Openness, Optimism, and Ownership) but enhance the lives of our team members. Here are just a few of our benefit offerings: competitive health care plans, flexible paid time off (Procore Values Time), employee enrichment and development programs, and volunteer days.

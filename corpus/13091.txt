@@ -1,0 +1,48 @@
+Company Description
+
+Paying the right way, getting paid what you’re worth — it’s complicated, and it matters. Compensation used to be a dark art. Not anymore. PayScale helps employers and their employees understand the right pay for every position and effectively communicate about compensation.
+
+PayScale pioneered the use of crowd-sourced compensation data and unique matching algorithms to power the world’s most advanced compensation platform and continues to be the compensation market leader.
+
+We foster a working environment that generates new ideas, promotes ownership and experimentation and encourages highly motivated individuals to be truly creative. Are you forward-thinking, tenacious, and inventive? If so, PayScale may be the perfect place for you to grow your career!
+
+Job Description
+
+Does empowering teams to make data driven decisions excite you? Do you wake up in the morning wondering what possibilities could be unlocked with more data? PayScale is looking for a seasoned engineer to join the data engineering team. The Data Engineering Team focuses on making possible fast, accurate, and reliable access to data. We build data pipelines, manage a data warehouse, and support the productization of our data. We advocate for good data practices and make sure that the many PayScale teams are able to make good data driven decisions.
+
+Technologies We're Using
+For Data Warehousing and Reporting we use Snowflake, Spark, Tableau, and PowerBi
+For ETL and pipelining we use, Matillion, Python, Team City, AWS Lambda,
+In addition to the above, we also use c#, docker, Azure Web Apps, AWS ECS, Dynamo, SQL, Elasticsearch, Postgres, and Octopus
+In this role, you will:
+Manage the Data Warehouse.
+Interface with the various teams who need access to data including (Data Science, Data Analytics, Application Engineering Teams, Sales and Customer Facing Teams).
+Research and advise on modern data engineering techniques.
+Build and support tools and services for the management and productization of our data.
+Recommend and implement tools and technology to support PayScale's data needs.
+Qualifications
+You have 5+ years experience in data warehousing and data engineering.
+You have previous experience with python and snowflake.
+You have built ETL systems.
+You have a firm grasp on data modeling methodology.
+You have experience writing custom web services.
+You have worked with event sourced systems.
+You have familiarity/experience with unit testing and crafting testable code.
+You are able to explain technical concepts to developers, project managers, and technical managers.
+You have the ability and desire to work with a team of people solving complex problems that often require independent research with minimal supervision.
+You have excellent problem solving and critical thinking skills.
+Additional Information
+
+Benefits & Perks – The Highlights:
+Flexible Paid Time Off policy
+10 paid holidays
+Amazing Medical/Vision/Dental/Prescription coverage: 100% company-paid premiums for employees; 50% for eligible partners and dependents
+Flexible Spending Account (FSA) options for pre-tax employee allocations towards: Medical, Dependent Care, Parking, and Transit
+Long Term Disability, Short Term Disability, and Company-paid Life Insurance
+Strong Maternity and Paternity Leave benefits, and multiple onsite Mother’s Rooms
+401k which vests immediately, complete with company match
+Onsite bike storage, lockers, showers, and clothes dryer
+Ergo friendly chairs and sitting-standing desks
+Company-hosted happy hours every Friday afternoon
+Fido Fridays (our canine colleagues join us the first Friday of every month. WOOF!)
+Equal Opportunity Employer: PayScale provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, genetic information, marital status, amnesty, or status as a covered veteran in accordance with applicable federal, state and local laws. PayScale complies with applicable state and local laws governing non-discrimination in employment in every location in which the company has facilities.

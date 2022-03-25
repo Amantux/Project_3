@@ -1,0 +1,41 @@
+Nike is making a strategic push into content creation in the sports, style, running, training, fitness, nutrition, and wellness spaces where we excel. The Content Personalization team will be a foundational piece in the success in this effort. We are the ML/AI experts responsible for dynamically personalizing content experiences. We partner with the product and search science teams to power deeply personalized digital experiences across all of Nike’s digital platforms. We also bring expertise in statistical inference, predictive modeling, experimental design and analysis, and unsupervised learning to understand our content, our consumers, and content retention and conversion value. We complete the circle back to our partners in content creation to help build an industry leading content ecosystem and member experience.
+
+Our team has a collaborative, open, considerate, intellectual, problem solving style. We tackle big problems and drive innovative solutions in online learning, personalization, computer (image and video!) vision, image and video creation, predictive and temporal modeling, advanced metric creation, and statistical inference. We are leaders helping define how Nike will plan, greenlight, produce, serve, and think about content-centric digital experiences and content creation.
+
+We want folks who may specialize in one aspect of our mission and work, but are excited about being on a dynamic team with a large problem space who can help elevate their teammates and bring different perspectives to all the problems the team is solving. We want someone who loves modeling and writing code, and is excited about creating world class digital experiences for Nike members. A candidate should be experienced in state of the art statistical machine learning algorithms or statistical modeling, but also be able to think in terms of the compute processes, distributed data, probabilistic data landscapes, causality, and coupling between systems.
+
+Ours is a growing team in a new space at Nike, so the ideal candidate is ready for technical leadership, helping to drive team excellence and defining and socializing requirements and best practices. We work closely with our partner engineering teams, and collaborate extensively with all of Nike’s digital product teams to help drive design of and then deliver personalized experiences. You should be ready for partnership with teams across the company and excited about green spaces in which to make your mark.
+
+Key responsibilities will include some of:
+
+Drive full personalization of digital content experiences for Nike consumers utilizing deep learning and real time dynamic systems
+
+Understand, describe, and predict the behavior of our content consuming members
+
+Understand, describe, and predict response to and value of past and proposed content
+
+Manage an experimentation portfolio that validates and feeds back into our core customer and content understanding
+
+Qualifications
+
+Education:
+
+B.S. in CS, statistics, applied math, physics or other quantitative discipline
+
+Advanced degree (Masters or PhD) preferred
+
+Required Skills and Experience
+
+2+ years of experience in a data science or machine learning engineering role
+
+Experience with moderate to large-scale data sets (>100GB) preferred
+
+Experience with neural nets and deep architectures preferred
+
+Ability to understand, utilize and innovate on state-of-the art machine learning algorithms and/or statistical modeling
+
+Experience developing production ML/Data Science code in Python
+
+Experience leveraging big data and deploying models at scale, experience with Spark a plus
+
+Excellent communication and data visualization skills

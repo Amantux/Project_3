@@ -1,0 +1,47 @@
+What You’ll Do
+
+As a Software Engineer, Machine Learning with the Computer Vision group, you will develop software and models that marries cutting-edge computer vision and deep learning with Leia’s Lightfield technology. Some of the core vision tasks you might work on are
+Depth from a Single Image
+Real-time stereo to multi-view for videos
+Disparity Estimation
+Photorealistic style transfer
+Inverse Rendering
+Stereo Super-resolution
+While a strong focus will be on Deep Learning model training and deployment, you may also be involved in dataset generation, data cleaning, augmentation, and optimization for running on various platforms.
+
+What You’ll Have
+MS/PhD in Computer Vision, Deep Learning, or a related field
+3+ years of experience building deep learning architectures for commercial products.
+Proficiency in Python (particularly, numpy, scipy, pandas, scikit-image, and scikit-learn) and working knowledge of C/C++.
+Proficiency with at least one deep learning framework such as PyTorch, TensorFlow, Theano or Caffe.
+Proficiency with CNN architectures such as ResNet, VGG, UNet, Stacked Hourglass, MobileNet, pix2pix, and CycleGAN.
+A good understanding of the fundamentals and best practices of deep learning.
+Experience with open source vision packages such as OpenCV.
+Experience with data cleaning, analysis, and developing efficient, accurate data annotation schemes.
+Experience with deep learning model deployment at scale
+Experience with commercial software development processes: good software hygiene regarding code documentation, unit testing, bug tracking, and version control.
+Highly motivated, team player with strong technical collaboration skills and desire to learn quickly and develop new skills.
+Nice to Haves
+Experience with GPU programming, network optimization, and deployment.
+Experience with Lightfield technology
+Experience with stereo vision, photogrammetry, computational photography, or related tasks
+Experience with Java, Android, and/or Javascript
+Publications relevant to Computer Vision and/or Deep Learning
+Light up Life
+
+At Leia we are working at the forefront of display technology — making screens come to life in richer, deeper, and more beautiful ways. We apply our proprietary nanotechnology to give any display the ability to produce Lightfield, immersive “holographic” content — no glasses, no tracking, no fuss.
+
+Come join a team that's ready to redefine the digital experiences of tomorrow!
+
+What We Offer
+
+In order to assemble top talent to help realize this mission Leia offers our employees:
+Competitive Compensation Package
+Medical, Dental, and Vision Plan
+Retirement Savings Plan 401(k)
+Catered lunch and dinner daily (Dependent on Location)
+Stocked kitchen with healthy (and unhealthy) snacks and beverages
+Onsite workout facility (Dependent on Location)
+Leia Inc. is an Equal Opportunity Employer. Candidates are evaluated without regard to age, race, color, religion, sex, disability, national origin, sexual orientation, veteran status, or any other characteristic protected by federal or state law.
+
+#LI-EL

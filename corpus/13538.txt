@@ -1,0 +1,41 @@
+At CCRi, our clients look to us to solve their hardest problems, and we have a long history of exceeding their expectations. With clients in both the private sector and the US government, we provide a variety of advanced analytical techniques, and we render our solutions in software that our clients can apply immediately.
+
+We currently expect openings for this position in summer of 2020.
+
+The Role
+
+You'll help create machine learning analytics that will be integrated into streaming data processing pipelines and appealing user interfaces that provide real-time situational awareness and expose advanced analytics to end users. As a data scientist, your technical responsibilities will include design, research, and development. You will also be expected to contribute to the data science culture and ecosystem at CCRi through opportunities like design reviews and shared learning opportunities.
+
+Who You Are
+Curious: You enjoy peeling apart a problem and examining the interrelationships between data and how they can be used to form a solution.
+Creative: You try new approaches to solving problems, looking for ways to apply techniques across domains and in new contexts.
+Practical: You explore theories with an eye to their real world applications and their potential for improving performance for clients.
+Collaborative: You work well on a team and can explain your work to your peers and source ideas and improvements from them.
+Determined: You enjoy the challenge of finding solutions to difficult problems, testing them to discover what is successful and what should be optimized further, to develop industry-leading tools. You learn from failure and trying again.
+Organized: You know how to keep track of both high-level goals and the tasks required to meet those goals. You take personal ownership of your team’s success.
+Our Data Scientists have some combination of the following skills:
+Understanding of structure and theory of common machine learning models
+Familiarity with common machine learning libraries for implementation (sklearn, weka, tensorflow, torch, …)
+Proficiency in one or more of: Python, Scala, Java, R, Julia, Matlab
+Ability to understand and implement new models from the literature
+Experience with distributed analytics and processing (Spark, Hadoop, …)
+Experience with geospatial data and analytics
+Requirements
+US citizenship required
+We DO NOT offer sponsorships or contracting work. This position is for Charlottesville only.
+Prior Work experience in a related field and/or a working portfolio that clearly demonstrates your abilities
+Benefits
+
+The Company:
+
+CCRi is a small engineering firm located in Charlottesville, Virginia. We develop and deploy novel machine-learning approaches to real problems at massive scale. Since 1992, we’ve been stopping bombs, predicting piracy, and guiding disaster relief.
+Intellectually Challenging Work
+Health Insurance
+Short Term Disability Insurance
+Generous Defined Benefit Retirement
+Very Flexible Vacation Policy
+Want to know more? Check out our recruitment video and blog.
+
+The job description above is not intended to be comprehensive list. Responsibilities, activities, duties, and/or tasks may change or be assigned at any time.
+
+CCRi is committed to a diverse and inclusive workforce because we know that our differences benefit our employees, our customers, and our community. We are proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, color, religion, age, sex, sexual orientation, gender identity, national origin, status as a an individual with a disability, status as a protected veteran, or any other applicable legally protected characteristics.

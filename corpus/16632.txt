@@ -1,0 +1,29 @@
+The Amazon Alexa Speech Org is looking for entrepreneurial, innovative individuals who thrives on solving tough problems. We need people who are passionate about innovating on behalf of customers, who demonstrate a high sense of ownership, and who want to have fun while they make history. An ideal candidate for Data Scientist at Alexa should have strong data mining and modeling skills and is comfortable working from concept to execution to completion. The candidate will be an individual contributor who is comfortable with ambiguity and able to successfully drive projects to completion. In addition to the modeling and technical skills, the candidate should possess strong written and verbal communication skills, strong focus on internal customers and high intellectual curiosity with the ability to learn new concepts/frameworks, algorithms, and technology rapidly as changes arise.
+Data Scientists at Alexa will design, evangelize, and implement solutions to address complex, business questions using advanced statistical techniques, experimentation, and big data. You will be interacting with science and research teams to define metrics that drive key business decisions, and working with program managers, quality assurance engineers and software developers, to develop data pipelines, build tools to drive continuous experimentation to generate data set, conduct statistical analyses, and provide actionable insights for business decisions. Key responsibilities:
+· Adopt best practices and implement strategies for data audit, data integrity, and validation
+· Utilize code (Python, R, Scala, etc.) for analyzing data and building statistical models to solve specific business problems
+· Execute end to end insights projects include data collecting, data cleaning, exploratory analysis, model selection, model evaluation, and interpreting results
+· Apply or design highly innovative models for predictive learning, content ranking, and anomaly detection
+· Analyze and extract relevant information from large amounts of historical data to help automate and optimize key processes
+· Analyze key metrics to uncover trends and root causes of issues
+· Communicate verbally and in writing to business customers and leadership team with various levels of technical knowledge, and share insights and recommendations
+
+Basic Qualifications
+
+· Master's degree in Computer Science, Engineering, Mathematics, or a related field
+· Basic knowledge in Automatic Speech Recognition
+· 3+ years experience as a data scientist, data engineer or similar job function with a technology company
+· 3+ years experience with dashboard and data visualization by Excel, Tableau, Quicksight or other similar tool
+· 2+ years of coding experience in at least one modern programming language (R, Python, Ruby, Scala, Java, Spark etc.)
+· Experience with statistical modeling / machine learning and parameters that affect their performance
+· Excellent communication (verbal and written) and interpersonal skills and an ability to effectively communicate with both business and technical teams
+
+Preferred Qualifications
+
+· PhD in a relevant field
+· Track record of diving into data to discover hidden patterns and of conducting error/deviation analysis
+· Ability to develop experimental and analytic plans for data modeling processes, ability to accurately determine cause and effect relations
+· Understanding of relevant statistical measures such as confidence intervals, significance of error measurements, development and evaluation data sets, etc.
+· Proven ability to meet tight deadlines, multi-task, and prioritize workload
+· Track record for being detail-oriented with a demonstrated ability to self-motivate and follow-through on projects
+· A desire to work in a collaborative, intellectually curious environment

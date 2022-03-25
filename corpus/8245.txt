@@ -1,0 +1,55 @@
+Overview
+
+Axle Informatics is a scientific research and information technology company that offers innovative computer services, informatics, and bioresearch solutions to research centers and healthcare organizations around the globe. With expertise in software engineering, bioinformatics, molecular research, and program management, we focus on developing and applying technological tools and scientific techniques to empower the world of research. We work with some of the top research organizations and facilities in the country including multiple institutes at the National Institutes of Health (NIH).
+
+Job Description
+
+We are looking for a Senior Biological Data Scientist to support projects at the NIH. The position will be based in Rockville, Maryland. We are looking for a skilled and motivated researcher/developer with expertise in image processing, algorithm development, and deep learning. The successful applicant will be involved with developing computational analysis of images and other data acquired in collaboration with scientists, biologists, and/or clinicians across the NIH.
+
+Computational analyses will involve combinatorial assessment of disparate data types (i.e. patient demographics, risk factors, genetic information, 2D and 3D imaging modalities, etc.) into comprehensive classification and regression models. It is desired that the scientist will construct models using a variety of approaches including traditional machine learning (i.e. logistic regression, ridge/lasso regression, random forests, support vector machines, etc.), graph analytics, and deep learning. The scientist should also be familiar with development and optimization for CUDA and/or OpenCL workflows and applications. With an emphasis on developing algorithms that are optimized for hyperthreading and CUDA/OpenCL programming.
+
+The scientist will participate in experimental design, data collection, data analysis and manuscript preparation; assist intramural staff, including students and postdoctoral fellows; stay current with scientific literature; stay informed about new approaches and technologies, including participation in conferences, workshops, and/or formal classroom instruction; independently locate and utilize scientific resources; and co-author peer reviewed publications.
+
+Responsibilities:
+
+Lead scientific-related needs assessment, as well as facilitate the design, building and implementation of IT systems.
+
+Collaborate with biologists, clinicians and core facility members to understand their experimental and technical goals and suggest statistical and IT solutions to better achieve these goals.
+
+Create generalizable code bases for abstracted analysis outside of a single client’s project such that analysis and technical tools developed for one project can be easily adapted for a different but similar problem.
+
+Ability to analyze existing solutions in Python, Matlab, R, and Java (visual basic a plus) and adapt these solutions to a containerized plugin architecture for incorporation into a central tool repository.
+
+Strong interest in contributing to biological and clinical research
+
+Understanding client needs and analyzing, validating and documenting the analysis and system requirements to best address the clients’ need.
+
+Analyze as-is process, develop to-be process, and identify gaps which must be addressed to reach the desired end state.
+
+Act as an expert technical and scientific resource for software development staff in all phases of the development and implementation process
+
+Assess diverse datasets (focused on images but including other data types outlined above) for correlative, clustering, predictive, etc. outcomes.
+
+Qualifications:
+
+The ideal candidate will have:
+
+A PhD degree or equivalent in bioengineering, chemical engineering, computer science, statistics, life sciences, or related fields. Or 6+ year’s experience in biomedical image analysis.
+
+Published and/or significant publicly available code using one or all the following languages: Python, MATLAB, C++, R, and/or Java.
+
+Experience in image analysis (registration, segmentation, and/or tracking) in biomedical imaging modalities preferred, though any image set will be considered.
+
+Experience with molecular biology laboratory techniques and informatics methods is preferred though any laboratory experience will be considered.
+
+Experience with large data sets (>1 TB) and deep learning will be given priority.
+
+Experience implementing systems and supporting non-technical scientific staff
+
+A high level of attention to detail
+
+A strong work ethic, and the ability to design projects within diverse research areas and datasets.
+
+Excellent oral and written communication skills in English, and record keeping skills.
+
+The diversity of Axle’s employees is a tremendous asset. We are firmly committed to providing equal opportunity in all aspects of employment and will not tolerate any illegal discrimination based on age, race, gender, religion, national origin, disability, marital status, covered veteran status, sexual orientation, status with respect to public assistance, and other characteristics protected under state, federal, or local law and to deter those who aid, abet, or induce discrimination or coerce others to discriminate.

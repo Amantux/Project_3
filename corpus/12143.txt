@@ -1,0 +1,26 @@
+The Regulation, Evaluation, and Governance Lab (RegLab) at Stanford University is looking for a full-time Data Scientist to provide analytical expertise across our research programs.
+About RegLab: Stanford’s RegLab partners with government agencies to design and evaluate programs, policies, and technologies that modernize governance. Government agencies are responsible for addressing some of society’s greatest challenges. Yet they increasingly lack the tools to design and evaluate initiatives based on rapid advances in the data sciences and the social sciences. RegLab is building a bridge between government agencies and academic frontiers in data science to revitalize the administrative state. We are an interdisciplinary team of legal experts, data scientists, social scientists, and engineers who are passionate about building an evidence base and high impact demonstration projects for better government. Our home at Stanford allows us to leverage state-of-the-art advances in machine learning, artificial intelligence, and data science that have the potential to dramatically improve and reenvision government.
+You will:Work closely with the Faculty Director, Senior Data Scientist, and teams of fellows and students to drive forward a diverse research program focused on machine learning and policy evaluationDesign, implement, and interpret the results of new experiments and studiesWork with large untapped data sets, including: health and environmental enforcement data, mass adjudication records, high-resolution satellite imagery (15cm/pixel), and the largest publicly available corpus of legal textDevelop and devise state-of-the-art machine learning models, algorithms, and statistical models, while leading the collection of new data and the refinement of existing data sourcesDesign and write reports based on data analysisHave the opportunity to receive co-authorship on research papers
+We’re looking for someone who has:A bachelor's degree, or MS or Ph.D., in a relevant quantitative field (e.g., data science, computer science, statistics, engineering, mathematics, economics, or a related field) and three years of (a) relevant professional experience or (b) combination of education and relevant professional experienceExpert knowledge of programming languages (such as Python, R, and/or SQL)A deep understanding of modern statistical and machine learning models, when to apply them, and how to evaluate their performanceExcellent written and verbal communication skills and a focus on achieving resultsThe ability to be self-learning, self-guided, and engaged in the mission of the Lab
+Nice to Haves:Specialization in machine learning frameworks (TensorFlow, TF, PyTorch, Scikit Learn, etc.), NLP, computer vision, or related fieldsAcademically-minded, with experience working in an academic setting
+Salary and Benefits: Salary is competitive. We provide excellent retirement plans, time-off, and family care resources, which you can read more about here: https://cardinalatwork.stanford.edu/benefits-rewards
+Application Instructions: We invite you to apply by clicking on the "Apply for Job" button found on the cardinal careers website found here (http://m.rfer.us/STANFORD.nn8LX). To be considered, please submit the following items along with your online application:Resume/CVProject and code samples or Github
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Palo Alto, CA 94310 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         7484_1454413764

@@ -1,0 +1,29 @@
+Organization: Accenture Federal Services
+
+Location: Arlington, VA
+
+Accenture Federal Services, a wholly owned subsidiary of Accenture LLP, is a U.S. company with offices in Arlington, Virginia. Accenture's federal business has served every cabinet-level department and 30 of the largest federal organizations. Accenture Federal Services transforms bold ideas into breakthrough outcomes for clients at defense, intelligence, public safety, civilian and military health organizations.
+
+We believe that great outcomes are everything. It's what drives us to turn bold ideas into breakthrough solutions. By combining digital technologies with what works across the world's leading businesses, we use agile approaches to help clients solve their toughest problems fast-the first time. So you can deliver what matters most.
+
+The Machine Learning Engineer develops machine learning solutions to meet business use cases and to support experimentation and innovation to advance mission outcomes. The engineer collaborates with business SMEs, architects, data engineers, developers and data scientists to identify innovative machine learning solutions that leverage data to meet business goals. The machine learning engineer ensures infrastructure and data pipelines are structured to deploy machine learning solutions.
+
+KEY RESPONSIBILITIES :
+Understands and translates business and functional needs into machine learning problem statements
+Translates complex machine learning problem statements into specific deliverables and requirements
+Designs and develops scalable solutions that leverage machine learning and deep learning models to meet enterprise requirements
+Works closely with data scientists and data engineers to develop machine learning algorithms
+Works on Optimization of Neural Net and Deep Learning models for inference
+Translates machine learning algorithms into production-level code
+Collaborates with development teams to test and deploy machine learning models
+Creates metrics to continuously evaluate the performance of machine learning solutions
+Maintains and improves the performance of existing machine learning solutions
+Ensures adherence to performance standards and compliance to data security requirements
+Keeps abreast with new tools, algorithms and techniques in machine learning and works to implement them in the organization
+SKILLS
+Proficiency in machine learning algorithms such as multi-class classifications, decision trees, support vector machines and deep learning
+Strong understanding of probability and statistical models (generative and descriptive models)
+Ability to run experiments scientifically and analyze results
+Ability to effectively communicate technical concepts and results to technical and business audiences in a comprehensive manner
+Ability to collaborate effectively across multiple teams and stakeholders, including analytics teams, development teams, product management and operations
+Strong Computer Science fundamentals in algorithms, data structures, OOPS, functional programming

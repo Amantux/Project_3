@@ -1,0 +1,32 @@
+Who is Moxie?
+
+
+Moxie is a company on a mission to change the way e-Commerce is done. We are passionate about ensuring a great experience for our customers and their customers. Moxie integrates the power of email, chat, and real-time collaboration with a mature, robust, and multi-channel customer engagement platform, comprehensive analytics, and a fully integrated, system-wide knowledgebase.
+
+More than 600 of the worlds leading brands rely on Moxie to engage with their constantly connected customers resulting in increased revenue, conversion, and total customer value. With top-tier, industry leading leadership, and a strong vision of the future, we are looking to recruit ambitious talent to join our team and truly make an impact. We provide an environment that encourages an entrepreneurial spirit, innovative ideas, and personal growth through the delivery of cutting edge digital and mobile technology.
+
+Your Contribution
+
+In this position, you will be leveraging the latest advancements in NLP and our existing corpus of millions of textual data to develop a pipeline for extracting key insights for our customers. Key problems include information extraction of semi-structured text, text segmentation, entity classification, etc. You will help prototype novel methods and productionize promising methods. You will collaborate with other team members, product managers, and engineers of other projects to add value to Moxies product offering.
+
+Your Skills and Experience
+
+· 2+ years of relevant professional experience and/or an advanced degree
+
+· Knowledge of foundational techniques with NLP, such as text processing, document classification, sentiment analysis, etc.
+
+· Experience in programming languages (Python, Java, etc.)
+
+· Familiarity with NLP tools, such as NLTK, Gensim, SpaCy, and Word2Vec
+
+· Working knowledge of statistics and probability (statistical inference, Bayesian statistics)
+
+· Good written and spoken communication skills
+
+Following Skills are a Plus
+
+· Deep understanding of English grammar, syntax, semantics and human speech
+
+· Data visualization and presentation of data-driven insights
+
+· Experience with distributed computing (Hadoop/Spark)

@@ -1,0 +1,89 @@
+Job Description:
+
+Primary Description: Data Scientists
+
+Secondary Description: Analysts
+
+Position Description: Role Summary/Purpose:
+
+The Connected Vehicles Team within Smart Mobility Analytics in GDIA is seeking a high-potential Analytics Scientist to work on Connected Vehicle data. Responsibilities include, but are not limited to:
+
+Fully understand the complex CV data structure
+
+Maintain models and algorithms on an ongoing basis
+
+Maintain geo-spatial models and algorithms in Kinetica
+
+Collect, preprocess, and perform statistical analysis on on-road vehicle data using Python, Hadoop Spark, and Scala
+
+Utilize statistical software (e.g., SAS, JMP, Matlab, R) to develop models, forecasts, and optimization algorithms
+
+Learn new software tools (e.g., Alteryx, Qlikview, AnyLogic) as necessary
+
+Additional Responsibilities:
+
+You will be responsible for providing the data and analytics support for enterprise data integration tasks, including ingestion, standardization, enrichment, mastering and assembly of data products for downstream applications. In addition, you will:
+
+Drive the Data Strategy and align it with continuously changing business landscape
+
+Work on all the data types across the enterprise including Customer, Dealer, Vehicle, Manufacturing, etc.
+
+Evaluate, explore and select the right data platform technologies including Big Data, RDBMS & NoSQL to meet the analytics requirements
+
+Provide visibility to Data Quality issues and work with the business owners to fix the issues
+
+Ability to work in different database technologies including Big Data / Hadoop (HDFS, MapReduce, Hive, Shark, Spark, etc.), RDBMS and NoSQL.
+
+Experience in creation of scripts to manipulate files within HDFS is preferred
+
+Knowledge of data transfer and ingestion technologies including Informatica
+
+Demonstrated experience building visualizations using Tableau/Qlikview
+
+Ability to write complex SQL queries needed to query & analyze data
+
+Ability to communicate complex solution concepts in simple terms
+
+Ability to apply multiple solutions to business problems
+
+Ability to quickly comprehend the functions and capabilities of new technologies
+
+Strong Oral and written communication skills
+
+Skills Preferred:
+
+Strong team player, with the ability to collaborate well with others, to solve problems and actively incorporate input from various sources
+
+Demonstrated customer focus, with the ability to evaluate decisions through the eyes of the customer, build strong customer relationships, and create processes with customer viewpoint
+
+Strong analytical and problem solving skills, with the ability to communicate in a clear and succinct manner and effectively evaluates information / data to make decisions
+
+Strong interpersonal, and leadership skills, with proven abilities to communicate complex topics to leaders and peers in a simple, clear, plan oriented manner
+
+Ability to anticipate obstacles and develop plans to resolve those obstacles
+
+Change oriented, with the ability to actively generates process improvements, support and drives change, and confront difficult circumstances in creative ways
+
+Resourceful and quick learner, with the ability to efficiently seek out, learn, and apply new areas of expertise , as needed
+
+Highly self-motivated, with the ability to work independently
+
+Superior organization, coaching and interpersonal skills, combined with effective leadership, decision-making, and communication
+
+Strong oral and written communication skills (English) -Strategic and clear thinking to translate discreet and complex ideas to business-driven results
+
+Detail-oriented with a strong drive to enforce common standards
+
+Demonstrated acceptance and adherence to high ethical, moral, and personal values
+
+Required Experience:
+
+Experience Required:
+
+Advanced degree in Statistics, Mathematics, Operations Research, Economics, Physics, Computer Science and other technical fields
+
+Minimum of 3 years of experience in data design, data architecture and data modeling (both transactional and analytic)
+
+Minimum of 2 years of experience in Big Data / NoSQL technologies including Greenplum & Hadoop (HDFS, MapReduce, Hive, Shark, Spark, Informatica etc.), especially command line experience with loading and manipulating files within HDFS
+
+From: OneMagnify

@@ -1,0 +1,17 @@
+- Analyze and understand how users interact with our platform and features, and improve our platform
+
+- Manage the design and execution of experiments, models, and other analyses to drive strategic decision making
+
+- Communicate your findings directly and via visualizations
+
+- Develop data-driven features that drive new products (e.g. improved search results, stock recommendations)
+
+- Help define and shape a data-driven culture and experimentation mindset
+
+Requirements
+
+- Database querying: Postgres, S3, Redis
+
+- Using relevant tools and services: Redshift, S3, Spark, Hadoop, Hive, Periscope, and third-party analytics services
+
+- Using advanced algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, segmenting, decision trees

@@ -1,0 +1,44 @@
+"Candidates should possess strong knowledge and interest across big data technologies and have a background in data engineering.
+• Build data pipeline frameworks to automate high-volume and real-time data delivery for our Spark and streaming data hub
+• Transform complex analytical models in scalable, production-ready solutions
+• Provide support and enhancements for an advanced anomaly detection machine learning platform
+• Continuously integrate and ship code into our cloud production environments
+• Develop cloud based applications from the ground up using a modern technology stack
+• Work directly with Product Owners and customers to deliver data products in a collaborative and agile environment
+
+Responsibilities:
+• Developing sustainable data driven solutions with current new generation data technologies to drive our business and technology strategies
+• Building data APIs and data delivery services to support critical operational and analytical applications
+• Contributing to the design of robust systems with an eye on the long-term maintenance and support of the application
+• Leveraging reusable code modules to solve problems across the team and organization
+• Handling multiple functions and roles for the projects and Agile teams
+• Defining, executing and continuously improving our internal software architecture processes
+• Being a technology thought leader and strategist
+
+Required:
+At least 4 years of experience on designing and developing Data Pipelines for Data Ingestion or Transformation using Java or Scala or Python
+At least4 years of experience in the following Big Data frameworks: File Format (Parquet, AVRO, ORC), Resource Management, Distributed Processing and RDBMS
+At least 4 years of developing applications with Monitoring, Build Tools, Version Control, Unit Test, TDD, Change Management to support DevOps
+At least 2 years of experience with SQL and Shell Scripting experience
+Experience of designing, building, and deploying production-level data pipelines using tools from Hadoop stack (HDFS, Hive, Spark, HBase, Kafka, NiFi, Oozie, Apache Beam, Apache Airflow etc).
+Experience with Spark programming (pyspark or scala or java).
+Experience troubleshooting JVM-related issues.
+Experience and strategies to deal with mutable data in Hadoop.
+Familiarity with Spark Structure Streaming and/or Kafka Streams.
+Familiarity with machine learning implementation using PySpark.
+Experience in data visualization tools like Cognos, Arcadia, Tableau.
+Experience in Ab Initio technologies including, but not limited to Ab Initio graph development, EME, Co-Op, BRE, Continuous flow)
+
+Preferred:
+• Angular.JS 4 Development and React.JS Development expertise in a up to date Java Development Environment with Cloud Technologies
+• 1 years’ experience with Amazon Web Services (AWS), Google Compute or another public cloud service
+• 2 years of experience working with Streaming using Spark or Flink or Kafka or NoSQL
+• 2 years of experience working with Dimensional Data Model and pipelines in relation with the same
+• Intermediate level experience/knowledge in at least one scripting language (Python, Perl, JavaScript)
+• Hands on design experience with data pipelines, joining data between structured and unstructured data
+• Familiarity of SAS programming will be a plus
+• Experience implementing open source frameworks & exposure to various open source & package software architectures (AngularJS, ReactJS, Node, Elastic Search, Spark, Scala, Splunk, Apigee, and Jenkins etc.).
+• Experience with various noSQL databases (Hive, MongoDB, Couchbase, Cassandra, and Neo4j) will be a plus
+Other:
+• Successfully complete assessment tests offered in Pluralsight, Udemy, etc. or complete certifications to demonstrate technical expertise on more than one development platform.
+"

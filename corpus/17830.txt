@@ -1,0 +1,19 @@
+The Team:
+
+Morningstar’s mission is to create great products that help investors achieve their financial goals. For the Workplace group, that means building products and solutions that help employers maximize the value of their workplace retirement plans and put individuals on the path to better retirement outcomes. Workplace is a high-growth area for Morningstar that houses a diverse suite of technology and investment-based solutions. Our unique client base includes retirement plan providers, plan sponsors, plan consultants, and retirement plan advisors. By constantly evolving our solutions and solving our clients’ problems, we are well-positioned to help individuals achieve a better retirement. The workplace technology team is critical to achieving this mission and bringing it to life.
+
+Responsibilities:
+Design and document logical and physical database models to cater to a variety of business requirements.
+Review T-SQL code for implementing application business logic using stored procedures, views, and functions
+Act as consultant with other Database Administrators and Applications/ Business teams to support enterprise data governance
+Develop tools to extract data from OLTP systems into cloud based data stores
+Build computation frameworks to get analytical insights from the cloud based data stores
+Build reporting capabilities using Python to deliver the insights to end users
+Requirements:
+Bachelor’s degree in MIS, Computer Science, or a related field.
+Strong conceptual knowledge of database design and schema principles
+Strong conceptual knowledge of computation techniques like map reduce
+Very good understanding of CI/CD pipelines and infrastructure as code
+3+ years of experience in design, development, and maintenance of Microsoft SQL Server Databases
+Hands on experience working on a big data/cloud technology- Hadoop, Spark, Athena preferred
+002_MIMLLC Morningstar Investment Management LLC Legal Entity

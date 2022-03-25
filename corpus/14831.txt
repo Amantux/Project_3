@@ -1,0 +1,51 @@
+Position Description
+
+Position Responsibilities
+
+Responsible for developing and implementing the pipeline Integrity Management Program (IMP) for facilities within the Kinder Morgan Natural Gas Pipelines business unit including developing, implementing, and continuously improving data driven solutions to support a Quantitative Risk Analysis (QRA) model and integrity assessment planning. The Data Scientist will report to the Manager of Risk Engineering.
+
+The primary duties of this role are as follows:
+Design, development, and implementation of new data driven solutions to support Quantitative Risk Analysis (QRA) model and integrity assessment planning
+Design, development, and implementation of new data processes to extract, cleanse, integrate, and conform disparate pipeline data sources from across the organization for loading into dimensional data models
+Perform technical design reviews and improvements of existing data processes and data models
+Ensure data architecture will support current and future business requirements
+Ensure unit test is completed and meets the test plan requirements, system testing is completed, and system is implemented correctly
+Create and maintain thorough documentation of system architecture and processes
+Identify and present potential pipeline integrity process improvements and follow-through with implementation once stakeholder/management agreement for the improvement is obtained
+Provide support for other aspects of integrity related programs, processes, and procedures as required
+*Position may be filled at various levels depending on years of experience.
+
+Position Requirements
+
+Position Requirements
+3-5 years’ experience designing and implementing data driven solutions
+Expert knowledge of SQL (including SQL tuning), T-SQL, and other statistical computer languages to manipulate data and draw insights
+Experience working in multiple environments (DEV/QA/PROD)
+Experience using version control tools
+Ability to clearly document processes, ETL metadata, and architecture documents
+Strong written and verbal communication skills with staff at various levels of technical knowledge
+Demonstrates excellent analytical, critical thinking, and problem-solving skills
+Demonstrates strong time management and organizational skills
+Ability to self-motivate, set goals, prioritize and meet deadlines
+Bachelor’s Degree or higher in Computer Science, Engineering, or other relevant field
+Ability and willingness to perform all essential functions of the position including those listed above
+Ability to effectively organize, plan, prioritize, document, and complete work independently
+Maintain a regular, dependable attendance and high level of performance
+Work Conditions
+Must be willing and able to work in a corporate environment
+Extended periods of sitting may be required
+Preferred Experience, Skills and Knowledge
+10+ years’ experience designing and implementing data driven solutions
+Prior experience with data warehouse modeling, design, development, and implementation
+Expert knowledge in relational and dimensional data modeling and database design skills
+Prior experience working with pipeline industry datasets or implementing a QRA model
+Familiarity with pipeline linear referencing concepts
+Experience with ETL and data warehousing of spatial data sets
+Experience with Safe Software’s FME Desktop and FME Server
+Experience with distributed data/computing tools
+Knowledge of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.)
+Master’s Degree or higher in Computer Science, Engineering or other relevant field
+Demonstrated ability to identify gaps in processes and follow through with solutions
+We are an Equal Opportunity Employer and do not discriminate against applicants due to race, ethnicity, gender, veteran status, or on the basis of disability or any other federal, state or local protected class.
+
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class.

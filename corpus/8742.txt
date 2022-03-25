@@ -1,0 +1,161 @@
+Job Description:
+
+The data scientist for this office will explore the
+
+modernization of tools in support of Foundation data
+
+collection and use. Within this environment, SFD is
+
+seeking someone who will contribute within a high
+
+performing team environment that:
+
+Push boundaries to increase the volume of data
+
+Foundation GEOINT customers can query, visualize and
+
+consume
+
+Understand and communicate the interrelationships
+
+across many disparate datasets
+
+Provide data stakeholders integrated, holistic
+
+understanding of multiple geospatial databases and
+
+datasets
+
+Pilot data management, data analytics, and data
+
+science capabilities to continue shifting Foundation
+
+GEOINT toward data-centric operations and outputs
+
+The ideal candidate will be responsible for, but not
+
+limited to:
+
+Deliver schema mapping and entity resolution across
+
+disparate geospatial data sources through data
+
+scientist applied expertise in the subject
+
+Perform queries of large data sets using emerging
+
+methodologies
+
+Provide emerging advanced analytic methodology as
+
+proof-of-concept(s) and operationalize these
+
+advanced analytic methodologies as requested by the
+
+government
+
+Provide advanced data visualization to convey
+
+findings and communicate insights
+
+Identify, document, and address technical challenges
+
+that arise independently
+
+Develop, improve, and apply technical skills through
+
+locating resources (e.g., books, videos, articles,
+
+websites, SMEs, etc.) needed to support team data
+
+challenges
+
+Share useful resources with government and
+
+contract teammates
+
+Provide transfer of knowledge to Government POCs on
+
+an ongoing basis
+
+Interact with domain offices, SFD SMEs, and
+
+analysts, as needed
+
+Job Requirements:
+
+ACTIVE TS/SCI
+
+10+ years of relevant experience
+
+A Bachelor's Degree can be substituted for up to 4
+
+years of experience
+
+Proficiency in using Jupyter Notebooks
+
+Proficiency writing Python and/or R code
+
+Experience visualizing data including geospatial
+
+data
+
+Documenting analyses and findings using markdown
+
+Creating, managing, and sharing environments with
+
+software such as Anaconda
+
+Advanced experience using Python along with
+
+libraries like Pandas, GeoPandas, Fiona, and OSGeo
+
+to access, analyze, and visualize information stored
+
+geospatial files, XML, JSON, or tables
+
+Experience working with a variety of geospatial data
+
+formats (e.g., GEOJSON, osm, geodatabase)
+
+Experience in geospatial open source technology
+
+(e.g., QGIS, OGR, Geoserver, PostGIS)
+
+Experience storing and sharing data with S3
+
+Experience in SQL and NoSQL technologies
+
+Ability to navigate to directories and manipulate
+
+files using command line code
+
+Ability to use and contribute code to repositories,
+
+i.e., locate, remote, and shared (e.g., Github or
+
+Gitlab)
+
+Experience using agile project management software
+
+(e.g., RemineP) to track and communicate status on
+
+assignments
+
+Desired:
+
+Ability to apply graph theory to analyze
+
+relationships between datasets
+
+Experience using ESRI products (i.e. ArcGIS Pro,
+
+ArcGIS Enterprise, ArcGIS Online)
+
+Experience developing Application Programming
+
+Interfaces (APIs)
+
+Understanding of geospatial data standards (e.g.,
+
+NSG Application Schema, NSG Feature Data Dictionary)

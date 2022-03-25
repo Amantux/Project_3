@@ -1,0 +1,32 @@
+Summary
+
+The Data Analyst will be responsible for developing SQL databases, queries, procedures, views, functions and custom reports. This position will be developing contact center related enterprise data warehouse (CC-EDW). This CC-EDW will house data from multiple sources. Additionally, this position will utilize data blending and data modeling to produce cradle-to-grave reporting. Some examples of data sources are inbound calls, outbound calls, caller survey data, emails, chat sessions, automated dialer calls, etc. This position will have the benefit of creating a Data warehouse and its entire support process rather than maintaining and improving an existing process.
+
+Essential Duties and Responsibilities
+Responsible for the development and maintenance of Welldyne’s centralized contact center reporting process.
+Interface with departmental leadership to gather reporting requirements.
+Design and develop data warehouse platform, capabilities, data schemas, and models.
+Develop SQL queries and SQL programmability to satisfy data and reporting requirements.
+Design, build, and maintain ETL pipelines to support data and analytical needs.
+Advanced level of SQL programming for data analysis is required.
+Additional duties as assigned.
+
+Education and Experience
+Must have experience creating an EDW from inception.
+Requirements gathering
+Business matrix design
+Schema documentation
+Must have previous development experience working within a contact/call center environment.
+5+ years of experience developing complex T-SQL procedures, query performance tunings, and SSIS packages.
+5+ years of experience working with Microsoft SQL Server SSAS and SSRS.
+5+ years of experience in data mining (i.e., SQL, ETL, complex data warehouse).
+3+ years of experience with xml.
+3+ years of experience with .net Framework.
+5+ years of experience working with BI tools such as Tableau.
+5+ years of experience developing data warehouses, operational data store, and/or data marts.
+Six-Sigma Green Belt or higher is a highly preferred
+Work Environment / Physical Demands
+
+This position is in a typical office environment which requires prolonged sitting in front of a computer. Requires hand-eye coordination and manual dexterity sufficient to operate standard office equipment including operation of standard computer and phone equipment. May have occasional high stress when dealing with customers/clients. Some travel may be required.
+
+EOE M/F/D/V

@@ -1,0 +1,25 @@
+About Joby
+Located in Northern California, the Joby Aviation team has been steadily working toward our goal of providing safe, affordable, fully electric air transportation that is accessible to everyone. Imagine an air taxi that takes off vertically, then quietly and quickly carries you over the congestion below, giving you back that time you’d otherwise spend sitting in traffic. Technology has advanced to the point where designing and operating an all-electric aircraft is completely viable. Our team has been discreetly designing and flight testing this vehicle and is looking for talented individuals to see it through certification and high rate production.
+About the Job
+Working as a Data Scientist you will be responsible for developing analytical tools and reporting results from numerous tests and flight operations centered around the powertrain. You should be able to work cohesively inside of an engineering team, understand both data systems and physical systems, and have an eye for anomalies in physical test data. You will also need to work closely with your colleagues across a broad set of highly technical disciplines who depend on data. The ideal candidate is energetic, has a positive attitude, is flexible and excited about learning and using new technologies.
+Responsibilities:
+Wrangle data from a multitude of formats and systems (TDMS, AVRO, PostgreSQL, AWS, etc).
+Make sense of and “clean” data from a number of physical tests (the aircraft, reliability test equipment, subsystem tests, etc.).
+Work closely with engineers to understand the test and clearly present on the results.
+Work with the data engineering team to develop and maintain efficient data pipelines.
+Develop tools to make processing and reporting on data as consistent and easy as possible.
+Leverage statistics, numerical fitting methods, and a fundamental knowledge of powertrain systems to draw conclusions.
+Required:
+University degree in computer science, engineering, physics, or similar field.
+Expert knowledge of python and data libraries (pandas, scipy, etc.).
+Experience with data system architectures in relation to how to store, fetch, and manipulate data (SQL, custom APIs, etc).
+Experience with data visualization tools (matplotlib, bokeh, plotly, etc.).
+Experience with physical systems and an intuition around powertrain components and data.
+Excellent communication skills.
+Ability to support and work closely with a myriad of colleagues who are experts in aircraft design, systems engineering, test engineering, flight test operations, and machine learning.
+
+Desired
+Experience with Spark or other big data tools is a big plus.
+Experience with anomaly detection.
+Experience with streaming architectures (Kafka, Kinesis, etc.).
+Experience with machine learning techniques and methodologies.

@@ -1,0 +1,24 @@
+NXP Semiconductors N.V. (NASDAQ: NXPI) enables secure connections and infrastructure for a smarter world, advancing solutions that make lives easier, better, and safer. As the world leader in secure connectivity solutions for embedded applications, NXP is driving innovation in the automotive, industrial & IoT, mobile, and communication infrastructure markets. Built on more than 60 years of combined experience and expertise, the company has over 29,000 employees in more than 30 countries and posted revenue of $8.88 billion in 2019.
+
+As a principal device modeling engineer, you will be responsible for developing RF power transistor model of GaN, Si LDMOS and SiGe technologies. You will not only extract compact model of those active devices based on well established current methodologies but also conduct R&D programs to explore and develop new modeling methodologies.
+
+Department Description
+
+NXP RF Power Solutions Business Unit is the global leader for RF power semiconductor solutions for the wireless infrastructure equipment market. The division designs high-power RF LDMOS, GaN and SiGe power transistors, IC and modules for infrastructure applications, mobile and ISM (industrial scientific and medical) markets.
+
+Scope of Responsibilities and Expectations
+
+Main responsibilities include the modeling of the linear and non-linear circuit elements used with our high-power RF transistors, and the integration of these models into the CAD-flow. Modeling work requires microwave characterization, electromagnetic simulation, model development, and implementation of the final model within a non-linear circuit simulator. The position will require the individual to work closely with design engineers, product engineers, and application engineers for successful and timely model delivery.
+
+The individual will be involved in activities related the development of electrical models used during the design of a power transistor and their integration into the design-kits. The required modeling activities will include: transistor modeling, development of passive component modeling methodologies for planar and non-planar circuits, and the use of these passive modeling methodologies to develop product level models.
+
+Candidate will hold a minimum of a Masters degree in electrical engineering, physics and have a minimum of 1 year direct experience with RF device modeling and circuit simulation, with 8+ years of overall related experience.
+
+The engineer must also have a strong background in Microwave and RF engineering with an emphasis on several of the following areas:
+Development, generation, and extraction of semiconductor device compact models with experience in programming (e.g. C, Verilog-A, Matlab)
+Experience/knowledge in solid state semiconductor physics and nonlinear device modeling methodologies
+GaN and LDMOS modeling experience is preferred
+Passive component modeling and design-kit development skills are bonus
+Strong background knowledge with Keysight ADS, planar electromagnetic solvers (Sonnet EM and/or Keysight Momentum), and full 3D EM solvers (Ansys High Frequency Structure Simulator (HFSS) and/or Keysight EMPro).
+Experience in devices characterization such as S-Parameter, Load-pull, DCIV etc. is a plus.
+NXP is an Equal Opportunity/Affirmative Action Employer regardless of age, color, national origin, race, religion, creed, gender, sex, sexual orientation, gender identity and/or expression, marital status, status as a disabled veteran and/or veteran of the Vietnam Era or any other characteristic protected by federal, state or local law. In addition, NXP will provide reasonable accommodations for otherwise qualified disabled individuals.

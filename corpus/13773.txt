@@ -1,0 +1,43 @@
+Preferred Qualifications
+Bachelors degree in computer science or equivalent experience
+2 years of experience with big data tools: Hadoop, Spark, Kafka, NiFi, Hive and/or Sqoop
+2 years of experience with AWS cloud services: EC2, S3, EMR, RDS, Redshift, Athena and/or Glue
+2 years of experience with stream-processing systems: Spark-Streaming, Kafka Streams and/or Flink
+3 years of experience with object-oriented/object function scripting languages: Java (preferred), Python and/or Scala
+2 years of experience with relational SQL and NoSQL databases like MySQL, Postgres, Cassandra and Elasticsearch
+2 years of experience working in a Linux environment
+Expertise in designing/developing platform components like caching, messaging, event processing, automation, transformation and tooling frameworks
+Demonstrated ability to performance-tune MapReduce jobs
+Strong analytical and research skills
+Demonstrated ability to work independently as well as with a team
+Ability to troubleshoot problems and quickly resolve issues
+Strong communication skills
+What'll Make You Special
+Experience with managing real estate data
+Experience leading a team of engineers on a large enterprise data platform build
+Job Summary
+
+The Big Data Engineer is responsible for the full life cycle of the back-end development of a data platform. This team member creates new data pipelines, database architectures and ETL processes, and they observe and suggest what the go-to methodology should be. They gather requirements, perform vendor and product evaluations, deliver solutions, conduct trainings and maintain documentation. They also handle the design and development, tuning, deployment and maintenance of information, advanced data analytics and physical data persistence technologies.
+
+This team member establishes analytic environments required for structured, semi-structured and unstructured data. They implement the business requirements and business processes, build ETL configurations, create pipelines for the data lake and data warehouse, research new technologies and build proofs of concept around them. This person carries out monitoring, tuning and database performance analysis and performs the design and extension of data marts, meta data and data models. They also ensure all data platform architecture code is maintained in a version control system.
+
+The Big Data Engineer is responsible for sharing knowledge with fellow team members, allowing the entire team to grow and become proficient to further build out and enhance the data platform.
+
+Responsibilities
+Focus on scalability, performance, service robustness and cost trade-offs
+Design and implement high-volume data ingestion and streaming pipelines using Apache Kafka and Apache Spark
+Create prototypes and proofs of concept for iterative development
+Learn new technologies and apply the knowledge in production systems
+Develop ETL processes to populate a data lake with large data sets from a variety of sources
+Create MapReduce programs in Java and leverage tools like AWS Athena, AWS Glue and Hive to transform and query large data sets
+Monitor and troubleshoot performance issues on the enterprise data pipelines and the data lake
+Follow the design principles and best practices defined by the team for data platform techniques and architecture
+Who We Are
+
+Rocket Homes Real Estate LLC is a Detroit-based, tech-driven company with a passion for simplifying real estate. Our mission is to create a seamless home buying and selling experience by combining the process of searching for homes, connecting with a trusted real estate agent and getting a mortgage. Since 2006, weve partnered with our sister company, Rocket Mortgage® by Quicken Loans, and our nationwide network of top-rated real estate agents to help over 500,000 clients with their real estate needs.
+
+Disclaimer
+
+This is an outline of the primary responsibilities of this position. As with everything in life, things change. The tasks and responsibilities can be changed, added to, removed, amended, deleted and modified at any time by the leadership group.
+
+The Company has policies to support applicants with disabilities, including, but not limited to, policies regarding the provision of accommodations that take into account an applicants accessibility needs due to disability. For more information, please call us at (800) 411-JOBS or email us at Job@MyRocketCareer.com.

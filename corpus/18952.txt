@@ -1,0 +1,45 @@
+About the Role:
+
+The Data Engineer provides data and reporting development services or technical support daily. Also maintain data or reporting solutions (data warehouse/mart/stores/data lake/analytics) using tools and programming languages. Develop data set processes, assists with design and identify ways to improve data, efficiency and quality. You will work independently and oversee your work and work of junior members. You will also have strong domain knowledge of the relevant industry/s. Responsibilities include requirement analysis, code, test, debug, document and maintain data and analytics solutions.
+
+You will report to the Technology Solutions Manager who manages a Data Engineering team consisting of 12 team members in Dallas. We are a collaborative, passionate team delivering sustainable data-driven solutions on a variety of data warehousing and big data platforms to meet the needs of our customers across the Federal Reserve System.
+
+You Will:
+
+Create data warehouses (very large databases, usually loaded from transaction and Enterprise Resource Planning (ERP) systems to support decision-making in an organization) and data marts (a subset of a data warehouse for a single department or function)
+Develop data mining tools and analyze to sift through large amounts of data stored in a data warehouse or data mart to find relationships and patterns
+
+You Have:
+An Associate's degree, a Bachelor's degree a plus
+Certified Business Intelligence Professional (CBIP) or equivalent certification
+At least 4 years of experience in Data Engineering with SQL, Python; experience with relational SQL and NoSQL databases; experience in the following Big Data frameworks: File Format (Parquet, AVRO, ORC etc..)
+At least 3 years of experience working with large data sets, streaming, experience working with distributed computing (Map Reduce, Hadoop, Hive, Apache Spark, Apache Kafka etc.)
+Working knowledge of data structures, SQL, XML, JSON, Data visualization tools, Version Control Systems, Programming, and Unix/Linux shell scripting; experience with AWS, GCP or Azure
+Experience with RESTful API development, Familiarity with HTTP and invoking web-APIs
+Equivalent education and/or experience may be substituted for any of the above requirements
+
+Why the Dallas Fed?
+
+We are dedicated to serving the public by promoting a financial system and a healthy economy for all. These efforts take a team of dedicated individuals doing many different jobs. Together we're creating a workplace where accomplished people can excel, and we welcome your unique background and perspective to help present the best possible solutions for our partners.
+
+Our Benefits:
+
+Our total rewards program offers benefits that are the best fit for you at every stage of your career:
+Comprehensive healthcare options (Medical, Dental, and Vision)
+401K match, and a funded pension plan
+Paid vacation, holidays, and volunteer hours; flexible work environment
+Generously subsidized public transportation and free parking; annual tuition reimbursement
+Professional development programs, training and conferences
+And more
+
+Notes:
+
+This position may be filled at multiple levels based on candidate's qualifications as determined by the department.
+
+This position requires access to confidential supervisory information and/or FOMC information, which is limited to "Protected Individuals" as defined in the U.S. federal immigration law. Protected Individuals include, but are not limited to, U.S. citizens, U.S. nationals, and U.S. permanent residents who either are not yet eligible to apply for naturalization or who have applied for naturalization within the requisite timeframe. Candidates who are not U.S. citizens or U.S. permanent residents may be eligible for the information access required for this position and sponsorship for a work visa, and subsequently for permanent residence, if they sign a declaration of intent to become a U.S. citizen and meet other eligibility requirements.
+
+In addition, all candidates must undergo an enhanced background check and comply with all applicable information handling rules, and all non-U.S. citizens must sign a declaration of intent to become a U.S. citizen and pursue a path to citizenship.
+
+T he Federal Reserve Bank of Dallas is proud to be an Equal Opportunity Employer that believes in the diversity of our people, ideas and experiences, and we are committed to building an inclusive culture that represents the communities we serve.
+
+If you need assistance or an accommodation because of a disability, please notify your Talent Acquisition Consultant.

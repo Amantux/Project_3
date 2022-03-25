@@ -1,0 +1,329 @@
+Job Description:
+
+Data Scientists develop and apply methods to identify,
+
+collect, process, and analyze large volumes of data to
+
+build and enhance GEOINT products, processes, and
+
+systems. They conduct data mining and retrieval and
+
+apply statistical and mathematical analyses to identify
+
+trends, solve analytical problems, optimize performance,
+
+and gather intelligence. They visualize information
+
+using a range of tools (e.g., GIS, R), develop scripts
+
+and algorithms, create explanatory and predictive
+
+models, and conduct comparative analyses to address
+
+complex military and intelligence problems. The
+
+Contractor shall provide data science services within
+
+the support of GEOINT analysis. Knowledge of data
+
+science, methodologies, and processing techniques shall
+
+be employed on behalf of GEOINT analysts and community
+
+customers while providing operational support.
+
+Individual data scientists shall have applied knowledge
+
+in three distinct areas depending on mission
+
+requirements. These services included, but are not
+
+limited to:
+
+Services provided will fall into one of the following
+
+areas:
+
+Applied Mathematics – Statistical and mathematical
+
+support to provide temporal and pattern analysis,
+
+correlation of events, probability analysis, assessments
+
+of sampling, analysis of variance and error, and
+
+regression testing and analysis.
+
+Programming Skills – Write scripts in Visual Basic,
+
+Python or other software for modeling processes,
+
+repeatability, efficiency, knowledge capture, hypothesis
+
+testing and process automation.
+
+Data Stories – Document and visualize data both
+
+temporally and spatially to assist in data integrity
+
+checks, ask the next question, and display analytical
+
+assessments.
+
+Provide technical skills at the specified level of
+
+expertise to perform, not limited to:
+
+Advising/Consulting, Customer Requirements and Service,
+
+Information Dissemination, Information Gathering and
+
+Research, Quality Assurance, Data Analysis, Data
+
+Depiction, Data Management, Data Preparation, Enterprise
+
+Perspective, Extraction, Imagery Manipulation, Image
+
+Interpretation, Mensuration, Photogrammetric Analysis,
+
+Planning and Organizing, Problem Solving, Process
+
+Analysis and Improvement, Product Development and
+
+Editing, and Statistical Analysis
+
+Provide technical knowledge at the specified level of
+
+expertise in Data Scientist subject areas including, not
+
+limited to: Analytical processes and techniques,
+
+Collection and tasking principles, Data evaluation
+
+principles, Geographic Information System (GIS)
+
+principles, GEOINT doctrine, Intelligence issues, Data
+
+attribution schema, Data conversion and transfer tools,
+
+Data dissemination requirements and procedures, Data
+
+mining techniques, Data modeling, Data storage
+
+processes, Data synchronization practices, Data
+
+visualization, Database design principles, Database
+
+statistics, Database performance analysis and reporting,
+
+Graph theory, Multivariate correlation, Network analysis
+
+technique, Quality control principles, Regression
+
+analysis, Relational databases, Sampling techniques and
+
+methods, Scriptwriting, Search and retrieval strategies,
+
+spatial databases, Spatial statistics, Statistical
+
+software, Trend analysis techniques, and Validation
+
+procedures.
+
+Provide data science services within the GEOINT
+
+community
+
+Develop tradecraft techniques and solutions for
+
+discovery, preparation, manipulation, and normalization
+
+of big data
+
+Use mathematical concepts and techniques to solve
+
+complex GEOINT analysis issues and understand concepts
+
+associated with structured data and relational databases
+
+Primary products will include presenting processed data,
+
+visualizations and scientific analysis to GEOINT
+
+analysts and managers in support of production, and
+
+providing Subject Matter Expert (SME) services in
+
+various forums
+
+Interaction directly with GEOINT analyst customers as
+
+support requirements arise, and devise an optimal
+
+approach to processing and scientifically analyzing data
+
+in a timely manner given the available tools and
+
+techniques
+
+Presentation of processed data and scientific analysis
+
+to GEOINT analysts and managers. Analysts who use
+
+disparate data are usually not familiar with it, and the
+
+resulting analysis must be presented and explained in a
+
+manner that the customer can understand. The Contractor
+
+shall provide results to the customer with the requested
+
+form and content, including project-related briefings as
+
+required
+
+Ad-hoc informational briefings and training for the
+
+purpose of educating analysts and managers as to the
+
+capabilities of data science methodologies, processing,
+
+visualization, and its benefit, to include presentations
+
+to the Commonwealth countries
+
+Support and participation in community forums on an
+
+ad-hoc basis. This sometimes requires presentation of
+
+technical information or case studies resulting from
+
+operational support, to include presentations to the
+
+Commonwealth countries
+
+Providing Subject Matter Expert (SME) support to the
+
+Community, and other GEOINT components and Contractors.
+
+Activities may include attending Technical Exchange
+
+Meetings (TEM); user testing and evaluation of new
+
+capabilities under development (e.g., participation as a
+
+user on SCRUM team in AGILE sprints); and advising
+
+various directorates.
+
+Investigating new scientific analysis techniques and
+
+methods if requirements cannot be met in a timely manner
+
+with available tools and methods. This could include
+
+monitoring the community and industry for new
+
+technologies that can be inserted for operational use or
+
+the near-term formulation of algorithms and applications
+
+Explain assumptions, analytical techniques, and
+
+statistical results effectively in writing and orally to
+
+convey intelligence problems being resolved
+
+Formal written reports of selected products may be
+
+required which must conform to reporting standards of
+
+the customer
+
+Utilize the relationship between the data collected for
+
+a real-world problem and the required structure of a
+
+relational database to help solve that problem
+
+Utilize deductive reasoning and the scientific method as
+
+it applies to GEOINT analysis to solve problems.
+
+Job Requirements:
+
+Active TS/SCI
+
+11+ years of relevant experience
+
+A bachelor's degree in a field related to the
+
+support services may count for up to four years of
+
+this experience. A master's degree in a field
+
+related to the support services may count for up to
+
+two additional years of this experience.
+
+Determine the most appropriate research projects,
+
+data collection, and methodologies.
+
+Identify, retrieve, manipulate, relate and/or
+
+exploit multiple structured and unstructured data
+
+sets from various sources, including building or
+
+generating new data sets as appropriate.
+
+Interpret and evaluate the results of data science
+
+community's methods models and/or algorithms,
+
+understanding the meaning, limitations, and scope of
+
+the results, translating into the insightful output
+
+for data science and/or mission and identifying
+
+other applications for use.
+
+Initiate the efficient implementation of methods,
+
+tools, algorithms, including preliminary data
+
+exploration, data visualization and preparation,
+
+model calibration, specification or estimation: and
+
+algorithm validation and verification using a
+
+comprehensive range of technologies (e.g. software
+
+packages, programming languages, computational
+
+environments)
+
+Educate managers, senior internal officers, and the
+
+IC through mediums such as presentations,
+
+documentation, and discussions.
+
+Lead work unit proactively addressing and
+
+responding to the most difficult data
+
+science-related challenges in a timely manner while
+
+effectively balancing competing priorities.
+
+Coordinate subtasks for successful project task
+
+integration.
+
+Demonstrated strong writing and briefing skills
+
+consistent with national-level performance

@@ -1,0 +1,7 @@
+§ Work with the Data Engineers in creating the ingestion metadata for processing from Source to Raw-Composed.
+§ Do integration testing for the ingestion pipelines, analyze and resolve data discrepancy issues between sources to compose which are not related to Ingestion Framework Code.
+§ Validate, Test and provide improvement suggestions on the Data Processing and Data Lineage capture framework.
+§ Work with the business users to identify and resolve the data/recon issues identified in the Raw Composed layer tables.
+§ Analysis of Users, Systems Entitlement, Data Classifications, PII data elements identification
+§ Create IAM Roles and Policies relevant to newly added sources and tables based on entitlements
+§ Update S3 bucket policies relevant to newly added sources/tables

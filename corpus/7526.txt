@@ -1,0 +1,78 @@
+The U.S. Army Research Laboratory Computational and Information Sciences Directorate, DOD Supercomputer Resource Center, conducts research critical to the Army's assured land power dominance into the deep future. We work with emerging computational platforms and architectures, advanced algorithms, new programming models, immersive visualization tools, virtual/augmented reality, machine/deep learning, and related areas. Our facilities include high performance computers, emerging processors, development platforms, neuromorphic processors and accelerators, and a 2-D/3-D and immersive visualization lab. 
+
+Parsons is seeking highly motivated, self-starting individuals to develop big data analytic capabilities for ARL and its customers, such as the acquisition and test & evaluation communities. Datasets are high dimensional, high volume, and highly heterogeneous. The individual will work with Army scientists and engineers to understand the data domain and current practices, while at the same time thinking outside the box and using their mathematical/statistical modeling expertise to develop next generation analytic workflows. The individual will work with team members and incorporate their models, and insights derived from those models, to develop user-facing visual analytic prototypes. 
+
+As a data science team member, you will:
+
+ 
+
+ Work with a multi-disciplinary team
+
+ 
+
+ Investigate new algorithms and novel approaches for analyzing large scale and heterogeneous datasets
+
+ 
+
+ Apply mathematics and statistics for the analysis of structured and unstructured data
+
+ 
+
+ Work with research teams to customize solutions to meet research, analysis and customer objectives
+
+ 
+
+ Prepare and present research findings at scientific seminars, conferences and workshops
+
+ 
+
+ Publish technical reports and refereed journal articles
+
+ 
+
+ Mentor more junior staff
+   
+
+Qualifications : 
+ 
+Bachelors, Masters or PhD in Computer Science, Engineering, Physics, Math, or Statistics 
+3+ years of experience 
+Strong programming skills in one or more of: C, C++, Python, Java, CUDA, OpenCL 
+Experience with Linux 
+Strong math skills; experience with numerical linear algebra, machine learning, data structures, high performance computing 
+Good written and verbal communication skills and oral presentation skills 
+Proficient in scripting for data processing and analysis, in R, Python, MATLAB, etc. 
+Data collection, data cleaning, data wrangling over messy, heterogeneous data (text, numerical, video, geospatial) 
+Proof of U.S. citizenship or permanent residency is required due to government federal requirement 
+ Applicants selected for employment may be subject to a federal background investigation and may need to meet additional eligibility requirements for access to classified information or materials   
+
+
+ABILITY TO OBTAIN AND MAINTAIN A SECRET CLEARANCE 
+
+Preferred :
+   
+   
+Experience with existing machine learning algorithms, and/or built mathematical & statistical models for data mining purposes 
+Experience using data management, distributed data processing technologies such as Hadoop, Hive, Spark 
+Ability to work with data visualizations using JavaScript, R/Shiny, Python/Dash a plus. Experience working with advanced large scale visualizations, and/or geospatial visualizations   
+
+
+
+Job Summary
+
+                             
+                     
+                         Location 
+                             Aberdeen, MD 21001 
+                     
+                 
+                             
+                     
+                         Posted 
+                         1 Days ago 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         4372_58244

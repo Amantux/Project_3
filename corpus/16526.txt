@@ -1,0 +1,21 @@
+Job Description
+Job Description: Bioinformatics Data ScientistAre you a data-obsessed, full-stack bioinformatician who wants to uncover the key, data-driven insights that will ultimately lead to life-saving medicines? At twoXAR, we use artificial intelligence to discover lifesaving drug treatments at blazing speed. We are seeking a data scientist to serve as the lead bioinformatician working on the continual development of our world-class drug discovery AI. The ideal candidate is an experienced bioinformatician with broad knowledge of biology, statistics, and programming who is interested in harnessing that knowledge towards discovering novel treatments for a wide diversity of diseases.twoXAR is an artificial intelligence-driven drug discovery companyWe leverage our computational platform to identify promising drug candidates, validate and de-risk them through preclinical studies, and progress remaining candidates to the clinic through industry and investor partnerships. We have established collaborations with leading biopharmaceutical companies and are now scaling the business and building our internal drug pipeline. twoXAR is venture-backed with financing from SoftBank Ventures and Andreessen Horowitz and has strong ties to Stanford University and MIT. Our management team and advisory board have decades of biopharmaceutical management experience, built software systems used by tens of millions of people, held VP and C-level positions at Fortune 100 companies, and have had previous startups end with successful strategic acquisitions.
+Responsibilities
+Serve as the lead full-stack data scientist as we build and enhance the world’s premier AI-driven drug discovery platform
+Develop, extend, and apply innovative computational methods to analyze diverse and heterogeneous biomedical data sources, including most omics types (gene expression, miRNA, methylation, etc.), GWAS, EMR data, systems biology data, and more
+Collaborate with software engineers and drug discovery researchers to implement and extend state-of-the-art algorithms and automated pipelines
+Identify and evaluate potential new biomedical data sources and bioinformatic methodologies
+Work cross-functionally with other internal teams to create and perform end-to-end analyses that include design, data gathering, processing, analysis, iteration with stakeholders, and presentation of results
+Distill complex and heterogeneous data into actionable and interpretable insights
+Requirements/Qualifications
+Minimum of M.S. degree in bioinformatics, computational biology, human genetics or a related field, and a sound understanding of both biology and statistics with 5 years independent bioinformatic research experience (PhD fulfills research experience and is a significant plus); or a B.S. in physics, statistics, computer science and at least 5 years of industry experience in bioinformatics
+Experience with statistics, omics, large-scale data ETL & integration, and machine learning is required
+Preference for hands-on experience with packages like Salmon, Limma, VEP, NumPy, and SciKit-Learn
+Proficiency in Python, R, and a Linux environment are required
+Demonstrated problem solving and attention to detail are musts to be successful in this role
+Demonstrated familiarity with best software engineering practices (testing, version control, etc.) is preferred
+Prior experience in an industry R&D environment is a plus
+Demonstrated ability to rapidly learn new concepts
+Startup minded: high energy, low maintenance, self-starter that is comfortable in a fast-paced environment
+Cultural fit: genuine, collaborative, innovative, data-driven, and goal-oriented
+twoXAR is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.

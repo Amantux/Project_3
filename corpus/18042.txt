@@ -1,0 +1,112 @@
+Posting Details
+
+Job Title Integration Engineer
+Department Administrative & Enterprise Systems & Services
+Full Time/Part Time Full-Time
+Requisition Number S21010
+Open Date 07/13/2020
+Close Date
+Salary Information
+
+Salary Commensurate with Experience and Qualifications
+Work Schedule
+
+Regular business hours with occasional nights and weekends required as needed.
+Benefits Eligible Yes
+Eligible for Overtime No
+Position Summary
+
+The integration engineer designs, develops, maintains and supports solutions integrating applications across the enterprise or its units/departments. The position evaluates existing components or systems to determine integration requirements and to ensure final solutions meet organizational needs. The ideal candidate will be able to demonstrate experience working on integration platforms with Oracle Cloud ERP, HCM, and EPM, leveraging Oracle’s Integration Cloud (OIC) solution.
+Education Required Bachelor's Degree
+Major/Discipline
+Substitution for Education Requirement May substitute additional related experience, above and beyond what is required, on an equivalent year for year basis in lieu of the education requirement.
+Education Preferred
+
+Bachelor’s degree in computer science or related field.
+Experience Required 5 years
+Type of Experience
+
+Oracle Integration Cloud (OIC) or equivalent experience.
+Substitution for Experience Requirement May substitute additional related education, above and beyond what is required, on an equivalent year for year basis in lieu of the experience requirement.
+Experience Preferred
+
+- Experience with Amazon Web Services (AWS), i.e. AWS SFTP, S3, etc.
+Experience with Oracle Cloud Infrastructure (OCI) services, i.e. Autonomous Database (ADW and ATP), etc.
+Experience developing and supporting distributed systems and enterprise system integration services using Representational State Transfer (RESTful) and Simple Object Access Protocol (SOAP) web service APIs including RAML, YAML, XML, JSON
+Experience with Hypertext Transfer Protocol (HTTP), JavaScript Object Notation (JSON), Message Queuing (MQ), and Extensible Markup Language (XML)
+Experience with continuous integration / continuous development frameworks and solutions including Maven, Jenkins/Bitbucket Pipelines, Git, and Mulesoft
+Experience with Java; Extensible Stylesheet Language Transformations (XSLT)
+Experience integrating with Oracle ERP, HCM, and EPM
+Experience utilizing API design tool such as Swagger, etc.
+Experience with different API Management tools
+Experience with Node; Node Package Manager (NPM) ; EDI or OBI; Oracle
+Experience in implementing OAUTH2 authentication and authorization
+License/Certification Required
+License/Certification Preferred
+Skills Required
+
+- Expertise in designing, developing, testing, and deploying applications
+Proficiency with application design and data modeling
+Ability to define and solve logical problems for highly technical applications
+Strong communication skills with both technical and non-technical clients
+Ability to lead activities on structured team development projects
+Ability to select, adapt, and effectively use a variety of integration methods
+Knowledge of application domain
+Skills Preferred
+
+- Proficiency developing with any middleware integration platform such as Oracle Integration Cloud (OIC), Mulesoft tools and components or Dell Boomi
+Solid understanding of Cloud Architectures (e.g., SaaS, PaaS, IaaS) and the ability to address the unique integration considerations of Cloud computing
+Solid knowledge of data structures, data management practices, and Structure Query Language (SQL)
+Understanding of integration security
+Strong understanding of Agile and Scrum frameworks
+Internal / External Contacts
+
+Internal contacts: Frequent contact with Rice University faculty, staff and students. External contacts: Frequent contact with vendors, service providers and partners.
+Physical Demands
+
+No unusual physical demands.
+Working Conditions
+
+- Office environment
+May require overtime and/or weekends to meet deadlines
+Essential Personnel
+
+Position is not considered essential during a campus emergency.
+Rice University Standard of Civility
+
+Serves as a representative of the University, displaying courtesy, tact, consideration and discretion in all interactions with other members of the Rice community and with the public.
+Security Sensitive
+
+As defined under the Texas Education Code and Rice Policy No. 425, this position is security sensitive and employment in this position is contingent upon the successful completion of a background check.
+Special Instructions to Applicants
+Quick Link for Posting http://jobs.rice.edu/postings/24022
+
+Essential Functions
+
+- Designs, codes, tests, deploys, and supports high performance, scalable, intuitive, and secure solutions
+Works with a variety of users to gain information and interacts with a diverse client base and outside vendor contacts
+Documents system builds and integration configurations
+Maintains and updates documentation as needed
+Provides technical analysis, design, development, conversion, and implementation work
+Provides production system support and issue resolution
+Works as a project leader, as needed, for projects of moderate complexity
+Serves as a technical resource for integrations
+Compares, evaluates, and implements new features and technologies, and integrates them into the computing environment
+Mentors lower level developers
+Performs other duties as assigned
+Additional Functions or Information
+
+- Evaluates and translates business requirements into technical specifications
+Regularly leads and participates in the solution development efforts
+Designs and develops new integrations in support of new application/functionality deployments in the ERP, HCM and EPM space
+Supports quality assurance activities including unit and regression testing, developing and documenting test scripts and effectively interacting with our Jira based requirement and test management suite
+Participates in code reviews and maintain source code quality and change control
+Conducts regular reviews of systems to determine opportunities and identify solutions that will improve capabilities and performance, eliminate technical debt and deliver business value
+Investigates, troubleshoots and resolves technical issues
+Constructs solutions that reuse shared/common services or establishes services that are reusable (Service Oriented Approach)
+Identifies project technology risks and communicate credible scenarios/feasibility issues to project and senior management
+Collaborates with enterprise teams to ensure technical deliverables meet client technology, security, and supportability standards, policies, frameworks, and controls
+
+Job Duties
+
+Applicant Documents

@@ -1,0 +1,33 @@
+, 2020
+Weekly Hours: 40
+Role Number:
+200175549
+Help us make Siri smarter! We're seeking software engineers and architects to work on improving data workflows for Siri's open domain query understanding. As an expert in developing software to manage large, dynamic data sets, you'll be building platform for data ingestion, cleaning, transformation and evaluation to support a rapidly scaling organization.
+Key Qualifications
+Key Qualifications
+5 years of experience as a Software Engineer
+Excellent programming skills — e.g. Python, Go, Java
+Excellent problem-solving and analytic skills
+Solid computer science and systems foundations; ability to quickly learn new domains
+Proven system development skills in UNIX-type OS (e.g. Linux, Mac OS)
+Experience working with large data sets and pipelines, ideally using the Apache software stack (e.g. Spark, HBase)
+Experience with continuous integration and continuous development solutions (e.g. Jenkins, etc.)
+Experience with cloud-native deployment (e.g. Kubernetes)
+Good communication skills and teamwork
+Passion for building great products
+Curiosity and desire to learn
+
+Description
+Apple is hiring a senior data platform engineer for Siri's Knowledge team.
+
+You'll be working at the frontier of AI, crunching massive amounts of data for Siri's knowledge base. In a fast-paced, continuously-integrated environment, you'll design and implement robust, scalable systems capable of processing an ever-growing data set while keeping latency low and quality high. You'll work closely with knowledge extraction engineers to integrate new data, and with engineers from across Siri to deliver data for customer-facing services. Your responsibilities will also include developing tools and tests to ensure quality and help diagnose issues.
+
+Education & Experience
+BS or MS in Computer Science or a related field
+
+Additional Requirements
+The following experience is nice to have, but not required:
+Data modeling
+Experience working with search engines
+Machine learning
+Natural-language processing

@@ -1,0 +1,50 @@
+Business Unit:
+Cubic Corporation
+Company Details:
+Cubic Transportation Systems powers the future of travel for major cities like London, New
+York, Sydney, and many more. Over 60% of public transit rides in the US, UK, and Australia use
+Cubic’s systems to make travel easier.
+
+Our Transportation Platforms division builds a number of software platforms and services that
+power things like fare collection, real time passenger information, transit schedule
+management, trip planning, and more. We are an agile team focused on delivering software
+products.
+Job Details:
+
+
+Production Engineers at Cubic ensure that our systems run smoothly, our developers can achieve speed and quality goals, and help us plan for future growth. As embedded team members, our Production Engineers assist product-driven engineering teams and are key contributors within our engineering efforts.
+
+Production Engineering brings together many concepts around software, systems, and people including Software Engineering, DevOps, Site Reliability Engineering (SRE), Systems Administration, and Networking Engineering.
+
+Production Engineering is a specialization focused on Reliability, Scalability, and Efficiency. Like classical Software Engineers, PEs are expected to have solid development skills. More broadly, they will also understand the operating systems (Linux), infrastructures (AWS and Azure), and networking that our services and applications rely on.
+
+At the core of our business is the dynamic revenue management platform that drives many of the world’s most complex fare collection and transaction processing systems for transportation. Cubic designs each system with reliability, quality and customer care in mind – providing a sustainable solution for today, and into the future. We’re incredibly excited to push the boundaries in providing an amazing experience for riders and transportation authorities and want people passionate about the future of transportation to join our team.
+
+Responsibilities
+Own backend services such as API Gateways and microservices, frontend-services, infrastructure components such as Kubernetes, Apache Kafka Apache Cassandra, deployment infrastructure such as Jenkins or GitHub, and everything in between.
+Partner with amazing engineers to help deliver high quality, scalable, and performant applications integral to millions of people’s daily lives
+Write and review code for tooling, develop documentation and capacity plans, and debug production challenges on 24x7x365 systems used to power people’s commutes and daily transportation needs
+Help develop observability, monitoring, and reaction processes and tools to keep our systems running at peak performance
+Support your engineering team by being an escalation contact for service incidents and sharing an on-call rotation
+Minimum Experiences
+Computer Science or Engineering degree, or a related technical discipline, or equivalent work experience
+Supporting Software as a Service infrastructure at scale (hundreds of thousands or millions of daily user)
+Coding in higher-level languages (e.g. go, Java, Python)
+Deploying applications at cloud providers (e.g. Azure, AWS, Google Cloud)
+Configuring and maintaining applications such as web servers, API gateways, load balancers, relational storage, non-relational storage, streaming platforms, and messaging systems
+Learning custom software, frameworks, and APIs
+Preferred Experiences
+Kubernetes-based application deployments and monitoring (e.g. Graylog, Prometheus, and Grafana)
+Configuration management tools like Terraform, Chef, Salt, or other
+Operating systems and how applications interact with them (including using tools like ktrace/strace)
+Native mobile applications
+BASE architecture, multi-active data center, relational, non-relational, caching and streaming storage technologies, Eventual Consistency, CAP Theorem Tradeoffs, etc.
+CI/CD Pipeline configuration
+Observability of web and mobile applications (e.g. DynaTrace, Sentry, Prometheus, PagerDuty, GreyLog, Grafana)
+Multiple types of API Transports (e.g. REST, gRPC, GraphQL)
+Participating in software development partnerships
+U.S. Citizenship (improves intra-company mobility opportunities)
+The description provided above is not intended to be an exhaustive list of all job duties, responsibilities and requirements. Duties, responsibilities and requirements may change over time and according to business need.
+
+Worker Type:
+Employee

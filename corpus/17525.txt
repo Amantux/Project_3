@@ -1,0 +1,59 @@
+Job Description
+The Mayor’s Office of Contract Services (MOCS) oversees and supports the procurement activities of City agencies, with a goal to ensure fairness, transparency, efficiency and cost effectiveness. The Director is the City Chief Procurement Officer. Annually, agencies procure billions in products and services from a diverse pool of vendors that represent various industries. MOCS partners with industry groups to implement policies and tools that streamline and modernize procurement, resulting in the delivery of quality services to New Yorkers. Team members operate in a fast-paced, collaborative, service-oriented environment, where flexibility and ability to achieve results are valued.
+
+The Data Engineer will report to the Assistant Director of Enterprise Data Services in the Technology Strategy division, Office of the CTO. The successful candidate will focus on ensuring the successful implementation of our MOCS data warehouse and PASSPort solutions. This position requires a detailed-oriented, hands-on manager who will work closely with MOCS business and BI teams on the analysis and design of database and system solutions.
+
+Responsibilities will include:
+
+• Collaborate with the other members of the integration team in the design, implementation and documentation of solutions for daily issues/support, release management, and new projects
+• Assist in architecting, mapping, developing, and testing data movement to data warehouses (Redshift and SQL Server), with emphasis on the ETL process
+• Develop, document, and execute SQL/stored procedures/server scripts as needed to support ETL code
+• Determine ETL requirements and assist with production, setup, and execution of migrations
+• Work closely with BI and PASSPort teams on ETL development efforts including analysis and design of integration solutions, data and reporting needs of internal and external stakeholders, and enhancements
+• Identify and resolve data, technical issues and mediate business impact
+• Collect requirements, design, build and test reports and dashboards across applications and programs
+• Perform ad hoc analysis as required
+Minimum Qual Requirements
+1. Graduation from an accredited college with a baccalaureate degree; or
+Graduation from an accredited community college plus two years of experience with administrative, analytic, coordinative, supervisory or liaison responsibilities; or
+A four year high school diploma or its educational equivalent plus four years of experience as described in “2” above; or
+A satisfactory equivalent combination of education and experience
+Preferred Skills
+The successful candidate should possess the following:
+• Excellent writing and communication skills
+• Knowledge and interest in computer systems and the latest technologies
+• Familiar with AWS ecosystem including S3, Redshift databases, Lamda, EC2, Matillion and necessary supporting activities
+• The ability to learn new technologies quickly
+• Ability to write complex procedures using SQL (i.e. T-SQL, PL/pgSQL, etc.)
+• Experience in generic object-oriented languages (i.e. C#, Java, etc.)
+• Experience in scripting languages (i.e. Python, PowerShell, etc.)
+• Experience in ETL tools (i.e. Matillion, SSIS, Informatica, ets.)
+• Knowledge of testing tools and techniques and executing test scripts to test performance of ETL procedures
+• Significant experience in development, maintenance, and enhancements of ETL Mappings, Work-flows, and processes
+• Excellent analytical, organization, presentation and facilitation skills; ability to handle multiple tasks under tight deadlines
+• Familiarity with New York City’s data share platforms, including Open Data (DOITT’s DataShare) (FMS, PIP, APT).
+• Working knowledge of database back-end systems (i.e. AWS Redshift, SQL Server, Oracle, PostgreSQL).
+• Familiarity with Data Warehouse concept (Kimball), fact tables, slowly changing dimensions types.
+• Past utilization of code repositories (i.e. GitHub, GitLab or AWS CodeCommit).
+• Analyze user requirements and convert requirements to design documents.
+• Multi-task and change from one task to another without loss of efficiency or composure.
+• Development of technical specifications and plans.
+Additional Information
+Mayor’s Office of Contract Services is an equal opportunity employer.
+Special accommodations provided to applicants with disabilities. To request an accommodation, please contact MOCS Disability Service Facilitator at disabilityaffairs@mocs.nyc.gov or 646-872-0231.
+Mayor’s Office of Contract Services recognizes the unique skills and strengths gained through military service. Veterans and service members of the U.S. Armed Forces are strongly encouraged to apply.
+
+STUDENT LOAN FORGIVENESS PROGRAM:
+The U.S. Department of Education provides student loan forgiveness through the Public Service Loan Forgiveness Program (PSLFP) to qualifying public service employees. As an employee of the City of New York, you may be eligible for loan forgiveness should you meet the program’s eligibility requirements. For additional information on the PSLFP, please visit https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service.
+To Apply
+External Applicants, please go to www.nyc.gov/jobs and search for Job ID#: 436136.
+Current City Employees, please go to www.nyc.gov/ess and search for Job ID#: 436136.
+
+Applicants may apply for jobs via NYCAPS with Apple products if they use the appropriate browser, such as Firefox, Chrome and/or Safari.
+
+No phone calls, faxes, or personal inquiries permitted.
+Only those candidates under consideration will be contacted.
+Work Location
+22 Reade Street New York, NY 10007
+Residency Requirement
+New York City residency is generally required within 90 days of appointment. However, City Employees in certain titles who have worked for the City for 2 continuous years may also be eligible to reside in Nassau, Suffolk, Putnam, Westchester, Rockland, or Orange County. To determine if the residency requirement applies to you, please discuss with the agency representative at the time of interview.

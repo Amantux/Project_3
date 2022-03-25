@@ -1,0 +1,79 @@
+Essential Duties & Responsibilities:
+
+Responsible for leading and managing the day-to-day operations of the storage area network (SAN) team. Oversees all aspects of the SAN architecture, providing insight on the design, backup strategies, and networking. Manages project and workloads of SAN team, overseeing system analysis activities, troubleshooting, and incident management. Develops per customer requirements and designs solutions related to Big Data, Data Governance, and large scale date search and storage. Plans workspaces, workloads, storage projects, and other administrative tasks associated with the management of the SAN.
+
+???Provide technical consulting, assistance, and enablement of storage concepts to customers using a mixture of Linux and windows technologies
+
+???Ensure customer engagements always result in high levels of customer satisfaction
+
+???Engage customers regarding requirements analysis, document business use cases, prioritize requirements, and design custom-tailored storage solutions.
+
+???This position requires an engineer to assist with the architectural, engineering, administration of the Storage Infrastructure, as well as participate in the change process and incident response process present features and benefits of our offerings to customers, while adhering to industry best practices.
+
+???Answer questions using your knowledge of Storage system and sophisticated processes
+
+???Work with the Engineering team and clearly communicate problems and solutions
+
+???Develop and deliver relevant solutions, including workshops, migration tools and guides, reference architectures, and related solutions collateral.
+
+???Help escalate and resolve customer technical support issues.
+
+???Work on projects and lead in the migration of the current infrastructure from Hosted to a Cloud environment.
+
+???Create engineering documentation based from architectural designs.
+
+???Create, update and utilize standard operating procedures.
+
+???Work with other Team Leads and Manager to maintain organizational goals.
+
+???Provide Level 3 escalation for Storage Operations team
+
+Requirement:
+
+Bachelor's degree in engineering or a related technical field and is required plus a minimum of 10 years of relevant experience; or Master's degree in engineering or a related technical field plus a minimum of 8 years of relevant experience.
+
+Relevant Experience:
+
+Bachelors of Science degree in Computer Science, Computer Engineering, a related specialized area or field is required (or equivalent experience) plus a minimum of 15 years of relevant experience leading and managing the operations of a storage area networks, specializing in SAN architecting; or Master's degree plus a minimum of 10 years of relevant experience leading and managing the operations of a storage area networks, specializing in SAN architecting. Cloudera Certified Professional: Data Scientist (CCP: DS), AWS Certified Solutions Architect Professional, Certified Cloud Security Professional (CCSP), Certified Information Systems Security Professional (CISSP), and other related certifications are highly desired.
+
+Security Requirements:
+
+TS/SCI with Polygraph, obtainable within reasonable time based on requirements
+
+Skills:
+
+???Capable of working on complex problems of diverse scope or situations or data that requires in-depth evaluation of variable factors
+
+???Exercises judgment in selecting methods, techniques and evaluation criteria for obtaining results
+
+???Detailed and very strong knowledge of technology trends and champions new ideas and product and process improvements
+
+???Strong ability to excel at the development of new theories and methods
+
+???Strong awareness of business objectives and Engineering's role in achieving
+
+???Strong ability to be creative, innovative and responsible, and able to master advanced decision-making skills
+
+???Strong ability to grasp and apply new information quickly
+
+???Shows initiative on assignments, and professionally executes projects as a technical SME and leader with little or no direction
+
+???Strong ability to be a team player who thrives in collaborative environments and revels in team success, meeting and exceeding personal and team commitments
+
+???Strong written and verbal communications skills
+
+???Strong ability to recognize and clearly report relevant information
+
+???Strong troubleshooting skills
+
+???Solid grasp and deep curiosity of industry trends in the storage and adjacent technical areas.
+
+???Knowledge of Eucalyptus, Apache CloudStack or Vmware vSphere
+
+???Must have experience managing EMC VNX and NetApp or an equivalent Storage environments
+
+???Must have experience in various deployment models of technology within a customer-facing hosted cloud; SaaS, PaaS, IaaS environment.
+
+???Must have experience designing in a cloud-based service provider environment.
+
+???Must have experience with software-defined storage technologies; Red Hat Ceph Storage or Red Hat Cluster Storage, and Distributed File System using Ceph technologies.

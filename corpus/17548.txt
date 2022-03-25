@@ -1,0 +1,62 @@
+PulsePoint Data Engineering team plays a key role in our technology company that's experiencing exponential growth. Our data pipeline processes over 80 billion impressions a day (> 20TB of data, 220 TB uncompressed). This data is used to generate reports, update budgets, and drive our optimization engines. We do all this while running against extremely tight SLAs and provide stats and reports as close to real-time as possible.
+
+The most exciting part about working at PulsePoint is the enormous potential for personal and professional growth. We are always seeking new and better tools to help us meet challenges such as adopting proven open-source technologies to make our data infrastructure more nimble, scalable and robust. Some of the cutting edge technologies we have recently implemented are Kafka, Spark Streaming, Presto, Airflow, and Kubernetes.
+
+What you'll be doing:
+Design, build and maintain reliable and scalable enterprise level distributed transactional data processing systems for scaling the existing business and supporting new business initiatives
+Optimize jobs to utilize Kafka, Hadoop, Presto, Spark Streaming and Kubernetes resources in the most efficient way
+Monitor and provide transparency into data quality across systems (accuracy, consistency, completeness, etc)
+Increase accessibility and effectiveness of data (work with analysts, data scientists, and developers to build/deploy tools and datasets that fit their use cases)
+Collaborate within a small team with diverse technology backgrounds
+Provide mentorship and guidance to junior team members
+Team Responsibilities:
+Installation, upkeep, maintenance and monitoring of Kafka, Hadoop, Presto, RDBMS
+Ingest, validate and process internal & third party data
+Create, maintain and monitor data flows in Hive, SQL and Presto for consistency, accuracy and lag time
+Maintain and enhance framework for jobs(primarily aggregate jobs in Hive)
+Create different consumers for data in Kafka using Spark Streaming for near time aggregation
+Train Developers/Analysts on tools to pull data
+Tool evaluation/selection/implementation
+Backups/Retention/High Availability/Capacity Planning
+Review/Approval - DDL for database, Hive Framework jobs and Spark Streaming to make sure they meet our standards
+24*7 On call rotation for Production support
+Technologies We Use:
+Airflow - for job scheduling
+Docker - Packaged container image with all dependencies
+Graphite/Beacon - for monitoring data flows
+Hive - SQL data warehouse layer for data in HDFS
+Impala- faster SQL layer on top of Hive
+Kafka- distributed commit log storage
+Kubernetes - Distributed cluster resource manager
+Presto - fast parallel data warehouse and data federation layer
+Spark Streaming - Near time aggregation
+SQL Server - Reliable OLTP RDBMS
+Sqoop - Import/Export data to RDBMS
+Required Skills:
+BA/BS degree in Computer science or related field
+5+ years of software engineering experience
+Knowledge and exposure to distributed production systems i.e Hadoop is a huge plus
+Knowledge and exposure to Cloud migration is a plus
+Proficiency in Linux
+Fluency in Python, Experience in Scala/Java is a huge plus
+Strong understanding of RDBMS, SQL;
+Passion for engineering and computer science around data
+Willingness to participate in 24x7 on-call rotation
+What we offer:
+401(k) Match and free access to a financial advisor
+Generous paid vacation/company holidays
+Vacation reimbursement (we give you $500 to take vacation), sabbatical, pawternity leave, marriage leave, honeymoon bonus
+Comprehensive healthcare with 100%-paid medical, vision, life & disability insurance
+$2,000 annual training and development budget
+Complimentary annual memberships to One Medical, NY Citi Bike and SF Ford GoBike
+Monthly chair massages
+Free fitness classes (spin, yoga, boxing)
+Gym reimbursement, local gym membership discounts
+Onsite flu shots, dental cleanings and vision exams
+Annual company retreat
+Paid parental leave and a lot of new parent perks
+Emergency childcare credits
+Volunteer Time Off and Donation Matching, ongoing group volunteer opportunities
+Team lunches, Sip & Social Thursdays, Game Nights, Movie Nights
+Healthy snacks and drinks
+And there's a lot more!

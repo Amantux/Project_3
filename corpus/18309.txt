@@ -1,0 +1,48 @@
+Job ID: JR0130108
+
+Job Category: Intern/Student
+
+Primary Location: Phoenix, AZ US
+
+Other Locations: US, Oregon, Hillsboro
+
+Job Type: Intern
+
+System Validation Engineer
+
+Job Description
+
+Welcome to DCG, the growth engine for Intel! In this role, you will be a self-starter and great team player in validating products providing hardware acceleration features (offloading computations from the core processor), compression and high availability for DCG's network, cloud, communications, and storage markets. We are part of the Silicon Development organization within the Data Center Group, and we're looking for a talented and passionate individual to help build our IP & Server/SoC System Validation team. We are a strong, vibrant team who define, create and develop the environment and test suites that we use to validate our PCIe/DFx, DMA Acceleration, Quick Assist (Encryption/Decryption/Compression) Acceleration and High Availability IPs providing compute offload, data integrity, redundancy capabilities in Data centers.
+As a successful System Validation intern on our team, you will be responsible for developing the methodologies we use, design & implement validation test suites with kernel or user mode driver, execute validation test plans and debug failures in Server/SoC IP's in various environment including virtual platform, FPGA/big box Emulation systems and post silicon platforms. You will also be encouraged to take a fresh look at our methods and use innovative thinking to find and apply improvements. You will be expected to work across geos and work seamlessly with all stakeholders to deliver towards successful project milestones. As part of this team you will work collaboratively with our peer SV teams, RTL hardware design, verification, FPGA Emulation, software, firmware engineers and platform teams to define and implement requirements for pre and post silicon validation throughout the product life cycle. You will be embedded within the mentioned teams to work in collaboration towards common test strategies and execution of those plans.
+
+Qualifications
+
+You must possess the below minimum qualifications to be initially considered for this position. Relevant experience can be obtained through school work, classes and project work, internships, military training, and/or work experience.
+
+Required Qualifications:
+You must be currently pursuing a MS degree in Electronics Engineering, Computer Engineering or Computer Science.
+3 + months experience with:
+Linux development, C, C++, Python or similar languages.
+Validation test methodologies and frameworks.
+
+Desired Qualifications:
+Computer architecture, Intel Chipset, and Networking or Communications protocols
+Understanding of the PCIe protocol
+Direct Pre-Si or Post-Silicon validation experience
+Experience with lab equipment (Lauterbach, protocol analyzers) with FPGA and prototyping
+Understanding of Agile process
+Strong Problem Solving skills
+Passion for debug and the value it brings to improvement.
+
+Inside this Business Group
+
+The Data Center Group (DCG) is at the heart of Intel’s transformation from a PC company to a company that runs the cloud and billions of smart, connected computing devices. The data center is the underpinning for every data-driven service, from artificial intelligence to 5G to high-performance computing, and DCG delivers the products and technologies—spanning software, processors, storage, I/O, and networking solutions—that fuel cloud, communications, enterprise, and government data centers around the world.
+
+Other Locations
+
+US, Oregon, Hillsboro
+
+Posting Statement
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, religious creed, sex, national origin, ancestry, age, physical or mental disability, medical condition, genetic information, military and veteran status, marital status, pregnancy, gender, gender expression, gender identity, sexual orientation, or any other characteristic protected by local law, regulation, or ordinance....
+USInternJR0130108Phoenix

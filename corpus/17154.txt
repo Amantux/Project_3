@@ -1,0 +1,40 @@
+Summary
+*** Remote full-time opportunity for both a Senior Data Scientist and Data Scientist ***
+
+We exist to help people achieve financial clarity. At Thrivent, we believe money is a tool, not a goal. Driven by a higher purpose at our core, we are committed to providing financial advice, investments, insurance, banking and generosity programs to help people make the most of all they’ve been given.
+
+At our heart, we are a membership-owned fraternal organization, as well as a holistic financial services organization, dedicated to serving the unique needs of our clients. We focus on their goals and priorities, guiding them toward financial choices that will help them live the life they want today—and tomorrow.
+
+Join our Business Intelligence team as the full-time Senior Data Scientist or Data Scientist! This is a great opportunity to join a small team to help share your expertise but also provides you the opportunity to grow in your career. You will be responsible for obtaining, developing and analyzing data, prove/disprove hypotheses, exploring new data sources and structures, and develop insights. You will have the opportunity to consult with internal customers to develop business requirements and provide possible solutions and approaches to their analytic needs. Your customers will include marketing, branding, underwriting, field leadership, senior business leaders and the data office. This role will require in depth understanding of financial services, big data technologies (Hadoop, Python, R), statistical modeling and be a team player with strong communication skills.
+
+In the Senior Data Scientist position you will also have the opportunity to teach/lead others in principles of predictive analytics.
+Job Description
+
+
+Job Duties and Responsibilities
+Work with stakeholders throughout the organization to identify opportunities for leveraging company data to drive business solutions.
+Mine and analyze data from company databases (structured and unstructured resources) to drive optimization and improvement of product development, marketing techniques and business strategies.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Develop custom data models and algorithms to apply to data sets.
+Use predictive modeling to increase and optimize customer experiences, revenue generation, marketing targeting and other business outcomes.
+Develop company A/B testing framework and test model quality.
+Coordinate with different functional teams to implement models and monitor outcomes.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+Job Qualifications
+Strong problem-solving skills in Financial Services, with extensive familiarization in related life, health, and investment product sets.
+Experience using statistical computer languages (R, Python, SAS, etc.) to manipulate data and draw insights from large data sets.
+Experience working with and creating data architectures, both structured and non-structured.
+Knowledge of a variety of predictive analytics and machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+3+ years of experience manipulating data sets and building statistical models. At least 7 years of experience for the Senior Data Scientist opening.
+Master’s or PHD in Statistics, Mathematics, Computer Science or equivalent experience.
+Familiar with the following software/tools:
+Coding knowledge and experience with R, Python and/or SAS.
+Statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, text mining, Support Vector Machines, Neural Networks, social network analysis, etc.
+Creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+Analyzing data from 3rd party providers: Demographic providers (Wunderman, Acxiom, Claritas), Google Analytics, and other web/social data providers.
+Distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, MySQL, etc.
+Data mapping using R, SAS, or Tableau.
+Thrivent provides Equal Employment Opportunity (EEO) without regard to race, religion, color, sex, gender identity, sexual orientation, pregnancy, national origin, age, disability, marital status, citizenship status, military or veteran status, genetic information, or any other status protected by applicable local, state, or federal law. This policy applies to all employees and job applicants.
+
+Thrivent is committed to providing reasonable accommodation to individuals with disabilities. If you need a reasonable accommodation, please let us know by sending an email to human.resources@thrivent.com or call 800-847-4836 and request Human Resources.

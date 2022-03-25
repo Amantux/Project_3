@@ -1,0 +1,53 @@
+Deepgram is looking for a user-focused Software Engineer to lead the design and implementation of Deepgram’s internal and external-facing products. You will design products ranging from our speech platform GUI, to internal labeling tools, to experimental games and tools powered by the latest deep learning technologies and implement secure, robust, and scalable customer-facing services. Your skill at building highly reusable code that overcomes technical challenges is paired with an intuition for delightful user experiences. You will be a critical voice in Deepgram’s Product and Engineering teams, driving high impact products from start to finish.
+
+Responsibilities:
+Design products ranging from our speech recognition API, to internal labeling tools, to experimental games and tools powered by the latest deep learning technologies;
+Implement secure, robust, and scalable customer-facing services
+Draw inspiration from users to identify and implement new product features.
+Collaborate cross-functionally with designers, sales, product, and marketing teams to review and improve product experiences.
+Own problems end-to-end, thinking through everything from user experience, data models, scalability, operability and ongoing metrics.
+Uphold our high engineering standards and bring consistency to the codebases, infrastructure, and processes you will encounter.
+Enjoy being a generalist — working on both the frontend, backend, and everything in between to tackle problems and delight customers.
+Skills needed:
+Deep experience with modern frontend frameworks and tooling.
+Expert proficiency in one or more front-end languages/frameworks (preferably Rust+WASM, Vue, or Elm).
+Expert proficiency in a systems language, such as C, C++, or Rust (preferably Rust), with competence in Python.
+Strong UX sensibilities and enjoy perfecting the details that matter.
+A thoughtful approach to decision making. You know when to move fast and when to do things right.
+You thrive on a faced-paced, impact-driven environment where learning new skills on-the-fly is encouraged.
+Excellent communication skills, especially when remote. Ability to work well with any role in organization.
+Proficiency in version control (preferably git).
+Proficiency with UNIX-style systems.
+Proficiency working on remote systems.
+Benefits include:
+Unlimited PTO
+Flexible schedule
+Comprehensive Medical, Dental, Vision
+Meals and snacks covered when working from the office
+Formalities:
+This is a full time, permanent remote position. Wherever you are is great! We also have an office in San Francisco, if you’re into that sort of thing.
+We work US-based timezones. You’ll need at least 4 working hours of overlap with a 9am-5pm US Central time zone.
+No visa sponsorship is available
+No recruiters, please
+About Deepgram:
+Deepgram is the fastest, most accurate, and scalable enterprise automatic speech recognition (ASR) platform. With our patented end-to-end deep learning approach, Data Scientists are able to unlock unstructured phone, meeting and conversational audio files to generate business value. Deepgram take’s the heavy lifting out of long form audio transcription, so call center agents and product organizations can focus on what they do best. Learn more at deepgram.com or sign up for a free account at missioncontrol.deepgram.com/signup.
+
+Job Type: Full-time
+
+Experience:
+C/C++: 1 year (Preferred)
+Communication Skills: 1 year (Preferred)
+Heavy Lifting: 1 year (Preferred)
+Rust: 1 year (Preferred)
+Scalability: 1 year (Preferred)
+Work Location:
+One location
+Fully Remote
+Company's website:
+deepgram.com
+Company's Facebook page:
+https://www.facebook.com/deepgram/
+Benefit Conditions:
+Only full-time employees eligible
+Work Remotely:
+Yes

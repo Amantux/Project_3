@@ -1,0 +1,77 @@
+About the Company
+
+PlaceIQ is a leading data and technology provider that powers critical business and marketing decisions with location data, analytics and insights. An early industry pioneer, PlaceIQ has become the standard for fueling better decisions by marketers, analysts and publishers through powerful, location-based consumer insights, real-world measurement and attribution.
+
+With PlaceIQ, companies can uncover opportunities within the consumer journey by learning about and connecting with location-based audiences, measuring real-world ROI and applying insights that drive intelligent marketing and successful business outcomes.
+
+The Role:
+
+PlaceIQ Data Scientists design, prototype, and test algorithms that turn hundreds of TBs of raw location data into valuable products. Our approaches include raw data mining, data visualization, creation of heuristics, and supervised / unsupervised machine learning techniques. Working with extremely large data sets requires the design and development of highly memory and cpu efficient methods. We use a mixture of commercial, open source, and home-grown solutions. Experience with horizontally scaling statistical algorithms is a plus as is familiarity with Spark and/or the Hadoop ecosystem.
+
+Our findings are built into PlaceIQ’s core products. So the technical skills we look for are a mix of computer science, problem solving, and statistics. We are a collaborative team and work closely with engineering, so we value the ability to get deep into the math behind algorithms. We also work closely with teams across the organization, so we look for the ability to communicate technical ideas to non-technical teams. This role is based at our headquarters overlooking Bryant Park in NYC.
+
+Key Responsibilities:
+
+Design and prototyping of scalable algorithms
+
+Structuring, cleansing, and assessing the quality of data for downstream processing
+
+Functional and technical documentation of analysis, findings, and prototypes
+
+Collaboration with engineering team to productionize prototypes
+
+Communication of results to teams within PlaceIQ and customers
+
+Finding creative solutions to business problems then developing them into products
+
+Owning and driving projects with minimal guidance
+
+Ways to stand out:
+
+Experience with our favorite tools - Scala, Spark, Python, AB testing, Bayesian statistics, Graphical Data Structures, Functional Programming
+
+Experience with tools we are exploring - Deep Learning, Probabilistic Graphical Models, Active Learning, Anomaly Detection, Image Classification
+
+Masters or PhD in a quantitative field
+
+Extensive background in math or statistics
+
+ 
+
+About the Company
+
+PlaceIQ is a leading data and technology provider that powers critical business and marketing decisions with location data, analytics and insights. An early industry pioneer, PlaceIQ has become the standard for fueling better decisions by marketers, analysts and publishers through powerful, location-based consumer insights, real-world measurement and attribution.
+
+With PlaceIQ, companies can uncover opportunities within the consumer journey by learning about and connecting with location-based audiences, measuring real-world ROI and applying insights that drive intelligent marketing and successful business outcomes.
+
+The Role:
+
+PlaceIQ Data Scientists design, prototype, and test algorithms that turn hundreds of TBs of raw location data into valuable products. Our approaches include raw data mining, data visualization, creation of heuristics, and supervised / unsupervised machine learning techniques. Working with extremely large data sets requires the design and development of highly memory and cpu efficient methods. We use a mixture of commercial, open source, and home-grown solutions. Experience with horizontally scaling statistical algorithms is a plus as is familiarity with Spark and/or the Hadoop ecosystem.
+
+Our findings are built into PlaceIQ’s core products. So the technical skills we look for are a mix of computer science, problem solving, and statistics. We are a collaborative team and work closely with engineering, so we value the ability to get deep into the math behind algorithms. We also work closely with teams across the organization, so we look for the ability to communicate technical ideas to non-technical teams. This role is based at our headquarters overlooking Bryant Park in NYC.
+
+Key Responsibilities:
+
+Design and prototyping of scalable algorithms
+
+Structuring, cleansing, and assessing the quality of data for downstream processing
+
+Functional and technical documentation of analysis, findings, and prototypes
+
+Collaboration with engineering team to productionize prototypes
+
+Communication of results to teams within PlaceIQ and customers
+
+Finding creative solutions to business problems then developing them into products
+
+Owning and driving projects with minimal guidance
+
+Ways to stand out:
+
+Experience with our favorite tools - Scala, Spark, Python, AB testing, Bayesian statistics, Graphical Data Structures, Functional Programming
+
+Experience with tools we are exploring - Deep Learning, Probabilistic Graphical Models, Active Learning, Anomaly Detection, Image Classification
+
+Masters or PhD in a quantitative field
+
+Extensive background in math or statistics

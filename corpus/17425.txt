@@ -1,0 +1,46 @@
+About Freestar:
+
+Freestar engineers cutting-edge monetization solutions for websites. By combining industry-leading technology, data, and massive scale, we enable busy site owners to seamlessly maximize revenue while freeing themselves of the hassles of ad operations. Publishers then have more time to do what they do best: create content.
+
+Data Engineer Job Responsibilities:
+
+Joining our data team, you will have an opportunity to learn and work with modern tools like Airflow and Druid to ensure a seamless stream of data where we need it. As we are a startup environment, you'll likely pick up some software engineering skills too, however the primary focus on the role is on data engineering. We're looking for someone who:
+Develops and maintains scalable data pipelines and builds out new API integrations to support continuing increases in data volume and complexity.
+Collaborates with analytics and business teams to improve data models that feed business intelligence tools, increasing data accessibility and fostering data-driven decision making across the organization.
+Implements processes and systems to monitor data quality, ensuring production data is always accurate and available for key stakeholders and business processes that depend on it.
+Writes unit/integration tests, contributes to engineering wiki, and documents work.
+Performs data analysis required to troubleshoot data related issues and assist in the resolution of data issues.
+Works closely with a team of frontend and backend engineers, product managers, and analysts.
+Defines company data assets (data models), SQL, Airflow to populate data models.
+Designs data integrations and data quality framework.
+Build dashboards that concisely and succinctly convey business metrics.
+Designs and evaluates open source and vendor tools for data lineage.
+Works closely with all business units and engineering teams to develop strategy for long term data platform architecture.
+Data Engineer Qualifications / Skills:
+Knowledge of best practices and IT operations in an always-up, always-available service
+Experience with or knowledge of Agile Software Development methodologies
+Excellent problem solving and troubleshooting skills
+Process oriented with great documentation skills
+Excellent oral and written communication skills with a keen sense of customer service
+Education, Experience
+Ample relevant knowledge and experience. You either have a BS or MS degree in Computer Science or a related technical field, OR certification from a data science bootcamp + 2 years of experience in a role as a data engineer
+Proficiency in Python and Java, Scala, or Go development experience
+4+ years of SQL experience (Strong SQL required)
+Familiarity with BI reporting tools like Tableau, Looker.
+4+ years of experience with schema design and dimensional data modeling
+Ability in managing and communicating data warehouse plans to internal clients
+Experience designing, building, and maintaining data processing systems
+Experience working with either a Map Reduce or an MPP system on any size/scale
+Experience/knowledge of cloud computing platforms like AWS/GCP would be a plus
+We'd also like to see:
+Excellent interpersonal and problem solving skills with the ability to communicate with team members to deliver actionable results
+Comfortable interacting across multiple teams and management levels within the organization
+Previous background in the ad tech or media landscape (linear, digital, or social) is a plus
+What you can expect in return:
+Full-Time, Salaried Position
+Medical, Dental, and Vision benefits
+401K with company match, vested immediately
+The opportunity to be part of something BIG
+Freestar is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information.
+
+This role is not eligible for visa sponsorship

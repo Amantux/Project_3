@@ -1,0 +1,35 @@
+Honey is a fast-growing startup based in Los Angeles. Our online shopping platform offers users a smarter way to shop. We open up instant access to exclusive savings, deals, rewards and discovery, all powered by the collective knowledge of Honey's community of online shoppers. We are helping millions save when they shop online, and we're hiring! We are seeking Senior Software Engineers to join our Los Angeles team to help us build and deliver excellent, user-first products via rapid iterations and peer review.
+
+We're looking for a Senior Backend Engineer to join Honey. This person will focus on Userfeed, Explore and Deal Alerts. As a Senior Backend Engineer, you'll take ownership of a complete product feature area and develop an end to end solution that is deployed into our production system. You can expect to work with a cross disciplinary team including front end engineers, backend engineers, data scientists, data engineers, quality assurance and product management to enhance existing product features and build new ones. Your contribution will help enhance the experience in which our users are notified about potential savings on relevant products.
+
+About You:
+
+If you're on the fence about whether you meet all of the requirements for this role, please apply!
+You write idiomatic JavaScript/Node.js; Golang, Java, Python, Scala, or Ruby is helpful.
+You use a modern version-control system for your source code repository (Git, Mercurial, GitHub, BitBucket)
+You lint all your code or know you should
+You know what parts of your code require tests and you write those tests
+You know how to use a framework to create robust and reliable HTTP-based APIs
+You know about continuous integration systems like Travis, Jenkins, or CircleCI (we use Circle)
+You have built monitoring and alerting for your production systems
+You have deployed to staging environments before production
+You are willing and able to deploy, troubleshoot, and maintain your systems in production
+You've architected with both SQL and NoSQL data stores; we use Big Table/HBase, Spark, Dataflow, Spanner, BigQuery, and Elasticsearch
+Experience with streaming platforms (PubSub, Kafka, Kinesis) and near-real-time data pipelines
+Comfortable building and maintaining data infrastructure in the cloud; we use GCP
+In this role, you'll:
+Design, build and operate Honey's apis with a focus on performance and reliability
+Participate in new feature development for Honey's engineers to interact with our backend data architecture
+Evaluate storage technologies and methodologies with an eye toward scalability and performance
+Architect, design, write, review, and test code in a collaborative environment with 2-5 other software engineers.
+Leverage your peers as multipliers for your skills to create excellent products and services for Honey's millions of users
+Build GraphQL-based APIs and resolvers using JavaScript
+Help to design, implement, and maintain data pipelines that process millions of messages per day
+Work closely with a project manager for your mission team on product requirements and translating those requirements to technical solutions
+Bonus Points for:
+Experience with Google Cloud Platform, CircleCI, Git, Golang, Kubernetes, Docker, Java
+Experience with a distributed SQL platform like CockroachDB or Google Spanner
+Experience with Hadoop, MapReduce, or other "Big Data" systems
+At Honey, we are committed to building a diverse and inclusive company. We seek to create a culture where everyone can belong because we believe that people do their best work when they can show up every day as their authentic selves. We welcome people of different backgrounds, experiences, abilities, and perspectives.
+
+Honey is an equal opportunity employer. We do not make hiring or employment decisions on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, veteran status, disability status or genetic information, in compliance with applicable federal, state and local law.

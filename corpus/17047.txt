@@ -1,0 +1,27 @@
+Location: Round Rock, TX
+Duration: 9 Months
+
+Looking for local candidates only.
+
+Project: Modeling Environment
+The Modeling Environment Project objective is to integrate the process, tools, and platform used by our data scientists in the Digital Marketing R&D Lab for purposes of:
+Data Acquisition (Hadoop, Spark, SQL, GreenPlum etc.)
+Data Engineering & Preparation
+Modeling & Machine learning
+Source & Version Control
+Microservice-enablement of models & delivery in Pivotal Cloud Foundry
+Lab Operations (logging, SRs, uptime, dependency management)
+Must Have (skillsets Data engineer with CS background. BS required Master’s degree ideal):
+All data scientists are:
+Using the same general tools (while different languages)
+Expert in applied Python and R
+Knowledge in Java, JavaScript
+Can easily share, reuse and operationalize the predictive models & results
+Have shared repositories, version control and security features
+Assumptions/Considerations: (like to have):
+Collaborate with the Data Science lab on tools and technologies
+Experienced with Big data sets Structured and Unstructured
+
+Regards,
+Vikas
+Vikasy@apninc.com

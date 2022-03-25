@@ -1,0 +1,18 @@
+St. Jude Childrens Research Hospital is seeking a Bioinformatics Research Scientist in Epigenetics Group in the Center for Applied Bioinformatics (CAB). CAB is a newly established center to provide centralized genomic and bioinformatic analytic services and collaborations for investigators (PIs) at St. Jude Children's Research Hospital. You will have the opportunity to work on diverse projects together with different PIs and contribute to pediatric cancer patient curation and survival, explore new methods, develop pipelines, in addition to the routine analysis tasks. We encourage you to be a first author on high profile publication with opportunities to cross-train and collaborate with the Transcriptomics and Genetics Groups in the CAB.
+
+Good candidates will have experience building, optimizing analysis pipelines using available software or installing pipelines for high-throughput next generation sequence data analysis (such as ChIP-Seq, ATAC-Seq, RNA-Seq, Hi-C/HI-CHIP/CaptureC) under Linux/Unix environment. The successful candidate is expected to have good programming skills in Bash, Python and R, have an understanding of basic epigenetics gene regulation mechanisms (e.g. Histone Modification, Chromatin Accessibility, DNA Methylation, 3D Genome). Experience with deep learning or C++ or CWL is a plus.
+
+Specific responsibilities may involve NGS data quality control, integrative analyses, data visualization, developing and evaluating analytic tools. Excellent communication skills are essential. You will work closely with St. Jude PIs to provide standardized/customized analysis, using St. Jude high performance computing clusters or cloud computing environment.
+Ph.D. in Molecular Biology, Biochemistry, Computer Science, Statistics, Mathematics, Bioinformatics or related field required
+Ph.D which must include research related to bioinformatics (such as analysis of sequence data, microarrays, SNPs, image data, proteomics data, or biological pathways; development of algorithms, statistical methods, or scientific software); OR If Ph.D with no bioinformatics research, then two (2) years of pre-or postdoctoral experience in Computational Biology or Bioinformatics research is required
+Experience with programming languages such as Perl, C, or Java required
+Benefits
+
+St. Jude has been consistently ranked in Fortune magazines 100 Best Places to Work list and is exceptionally positively reviewed on GlassDoor. Salary is highly competitive (comparable to industry) and employee benefits are outstanding. This position is located at Memphis, TN, and relocation assistance is available.
+
+St. Jude is an Equal Opportunity Employer
+
+No Search Firms:
+
+
+St. Jude Children's Research Hospital does not accept unsolicited assistance from search firms for employment opportunities. Please do not call or email. All resumes submitted by search firms to any employee or other representative at St. Jude via email, the internet or in any form and/or method without a valid written search agreement in place and approved by HR will result in no fee being paid in the event the candidate is hired by St. Jude.

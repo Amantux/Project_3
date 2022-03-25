@@ -1,0 +1,53 @@
+The Company
+
+ACTS has been a high-tech business partner and innovator for nearly two decades. Our customers are world-class enterprises and consulting organizations who span a diverse range of industries, verticals and geographies. Our deep Cloud expertise and long-standing relationships with Microsoft Field, Services and Delivery teams provide us with on-going insights and vision as Cloud Technologies evolve. ACTS is a leading Microsoft Cloud Solutions provider and Microsoft Gold Partner, recently awarded as the 2019 Microsoft US Partner Award for Intelligent Cloud - Azure Influencer, recognizing our innovative work in the areas of AI and Machine Learning.
+
+We believe technology can reshape our clients businesses. We offer every client a unique perspective on technology, so they can recognize new business opportunities and make the most of them. Our most strategic technology partner - Microsoft plays a pivotal role in our delivery of industry-disrupting, technology-driven solutions to clients.
+
+Our approach is to provide clients with technology-enabled solutions that deliver sustainable business value in areas such as application development, predictive analytics, machine learning, cloud computing, artificial intelligence, digital integration, IoT and managed services.
+
+Scope of the Job
+
+The Solution Architect Big Data role specializes in Big Data solutions with Microsoft Azure Cloud technologies, with a significant emphasis on core Azure data platform products such as Synapse Analytics and Azure DataBricks. The candidate should have a broad and deep understanding of the design and architecture of: Big Data solutions (SQL and NoSQL, batch and real-time), data pipelines and warehouses, performant and secure cloud data practices, scalable systems and Massively Parallel Processing (MPP), with extensive hands-on skills in these areas.
+
+The ideal candidate has experience regularly working directly with customers and strategic stakeholders and possesses strong technical, communication, and problem-solving skills. This candidate should be prepared to immediately become a significant expert-level architect and contributor for any phase of a data project, including Pre-sales, Discovery, Requirements, Design, Construction, and Deployment.
+
+Essential Functions
+Carefully analyze customer requests and produce innovative data solutions and a comprehensive cloud journey for the customer. Direct involvement in providing technical leadership, architectural design and diagrams, and hands-on development for data-related project aspects, which may include working directly with customers (internal or external) as a senior consultant, as well as with Business Analysts, Project Managers, and Sales associates.
+Define and implement technical roadmaps for customers to migrate or modernize their Data Estate using Azure data technologies.
+Design and develop data pipelines and transformations using Azure toolkit, such as Azure Data Factory, Apache Spark, or Polybase.
+Create DataBricks Notebooks using Scala, Python, DataFrames, SQL, R, etc.
+Construct Big Data architectures using various technologies, including Synapse Analytics (Azure SQL Data Warehouse), Azure DataBricks, and Azure Data Explorer.
+Design data models of different types, including dimensional, semantic, tabular, OLAP, OLTP.
+Demonstrate architectural leadership and guidance to other team members in areas of Azure data. Share knowledge with team members.
+Own project tasks from end-to-end through every phase of project. Communicate status.
+Provide expertise in cloud design such as selecting when IaaS or PaaS is the best solution.
+Create customer-ready project documentation, diagrams, architectural documents, pseudo-code, and any required reference materials. Be able to present materials to internal and internal customers.
+Provide timely project estimates for both time and cost to support customer proposals.
+Help to design innovative service offerings that can be packaged and repeatedly offered to multiple customers, based on core Azure design patterns.
+Provide thought-leadership for continuous improvement of internal and external project processes with regards to data.
+Learn and become certified in new Azure data technologies as required.
+Skills and Qualifications
+3+ years of experience designing and implementing enterprise Azure data solutions. These solutions should have been for the purposes of Big Data analytics, Data Warehouses, or other large-scale data systems.
+3+ years of experience with cloud relational data stores and toolsets. E.g. Azure SQL, Synapse Analytics, Analysis Services, Azure Data Factory.
+Expertise in ELT and ETL data transformation strategies, schema-on-write and schema-on-read, Lambda architecture.
+5+ years of experience with non-relational data stores and toolsets. E.g. Azure Blob, HDInsight, Data Lake, CosmosDB, Hadoop, Cloudera. Candidate should be able to design and develop a Big Data solution incorporating these technologies.
+3+ years experience with DataBricks, Delta Lake, Apache Spark Clusters.
+Strong ability to use the Azure portal in various ways such as creating new resources (e.g. VMs, SQL Databases) as well as monitoring and managing resources and services.
+Have successfully planned and migrated enterprise MSSQL database environments for the purpose of upgrade or platform migration, with a focus on cloud migrations.
+Strong written and verbal communication skills, needed to produce quality documentation as well as generate constructive and persuasive interactions with the customers and show thought leadership on Azure technologies for internal and external customers.
+Strong analytical and problem-solving skills and a passion for producing innovative solutions for complex problems.
+Strong knowledge of Business Intelligence tools such as Power BI, Tableau, Cognos, SSRS, MicroStrategy, etc. Experience in building reports and dashboards with these tools is very helpful but not critical to this position.
+8+ years MS SQL Server. Very strong SQL skills with MS SQL Server across multiple versions. Aware of how to write high-quality, well-documented SQL code using the latest features available in the SQL engine. Knowledgeable in all facets such as stored procedures, views, complex joins and queries, columnstore indexes, performance tuning.
+Demonstrated expertise in building high-availability MS SQL Server configurations.
+Hands-on expertise in well-known Big Data and data warehouse architectures and techniques such as Kimball design, normalization, slowly-changing dimensions, parquet.
+Experience designing real-time, near real-time, and batch enterprise data pipelines with complex transformations.
+Experience constructing solutions based on streaming data (e.g. Kafka, Event Hub).
+Ability to set up DevOps CI/CD pipelines for Azure Data Factory and DataBricks Notebooks.
+Expertise in cloud-native, hybrid cloud, public and private cloud data architecture design.
+Ability to troubleshoot and tune complex data workloads, queries, and pipelines in Azure data technologies.
+Strong ability to provide leadership in architecture, data governance standards, maturity assessments, best practices, and advanced problem-solving techniques with regards to Big Data and data warehouse solutions.
+Knowledge of latest Azure data science and machine learning technologies and ability to work on a data science project. Ability to design appropriate solutions in conjunction with data scientists and knowledge of data needs specific to machine learning and data science.
+Ability to use Azure automation tools such as Event Hub, Stream Analytics, Logic Apps and Azure functions to design and build data solutions, including languages such as VB or C#.
+Experience building Master Data Management systems, Hub and Spoke, and Operational Data Stores.
+Having already passed or being able to quickly pass the Microsoft DP-200 and DP-201 Exams to achieve the Azure Data Engineer Associate certification.

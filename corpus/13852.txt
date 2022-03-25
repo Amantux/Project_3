@@ -1,0 +1,26 @@
+• Be one of the first to join our rapidly growing, well-funded startup in Downtown Seattle
+• Apply Data Science best-practices to reducing the cost and ecological impact of food waste
+• Make a big contribution across our entire product in this small, passionate team
+
+At Shelf Engine, we’re harnessing the power of AI to provide real-time, intelligent forecasting for food retailers like grocery stores, food service, and cafes across the United States. We’re able to drastically reduce the amount of shrink (food waste) which in turn drives profit for retailers, lowers costs for consumers, and reduces the ecological impact of waste. We’re using technology to solve a globally-relevant problem that both creates a positive environmental impact and an exciting (and potentially massive) commercial opportunity.
+
+We are hiring a Data Scientist to join our growing Engineering and Data team. You will be spearheading projects across the organization to determine what data we collect and how, and which other sources we passively utilize to improve our day to day business processes. Your background in mathematics and business logic will directly impact the accuracy of our forecasting, striking a fine balance between reducing customers food waste, and avoiding understocking situations. Help us solve critical problems related to the following areas: time-series, demand forecasting, continuous models, feature/trend analysis, and probability distributions.
+As a Data Scientist at Shelf Engine, you will:
+Work cross-functionally (e.g. Product, Engineering, Operations, etc) to frame problems, both mathematically and within the business context; to measure and optimize products and business processes; to identify opportunities, assess risk potentials and explain trends; to drive customer adoption and revenue growth
+Own the end-to-end experience with data, including querying, aggregation, deep analysis, visualization and models; presenting findings/actionable insights to internal and external stakeholders
+Design, analyze, and run both simulated and live experiments (A/B and multivariate tests) to drive KPI improvement
+Continuously improve the quality and accessibility of our analytical capabilities and framework as well as data reporting infrastructure
+Assist in data requirements gathering and data validations to improve data platforms
+And we think you would make a great Data Scientist if you:
+Have a Masters degree in a related quantitative field (Computer Science, Math, Statistics, Engineering, Physics, Economics)
+Bring 4+ years of relevant working experience in a similar role, preferably with specific experience in the domain of time series demand or other forecasting
+Have production-level experience with data querying languages (e.g. SQL), scripting languages (e.g. Python), and statistical/mathematical programming languages (e.g. R, Matlab)
+Expertise with statistical analysis, applying various machine learning techniques, especially predictive modeling, to solve business problems
+Bring a proven ability to think creatively, solve problems, learn quickly, work independently, handle ambiguity, and adapt to change in a fast-paced environment
+Excellent written, verbal, and interpersonal communication and presentation skills
+About Us:
+At Shelf Engine, you will join a small, powerful Product team that’s hungry for change in an untapped industry. Our founders are well versed in the food industry, and have successfully built Product and Engineering teams. We’re not only solving complex technical problems at scale, but tackling key initiatives with large environmental impacts a well. We're a tight-knit and passionate team, determined to disrupt an industry with wide-ranging impact, and creating a significant commercial opportunity.
+
+We’re looking to add you - a Data Scientist who is passionate about marketplaces, demand forecasting, and reducing waste! APPLY NOW and get in early on a team that's changing food distribution for the better, or learn more about us at http://shelfengine.com
+
+Shelf Engine is an equal opportunity employer and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

@@ -1,0 +1,41 @@
+Here at Daybreak, we make great games that bring people together: to build them and to play them. Together we have built and introduced some of the most famed and beloved gaming franchises to millions of players worldwide including H1Z1®, DC Universe Online, PlanetSide®, and EverQuest®.
+
+We are obsessed with the entire creation process, and the passion for play is what makes us one with our players. From group raiding epics in Norrath to watching our favorite streamers ravage zombies in the post-apocalypse, we are devoted to delivering the ultimate gaming experience to our communities.
+
+Let's make games better together! Are you up for the challenge? Here's some specifics on what we're looking for...
+
+A Database Engineer to help us with some critical short term projects. This position has a tentative end date of March 12, 2021, but may be extended on an as needed basis.
+
+Job Overview:
+
+The Database Engineer will report to the Technical Director of the Platform group and focus on the following:
+Platform stored procedures conversion to Postgres, functionalities and unit testing, data migration
+Data Management Tool research and replacement solution, along stored procedures associated
+Data Warehouse research, replacement solution and proof of concept, including Change Data Capture solution
+
+
+Responsibilities:
+Evaluate database features and functionality
+Install, configure and upgrade database software for Oracle, Vertica, Postgres, mySQL
+Convert stored procedures from Oracle to Postgres
+Manage performance of databases; Optimize SQL queries, DBA jobs and tasks
+Plan and implement backups, database replication, HA and database recoveries
+Perform database load testing, benchmarking, capacity plans, and storage evaluations
+Utilize scripts and various tools to determine the health of servers and databases
+Play an active role in the overall infrastructure and architecture of the database landscape across Platform, Business Intelligence, and Data Warehousing
+Research and develop solutions to manage data in Postgres
+Research and develop Change Data Capture solutions suitable in a Postgres environment
+Elaborate and manage Postgres usage concepts for Platform, Business Intelligence and Data Warehousing
+Proactively manage and implement database security and keep abreast of current database security best practices.
+Requirements:
+Minimum of 6 years' experience administering Postgres and Oracle databases
+Strong foundation in database concepts such as tuning, sharding, replication, high availability
+Proficient with Linux and shell scripting language (Python, Perl, is a plus)
+Strong working knowledge of at least one replication technology (Golden Gate, master-slave, Physical Standby)
+Strong troubleshooting and monitoring skills.
+Strong knowledge and hands on experience related to mission critical backup and recovery
+Excellent verbal and written communications skills
+Solid initiative, as well as strong team skills and qualities
+Proficient with database upgrades, patches and capacity planning
+BA/BS: IS, CIS, CS, related technical degree; or equivalent applicable industry experience
+**Daybreak Games is an Equal Opportunity Employer, committed to Diversity in the workplace.**

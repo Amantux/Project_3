@@ -1,0 +1,32 @@
+Position Overview
+
+Our data science team is expanding! The successful candidate will work with the data science and engineering teams on challenging projects in a variety of domains.
+
+Beyond Limits is a pioneering Artificial Intelligence company and a satellite of NASA's Jet Propulsion Lab and Caltech. Beyond Limits cognitive computing technology combines numeric and symbolic techniques to provide advanced solutions that go far beyond conventional AI.
+
+Job Duties/Responsibilities
+Ingest, organize, and analyze data from various sources (e.g. CSV, relational database)
+Scope unstructured problems or messy data for tractable insights
+Identify candidate statistical or machine learning solutions and test their efficacy
+Communicate technical work and findings both verbally and through written reports and visualizations
+Work in a collaborative environment to brainstorm, design, implement and deliver solutions to challenging problems
+Qualifications and Skills
+5+ years of relevant industry work experience
+Excellent understanding of statistical or machine learning techniques, such as clustering, regression, time series forecasting, tree-based methods, sampling methods
+Demonstrated ability using scientific computing libraries, such as NumPy, Pandas, SciPy, Scikit-learn, Matplotlib, and Plotly
+Programming proficiency in Python or R
+Preferred Requirements
+Ph.D. or Master’s
+Strong statistical knowledge and experience with hypothesis testing
+Fluency with machine learning algorithms, such as CNN, RNN, reinforcement learning, support vector machines, and graph-based models
+Experience with TensorFlow, Keras, or PyTorch
+Experience with version control systems (e.g. Git flow)
+Strong oral and verbal communication skills
+Research experience with high impact publications
+Experience working with cross-functional teams and/or customer facing work
+About Beyond Limits
+Beyond Limits is a pioneering Artificial Intelligence engineering company creating advanced software solutions that go beyond conventional AI. Founded in 2014 with a legacy in space exploration, Beyond Limits is transforming proven technologies from Caltech and NASA’s Jet Propulsion Laboratory into advanced AI solutions, hardened to industrial strength, and put to work for forward-looking companies on earth. We leverage this unparalleled innovation portfolio, along with proprietary cognitive technologies, to help companies solve tough, complex, mission-critical problems and transform their business. We apply a unique hybrid approach to AI, combining numeric AI techniques like machine learning with higher-order symbolic AI and expert human knowledge to deliver intuitive cognitive reasoning and information. Our cognitive computing technology mimics human thought processes and provides explainable reasoning to aid human-like decision-making.
+
+Beyond Limits provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Beyond Limits complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+Beyond Limits expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status. Improper interference with the ability of Beyond Limit’s employees to perform their job duties may result in discipline up to and including discharge.

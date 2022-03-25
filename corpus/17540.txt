@@ -1,0 +1,43 @@
+Data Engineer– Performance Data Service
+
+We are seeking an experienced Data Engineer to join our Managed Data Services team and work closely with Product Management and Client Support teams to support us in the build out of our Data Management Platform and associated services. The Managed Data Services team supports the full life-cycle of data in T-REX from ingestion, to curation, normalization, and delivery. The team is responsible for ensuring the highest level of data quality, providing unique value to the T-REX platform and our clients workflows.
+
+Our ideal candidate has:
+Demonstrable experience working in data management for products in the Financial Services industry
+Experience in Structured Finance or related field
+Ability to develop, create, test, and maintain data processing pipelines
+Experience in recommending and implementing ways to improve data reliability, efficiency and quality
+Experience in managing and supporting the acquisition of client and 3rd party data
+Experience in working with clients on problem resolution
+As part of our Data team you will have an important role in the development and operations of our strategic Performance Data Service offering. You will work closely with our Product and Engineering teams to build out and continuously enhance the service and platform, while working with client development to align client requirements.
+
+Responsibilities:
+Define mapping from source documents to T-REX dictionaries, normalizing and automating the process
+Ensure our data content and platform are continually advancing, working closely with engineering and product teams
+Integrate python wrappers for API queries in the data pipeline
+Expand on and automate the data ingestion pipeline
+Provide the highest quality data for our users by continuously defining, developing and adhering to a data validation process from ingestion to end user workflows
+Ensure the efficiency and effectiveness of our data management capabilities and processes are world class and always improving
+Provide client support and resolve client requests as they relate to our data service
+Establish and maintain excellent relationships with data sourcing and integration partners
+Skills & Qualifications
+
+Required:
+3+ years of Data Engineering experience
+Proficient in Python and Querying languages
+Experience working with APIs
+Experience working in Financial markets
+Exceptional written and verbal communication skills
+Preferred:
+Experience working with Structured Finance products and/or in the Structured Finance industry or related field
+Experience working with AWS Textract, Xtractor, IvyTools, PdfToText and similar toolsets
+What it’s like working at T-REX:
+You’re going to be challenged: Building an inter-disciplinary SaaS platform that combines deep knowledge from both the financial and technology industries isn’t easy!
+You’re going to make an impact: T-REX offers you the opportunity to have a deep impact our growth, product and team.
+You’re an asset we’re going to invest in: We believe in investing in our people so we have generous tuition reimbursement and wherever we can we promote from within.
+You’re going to have fun: You’ll get to work with a team of diverse people; we’re an international team who loves everything from boardgames, Pi Day baking competitions and T-REX Trivia Nights
+T-REX - People Hiring People:
+
+At T-REX, we are committed to equal employment opportunity regardless of race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression. We are proud of our diversity and strive to reflect to society we are a part of. T-REX is a team of people who love to put in good work and have fun together.
+
+Join us on our mission to Empower Efficient Finance and have fun doing it!

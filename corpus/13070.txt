@@ -1,0 +1,36 @@
+Secure our Nation, Ignite your Future
+
+Job Summary
+
+Each day U.S. Customs and Border Protection (CBP) oversees the massive flow of people, capital, and products that enter and depart the United States via air, land, sea, and cyberspace. The volume and complexity of both physical and virtual border crossings require the application of solutions to promote efficient trade and travel. Further, effective solutions help CBP ensure the movement of people, capital, and products is legal, safe, and secure.
+
+In response to this challenge, ManTech, as a trusted mission partner of CBP, seeks capable, qualified, and versatile Senior Data Scientist to help lead the development and delivery of high-quality predictive modelling solutions. Successful applicants will serve as recognized subject matter experts in the application of quantitative methods, machine learning algorithms, and predictive models to address complex national and homeland security challenges. They will help our team to leverage large structured and unstructured datasets to develop and operationalize models, tools, and applications that drive optimized decision making. Project tasks include data collection, mining, data and text analytics, clustering analysis, pattern recognition and extraction, automated classification and categorization, and entity resolution to implement and enhance automated risk assessment. The products we develop provide actionable insight with real and immediate impact on the safety and security of the United States, its citizens, visitors, and economy.
+
+Required Qualifications
+Experience in developing machine learning models and applying advanced analytics solutions to solve complex business problems
+Experience with programming languages including: R, Python, Scala, Java
+Proficiency with SQL programming
+Experience constructing and executing queries to extract data in support of EDA and model development
+Proficiency with statistical software packages including: SAS, SPSS Modeler, R, WEKA, or equivalent
+Experience with unsupervised and supervised machine learning techniques and methods
+Experience working with large-scale (e.g., terabyte and petabyte) unstructured and structured data sets and databases
+Experience performing data mining, analysis, and training set construction
+Bachelors Degree (required) or Masters Degree in mathematics, statistics, computer science/engineering, or other related technical fields with equivalent practical experience
+Desired Skills:
+Proficiency with Unsupervised Machine Learning methods including Cluster Analysis (e.g., K-means, K-nearest Neighbor, Hierarchical, Deep Belief Networks, Principal Component Analysis), Segmentation, etc.
+Proficiency with Supervised Machine Learning methods including Decision Trees, Support Vector Machines, Logistic Regression, Random/Rotation Forests, Categorization/Classification, Neural Nets, Bayesian Networks, etc.
+Experience with pattern recognition and extraction, automated classification, categorization, and entity resolution (e.g., record linking, named-entity matching, deduplication/ disambiguation).
+Experience with visualization tools and techniques (e.g., Periscope, Business Objects, D3, ggplot, Tableau, SAS Visual Analytics, PowerBI)
+Experience with big data technologies (e.g., Hadoop, HIVE, HDFS, HBase, MapReduce, Spark, Kafka, Sqoop)
+Active Top Secret Clearance
+Clearance
+
+Applicants selected must be a US Citizen and able to obtain and maintain a U.S. Customs and Border Protection (CBP) Background Investigation.
+
+#LI-FA1
+
+ManTech International Corporation, as well as its subsidiaries proactively fulfills its role as an equal opportunity employer. We do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a Disabled Veteran, Recently Separated Veteran, Active Duty Wartime or Campaign Badge Veteran, Armed Forces Services Medal, or any other characteristic protected by law.
+
+If you require a reasonable accommodation to apply for a position with ManTech through its online applicant system, please contact ManTech's Corporate EEO Department at (703) 218-6000. ManTech is an affirmative action/equal opportunity employer - minorities, females, disabled and protected veterans are urged to apply. ManTech's utilization of any external recruitment or job placement agency is predicated upon its full compliance with our equal opportunity/affirmative action policies. ManTech does not accept resumes from unsolicited recruiting firms. We pay no fees for unsolicited services.
+
+If you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access http://www.mantech.com/careers/Pages/careers.aspx as a result of your disability. To request an accommodation please click careers@mantech.com and provide your name and contact information.

@@ -1,0 +1,53 @@
+Have you ever tried to hire a plumber? How about a house cleaner? If you have, chances are it took you way longer than it should. In the era of instant-everything, it's crazy that you still have to waste an entire afternoon researching, calling and vetting local service professionals whenever you need one. The market for hiring them is huge — $1 trillion in the US alone — but the process is inefficient and largely offline.
+
+Thumbtack is transforming this experience end-to-end, building a marketplace that matches millions of people with local pros for almost any project. In making these connections, not only do our customers get more done every day, our pros are able to grow their businesses and make a living doing what they're great at.
+
+These customers and pros come from all walks of life and every zip code in the country. We want our team to reflect that. If you come from an underrepresented background in tech, we strongly encourage you to apply. We challenge ourselves every day to make this a place where you can thrive just the way you are, so we can build a product that does the same for our customers and pros.
+
+About the Data Science Team
+
+
+We're looking for data scientists with deep expertise in statistics, machine learning, optimization, and/or building data products. Our process gives you full ownership over the projects you tackle, so you should be a person who dreams big, then executes well.
+
+At Thumbtack, the Data Science team is responsible for a wide variety of problems spanning statistics, machine learning, and computer science:
+Characterize marketplace dynamics. Thumbtack's marketplaces are comprised of thousands of active markets across our service categories and U.S. cities. Via exploratory data analysis and experimental design, our team works to understand trends and behaviors within these markets.
+Improve customer and service provider matching. Matching and optimization algorithms are fundamental to Thumbtack's product: we now service millions of matches per week. Identifying better matches between customers and service providers has an incredible impact on the experience of customers and pros transacting on our platform.
+Model complex relationships in the presence of many confounding factors. Predictive modeling problems are everywhere across our product. Our team works to scope, design and implement machine learning models to support Thumbtack's product.
+Responsibilities
+Design and execute experiments, collect and analyze data to characterize our product
+Architect and deploy machine learning systems to production
+Design and implement metrics that align with company goals
+Analyze a wide variety of data: structured and unstructured, observational and experimental
+Advise engineering and product teams on sound statistical practices
+Must-Have Qualifications
+
+
+If you don't think you meet all of the criteria below but still are interested in the job, please apply. Nobody checks every box, and we're looking for someone excited to join the team.
+M.S. or equivalent experience in Computer Science, Engineering, Statistics, or other relevant technical field
+Expert knowledge of machine learning concepts: regression and classification, clustering, feature selection, curse of dimensionality, bias-variance tradeoff, neural networks, SVMs, etc.
+Knowledge of a programming languages such as Python
+Good knowledge of probability and statistics, including experimental design, predictive modeling, optimization, and causal inference
+Excellent written and verbal technical communication skills
+Familiarity with a scripting language and/or shell scripting
+Nice-to-Have Qualifications
+Ph.D. in Computer Science, Engineering, or Statistics
+Experience with large-scale distributed systems
+Experience with tools in the Hadoop ecosystem such Hive, Pig, or Spark
+More About Us
+
+
+Thumbtack is a local services marketplace – one of the largest in the U.S. – that helps millions of people hire local professionals. With hundreds of unique service categories, customers can find a Thumbtack pro for almost anything: landscapers, DJs, personal trainers, even piano teachers. And in making these connections, we empower local pros too. Helping them get new customers and make a living doing what they're great at.
+
+Founded in 2008 and headquartered in San Francisco, Thumbtack is backed by over $400 million in investment from Sequoia Capital, CapitalG, Tiger Global Management, Javelin Investment Partners and Baillie Gifford.
+See what it's like to work here
+Meet the pros who inspire us
+Engineers on a mission
+Follow us on LinkedIn
+Thumbtack embraces diversity. We are proud to be an equal opportunity workplace and do not discriminate on the basis of sex, race, color, age, sexual orientation, gender identity, religion, national origin, citizenship, marital status, veteran status, or disability status. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+The California Consumer Privacy Policy Act (the "CCPA") obligates covered businesses to disclose to consumers (including employees and job applicants), at or before the point of collecting personally identifiable information ("PII"), the categories of PI to be collected and the purposes for which the categories of PI shall be used.
+
+In the course of the job application process, we may collect the following categories of PI for the purposes of evaluating you as a job applicant:
+Identifiers such as a real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, driver's license number, passport number, social security number, or other similar identifiers;
+Professional or employment-related information.
+We will not collect any additional categories of personal information or use your personal information collected for any other purpose without providing you with additional notice consistent with the CCPA.

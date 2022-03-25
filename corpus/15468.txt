@@ -1,0 +1,30 @@
+Incyte is a biopharmaceutical company focused on the discovery, development, and commercialization of novel medicines to meet serious unmet medical needs in oncology and inflammation and autoimmunity. Incyte is committed to the rigorous pursuit of research and development excellence to improve the lives of patients, make a difference in health care, and build sustainable value.
+
+The Company strives to discover and develop first-in-class and best-in-class medicines-advancing a diverse portfolio of large and small molecules.
+
+Job Summary (Primary function)
+
+The Data Scientist, Business Information Services supports Incyte's US Business Unit, which is comprised of the commercial sales/marketing and medical affairs departments. The Data Scientist participates in the development of advanced analytics solutions for Commercial Operations, Field Sales, Medical Affairs, and other consumers across the organization. This role executes and delivers machine learning-based projects to the organization.
+
+Essential Functions of the Job (Key responsibilities)
+Contribute to an emerging data science practice focusing on problem analysis, data exploration and preparation, data collection and integration, machine learning, and operationalization.
+Develop statistical and machine learning models for POC and production-ready applications using RapidMiner, R, and Python.
+Partner with key stakeholders in the US Business Unit and effectively elicit and develop business needs into machine learning solutions.
+Articulate real-world advantages or drawbacks of recommended approaches to business users.
+Share technical solutions and product ideas with the team through design review, pair programming, code/model reviews, and tech talks.
+Conduct exploratory analysis of new datasets, produce descriptive statistics, explain phenomena based on data, and develop data engineering opportunities for integration.
+Daily use of one or more of the following commercial/open-source data discovery/analysis platforms: Jupyter Notebook, RStudio, RapidMiner, Microsoft Azure, and neo4j.
+Qualifications (Minimal acceptable level of education, work experience, and competency)
+Bachelor's degree required in data science, computer science, mathematics or relevant data science field; advanced degree preferred but not required.
+Minimum 3 - 5 years of relevant project experience in successfully contributing to and/or executing data science projects. Industry experience preferred within the business domains of customer behavior prediction, customer journey analytics, marketing analytics, and/or social network analysis.
+Proven coding knowledge and proficiency in at least one of the following languages: R, Python, SAS, MATLAB.
+Strong SQL skills and experience with relational databases required; experience with graph databases and Cypher preferred but not required.
+Basic to substantial experience in building solutions utilizing text analytics, customer journey analytics, marketing analytics, and recommendation engines.
+Knowledge and experience in statistical and data mining techniques: hierarchical clustering, network analysis, regression, random forest, text mining, NLP, and data visualization.
+Disclaimer: The above statements are intended to describe the general nature and level of work performed by employees assigned to this job. They are not intended to be an exhaustive list of all duties, responsibilities, and qualifications. Management reserves the right to change or modify such duties as required.
+
+Incyte Corporation is committed to creating a diverse environment and is proud to be an equal opportunity employer.
+
+We Respect Your Privacy
+
+Learn more at:

@@ -1,0 +1,14 @@
+Job Description
+Outcomes
+Identify and surface significant trends and insights in high-impact BI products aimed at internal, customer, and partner audiences.
+Empower internal teams with:
+Data transformations and ETL pipelines to support downstream analytics and data needs
+Forecasts on which to base compensation targets, financial planning, and prioritization
+Rich, interactive data visualization tools to assist in self-service analytics
+Customer-facing analytics and data products
+Competencies
+Proficiency creating ETL & analytics products in Python (It would be useful to have experience in: NumPy, Pandas, psycopg2 or other SQL interface, a visualization library of your choice, and scikit-learn, as well as practical experience managing a data warehouse)
+Strong SQL skills (We currently uses PostgreSQL & Redshift)
+Ability to design an efficient data model for use within modern BI tools (We use Qlik Sense internally)
+Understanding of applied statistics & common modelling techniques in a business context
+Possess strong business insight and appreciation of the challenges facing growing businesses.

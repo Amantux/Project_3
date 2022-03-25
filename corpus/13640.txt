@@ -1,0 +1,83 @@
+Data Scientist
+
+Data Scientist, Research & Development
+
+Reports to: VP, Product Development and Data Science
+
+Location: Boston, MA
+
+Comlinkdata is seeking a highly analytical candidate to join our team as a Data Scientist on the Research and Development (R&D) team. The R&D team conducts early stage research to prioritize new product concepts, manages the short term product pipeline by taking products and features to at least a proof of concept stage, and identifies and integrates external data to compliment and enrich our existing proprietary data.
+
+The Data Scientist will support the R&D team with their strong business acumen and ability to develop data product prototypes. Strong communication and experience collaborating across multiple teams is a must. They should enjoy working with complex problems and use a broad range of analytical techniques to creatively tackle new questions and issues as they arise.
+
+Responsibilities:
+
+Including but not limited to:
+
+Define Customer Needs and Pursue Solutions
+Collaborate with Client Analytics & Insights team to understand our clients’ needs
+Break down complex problems into discrete issues and determine which ones to prioritize and pursue
+Collect, Clean and Set-up Data
+Evaluate external data sources for usefulness, reliability and ease of integration
+Wrangle structured and unstructured data from diverse sources into a standardized form
+Play with the data until it breaks and surface issues before it gets to the client or client teams
+Analyze and Visualize Data
+Design and conduct comparative analyses of large complex datasets to determine next steps
+Summarize analysis using a wide range of data visualization techniques to determine the types of insights derived from the product and data limitations
+Prototype new ways of visualizing and interacting with our data
+Develop and deploy machine learning and statistical models
+Use understanding of the underlying data and business objectives to optimize feature engineering for input data
+Design and train models (current priority applications are in pattern similarity detection, but there are a wide range of potential product use cases)
+Work with engineering team to deploy machine learning algorithms into production environment
+Communicate Insights
+Draw relevant conclusions from analysis and make recommendations based on how these conclusions impact new and existing products
+Document data definitions to be embedded in new products and business rules for analysis of these new data
+Work with internal teams (product development, client services, data operations) to translate analytical findings and model prototypes into product requirements and insights for clients
+Candidate Profile
+
+Required Skills
+At least 3 years of relevant work experience. Please note that we are interested in strong candidates of all experience levels. Title and salary will be commensurate with experience.
+Applied experience with Machine learning algorithms (classification, clustering, optimization) beyond just tinkering, or classroom
+Real world experience with Spark (SQL + MLlib): querying, manipulating and analyzing large (100+ TB) data sets, plus using ML models (Scala preferred, but Python/R/Java still useful)
+Strong toolkit of quantitative and qualitative analytical techniques rooted in business, economic and statistical analysis
+Examples of business analysis include: market competitiveness, financial analysis, social media monitoring
+Examples of statistical analysis include: linear regression, logistic regression, non-parametric statistics, probabilistic modelling, spatial modeling
+Passionate about telling stories using data
+Desire to get hands dirty working with data every day, balanced with ability to surface insights that shape new products
+Proficient with Microsoft Excel and PowerPoint, or able to generate compatible outputs using other tools, e.g. csv files
+Some experience with statistical packages (e.g. R, Python stats libraries, SPSS, SAS, STATA)
+Desired Skills
+Experience with largescale geospatial data
+Experience with AWS suite of tools for data analysis, data management and ETL processes: EMR, s3, aws cli
+Proficiency with Hive and SQL a significant plus
+Telecoms industry expertise a plus
+Some experience with data visualization tools desirable (e.g. Tableau, Qlik, Spotfire)
+Please submit a cover letter along with your resume to joinus@comlinkdata.com.
+
+1. Explain why you are interested in working for Comlinkdata and the specific role.
+
+2. Describe one relevant project where you used data to create actionable business insights or a data-driven product
+
+At this time, Comlinkdata will not sponsor a new applicant for employment sponsorship for this position.
+
+About Comlinkdata
+
+Comlinkdata is the leading provider of telecom market data and insights. We provide clients with unique, real-time, query ready data that is combined with our analysts’ telecom expertise. At Comlinkdata, we help you make data-driven business decisions with confidence. Our data and insights provide you with the tools you need to analyze and optimize your business strategy ranging from decisions based on network investments, to pricing to market positioning.
+
+Comlinkdata is headquartered in Boston. For more information, visit our website at Comlinkdata.com and follow us on Twitter (@Comlinkdata) or LinkedIn: Comlinkdata.
+
+Related Jobs
+
+Data Analyst
+
+Data Scientist
+
+Analyst, Research & Development
+
+Quality Assurance Specialist
+
+Business Analyst, Client Analytics & Insights
+
+Manager, Client Analytics & Insights
+
+Director, Client Analytics & Insights

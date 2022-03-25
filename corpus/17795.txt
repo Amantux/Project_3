@@ -1,0 +1,28 @@
+About Akuna:
+
+Akuna Capital is an innovative trading firm with a strong focus on collaboration, cutting-edge technology, data driven solutions and automation. We specialize in providing liquidity as an options market-maker – meaning we are committed to providing competitive quotes that we are willing to both buy and sell. To do this successfully we design and implement our own low latency technologies, trading strategies and mathematical models.
+
+Our Founding Partners, including Akuna's CEO Andrew Killion, first conceptualized Akuna in their hometown of Sydney. They opened the firm's first office in 2011 in the heart of the derivatives industry and the options capital of the world – Chicago. Today, Akuna is proud to operate from additional offices in Sydney, Shanghai, and Boston.
+
+What you'll do as a Trading Application Support Engineer at Akuna:
+
+We are seeking a Trading Application Support Engineer to join our growing team at Akuna Capital. The Trade Support team is responsible for monitoring, managing and supporting our global production trading systems. Your work will range from handling time-sensitive production issues to driving forward longer-term projects, such as automation initiatives and major platform changes. You'll work closely with Trading, Development and Infrastructure teams at Akuna, as well as with external counterparties and vendors. In this role, you will:
+Provide best-in-class operational support to ensure the stability and high availability of our production trading platform
+Troubleshoot production incidents and outages resulting from internal (proprietary trading system components) or external factors (exchanges, market data feeds, network outages)
+Provide hands-on support to our trading desks on a daily basis
+Build automation to configure, manage, and continuously monitor our trading systems
+Own the production deployment and configuration process, and continue to evolve towards higher levels of excellence surrounding change management
+Identify new ways to improve operations and define new solutions to solve technical or business issues that impact Akuna's trading platform
+Support our diverse presence across markets, interacting with various exchanges regarding our trading activity, connectivity, and other technical support issues
+Qualities that make great candidates:
+3+ years of experience using Linux
+Experience working in the trading industry supporting electronic trading systems is ideal
+Excellent troubleshooting and problem-solving skills
+Python or shell scripting experience, especially to help automate repetitive tasks
+Intellectually curious individual, eager to learn and apply new concepts quickly
+High level of ownership and accountability
+Ability to make sound decisions in a fast-paced, high-pressure environment
+Highly collaborative team player with the ability to build relationships with multiple teams
+Experience in configuration management and Configuration-as-Code paradigms (e.g. Chef, Puppet, Ansible, Terraform) is a benefit
+Solid fundamental understanding of Infrastructure concepts such as: compute (different OS environments, virtualization, containers), networking (TCP, UDP, DNS, HTTP), and storage (object/block/file, NFS)
+Available to join an on-call rotation and work outside of core business hours or on weekends

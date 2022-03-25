@@ -1,0 +1,39 @@
+Machine Learning Engineer, Signal Processing
+
+Location: Torrance, CA
+
+Our Client is changing the way people think about water. In the U.S leaks contribute to nearly 13% of total water usage and can cost thousands of dollars in repairs. Most of these leaks remain undetected for a long time because it’s an invisible problem that is hidden behind the walls or underground. But what if it could become more visible? They believe that creating the tools to bring issues to light before they start is the key to protecting your home, conserving water, saving money and, just maybe, saving the planet.
+
+They are preparing to launch and need an experienced Machine Learning Engineer focused on Signal Processing who is passionate about building ML algorithms to solve these very important problems and see its impact across thousands of homes across the U.S.
+
+Here’s what you will do:
+
+• Own it: You will be responsible for deducing the critical events and features of rich time series sensor signals required to create powerful ML algorithms.
+
+• Design and develop it: You will design and build ML algorithms that translate the detected events and features into actionable end-user feedback.
+
+• Test it: You will verify your algorithms by running tests on data from real-world deployments. Your testing will be thorough and innovative, and help guide the next iteration of testing.
+
+• Improve it: You will incorporate feedback from Marketing, Engineering, and Operations to optimize the final product.
+
+How do we know that’s you? You have:
+
+• A Master of Science degree or a Doctoral degree with applied machine learning and signal processing experience, in Electrical Engineering, Computer Science, Applied Mathematics or any relevant field. Rank based on experience.
+
+• Developed organized, easy to read, and modifiable software source code for machine learning algorithms with emphasis on signal processing, feature extraction, time series analysis, and statistical modeling.
+
+• Experience programming in Python and/or MATLAB. Knowledge of low-level languages such as C/C++ is a plus.
+
+• Experience with one or more of the following machine learning techniques DNNs, Reinforcement Learning, Zero/One-shot learning.
+
+• Worked closely with subject matter experts and statisticians to drive deep analysis.
+
+• The ability to identify risks and understand how to approach and complete tasks, avoiding serious delays and considerable expenditure of time and resources.
+
+• Contributed ideas and/or concepts that support the generation of intellectual property or published papers.
+
+• Familiarity with cloud technologies such as AWS.
+
+• Familiarity with source control and code management tools such as Git and SVN.
+
+• Hands-on experience with GPUs a plus.

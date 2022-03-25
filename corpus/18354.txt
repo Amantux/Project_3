@@ -1,0 +1,26 @@
+Job Description
+The Data Science and Engineering team is acquiring, studying, simulating, and modeling to enable data as a key driver and core functional component toward better understanding, predicting, and dynamically optimizing the access network to improve overall user experience. Success in this role is best enabled by a broad mix of skills and interests ranging from traditional distributed systems software engineering prowess to the multidisciplinary field of data science.
+
+What you will will be doing as a Data Engineer:
+Developing large scale data pipelines exposing data sources within our team of data analysts and data scientists.
+Heavy Python programming involved in the day-to-day, must be able to hit the ground running with strong Python experience.
+Utilizing AWS lambda and API Gateway.
+Developing Spark streaming and batch jobs to clean and transform data.
+Writing build automation to deploy and manage cloud resources.
+Writing unit and integration tests.
+What you will bring to the table as a Data Engineer:
+Strong development experience coding in Python - a Python coding challenge will be given in the interview.
+Experience transferring data using queries and working inside an Oracle database
+Hands-on experience with AWS, specifically Lambda, and Neptune
+Experience with Cloud Computing
+Nice to have: experience with Kinesis, Kafka, Spark, and Redis
+
+Company Description
+NextGeners are Connectors.
+We thrive on ‘quality over quantity’ and put in the work building strong relationships. We create connections, discover qualities, uncover skills, and place people with accuracy. We are your true partner!
+
+NextGeners are Collaborators.
+You’ll be working with an award-winning company that gives you direct connections to hiring managers. Our services don’t stop at the standard recruiting process. We use our expertise to tailor your resume, help improve your interview skills and provide ongoing career support.
+
+NextGeners give 24/7 Support.
+We are in this together. We provide around the clock availability, competitive employee benefits, and continuously check-in to make sure things are going smoothly. Check out our Glassdoor page!

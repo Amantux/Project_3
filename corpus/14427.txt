@@ -1,0 +1,37 @@
+Develops and maintains scalable cloud-based ingress and egress data pipelines
+Support continuing increases in data volume and complexity
+Collaborates with team’s analytics members to improve data models that feed business intelligence tools, increasing data accessibility and fostering data-driven decision making across the organization
+Implements processes and systems to monitor data quality, ensuring production data is always accurate and available for key stakeholders and business processes that depend on it
+Writes unit/integration tests, contribute to engineering wiki, and documents work
+Performs data integrity tasks required to troubleshoot data-related issues and assist in the resolution of data issues
+Design data integrations and data quality framework
+Contribute to the continuing technology stacks advancements in a leadership level
+Works closely with engineering clients/partners to develop strategies for long term data platform architecture
+Qualifications / Skills:
+Knowledge of Microsoft Azure-based ETL best practices and IT operations in an always-up, always-available service
+Experience with or knowledge of Agile Software Development methodologies
+Excellent problem solving and troubleshooting skills
+Process-oriented with great documentation skills
+Excellent oral and written communication skills with a keen sense of customer service
+Experience Requirements:
+BS or MS degree in Computer Science or a related technical field
+4+ years of Python or Java development experience
+4+ years of SQL experience, specifically in sparkSQL and hiveSQL
+4+ years of experience with schema design and dimensional data modeling
+2+ years of DataBricks or equivalent spark development using scala or python
+2+ years of Apache Data Frames in Microsoft Azure data blob, Databricks Delta Lake experience preferred.
+2+ years of experience designing, building, and maintaining ETL systems
+Experience of Azure Function Apps, Event Hub and TomCat Servers
+Experience of supporting Microsoft SQL and MySQL
+Experience of Kafka, Oracle, Splunk, Google Analytics, Apple Store data interface
+Experience of developing JDBC and ODBC connection
+Experience of developing REST API interface
+#LI-AS
+
+NortonLifeLock is proud to be an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive and accessible environment for all employees. All employment decisions are based on merit, experience, and business needs, without regard to race, color, national origin, age, religion, sex, pregnancy (including childbirth or related medical conditions), genetic information, disability (physical or mental), medical condition, marital status, sexual orientation, gender identity or gender expression, military or veteran status, or any other consideration made unlawful by federal, state, or local law. NortonLifeLock strictly prohibits unlawful discrimination based on such protected characteristics and seeks to recruit the most talented candidates from diverse cultures and backgrounds.
+
+We also consider for employment qualified individuals with arrest and conviction records. In addition, NortonLifeLock will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Learn more about pay transparency.
+
+EEO is the law. Applicants and employees of NortonLifeLock Inc. are protected under Federal law from discrimination. See the EEO poster and supplement.
+
+Apply

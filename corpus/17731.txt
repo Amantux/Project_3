@@ -1,0 +1,49 @@
+Data Engineer - City Solution's
+
+Who Is Bird?
+
+At Bird, we're on a mission to make cities more livable by reducing traffic and carbon emissions with an affordable, convenient, and eco-friendly transportation option. We planted roots in Los Angeles, California. Now, our fleet of electric scooters is available to riders in cities around the world for short trips or the "last mile" of their journey. In our first year, Bird launched in over 100 cities and provided over 10 million rides. And we're only just getting started.
+
+Who are you?
+
+You are an experienced data engineer looking to tackle some of the most challenging technical problems impacting the world of micro-mobility. You enjoy solving complex data problems and working closely with cross-functional teams, including Product, Data, and Ops.
+
+You will be working on scaling and supporting our core data pipeline, stream processing, and backend services that are the backbone of Bird's success.
+
+Responsibilities
+Design, develop, and maintain large scale data processing systems
+Develop and maintain core data pipeline
+Create, develop, and support technical infrastructure
+Build APIs and design documents
+Work closely with various business partners (Product, Firmware team, UI/UX)
+Lead architecture design
+Requirements
+Bachelor's degree in Computer Science or related technical discipline
+3+ years of engineering experience
+2+ years of experience with real-time streaming and data-processing frameworks using Flink, Spark, Hadoop, MapReduce, or similar technologies
+2+ years of experience building data pipelines using Kafka or similar technologies
+Preferred Qualifications
+Experience in Java, Kotlin, JVM based languages (Scala, Clojure, Groovy, JRuby)
+SQL experience (Postgresql is a plus)
+Distributed computing experience
+Excellent understanding of computer science fundamentals, data structures, and algorithms
+Expertise in object-oriented design methodology and large-scale application development in an object-oriented language
+Understanding of distributed systems and service-oriented architecture
+Technology we're working with:
+Flink
+Hadoop
+Kafka
+Redis
+Culture at Bird
+
+We're an ambitious, smart, and open-minded group. Our employees are passionate about our mission, and eager to complete their work at the highest level. The office itself is up tempo and supportive, because we care about each other. People first, people.
+
+Perks up
+
+We want people to succeed at Bird, so we give our teams plenty of time off to relax and recharge. We also offer generous employer-paid healthcare coverage, on-demand doctor visits, childcare support, a pre-tax commuter account for mass transit or parking, a wellness stipend, and more.
+
+Bird is the world
+
+Bird stands for a culture of inclusion. We celebrate different backgrounds, experiences, and perspectives encouraging everyone to bring their authentic selves to work. We have a diverse environment that empowers our team to feel comfortable when they voice their opinions. For these reasons and more, Bird is a proud equal employment opportunity employer. We welcome everyone regardless of their race, color, religion, sex, national origin, age, disability, veteran status, or genetics, and we are dedicated to providing an inclusive, open, and diverse work environment.
+
+Sound like a place you'd like to work? Sweet. Let's chat.

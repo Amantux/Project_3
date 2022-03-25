@@ -1,0 +1,67 @@
+Consumer Insight, Measurement & Analytics (CIMA) is part of the Global Marketing & Sales organization within Disney Parks, Experiences & Products (DPEP). CIMA influences decision making with integrated, objective, and actionable insights.
+
+Within CIMA, the Strategic Analytics team is seeking a Data Scientist to support Consumer Products (CP), the division of DPEP that brings stories and characters to life through innovative and engaging physical products and digital experiences across more than 100 categories, from toys and t-shirts, to apps, books and console games.
+
+In this role the Data Scientist will leverage multiple statistical and machine learning methodologies to influence decisions and action planning, with focus on media mix modeling, LTV, and model development for segmentation and targeting customers.
+
+The position reports to the Senior Manager, Strategic Analytics and will be based in Glendale, CA.
+
+Responsibilities :
+
+Reframe business objectives and questions as statistical and analytics tasks that can deliver actionable insights, create accurate predictions, and drive effective optimization
+
+Process, cleanse, validate and integrate data from different sources for reporting, analyses, model building and data visualization
+
+Build predictive models and algorithms to effectively measure and optimize business performance, including media mix and LTV models, and models for customer segmentation and targeting, including churn and propensity models
+
+Collaborate with data engineers to build data pipelines that drive downstream workflow
+
+Analyze large and complex consumer behavior data to identify patterns and uncover opportunities related to how guests are interacting with shopDisney.com, Disney Stores, and retail subscription businesses
+
+Develop and deliver action-oriented, insightful analytic presentations that provide consultative direction to key stakeholders
+
+Monitor trends in data science and alternative sources to ensure the use of best in class tools and techniques
+
+Basic Qualifications :
+
+Bachelor’s degree in data science, applied mathematics, statistics, business analytics, economics, computer science, engineering
+
+4+ years of professional data science/analytical experience
+
+4+ years of professional experience using data-building and statistical programming languages: SAS, Python, R, SQL, etc.
+
+Practical experience and expertise in applied statistics and data science methodologies (general advanced data modeling and predictive analytics e.g., multi-variate regression analysis, machine learning, forecasting, Bayesian estimation)
+
+Experience with data exploration utilizing data visualization tools (e.g. Tableau, PowerBI, Pandas, ggplot2, Plotly)
+
+Ability to think strategically, including interpreting market and consumer information
+
+Strong communication skills
+
+Ability to simplify highly complex analyses into terms that are easily accessible and impactful for both written and verbal formats
+
+Demonstrated ability to present data science results and actionable recommendations to business and technical clients
+
+Intellectually curious, analytically rigorous, hard-working, good work ethic and an on-point business intuition
+
+Preferred Qualifications:
+
+Master’s or PhD degree in data science, applied mathematics, computer science, engineering, statistics, business analytics, or economics
+
+Experience in media mix modeling, lifetime value analysis, and segmentation strongly preferred
+
+Experience in consumer products, retail, publishing, or digital products strongly preferred
+
+Prior knowledge of internal Disney data and databases
+
+Experience creating and delivering analytic widgets, such as R-Shiny apps
+
+Knowledge and professional application of machine learning algorithms (SVM, Random Forest, Naive Bayes, KNN, etc.) and modern deep learning techniques (PyTorch, Keras/Tensorflow) is a plus
+
+Required Education :
+
+Bachelor’s degree in data science, applied mathematics, statistics, business analytics, economics, computer science, engineering
+
+Preferred Education :
+
+Master’s or PhD degree in data science, applied mathematics, computer science, engineering, statistics, business analytics, or economics

@@ -1,0 +1,45 @@
+Who is Jornaya?
+
+
+At Jornaya, we believe in using innovative technology and data that empowers companies to connect with their customers and prospects at the right time and in the most meaningful way. We take pride in helping our clients understand and apply our solutions and data to improve their digital marketing strategies in new and creative ways. When our clients win, we win.
+
+Position Overview
+
+We are looking for a Business Intelligence Analyst to help us solidify and build our growing BI platform into a robust insights portal that surfaces actionable customer insights and ensures customer engagement with and commitment to our data products. In order to help ensure the success of this strategic company objective, you will work closely with our existing BI team, data product owners, and market-facing teams. This tight collaboration will be critical as you help define standard analytics deliverables, build and polish these dashboards with careful attention to both the underlying data architecture and the visualizations, and maintain the dashboards for a growing population of stakeholders.
+
+What You'll Be Doing:
+
+
+Use your analytical skills and growing knowledge of our data products and customers to help the product team develop requirements for Tableau dashboards that surface meaningful, actionable insights for our customers
+Build dashboards that utilize design best practices to distill complex data into visually pleasing, actionable insights
+Thoughtfully build and redesign our reporting data architecture to maximize performance, harden access security, and allow for iterative dashboard improvements at scale
+Champion data and visualization integrity through thoughtful testing prior to production
+Manage the internally and externally facing Tableau server to ensure that all users have timely, accurate access to their visualizations
+Develop and implement new ways to increase customer engagement with our analytics
+Create documentation and processes to help support a well-maintained BI system
+Qualifications We're Looking For:
+
+
+1-3 years of experience with Tableau Desktop and /or Tableau Server. Experience ideally should include:Creating complex calculations and dynamic visuals
+Managing complex user permissions and data security
+Dashboard maintenance, performance tuning, and optimization
+Intelligent data prep through aggregations, joins, and blending of data sources
+Alerting and Subscriptions
+Experience querying, wrangling and extracting data from heterogeneous sources, large databases and in various data formats using SQL. Ability to understand data relationships and transform data to maximize insights generation and dashboard performance.
+Experience with customer-focused analytics; able to think through metrics needed to tell data stories that prove product value and surface actionable insights for customers
+Experience working effectively with business-facing teams and customers to understand and generate requirements; must enjoy and value collaborating with team members across the organization and seek and appreciate feedback and input
+Experience trouble-shooting BI tools; able to resolve issues (e.g., extract failures, user access, etc.) quickly to minimize downtime for internal and external stakeholders
+Excited to work in a fast-paced, innovative environment; flexible in the face of shifting priorities and able to stay focused on "North Star" goals of standardization and analytics excellence
+Able to take or grow into a leadership role on the team and mentor junior analysts
+Possesses a strong commitment to a team culture that is supportive, collaborative, and passionate about growing together as analytics and data visualization enthusiasts
+Preferred Qualifications
+
+Familiarity with AWS tools and services such as: S3, Athena, Redshift
+Experience with R or Python for data manipulation and programming
+Experience with evaluating and monitoring predictive model performance or marketing campaigns
+Previous experience at a data as a service (DaaS) organization
+Jornaya offers usage of new Mac laptops, casual dress, coffee, snacks, and weekly catered lunches. Each employment package includes competitive salary, stock options, 401(k), medical, dental and vision coverage, flexible vacation time, flexibility for remote work, awesome co-workers, and unparalleled culture.
+
+Please note, employment is contingent upon a successful background check.
+
+Jornaya is an equal employment opportunity (EEO) employer and committed to a diverse work environment. All applicants will receive consideration for employment without regard to their membership in any protected group, including but not limited to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.

@@ -1,0 +1,38 @@
+THE COMPANY
+
+Welcome to Aetion! Since our debut in 2013, we have grown into one of the country's leading science-driven technology companies using real-world evidence to provide innovative healthcare solutions.
+
+We achieve this with our Aetion Evidence Platform, a software platform used to evaluate the safety, effectiveness and value of medications, delivering better outcomes to patients, medical professionals and clients. We've partnered with top biopharma companies and are backed by leading venture capital firms to help increase our medical research and expand our product line.
+
+To continue our mission to transform healthcare, we're assembling a team of talented individuals who know how to work collaboratively and authentically, to innovate and think transformation, not status quo.
+
+If that's you, we'd love to hear from you.
+
+DESCRIPTION
+
+Your primary responsibility will be developing transformation logic against disparate datasets in Aetion Evidence Platform. You will work closely with our Product and Science team in developing custom transformation logic for longitudinal data, which is in Python, Scala, and R UDFs and executed over a Spark cluster. In addition, you will be integral in developing and enhancing our platform and its connections to Spark and a combination of big data infrastructure.
+
+RESPONSIBILITIES:
+
+The following duties include, but are not limited to:
+Develop transformation logic to convert disparate datasets into Aetion's proprietary format.
+Work with the Science team to develop this logic in Spark UDFs executed over a Spark cluster.
+Assess, develop, troubleshoot and enhance our measure system, which utilizes a combination of Java, Scala, Python, and R.
+Modify JavaScript Object Notation (JSON) files to describe the schemas of the datasets, ensuring system functionality through routine maintenance and testing.
+Work on a full-stack rapid-cycle analytic application.
+Develop highly effective, performant, and scalable components capable of handling large amounts of data for over 10 million patients.
+Work with the Science and Product teams to understand and assess client needs, and to ensure optimal system efficiency.
+REQUIRED QUALIFICATIONS:
+Bachelor's degree or equivalent in Computer Science, Computer Engineering, Information Systems, or a related field.
+4 years of experience in the position offered or related position, including 4 years of experience with: designing, developing, maintaining large-scale data ETL pipelines using Java/Scala in AWS, Hadoop, Spark, and DataBricks to manage Apache Spark infrastructure.
+Experience building backend modules, low latency REST API in distributed environment using Java, Docker, SQL, MVN, Spring, Jenkins.
+Experience writing complex SQL queries, UDFs to process large amounts of data across relational, non-relational databases, JSON and Spark SQLs.
+Experience translating requirements from product, DevOps teams to technology solutions using SDLC.
+ABOUT AETION
+Lead at all levels – Aetion is a diverse workforce of scientific thought leaders and technological innovators coming together with a vision to dramatically improve the Healthcare industry. Aetion supports and maintains a presence in organizations such as ISPOR, ISPE, ASHP, and HIMSS.
+Located in three cities — We have offices located in Midtown Manhattan near Penn Station, Boston's financial district, and Los Angeles. All locations are accessible by various forms of public transportation.
+Social and energetic offices – with a modern layout, and a giant kitchen and eating/social area. We have an open floor plan with an abundance of conference rooms, designed for impromptu collaboration, company gatherings, and industry meetups and events.
+Great perks – We offer competitive salaries, top-of-the-line benefits, company ownership stock options, 401(k) and unlimited PTO
+Aetion is an Equal Opportunity Employer. Aetion is committed to being an employer of choice, not just a good place to work, but a great and inclusive place to work. To that end, we strive to recruit and maintain a workforce that meaningfully represents the diverse and culturally rich communities that we serve. Qualified applicants will receive consideration for employment without regard to their race, color, religion, national origin, sex, sexual orientation, gender identity, protected veteran status or disabled status or, genetic information.
+
+###

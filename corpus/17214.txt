@@ -1,0 +1,127 @@
+Digital SW Eng Lead/Data Engineer
+
+Irving, TX
+
+$50/hr for Mid- Sr level and
+
+$70-80/hr for Architect
+
+Citi Bank
+
+Only GC/USC/H4/L2 EAD and E3
+
+Job Description Template
+
+Job Title
+
+Digital S/W Eng Lead Analyst
+
+Job Code
+
+Job Function
+
+Job Family
+
+Digital Software Engineering
+
+C-Level
+
+FLSA Status (US only)
+
+Manager or IC
+
+PRIMARY RESPONSIBILITIES
+
+Key Activities â Please list in order of importance/time spent (highest to lowest)
+
+Â Define needs around maintainability, testability, performance, security, quality and usability for data platform
+
+Â Drive implementation, consistent patterns, reusable components, and coding standards for data engineering processes
+
+Â Work with the Business Analysts and Customers throughout the requirements process to properly understand the long term goals of the program and where they fit in the overall UI infrastructure
+
+Â Communication of new technologies, best practices, etc. to developers, testers, and managers.
+
+Â Mentoring and peer review of designs and coded implementations
+
+Â Work with technical specialists (Security Team, Performance Engineer, etc.) to ensure that all parties understand the system that is being designed and built and that all major issues are understood and mitigated.
+
+Â Expected to participate in several implementation phases of product development cycle â design, scoping, planning, implementation and test.
+
+Â Integral team member of our AI and Analytics team responsible for design and development of Big data solutions Partner with domain experts, product managers, analyst, and data scientists to develop Big Data pipelines in Hadoop or Google Cloud Platform Responsible for delivering data as a service framework from Google Cloud Platform
+
+Â Responsible for moving all legacy workloads to cloud platform
+
+Â Work with data scientist to build Client pipelines using heterogeneous sources and provide engineering services for data science applications
+
+Â Ensure automation through CI/CD across platforms both in cloud and on-premises
+
+Â Ability to research and assess open source technologies and components to recommend and integrate into the design and implementation
+
+Â Be the technical expert and mentor other team members on Big Data and Cloud Tech stacks
+
+Some of the best practices supported include but are not limited to:
+
+â Achieving 85% code coverage with use of TDD (Test Driven Development),
+
+â Leveraging automated testing on 100% of API code
+
+â Leveraging automated testing for Continuous Improvement Continuous Development (functional & performance)
+
+â Ensuring frequent check in of code and supporting Peer Code Reviews
+
+KNOWLEDGE, SKILLS & EXPERIENCE
+
+Education level
+
+and/or relevant experience(s)
+
+Required:
+
+Â BS/BA degree or equivalent combination of education/experience.
+
+Â Intermediate to senior level experience in an Apps Development role. Demonstrated strong execution capabilities.
+
+Preferred:
+
+Knowledge and skills
+
+(general and technical)
+
+Required:
+
+Â 5+ years of experience with Hadoop (Cloudera) or Cloud Technologies Expert level building pipelines using Apache Beam or Spark Familiarity with core provider services from AWS, Azure or GCP, preferably having supported deployments on one or more of these platforms
+
+Â Experience with all aspects of DevOps (source control, continuous integration, deployments, etc.)
+
+Â Experience with containerization and related technologies (e.g. Docker, Kubernetes)
+
+Â Experience in other open-sources like Druid, Elastic Search, Logstash etc is a plus
+
+Â Advanced knowledge of the Hadoop ecosystem and Big Data technologies Hands-on experience with the Hadoop eco-system (HDFS, MapReduce, Hive, Pig, Impala, Spark, Kafka, Kudu, Solr)
+
+Â Knowledge of agile(scrum) development methodology is a plus
+
+Â Strong development/automation skills
+
+Â Proficient in programming in Java or Python with prior Apache Beam/Spark experience a plus.Â
+
+Â System level understanding - Data structures, algorithms, distributed storage & compute
+
+Â Can-do attitude on solving complex business problems, good interpersonal and teamwork skills
+Support of a highly distributed, scalable ETL processes - Sourcing, Data Enrichments and data delivery using Ab Initio ETL tool.
+Hands on ETL production support (data transformations and data movement) using Ab Initio, Ab Initio Express IT, EDQE (Data Quality) and Enterprise Metadata Hub as key tools
+Preferred:
+Angular.JS 4 Development and React.JS Development expertise in a up to date Java Development Environment with Cloud Technologies
+Exposure and/or development experience in Microservices Architectures best practices, Java Spring Boot Framework (Preferred), Docker, Kubernetes
+Exposure to other data pipeline
+Experience around REST APIs, services, and API authentication schemes
+Knowledge in RDBMS and NoSQL technologies
+Exposure to multiple programming languages
+Knowledge of modern CI/CD, TDD, Frequent Release Technologies and Processes (Docker, Kubernetes, Jenkins)
+Exposure to mobile programming will be a plus.
+Other Requirements (licenses, certifications, specialized training, physical or mental abilities required)
+
+Other:
+
+Â Successfully complete assessment tests offered in Pluralsight, Udemy, etc. or complete certifications to demonstrate technical expertise on more than one development platform.

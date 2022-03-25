@@ -1,0 +1,18 @@
+Data Engineer, Infrastructure Analytics
+Mountain ViewR&D - DevOpsExperienced
+Responsibilities
+1. Build and scale critical data pipelines for use-cases like performance monitoring, cost analysis, capacity planning, and other analytical scenarios.
+Design and develop visualizations, monitors, and alerting systems to catch system issues and data anomalies, build automation to handle these issues intelligently.
+Work with performance engineers and product engineering teams to analyze data from billions of mobile clients and hundreds of thousands of servers and systems to provide insightful and valuable information on an ongoing basis.
+Qualifications
+1. 3+ years of experience with Data Warehouse and open-source Big Data technologies
+Experience building infrastructure to support real-time or offline data pipelines processing petabytes of data
+Experience with Spark, Hive, Hadoop, SQL, Kafka, Parquet, HDFS, or HBase
+Proficiency in multiple systems languages (Scala, Java, Python etc).
+Desired qualification:
+Strong ability to interact, communicate, present and influence within multiple levels of the organization using data
+Experience in continually improve ongoing reporting and analysis processes, automating or simplifying self-service support for customers
+Experience building data products incrementally and integrating and managing datasets from multiple sources
+Experience building/operating highly available, distributed systems of data extraction, ingestion, and processing of large data sets
+Apply
+Share to

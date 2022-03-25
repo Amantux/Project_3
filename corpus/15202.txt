@@ -1,0 +1,88 @@
+Azure Data Architect
+Because YOU make the difference......
+Matrix Medical Network Business Intelligence and Analytics (BIA) team delivers reporting and analytic capabilities using cutting edge Database Solutions using SQL and noSQL, ETL tools, and Business Intelligence solutions. Looking for enthusiastic, action oriented team members who will thrive in our fast paced and dynamic environment.
+Our mission, vision and values statements represent our highest aspirations. Our core values live deep within the Matrix culture and embody our profound commitment to service, character and ethics.
+We create solutions to improve the quality and afford-ability of healthcare
+We capture and deliver reliable, real-time information that identifies and closes gaps in care and documents the state of member health.
+We strive to be an employer of choice for clinical and healthcare support professionals.
+We are driving Healthcare forward. Come join us!
+The Azure Data Architect is a technical leader providing oversight and delivery of technical projects related to advance data analytics and reporting. The BI Architect’s role is to set the high-level technical direction for the design, architecture and ongoing evolution of an enterprise Business Intelligence solutions that adhere to and supports the strategic objectives of overall organization.
+Responsibilities:
+Plan and participate in the execution of a migration plan from on-premise data to Azure platform
+Design and develop standard dimensional data warehouse structures and data lakes.
+Envisions and creates solutions that meet the data and analytical requirements of the business, models the required infrastructure and points of integration, creates data models and database designs, and provides the overall blueprint/roadmap for delivering the solution.
+Creates and updates any design documentation required for development, and works collaboratively with BI, and IT Developer(s) to build the required components.
+Works with the IT infrastructure, Application Development Teams, Data Engineers, Data Scientists, and Reporting Analysts to prove the feasibility of designs and ensure that solutions are designed for optimal access and leverage existing technologies where possible, and to identify any system-wide impacts that may need to be addressed.
+Provides leadership in the creation of a mid/long-term BI roadmap to address any current gaps and move the company towards a future state architecture that easily scales to support future business growth and innovation.
+Participates in all phases of SDLC: from system analysis and design thru development and test to deployment and support.
+Provides development estimates and participates in project planning.
+Responsible for ensuring quality delivery of code through static and dynamic testing techniques
+Is able to troubleshoot any complex data related issues as well as provide support to production.
+Keep abreast of the current technologies and technological trends. Ability to learn and prototype new technologies, and recommend their use in the company products.
+Peer mentoring experience of more junior team members.
+Ensures adherence to standards for self as well as team.
+Other duties as assigned
+Requirements:
+Bachelor's degree in Computer Science or related field
+Minimum 5 years experience with Azure platform, including Azure SQL, Data Factory, Databricks, and Data Lakes
+Minimum 5 years of experience with data modeling and data architecture, including structured relational and DW models, and unstructured data such as JSON, XML, or NOSQL
+Minimum 5 years of experience as a DB, SQL, or ETL Developer
+Minimum 5 years of experience as a Lead or Senior Developer
+Minimum 6 years of experience with Transact-SQL, Microsoft Power BI, Microsoft SQL Reporting Services, and Microsoft SQL Server(2014 or later preferred)
+Minimum 6 years of experience with Microsoft SQL Server Integration Services (SSIS) or equivalent ETL platform
+Minimum 2 years of experience with Tableau
+Knowledge of advanced SSIS concepts to handle complex tasks like importing large files, loading data in a transactional database etc.
+Experience in NoSQL databases is a big plus.
+Strong Object / Relational mapping experience and ETL principles/knowledge
+Experience in Database Administration with Oracle or SQL
+Experience in object relational mapping, UML modeling and OO modeling
+Proven ability to analyze, document, and reverse engineer any type of SQL\SSIS based code and ETL processes.
+Make recommendation on how to rewrite, modify, redesign SQL and ETL based processes based on analysis.
+Excellent written and verbal communication skills
+Demonstrated experience of estimation and planning
+Demonstrated abilities to successfully document and communicate software designs of complex systems.
+Has proven record of successfully motivating and leading a software development team.
+Proven history of developing and unit testing complex software components.
+Ability to be flexible, set priorities and meet deadlines in a changing environment for self as well as team.
+Must have decision-making skills for problem identification and solution recommendation.
+Ability to work independently and as part of a team while demonstrating initiative and using good business judgment
+Demonstrated ability to drive process improvement and improve the process efficiency
+Demonstrated ability to reduce and/or prevent production defects based on the continuous root cause analysis and process improvement
+Ability to maintain effective working relationships across teams and with a diverse workforce
+Able to represent the Company in a positive and professional manner.Supervisory Responsibilities: none
+Travel requirements: Ability to travel up to 15%.
+Matrix Medical Network is Proud to be an Equal Opportunity Employer
+
+
+Position Summary
+The Senior Developer is a technical leader providing oversight and delivery of technical projects. This role implements architecture-centric solutions in addition to providing guidance to the developers in delivering solutions that adhere to and meets the strategic objectives set by the Architect and IT Leadership.
+Education
+Bachelor’s degree in Computer Science or related field
+Required Skills and Abilities
+Minimum 7 years experience as a Developer
+Minimum 2 years experience as a Lead or Senior Developer
+Demonstrated experience of estimation and planning
+Understanding of project management concepts and techniques required
+Demonstrated abilities to successfully document and communicate software designs of complex systems
+A proven record of successfully motivating and leading a software development team
+Proven history of developing and unit testing complex software components
+Ability to be flexible, set priorities and meet deadlines in a changing environment for self as well as team
+Must have decision-making skills for problem identification and solution recommendation
+Demonstrated ability to reduce and/or prevent production defects based on the continuous root cause analysis and process improvement
+Technical Requirements:
+Minimum 7 years of experience with Java, J2EE, EJB, JAXP, XSLT, JSP,JSF Struts, AJAX and HTML/CSS
+Working knowledge/hands on experience with, JavaScript APIs i.e.
+Experience with Spring MVC, Spring Data, Jackson JSON
+Demonstrated experience in performance and optimization of Java applications
+Demonstrated experience designing, developing, and integrating Web Services
+Experience implementing MVC Framework Applications. Preferred Spring experience
+Experience with relational databases
+Experience with Hibernate or equivalent Object Relational Mapping platform
+Testing using Junit testing frameworks
+Qualifications (Preferred):
+1-2 years Android development experience
+SOA/ESB experience is a plus
+Continuous Integration experience with tools like Hudson Jenkins experience
+Travel requirements: Ability to travel up to 15%
+Matrix Medical Network is Proud to be an Equal Opportunity Employer
+This employer is unable to provide Sponsorship or C2C Sponsorship at this time.

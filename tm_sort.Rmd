@@ -1,0 +1,62 @@
+---
+title: "Fuzzywuzzy"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(RMariaDB)
+library(DBI)
+library(bcputility)
+library(tm)
+```
+
+
+```{r}
+#DB Set up 
+con <- dbConnect(RMariaDB::MariaDB(), username="root", password="TestCase123.", dbname ="basic", host="localhost")
+dbListTables(con)
+```
+
+```{r}
+df <- dbReadTable(con, "Rectified_Total")
+```
+```{r}
+new_df <- data.frame( doc_id = 1:nrow(df), text =df$Job_Description )
+
+```
+
+
+
+```{r}
+(ds <- DataframeSource(new_df))
+x <- Corpus(ds)
+
+```
+```{r}
+writeCorpus(x, path = "./corpus")
+```
+
+```{r}
+inspect(x[1:2])
+```
+```{r}
+x <- tm_map(x, removeWords, stopwords("english"))
+```
+
+```{r}
+dtm <- DocumentTermMatrix(x[1:1000])
+```
+
+```{r}
+inspect(dtm)
+```
+
+```{r}
+findAssocs(dtm, "data", 0.40)
+```
+

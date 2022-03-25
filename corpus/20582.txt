@@ -1,0 +1,47 @@
+Job Summary
+
+Lead Product Owner (LPO) role in the Pharmacy Renewal program. This is a very important leadership role that reports to the Director of Product Engineering for the data platform. This is a state of the art data platform which has two sections: Data Engineering and Reports/Analytics. In the data engineering area our LPO leads a team of Product Owners (PO) and interacts with upstream application POs and their world in the perspective of events/messages and frame the related requirements for our data platform data modelers and architects. The products our LPO/PO own in the data engineering area are: Data model and the Data engineering pipes that populate the tables in the data lake.
+
+LPO will know the big picture release objective and at the same time know how to arrive at the big picture through iterative smaller releases. The LPO along with PO will create the release boundaries, expected outcome/results in each release, and finally sign off the deliverables produced by the engineering team.
+
+LPO will establish and maintain clear data contract and boundary with upstream applications for intake. If upstream applications change any of these post hand off, then we expect our LPO to follow proper change management process. We expect out LPO to know the dependency boundaries with upstream applications and be clear on the fact that they are LPO of the downstream data platform and their Products are the deliverables in data platform.
+
+LPO will also lead the intake of reporting/analytics requirements section of our data platform. They will lead POs who will do the elaboration of the requirements and convert them to user stories for report development. As with data engineering deliverables, LPO will follow all the due diligence process in framing the iterative release boundaries of reporting requirements.
+
+Our LPO will manage a portfolio of products/requirements and be able to create the actionable release boundaries and track them in JIRA.
+
+Our LPO will facilitate the timelines and manage expectations with other executives, customers, and other team members.
+
+Job Responsibilities
+Gathers and analyzes internal business requirements by means of interviews, workflow analyses and facilitated discussions with users.
+Translates users' business requirements into detailed functional designs for development, testing and implementation.
+Applies methodologies such as Unified Modeling Language ("UML") and Rational Unified Process ("RUP") and prepares detailed specifications using case statements and related documentation.
+Identifies and communicates risks and issues impacting business rules, functional requirements and specifications.
+Participates in and contributes to managing the scope of applications and related changes.
+Assists quality assurance with functional test case reviews.
+Collaborates with stakeholders on the evaluation of the feasibility, effort and costs to implement requirements.
+Creates training materials and may assist with user orientation and training.
+Interacts with internal and external peers and managers to exchange complex information related to areas of specialization. Serves as a liaison between engineering, quality assurance and non-technical stakeholders throughout the development and deployment process.
+Anticipates and prevents problems and roadblocks before they occur.
+Performs as subject matter advisor to less experienced team members. May participate in teaching and training members of work team.
+Mentors less experienced members of the team.
+Walgreens (walgreens.com), one of the nation's largest drugstore chains, is included in the Retail Pharmacy USA Division of Walgreens Boots Alliance, Inc. (Nasdaq: WBA), a global leader in retail and wholesale pharmacy. Walgreens is proud to be a neighborhood health, beauty and retail destination supporting communities across the country, and was named to FORTUNE* magazines 2019 Companies that Change the World list. Approximately 8 million customers interact with Walgreens in stores and online each day. As of August 31, 2019, Walgreens operates 9,277 drugstores with a presence in all 50 states, the District of Columbia, Puerto Rico and the U.S. Virgin Islands, along with its omnichannel business, Walgreens.com. Walgreens also provides specialty pharmacy and mail services and offers in-store clinics and other health care services throughout the United States, most of which are operated by our health care strategic partners.
+Basic Qualifications
+Bachelor's degree and at least 4 years of experience as a Business Systems Analyst OR a High School Diploma / GED and at least 7 years of experience as a Business Systems Analyst.
+At least 3 years of experience with technical design process and models.
+At least 3 years of experience with requirements specification and development, such as process/functional requirements definition methods, JAD/RAD sessions, use case development, process flow diagrams.
+At least 2 years of experience with SDLC / SW development processes, such as Unified Modeling Language ("UML") and / or Rational Unified Process ("RUP"), Agile, Waterfall).
+Experience using consulting skills and developing client relationships.
+Experience using analytical skills, resources and techniques to investigate information and to draw conclusions.
+Experience in identifying operational issues and recommending and implementing strategies to resolve problems.
+Willing to travel up to 10% of the time for business purposes (within state and out of state).
+Preferred Qualifications
+Bachelors degree in Computer Science, Information Technology, Mathematics
+Bachelor's degree and at least 5 years of experience as a Business Systems Analyst OR a High School Diploma / GED and at least 8 years of experience as a Business Systems Analyst.
+Master's Degree or MBA
+Experience interacting at the executive level.
+We expect out LPO to have in-depth knowledge of events/message and big data technologies
+We expect you to be able to have enough technical skills to be able to extract and verify deliverables produced by data modeler, architect, and scrum teams developing data engineering pipelines
+We expect our LPO to understand data very well including ability to get requirements related to encryption, data classification, RBAC, RLS, storage, velocity, SLA etc.
+LPO will have experience working in a large company that has cloud based technologies. We expect you to work with architects and create well defined non-functional-requirements.
+Expect to be asked technical questions during interview

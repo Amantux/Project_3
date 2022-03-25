@@ -1,0 +1,39 @@
+Job Description
+
+
+Job Summary:
+
+Senior Data Engineer / SQL Developer / SQL Analyst. Responsible for developing and implementing data models for multiple business processes on Acelity’s data warehouse and big data analytics infrastructure. This particular role will focus on developing a semantics layer that applies the business rules and generates the business metrics required for sales reporting and analytics.
+
+Principle Responsibilities: (essential job duties and responsibilities)
+Design and implement data models, datamarts, and datasets on a Hadoop-based data warehouse and data hub
+Interface directly with business and systems subject matter experts to understand analytic needs and determine logical data model requirements
+Develop and implement ETL processes across Hadoop, BI systems, and databases
+Work closely with data architects to identify common data requirements and develop shared solutions
+Develop close collaboration with senior analysts and data owners across multiple business domains
+Maintain data modeling standards and ETL best practices
+Support data model and ETL solutions in production
+Skills and Experiences:
+Strong data warehouse and ETL background
+Advanced SQL programming capabilities. Hive, Impala, or Snowflake preferred
+Strong background in preparing data for analysis and reporting: creating analytical datasets and working with others to define simple to use data models (i.e. star schema)
+Experience with analytical tools for data discovery & modeling, visualization, and analysis
+Success in a highly dynamic technology demand driven environment with ability to shift priorities with agility
+Ability to go from whiteboard discussion to code
+Willingness to explore and implement new ideas and technologies
+Ability to effectively communicate with technical and non-technical audiences
+Ability to work independently with minimal supervision
+Minimum Qualifications:
+8+ years experience with SQL
+6+ years experience with data modeling design and implementation
+4+ years experience working directly with subject matter experts in both business and technology domains
+4+ years experience with BI and analytic tools such as Tableau, Datameer, R, or similar
+2+ years experience with Ab Initio, Datastage, Informatica, or Talend
+Nice-to-have:
+Hands-on experience with Hadoop
+Familiarity with Agile methodologies
+Education:
+Bachelor’s in Computer Science, Information Systems, Engineering, science discipline, or similar
+The information listed above is not a comprehensive list of all duties/responsibilities performed. This job description is not an employment agreement or contract. Management has the exclusive right to alter this job description at any time without notice. Any physical and mental requirements described in this job description are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+EOE AA M/F/Vet/Disability: Acelity L.P. Inc. and its subsidiaries are an equal opportunity and affirmative action employer and give consideration for employment to qualified applicants without regard to race, ethnicity, color, religion, sex, sexual orientation, gender identity, pregnancy, national origin, age, disability, veteran status, or genetic information or any other legally protected characteristic. If you'd like more information about your EEO rights as an applicant under the law, please click here: http://www1.eeoc.gov/employers/upload/eeoc_self_print_poster.pdf VEVRAA Federal Contractor

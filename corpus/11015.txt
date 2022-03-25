@@ -1,0 +1,105 @@
+Truckstop.com is hiring a Data Scientist for our Chicago, Illinois location
+
+About Truckstop.com
+
+Truckstop.com is one of the largest online freight matching services in the trucking industry, providing a one-stop connection between carriers and brokers. Founded in 1995 as the first freight-matching marketplace to hit the Web, Truckstop.com has grown to provide load planning, transportation management, route optimization, real-time rates, powerful negotiation tools, and other logistics solutions. Click here to learn more about Truckstop.com’s history.
+
+Truckstop.com is backed by ICONIQ Capital, a privately-held financial advisory and technology growth equity investment firm. ICONIQ is a trusted advisor fostering meaningful strategic relationships across industries to source powerful ideas, magnify global impact and support a new generation of entrepreneurs and companies.
+
+About our Culture
+
+Truckstop is a destination where talented individuals can build an epic career. It is a place where talent feels connected, fulfilled and equipped to do what they do best while having fun doing it. We call our employees Partners because we are deeply interdependent upon each other to achieve remarkable things together. We believe that for talent to be their best selves, we must enable them with the freedom to exercise their own judgment, and provide them with the autonomy to experiment, to innovate, and test where they can go, so they can do something they never thought they could. Each of our Partners is unique. Be you is the message we foster. We look for Partners who are aware of, and who are confident in their talents and who are passionate about serving others. We will achieve massive success when you can be yourself.
+
+E pluribus unum - Out of many, one
+
+We look for Partners who enjoy working in a One Team mindset environment. By combining our unique personalities, experiences, skills and knowledge we can accomplish amazing feats together!
+
+Truckstop.com does not utilize third party vendors for recruiting, nor accept unsolicited resumes from recruiters, staffing agencies or employment firms.
+
+Position Summary:
+
+We are looking for an experienced Data Scientist who is focused on the quantitative side of the business. Someone who is innovative, highly-analytical and technical, and has excellent communication skills with professional presence to collaborate cross-functionally and contribute expertise through actionable business intelligence to assist in complex organizational decisions.
+
+Essential Job Functions:
+
+Building machine learning and geostatistical models in Python (geopandas, rasterio, gdal, pysal, scikit-learn, rasterstats, scikit-image, geopy, plotly, seaborn) and R (repr, sp, rgdal, raster, rgeos, repr, spatstat, leaflet, maptools, lattice, ggmap)
+
+Working with location-based data to solve problems in the transportation logistics industry
+
+Employing GIS tools and mentoring other Data Scientists in geospatial analytics
+
+Select features, build and optimize classifiers using innovative machine learning techniques.
+
+Process, cleanse and verify integrity of data used for analysis.
+
+Perform ad-hoc analysis and present results clearly and concisely.
+
+Create automated anomaly detection systems and constant performance tracking.
+
+Engage with business partners to develop deep understanding of supply chain industry.
+
+Collaborate with data scientists and software engineers on data design and reporting strategy across business functions to ensure cohesive alignment.
+
+Direct appropriate architecture, modeling, harmonization, and governance of data.
+
+Ensure strict data hygiene to ensure data is clean, accurate, concise, comprehensive, and complete
+
+Strong leadership skills with a passion for developing others. Review work across your team, provide feedback for professional development.
+
+Able to concisely explain complex analysis and insights to stakeholders.
+
+Demonstrated success in effective problem-solving and creative thinking.
+
+Independently influence cross-functional business groups.
+
+Able to juggle multiple priorities and deliver results in a fast-paced, dynamic environment.
+
+Experience leveraging research and analytics to support data-driven recommendations..
+
+ Position Requirements
+
+2-3 years of professional experience in geostatistics and spatial analytics
+
+Solid understanding of spatial autocorrelation, spatial interpolation, clustering, visualization, spatially adjusted regression
+
+Master’s Degree or PhD in Data Science/Analytics/Statistics/Operations Research/Computer Science/Economics/Computational Social Science/Related Quantitative Field.
+
+Bachelor’s Degree in Data Science/Analytics/Statistics/Operations Research/Computer Science/Economics/Computational Social Science/ Related Quantitative Field.
+
+Technical expertise in machine learning, architecture, scaling, and modeling.
+
+Experience in applied statistics and machine learning.
+
+Experience working with large data sets- structured/unstructured.
+
+Strong data visualization skills.
+
+Proficiency in Python, R and interacting with SQL Server and MongoDB databases.
+
+Experience in supply chain, transportation, or logistics industry nice to have.
+
+Familiarity with GIS and geographical data analysis.
+
+Understanding of GitHub and software version control a plus.
+
+Experience with AWS architecture a plus.
+
+Experience in Agile environments with rapid iterations.
+
+Knowledge of multiple programing languages.
+
+Experience with supervised and unsupervised machine learning algorithms, and ensemble methods, such as: K-Means, PCA, Regression, Neural Networks, Decision Trees, Gradient Boosting.
+
+Experience working in a Linux environment nice to have.
+
+Physical Demands:
+
+Minimum physical exertion. While performing the duties of this position, the employee is frequently required to sit, communicate, reach and manipulate objects, tools or controls. The position requires mobility. Duties involve moving materials weighing up to 5 pounds on a regular basis. Manual dexterity and coordination are required over 75% of the work period while operating equipment such as computer keyboard, mouse, 10-key calculator and copier/fax.
+
+Work Environment:
+
+Ideal protected indoor office work environment and clean, non-hazardous work area. The noise level in the work environment is typical of most office environments with telephones, personal interruptions, and background noises.
+
+The above description covers the most significant duties performed but does not include other related occasional work that may be assigned or is completed by the employee.
+
+Truckstop.com provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.

@@ -1,0 +1,45 @@
+CompQsoft Inc. Established in 1997, headquarters in Houston, TX and office in Leesburg, VA. CompQsoft offers a range of comprehensive Cyber Security, Infrastructure, Cloud solutions, ERP implementation, Business Intelligence, Application development, Ecommerce applications and Management consulting services. CompQsoft is Certified CMMI Level 3 practitioner for Development and Services, ISO 9001:2008, ISO 20000:2005, ISO 27001:2013 Certified, and has DCAA approved accounting system. CompQsoft is a fast growing company with a strategy and methodology that is strongly focused on the success of our clients, predominantly the Federal government.
+
+We are seeking qualified professionals for one of our clients.
+
+Position: Business Intelligence
+
+Client: LACOE
+
+Location: Los Angeles CA
+
+Duration: Six month with potential renewal
+
+Clearance: None
+
+Job Details:
+
+Business Intelligence (Rate Must Match Your RFP#1596) Staffing is responsible for developing aspects and eventually all of the data models in a phased-in approach as part of LACOE's Business Intelligence Reporting and Analytics solution build-out. Immediate needs are with the solution's semantic layer. Primary job function consists of reviewing business and technical requirements and creating/maintaining all data models that support all of LACOE's reporting and analytics needs. Delivery items include create and maintain entity relationship diagrams, conceptual, logical or physical models, and supporting documentation using industry tool (Erwin preferred). Additional job functions include identifying solution design options, advanced data profiling and subject matter expertise.
+
+Responsibilities:
+Work closely with data / business analysts in understanding existing report logic, convert fragmented logic and model reporting data into a coherent enterprise semantic layer in a phased-in approach.
+Work closely with business stakeholders, BI analysis and development team(s) to continually support the maintenance and expansion of the semantic layer and source star schemas.
+Create conceptual, Logical to Physical data model by applying data modelling standards, database design standards, everything ranging from naming standards to database performance optimization.
+Create and maintain detailed data architectures, including conceptual, logical and physical data models, interface specifications, data flow diagrams, and other models as needed, using industry-leading modelling tools such as Erwin.
+Serve as SME in transactional and dimensional data modeling based on best practice, standards and extensive current industry experiences.
+Work closely with DBAs and infrastructure teams to maintain data warehouse and semantic layer performance through efficient data schemas.
+Required Skills:
+Current 8+ years of hands-on experience in creating and maintaining the business / semantic layer of an enterprise BI architecture.
+Current 8+ years of hands-on experience in creating and maintaining enterprise data models both for OLTP (transactional) and OLAP (analytical) systems.
+Mastered both relational and dimensional modeling concepts.
+8+ years of experience with advanced SQL query techniques, author of complex SQLs.
+Experience with deployment of database changes which includes data migrations.
+Strong interpersonal, written and verbal communication skills.
+Strong ability to multi-task with several concurrent issues and projects.
+Demonstrated ability to interact effectively with all levels of the organization.
+Preferred Skills:
+Experience creating data models for SQL Server and Oracle databases
+Experience with data integration, ETL, analytics tools specifically SAP Business Object or Microsoft Power BI
+Skilled in ERwin, including but not limited to: Diagraming, Complete Compare, Reverse Engineering, Forward Engineering
+Meta data management
+Experience with capturing and managing data / report lineage with tools such as Axon or Collibra
+Please forward your updated resume to
+
+CompQsoft is an Equal Opportunity / Affirmative Action Employer. M/F/D/V
+
+Visit www.compqsoft.com to learn more about our culture, benefits.

@@ -1,0 +1,103 @@
+Job Category
+
+Products and Technology
+
+Job Details
+
+Everyone who wants to change the world should have the tools and technology to do so. Technology is the most powerful equalizer of our time, providing access to data, knowledge, and—above all—connections. Salesforce.org gets our technology in the hands of nonprofits and educators so they can connect with others and do more good. As a social enterprise, the more missions our technology supports, the more we invest back into technology and communities, creating an endless circle of good.
+
+If working every day to support this vision sounds like something you’d be interested in doing, then we’d like to talk to you! We’re looking for an experienced data scientist to join our fast-growing team, someone who’s willing to dive in head-first, support and protect our culture, respect our people, keep trust first and foremost, and help establish and build a world class data science practice at Salesforce.org. This person will play a leading role in incorporating data science best practices and artificial intelligence throughout Salesforce.org’s products and services.
+
+Salesforce is looking for data scientists with hands on experience turning data science into insightful and impactful products. The ideal candidate will believe in the power of democratizing access to new technologies, like machine learning. They will enjoy being challenged, learning-by-doing, have excellent communication and people skills at their disposal and a pragmatic approach to practicing their craft.
+
+This is Data Science for social good - at scale.
+
+Our Data Science team is small, which means flexibility is crucial. As a Data Scientist at Salesforce.org, you'll partner with cross-functional and remote teams like engineering, product, and design. You'll also be a self-starter who isn't afraid to dive deep into the data, look ahead for potential opportunities and broad impact, and plan the data and product roadmap accordingly. This is an amazing opportunity to have impact with thousands of nonprofits and higher education groups, while working on the best platform for building change-related business applications. The team is one where self-directed individuals thrive, and one where your vision for increasing the impact of the social change sector can be realized.
+
+As the Data Scientist, Nonprofit Cloud, you will be the 3rd member of our growing Data Science practice, and will be embedded into the Nonprofit Cloud product team. You will be responsible for designing and implementing Data Science solutions from end to end — including gathering requirements, working cross-functionally with technical and nontechnical teams, exploring data, coding, building pipelines, model building, testing, and deploying to production.
+
+Responsibilities
+
+Work cross-functionally with product managers, engineers, and designers to improve Nonprofit Cloud products using insights from data
+
+Work through all stages of product development: defining the capability, crafting the business solution, gathering and structuring data, building machine learning models, and productize models to create the most exciting data products that hundreds of millions of nonprofit constituents use use every day.
+
+Evaluate algorithms and review results with partners and stakeholders
+
+Write and deploy code to production
+
+Define key success metrics and event logging for new product features
+
+Build reports, dashboards, and templates to provide visibility into product goals and decisions
+
+Empower the broader organization with the skills and tools to make data-driven decisions
+
+Deep dive into product areas and identify opportunities for product change and improvement
+
+Work with PMs in other clouds, such as Einstein, to identify what we can leverage/extend/optimize for industries
+
+What we Care About:
+
+You share our values: Trust, Innovation, Equality, and Giving Back
+
+You have industry experience with writing code (e.g. SQL, Python, Spark) and taking ML models/ algorithms to production. Preference for at least 4+ years of industry experience.
+
+You have proven knowledge and experience with applied statistics and probability/ predictability data outputs
+
+You have to love data - this is what we do. We are looking for people who are excited about different and unique data sets, and all the ways that they could be used to improve nonprofits.
+
+General Skills
+
+4+ years industry experience and a Bachelor's degree (or 3+ years and Master's)
+
+Strong analytical skills with a technical background
+
+Experience in communicating with other technical teams, and project management to understand requirements, articulate Data Science designs and applications
+
+Excellent written and oral communication skills
+
+Ability to research and apply latest Data Science practices and balance research and design with business timelines
+
+Ability to work with geographically distributed teams
+
+Technical Skills
+
+4+ years experience in data, preferably with machine learning, predictive modeling, NLP or experiment design; Startup experience a plus
+
+Industry experience writing and deploying code (e.g. Python, SQL, Spark)
+
+Experience working on an architectural team
+
+Strong working knowledge of SQL/SOQL
+
+Be able to write programs to extract and transform data from API and from relational databases, Salesforce or other sources such as Hadoop/Hbase
+
+An understanding of various algorithms and ability to quickly iterate through them
+
+Experience with applied statistics (AB hypothesis testing, regressions, etc.) especially to large datasets
+
+Experience building dashboards and reports and using data visualization to articulate and clarify findings
+
+Bonus:
+
+Industry experience in Nonprofit (Nonprofit Cloud experience a big big plus)
+
+Experience with multi-tenant architecture
+
+Experience with multiple stakeholders
+
+Experience giving presentations with large audiences
+
+Experience with Salesforce development
+
+Experience with Spark, Heroku, AWS
+
+Proven track record of alignment with our values
+
+LI-Y
+
+Posting Statement
+
+Salesforce.com and Salesforce.org are Equal Employment Opportunity and Affirmative Action Employers. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, or disability status. Headhunters and recruitment agencies may not submit resumes/CVs through this Web site or directly to managers. Salesforce.com and Salesforce.org do not accept unsolicited headhunter and agency resumes. Salesforce.com and Salesforce.org will not pay fees to any third-party agency or company that does not have a signed agreement with Salesforce.com or Salesforce.org.
+
+Pursuant to the San Francisco Fair Chance Ordinance and the Los Angeles Fair Chance Initiative for Hiring, Salesforce will consider for employment qualified applicants with arrest and conviction records.
