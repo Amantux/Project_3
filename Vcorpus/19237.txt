@@ -1,0 +1,34 @@
+Company Description
+
+Dear trailblazers, forward-thinkers, and doers - We want you.
+
+DataStax is the company behind the massively scalable, highly available, cloud-native NoSQL platform built on Apache Cassandra. Every day, we're fulfilling our mission to connect every developer in the world to the power of Apache Cassandra, with the freedom to run data on any device and in any cloud.
+
+We subscribe to a set of principles that guide how we collaboratively work together. We inspire each other with our values, obsessing over users and enterprises, taking action and focusing on results, innovating in technology, products, and everything we do, and defining success as the team winning.
+
+We foster a diverse working environment that is respectful, generates new ideas, promotes ownership, and encourages highly motivated individuals to shape tomorrow. These form the foundation of DataStax's culture and help drive our decisions.
+Job Description
+
+As a Data Engineer you will join our growing team of data experts. You will create, test, monitor, and maintain our data pipeline architecture for our internal data customers. You will help drive and support the data requirements of multiple teams and systems.
+
+What you will do:
+Create, test, monitor, and maintain our data pipeline architecture.
+Build high-performance data quality algorithms, predictive models, and/or prototypes.
+Adhere to data security best practices.
+Develop set processes for data mining, data modeling, and data production.
+Research new uses for existing data.
+Work with stakeholder teams to assist with data-related technical issues and support their data infrastructure needs.
+Your experience should include:
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+Creating, testing, monitoring, and maintaining data pipelines.
+Working knowledge of using Python or other languages for creating pipelines and data processing
+Strong project management and using agile process within test driven development
+Performing root cause analysis data and processes to answer specific business questions and identify opportunities for improvement.
+Working with structured and unstructured datasets.
+Build tested processes supporting data transformation, data structures, metadata, dependency and workload management.
+Manipulating, processing and extracting value from large disconnected datasets.
+Working knowledge of message queuing, stream processing, and highly scalable data stores.
+Experience supporting and working with cross-functional teams in a dynamic environment..
+Big data ecosystem tools: GCP Big Query, AirFlow, Spark, or similar tools.
+Cloud services: AWS, GCP, Azure
+If this motivates you, we'd love to hear from you! Would you like to join our tribe?

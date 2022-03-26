@@ -1,0 +1,27 @@
+Are you a scientific jack (okay, master) of all trades seeking all-encompassing career fulfillment? Do you thrive off of heavy customer and team collaboration, hands-on problem solving, and leading-edge technology implementation?
+
+L7 Informatics (L7) is looking for a senior level Field Application Scientist (FAS) to join and help mentor the growing Customer Solutions team as they roll out the revolutionary Enterprise Science Platform (ESP) to an expanding market.
+
+Responsibilities:
+Collaborate with customers to translate their needs into system content and configuration, including but not limited to:
+Consult with customers to ensure best practice translation of their workflows
+Implementation of novel instrument integration/support
+Implementation of bioinformatic pipelines using off-the-shelf tools (bwa, bowtie2, GATK, samtools/htslib, R and Python packages, etc.)
+Work with customer IT to implement appropriate data loss prevention strategies
+Work with customer IT to put systems into production in customer environments (on-premise or in-cloud deployments)
+Troubleshoot issues customers may have
+Write consulting services statement of work documents
+Write customer success case studies
+Support sales and marketing in demonstrating software capabilities to potential customers (while answering technical questions, etc.)
+Contribute to L7?s standard/core content library and SDK
+Contribute to L7?s customer implementation DevOps improvements and maintenance
+Translate customer needs into new core product software requirements
+Requirements:
+Minimum of a PhD in a relevant field, such as computational biology, bioinformatics, molecular genetics, etc.
+Background in both computational and wet-lab sciences
+Previous experience with distributed version control tools
+Comfortable working from the linux command line, especially bash
+Excellent written and verbal communication skills
+Preferred Qualifications:
+Deep knowledge of and experience with next-generation sequencing wet-lab and analysis methodologies
+Experience with computational modeling of real-world processes

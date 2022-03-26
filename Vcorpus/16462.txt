@@ -1,0 +1,34 @@
+About us
+
+Designed for unlimited discovery and unmatched safety, Epic is the leading digital library for kids. With tens of thousands of high-quality books, audiobooks, and videos from the world's best publishers, every year millions of kids read, learn and explore on Epic.
+
+To learn more about our vision to unlock the potential of every child, visit us at www.getepic.com.
+
+About the job
+
+We are looking for a Data Science Engineer to join our Data Engineering Team that delivers on key data initiatives. You will be working on developing data infrastructure and pipelines for a variety of heterogeneous data sources (e.g., user content interaction, natural language content, impressions and click logs) for product features that use Artificial Intelligence (AI) and Machine Learning (ML) as well as for key business reports and analytics.
+
+You will be part of the core engineering team whose contributions help create a better world through learning and unlock the potential of every child on the planet.
+
+What you will be doing
+Develop scalable real time streaming and batch pipelines for various data streams
+Develop data feeds for reporting and analytic needs
+Develop automated AI and ML feature and model training pipelines for models developed by data scientists
+What you should have
+Experience in one of the following programming languages - Python, Java, Scala, or C++
+Experience with at least one distributed computing technology such as Apache Spark, Apache Hadoop, MapReduce, or BigQuery.
+Experience with at least one relational database system such as PostgreSQL or MySQL.
+Bachelor's degree in CS, EE or a related field with at least 3 years of relevant industry experience; or a Bachelor's degree in an unrelated field with at least 6 years of relevant industry experience; or M.S./ PhD degree in CS, EE or a related field with at least 1 year of relevant industry experience in data engineering
+Curious, collaborative, and always willing to learn new things
+Good communication skills
+Passionate about data
+Nice to haves
+Experience with one workflow management framework like Google Cloud Dataflow, Apache Beam, or Airflow
+Experience with a NoSQL database like Cassandra or MongoDB
+Experience with Docker, Kubernetes, and Jenkins for CI/CD pipelines
+Benefits
+Full medical, dental and vision coverage, 401(k) plan
+Unlimited vacation plan
+$80/month transportation reimbursement
+Weekly yoga
+Unlimited access to our product!

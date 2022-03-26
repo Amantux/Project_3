@@ -1,0 +1,55 @@
+Description
+
+The Senior Software Engineer codes software applications based on business requirements. The Senior Software Engineer work assignments involve moderately complex to complex issues where the analysis of situations or data requires an in-depth evaluation of variable factors.
+
+Responsibilities
+
+Role: Senior Software Engineer
+
+Assignment: Humana – Digital Health & Analytics
+
+Location: Campbell, CA (preferred) or San Diego, CA
+
+Summary of Duties & Job Description
+
+We are looking for a talented Senior Software Engineer to join our development team. The ideal candidate should have an advanced grasp of the software engineering lifecycle and is particularly strong in backend development. You will join a team that work on the collecting, storing, processing, and analyzing of huge sets of data. The primary focus will be on choosing optimal solutions to use for these purposes, then maintaining, implementing, and monitoring them. You will also be responsible for integrating them with the architecture used across teams in our group.
+
+Responsibilities
+Lead and guide project team(s) as tech lead or key contributor
+Participate in architectural discussion and product development
+Evaluate and integrate tools and frameworks required to provide requested capabilities
+Diagnose system performance issues and advise any necessary infrastructure changes
+Interact with product and business stakeholders beyond engineering
+Mentor and develop junior levels of engineers
+Skills and Qualifications
+Bachelor’s Degree or above (Computer Science, Bio Engineering, Electronics and Electrical Engineering or any related field)
+Proficient understanding and tech-lead level experience in one or more programming languages (Java, JavaScript, Python etc.)
+5+ years of experience in software development and/or data engineering
+Experience with JSON, RESTful web services and client-server interactions
+Knowledge of various persistence (RDBMS, noSQL, HDFS, Cassandra, Redis)
+Understanding Data Catalog, Data Governance, Data Lineage
+Experience with security, authentication in data platform
+Experience with building stream-processing systems, using solutions such as Spark-Streaming or Flink
+Experience with integration of data from multiple data sources
+Experience with building data lakes and data warehouses by leveraging any of the major cloud providers (GCP, AWS or Azure) is highly desirable
+Familiar with Hadoop ecosystem (HDFS, HBase etc.), especially Spark
+Good basics of operating systems and network
+Good knowledge of Big Data querying tools
+Knowledge of and experience with Azure
+Knowledge of various ETL techniques
+Knowledge of messaging systems, such as Kafka or RabbitMQ
+Role Desirables
+Experience with Spring/Spring Boot
+Experience with highly scalable web services
+API design and development
+Environment management/orchestration systems (Kubernetes, etc.)
+Experience with testing frameworks and code quality tools
+Experience with continuous integration environment and tools
+Experience with Oracle, PostgresSQL, Mongo development and optimization
+Familiarity with Healthcare (FHIR), Clinical or Financial industry
+Experience with agile development practices
+Familiarity with Git
+Knowledge of JIRA and Confluence
+Scheduled Weekly Hours
+
+40

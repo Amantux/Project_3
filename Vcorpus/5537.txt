@@ -1,0 +1,80 @@
+Read what people are saying about working here. 
+
+Job Title: Data Scientist
+
+Location: San Francisco, California, United States
+
+Department: Engineering
+
+About the Team
+
+We are a small team that emphasizes on moving fast and delivering impactful products through technical excellence. Our tech stack varies from a highly scalable and available architecture, processing more than 10K API requests per second, to big data processing and data analytics with 1.5B events per day. The team is focused on building out the next generation of eCommerce products to serve publishers on the Web with cutting-edge technologies and algorithms including advanced implementations of Cassandra, Kafka, Spark and Natural Language Processing (NLP), among many others.
+
+About the Job
+
+Our Commerce team works on our core suite of products and scales our infrastructure to meet increasing demands of new traffic. You will use your experience and expertise to develop algorithms, auction simulations, and utilize machine learning and computer science topics that will increase overall success and performance our product. There will be lots of opportunities to grow in technical leadership and gain experience and exposure across our advanced tech stack, as well as drive initiatives to improve the business and platform.
+
+What You’ll Be Doing:
+
+Own the research and development of data science products, implementing machine learning models to provide recommendations, predict the quality of our site, develop metrics that assess quality, among the many other things.
+
+Work closely with the Product and Engineering teams on designing and implementing machine learning models that address business and product needs.
+
+Consult with all business areas on how they can leverage data science to improve their operations.
+
+Develop and own the relationship between data science and the Commerce engineering teams
+
+Develop expertise in each data resource, methods to extract and process data (sql, hive, spark, etc...)
+
+Recognize and adopt best practices in programming and analysis: data integrity, test design, analysis, validation, and documentation
+
+Analyze and solve problems at their root, stepping back to understand the broader context
+
+About You
+
+You are a self starter and able to get the job done without micro management. You enjoy being part of a collaborative team but are also independent in terms of getting things done. You love technical challenges and solving problems all while striving to make better software and products. You are a self start who can prioritize, manage and juggle multiple projects at one time. You are a lifelong learner you are always learning new things and love to teach others.
+
+The successful candidate will have:
+
+Bachelor’s or higher degree in an analytical area such as computer science, physics, mathematics, statistics, or engineering or equivalent experience
+
+Experience with Java, Python and Scala
+
+Comfort with code base and systems design
+
+A knowledge of statistical methods including machine learning and AB testing methods
+
+Experience with classifications, linear regressions, clustering techniques
+
+Experience with natural language processing and feature extraction from text and images
+
+Experience implementing predictive models into production environments
+
+Strong communication skills and ability to mentor
+
+Comfortable in fast-paced, start-up environments
+
+Bonus Points
+
+Experience in the ecommerce, web analytics, search, and cloud computing space
+
+You know your ways around AWS and have dabbled with AWS Lambda, S3, and EC2.
+
+Position Reports to: VP, Product & Engineering
+
+About Sovrn
+
+We spend a great deal of our time online. Whether it’s for information, commerce, or entertainment, each of us has come to depend on what we research, discover, and share. Publishers – those who create and curate content – are what makes the Internet great. Yet these publishers practice their craft largely alone, in silos – without reference points or insightful understanding about where they sit in the grand scheme of things. To add to the challenge, once a Publisher’s content is in the wild, then the task of building engagement, growing a loyal following and enriching the engagement with that following can sometimes feel like shots in the dark or worse, a black box. Moreover, making money from their craft can be a complex task for any independent publisher who might prioritize generating content first and money second.
+
+Sovrn believes that independent publishers are the Internet's vibrancy. As a partner and advocate to tens of thousands of independent publishers, Sovrn provides tools, technologies and services that help publishers (a) make money; (b) get distribution to grow their audience; and (c) access a massive data commons providing extraordinary insights.
+
+The landscape of content networks, adtech vendors, and the myriad of buy-side / sell-side companies can be a complete maze for any reasonable person to decipher. Sovrn cuts through the noise and simplifies things with a basic, straightforward mission:
+
+ Help storytellers do more of what they want to do – and less of what they don’t
+
+Sovrn is an Equal Opportunity Employer!
+
+apply now
+
+all jobs
+ Sovrn is an advocate and partner to 20,000 publishers globally. We own and operate one of the largest global exchanges that connects publ...

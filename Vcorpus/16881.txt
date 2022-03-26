@@ -1,0 +1,26 @@
+Posted: Oct 22, 2018
+Role Number:
+200000687
+Do you love creating elegant solutions to highly complex challenges? Do you intrinsically see the importance in every detail? As part of our Silicon Technologies group, you’ll help design and manufacture our next-generation, high-performance, power-efficient processor, system-on-chip (SoC). You’ll ensure Apple products and services can seamlessly and efficiently handle the tasks that make them beloved by millions. Joining this group means you’ll be responsible for crafting and building the technology that fuels Apple’s devices. Together, you and your team will enable our customers to do all the things they love with their devices.
+
+In this role, your main function will be to write code for performance modeling for GPUs and the performance model infrastructure. This includes working with architects and designers to understand the units being modeled.
+Key Qualifications
+You should be able to demonstrate a deep understanding of C++ coding skills
+Previous experience with performance modeling both cycle accurate and queueing models
+Understanding of CPU micro architecture with GPU knowledge is a plus
+Experience with VHDL or Verilog
+Experience with scripting languages
+Excellent communication skills
+We would like you to be self-motivated and enjoy tackling new challenges
+Description
+As a GPU Performance Modeling Engineer, your responsibilities will include the following:
+Your work will be highly visible and critical to improving the performance and efficiency of our future Apple GPUs.
+Developing performance model for micro architecture trade-offs
+Integration of the performance model into the functional model
+You would take charge of the analysis on the model
+You will take ownership of the rollup and presentation of results and recommendations
+You will be improving the performance modeling infrastructure
+Part of your responsibilities will be providing feedback on the performance modeling process
+You will collaborate with teams at many layers of the hardware/software stack.
+Education & Experience
+PHD/MSEE or BSEE plus equivalent level of experience

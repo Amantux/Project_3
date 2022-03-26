@@ -1,0 +1,87 @@
+Read what people are saying about working here. 
+
+Internship
+
+Job Overview
+
+Informatics at Covance is a high profile, high impact team that focuses on creating innovative data-driven solutions to improve the speed, cost and quality of drug development. As a market leader in central laboratory and pre-clinical services, and top 5 provider of phase III clinical trial management services, Covance has assembled the most comprehensive investigator and clinical lab database in the pharmaceutical industry, spanning >11,000 protocols, >600 indications, >175,000 unique investigators, and >14 million patient visits over the past 10 years. The role of the informatics team is to lead breakthrough innovations that will unlock the power of this data to help pharmaceutical and biotechnology companies bring the miracles of medicine to the people in need faster and more efficiently.
+
+We are currently looking for summer intern in the area of machine learning, AI, natural language processing, deep learning, etc.
+
+Projects available:
+
+Option one – graph mining: CRO data at Covance is inherently abundant and heterogeneous, and therefore reflecting both the attributes of individua data sources and relations between them is important to unlease the data power and reveal patterns. Here we would like to view and frame a subset of Covance’s available data sets from the graph perspective and perform machine learning from that perspective.
+
+Many data sources are implicitly or explicitly interrelated. For example, trials are connected to studies and investigators and sites, protocols are connected to trials and sites, investigators are connected to sites and organizations, named entities (e.g disease names, symptoms) are connected to protocols and investigators, and so on – all these together potentially forming vertices and edges of a large graph. A variety of knowledge and patterns can be mined from the graph with customized graph algorithms. We are interested in deriving graph embeddings for the nodes in this study, which aims to encode and decode the graph structure and delivers embedding for graph nodes. Examples of such algorithms are DeepWalk, node2vec, HARP [1] and can be applied against Covance data for this intern study. They have the advantage of representing the graph nodes by lower dimensional vectors while still maintaining the similarity in the original graph.
+
+Eventually the graph embeddings can be used as features for downstream machine learning tasks: e.g. predicting site performance based on embedded vectors, recommending investigators/sites, classifying sites or named entities.
+
+[1] Hamilton, W. L., Ying, R., & Leskovec, J. (2017). Representation learning on graphs: Methods and applications. arXiv preprint arXiv:1709.05584.
+
+Option two - semantic search: this will contribute to the search algorithm for the protocol analytics project. A vanilla version of search engine only indexes document and match queries with documents if the document contains the query. However, search users, especially biomedical search users, would like to have more precise search results that can actually match their queries semantically. Semantic search can be developed in several ways: 1) parse queries, e.g. using named entity recognition algorithms to identify biomedical entities and then find all synonyms to this entity; 2) preprocess protocol documents, e.g. identify all biomedical concepts or entitites in protocols and find their concept formal name and parent/child concepts; 3) during query and document match, we can supply search algorithm that calculates document and query similarity scores based on a back-end ontology.
+
+Education/Qualifications
+
+In progress of obtaining a Masters or PhD in Computer Science, Data Science, Statistics or related field.
+
+Experience
+
+Familiarity with conepts and practices of machine learning, data mining, pattern recognition, statistics
+
+Preferrably having good understanding of deep learning, graph representation learning, or natural language processing
+
+Programming skills in languges such as Python, R, Java, Scala, C/C++
+
+Currently pursuing a degree in Computer Science, Data Science, Statistics, Bioinformatics, Clinical Informatics, Systems Engineering, or related area
+
+Highly inquisitive, analytical, and innovative
+
+Engaged and motivated
+
+Ability to work both independently and as part of a larger team
+
+Ability to see the big picture and work towards that goal
+
+ 
+
+Job Overview
+
+Informatics at Covance is a high profile, high impact team that focuses on creating innovative data-driven solutions to improve the speed, cost and quality of drug development. As a market leader in central laboratory and pre-clinical services, and top 5 provider of phase III clinical trial management services, Covance has assembled the most comprehensive investigator and clinical lab database in the pharmaceutical industry, spanning >11,000 protocols, >600 indications, >175,000 unique investigators, and >14 million patient visits over the past 10 years. The role of the informatics team is to lead breakthrough innovations that will unlock the power of this data to help pharmaceutical and biotechnology companies bring the miracles of medicine to the people in need faster and more efficiently.
+
+We are currently looking for summer intern in the area of machine learning, AI, natural language processing, deep learning, etc.
+
+Projects available:
+
+Option one – graph mining: CRO data at Covance is inherently abundant and heterogeneous, and therefore reflecting both the attributes of individua data sources and relations between them is important to unlease the data power and reveal patterns. Here we would like to view and frame a subset of Covance’s available data sets from the graph perspective and perform machine learning from that perspective.
+
+Many data sources are implicitly or explicitly interrelated. For example, trials are connected to studies and investigators and sites, protocols are connected to trials and sites, investigators are connected to sites and organizations, named entities (e.g disease names, symptoms) are connected to protocols and investigators, and so on – all these together potentially forming vertices and edges of a large graph. A variety of knowledge and patterns can be mined from the graph with customized graph algorithms. We are interested in deriving graph embeddings for the nodes in this study, which aims to encode and decode the graph structure and delivers embedding for graph nodes. Examples of such algorithms are DeepWalk, node2vec, HARP [1] and can be applied against Covance data for this intern study. They have the advantage of representing the graph nodes by lower dimensional vectors while still maintaining the similarity in the original graph.
+
+Eventually the graph embeddings can be used as features for downstream machine learning tasks: e.g. predicting site performance based on embedded vectors, recommending investigators/sites, classifying sites or named entities.
+
+[1] Hamilton, W. L., Ying, R., & Leskovec, J. (2017). Representation learning on graphs: Methods and applications. arXiv preprint arXiv:1709.05584.
+
+Option two - semantic search: this will contribute to the search algorithm for the protocol analytics project. A vanilla version of search engine only indexes document and match queries with documents if the document contains the query. However, search users, especially biomedical search users, would like to have more precise search results that can actually match their queries semantically. Semantic search can be developed in several ways: 1) parse queries, e.g. using named entity recognition algorithms to identify biomedical entities and then find all synonyms to this entity; 2) preprocess protocol documents, e.g. identify all biomedical concepts or entitites in protocols and find their concept formal name and parent/child concepts; 3) during query and document match, we can supply search algorithm that calculates document and query similarity scores based on a back-end ontology.
+
+Education/Qualifications
+
+In progress of obtaining a Masters or PhD in Computer Science, Data Science, Statistics or related field.
+
+Experience
+
+Familiarity with conepts and practices of machine learning, data mining, pattern recognition, statistics
+
+Preferrably having good understanding of deep learning, graph representation learning, or natural language processing
+
+Programming skills in languges such as Python, R, Java, Scala, C/C++
+
+Currently pursuing a degree in Computer Science, Data Science, Statistics, Bioinformatics, Clinical Informatics, Systems Engineering, or related area
+
+Highly inquisitive, analytical, and innovative
+
+Engaged and motivated
+
+Ability to work both independently and as part of a larger team
+
+Ability to see the big picture and work towards that goal
+
+ Covance, the drug development business of Laboratory Corporation of America Holdings (LabCorp), is the world’s most comprehensive drug de...

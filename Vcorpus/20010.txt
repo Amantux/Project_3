@@ -1,0 +1,48 @@
+Job Title: Data Governance Analyst
+Location: White Plains, NY
+Duration: 5+ Months
+
+Project Overview:
+The Enterprise Data Governance Project aims to enable CLIENT to manage its "Data-As-An-Asset and to build the foundation for an enterprise data analytics platform at CLIENT.
+This program will focus on enabling data stewardship, improving the quality of our data assets, increasing data security and protection, simplifying data integration and establishing better audit trail on data usage at CLIENT
+This program will implement Data Governance & Data Integration tools and processes to provide data owners and data consumers the ability to provision and access high quality, well-governed data for their day-to-day operations.
+In addition, it will help establish a strong foundation upon which to build a world-class Data Analytics capability that turns data into business insights more efficiently and effectively.
+Job Description:
+Execution of the Data Discovery Project Phase 2
+Conduct data discovery stakeholder interviews with business and IT stakeholders (selected applications)
+Identify data sets, develop data flows, understand data-related processes and identify key data issues for each application
+Update of Enterprise Data Flow diagrams and Enterprise Data Catalog inventory
+Creation of Application Playback decks and Data Discovery report & presentation
+Enablement of Data Roles within CLIENT
+Maintenance of datasets and data roles in the Enterprise Data Catalog - additions, updates and deletions
+Identification of updates / changes to existing data roles for the datasets in the CLIENT Data Catalog
+Perform onboarding, transition and education of CLIENT stakeholders for the Data Roles at the enterprise (Data Owner, Data Steward, Data Custodian)
+Conduct of quarterly Data Owner meetings to communicate upcoming Data Governance initiatives / processes / policies / best practices
+Lead in onboarding and implementation of Collibra Data Governance tool
+Onboarding of new datasets into Data Governance tool
+Establishment of Data Catalog and shop-for-data feature in Data Governance tool
+Manage metadata ingestion (manual and automated) from different sources
+Creation of new workflows in Collibra Data Governance tool
+New custom workflow for Data Access Request
+New custom workflow for Business Glossary from proposal to approval
+New custom workflow for asset creation, review and validation
+Training and onboarding of CLIENT stakeholders to Collibra
+Development of new Data Governance Policies, Procedures and Standards
+Develop and operationalize new Data Access Request process
+Design of new Enterprise Data Request Process, based on ongoing pilot feedback
+Implementation of new Data Request Process - app by app working with application owners and business stakeholders
+Communication and training of all enterprise users on new Data Request Process
+Development and execution of Change Management plan for Data Discovery, Data Access Request and operationalization of new Data Governance workflows
+Skills:
+Strong knowledge of Data Governance & Quality - policies, processes and tools
+Strong experience & expertise in using Collibra Data Governance tool
+Knowledge (experience preferred) using Trillium Data Quality tool and integration with Collibra
+Working experience in implementing Data Governance policies and processes
+Strong presentation & communication skills
+Ability to work with Senior Leaders
+Experience working on teams that work under Agile principles
+Education & Certifications:
+Undergraduate degree in Engineering, Computer Science, Data Management, or similar field of study. Graduate degree preferred.
+3+ years of demonstrated Data Governance experience
+Minimum of Level 2 Certification in Collibra required
+EEO: All Qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. EOE, including disability/vets.

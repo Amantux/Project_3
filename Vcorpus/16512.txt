@@ -1,0 +1,24 @@
+Shutterfly’s purpose is to help share life’s joy as the leading retailer and manufacturing platform for personalized products and communications. As a leader in personalized photos and services, we allow you to create lasting keepsakes; award-winning photo books; custom stationery, including cards, announcements, and invitations; as well as unique home decor and photo gifts. We help you connect with your family and friends by sharing your memories and photos in creative and innovative ways.
+
+We are seeking an experienced data scientist to join Shutterfly’s Customer Insights and Analytics team to support key initiatives within personalization sciences. This role will leverage the latest ML techniques for customer facing applications, develop Shutterfly’s unique and novel data sources and identify predictive modeling opportunities to better serve the needs of Shutterfly’s diverse customer base. The ideal candidate will have hands-on experience in developing and deploying deep learning models, designing and executing A/B tests, and creating integrated feedback mechanisms for test and learn.
+
+POSITION RESPONSIBILITIES:
+Work with stakeholders to define objectives and measure success, establish KPIs and measurement methodologies
+Provide expertise to non-analytical peers within Marketing, Product and Engineering
+Develop experimental designs to support test and learn
+Apply advanced knowledge of SQL and the ability to extract and develop complex modeling features
+Size the impact of the models on key business measures
+Build machine learning models using Python which can recommend optimal product, offer, content and information.
+Provide actionable insights to drive key decisions across the marketing organization using a range of analytical/statistical techniques from descriptive analysis to predictive/explanatory models
+Be a self-starter, eager to learn, and motivated by a passion for developing the best possible solutions to problems
+REQUIREMENTS:
+MS or Ph.D. or equivalent experience in a quantitative field such as computer or data science, economics, applied statistics or life sciences
+3+ years of experience in developing and deploying machine learning and deep learning models in a professional setting
+Knowledgeable about recent advancement in the field and possess a strong research mindset
+Domains of expertise should include at least one of the following: collaborative filtering, content-based recommender systems, link-click prediction, NLP for information retrieval, computer vision or predictive customer targeting.
+Experience with deep learning frameworks such as Tensorflow, Keras and/or Pytorch and developing statistical studies in Python/Jupyter
+Advanced SQL skills
+Practical experience with distributed data platforms: Map/Reduce, Hadoop, SPARK
+Usage of cloud compute solutions, eg. AWS, GCS or Azure
+Experience with version control systems such as Github
+Hands-on experience with Unix

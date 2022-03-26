@@ -1,0 +1,36 @@
+At Veeva, we build enterprise cloud technology that powers the biggest names in the pharmaceutical, biotech, consumer goods, chemical & cosmetics industries. Our customers make vaccines, life-saving medicines, and life-enhancing products that make a difference in everyday lives. Our technology has transformed these industries; enabling them to get critical products and services to market faster. Our core values, Do the Right Thing, Customer Success, Employee Success, and Speed, guide us as we make our customers more efficient and effective in everything they do.
+
+The Role
+
+As a Principal Software Engineer on the Veeva Data Cloud development team, you will be responsible for building out the systems and processes from the ground up for our product launch. You’ll continue to be focused on building software that can scale and continue to evolve with new features and capabilities over time. You’ll be a part of a small team focused on building Veeva Data Cloud from the ground up.
+What You’ll Do
+Design and develop platform capabilities for a set of new scalable data products to support enterprise customers
+Collaborate with Product Management and Development team members on the technical design and development for core product capabilities
+Process large amounts of structured and unstructured data to extract value from it
+Focus on bringing automation to scale and identifying where software can proactively solve problems in an automated way
+Builds the job scheduler and execution capability, focusing on resource scalability
+Requirements
+10+ years of hands on software development experience
+Proven experience building products in Big Data, distributed computing and cloud
+Proficient in Java/Scala
+Proficient in Spark/EMR
+Proficient in Linux, SQL, relational databases
+Experience working with AWS
+Modern data storage, messaging, and processing tools and demonstrated experience designing and coding in big-data components
+NoSQL databases, such as MongoDB, ElasticSearch, Cassandra, etc.
+RESTful interfaces
+Experience working in an agile environment on enterprise products
+Experience in hiring and developing high-performing engineers
+College degree in math, computer science, systems engineering or a similar technical field
+Nice to Have
+Exposure to data and code security (Encryption, SSL, Hashing, Masking) is an advantage
+Understanding of machine learning algorithms and computational modeling
+Perks & Benefits
+Office conveniently located in midtown Manhattan and close to several major transportation hubs
+Fully stocked kitchen with snacks and beverages
+Fitness/wellness reimbursement
+Allocation for continuous learning and development
+Weekly happy hours and other social activities
+Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world.
+
+Veeva is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances.

@@ -1,0 +1,18 @@
+About Cubist
+Cubist Systematic Strategies is one of the world’s premier investment firms. The firm deploys systematic, computer-driven trading strategies across multiple liquid asset classes, including equities, futures and foreign exchange. The core of our effort is rigorous research into a wide range of market anomalies, fueled by our unparalleled access to a wide range of publicly available data sources.
+Job Description
+This is an opportunity for students and researchers of advanced data modeling and statistical learning methods to apply these techniques to market prediction and systematic trading.
+Job Responsibilities
+Reseach interesting trading ideas from academic papers, blogs, and other sources
+Pre-process (validate, clean, normalize, reduce dimension) very large data sets for model estimation and event studies
+Identify features and relationships useful for the predictive modeling of market dynamics
+Design and implement systematic strategies that can exploit market abnormalities
+Desirable Candidates
+Undergraduate, MS, or PhD candidates in finance, computer science, mathematics, physics, or other quantitative discipline
+Programming in any of the following: C++, Java, C#, MATLAB, R, Python, or Perl
+Strong analytical and quantitative skills
+Demonstrated interest in financial markets and systematic trading
+Clear, concise, and proactive communicator
+Detail-oriented
+Willing to take ownership of his/her work, working both independently and within a small team
+We’re looking for exceptional colleagues with unparalleled passion. If you’d like your resume to stand out, tell us about your exceptional personal achievements, even if they have nothing to do with finance. Of course we love to hear more about specific engineering or data projects that you’ve worked outside of school, or as part of your curriculum. If you’re proud of the work you did we want to hear about it. In addition to exceptional statisticians and engineers, we work with talented musicians, writers, mathematicians, and founders of non-profits; we’d love to learn more about what excites you.

@@ -1,0 +1,38 @@
+Position Summary
+NextNav is launching a ground breaking location service for smartphones, IOT, and other devices – an ability to determine floor level altitude service across the country – a capability that does not exist at scale anywhere today! No longer constrained by legacy “flat earth” technologies, applications and users will be able to determine floor-level altitude, which is essential for navigation, user context and relavency and many other applications that are used indoors. NextNav’s is the highest precision Z-Axis solution proven in the marketplace today and a person joining this team will have the ability to define the space.
+
+
+This Position is for a Principal / Senior Staff Engineer working on the hybridization of measurements from a terrestrial radionavigation system with GNSS and sensors (IMU, magnetometer). The role includes the development of advanced sensor fusion architecture and algorithms, thorough testing and optimization using field data, and working with software and firmware teams for final implementation and verification on hardware platforms.
+
+Help make the world 3D!
+
+
+Responsibilities
+•Develop sensor fusion algorithms (including Kalman filter and/or particle filter) for a hybrid positioning and navigation solution for pedestrian (and other applications such as automotive and drone) applications for mixed indoor and outdoor usage using a terrestrial radionavigation system along with other technologies such as GNSS, IMU, magnetometer, and PDR with map constraints.
+•Develop simulations to quantify/predict the performance of proposed algorithms.
+•Analyze field data to optimize algorithms and algorithm settings, and to help investigate and resolve issues seen in the field.
+•Develop system architecture for the hybrid positioning algorithm implementation.
+•Analyze and optimize implementation complexity and cost (memory, CPU) for target hardware platform.
+•Work with Software and Firmware teams to implement and test proposed algorithms on hardware platforms
+
+Desired Skills& Experience
+Required:
+•MS or PhD (preferred) in EE/ECE with emphasis in GNSS systems, Positioning/Navigation (preferred) or Signal Processing/Communications.
+•3+ years of experience in design and implementation of Positioning/Navigation Systems.
+•Expertise in sensor fusion positioning filters including Kalman and particle filters
+•Demonstrated implementation experience, performance and robustness optimization in the fusion of Pedestrian Dead Reckoning (PDR), range measurements, and indoor map constraints
+•Understanding of (MEMS) Inertial Measurement Unit (IMU), its error models, and mechanization
+•Thorough understanding of PDR techniques, including aspects such as step detection, conveyance determination, mode detection, stride length estimation, AHRS, magnetic perturbation detection
+•Proficient with Matlab. Knowledge of python and C/C++ is a plus.
+•Ability to work independently on challenging technical problems within and across Systems, HW and FW teams.
+
+Preferred:
+•Experience with sensor fusion development and implementations for automotive applications including wheel odometry, inertial navigation, vehicle motion model, map matching.
+•Experience with sensor fusion development and implementation for drone applications including vehicle dynamic model (VDN), inertial integration, and control loop closure.
+
+Physical Demands
+•Working indoors in office setting with long periods of sitting at a desk
+
+Work Environment
+•Office Environment
+•Reasonable accommodations may be made to enable people with disabilities to perform the essential functions of the position.

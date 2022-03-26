@@ -1,0 +1,103 @@
+Infrastructure Vulnerability Analyst II
+
+The Chubb Information Security team is responsible for protecting information and information systems against unauthorized access, detecting and responding to attempts to gain access and enabling access through our identity processes. Chubb operates a global information security team supporting local business units across five regions (Asia Pacific, North America, Latin America, Japan, and Europe including the Middle East and Africa). Our global information security strategy is developed with input from each of these regions and translated into programs that are then executed by the regions using resources from each region (especially, our infrastructure partners).
+
+The Infrastructure Vulnerability Analyst will leverage analytic and technical skills to discover cyber risks; prioritize assets, assess risks and remediation/mitigation techniques; report on risks, and drive and track remediation/mitigation/acceptance of risk to improve security posture. The qualified candidate will assess vulnerabilities, then collaborate with IT and business teams to ensure prompt and effective distribution of findings and that risk and incidents are addressed in the most effective and efficient manner possible.
+
+We are looking for individuals who have experience performing daily, hands-on, Network and software security assessment and remediation activities and support the security team as part of the vulnerability management program. The position includes performing network scans and software security activities within the defined application security program including; O/S vulnerability testing and analysis, use of common tools, written and verbal articulation of remediation recommendations and follow up.
+
+Duties & Responsibilities:
+
+
+• Maintain vulnerability scanning toolset
+
+• Perform asset and network discovery activities, helping to ensure full coverage of the Chubb environment
+
+• Assess new vulnerabilities, investigate solutions and compensating controls on information systems and infrastructure
+
+• Review and validate vulnerability findings, utilizing tools to gather scope
+
+• Prioritizing remediation activities with operational teams through risk ratings of vulnerabilities and assets
+
+• Verify vulnerability remediation/mitigation
+
+• Collate security incident and event data to produce monthly exception and management reports
+
+• Implement or coordinate remediation required by audits, and document exceptions as necessary
+
+• Assist in developing program quality metrics as both program performance indicators and enterprise risk indicators
+
+• Work with Application Vulnerability team as needed to integrate vulnerability findings against application level scans to provide a holistic security posture for assets
+
+• Leverage Chubb inventory and patch management systems to provide reporting and governance for vulnerability impact and remediation progress
+
+• Monitor security vulnerability information from vendors and third parties
+
+• Helping to develop the Chubb's next-generation vulnerability management program including formalized assessment criteria, integration with asset inventory, enterprise vulnerability scanning, and remediation tracking and governance.
+
+Minimum Qualifications:
+
+
+• Bachelor's Degree in Computer Science, Engineering, or other Engineering or Technical discipline or equivalent relevant experience.
+
+• Minimum 1-3 years of experience working in Information Security
+
+• Experience with management and use of Rapid7 Nexpose
+
+• Experience in operating vulnerability scanning infrastructure and services
+
+• Experience analyzing scans/reports from security scanning tools and other internal security tools related to risk and vulnerability
+
+• Knowledge with prioritizing remediation activities with operational teams through risk ratings of vulnerabilities and assets
+
+• Knowledge of industry standards regarding vulnerability management including Common Vulnerabilities and Exposures (CVE) and Common Vulnerability Scoring System (CVSS)
+
+• Knowledge of technology and security topics including network security, wireless security, application security, infrastructure hardening and security baselines, web server and database security
+
+• Must have experience developing scan policies, reading, and developing vulnerability reports.
+
+• Working experience with industry frameworks (CSF, ISO, COBIT, etc.)
+
+• Comfortable working outside their comfort zone with a willingness to learn
+
+• Excellent verbal and written communication skills
+
+• Strong analytical skills
+
+• Strong team player with ability to work independently
+
+• Strong project management skills and ability to multi-task
+
+• Self-motivated with strong initiative
+
+Preferred Qualifications
+
+• Knowledge of computer networking concepts and protocols, and network security methodologies.
+
+• Knowledge of risk management processes (e.g., methods for assessing and mitigating risk).
+
+• Knowledge of specific operational impacts of cybersecurity lapses.
+
+• Knowledge of host/network access control mechanisms (e.g., access control list, capabilities lists).
+
+• Knowledge of system and application security threats and vulnerabilities (e.g., buffer overflow, mobile code, cross-site scripting, Procedural Language/Structured Query Language [PL/SQL] and injections, race conditions, covert channel, replay, return-oriented attacks, malicious code).
+
+• Knowledge of systems diagnostic tools and fault identification techniques.
+
+• Knowledge of system administration, network, and operating system hardening techniques.
+
+• Knowledge of network protocols such as TCP/IP, Dynamic Host Configuration, Domain Name System (DNS), and directory services.
+
+• Knowledge of penetration testing principles, tools, and techniques.
+
+• Skill in the use of penetration testing tools and techniques.
+
+• Skill in conducting vulnerability scans and recognizing vulnerabilities in security systems.
+
+• Ability to read, write and modify scripts for automation of vulnerability management tasks
+
+• Skill in performing impact/risk assessments.
+
+• Ability to identify systemic security issues based on the analysis of vulnerability and configuration
+
+Chubb strives to offer a diverse and inclusive and rewarding work environment. Teamwork and mutual respect are central to how Chubb operates and we believe the best solutions draw upon diverse perspectives, experiences and skills. We operate in such a way where everyone, regardless of their singular background has the opportunity to contribute to our collective success.

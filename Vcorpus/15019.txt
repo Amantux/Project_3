@@ -1,0 +1,51 @@
+Machine Learning Engineer
+10835
+Phoenix, AZ
+7/13/2020 11:11:00 AM
+
+IT
+Contractor - W2
+
+Job Description
+Job Description – Python/ML – Senior Engineer/ Architect
+
+Site Reliability engineering portfolio consists of several mission critical americanexpress.com applications. Web engineering enterprise applications are highly available applications, maintains high (~99.999%) availability in an extremely high throughput transactional system with strict performance requirements. Primary focus of the Site Reliability Engineering team is to conceptualize, design, develop and implement observability related frameworks/common components, instrumenting observability tools for enterprise that will ensure high application reliability, scalability, availability and performance of the Web applications. Site reliability team is embarking on a transformation journey to implement “Automation first” approach in Service Delivery and Site Reliability Engineering space.
+
+What you will be doing:
+Conceptualize and implement Machine Learning driven Site Reliability Engineering Framework/Components to improve predictive monitoring and driving SRE team’s journey towards “Automation First” approach
+Research latest technology, concepts, conceptualize solution and develop proof of concept that will improve resiliency and performance of the production infrastructure. Design and implement innovative solution/framework that will improve software engineering velocity, infrastructure resiliency and security, and data availability
+Develop observability related common framework components (to be leveraged by enterprise applications), define standards for configuration, monitoring, reliability and performance engineering
+
+
+Qualifications:
+A BS degree in Computer Science, Computer Engineering, other Technical discipline, or equivalent work experience
+5 + years of experience in Python with emphasis on machine learning
+Hands on experience with – Spark, Splunk, Pandas, Numpy, and Scikit-learn
+Experience in designing mission critical highly available enterprise applications
+Strong knowledge of Linux internals and experience managing Linux systems in high traffic environments
+Strong knowledge of machine learning, mathematical modeling, R, and statistics
+Strong interpersonal communication skills and the ability to work well in a diverse team-focused environment
+5+ years of experience with building Rest APIs, API Integration, and Web Services is preferred
+Knowledge of server-side technologies such as WebSphere, JBose, NodeJS is preferred
+
+Job Requirements
+Job Description – Python/ML – Senior Engineer/ Architect
+
+Site Reliability engineering portfolio consists of several mission critical americanexpress.com applications. Web engineering enterprise applications are highly available applications, maintains high (~99.999%) availability in an extremely high throughput transactional system with strict performance requirements. Primary focus of the Site Reliability Engineering team is to conceptualize, design, develop and implement observability related frameworks/common components, instrumenting observability tools for enterprise that will ensure high application reliability, scalability, availability and performance of the Web applications. Site reliability team is embarking on a transformation journey to implement “Automation first” approach in Service Delivery and Site Reliability Engineering space.
+
+What you will be doing:
+Conceptualize and implement Machine Learning driven Site Reliability Engineering Framework/Components to improve predictive monitoring and driving SRE team’s journey towards “Automation First” approach
+Research latest technology, concepts, conceptualize solution and develop proof of concept that will improve resiliency and performance of the production infrastructure. Design and implement innovative solution/framework that will improve software engineering velocity, infrastructure resiliency and security, and data availability
+Develop observability related common framework components (to be leveraged by enterprise applications), define standards for configuration, monitoring, reliability and performance engineering
+
+
+Qualifications:
+A BS degree in Computer Science, Computer Engineering, other Technical discipline, or equivalent work experience
+5 + years of experience in Python with emphasis on machine learning
+Hands on experience with – Spark, Splunk, Pandas, Numpy, and Scikit-learn
+Experience in designing mission critical highly available enterprise applications
+Strong knowledge of Linux internals and experience managing Linux systems in high traffic environments
+Strong knowledge of machine learning, mathematical modeling, R, and statistics
+Strong interpersonal communication skills and the ability to work well in a diverse team-focused environment
+5+ years of experience with building Rest APIs, API Integration, and Web Services is preferred
+Knowledge of server-side technologies such as WebSphere, JBose, NodeJS is preferred

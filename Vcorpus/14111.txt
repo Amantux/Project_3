@@ -1,0 +1,38 @@
+Job Description
+
+The Data Modeler/Ontologist is responsible for partnering with company-wide customers to create a new, end to end modeling strategy for collecting and managing our product metadata for a catalog of unique items! This will include creating new schemas, mapping to existing legacy schemas and industry standards, writing software requirements & use cases, establishing governance, maintenance practices, and data validations, creating sensible data quality metrics, all to industry standards. We expect previous experience crafting ontologies, working with ontology & taxonomy software, and also the ability to back up modeling choices with theoretical knowledge, analytical data, and whats best for users.
+
+Youll work most closely with ontologists/taxonomists, product managers, engineers, and analysts. In this position you will be empowered to make important decisions about the future of data at Etsy in an encouraging team environment to build a data pipeline from beginning to end. If youre passionate about talking through the long term implications of modeling something as a class versus an instance with a team, and comfortable deciding which solution best meets our needs with what we know now, this may be the job for you!
+
+This full-time position is based remotely.
+
+About the Team
+The Knowledge Base team is passionate about and dedicated to building an in-depth understanding of the unique world of Etsy. Our goal is to build, collect, and model product metadata to make sense of millions of unique items and users, enabling Etsys teams to craft meaningful, relevant experiences. We are responsible for the end-to-end process of describing, collecting, enhancing and serving product metadata data to our internal partner teams.
+
+Qualifications
+
+About the Role
+Partner with product management on defining and maintaining a comprehensive and flexible upper ontology for categorical data
+Write and maintain documentation around product metadata.
+Work closely with the engineering team on software requirements, evaluation, implementation, and iteration
+Experience teaching theoretical modeling concepts and ontology software. Work with product managers and engineers to prioritize tooling requirements.
+Serve as a subject matter authority in the development of the process by which we collect product metadata from our sellers
+About You
+Can you make the best decisions possible with the research and analytics available and the support of a team and SMEs?
+You balance the prioritization of short-term opportunities and longer-term foundational changes.
+You have a love of investigating complex metadata tangles and devising solutions that meet the needs of diverse audiences
+You have demonstrated ability with tools and languages used for storing, governing and querying data
+SQL / SPARQL / XML / JSON / RDF experience
+You have professional experience writing and maintaining taxonomies & ontologies and working with taxonomy software
+Protege (Web or Desktop) / Pool Party / Synaptica / Access Innovations / SmartLogic / internal taxonomy software experience
+You are passionate about knowledge leading in this space and teaching your teammates.
+You are a strong communicator, especially with people less experienced in your domain
+Preferred
+Experience in e-commerce, specifically with marketplaces
+Educational degrees or experience in library & information science (MLS) or linguistics
+Work experience with data architecture, relational databases, graph data, CMSs, linked data, semantic data, metadata management, product catalogs, computational linguistics, and/or machine learning.
+Remote work experience
+Previous experience with user testing and/or A/B testing
+Additional Information
+
+At Etsy, we believe that a diverse, equitable and inclusive workplace makes us a more relevant, more competitive, and more resilient company. We welcome people from all backgrounds, ethnicities, cultures, and experiences. Etsy is an equal opportunity employer. We do not discriminate on the basis of race, color, ancestry, religion, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender identity or expression, veteran status, or any other legally protected status.We will ensure that individuals with disabilities are provided a reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment.While Etsy supports visa sponsorship, sponsorship opportunities may be limited to certain roles and skillsets.

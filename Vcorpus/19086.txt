@@ -1,0 +1,32 @@
+Title: AI Researcher/Engineer CV
+
+Company: Samsung Research America
+
+Lab: Artificial Intelligence Lab
+
+Location: Mountain View, CA
+
+Position Summary:
+
+Samsung Research America (SRA), located in Mountain View, CA, is looking for an outstanding and highly self-motivated researcher/engineer. We are looking for candidates with machine learning and deep learning background, in the field of computer vision.You will work with a team of research scientists and engineers tackling real-world problems involving Samsung's Artificial Intelligence initiatives. The AI research center is a key part of Samsung's global R&D effort and aims to have influence on future Samsung products reaching hundreds of millions of users worldwide.
+
+Common Essential Duties & Responsibilities:
+Design, develop and implement novel deep learning/machine learning algorithms for visual understanding, visual generation, visual quality enhancement, etc.
+Conduct exploratory research on deep learning, especially efficient on-device computing
+Develop proof-of-concept demonstration on advanced computer vision technologies
+Generate creative solutions (patents) and publish research results in top conferences (papers).
+Background / Experience:
+
+Experience in one or more of the following areas:
+Experience in efficient machine learning model/architecture design for edge devices (e.g., MobileNet, ShuffleNet, etc.)
+3+ years of experience in computer vision, especially in image synthesis, super resolution, object detection, etc.
+3+ years of experience in deep learning technologies on computer vision (CNN, RNN/LSTM/GRU, R-CNN, fast R-CNN, Mask RCNN, GAN, etc.)
+3+ years of experience in machine learning (generative model, discriminative model, transfer learning, GAN, one-shot or few shot learning, unsupervised learning, semi-supervised learning, weakly supervised learning, meta-learning, outlier detection, etc.)
+Experience in multi-modal data deep learning is welcome
+Proficiency in a neural network library (e.g., TensorFlow, PyTorch, etc.)
+3+ years of experience in developing software in computer vision, machine learning or computer graphics, including low-level system development and development on various platforms, especially on mobile edge devices
+Proven track record of research/publications and patents on machine learning and artificial intelligence field (CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR, AAAI, IJCAI, etc.)
+Necessary Skills / Attributes:
+Team work and communication skills are required
+MS or PhD. degree in CS, EE, or related field is required
+Samsung is an EEO/Veterans/Disabled/LGBT employer. We welcome and encourage diversity as we strive to create an inclusive workplace.

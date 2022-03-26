@@ -1,0 +1,47 @@
+Company Industry: Technology
+Opportunity: The Mom Project is helping to source candidates for the above client who is looking for a Senior Data Engineer
+
+Commitment Level: 40 hours per week, on-site, contract through December 2020
+
+Our Customer is one of the leading global interconnection platforms and the world’s largest data center provider. They connect the world's leading businesses to their customers, employees and partners inside the world's most connected data centers in 52 markets across five continents. Their mission is to protect, connect and power the digital economy.
+The candidate must be able to pass I-9 verification.
+
+Overview:
+We are seeking a Senior Data Engineer on a contract basis with advanced knowledge of SQL, Java and intermediate experience with API and python skills to help build and evolve Customer’s data services.
+In this role your primary focus will be writing complex SQL queries, fine-tuning and development of all server-side backend data processing logic, ensuring high performance and responsiveness to requests from the front-end / API requests on Linux environment. The project has three modules:
+- Real-time Data processing using Kafka, XML, Python and SQLAlchemy
+- ETL Data processing module developed in Python and SQL – Postgres
+- Rest API module developed in Java
+
+What You’ll Do:
+● Develop and maintain scalable ETL pipelines, build new pipelines and facilitate API integrations to support new requirements
+● Writing complex SQL queries to serve new requirements for ETL, data analysis and debugging
+● Writing SQL functions, procedures as required based on the requirements
+● Fine-tune or optimize queries to support the increasing volume of data
+● Debug Java, Python code, modify and enhance ETL applications based on the requirements on Linux environment
+● Writing reusable and efficient code in Java, Python and SQL
+● Develop Rest APIs using java libraries
+● Write unit, functional, regression tests for enhanced feature, maintain engineering documentation
+● Communicate closely with all product owners, Business and engineering teams to develop approaches for data platform architecture
+
+Must Haves:
+● 5+ years of SQL experience having hands-on experience in writing, debugging and optimizing SQL queries, functions and stored procedures
+● 3+ years in writing Java-based code, debugging and knowledge of REST API
+● 2+ years of experience with hands-on experience in writing, debugging Python code on Linux
+● Basic understanding of regular Linux commands and usage
+● Strong knowledge of Computer Science fundamentals - OOPS, Data Structures and Algorithms.
+● Experience writing Java and python applications that interact with ORM (Object Relational Mapper) libraries
+● Able to integrate multiple data sources and databases
+● Strong knowledge in XML and JSON parsing with unit test and debugging skills
+● Knowledge in Kafka, EMS queues or any messaging platform gateway application
+● Willingness and ability to learn new tools/languages as needed
+● Process-oriented with excellent verbal and written communication skill with a desire for customer service
+● Experience and knowledge of ETL’s and basics of Data warehousing
+
+Education: Bachelor's Degree required
+
+Hours & Location:
+M-F, 40 hours/week. This position is located onsite at our Customer’s Sunnyvale, CA location.
+
+Now for the Perks!
+Health Benefits: Medical, Dental, Vision, Life (including spouse & child), 401k, STD/LTD, AD&D, and Commuter Benefits program.

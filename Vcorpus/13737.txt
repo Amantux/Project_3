@@ -1,0 +1,25 @@
+At NewtonX we are building Worlds Best Knowledge Access Platform. We connect our clients (mostly Fortune 500 companies) with subject-matter experts possessing highly specific, hard to find knowledge, across all industries. Our core technology consists of knowledge graph based expert search engine, global knowledge marketplace, automated expert outreach platform, and a full-spectrum client support system.
+
+Our systems to support these platforms require very strong data scientists with large scale, production experience to shape how data science is done on a wide variety of problems at NewtonX and how we grow our data science function. We are looking for strong, inquisitive data scientists with clever solutions, and a desire to join a small but fast growing team (<40>
+
+RESPONSIBILITIES
+Constructing deeper and broader knowledge graph by mining both public information and proprietary data.
+Developing advanced search functionalities and algorithms to effectively index and find experts matching clients specific needs.
+Applying natural language processing and machine learning to generate highly effective searches from client requests automatically.
+Optimize the expert outreach platform to increase the response rate.
+Define metrics, A/B testing and conduct statistical measurement of features and improvements.
+REQUIRED SKILLS
+6+ years of industry experience in data science.
+Strong track record of applying NLP and ML methods in solving real world problems.
+Fluency of large dataset processing with mainstream big data stack.
+Ability to communicate complex concepts in a clear and effective manner.
+Passion for making knowledge more accessible in the world.
+Strong sense of ownership and results-focused.
+BONUS SKILLS
+Familiarity with Google Cloud Dataflow or Apache Beam & AI Platform
+Docker
+RabbitMQ
+Apache Kafka
+Apache Beam, Hadoop, Spark
+Jenkins
+Python

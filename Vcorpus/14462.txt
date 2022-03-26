@@ -1,0 +1,59 @@
+Kite is continuing to hire for all open roles. Our interview process may be conducted virtually and some roles will be asked to temporarily work from home. Over the coming weeks and months, we will be implementing a phased approach to bringing employees back to site to ensure the health and safety of our teams.
+
+For Current Kite Pharma Employees and Contractors:
+
+
+Please log onto your Internal Career Site to apply for this job
+
+Job Description
+
+
+We are looking for a motivated individual to help develop and support software applications, tools, and data management pipelines for our research and clinical purposes. The ideal candidate would have expertise in the life sciences designing, implementing, and maintaining robust, scalable application systems (especially R Shiny). In addition, the engineer would assess various datasets (both unstructured and structured) to determine data relationships, model datasets for loading/storing in relational databases, and create new data pipelines and ETL processes working closely with various teams across Kite. We place value on problem solving ability, a willingness to learn, a passion for security, great communication, and accountability. This is the perfect opportunity to bring your cutting-edge engineering know-how and join our quest in curing cancer and take your career to the next level.
+
+Responsibilities
+Develop and contribute to an enterprise architecture standard that ensures scalability and agility in the delivery of business capabilities.
+Partner effectively with other IT leaders to identify potential shared platform solutions that can be leveraged across multiple business areas/regions to minimize redundant solutions.
+Create software and data pipelines that enable the ingestion, transformation and transfer of large quantities of structured and unstructured research and clinical data from various databases and filesystems sources.
+Design and build database logic to automatically fetch and store data in various forms.
+Be responsible for application and database development and the design of high-performance, complex systems.
+Produce required functional, technical, and user documentation (e.g., business requirements, functional and technical specifications, system architecture, data flows, end-users training requirements) on assigned projects.
+Collaborate with scientists and IT operations to build scientific tools and data systems in order to build a new generation of cancer treatments.
+Work with business customers to understand their needs. Develop and deliver products that meet their needs in a timely manner.
+Implement engineering best practices in all development activities.
+Provide technical leadership and oversight over vendor partners to ensure that solutions align with the overall enterprise architecture and follow best practices.
+Qualifications
+Bachelor’s degree in Computer Science, Information Systems, Bioinformatics, or related field
+6+ years of industry experience as a Data Engineer
+6+ years of experience in working on Data Science projects
+Extensive experience in R, Python, or related language.
+4+ years of experience in R Shiny front-end development
+4+ years of experience in the development of SQL database schema and query logic.
+Experience with data warehouse architecture for large quantities of structured and unstructured data.
+Experience with the design, detailed testing, and documentation of complex systems.
+Experience with version control standard methodologies (specifically git and Github).
+Experience with research data management software (ex, LabKey)
+Experience with modern DevOps practices & technologies (e.g. Docker, Jenkins, Terraform)
+Experience with design and architecture of Data Lakes
+Expertise with Bioinformatics tools and pipelines (ex, Seven Bridges)
+Kite is a biopharmaceutical company engaged in the development of innovative cancer immunotherapies with a goal of providing rapid, long-term durable response and eliminating the burden of chronic care. The company is focused on chimeric antigen receptor (CAR) and T cell receptor (TCR) engineered cell therapies designed to empower the immune system's ability to recognize and kill tumors. Kite is based in Santa Monica, CA. For more information on Kite, please visit www.kitepharma.com. Sign up to follow @KitePharma on Twitter at www.twitter.com/kitepharma.
+
+For jobs in the United States:
+
+
+As an equal opportunity employer, Gilead Sciences Inc. is committed to a diverse workforce. Employment decisions regarding recruitment and selection will be made without discrimination based on race, color, religion, national origin, gender, age, sexual orientation, physical or mental disability, genetic information or characteristic, gender identity and expression, veteran status, or other non-job related characteristics or other prohibited grounds specified in applicable federal, state and local laws. In order to ensure reasonable accommodation for individuals protected by Section 503 of the Rehabilitation Act of 1973, the Vietnam Era Veterans' Readjustment Act of 1974, and Title I of the Americans with Disabilities Act of 1990, applicants who require accommodation in the job application process may contact careers@gilead.com for assistance.
+
+For more information about equal employment opportunity protections, please view the ‘EEO is the Law’ poster.
+
+NOTICE: EMPLOYEE POLYGRAPH PROTECTION ACT
+YOUR RIGHTS UNDER THE FAMILY AND MEDICAL LEAVE ACT
+
+PAY TRANSPARENCY NONDISCRIMINATION PROVISION
+
+Our environment respects individual differences and recognizes each employee as an integral member of our company. Our workforce reflects these values and celebrates the individuals who make up our growing team.
+
+Gilead provides a work environment free of harassment and prohibited conduct. We promote and support individual differences and diversity of thoughts and opinion.
+
+For Current Kite Pharma Employees and Contractors:
+
+
+Please log onto your Internal Career Site to apply for this job.

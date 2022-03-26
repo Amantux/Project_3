@@ -1,0 +1,38 @@
+Posted: Jun 18, 2020
+Weekly Hours: 40
+Role Number:
+200175836
+Imagine what you could do here. At Apple, new ideas have a way of becoming great products, services, and customer experiences very quickly. Bring passion and dedication to your job and there's no telling what you could accomplish.
+
+The Product Marketing Customer Analytics team is seeking a data engineer to support customer analytics with advanced, scalable and robust architecture, tools, data products, and critical data pipelines that are optimized for rapid business intelligence, data analysis, and data science.
+Key Qualifications
+Proficient in SQL and programming (Python preferred)
+Experience with MPP databases preferred
+6+ years of experience in data engineering and ETL pipeline development.
+3+ years of Spark development.
+6+ years of experience in Big Data Technologies (Hadoop, MapReduce, Hive etc…). Spark experience preferred.
+Experience on Kubernetes, Docker preferred.
+Description
+Technical
+Experience in designing, developing, and managing a highly optimized, flexible, and scalable data platform for customer analytics.
+Experience building a connected low latency data platform (highly distributed, scalable with high availability), and stitching together various large and disparate data sources for data analysis.
+Deep experience in Big Data, Cloud and programming.
+Deep experience in developing custom ETL frameworks and developing robust, low latency and fault tolerant data pipelines dealing with very high volumes.
+Deep experience with relational databases and data warehouses (preferably MPP system such as Teradata), and optimizing SQL statements on large data set.
+Deploy inclusive data quality checks to ensure high quality of data
+Problem Solving
+Structured thinking with ability to easily break down ambiguous problems and propose impactful data modeling designs.
+Project Management / Product Design
+
+Significant experience managing data engineering projects through all phases, including requirements, ETL, data quality assessments, and data exploration.
+
+Communication
+
+Strong documentation and technical writing skills.
+Attention to detail and effective verbal/written communication skills.
+
+Environment / Culture
+Can work effectively on sometimes ambiguous data and constructs within a fast changing environment, tight deadlines and priority changes.
+Education & Experience
+Prefer:
+BS/MS in Computer Science Quantitative Finance, Math, Physics or a related Engineering degree

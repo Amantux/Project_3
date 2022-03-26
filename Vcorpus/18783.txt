@@ -1,0 +1,27 @@
+Title: Sr. Data Engineer
+
+Location: San Diego, CA
+
+Client: Sempra Energy
+
+Duration: 6+ Months
+
+As part of a team, responsible for designing and implementing data platform for a customer. Need to migrate the existing on-prem data mart to Azure SQL with new data interfaces. Build new data interfaces using Azure Data Factory and API services in Azure environment.
+
+Requirements:
+
+10+ Years of experience in Data and Analytics area
+
+5+ Years of working in Microsoft Azure environment (Azure SQL)
+
+5+ data factory pipeline and transformation services with implementation experience in ETL best practices, Messaging Frameworks, APIs/Web Services
+
+Strong experience with Azure services: Data Factory, Functions, Logic Apps is a must
+
+5+ years of experience in working in Agile development for data projects
+
+Azure DevOps experience is preferred
+
+Good team player working with remote teams
+
+Excellent Communication skills and Customer interaction skills

@@ -1,0 +1,81 @@
+With the convergence of genomic sequencing, electronic medical records (EMR), digital health and cloud computing, we can finally measure the genetic, clinical and environmental contributors to disease. We have more data than ever before, however very few organizations have the ability capture these data within a single patient population. Even fewer organizations have the interdisciplinary expertise required to extract the valuable insights across these integrated datasets.
+
+Johnson & Johnson is one of the few global healthcare organizations with a history of leadership in the device, pharmaceutical and consumer healthcare sectors. Here at World Without Disease Accelerator (WWDA) within Johnson & Johnson, we believe that the convergence of the capabilities above will eventually allow providers to detect and intercept disease before the earliest clinical symptoms manifest. We are looking for data scientists who share this view and are passionate about applying state of the techniques to analyze diverse -omics, EMR, device, and clinical data.
+
+The Principle Data Scientist will work alongside his/her scientific peers to design data analysis strategies, interpret results and drive decision-making in the pursuit of prevention, interception, and the cure of disease. He/she will have experience working in interdisciplinary teams and gaining support for the use complex analytics to answer biological questions. As a member of the global Data Sciences and Predictive Biomarkers team, you will join a collaborative, international team of scientists and proactively contribute your experience and expertise to achieving the WWDA vision.
+
+Key Responsibilities
+
+Collaborate closely with your scientific peers within the WWDA disease areas to identify the datasets and analyses necessary to formulate and test scientific hypotheses, discover disease/pathway associations, identify novel targets and/or identify biomarkers
+
+Design and develop novel computational pipelines for the analysis and integration of -omic data from clinical studies
+
+Maintain expert knowledge of computational biology tools. Review, test and benchmark these tools towards implementation and improvement of WWDA programs.
+
+Keep abreast of scientific literature, emerging approaches and innovations in computational biology.
+
+Collaborate with an interdisciplinary WWDA team and across Janssen therapeutic areas
+
+Represent the Data Sciences team in both WWDA meetings and meetings with external collaborators
+
+Qualifications
+
+Required
+
+PhD in Bioinformatics, Biostatistics, Computational Biology, Applied Mathematics, Computer Science, Statistics, Machine Learning or similar field
+
+A solid understanding of statistics and data mining of biological data types
+
+At least 4 years of experience working with large scale genomic data types (e. g. next generation sequencing, metagenomics, transcriptomics, metabolomics, etc)
+
+Expertise in Python and/or R
+
+Experience working in a Linux environment
+
+Experience working in an Amazon cloud environment
+
+Outstanding programming and problem-solving skills
+
+Self-driven and work well in an interdisciplinary team with minimal direction
+
+A strong desire to understand why things work the way they do
+
+Thrive in a fast-paced environment and able to prioritize amongst multiple projects
+
+Experience with communicating and presenting complex concepts to diverse audiences
+
+Must be organizationally adaptable, innovative and thrive in high complexity environments to deliver high quality work product in the face of multiple demands
+
+This position may be based in one of the following locations; New Brunswick, NJ, Raritan , NJ, Titusville, NJ, Spring House, PA or Cambridge, MA.
+
+Preferred
+
+Experience analyzing data in one or more of the following therapeutic areas: Type 1 Diabetes, Lung Cancer, Colorectal Cancer or Pediatrics
+
+Experience analyzing diverse patient cohorts containing clinical, -omics and imaging data
+
+Expertise in methods pertinent for functional interpretation of -omics data, e. g. pathway enrichment, functional module detection, causal reasoning
+
+Experience with both relational and no-sql databases
+
+Experience with machine learning/deep learning techniques
+
+Primary Location
+
+United States-Massachusetts-Cambridge-
+
+Other Locations
+
+North America-United States-New Jersey-New Brunswick, North America-United States-Florida-Titusville, North America-United States-New Jersey-Raritan, North America-United States-Pennsylvania-Spring House
+
+Organization
+
+Janssen Research & Development, LLC. (6084)
+
+Job Function
+
+R&D
+
+Requisition ID
+
+2338190719

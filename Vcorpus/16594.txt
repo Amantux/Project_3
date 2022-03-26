@@ -1,0 +1,28 @@
+Roche Sequencing Solutions (RSS) is getting ready to push the boundaries of medical diagnostics with a bleeding-edge new DNA sequencer. We use biophysics and biochemistry to read DNA at the single molecule level, attaining exquisite resolution and accuracy at a massive throughput. Developing our unique platform requires expertise across a range of fields: biophysics, biochemistry, software engineering, data science, machine learning, protein engineering, and circuit design, just to name a few. We combine the entrepreneurial spirit and agility of a startup with the stability and long-term view of Roche.
+
+The Statistical Modeling team’s primary mission is to mathematically model the sequencer and use those models to guide research and development within RSS. This is a tremendous responsibility and we are seeking an equally talented Principal Data Scientist II. As an integral part of our team, you will contribute your creativity, expertise and relationships to develop biophysical and electrochemical mathematical models for the sequencer, and use those models to improve internal R&D pipelines and simulate future performance and designs. You will also perform deep dives into data and distill both experiments and simulations to help guide experimental teams in hitting both near-term development targets and multi-year moonshots.
+
+Our culture is very open, innovative and supportive. Join us in driving the genomic revolution!
+
+Responsibilities Include:
+Build strong working relationships with experimental teams to provide guidance
+Develop biophysics and electrochemical models
+Commit to work proactively and collaboratively, find opportunities to enhance processes
+Write elegant, readable code
+Contribute to our evolving simulation and inference pipelines
+Assist experimental groups with statistical modeling and analysis
+Perform deep analyses on experimental data using a variety of internal pipelines
+Collaborate with bioinformatics, signal processing, deep learning, and software engineering teams
+Responsible for planning and timely delivery of assigned projects.
+Minimum Qualifications:
+PhD degree in Physics, Biophysics, or related scientific discipline, plus a minimum of 5 years of experience
+Very strong foundation in modeling, simulation, inference, with an academic or industry track record
+Very strong foundation in Data Science and analytics
+Strong algorithms development skills: Python, C++
+Track record in cloud and cluster computing
+Fluency with modern software engineering practices: version control, code reviews, automated testing, etc.
+Previous experience in DNA sequencing or bioinformatics
+Clear thinker and communicator, verbal and in-writing; collaborative attitude
+Roche is an equal opportunity employer.
+
+Research & Development, Research & Development > Modelling & Simulation

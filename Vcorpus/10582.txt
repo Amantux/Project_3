@@ -1,0 +1,45 @@
+ADP is hiring a an experienced Data Scientist with demonstrated experience in NLP, Hive, Scala. Does this sound like you?
+
+We believe people make great companies, not the other way around. Our people make all the difference in delivering innovative HR technologies and solutions that help employees all over the world do their jobs better. The result? We're building the next generation of ADP technologies.
+
+Join ADP's innovation lab as we undertake one of ADP's most ambitious transformation initiatives ever. We're building a team from of the most elite, game-changing technologists and asking them to reinvent the way millions of employees are paid worldwide. If you are a sharp, self-driven product manager who is passionate about solving really big problems, we want to talk to you.
+
+Responsibilities:
+
+Manipulate data sets and build statistical models.
+
+Design end-to-end payroll software application solutions and data pipelines.
+
+Design machine learning and image processing models based on business needs.
+
+Monitor, evaluate, and improve software models, pipelines, and solutions.
+
+Education & Experience Requirements:
+
+Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, Statistics, or a related field plus five (5) years of related experience. Employer will accept a master's degree plus two (2) years of related experience in lieu of a bachelor's degree plus five years of experience.
+
+Two (2) years of experience must include:
+
+Large dataset technologies, including Hadoop, Hive, Pig, and Spark
+
+Deep learning frameworks, including Tensorflow, PyTorch, MXNet, Chainer, and Theano
+
+Query engines, including Presto, Apache Drill, and Apache Impala
+
+ETL frameworks, including Apache Airflow and AWS Glue
+
+Machine learning algorithms like random forest, SVM, XGBoost, naïve baise, etc
+
+Natural Language processing method, tf-idf, GloVe, word2vec etc
+
+Data visualization and presentation technologies, including Tableau and ggplot
+
+OOP (object oriented programming language) like Python or JAVA.
+
+Familiar with Python data processing libraries like Pandas, numpy
+
+Familiar with Python machine learning libraries like Scikit-learn
+
+We're designing a better way to work, so you can achieve what you're working for. Consistently named one of the 'Most Admired Companies' by FORTUNE® Magazine, and recognized by DiversityInc® as one of the 'Top 50 Companies for Diversity,' ADP works with more than 740,000 organizations across the globe to help their people work smarter, embrace new challenges, and unleash their talent. "Always Designing for People" means we're creating platforms that will transform how great work gets done, so together we can unlock a world of opportunity.
+
+At ADP, we believe that diversity fuels innovation. ADP is committed to equal employment opportunities regardless of race, color, genetic information, creed, religion, sex, sexual orientation, gender identity, lawful alien status, national origin, age, marital status, or protected veteran status. We support an inclusive workplace where associates excel based on personal merit, qualifications, experience, ability, and job performance.

@@ -1,0 +1,117 @@
+Invesco is one of the world's leading global investment managers, entrusted with managing $1.2 trillion* in assets on behalf of clients worldwide. We are the 6th largest US retail asset manager and the 13th largest investment manager globally, and our more than 8,000 employees worldwide are dedicated to delivering an investment experience that helps people get more out of life. We are purely focused on managing a comprehensive range of active, passive and alternative investment capabilities, which we draw on to provide customized solutions aligned to client needs, our most important benchmark. (*As of May 31,2019)
+
+Job Purpose (Job Summary):
+
+The Lead Data Scientist is responsible for creating and sustaining a cloud based decision sciences environment that supports running predictive analytics and behavioral analytics at scale to inform how Invesco identifies strategic opportunities, drives customer relevance and personalization, pursues commercial performance, and achieves business goals. They will design, build and maintain the decision and data science infrastructure, data and software capabilities, and human team capacity required to deploy and support an �always on� analytics capability that leverages a wide range of data science and statistical tools to advance the decision sciences capability at Invesco � data sciences, customer analytics, and digital analytics � designed to drive measurable changes in retail and institutional distribution and digital initiatives.
+
+This role will also:
+
+Partner with technology to design and build out technical infrastructure and data architecture required to create an integrated customer view that drives effective go to market analytics across both digital and customer analytics.
+
+Build and mentor a high impact data sciences team, composed of both direct reports and agile team members, to accelerate Invesco�s data sciences capacity and build high impact data sciences capabilities
+
+Drive a hypothesis-driven approach to create valuable client insights and transformative business tools through the aggregating, manipulating, and disseminating of broad sets of data, ensuring fidelity with key data sources and integration with other technical teams
+
+Work closely with colleagues in North America Retail Distribution to ensure that insights and tools are leveraged to improve marketing ROI and create distinctive client experiences
+
+Demonstrate strong business acumen (e.g., comfortable dealing with ambiguity, demonstrates strong business judgment, outcome-oriented with demonstrated drive for results), and communication (demonstrated ability to synthesize insights, strong written/oral communications As part of the Insights and Analytics team, they will partner across analytics, sales, marketing, and technology to build a shared framework for an on-demand analytics platform.
+
+Key Responsibilities / Duties:
+
+Data requirements and management:
+
+Manage and maintain the cloud based AWS / redshift environment required to support an always on data sciences capability
+
+Specify technical requirements for data ingestion, verification, scheduling, etc. required to populate the environment with first party, second party and third party data
+
+Build out the data engineering and feature engineering capabilities required to support customer centric analytics and visualization
+
+Establish strong processes for landing data, ratifying data from Invesco on premise and EDL sources, and for promoting results back to production EDL
+
+Collaborate with business subject matter experts and IT teams to make strategic recommendations on data collection, integration and retention
+
+Wrangle both structured and unstructured data from both proprietary and third-party sources and use advanced data management tools and big data technologies
+
+Develop usage and access control policies/systems and partner with other stakeholders in continuous improvement processes impacting data quality
+
+Develop training programs for adoption of critical data sciences capabilities
+
+Analytics:
+
+Create / maintain the aws code and capability environment required to build out data-driven, analytical capabilities (i.e., predictive models/algorithms) to understand customer behavior and competitive dynamics
+
+Collaborate with customer analytics and digital analytics experts to define and develop differentiating go to market analytics features and frameworks
+
+Works closely with decision sciences director and other stakeholder groups to define an analytical road map that intentionally builds out Invesco�s analytics and data sciences capabilities to created measurable changes in business performance
+
+Work with ambiguity (e.g. imperfect data, loosely defined concepts, ideas, or goals) and translating these into more tangible outputs
+
+Team management:
+
+Build and mentor a high impact data sciences team.
+
+Articulate and lead data sciences initiatives, using both directly managed resources and dedicated resources available in an agile project environment
+
+Create a data sciences vision and roadmap that clearly defines both technical and human resource evolution for decision sciences and data science
+
+Metrics and outcome measurement:
+
+Provide ongoing monitoring of performance of decision systems and statistic models
+
+Suggest metrics on business outcomes (particularly those related to new capabilities) that are clear, accurate, relevant, logical and honest
+
+Exhibit strong problem-solving skills and the ability to work well in a team environment, prioritize work, analyze interdependencies and deliver against deadlines
+
+Work Experience / Knowledge:
+
+3 to 5 years of hands-on experience managing a data sciences team � people resources, technical resources and business deliverables � in an aws environment. Proven success record across all three dimensions
+
+6 to 10 years of hands-on experience developing and applying predictive models and other advanced statistical approaches in a corporate or consulting setting, preferable in a B to B or customer centric environment
+
+3 to 5 years of project management experience, with knowledge of both project management techniques and collaborative project management tools (Jira, confluence, �)
+
+Strong technical competence, with ability to teach / train associates, as follows:
+
+Deep practical expertise and theoretical understanding of Classification (SVM, nearest neighbors, random forest, etc.), Regression (linear, nonlinear, ridge, lasso, etc.), Clustering (k-means, spectral, etc.), Dimensionality Reduction (PCA, ICA, etc)
+
+Model selection (grid search, cross validation, etc), Data Cleansing (pre-processing, feature extraction)
+
+Proficiency in statistical data analysis and data mining packages (e.g., R, MatLab, SciKit-learn, H2O, Driverless AI, MLLib)
+
+Advanced knowledge of data management tools including SQL/RDBMS, NoSQL (e.g. MongoDB, Elastic, HBase)
+
+Advanced programming skills in at least one of Java, Python, PySpark, Scala, C++, C#, etc.
+
+Experience using data visualization tools such as (Jupyter, Python, PowerBI, Tableau)
+
+Comfortable with developing in a UNIX environment � Bash, PuTTY, WinSCP, Sublime, SecureCRT
+
+Skills / Other Personal Attributes Required:
+
+Intellectual curiosity, along with excellent problem-solving and quantitative skills, including the ability to disaggregate issues, identify root causes and recommend solutions
+
+Ability to independently own database development and decisions, balancing demands and deadlines
+
+Ability to effectively balance implementation of highly technical models in a sales environment.
+
+Superior communication and influencing skills.
+
+Ability to work in agile, test and learn, iterative environment.
+
+Strong organizational skills and detail orientation
+
+Formal Education: (minimum requirement to perform job duties)
+
+Undergraduate or advanced degree in a quantitative discipline (i.e. Statistics, Mathematics, Econometrics, Operations Research, Computer Science) with focus on data sciences techniques
+
+Strong academic qualifications, including advanced understanding/coursework in database management and math (Linear, Algebra, Calculus)
+
+Working Conditions:
+
+Normal office environment with little exposure to noise, dust and temperatures. Travel may be required 25%.
+
+FLSA (US Only): Exempt
+
+The above information on this description has been designed to indicate the general nature and level of work performed by employees within this role. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to this job. The job holder may be required to perform other duties as deemed appropriate by their manager from time to time.
+
+Invesco's culture of inclusivity and its commitment to diversity in the workplace are demonstrated through our people practices. We are proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, creed, color, religion, sex, gender, gender identity, sexual orientation, marital status, national origin, citizenship status, disability, age, or veteran status. Our equal opportunity employment efforts comply with all applicable U.S. state and federal laws governing non-discrimination in employment.

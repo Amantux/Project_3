@@ -1,0 +1,42 @@
+Our mission at Progenity is simple: to help healthcare providers and patients prepare for life. We provide the most advanced molecular technology and the highest levels of service to guide patient care at critical life stages. We continually seek people with the motivation and skills to advance our mission.
+
+As a key member of our Device Development team, the Principal Software Engineer is responsible for software activities across several projects for the development of electronics based medical devices. Development includes leading the software development process from pre-concept through architecture definition, development, verification, transfer, and product manufacturing. Primary activity is development for operation on a low power microprocessor including system level control and management of peripherals. In support of device realization, development and manufacturing aids are also created and deployed. Further RF linked satellite devices may be employed. The successful Principal Software Engineer has the strong engineering, scientific, and regulatory knowledge. This Principal Software Engineer shall work well individually in code development and tightly with other software, electronics, and mechanical engineers in rapid development of novel medical devices as well as lead other junior software personnel.
+
+RESPONSIBILITIES
+Leads software development activities from pre-concept to production for compact medical devices.
+Codes creation and development for device operating from a low power microprocessor.
+Manages software operation of device peripherals including sensors, LED elements, RF radio, motor drive, etc.
+Oversees Medical device software design, development, verification and validation to FDA major level of concern.
+Works on complex issues where analysis of situation or data requires an in-depth evaluation of variable factors.
+Collaborates with Quality Team to ensure procedures and methods to ensure quality standards are met and maintained throughout the development cycle.
+Manages/Leads creation and deployment of software driven manufacturing and test tools at contract manufacturing organizations.
+Collaborates with internal and external engineers on incorporation of software driven algorithm and data processing modules.
+Drives software project timelines and resource needs for device projects.
+Directs contribution to all device history, risk mitigation, and quality documents for the devices required for regulatory filings (i.e., 510k, De Novo 510K and PMA).
+Performs other duties as they are identified to support cross-functional teams.
+This list of duties and responsibilities is not all inclusive and may be expanded to include other duties and responsibilities, as deemed necessary.
+
+REQUIREMENTS
+Minimum BS in SWE, EE, CE, CSE.
+A minimum of 10 years’ experience in device product development, preferably in medical devices and drug/device combinations.
+Extensive experience in commercializing devices from pre-concept to production.
+Good Project Management skills.
+Working knowledge of Medical Device Development Life Cycle and Manufacturing.
+Design Controls and experience with FDA QSR 21 CFR Part 820 and ISO 13485.
+Familiarity with IEC 62304 Min. 7yrs firmware development in C/C++/assembly.
+Strong knowledge of I2C, SPI, UART, BLE protocols and driver development.
+Experience working STM 32-bit Cortex M-processors or similar.
+Strong object-oriented programming and design skills.
+Understanding of electronics components, systems and circuit design.
+Experience programming the operation of RF radio communications.
+Experience in configuring and managing a software revision control.
+Document generation and practices supporting approval of software driven medical devices.
+Strong mathematical skills and understanding of data information processing methods for real time algorithm deployment on portable equipment.
+Experience in writing control software (C#/Python) for custom test equipment supporting novel device development.
+Familiarity with domestic and international regulations and industrial guidance documents (e.g., ISO, FDA guidance and CE Mark requirements).
+Knowledge of Eclipse, TrueSTUDIO (Atollic) or similar IDEs.
+Ability to handle multiple project and priorities with exceptional organizational and time management skills.
+Recognized for being well organized and self-directed with strong interpersonal skills and with an ability to communicate to people at all levels of the organization and lead with influence.
+Proactive, forward-thinking, and creative with high ethical standards, leadership skills and ability to influence others to achieve successful outcomes and meet timelines.
+Ability to function efficiently, effectively, and at times independently in a fast-paced, changing environment.
+Strong team player aligned with Progenity Corporate Values.

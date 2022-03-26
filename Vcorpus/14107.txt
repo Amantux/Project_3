@@ -1,0 +1,39 @@
+Job Description
+Machine Learning Engineer - Aliso Viejo, CA
+
+AWM Smart Shelf is reinventing retail and looking for smart, talented people to work on building exciting applications. The initial focus of this position is working on AWM Frictionless which is a cashierless-shopping solution for shoppers to be able to grab what they want from a store and simply walk out.
+
+Our solution uses real-time computer vision and deep learning to determine what shoppers take. We're looking for a Machine Learning Engineer to run with the selection, training, and evaluation of our item and action recognition models.
+
+If your ML background is not in image processing, but something like NLP or finance, you may still be a great fit! We’re looking for nimble, practical problem solvers and we value a diversity of perspectives.
+
+We tinker, experiment, and hack on many different approaches and love people who aren't afraid to jump around. A successful Machine Learning Engineer will rapidly iterate – failing fast to identify the most promising paths forward.
+
+If this sounds like fun, we'd love to hear from you!
+
+THE JOB
+Implement machine learning models for item classification and action recognition
+Ability to evaluate model performance and monitor the training process
+Adapt existing models to better handle problems specific to our domain
+Integrate models into our production pipeline for real-time processing
+Test cutting-edge models on our custom datasets
+WHO YOU ARE
+Someone who executes – a focus on action and results - can self-manage to timelines and deliver
+Practical coding knowledge (Python preferred) to quickly iterate on training and testing models
+Understanding of CNNs and the tradeoffs of different architectures
+Knowledge of best practices in machine learning
+NICE TO HAVE (but not mandatory)
+Experience with video data
+Experience with distributive training in the cloud
+Experience with sequence modeling
+Relevant education in an undergraduate or graduate program
+WHAT WE OFFER
+A dynamic environment where you can make an impact using the latest technologies
+Paid vacation and sick time
+Health benefits
+Opportunity for growth
+401k plan
+Potential for employee stock option plan participation
+**PLEASE APPLY TO BE CONSIDERED**
+Company Description
+Please visit www.smartshelf.com to learn more and watch videos of our solutions.

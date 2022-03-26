@@ -1,0 +1,91 @@
+Read what people are saying about working here. 
+
+Job Type:
+
+Req ID: 23247
+
+Shift: Days
+
+Employment Status: AF - Active - Regular - Full Time
+
+Job Summary
+
+The Data Scientist will join an internationally recognized group at the Children’s Hospital of Philadelphia working to transform the health of children. He or she will work within a dynamic team of data scientists, programmers, and researchers as part of PEDSnet (https://www.pedsnet.org), the Research Institute’s Applied Clinical Research Center, and the Philadelphia-region Pediatric Big Data project to understand predictors of childhood diseases, improve the quality of children’s healthcare, and rapidly advance knowledge through the creation and development of learning health systems. The Data Coordinating Center’s focus is on developing informatics methods to standardize health data from diverse sources, and make intelligent use of the data to produce new and actionable knowledge about child health. Our work is funded by the National Institutes of Health, the Agency for Healthcare Research and Quality, the Patient Centered Outcomes Research Institutes, and the Commonwealth of Pennsylvania.
+
+1. Make effective use of rich data from multiple sources for large-scale projects. Collaborate with researchers regarding the capacity of data to meet their research needs and perform feasibility assessments as needed.
+
+2. Provide researchers with analytic datasets and results that are crafted to address research needs and minimize privacy risk. Work with complex clinical data and extract information precisely targeted to researcher needs.
+
+3. Participate in knowledge discovery in pediatric biomedical research, using analytic and data visualization techniques spanning heterogeneous and complex data types under direct supervision.
+
+4. With guidance, contribute to the development t, execution, testing and critical evaluation of code and presentation as needed for research or quality improvement projects throughout the network.
+
+5. Participate in creation of reusable code and standardized analytics and reporting. Assist in streamlining development and analytic work for reproducible research across multiple domains of study.
+
+Job Responsibilities
+
+Implement computational methods for test and evaluation; interpret data to assess performance.
+
+Incorporate software development and data stewardship best practices into work.
+
+Participate in communication of code development, implementation, and results to varied audience of clinicians, scientists, analysts, and programmers.
+
+Act as liaison with regulatory and other groups as part of collaborative research efforts. Respond to data requests and conduct data consultations as necessary with community of researchers and other stakeholders interested in leveraging ‘big data’ to improve the health of children.
+
+Contribute to manuscript writing for results publication, author abstracts, and present at professional conferences.
+
+Required Education and Experience
+
+Required Education: Bachelors in Analytics, Data Science, Statistics, Mathematics, Computer Science or a related field.
+
+Preferred Education and Technical Experience
+
+Preferred Education:
+
+MS preferred in Informatics, Epidemiology, Analytics, Data Science, Statistics, Mathematics, Computer Science or a related field. Alternately equivalent experience in data analysis and predictive modeling will be considered in lieu of relevant degree.
+
+Non-degree graduate coursework such as a graduate certificate in Informatics, Analytics, Statistics, or Data Science is a plus.
+
+Zero to five years of experience with progressively more complex data science, applied statistics, machine learning, or mathematical modeling projects.
+
+Additional Preferred Technical Requirements:
+
+Experience and demonstrated ability acquiring new technical/analytic skills and domain knowledge to support successful contribution to research and development projects is required.
+
+Experience with relational databases (e.g. Postgres, Oracle)
+
+Experience working in R required. Experience working with remote databases from R and the tidyverse ecosystem is a plus.
+
+Experience with working with large and complex data required. Ability to translate research questions into executable code, customize queries or code as needed to adjust for data quality and other known issues within database, and review results for face and construct validity is required.
+
+Experience with cloud-based data management and analytics environments a plus.
+
+Optionally, experience writing code in a general purpose programming languages such as Python, Perl, Go is a plus.
+
+Strong verbal and written communications skills with the demonstrated ability to explain complex technical concepts to a lay audience.
+
+Experience creating informative visualizations for complex, high dimensional data preferred.
+
+Understanding of software development practices such as version control, code review, and testing and packaging of code.
+
+All CHOP employees who work in a patient building or who provide patient care are required to receive an annual influenza vaccine unless they are granted a medical or religious exemption.
+
+Children's Hospital of Philadelphia is committed to providing a safe and healthy environment for its patients, family members, visitors and employees. In an effort to achieve this goal, employment at Children's Hospital of Philadelphia, other than for positions with regularly scheduled hours in New Jersey, is contingent upon an attestation that the job applicant does not use tobacco products or nicotine in any form and a negative nicotine screen (the latter occurs after a job offer).
+
+Children's Hospital of Philadelphia is an equal opportunity employer. We do not discriminate on the basis of race, color, gender, gender identity, sexual orientation, age, religion, national or ethnic origin, disability or protected veteran status.
+
+VEVRAA Federal Contractor/Seeking priority referrals for protected veterans. Please contact our hiring official with any referrals or questions.
+
+CHOP Careers Contact
+
+Talent Acquisition
+
+2716 South Street, 6th Floor
+
+Philadelphia, PA 19146
+
+Phone: 866-820-9288
+
+Email:TalentAcquisition@email.chop.edu
+
+ The Children's Hospital of Philadelphia was founded in 1855 as the nation's first pediatric hospital. Through its long-standing commitmen...

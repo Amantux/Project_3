@@ -1,0 +1,37 @@
+Job Description
+Technology Stack: AWS Lambda; EC2; ECS; Redis; Postgres; MongoDB; Kafka; Bash;
+
+What Makes Us Special?
+Corva is one of the hottest start-ups and for good reason. We are the emerging leader in real time data and analytics for the oil & gas industry. The world’s biggest companies rely on our platform every minute of the day to support their critical operations. Our team is actively shaping the future and we are looking for dynamic, creative, and thoughtful individuals to contribute to our success.
+
+What Makes You Special?
+Do you have a passion for making sure overall infrastructure is running smoothly? Are you eager to utilize what you know and grow your skill set as we tackle new challenges? Are you quick on your feet and a great teammate? Are you looking for the freedom to define an amazing career, at a fun, fast-paced start-up?
+
+What Will Your Day Job Look Like?
+The candidate will strive to create a scalable & stable environment that enables rapid software development and deployment. They will actively engage with the development team to identify potential for optimization and create plans to enhance the overall system. We care about simplicity. We believe in constantly finding better ways to approach software development. Our everyday practice involves virtualization, containerization, dealing with the Cloud, networking, configuration management systems, deployment automation and much, much more.
+
+How Will You Knock It Out Of The Park?
+You have a passion for your job. You have a passion for learning and having your voice heard, but also know how to leave your ego at the door. You are relentless in navigating data from all angles. You work hard and you aren’t afraid to get your hands dirty. You can easily navigate a fast paced team environment wearing multiple hats with tight deadlines and multiple priorities.
+
+Responsibilities and Duties
+● Maintain and scale the entire IaaS & PaaS stack using the highest industry standard
+● Scale API. 100,000+ Requests / Minute at peak and growing
+● Scale MongoDB. 110+GB Data Growth / Day
+● Scale AWS Lambda. Over 500+ million Invokes / Month
+● Scale Kafka; Postgres; Redis; Cloudfront; Logging Solutions; Monitoring; etc
+● Management the CI/CD pipeline
+● Maintain development environment setup scripts (e.g. Bash, Python, Ruby)
+● Maintain automated uptime monitoring and manage on-call procedures/coverage for downtime situations
+● Work with distributed teams across different time zones effectively
+● Provide training and documentation to our 24/7 ops team on system level monitor and troubleshooting procedures
+
+Qualifications and Skills
+● In-depth knowledge of AWS technology stack.
+● Strong Linux/Unix administration skills
+● Experience managing PostgreSQL, Redis, MongoDB
+● Experience with Continuous Integration/Continuous Delivery, preferably CircleCI
+● Minimum of two years of full-time experience as DevOps Engineer role with our tech stack
+● Ability to write scripts to solve challenges and to troubleshoot issues
+● Containerization and serverless application experience a plus
+
+Candidate must be physically located in Houston or willing to travel to Houston at 20% capacity (4 working days per month).

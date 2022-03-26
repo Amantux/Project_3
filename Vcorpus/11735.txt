@@ -1,0 +1,56 @@
+COMPANY VISION 
+The world has seen tremendous growth in products that combine data from embedded sensors to perform intelligent functions. This functionality has enabled us to interface more naturally with our devices and has also improved our lives by alerting us to dangers or maintenance needs (e.g. biosensors, alarms, equipment condition monitoring).  While enhancing the user-experience, these always-sensing products are also a major contributor to ?big data? as they improve the way we exercise, communicate, secure our homes, monitor our health, and maintain our equipment.  One of the big challenges device manufacturers face is to meet the market demand for untethered always-sensing products by porting this always-sensing functionality from corded products to battery-operated products without sacrificing sensing capabilities and maintaining reasonable battery-life and keeping data to a manageable level.   
+Aspinity's unique analog processor marks a paradigm shift in the way data is collected. Just as the brain makes sense of its multi-modal sensory input by focusing higher-order cognition on salient characteristics, Aspinity enables developers to extract "sense" from sensors before the data is even digitized, which reduces power consumption and allows the system to focus compute resources on relevant information. With already established applications to voice control, sound classification, machinery monitoring, and distributed power grid monitoring, Aspinity's programmable analog processing technology is positioned to be the key abstraction layer for the physical world at a time when new user interface paradigms (touch to voice to ?) and new monitoring capabilities are transforming industries. Join us as we build a new sensing framework! 
+POSITION DESCRIPTION 
+Aspinity is looking for an experienced data scientist to support optimization of algorithms and architectures for Aspinity?s revolutionary analog processor solution. You will be responsible to create training frameworks for end-customers and tools for internal product optimization. 
+ROLE & RESPONSIBILITIES:  
+
+Develop and integrate into SDK easy-to-use frameworks for training algorithms to run on RAMP IC  
+
+Improve training algorithms that target unique analog processor solution  
+
+Develop tools for analyzing results of hardware model experiments on large datasets to support performance optimization  
+
+Develop tools for system-level optimization of analog/digital/cloud partitioning to minimize overall power consumption  
+
+Develop and test signal processing libraries and applications for RAMP IC  
+
+Collect and analyze IC resource utilization in delivered algorithms to support IC architecture optimization  
+
+Interface with customers/partners to support system optimization with 3rd party data  
+
+Be ?voice of customer? on SDK requirements and contribute to SDK development   
+REQUIREMENTS:  
+
+MSEE/CPE/CS degree with ~5 years of relevant industry experience in data science, machine learning, and signal processing  
+
+Expert in Python/Octave/Matlab/R with experience in applied ML, ML theory, large datasets, real-world sensor data  
+
+Experience with signal processing?including machine learning, signal detection, and optimization techniques; Experience with analog signal processing is a plus  
+
+Experience in one or more of the following sensor application areas: audio/voice, vibration monitoring, touch/proximity, biosensing, electric/magnetic fields  
+
+Strong problem-solving skills and experience working in a fast-paced collaborative environment; Able to adapt to change quickly and effectively?including prioritizing tasks  
+
+Strong on attention to detail and making sure issues and tasks get followed through to completion   
+OTHER INFORMATION:  
+Located in Pittsburgh, PA (preferred)  
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Pittsburgh, PA 15289 
+                     
+                 
+                             
+                     
+                         Posted 
+                         20 Days ago 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         2365_ab5810a808830af35636d6d8f15e5766

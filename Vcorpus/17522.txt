@@ -1,0 +1,58 @@
+About Lokavant
+Lokavant is a technology company whose mission is to ensure that no clinical trial fails due to operational error. By integrating and analyzing the disparate data sources within clinical trials, Lokavant provides real-time visualizations and risk alerts to study sponsors and contract research organizations (CROs) to enable data-driven decisions. These insights expedite trial timelines and reduce the costs of development, allowing safe and efficacious treatments to get to patients.
+
+Lokavant centralizes trial data to power a machine learning model that anticipates trial risk, provides data-driven risk mitigation strategies, and predicts the impact of mitigation strategy implementation. Lokavant's anticipatory monitoring capability is grounded in a compendium of data from over 1,000 clinical trials and will improve with each deployment.
+About the Opportunity
+
+How often are you given the opportunity to build something from the ground up, with an abundance of resources at your disposal; to be part of a team of people accomplished in diverse scientific and engineering disciplines, focused on using the best of what lies at the forefront of technology to address complex, real-world problems that have a positive impact on potentially millions of peoples' lives? This is that kind of opportunity.
+
+We are seeking a thoughtful, hands-on technology enthusiast with a strong aptitude for data engineering to join the rapidly growing Lokavant team in our New York City headquarters. The Data Engineer will work very closely with our front-end developers, back-end developers, development operations engineers, and data scientists. Our platform is fully cloud-based and is being built around modern tools and frameworks in an incredibly fast-moving agile environment.
+
+Key Responsibilities
+Design, develop, and implement data infrastructure and pipelines that ingest and transform data from various external sources, storing it in highly optimized database systems, and making it useful to our application and reporting layers
+Create automation systems and tools to configure, monitor, and orchestrate data infrastructure and pipelines
+Create data integration services to help onboard new customers as quickly as possible
+Maintain ongoing reliability, performance, and support of the data infrastructure, providing solutions based on application needs and anticipated growth
+Participate in creating and maintaining strict compliance, data privacy and security measures
+Develop robust and production-level code to implement new product features in collaboration with other engineers and subject matter experts
+Identify and resolve performance and scalability issues, troubleshoot problems, and improve product quality
+Collaborate with the Front-End Development team to thread the right information through to forward-facing applications
+Interface with the Development Operations colleagues to evaluate and implement methodologies and workflows to facilitate the frequent and continuous release of high-quality software
+Work closely with Data Science colleagues to implement descriptive and predictive algorithms and models using the latest technologies
+Keep up to date on emerging technology solutions, particularly those on AWS, for continuous improvements in data engineering
+Help recruit highly capable engineers to the team from diverse backgrounds
+Mentor and be mentored by engineers of varied experience levels and subject matter areas
+
+Minimum Requirements
+3+ years relevant experience with data engineering
+Strong proficiency with Python (ideally PySpark) and SQL
+Experience with AWS S3, EC2, EMR, or an equivalent cloud-hosted infrastructure
+Experience with cloud-hosted database/data warehouse architecture (e.g. Redshift, Snowflake, etc.)
+Experience writing and productionizing complex data transformations in SQL and related frameworks
+Interest in building distributed computing and orchestration frameworks (e.g. Spark, Kubernetes, Airflow, etc.)
+Experience working in an Agile software development environment
+Exceptional written and verbal communication skills
+Strong attention to detail and highly organized, with effective multi-tasking and prioritization skills
+Proactive, self-motivated and self-directed, with the ability to learn quickly and autonomously
+Comfortable with ambiguity
+Superior problem-solving and troubleshooting skills
+Ability to work as part of a collaborative cross-functional team in a fast-paced environment
+Sincere interest in working at a rapidly changing start-up and scaling with the company as we grow
+Bachelors degree with strong academic performance in Computer Science, Software Engineering, Applied Science, or equivalent field
+Preferred (Nice-to-have) Qualifications
+Experience building and deploying large-scale data processing pipelines
+Experience integrating data from disparate data sources
+Experience with continuous integration and automation tools and processes (e.g. Jenkins, Semaphore, etc.)
+Experience with healthcare data, ideally clinical/operational clinical trial data
+Knowledge of clinical data standards (e.g. CDISC, FHIR, HL7, etc.)
+Knowledge of e-clinical systems and technologies (e.g. EDC, CTMS, IRT, etc.)
+Employee Benefits
+Competitive salary and equity compensation
+Full medical, dental, and vision benefits
+One Medical membership
+401(k) plan
+Flexible PTO policy
+Generous parental leave
+Great NYC office located in the heart of Times Square
+Team events and outings
+Lokavant is an equal opportunity employer, indiscriminate of race, color, religion, ethnicity, ancestry, national origin, sex, gender, gender identity, sexual orientation, age, marital status, veteran status, disability, medical condition, or any other protected characteristic. We celebrate diversity and are committed to creating an inclusive environment for all employees.

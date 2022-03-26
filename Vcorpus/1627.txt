@@ -1,0 +1,56 @@
+About the Chief Data Office
+
+The FDM Data Quality group is aligned to the Firmwide Chief Data Officer, Rob Casper. The CDO's vision is to create an industry-leading data environment in terms of control, cost, and revenue opportunity. The program scope continues to evolve and encompasses cultural, behavioral, procedural and systemic transformation across the full range of data domains. Firmwide & CIB CDO offers a unique perspective into the role of data quality in the financial industry, and partners with a variety of stakeholders across LOBs, Corporate Functions and other teams in the Firmwide Data Management organization. The Chief Data Office offers a unique opportunity to be part of a journey that drives the entire strategy of how we manage data in the future - our key raw material for efficiently managing the business.
+Department Description
+With exponential year-over-year growth of data generated, strong Data Governance, including Data Quality, is critical to ensure clean, fit-for-purpose data for the firm. The Firmwide & CIB Chief Data Office (CDO) is responsible for defining and implementing the Firmwide Data Quality strategy to ensure fit for purpose data. The Data Quality department is accountable for transforming the entire firm's approach to data quality by establishing clear ownership and accountability for critical data, and implementing effective Reactive, Proactive, and Preventative data quality standards, capabilities and processes.
+
+The Reactive Data Quality team is responsible for defining how the Firm manages Data Quality Issue identification, analysis, and remediation effectively and consistently firmwide. Crucial tasks include daily advisory support for our stakeholders across the firm, the development of new Data Quality Metrics, and evolving the operating models, processes, and tooling to drive adoption and enable implementation of agreed best practices.
+
+Background
+
+The successful candidate will join a team focused on delivering business impact through transformation of Data Quality management:
+
+Of importance in 2020 is the ensuring the successful roll out of a transformative new tool, the Intelligent Data Assistant (IDA). IDA is an artificial intelligence platform that enables end users to report Data Quality issues through an intuitive interface. The team would like to expand the usage of IDA to incorporate additional use cases, such as managing issues that are already opened, and addressing data needs outside of Data Quality. The candidate will be expected to understand the business use cases of Data Management and configure/code them in the AI platform that powers IDA, or support stakeholders in doing so themselves.
+
+Also of significance in 2020 is establishing the Data Content owner as a new role across the Firm. The DCO is a new accountable role that will be tasked, among other things, with ensuring effective Data Quality issue management. The candidate will be expected to drive process and tooling enhancements to accommodate the influx of new DCO users by leading small working groups, documenting necessary updates, and holding action owners accountable.
+
+The candidate will be expected support the team in implementing these two major CTB projects, as well as ensuring adequate governance and management of the existing book of work. Managing the existing book of work includes: serving as an escalation point or advisory service with stakeholders regarding issue management processes; partnering with FDM Tech in managing requirements in JIRA with AGILE project management; and producing metrics (Excel, Qlik or Tableau) for Sr. management on the Data Quality book of work.
+
+This role provides an outstanding opportunity at JPMorgan Chase for the selected candidate to join a high profile team and take a partnership role, working with stakeholders across the CIB, other LOBs and Corporate Functions, to support some of the Bank's most significant change programs.
+
+Key roles and responsibilities:
+The successful candidate will support the DQ Team's existing overall book of work:
+Develop, enhance and present senior management MIS around Data Quality
+Minimize risks of technology releases in Firmwide Data Quality applications through effective change management
+Liaise with SMEs across the Firm on DQ issues to facilitate timely resolution of pressing matters, participating in / driving deep dive sessions where necessary
+Partner with Controls Org to develop DQ processes in the context of Operational Risk
+Contribute to the development and execution of the Firmwide Data Quality strategy:
+Drive development and adoption of the Intelligent Data Assistant
+Support the roll out of the new Data Content Owner role across the firm by leading efforts to train and support new DCOs
+Use creative thinking to help establish a culture of Data Quality across the firm (communications, training videos, Syphony posts, infographics, etc)
+Liaise with the Firmwide & CIB CDO teams to develop DQ in context of the wider data governance process, e.g. data cataloguing, data integration, etc.
+Use Stakeholder partnerships to maintain feedback loop - receiving feedback on DQ processes and tooling and raising to appropriate forum
+Perform project management and business analysis on other data quality related projects as required
+Skills Required:
+Minimum 2 years experience in Financial Services
+Excellent communication, presentation (both oral and written) & influencing skills - candidate will be dealing with stakeholders of varying degrees of seniority; ppt design skills a must
+A demonstrated ability to conceive, design and implement business process improvements that improve efficiency and risk and control environments
+Excellent analytical and problem-solving skills
+Proficiency in manipulating and analyzing large data sets in Excel (pivots, formulas, charts, etc.). BI experience or a strong desire to learn
+Effective change management skills - ability to support & adapt within a changing environment
+Self starter, able to work autonomously with discipline, demonstrating strong time management skills; efficient at multi-tasking and able to work under pressure to deliver multiple business demands on-time, to a high standard
+Capacity to think laterally and convey an understanding of the big picture
+Basic understanding of the company's business practices and familiarity with the company's products and services
+Basic understanding of project management lifecycle and Technology SDLC (software development lifecycle), including running a UAT testing program
+Knowledge and experience with key Data Management principles would be advantageous
+Preferred: Software QA/UAT experience and associated tools (ex. Selenium)
+Preferred: Expertise with Qlikview and/or Tableau
+Preferred: Experience in developing AI tools such as Amelia, or Machine Learning expertise
+JPMorgan Chase & Co. offers an exceptional benefits program and a highly competitive compensation package.
+
+JPMorgan Chase is an equal opportunity and affirmative action employer Disability/Veteran.
+JPMorgan Chase & Co., one of the oldest financial institutions, offers innovative financial solutions to millions of consumers, small businesses and many of the world's most prominent corporate, institutional and government clients under the J.P. Morgan and Chase brands. Our history spans over 200 years and today we are a leader in investment banking, consumer and small business banking, commercial banking, financial transaction processing and asset management.
+
+We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.
+
+Equal Opportunity Employer/Disability/Veterans

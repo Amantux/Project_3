@@ -1,0 +1,27 @@
+Minimum qualifications:
+3 years of experience in an analyst or Data Science role.
+Experience using SQL to work with multiple datasets.
+Experience designing data models and building data structures.
+Experience in a language for statistical computing (R, Python/pandas, Stata, etc.).
+Preferred qualifications:
+PhD in Statistics, Engineering, Data Science, or related field (e.g. Mathematics, Physics, etc.).
+Experience designing databases, and defining and implementing system requirements for data collection.
+Proficiency with statistical data analysis (a/b tests, hypothesis testing, experiment setting, etc.), and creating models to answer business questions.
+Knowledge of Machine Learning libraries (such as TensorFlow, Scikit-learn, Keras).
+Excellent oral and written communication skills, including the ability to communicate findings in a structured and clear manner to a non-technical audience.
+About the job
+
+
+The Cloud Support Data and Analytics team provides data solutions that power the Cloud Support organization.
+
+In this role, you will work on projects in a growing organization with opportunities to address problems that will needing creative solutions and models. You will be working on bringing together different data sets from across Google Cloud and modeling data to unlock actionable insights that help stakeholders formulate and answer business questions. You will collaborate closely with stakeholders from technical solutions engineering, product programs, vendor operations, support operations and support experience teams.
+
+Google Cloud provides organizations with leading infrastructure, platform capabilities and industry solutions. We deliver enterprise-grade cloud solutions that leverage Google’s cutting-edge technology to help companies operate more efficiently and adapt to changing needs, giving customers a foundation for the future. Customers in more than 150 countries turn to Google Cloud as their trusted partner to solve their most critical business problems.
+Responsibilities
+Provide decision-making support for key projects, and research new ways of modeling data to unlock actionable insights or improve processes. Contribute to the development of the frameworks, tools, skills and culture for the team and wider organization.
+Use predictive analytics and/or machine learning to facilitate forecasting for a growing and global support operation.
+Write and review technical documents, including requirements and design documents for existing and future data systems, as well as data standards and policies.
+Partner with non-technical stakeholders to understand their needs, help frame the problem by asking the right questions, and document and prioritize requirements. Communicate results of technical work.
+Design, write, and support extract, transform, and load (ETL) processes to automate data collection and manage pipelines.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form.

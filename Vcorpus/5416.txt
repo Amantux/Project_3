@@ -1,0 +1,37 @@
+Arlington
+
+Ramboll is currently seeking a self-motivated Data Scientist with a passion for working with imagery data to join our Environment & Health group in Arlington, Virginia. The successful candidate will serve as a contributing team member in our growing UAV imagery analysis group. Specifically, they will work closely with a team of driven engineers rethinking mine closure and land restoration and have the opportunity to apply their data science expertise to real world environmental problems.
+
+The following position description conveys the general qualifications and responsibilities for this position. Candidates with relevant work experience (e.g., 2+ years) are strongly encouraged to apply. Please include a cover letter along with your resume.
+
+Duties and responsibilities may include, but are not limited to, the following:
+
+Develop and implement drone/satellite imagery analysis methods with a focus on vegetation detection.
+
+Performing statistical and geospatial analyses of vegetation in accordance with regulations.
+
+Build databases to efficiently store large amounts of sensor data.
+
+Utilize new developments and trends in machine learning and image analysis.
+
+Help build the Ramboll US Data Science team with our colleagues in Germany.
+
+Required Skills/Qualifications:
+
+M.S. or PhD, preferred, in a relevant discipline (Computer Science, Physics, Math, or related)
+
+Strong coding skills in python and its relevant libraries (numpy, pandas, matplotlib, sklearn)
+
+Experience working with geospatial data
+
+Skills and experience with at least one of the following frameworks: tensorflow, torch, keras, theano
+
+Understanding of statistics and the limits of deep learning
+
+Ability to work on your own and in an agile environment
+
+Willingness to learn
+
+About Ramboll
+
+Ramboll is a leading engineering, design and consultancy company founded in Denmark in 1945. The company employs more than 15,000 experts globally and has especially strong representation in the Nordics, UK, North America, Continental Europe, Middle East and Asia-Pacific. With 300 offices in 35 countries, Ramboll combines local experience with a global knowledgebase constantly striving to achieve inspiring and exacting solutions that make a genuine difference to our clients, the end-users, and society at large. Ramboll works across the following markets: Buildings, Transport, Planning & Urban Design, Water, Environment & Health, Energy and Management Consulting.

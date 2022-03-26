@@ -1,0 +1,58 @@
+We have an exciting role for a Database Engineer/Architect in San Diegowho will engineer solutions for multiple database technologies, and will be responsible for fast-paced, complex distributed database environments supporting both OLTP and OLAP systems across multiple platforms. A strong candidate will be able to rapidly troubleshoot complex technical problems under pressure, implement solutions that are massively scalable, while managing multiple customer groups. Deep knowledge of MySQL/Orcale Database concepts, strong administration experience and excellent interpersonal communication skills are required. In this job there are opportunities to model an Operational Data Store and Data Warehouse.
+
+Essential Duties and Responsibilities:
+Production MySQL performance troubleshooting and recommendations in but not restricted to AWS environment
+Advise core software development team on best practices for interfacing core product with MySQL
+Design and develop database software for low-latency systems
+Application schema design/data modeling and implementation using standard database modeling/management tools.
+Database performance tuning and configuration in support of developmental software
+Work with and mentor other software engineers as it relates to database engineering and development.
+Manage AWS database infrastructure.
+Education & Experience:
+Bachelors Degree in Computer Science or closely related technical field.
+Experience in database development, design and software engineering experience.
+Experience in SQL/Oracle Server.
+Experience in Open Source Database Technology Platforms such as MySQL.
+Ability to lead specific strategic engagement involving partner teams.
+Experience with migrating critical database environments from one platform to another.
+Experience in Shell/Perl/Python Scripting.
+Hands-on implementation experience is required.
+Excellent SQL programming skills.
+Self-starting and ability to work with minimal supervision.
+Preferences:
+Experience with AWS Platforms and associated technologies.
+Experience in database administration.
+Experience with data modeling tools.
+Knowledge of git for software configuration management.
+Basic Linux/Unix systems administration knowledge.
+Experience with ETL and OLAP technologies is a plus.
+Benefits and Perks:
+
+
+Kitu Systems offers a competitive compensation and benefits package including:
+Medical, dental and vision insurance (company pays 95% of employee premium and 60% of dependent premiums!)
+Life insurance
+Flexible spending account (FSA)
+401(k)
+Paid time off (PTO)
+Casual office environment with flexible schedules
+Access to gym facilities in office complex
+Break room stocked with snacks!
+Work closely with Engineering Executives
+Opportunity to make a difference and implement your ideas.
+Competitive but positive work environment
+Access to gym facilities in office complex
+Great customers (Southern California Edison, PG&E, SDG&E, AVANGRID, and more)
+At Kitu Systems, Inc., our mission is to deliver a new generation of interconnection of solar PV, battery storage, electric vehicles, and other distributed energy resources.
+
+By enabling communications and coordination of these resources, our platform provides the foundation for New Energy Networks that are intelligent, resilient, adaptive, efficient, and scalable.
+
+We are conveniently located in Kearny Mesa, (walkable to coffee, and popular restaurants). We have a casual dress environment (jeans, short, etc...), bi-monthly company events, periodic potlucks, and daily office snacks, fresh fruit, coffee and a Bevi Machine.
+
+NO AGENCIES PLEASE!
+
+Kitu Systems recognizes that all individuals have the ability to make an impact. We are an equal opportunity employer and do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, age, disability, veteran status, marital status or any other legally protected status.
+
+About Kitu Systems, Inc.
+
+Kitu Systems, Inc. is a startup building exciting smart energy platforms and services. Our software solutions help utility companies, enterprises, and residential customers make the most of clean energy resources, including solar, battery storage and electric vehicles.

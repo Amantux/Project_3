@@ -1,0 +1,64 @@
+About IDEA Public Schools
+
+At IDEA Public Schools, we believe in college for ALL and we are committed to ensuring that all our students graduate from college. IDEA Public Schools has grown from a small school to the fastest-growing network of tuition-free Pre-K-12 public charter schools in the United States sending 100% of our students to college. 50% of our students graduate from college in 6 years – that’s 8 times the national rate for students in our communities!
+
+IDEA was founded in 2000 as a single school with 150 students in the Rio Grande Valley. When interest exceeded building capacity, to meet the demands, IDEA’s co-founders committed to serving more students in the Rio Grande Valley of Texas and beyond. We now serve nearly 53,000 students across Texas and Louisiana. By 2022, IDEA will serve 100,000 students. Be on the lookout for IDEA schools opening near you—with continued growth in our current regions and new launches in Houston (2020), Permian Basin (2020), and Tampa Bay (2021)!
+
+When you choose to work at IDEA, you are part of our IDEA Team and Family. You will work alongside team members who set and reach ambitious goals every day, are excited to continue to grow with IDEA, and work relentlessly to make college for all a reality.
+
+To learn more about IDEA, check out this video .
+
+Role Mission: The System Engineer is responsible for ensuring IDEA maintains high availability across all applications, servers, databases, data centers and cloud services to internal and external customers. They are also responsible for leveraging existing, emerging, and innovative technologies to enhance, improve, and streamline business processes.
+
+Accountabilities
+Ensure high availability of data centers, servers, applications, and services to internal and external customers with 99%.5 uptime across all of IDEA.
+Design, configure and validate all critical systems and applications are built with redundancy and failover capabilities to ensure maximum uptime.
+Design, plan, and implement a disaster recovery plan based on the criticality of systems and current SLAs.
+Ensure all backup processes are successful and regularly tested, along with documented recovery procedures.
+Configure, monitor, and maintain all data center hardware, including but not limited to; servers, storage, uninterruptable power supplies, and cooling.
+Utilize all system monitoring software to ensure performance and availability on all hardware, servers, and applications with historical uptime data.
+100% of all systems, projects, and services are documented with the following:system design architecture, server/application configurations, storage requirements, backup schedules, failover options, maintenance/update plans, access controls, and the classification of system/data.
+Utilize project management platform to plan timelines, schedule resources, and project tasks.
+Utilize document storage for all configuration standards, process guidelines and project documentation.
+Project lead for systems team, research, plan, and implement all new systems, services and applications.
+Provides progress reporting for all project work in a timely and reasonable manner including estimates, time spent, risk assessment, and resource allocations.
+Ensure all user accounts have required access to ensure 100% BoY (beginning of year) deliverables by FDoS (first day of school) for new campuses
+Plan, coordinate and execute the Beginning of Year plan for technology at every campus
+Regularly evaluate and manage resources needed to balance the changing needs and deliver a successful beginning of year to all campuses.
+Ensure all new and existing user accounts have access to all required applications, cloud services, devices and networks.
+Ensuring proper group memberships and access follows the least privileged model.
+Develop and implement scheduled audits and verification process on all systems to determine proper configuration, user access, data security, and user availability before FDoS.
+Configure and implement security controls on all systems to ensure 0 preventable security incidents are created for the year
+Work with security operation center to develop a vulnerability scanning schedule and remediation tasks on all servers, applications and services.
+Plan, coordinate, and execute regularly scheduled maintenance windows to ensure all systems are at the latest versions and patch levels.
+Ensure all systems are configured following all security policies, standards and guidelines, industry best practices, security software, and user access controls.
+Ensure all security controls are in place and verified on systems to prevent accidental data loss or malicious acts.
+5. We look for Team and Family who embody the followingvaluesand characteristics:
+Believes and is committed to our missionand being an agent of change: that all studentsare capable of gettingto and through college
+Has demonstrated effectiveoutcomes and results, and wants to be held accountable for them
+Has a propensity for action, willing to make mistakes by doing in order to learn and improvequickly
+Works with urgency and purpose to drive student outcomes
+Thrives in an entrepreneurial, high-growth environment; is comfortable with ambiguity and change
+Seeks and responds well to feedback, which is shared often and freely across all levels of the organization
+Works through silos and forges strong cross-departmental relationshipsin order toachieve outcomes
+We believe in education asa professionand hold ourselves to high level of conduct, professionalism and behaviors as models for our colleagues and students.
+Qualifications:
+Education: Associates degree in Technology field – Required, Bachelor’s degree preferred
+Experience: Minimum 5 years of experience in an enterprise-level organization
+License or Certification: System Administrator Certification Tier 2-3 level (MCSE, VCP-DCV, Azure Certifications, AWS Certifications, MS365 certification) required
+Knowledge and Skills:
+General knowledge of networking - TCP/IP, DNS, DHCP, Radius, and wireless.
+Must possess solid knowledge of operating systems, networking hardware, backup software, server hardware, and storage hardware.
+Proficient knowledge and experience with VMware, vSphere and backup solution software.
+Proficient knowledge in Active Directory, Microsoft O365, Exchange, Azure cloud, email security, SSO technologies, and cloud management.
+Proficient in server/data center management best practices
+Experience in PowerShell scripting
+Proficient knowledge in server clusters and failover configurations and management.
+Experience in Disaster Recovery processes and procedures
+Experience in system monitoring and performance tuning.
+Experience in project management, technical writing and process documentation.
+Experience in an enterprise-level Identity management solution
+Experience in security frameworks and assessments
+Advanced knowledge of system vulnerabilities and security issuesand data security methodologies.
+Excellent troubleshooting, analytical, and decision-making skills
+Ability to respond to help desk requests after hours on an as-needed basis

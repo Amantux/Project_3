@@ -1,0 +1,15 @@
+DeepMap is a start-up providing HD mapping and localization as a service to autonomous vehicle fleets. Our team is made up of the highest caliber engineers from the most prominent universities and software companies in the world. Additionally, we have received backing from top-tier VCs and investors. We are looking to grow our team with talented software/data engineers who are passionate about the self-driving car industry, maps and big data. If you are an independent problem solver, have a strong drive to excel, and are looking for opportunities to make a big impact, this is the right place for you.
+
+Job Responsibilities:
+Work closely across various development teams to support data processing pipelines
+Write python, shell scripts and tools to facilitate customer data processing and product delivery
+Proactively identify and fix sensor data and operational errors to minimize workflow latency
+Monitor, troubleshoot and fix jobs running in cloud environment
+Perform log analysis and present insightful conclusions/suggestions
+Requirements:
+BS, MS degree or higher in Computer Science, GIS or related field
+More than 1 year working experience with Python and Shell scripts
+A self-starter with the ability to work independently
+Experience with AWS cloud platform and virtualization technologies like Docker is a plus
+Experience with GIS or sensor data is plus
+At DeepMap, we cherish and celebrate every individual's difference. We are proud to be an equal opportunity employer and we are committed to equal employment opportunity regardless of race, color, religion, national origin, sex, sexual orientation, age, marital status, gender identity, veteran status, and disability, or another legally protected status. DeepMap will provide reasonable accommodation to employees who have protected disabilities consistent with local law. We will also consider qualified candidates regardless of criminal histories consistent with legal requirements. If you are unable to submit an application because of incompatible assistive technology or a disability, please let us know and we will make every effort to respond to your request for assistance as soon as possible.

@@ -1,0 +1,45 @@
+Location: New York, NY
+
+Salary Range: $130-$150k
+
+Findyr is seeking a Senior Data Scientist to integrate and productize multidimensional geo-referenced datasets, implement rigorous data quality control automation, and lead the development of our customer-facing web-based machine learning framework.
+
+This candidate will be an independent thinker and be able to strategize on selection and engineering of geo-referenced datasets, and is committed to making an impact through building data products that bring greater data transparency to the world. The candidate ideally has experience working in consumer or enterprise software companies transforming raw data into customer-facing analytics applications and has worked extensively with building classifiers and statistical learning.
+
+We are a fast-moving startup focused on both creativity and execution in serving our users but we love to have fun and thrive on open brainstorming, transparency and a workplace environment as diverse as our own global user base and customers. This person is a self-starter and will join us in devising scalable solutions and finds intrinsic motivation in creating structure across multiple moving parts. The candidate will be able to travel as needed and work cross-functionally with the engineering, operations, and sales team.
+
+Responsibilities
+
+Build and test data models for quality control, probabilistic forecasting, and general user-facing standardized analytics. These models will be developed as a mix of API micro-services and user-facing web / mobile app products
+
+Work as the lead data strategist for identifying and integrating new datasets that can be leveraged through our product capabilities and work closely with the VP of Engineering and the Engineering team to strategize and execute the development of data products
+
+Be the owner of the data warehouse and be responsible for maintenance and growth of our core datasets
+
+Required
+
+M.S. in Statistics / Computer Science / Mathematics / Physics or equivalent quantitative subject
+
+3+ years developing actionable user-facing data analytics / business intelligence products in a startup or technology company (or equivalent experience)
+
+Ability to ETL datasets from public API endpoints and other cloud-based infrastructure (Hadoop / Hive) and perform data standardization
+
+Experience building enterprise web-based machine learning software (Python / Django frameworks preferred)
+
+Exploratory analyses and feature extraction using unsupervised learning techniques and ability to construct supervised learning models with large multidimensional datasets
+
+Strong command of SQL, Python and R
+
+Preferred
+
+Experience with large social science datasets with sparse matrices
+
+BigML, Spark
+
+Familiarity with geospatial data
+
+Tensorflow, Deep Learning, and Bayesian Networks
+
+Experience working abroad and experience handling global datasets
+
+We are currently seeking candidates in New York City. Please send your resume and your position of interest to careers@findyr.com.

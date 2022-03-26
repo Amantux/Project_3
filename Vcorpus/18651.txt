@@ -1,0 +1,46 @@
+Responsibilities/Qualification
+
+With more than 80 years of experience engineering science and technology solutions to support national security, Alion supports clients with big ideas and real solutions.
+
+Position Description
+
+Alion Science is seeking a Mid-level Database Engineer to join our successful and dynamic team. Members of this team are highly motivated, self-driven, and able to work well alone or in a group. This team thrives on challenges and attention to detail. In addition to competitive compensation packages, members of this team enjoy use of liberal flex time (project requirements not withstanding) from a work schedule perspective, as well as a collaborative and collegial work environment which promotes personal and professional growth. The successful candidate will have full life cycle development experience with knowledge and experience in C, C++, embedded systems, hardware internals (both computer and peripherals), scripting (bash, sh, Windows, korn, Python, Perl, etc.), networking and network protocols, internet protocols, Windows OS, Linux, UNIX, penetration testing, debugging, assembly programming language, and reverse engineering. The candidate must possess a TS/SCI clearance with a Full Scope Polygraph.
+
+Position Specific Responsibilities:
+Duties will include participating in all phases of the software lifecycle from requirements definition through design, development, integration and test in various object-oriented and scripted languages (e.g. Java Script, C++, Perl, Python, Ruby). The candidate will apply industry best practices to all development efforts and review, analyze, and modify software systems including coding, testing, debugging, installing and documenting. The successful candidate will support system administrators with the installation of the developed software applications, develop training materials, and mentor junior team members. The successful candidate will guide users in formulating requirements, advise them on alternative approaches, and conduct feasibility studies as required.
+The Database Engineer – Mid Level shall participate in the customer requirement definition phase, provide design recommendations, and conduct the database application development. The Database Engineer shall evaluate design and implementation of existing database and application systems to ensure optimal efficiency and performance of deployed systems and participate in project test activities. The Database Engineer – Mid Level shall work with the Project Manager and other team members to gather requirements and design and implement applications in alignment with project schedule. The Database Engineer – Mid Level shall identify data sources, construct data decomposition diagrams, provide data flow diagrams and document the process. Additionally the Database Engineer – Mid Level shall write code for database access, modifications and constructions including stored procedures. The Database Engineer shall incorporate best practices, standards and processes as well as draw on team expertise and other NSA resources to provide timely, technically sound recommendations that meet customer requirements.
+Education/Certifications:
+
+XXXXXXXXXX
+
+Relevant Experience:
+Eight (8) years demonstrated experience in database development for relational and/or cloud-based databases. A Bachelor of Science degree in computer science, computer engineering, or information systems or related discipline may be substituted for four (4) years of experience, or a Master of Science degree in computer science, computer engineering, or information systems or related discipline may be substituted for six (6) years experience.
+Four (4) years combined experience in at least 3 of the following or relational and/or cloud-based databases:
+Database development and software engineering/development;
+Database Design and Data Modeling;
+Writing Java code to access a database using JDBC or Open Database Connectivity (ODBC);
+Requirements analysis/generation;
+Oracle, MongoDB, SA Skills
+Development systems and software architectures;
+Using cloud technologies (e.g. MapReduce, BigTable, Hadoop, etc.).
+Two (2) years demonstrated experience leading teams on small to mid-size development efforts and in each phase of the development life cycle.
+Two (2) years demonstrated experience in developing and maintaining automated installation scripts.
+Demonstrated experience developing database solutions in a multi-tiered environment.
+Demonstrated knowledge of Public Key technologies (e.g. Public Key based authentication mechanisms) for applications, enabling, row and column security, Virtual Private Databases, and dynamically loading data to a database from XML.
+*CJ
+
+Security Clearance
+
+TS/SCI w/Full Scope Poly
+
+Diversity Statement
+
+We are an EOE that values our employee’s talent – regardless of gender, race, ethnicity, national origin, sexual orientation, religion or other protected characteristics – Your Talent Is Our Strength.
+
+Women, minorities, individuals with disabilities and Veterans are encouraged to apply.
+
+Alion will provide a reasonable accommodation to individuals with disabilities and disabled veterans who need assistance to apply. Please visit the Alion Careers site for more information.
+
+U.S. Citizenship Required for the majority of our positions.
+
+]]>

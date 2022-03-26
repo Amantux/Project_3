@@ -1,0 +1,39 @@
+The FreedomPay Commerce Platform is the technology of choice for many of the largest companies across the globe in retail, hospitality, lodging, gaming, sports and entertainment, foodservice, education, healthcare and financial services. FreedomPay’s technology has been purposely built to deliver rock solid performance in the highly complex environment of global commerce. The company maintains a world-class security environment and was first to earn the coveted validation by the PCI Security Standards Council against Point-to-Point Encryption (P2PE/EMV) standard in North America. FreedomPay’s robust solutions across payments, security, identity and data analytics are available in-store, online and on-mobile and are supported by rapid API adoption. The award winning FreedomPay Commerce Platform operates on a single, unified technology stack across multiple continents allowing enterprises to deliver a consistent, repeatable experience on a global scale. FreedomPay is a fast paced, high growth company with a great culture with competitive benefits and compensation with a business casual atmosphere.
+
+
+Primary Job Responsibilities (including but not limited to)
+Determine requirements and prepare application environments (including server, permission and network configuration, capacity planning, cloud and database resources, monitoring strategies, security scanning, etc.), ensuring peak developer and tester productivity.
+Design, build and support CI/CD processes (both greenfield and brownfield).
+Tier 3 escalations for all environments up to and including production.
+Perform and support software deployments to non-production environments on a regular basis.
+Perform and support early morning software deployments to production environments.
+Required Skills and Experience
+At least a BS/BA Degree
+5 years experience in related fields
+Excellent communication and organizational skills
+Strong troubleshooting abilities
+Ability to work independently
+Windows Server, IIS and Azure administration
+.Net application management and support (4.x + Core)
+PowerShell scripting
+Configuration Management (preferred: DSC)
+Source control systems (preferred: Git)
+CI Tools (preferred: TeamCity)
+CD Tools (preferred: Octopus Deploy)
+Artifact Repositories (preferred: Artifactory)
+Advanced monitoring implementations
+SQL scripting / troubleshooting
+Solid understanding of the core concepts of DNS, HTTP/HTTPS, Encryption, Load-Balancing, TCP/IP routing and switching
+Experience in the following is a plus:
+Software development experience
+PCI policies and best practices
+Database deployment automation
+Docker
+Rundeck
+Checkmarx
+Terraform
+Other webservers (Apache/NGINX/J2EE)
+VMWare
+Other cloud computing services (AWS, Google, etc.)
+Cryptograhpy
+As the fastest growing commerce company in the industry, we offer the opportunity for tremendous upward mobility within the company as well as development and professional growth opportunities. FreedomPay provides exceptional benefits including medical, prescription, dental and vision coverage, Life Insurance, 401K with company match, commission sharing plan, and a modern working environment. All positions must be able to successfully pass a background check as well as a credit check.

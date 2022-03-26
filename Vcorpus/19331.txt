@@ -1,0 +1,38 @@
+Infoblox is looking for a Senior Data Engineer to augment our growing Cyber Security Software Development Team. This growing team supports the Infoblox mission to thwart cybersecurity threats in our customer's networks. This is an opportunity to work closely with data scientists and threat analysts to curate the data that makes this mission possible.
+
+The ideal candidate is a savvy software engineer with experience in data engineering and a solid background in Spark and Python. Preferably you know that countMinSketch is not a children's game. You are comfortable wearing several hats in a small organization with a wide range of responsibilities and have worked in a cloud environment, such as Amazon EMR. You know that Big Data is both a blessing and a curse; without good data engineering, it loses its potential. You are passionate about the nexus between data and computer science-driven to figure out how best to represent and summarize data in a way that informs good decisions and drives new products. When someone says, "my Spark job failed", your first question is "what's the skew?". Come join our growing Cyber Threat Intelligence team and help us build world-class solutions!
+
+Responsibilities:
+Curate very large-scale data from a multitude of sources into appropriate sets for research and development for data scientists, threat analysts, and developers across the company.
+Design, test, and implement storage solutions for various consumers of the data.
+Design and implement mechanisms to monitor data sources over time for changes using summarization, monitoring, and statistical methods.
+Leverage computer science algorithms and constructs, including probabilistic data structures, to distill large data into sources of insight and enable future analytics.
+Convert prototypes into production data engineering solutions through disciplined software engineering practices, Spark optimizations, and modern deployment pipelines.
+Collaborate on the design, implementation, and deployment of applications with the rest of software engineering.
+Support data scientists and threat analysts in building, debugging and deploying Spark applications that best leverage data.
+Build and maintain tools for automation, deployment, monitoring, and operations.
+Create test plans, test cases, and run tests with automated tools.
+Requirements:
+5+ years of experience with Python3, and 2+ years experience with Spark. Scala experience is helpful.
+5+ years of experience in data engineering, data science, and related data-centric fields using large-scale data environments.
+3+ years of experience in using SQL and working with modern relational databases, including MySQL or PostgreSQL
+3+ years of experience with developing ETL pipelines and data manipulation scripts
+Proficient in Object-Oriented Design and S.O.L.I.D principles.
+Strong emphasis on unit testing and code quality.
+Proficient with AWS products (EMR S3, Lambda, VPC, EC2, API Gateway, etc).
+Preferred Experience:
+Very strong Python and PySpark experience.
+Very strong back end development experience.
+Strong experience with cloud deployments and CI/CD.
+Experience with virtualization, containers, and orchestration (Docker, Kubernetes, XEN).
+Experience with NoSQL Non-Relational databases (AWS DynamoDB).
+Education:
+MS or BS in Computer Science or a related field, or equivalent work experience required.
+Perks:
+Work with a world-class technology team in a rapidly growing company
+A career path with opportunities to grow
+Discretionary Paid Time Off policy to promote a healthy work/life balance + world-class benefits
+And many, many more perks!
+It's an exciting time to be at Infoblox. We are the market leader in technology for network control. Our success depends on bright, energetic, talented people who share a passion for excellence in building the next generation of networking technologies-and having fun along the way. Infoblox offers a fast-paced, action-oriented environment. We promote a culture that embraces innovation, change, teamwork, and strong partnerships. Join the winning Infoblox team-our future looks bright, and so will yours. To check out what it's like to be a Bloxer click here.
+
+#LI-AB1

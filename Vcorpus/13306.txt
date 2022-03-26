@@ -1,0 +1,56 @@
+Title: Data Science Architect
+
+Reports To: VP, Professional Services North America
+
+General Description
+
+The position of Data Science Architect is responsible for providing deep technical and domain subject matter expertise to Information Builders customers that are interested in leveraging our software platform in support of predictive analytics, machine learning and deep learning business applications. Specifically, the individual must possess practical data science experience (academic and professional), strong data architecture comprehension, and technical value consultation skills as well as hands-on data modelling and deployment knowledge. The Data Science Architect will work closely with Advanced Technologies group bringing these solutions to life, and participate in the Information Builders Data Science community in pre-sales and delivery. This role is a billable consulting role acting as an AI expert on multiple concurrent customer engagements, providing guidance to our professional services team and our customers in regards to architecture decisions and methods to drive optimal outcomes. The DS Architect will also provide hands on technical assistance during the course of customer implementations.
+
+Duties and Responsibilities
+
+The Data Science Architect will:
+Lead and conduct customer business and/or technical discovery calls, whiteboard solution visioning, product demonstration and Proof of Technologies (POT) in support of predictive analytics, machine learning and artificial intelligence sales opportunities working with AI peers in the pre-sales function.
+Assist customer prospects in identifying, modeling and solving complex problem statements in relation to underlying business models e.g. leveraging predictive analytics to solve a variety of challenges (sales forecasting, customer churn, etc.).
+Serve as field evangelist for Information Builders’ messaging and positioning in relation to the domain of Data Science.
+Provide onsite technical assistance in customer sales situations on an as-needed basis e.g. building, training, testing and evaluating data models in support of predictive analytics.
+Proactively monitor and provide technical consultation guidance in customer sales situations to internal Technical Management and/or Executive Management Teams.
+Prepare and deliver formal presentations to customer prospects at various technical levels (i.e. CEO/CTO, Senior Vice-President and Vice-President, Director or Managerial resources).
+Develop and execute customized demonstrations and/or POT on an as-needed basis.
+Provide technical leadership in customer sales situations by providing Data Science domain expertise.
+General Activities
+
+In addition to the Duties and Responsibilities listed above, the successful Data Science Architect will:
+Present and demonstrate Information Builders’ software platform including newest innovative technologies in sales situations in support of predictive analytics, machine learning and deep learning opportunities.
+Independently broaden/deepen knowledge of data science industry as a whole e.g. industry/market trends.
+Represent Information Builders at external market events e.g. technical conferences, marketing events.
+Maintain core competencies on current release product solutions skills.
+Maintain knowledge and be conversant in Information Builders’ selling and marketing messages at it pertains to Data Science including (but not limited to) R&D and innovation initiatives.
+Required Skills
+3-5 years of background in machine learning, data science, deep learning, and pattern recognition
+Deep knowledge of mathematical probability, statistical analysis, and advanced data modelling
+Strong experience in evaluating data science algorithms, machine learning techniques
+Practical experience delivering data science capabilities in production
+Strong knowledge of Python, R, and frameworks such as TensorFlow, PyTorch, Keras, Pandas, NumPy, SciPy, Scikit-learn etc.
+Deep, practical knowledge of using the training, testing and validation paradigm to drive progress
+Experience with supervised and unsupervised machine learning algorithms, and ensemble methods: K-Means, PCA, Regression, Neural Networks, Decision Trees, Gradient Boosting
+Experience working in a Linux/UNIX environment
+Knowledge of emerging technologies, frameworks and trends in AI and machine learning
+Proficiency in SQL and NoSQL
+Familiarity with data pipeline architectures, software and product scaling
+Ability to identify business opportunities and derive valuable discoveries or insights
+Familiarity with data exploration and data visualization software solutions
+Ability to think strategically, analyse and interpret market and consumer information (data)
+A thorough understanding of modern connectivity technologies e.g. JDBC, ODBC and Adapters
+A thorough understanding of Web Services and affiliated technologies e.g. SOAP, WSDL and UDDI
+A thorough understanding of diverse modern formats and transformation technologies e.g. XML, XSD, XSLT
+Programming experience in object-oriented programming languages, such as Java
+Effectively articulate with internal and external executives as well as business and technical audiences
+Excellent written and presentation skills.
+Develop solutions in a highly collaborative and agile environment.
+
+Job Qualifications
+Bachelors or Masters Degree in Applied Mathematics, Computer Science, Statistics, Engineering (or closely related analytical field)
+3-5 years of practical work experience in the capacity of Data Scientist and/or Data Engineer
+Experience / Certifications in leading public cloud offerings
+20 - 25% travel to support sales opportunities is a broad geographic territory (North America)
+#LI-CS1

@@ -1,0 +1,50 @@
+Toyota Connected's Mobility team is responsible for building and managing our connected vehicle platforms, supporting product research using vehicle sensor data and creating new and exciting data services for Toyota customers that makes driving safer, more convenient, and fun. We're looking for a Senior Machine Learning Engineer capable of using machine learning and statistical techniques to create state-of-the-art solutions for non-trivial, and arguably, unsolved problems. If you are results driven, interested in how to apply advanced Machine Learning techniques, would love to work with vehicle telemetry data and video, are deeply technical, highly innovative and long for the opportunity to build solutions for challenging problems that directly impact the company's bottom-line, we want to talk to you.
+
+Responsibilities:
+Use statistical and machine learning techniques to create scalable solutions for vehicle telemetry data and video analysis, and perform R&D to drive discovery of new generation mobility products
+Establish scalable, efficient, automated processes for large scale data analysis, model development, model validation and model implementation
+Drive adoption of best practices across organizations
+Deliver production-ready code
+Work with Product Owners to define the KPIs for machine learning projects
+Provide support for technical guidance and training of other team members
+Stay abreast of developments in research methodology and changing technologies in the marketplace and proactively identify applications of these latest developments to improve existing methods
+Prepare and present findings to both technical and non-technical audiences
+Work within the constraints of time, budget and resources capacities to align with Toyota's global vision
+Develop and foster collaborative relationships with product, business and engineering teams to effectively serve our customer needs
+Qualifications:
+7+ years of production experience working in Data Science or Software Engineering
+5+ years of production experience in Machine Learning and Deep Learning
+Experience working as a Senior Technical Professional and/or Technical Lead developing models with business impact
+Solid production experience using Python (including NumPy) and SQL
+Solid production experience using TensorFlow and/or PyTorch
+Production experience with Apache Spark
+Strong fundamentals in problem solving, algorithm design and complexity analysis
+Experience in designing and implementing Machine Learning pipelines in production environments
+Hands-on experience with web APIs, containers, CI/CD and testing
+Experience in leading/coaching data science teams with industry best standards
+Experience implementing solutions in a cloud environment (AWS or Azure) is a plus
+Experience working with data science in automotive telematics data and video is a plus
+Experience in edge computing is a plus
+Experience from working in Agile Scrum environments is a plus
+What's in it for you?
+
+In addition to an excellent compensation and benefits package, you'll also receive:
+A Career Path that allows you to take your career to the next level.
+Annual $2,000 Training Budget to help you grow and develop.
+Unlimited time off and flexibility for a great worklife balance. At TC you'll be treated like the professional we know you are and left to manage your own time and work load.
+Four months of paid parental leave. We want new moms and dads to have an opportunity to bond with their new little bundles of joy.
+401(k) with generous company match that is fully vested Day One.
+Toyota and Lexus vehicle discounts to allow you to drive in style.
+Annual Patent-a-thons and Hackathons to embrace your superior creative thinking ability.
+Annual gym membership reimbursement. We have a Toyota Connected fit club that loves plank competitions!
+Free catered lunches every day. We try to keep it healthy, but Fridays are "cheat" days, so you can get your carbs on!
+Two fully stocked Nespresso bars for your coffee and tea fixes.
+Stocked kitchens with healthy snacks including fresh fruit, almonds, mixed nuts, pretzels, trail mix, and flavored waters. Nobody is hangry here!
+Fun game room for the gamer that lives inside you! Xbox, virtual reality, and Nintendo Switch gamers live here and are always ready for their next opponent.
+No dress code! Come as you are. We know the smart people we hire don't need to be told what to wear.
+Free covered garage parking to shield your vehicle from those sneaky storms and to protect your buns from the Texas sun.
+Who Are We?
+
+Toyota Connected is a new company created to infuse the power of big data and cloud intelligence into all aspects of the mobility experience so that driving a Toyota or Lexus is more personal, intuitive and safe. We create and enable technologies that delight, simplify and connect the lives of those who use our products. We believe this mobility revolution will empower our customers to use their vehicles in an array of exciting new ways. We support, celebrate and thrive on the opportunity to provide Mobility for All.
+
+Making a connected life a more human experience takes humans from all walks of life. Toyota Connected celebrates and is committed to a diverse and inclusive workplace that embraces you regardless of your gender, religion, sexual orientation, skin color, age, disability, military or veteran status, big shot relative, or Instagram fame. Different makes us awesome.

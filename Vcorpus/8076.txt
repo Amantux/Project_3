@@ -1,0 +1,49 @@
+Bachelor’s degree in Statistics, Applied Math, Operations Research, Economics, Engineering or a related quantitative field with three years of working experience as a Data Scientist
+
+Experience in SQL, R, Python, or another scripting language
+
+Ability to write SQL scripts for analysis and reporting
+
+Track record of diving into data to discover hidden patterns and of conducting error/deviation analysis.
+
+Experience applying various machine learning techniques, and understanding the key parameters that affect their performance
+
+Understanding of relevant statistical measures such as confidence intervals, significance of error measurements, development and evaluation data sets, etc.
+
+Excellent written and verbal communication skills for both technical and non-technical audiences.
+
+Strong troubleshooting and problem-solving skills
+
+The Alexa Wakeword team is responsible for delivering the speech models, runtime engine and cloud-based services that provide hands-free invocation of Alexa enabled devices. Accurately measuring model performance is a linchpin for continued progresses in this area. The team is seeking a Data Scientist with exceptional analytic abilities who will work with a team of Scientists and SDEs to drive the measurement and analysis of Wakeword model performance.
+
+Key responsibilities include:
+
+Define performance metrics and automate metrics reporting
+
+Work with stakeholders to ensure the quality and availability of data used for performance measurement
+
+Develop compelling and easy to understand visualizations for internal customers at all levels
+
+Apply statistical methods to understand when model performance deviates from expected levels and drive automated alerts
+
+Deep dive to understand patterns and anomalies in performance metrics
+
+Conduct experiments and analysis to determine whether candidate wakeword models are ready for promotion to production
+
+Master’s degree in Statistics, Applied Math, Operations Research, Economics, Engineering or a related quantitative field
+
+5+ years of experience in data science
+
+Ability to develop experimental and analytic plans for data modeling processes, use of strong baselines, ability to accurately determine cause and effect relations
+
+Experience in creating data driven visualizations to describe an end-to-end system
+
+Proficiency with Tableau, QuickSight or other web based interfaces to create graphic-rich customizable plots, charts data maps, etc.
+
+Proven ability to work effectively in a cross-functional, fast paced environment
+
+Previous experience in a ML or data scientist role with a large technology company.
+
+Experience with AWS features (S3, Redshift, Athena, RDS, EMR)
+
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age.

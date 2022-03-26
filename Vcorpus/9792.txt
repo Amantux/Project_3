@@ -1,0 +1,81 @@
+Job Title
+
+Data Scientist
+
+Agency
+
+Texas A&M Engineering
+
+Department
+
+TEES Army Futures Command
+
+Proposed Minimum Salary
+
+Commensurate
+
+Job Location
+
+College Station, Texas
+
+Job Type
+
+Staff
+
+Job Description
+
+We are looking for a full-time data scientist to work on data generated from Test and Evaluation (T&E) exercises performed at Innovation Proving Ground located at the Texas A&M University System RELLIS Campus. These duties involve multiple projects in a matrixed fashion spanning the Texas A&M Experiment Station (TEES), the Texas A&M College of Engineering (COE) and other external partners across differing technology domains. Provides direct support to the TEES’ Army Futures Command (AFC) strategic effort and all other testing activities performed as a service.
+
+Responsibilities:
+
+Collect, assure, curate, store, and perform analytics on T&E data.
+
+Serve as a SME to support data-related operations occurring within the individual research programs.
+
+Deliver project results to both technical and non-technical audiences using visualization tools (e.g., Shiny, Superset, Tableau).
+
+Leverage statistical programming languages and packages with an emphasis on open source software (e.g., R, Python, XGBoost, Spark, etc.).
+
+Adhere to stringent quality assurance and documentation standards using version control.
+
+Drive organizational innovation based on progress being made via academic and industry best practices.
+
+Other duties as assigned.
+
+Required Education:
+
+Master's degree in applicable field or equivalent combination of education and experience.
+
+Preferred Education:
+
+Strong academic background in statistics, mathematics, or similar discipline
+
+PhD in Computer Science
+
+Required Experience:
+
+Eight years of related experience.
+
+Knowledge, Skills, and Abilities:
+
+Significant experience answering questions using advanced statistical methods.
+
+Significant experience with A/B testing, including test design, sampling, hypothesis testing, evaluation of evidence and measurement.
+
+Significant experience querying data from relational databases using SQL
+
+Significant experience using R or Python to develop analytical solutions
+
+Significant experience with data wrangling, data cleaning and prep, dimensionality reduction
+
+Experience with Big Data concepts, tools, and architecture (e.g. Cloud, Hadoop, Pig, Hive, Spark)
+
+Data visualization skills and ability to present technical solutions to non-technical audience
+
+Strong interpersonal and communication skills
+
+The position must meet export control requirements without additional licensure per System Policy 15.02. http://policies.tamus.edu/15-02.pdf
+
+All positions are security-sensitive. Applicants are subject to a criminal history investigation, and employment is contingent upon the institution’s verification of credentials and/or other information required by the institution’s procedures, including the completion of the criminal history check.
+
+Equal Opportunity/Affirmative Action/Veterans/Disability Employer committed to diversity.

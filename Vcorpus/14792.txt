@@ -1,0 +1,77 @@
+As a Data Engineer, you'll join our growing team of data scientists and engineers, reporting into Operations organization but working across multiple teams throughout the company. In this role, you(TM)ll be responsible for handling the design and construction of scalable data management systems " ensuring that all data systems meet our company requirements " and will also research and recommend new uses for data acquisition. As a Data Engineer, you will implement the data models and data structures needed for each use case, in the most convenient format to be used by the Data Science and Business Intelligence teams. Through regular interactions with stakeholders and functional business unit leaders, you will build high-performance algorithms, predictive models, and prototypes that influence data storage, piping, and usage. Additionally, you will participate in data requirements, modeling and testing activities. Each day will be unique, requiring an ability to think strategically and on your feet, be creative, take initiative, and employ a diverse set of skills.
+
+WHO YOU ARE
+
+Knowledgeable, Analytical, and Solution-Oriented. Without a doubt, you(TM)ve got strong quantitative skills and are comfortable analyzing large data set, spotting trends and patterns, and synthesizing relevant observations. You use a hypothesis-driven approach to engage in analysis that will deliver on your client questions. You like thinking outside the box to come up with innovative points of view on new challenges, relying on your previous analytic work and experience to help guide you along the way.
+
+Results-Oriented. You demonstrate an inherent sense of urgency to drive great results, while being precise in executing your work. You are facile with creating and communicating a clear project plan, tracking progress, and keeping your business partners in the loop along the way.
+
+Intellectually Curious. You're inherently interested in the "why" so that you can identify opportunities that represent unconventional solutions to the problems you are trying to solve.
+
+Strong Communicator. Your writing and speaking skills are concise, articulate, and effective, providing an ability to interact with all levels/various teams across the organization, be understood, and develop trust and rapport within the organization.
+
+Technologically Savvy. Microsoft Excel is a basic tool to you that you know like the back of your hand. You also have a strong skill set in R, Python, ArcGIS, machine learning, neural networks and/or other advanced analytics tools and techniques.
+
+A Trusted Team Player. You enjoy partnering with others and build constructive working relationships that foster the collaboration necessary to deliver great results. You are accountable to your teammates and follow through on commitments.
+
+Organized and Confident. You are flexible, composed, and able to prioritize multiple tasks and deadlines simultaneously, while confidently interacting with a variety of individuals, across all levels of the organization. You handle pressure well and do so with confidence.
+
+WHAT YOU(TM)LL DO
+
+Create data models and data processes, providing the right format and structure for use case solutions.
+
+Participate in early data modeling and testing for use case development, providing input on how to improve proposed solutions and implement necessary changes.
+
+Help to build, document, and maintain best practices, including but not limited to codebase management, work and issue tracking, testing and quality control/assurance measures, data dictionaries, and a documentation hub for both production level code and ad hoc analyses.
+
+Interact with stakeholders and functional subject matter experts to understand all data requirements in order to develop effective business insights and translate them into actionable data structures and data models.
+
+Assemble large, complex data sets that meet both functional and non-functional business requirements.
+
+Extract relevant data to solve analytical challenges the organization and/or functional business units may face.
+
+Work closely with IT teams on internal data acquisition (e.g., CRM, ERP, etc.).
+
+Partner with stakeholders to provide technical support related to data structures, data models, data management and data infrastructure needs.
+
+Work with data and analytics experts to strive for greater functionality in our data systems. Recommend different ways to constantly improve data reliability and quality.
+
+Research new uses for existing data.
+
+Create data tools for Business Intelligence, Analytics and Data Scientist team members that assist them in building and optimizing our Company use of data.
+
+Collaborate regularly with key stakeholders to support and enhance the day-to-day operations of our business.
+
+Produce various reports for stakeholders, as requested, to highlight areas of opportunity; works with teams to develop and implement changes, as needed.
+
+Develop and maintain formal documentation that describes data and data structures, including data modeling.
+
+PREVIOUS EXPERIENCE & REQUIREMENTS
+
+Bachelor's Degree required, preferably in computer science, software/computer engineering, applied mathematics, or physics statistics.
+
+Minimum 2 years data modeling experience and working with data management systems; deep expertise in data modeling and structuring required.
+
+2+ years experience in high volume data environments and core data engineering activities (i.e. familiarity with cloud database set up, automation scheduling using directed acyclic graph (such as Airflow) and database optimization, including but not limited to partitioning, group and sort keys, and indexes).
+
+Familiarity with a broad base of analytical methods e.g. data modeling (variable transformation and summarization) and processing (i.e. Spark, SQL Server, Hadoop/Hive, neo4j, etc).
+
+Strong attention to detail and ability to think critically/conceptually.
+
+Team oriented and flexible with proven track record in collaborating with multiple stakeholders.
+
+Effective written and verbal communication skills required. Demonstrated ability to quickly learn new technologies a must.
+
+Ability to think creatively when problem solving for new solutions and to work on numerous projects concurrently while effectively prioritizing workload. Tolerance for ambiguity required.
+
+Tools/software:
+
+Familiarity with data loading and management tools (i.e. Azure Storage"BlockBlob and relational and NoSQL databases and tools such as SQL Server, MongoDB, Data Stax, etc) required.
+
+Must have programming and/or scripting experience (Python, Java) as well as experience with version control systems (Git/GitHub), continuous integration (circleCI) and other programming frameworks/approaches.
+
+Proficiency in MS and Google application suites.
+
+Must be available for overnight travel (approximately 10%)
+
+Authorization to work in the US (without need for Visa sponsorship from employer) is required.

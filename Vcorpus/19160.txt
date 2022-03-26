@@ -1,0 +1,62 @@
+About Khan Academy
+
+Khan Academy is a nonprofit on a mission to provide a free, world-class education to anyone, anywhere. We already reach millions of students every month and are growing rapidly. We're building a library of high-quality instructional and practice resources that empowers learners and the teachers who support them. Whether they're studying metaphors, mitosis, Marbury v. Madison, or multivariable calculus, we want to offer students the resources to realize that they can learn anything.
+
+Khan Academy is looking for passionate software engineers to help change the world. We've built a talented development team with engineers from a variety of backgrounds. Our team includes industry leaders from Google, Apple, Microsoft, Mozilla, and Intuit, as well as folks from tiny startups and developers from non-traditional backgrounds. Together, we're a team that is deeply invested in your future. We believe that no organization will be as invested in developing you as a professional.
+
+About the Role
+
+As an Engineer at Khan Academy, you'll help learners build mastery regardless of where they are, and regardless of whether they are accessing Khan on the browser, on Android, or on iOS. You'll create new, impactful ways for teachers and students to use online learning in the classroom. You'll work on the content creation and translation tools that we rely on to expand our library of world-class educational content and bring it to an international audience. You'll help build cutting-edge infrastructure to enable students of all backgrounds to succeed on high-stakes assessments like the SAT and LSAT. Ultimately, you'll be part of helping millions of learners around the world unlock their full potential.
+
+What you'll do:
+Take on world-changing challenges guided by our Engineering Principles – some of which have never been solved before.
+Work on code that is used by millions of monthly active learners from all over the .
+Model problems, then design, write, test and release code to solve them!
+Collaborate with your peers via code reviews to level up yourself and others, to improve your ability to provide effective feedback, and to achieve higher quality code.
+Ship products with a cross-functional team of engineers, designers, analysts and product managers.
+Contribute to open source! We ❤️ open source, and we give back to the community whenever we can.
+Build using technology that is best suited to solving problems for our learners. Currently, we build with JavaScript, React, Redux, GraphQL, Python, Go, and we adopt new technologies when they'll help us better achieve our goals.
+
+You can read about our latest work on our Engineering Blog. A few highlights:
+Go + Services = One Goliath Project
+Kotlin for Python Developers
+Kotlin on the server at Khan Academy
+New data pipeline management platform at Khan Academy
+You need:
+At least 5 years experience building world-class product experiences for an interactive web-app
+Strong technical project management skills, as our Senior Software Engineers often lead projects.
+Experience building and maintaining complex software. You'll join us in writing clean, maintainable software that solves hard problems. You'll write testable, quality code. You'll push the team and the mission forward with your contributions.
+Strong communication, thoughtfulness, and desire to give and receive regular feedback
+Empathy for learners around the world. You love learning and are excited about helping others learn to love learning. You're motivated to learn new things and share what you learn with the world.
+Excitement about helping Khan Academy bring a free, world-class education to the world.
+Experience/Interest in DevOps, specifically Jenkins build, Kubernetes, and some system configuration is a plus!
+You don't need:
+We don't require experience in any particular technology. Our commitment to on-boarding and mentorship means you won't be left in the dark as you learn new technologies.
+About our benefits
+
+We may be a non-profit, but we reward our talented team extremely well!
+Highly competitive salaries and annual bonuses
+Ample paid time off as needed – we are about getting things done, not face time
+Generous parental leave
+Flexible work and time-off schedules to encourage work-family balance and holidays
+Delicious catered lunch daily plus lots of snacks and beverages
+Great location: short walking distance to Caltrain and downtown Mountain View.
+Awesome team events, on-sites and off-sites, company parties and BBQs, and weekly board game nights
+A fun, high-caliber team that trusts you and gives you the freedom to be brilliant
+The ability to improve real lives and the opportunity to work on high-impact software and programs that are already defining the future of education
+Affinity groups where parents, Black and Latinx, women and gender minorities, and LGBT+ identified folks support one another
+And we offer all those other typical benefits as well: 401(k) + 4% matching & comprehensive insurance including medical, dental, vision, and life
+How to apply:
+Attach your resume to the job posting on our Khan Careers page
+Briefly describe your experience building backend web services that deal with large volumes of requests per second.
+Address the following prompt in the space provided below: We believe that reaching all learners requires a team that is diverse in every respect, and we are looking for individuals who will help us fulfill our mission by adding to the diversity of our team's experiences, perspectives, and mindsets. With that in mind, tell us briefly how your experiences and perspectives - whether personal, professional, academic, or in your own classroom - would contribute to the diversity of our team and our ability to understand and address the needs of all learners.
+Optional:
+Links to projects or previous work. We especially like living, breathing projects, demos, or commentaries on your work. Please don't just send code – show or tell us why you wrote it, what it's for, what you like about it, how it helps someone, etc. No project is too small if it's something you care about. If you're feeling especially creative feel free to include a link to a project that you've built on our programming platform.
+If you'd like to provide a more traditional cover letter addressing your interest in KA (in addition to the diversity-based response), please feel free to attach that below.
+To learn more about our work:
+Sal's TED talk from 2011
+Sal's TED talk from 2015
+You Can Learn Anything
+Our team
+
+We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or Veteran status.

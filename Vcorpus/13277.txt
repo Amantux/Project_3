@@ -1,0 +1,65 @@
+Summary
+
+FGL Holdings—the F&G family of insurance companies—is committed to helping Americans prepare for and live comfortably in their retirement. Through its subsidiaries, F&G is a leading provider of annuity and life insurance products. For nearly 60 years, we have offered annuity and life insurance products to those who are seeking safety, protection and income solutions to meet their needs.
+
+At F&G, we believe our culture is what makes our company great. In 2019, we received a Top Workplace award, which we credit to our employees' shared cultural values: Collaborative, Authentic, Dynamic and Empowered. We believe that by embracing these values, we will continue to build and strengthen the company, while being a great place to work. We recruit talented and committed individuals to join our team, and we provide opportunities for personal and professional growth.
+
+The Sr. Data Engineer will support the design, development, implementation and maintenance of complex, mission-critical Informatica, SQL-based systems supporting F&G‘s insurance operations. As a senior team member, the senior data engineer will assume lead roles in the design and development, oversee the work of all junior developers, and participate in the strategic planning around future development of the F&G data environment.
+
+The Company has made a significant investment in information technology and relies heavily on data interfaces from multiple off-site source systems. Solid communication and problem-solving skills are required.
+
+Organization
+
+This position reports directly to the Director, Data Engineering& Administration and has significant interaction with members of the IT organization, Third Party Administrators, group managers, and departmental analysts throughout the organization. In addition, interaction with the PMO Project Managers for prioritization and reporting and Relationship Management with business will be critical and ongoing.
+
+Duties and Responsibilities
+Develop Informatica code to support existing and future EDS deployments
+Performance tune existing and future Informatica code to ensure all SLAs are met
+Develop and support team of on-shore and off-shore Informatica developers to deliver exceptional quality and meet all project deadlines
+Perform relational database analysis, modeling, and design of complex systems
+Create detailed technical design documents in accordance with business requirements
+Develop complex programs/queries to support transactional processing and regulatory reporting utilizing SQL and Informatica
+Develop and perform detailed unit, quality assurance and regression tests to validate the readiness of internal developed code for production
+Create detailed deployment plans for use in the migration of code from staging to production environments and provide deployment guides to host provider for deployments
+Work with Infrastructure and other IT teams to implement complete solution
+Create clear and effective Status reports as required
+Perform impact analysis for interface/system changes affecting the applications and data environment
+Work closely with Data Management team members to translate business needs into technical solutions
+Assist Data Management Manager in developing estimates for project and maintenance work
+Monitor/ensure acceptable levels of system performance, integrity and security
+Support standards for system architecture, code quality and collaborative team development
+Attend routine departmental meetings to support communication around development best practices, participate in change control discussions, review code, and provide technical instruction to colleagues
+Partner with external TPAs and consultants to collaborate on large scale development efforts and enforce F&G standards for integration and data exchange
+Attend conferences, developer forums, and training opportunities to ensure current technology trends are understood and applied within the F&G environment
+Experience and Education Requirements
+Bachelor’s degree (preferred emphasis in computer science or MIS) or equivalent experiences
+Senior to expert level design/development, debugging ability with Informatica Power Center (including version 10.1)
+Senior to expert level ability to optimize Informatica and SQL jobs through performance tuning
+Minimum 5 years of experience in supporting ETL, production data operations (File processing, data distribution etc.,) including debugging, addressing production issues and performing Root Cause Analysis
+Expert level experience in designing and building large applications utilizing SQL Server
+Experience in windows batch scripting, scheduling jobs using job scheduling tools, e.g., JAMS and Data Marts and other Data Warehousing practices
+Thorough understanding of the software development life cycle and experience in working with geographically distributed teams (offshore, offsite etc.,)
+Ability to use SQL development tools such as SQL Navigator and Toad as well as maintain code in source code control systems
+Knowledge of proper database normalization, indexing, transaction protection and locking is essential
+Preferred Skills
+Preferred to have experience in supporting DTCC and data transfers from / to external organizations and internal systems using EFT (Electronic File Transfer)
+Working knowledge of Informatica Data Quality, Business Glossary, Metadata Manager
+Experience with database design/modeling tools such as Erwin
+Skills and Abilities
+Strong technical documentation ability
+Familiar with SSIS, Python and other ETL frameworks preferred
+Previous experience with Tableau, operational reporting is a plus
+Must have a teamwork focused attitude and be skilled at building relationships within IT organizations and across business functions
+Strong technical documentation skills
+Life/Annuity insurance industry experience strongly preferred
+Excellent oral and written communication skills
+Knowledge of data integrity protocols and security requirements and techniques
+Strong time management and organizational skills to enable productivity in a fast-paced, dynamic development environment
+Strong verbal communication skills and a demonstrated ability to work effectively in team-based development projects
+Physical Demands and Work Environment
+Must be able to work in a fast-pace team environment and handle multiple projects and assignments under tight deadlines
+Must demonstrate willingness to work flexible hours as needed to accommodate business needs and deliverables
+Must be able to sit at a computer for extended periods of time
+#LI-JS1
+
+#INDHP

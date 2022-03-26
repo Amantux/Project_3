@@ -1,0 +1,28 @@
+Summary
+*** Remote opportunity or possible relocation assistance to Minneapolis MN. ***
+
+We exist to help people achieve financial clarity. At Thrivent, we believe money is a tool, not a goal. Driven by a higher purpose at our core, we are committed to providing financial advice, investments, insurance, banking and generosity programs to help people make the most of all they’ve been given.
+
+At our heart, we are a membership-owned fraternal organization, as well as a holistic financial services organization, dedicated to serving the unique needs of our clients. We focus on their goals and priorities, guiding them toward financial choices that will help them live the life they want today—and tomorrow.
+
+Join our newly created Data Office as the full-time Kafka Data Engineer! We are in the early stages of an on prem Confluent Kafka implementation and also exploring cloud technologies. You will be responsible for working closely with Data Architect’s and Big Data Engineers and their vision to help design, build and provide governance of large-scale streaming architecture solution that delivers business value across the organization. You will have the opportunity to both lead and execute on projects and always consider the bigger picture proactively with anticipating any performance issues, troubleshooting, monitoring, quality, etc… This role will require experience with hybrid platforms, cloud migration, publishing, development with newer technologies such as Spring Boot, KSQL/Stream Processing, data connectors such as Kafka, performance tuning, data quality and data visualization knowledge. You and will report to the Director of Information Delivery.
+Job Description
+Job Duties and Responsibilities
+Lead the implementation, execution, and maintenance of Streaming Architecture technology solutions
+Lead work to advance and support streaming architecture practices for business processes, applications and technology that underpin the EIM discipline
+Provide leadership for Data Engineer tasks supporting projects
+Lead the Management and proactive improvement of Thrivent's data by analyzing the current systems environment, leveraging proven practices, applications, technology, tools and platforms to support and enhance the information landscape.
+Revenue generated
+Budget responsibilities
+Leads the delivery, support and maintenance of solutions with one or more business and technology areas.
+Organizational impact results from mid-large sized projects
+Required Job Qualifications
+Bachelor’s degree or equivalent experience in MIS, Computer Science, Mathematics, Business or related field
+5+ years of experience in Technology related field including prior lead experience
+Advanced in-depth knowledge of Predictive Analytics, Statistical modeling, advanced mathematics, data integration concepts and tools
+Strong organizational, analytical, critical thinking and leadership skills
+Demonstrated leadership on mid-large-scale project impacting strategic partners
+
+Thrivent provides Equal Employment Opportunity (EEO) without regard to race, religion, color, sex, gender identity, sexual orientation, pregnancy, national origin, age, disability, marital status, citizenship status, military or veteran status, genetic information, or any other status protected by applicable local, state, or federal law. This policy applies to all employees and job applicants.
+
+Thrivent is committed to providing reasonable accommodation to individuals with disabilities. If you need a reasonable accommodation, please let us know by sending an email to human.resources@thrivent.com or call 800-847-4836 and request Human Resources.

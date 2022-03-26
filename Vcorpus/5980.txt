@@ -1,0 +1,71 @@
+Position: Data Scientist-Modeler
+Location: Parsippany, NJ
+Duration: Long Term Contract 
+
+As part of a team, develop advanced analytical models to solve business problems leveraging the latest technologies in statistical, unsupervised, supervised, and Artificial Intelligence (AI) models to achieve organizational goals, increase data-driven insights, functional excellence, and digital expertise.
+
+Projects
+All in Google Cloud Environment using Projects and leveraging Google Design Studio to create User Interfaces (UIs) 
+All models were written in Python
+
+Model
+#1 Op Model. Connects to Google Trends for Google Search and Youtube API using a corpus of search terms for raw results, ARIMA predicted results, trends and a Granger Causality (we have algorithm) to predict future search terms)
+
+#2 We have an operational basic Macro Economic Model that connects to 700+ FRED APIs to conduct a series of analysis:
+-ARIMA by respective API
+-Correlation by various series 
+-CCF and Lag by various series as a trend incator
+
+#3 We have an operational model that uses batch analysis from an internal construction journal to conduct semi-active learning (supervised &amp; unsupervised) to predict construction job value and value of numerous jobs by organization. The UI also filters data for insights for salesfolks.
+
+#4 A testing model that uses Google AutoML to classify images 
+
+ESSENTIAL DUTIES
+
+60% Data Modeling
+Transform business problem into data science case to assess the scope of model&rsquo;s value, speed, and cost in order to articulate model selection criteria.
+Build Data Science models using cloud-computing platforms such as AWS, Azure, and Google.
+Build Data Science models using any relevant Data Science capability.
+Be prepared to automate analytical workflows.
+Manage and shape modeling design, development, and delivery process.
+
+20% Data Collection
+Collect, profile, collate, and map appropriate data for usage in new or existing solutions as well as for ongoing data analysis activities.
+Develop, maintain, and review data processes and architecture for both on-premise and cloud-based data systems.
+Develop and perform standard queries to ensure data quality, identify data inconsistencies, missing data and resolve as needed.
+Perform data extraction, storage, manipulation, processing, and analysis.
+Conduct programmatic web scraping to acquire external publically available information.
+
+20% Model Deployment and Evaluation
+Assemble relevant User Interfaces (UIs) or Dashboards.
+Assemble, deliver, and effectively communicate actionable insights for decision- makers.
+
+LEVEL BASED COMPETENCIES
+Teamwork: Collaborates with other members of formal and informal groups in the pursuit of a common mission, vision, values and mutual goals.
+Change Advocate: Identifies and acts upon opportunities for continuous improvement.
+Communicates for Results: Expresses technical and business concepts, ideas, feelings, opinions, and conclusions orally and in writing.
+Conceptual Thinking: Applies appropriate concepts and theories in the development of principles, practices, techniques, tools and solutions.
+Information Seeking: Gathers and analyzes information or data on current and future trends of best practice.
+Innovation: Employs sound judgment in determining how innovations will be deployed to produce return on investment.
+Problem Solving: Anticipates, identifies and defines problems; seeks root causes.
+
+TECHNICAL KNOWLEDGE/SKILLS
+Advanced - Data intuition.
+Intermediate - General experience across relevant business operations to enhance understanding would be desirable.
+Entry - Exposure to roofing or manufacturing industry would be helpful
+
+REQUIRED EDUCATION/EXPERIENCE
+Undergraduate Education or Graduate of a Data Science Academy in a related technical Data Science discipline. 
+
+Job Summary
+
+                                         
+                     
+                         Job type 
+                         Full Time, Employee 
+                     
+                 
+                 
+                     
+                         Posted 
+                         28 Days ago

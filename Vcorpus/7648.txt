@@ -1,0 +1,107 @@
+Position Summary
+
+This position is part of the Engineering team, which supports the manufacture of cutting-edge 3D woven carbon fiber composite parts for the LEAP family of aircraft engines. The Data Scientist is a technical expert with a broad set of responsibilities related to the collection, management, visualization, and analysis of part, process, and business data. It is a multi-disciplinary role that blends data, statistics, computer science, and engineering. Duties range from daily production support tasks to managing complex, long-term development projects.
+
+Production support tasks typically involve helping process engineers find and anlyze data in support of investigations into process anomalies or parts defects. Projects vary in scope and may include creating or improving scripts that automate data collection and post-processing tasks, creating real-time data dashboards and reports, or creating web applications to improve both production and non-production processes. There is also ample opportunity to apply machine learning, deep learning, and other big data techniques to drive improvements and uncover valuable business insights.
+
+Principal Duties and Responsibilities (*Essential Functions)
+
+Ensure seamless data collection and storage
+
+Support complex data mapping
+
+Develop efficient and useful reporting tools
+
+Maintain accuracy of data with high level of detail, implementing corrective actions as required
+
+Maintain system efficiency, propose improvements, and monitor technology developments
+
+Initiate new data collection streams with guidance from the engineering team to determine parameters or processes to monitor
+
+Generate manufacturing data reports to support immediate feedback to the operators and generation of Quality documentation
+
+Monitor production to detect and prevent process drifts
+
+Analyze manufacturing data to assess capability and determine opportunities for process improvements
+
+Suport SPC administration, data collection, and analysis
+
+Provide data or documentation and make technical presentations to management
+
+Apply statistical metholodogy to complex data
+
+Perform mathematical modeling in support of production projects
+
+Support the effort to make pertinent data visible throughout the manufacturing facility
+
+Perform internal audits to validate the quality and usability of the data
+
+Perform engineering database administration, maintenance, and updates
+
+Interact with engineering team and international team of data engineers and data scientists to ensure alignment of data collection, analysis, and reporting amongst three facilities
+
+Propose, lead, and participate in data driven projects utilizing DMAIC and DMADV principles
+
+Manage urgent work deadlines and high profile deliverables in an efficient manner
+
+Develop training material and facilitate training sessions as warranted
+
+Identify opportunities for process improvement while coordinating and implementing automated solutions
+
+Other duties as assigned
+
+Job Specifications
+
+Bachelor's degree in Engineering, Computer Science, Data Science/Engineering, Information Technology, Mathematics, Physics, or other relevant technical degree including a strong statistical background
+
+Strong IT skills: database knowledge; ability to specify software development requirements
+
+Strong proficiency in SQL and Object-Oriented Programming (e.g., C#, Python, Java)
+
+Experience with web development frameworks (e.g., Django, ASP.NET, Ruby On Rails)
+
+Knowledge of DevOps tools and practices a plus
+
+Experience with data visualization packages preferred (e.g., Plotly, Shiney, etc.)
+
+Machine learning and deep learning experience preferred
+
+Requires strict attention to detail
+
+Understanding of LEAN manufacturing concepts and/or 6 Sigma techniques preferred
+
+Ability to work well with individuals at all levels of the organization required
+
+Prefer a minium of two years of relatable experience in a manufacturing environment
+
+Good project management skills
+
+Excellent commumnication and presentations skills
+
+Ability to read and interpret blueprints is preferred
+
+Must be able to work effectively individually and as part of a team
+
+Ability to lift up to 15 pounds, approximately 10% of a standard work day
+
+Travel - available for international travel (no more than 10% of the time)
+
+Ability to quickly develop an understanding of the current master data enviroment (including systems, policies, process, and procedures)
+
+Self-starter with the ability to deal with ambiguity and work independently
+
+Excellent analytical and problem solving skills
+
+Ability to work in high volume manufacturing setting
+
+Ability to handle conflicting priorities
+
+Working Conditions
+
+Lighting and temperature are adequate
+
+Employee must be regularly required to sit with occasional walking
+
+Employee is frequently required to reach with hands and arms
+
+Protective footwear must be worn in manufacturing areas, approximately 30% of a standard working day

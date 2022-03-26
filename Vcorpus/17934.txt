@@ -1,0 +1,74 @@
+Job Summary
+
+You will be a technical expert
+responsible for the design, implementation, and support of cloud automation
+information technology solutions in current and future state. Successful
+candidate requires experience in systems engineering and cloud automation, a
+scripter with strong coding skills that will be used to automate repeatable
+tasks. We will look to you to lead us in
+our efforts to create infrastructure to streamline development and deployment
+of our applications.
+
+Responsibilities
+Lead the technical design, maintenance, and
+operation of cloud-based platforms (AWS, Azure, Google Cloud)
+Design, lead and build an automated deployment
+tool set and infrastructure including environments, code management CI and CD
+process
+Work closely with the software development team
+and other functional groups to develop and provide a robust, flexible and
+scalable platform
+Develop common components and templates for
+resources in Cloud using Infrastructure as Code
+Integrates on-premise solutions with Cloud
+resources
+Build out solutions based on security,
+monitoring, logging, and alerting requirements
+Provide guidance to technical teams regarding
+architectural and procedural best practices
+Lead automation efforts to minimize manual work
+and ensure transparency of our secure cloud ecosystem
+Work with partners to obtain and translate
+requirements into technical implementations
+Integrate existing legacy systems with proposed
+systems by identifying gaps between the current and future state, and leading
+the implementation of solutions
+Oversee and develop continuous delivery
+framework and tools
+Setup framework for infrastructure as code and
+automation
+Create technical documentation for designs
+Develop testing use cases and detailed testing
+plans that map to the documented business and technical requirements, complies
+with Federal Reserve security specifications and policies and industry standard
+/ generally accepted testing practices. Coordinate technical and end-user
+resources to execute detailed tests and analyze testing results.
+Provide technical support both across
+departments and applications including rotational on call support
+Your Background
+Bachelor's degree in Computer Science, Information Systems, or equivalent background or experience
+3 years working with cloud based platforms (AWS, Azure, Google Cloud) in an enterprise environment
+5 years software engineering experience in a team based environment
+Experience integrating legacy platforms and applications with cloud-based systems
+Experience with infrastructure as code tools (CloudFormation, Azure Resource Manager, Terraform)
+Advanced experience with Web Services, API, Microservices, REST, RPC
+Knowledge of Docker and Kubernetes
+Advance scripting knowledge with tools like PowerShell or python
+Experience with system configuration tools (Chef, Puppet, Ansible)
+Experience implementing architectural frameworks (Service Oriented Architecture, Domain-Driven Design)
+Experience developing solutions in an iterative (Agile) approach
+Experience with source code management tools (Git, SVN)
+Experience with CI/build tools
+Experience with multiple programming languages (Java, JavaScript, Python)
+Experience with Web Services, API, REST, or RPC
+Understanding of basic networking concepts
+Experience deploying, managing, operating and monitoring of applications in scalable, highly available and fault tolerant data centers (both on premise and hosted)
+Experience learning, sharing, and implementing best practices with the ability to define operational processes, implement DevOps, deployment checklists.
+What we offer
+Comprehensive benefits package include medical, dental, vision, prescription drug coverage, 401k savings plan, retirement plan, paid time off, transit benefit, onsite gym and subsidized cafeteria
+A continuous learning environment with opportunities to gain new skills and grow your career
+Requirements
+
+As a condition of employment, Federal Reserve Bank of Chicago employees must comply with the Bank’s ethics rules, which generally prohibit employees, their spouses/domestic partners, and minor children from owning securities, such as stock, of banks or savings associations or their affiliates, such as bank holding companies and savings and loan holding companies. If you or your spouse/domestic partner or minor child own such securities, and would not be willing or able to divest them if you accepted an offer of Bank employment, you should raise this issue with the recruiter for this posting, who can provide you contact information for our ethics official if necessary.
+
+We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, marital status, disability, gender, gender identity or expression, or veteran status.

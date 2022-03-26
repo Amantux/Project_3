@@ -1,0 +1,153 @@
+Position Description:
+
+Expert in machine and statistical learning, probability, statistics
+
+and mathematical finance.
+
+Primary Objectives:
+
+Introduce a proper methodology and process for building statistical
+
+learning models under privacy-preserving constraints (typically
+
+addressing direct customer requirements) with emphasis to models
+
+for mathematical finance and other industry verticals (healthcare,
+
+manufacturing, adtech).
+
+Major Areas of Responsibility:
+
+Build and compare various statistical learning models, first in
+
+plaintext (via tools such as numpy, sklearn, datarobot, etc.)
+
+and evaluate which of these perform well and can be adapted
+
+to the XOR Engine privacy-preserving computational setting.
+
+Introduce a process-oriented methodology to building
+
+prediction models on data coming from multiple private data
+
+sources (data cleaning, feature engineering, model building)
+
+via hybrid approaches of local computations at each side and
+
+the use of XOR Engine.
+
+Clearly communicate prediction problems, requirements and
+
+limitations to data analysts on the customer end, including the
+
+cryptographic limitations. Take specific problems from
+
+customers.
+
+Educate a team of data analysts who would implement and
+
+test the necessary functionality and models (on the Inpher
+
+internal DSL as well as HYPPOCAMPUS)
+
+Outreach goals: contribute to educational tools for privacy-
+
+preserving data analytics (online mini-course, webinars) for the
+
+larger community explaining both the cryptographic and
+
+machine-learning approaches.
+
+Contribute with original research on privacy-preserving data
+
+analytics.
+
+Requirements
+
+Background:
+
+
+
+PhD in mathematics / computer science
+
+Previous experience in statistical learning and/or mathematical finance, preferably as a quantitative analyst in either a large bank or a hedge fund.
+
+Strong knowledge in cryptography, statistics and finance
+
+ 
+
+Position Description:
+
+Expert in machine and statistical learning, probability, statistics
+
+and mathematical finance.
+
+Primary Objectives:
+
+Introduce a proper methodology and process for building statistical
+
+learning models under privacy-preserving constraints (typically
+
+addressing direct customer requirements) with emphasis to models
+
+for mathematical finance and other industry verticals (healthcare,
+
+manufacturing, adtech).
+
+Major Areas of Responsibility:
+
+Build and compare various statistical learning models, first in
+
+plaintext (via tools such as numpy, sklearn, datarobot, etc.)
+
+and evaluate which of these perform well and can be adapted
+
+to the XOR Engine privacy-preserving computational setting.
+
+Introduce a process-oriented methodology to building
+
+prediction models on data coming from multiple private data
+
+sources (data cleaning, feature engineering, model building)
+
+via hybrid approaches of local computations at each side and
+
+the use of XOR Engine.
+
+Clearly communicate prediction problems, requirements and
+
+limitations to data analysts on the customer end, including the
+
+cryptographic limitations. Take specific problems from
+
+customers.
+
+Educate a team of data analysts who would implement and
+
+test the necessary functionality and models (on the Inpher
+
+internal DSL as well as HYPPOCAMPUS)
+
+Outreach goals: contribute to educational tools for privacy-
+
+preserving data analytics (online mini-course, webinars) for the
+
+larger community explaining both the cryptographic and
+
+machine-learning approaches.
+
+Contribute with original research on privacy-preserving data
+
+analytics.
+
+Requirements
+
+Background:
+
+
+
+PhD in mathematics / computer science
+
+Previous experience in statistical learning and/or mathematical finance, preferably as a quantitative analyst in either a large bank or a hedge fund.
+
+Strong knowledge in cryptography, statistics and finance

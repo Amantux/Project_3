@@ -1,0 +1,39 @@
+Responsibilities
+
+The Senior Health Analytics Data Scientist will work with a multidisciplinary team of faculty members, health services researchers, biomedical informaticians, data scientists, and others to lead the development of new predictive models software/systems from a variety of healthcare data, including but not limited to clinical, imaging, claims, and other biomedical and patient-related information. The individual will enable development of new tools and approaches to work with data from a large health system to identifying areas for exploration, operational improvement (including quality improvement initiatives), and subsequent enablement of research. They would guide the delivery of more efficient, individually-tailored care to the patients seen in the UCLA Health System. In addition, they will be collaborating with active researchers in biomedical informatics to apply and evaluate cutting-edge computational methods, and will oversee others regarding data pre-processing and analysis tasks (e.g., data integration, wrangling, and visualization) as well as architect and design new ML/AI methodologies, particularly around implementation of clinical decision-making tools. They will also lead and/or assist researchers with scientific publications and proposal development.
+
+Qualifications
+
+Master’s Degree in a quantitative field (e.g., mathematics, computer science, physics, economics, engineering, statistics, operations research, quantitative social science, bioengineering etc.) or PhD is preferred, with demonstrated research in healthcare.
+
+5 or more years of advanced data analysis experience and expertise in diverse statistical, data mining techniques and technologies, with demonstrated research in healthcare.
+
+Demonstrated knowledge and experience in the application of current and cutting-edge approaches in ML/AI, including reinforcement learning and sequential decision-making methods.
+
+Proficiency with programming for general languages (e.g., C/C++, Java) and data analysis, (e.g., Python, SQL, R).
+
+Demonstrated analytical and problem-solving abilities in the context of analyzing large, real-world datasets that may contain inconsistent, missing, and/or conflicting information. Ability to grasp data and see patterns or make inferences at a high level.
+
+Demonstrated skill to break down and understand complex problems, define a solution, and implement it using advanced quantitative methods. Strong problem solving skills and metadata skills.
+
+Skilled at oral and written communication with prior experience in giving presentations, writing technical reports, and documenting code. The ability to present technical concepts and results in a manner that is understandable to other technical and non-technical stakeholders is critical.
+
+Self-motivated, strong work ethic, and independent.
+
+Proficiency with cloud-based platforms such as Microsoft Azure or Amazon Web Services.
+
+Excellent team player with excellent communication and problem-solving skills and have experience working with customers across teams.
+
+Proficiency with scientific notebook/development environments, such as Jupyter and/or equivalents
+
+Past experience with development of predictive models involving clinical, biological, or health-related datasets
+
+Experience building, querying, and modifying relational databases such as My SQL or Postgres.
+
+Prior experience in working with clinician-scientists and biomedical informaticians.
+
+Strong staff development, leadership and coaching skills, desire to work with undergraduate and graduate students working on related projects, including daily oversight tasks.
+
+Experience with healthcare data and or EHR data
+
+Demonstrated record of working with various types of clinically-related information to construct and evaluate complex predictive models, drawing on contemporary methods in computer science, including machine learning (ML) and artificial intelligence (AI).

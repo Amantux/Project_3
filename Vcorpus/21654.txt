@@ -1,0 +1,35 @@
+Job Title: Senior Business Systems Analyst
+
+Location: San Francisco, CA
+Type: Long-Term Contract
+
+Overview
+
+The Senior Business Systems Analyst acts as a liaison between business systems users and technical teams and is involved in planning, conducting, and directing the analysis of complex business systems problems.
+
+The Senior Business Systems Analyst supports multiple business units in building and improving the data infrastructure around loan and deposits transaction data.
+
+The Senior Business Systems Analyst builds use cases and writes business requirements and technical specifications to ensure that business units receive the correct data sets for internal and external analytics reporting.
+
+Responsibilities
+Develop detailed data mapping documents encompassing business systems transformation and data quality rules that address data definition normalization across deposits and loan transaction databases.
+Document business and functional requirements for short-term and long-term management reporting, regulatory reporting, dashboards, and analytical needs of business units.
+Perform data analysis and design activities at the operational and organizational level to build a central repository (single source of truth) for transactional data.
+Develop reporting prototypes with the goal of industrialization in a controlled environment.
+Engage and direct business partners and subject matter experts to identify priorities, scope, and requirements for complex business systems problems.
+Engage with technical development team members to acquire requirements and determine appropriate design approach.
+Support the build out and expansion of existing deposit and loan data marts to address evolving business needs.
+Plan and execute QA and UAT testing utilizing test cases
+Act as the Business and Data Analyst who liaisons between business units and project teams.
+Document reference data and meta data for each release of transactions data store.
+Experience
+10+ years of business and data analysis experience in the implementation of data-related solutions.
+5+ years of financial services industry experience in the domain of deposits and loans is required.
+Excellent SQL skills to analyze, profile data, and build report prototypes before handing over to ETL team.
+Ability to communicate complex ideas as easy to understand concepts.
+Ability to present effectively to both business and technical audiences at all levels of organization.
+Must possess excellent written and oral communications skills
+Ability to clearly define projects, objectives, goals, schedules, and assignments.
+Ability to work on ad hoc requests like point analytics or reports to support existing data engineering team.
+Previous experience working with onsite and offshore vendor partners in the execution of data projects is preferred.
+Experience with UAT test cases and scripts to test the roll out of different phases of the data mart is preferred.

@@ -1,0 +1,38 @@
+AWS WWRO is hiring for a Sr. Data Engineer to play a key role in building their industry leading Analytics Platform. Are you passionate about Big Data and highly scalable data platforms? Do you enjoy building end to end Analytics solutions to help drive business decisions? And if you have experience in building and maintaining highly scalable data warehouses and data pipelines with high transaction volumes then we need you!
+
+The full stack Data Engineer will design, develop, implement, test, document, and operate large-scale, high-volume, high-performance data structures for analytics and deep learning. Implement data ingestion routines both real time and batch using best practices in data modeling, ETL/ELT processes leveraging AWS technologies and Big data tools. Provide on-line reporting and analysis using business intelligence tools and a logical abstraction layer against large, multi-dimensional datasets and multiple sources. Gather business and functional requirements and translate these requirements into robust, scalable, operable solutions that work well within the overall data architecture. Produce comprehensive, usable dataset documentation and metadata. Provides input and recommendations on technical issues to the project manager.
+
+
+
+
+
+
+Basic Qualifications
+
+· 7+ years of experience with detailed knowledge of data warehouse technical architectures, infrastructure components, ETL/ ELT and reporting/analytic tools.
+· 4+ years of experience data modeling concepts
+· 3+ years of Python and/or Java development experience
+· 3+ years experience in Big Data stack environments (EMR, Hadoop, MapReduce, Hive)
+· Experience with Kafka, Flume and AWS tool stack such as Redshift and Kinesis are preferred.
+· Experience building on AWS using S3, EC2, Redshift, DynamoDB, Lambda, QuickSight, etc.
+
+
+
+
+
+Preferred Qualifications
+
+·. Meets/exceeds Amazons leadership principles requirements for this role
+. Meets/exceeds Amazons functional/technical depth and complexity for this role
+Experience in gathering requirements and formulating business metrics for reporting.
+· Experience with Kafka, Flume and AWS tool stack such as Redshift and Kinesis are preferred.
+· Experience building on AWS using S3, EC2, Redshift, DynamoDB, Lambda, QuickSight, etc.
+· Experience using software version control tools (Git, Jenkins, Apache Subversion)
+· AWS certifications or other related professional technical certifications
+· Experience with cloud or on-premise middleware and other enterprise integration technologies
+· Experience in writing MapReduce and/or Spark jobs
+· Demonstrated strength in architecting data warehouse solutions and integrating technical components
+· Excellent communication skills, both written and verbal
+
+
+Amazon.com is an Equal Opportunity-Affirmative Action Employer Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation.

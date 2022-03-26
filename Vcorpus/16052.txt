@@ -1,0 +1,35 @@
+Job Description
+Job Title: Data Scientist
+
+Job Location: Irving, TX
+Yrs of Exp: 6 to 9 Yrs
+
+Description:
+Responsible for developing strategies for effective data analysis and reporting.
+Selects, configures, and implements analytical solutions.
+Develops and implements data analytics, data collection systems, and other strategies that optimize statistical efficiency and quality.
+Identifies, analyzes, and interprets trends or patterns in complex data sets.
+Manages computer systems in a business environment and responsible for resolving technical issues.
+Knowledgeable in programming, data structures, computer systems, and software engineering.
+Bachelor's or Master's degree in computer science, software engineering, or other related field. Ability to manage multiple assignments.
+Superior written and oral communication skills.
+6-10+ years of experience.
+Requirement:
+Strong in Data Science and as a Data scientist experience with building statistical models and intelligence around it - AIML ·
+Programming experience with at least 6 years of Oracle pl/sql, 3 years of Hadoop and 1 year of Java experience.
+Proven understanding and related experience with Hadoop, HBase, Hive, Pig, Sqoop, Flume, Hbase, Map/Reduce, Apache Spark as well as Unix OS Core Java programming, Scala, shell scripting experience.
+Hands on Experience in Oozie Job Scheduling, Zookeeper, Solr, ElasticSearch, Storm, LogStash or other similar technologies
+Must have experience with MQ technologies (Kafka, RabbitMQ).
+Solid experience in writing SQL, stored procedures, query performance tuning preferably on Oracle 12c.
+Experience working with CI/CD and DevOps
+Responsibilities:
+Identify new opportunities, use cases and build data models in RA and Enforce . Train Data models to proactively identify revenue leakages and Fradulant behaviours Participate in Agile development on a large Hadoop-based data platform as a member of a distributed team .
+Come out with different statistical models and build data insights on revenue leakages possiblities
+Code programs to load data from diverse data sources into Hive structures using SQOOP and other tools.
+Translate complex functional and technical requirements into detailed design.
+Analyze vast data stores.
+Code business logic using Scala on Apache Spark.
+Create workflows using Oozie.
+Code and test prototypes.
+Code to existing frameworks where applicable
+Education/Certifications: Bachelor's/Masters in Computer Engineering or Information Technology Hadoop and AIML Certification is added advantage

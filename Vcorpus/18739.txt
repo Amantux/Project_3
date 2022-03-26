@@ -1,0 +1,24 @@
+RESPONSIBILITIES:
+
+Kforce has a client that is seeking a Data Platform Engineer - Mid in San Diego, CA.
+
+Responsibilities:
+Develop Data Warehouse and Analytics solutions that deliver business value to our internal business units
+You will be part of a team building transformation processes (ETL) to reshape data so that it can easily be consumed in real-time as well as batch
+You will be expected to build a deep understanding of data, evolve data models, and help data consumers drive business value from the data
+You will play a senior role in design, development, automation, and quality related solutions, working closely with teams across the organization
+Mentors and inspires team of data, software, quality and operations engineers to effectively deliver data warehouse technology stack
+REQUIREMENTS:
+BS or Master's degree in Engineering, Computer Science or equivalent experience
+5+ years of experience in software development using Python, Scala, or Java programming, design, and analysis
+Extensive experience with SQL, PLSQL; Ability to write complex, highly performing SQL queries and optimize performance of existing queries
+Extensive hands-on experience in cloud-based services at enterprise scale such as AWS
+Experience with cloud based data warehousing solutions such as Snowflake or Redshift
+Experience and hands on with distributed data storage and large-data processing such as Apache Spark, AWS EMR
+Experience in delivering data using streaming technologies Kafka, Flume and Kinesis
+Experience with agile development methodologies and CICD
+Ability to work and thrive in a fast-paced environment, learn rapidly and master diverse technologies and techniques quickly
+Possess the drive and passion for quality with the ability to inspire, excite and motivate other team members
+This position requires extensive hands-on technical domain expertise in data infrastructure within the AWS ecosystem, along with excellent communication skills
+Strong verbal and written communication skills
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.

@@ -1,0 +1,38 @@
+Why We Work at Dun & Bradstreet
+
+
+We are at a transformational moment in our company journey - and we’re so excited about it. Each day, we are finding new ways to strengthen our award-winning culture, and to accelerate creativity, innovation and growth. Our purpose is to help customers improve business performance with Dun & Bradstreet’s Data Cloud and Live Business Identity, and we’re wildly passionate and committed to this purpose. So, if you’re looking to make an immediate impact at a company that welcomes bold and diverse thinking, come join us!
+
+
+
+Team Overview:
+
+The Dun & Bradstreet San Mateo office has built an industry leading, highly scalable, Software-as-a-Service (SaaS) based Customer Data Platform, called D&B Lattice. You will be a joining a growing team focused on enhancing the capabilities of this platform and expanding its use across the wider Dun & Bradstreet Sales & Marketing product portfolio. The D&B Lattice platform performs “Big Data” processing, reporting, querying, and predictive analytics by leveraging a state-of-the-art technology stack of microservices and data pipelines built with Hadoop and Spark on Amazon AWS Cloud services. You’ll join a team of experienced professionals with backgrounds from top schools (such as MIT, Stanford, Harvard, Tsinghua, UC Berkeley, Cornell, etc.) and top software/tech companies & successful startups (such as Apple, Google, Oracle, Salesforce, ServiceNow, VMware, Zoom, etc.), who have a proven track record of delivering robust solutions that exceed our customers’ needs. We are looking for fellow software engineers who are passionate about the latest technologies, personal growth and development, and shipping high impact products. This position will be a great opportunity to enhance your skill set and experience, while working together with and learning from industry experts.
+
+The Role:
+
+You will work with our top engineers across our UI, application, platform, and data science teams to build a cutting-edge Customer Data Platform that will challenge you and your teammates technically and intellectually. The team operates in an Agile/Scrum environment and works closely with a cross-functional team of UX designers, product managers, project managers, and QA to invent the best solutions in the “Big Data” Sales and Marketing space. The team is very collaborative, open to diverse opinions, and looking for new team members ready to propose new viewpoints and bold solutions. Our culture is built on mentorship, so you should be prepared to learn from others and also teach others from your experience. The exposure to state-of-the-art technologies, best-in-class software development practices, and top engineering talent has made the D&B Lattice team a great training ground for junior engineers looking to jump-start their career.
+
+Required Qualifications:
+Bachelor’s Degree in Computer Science, Computer Engineering, or a related field
+2+ years of industry experience developing production software
+2+ years of experience with Java, C++, or a related computer programming language
+Strong understanding of computer science fundamentals: algorithms, data structures, object-oriented programming & design
+Self-driven, ability to work in a fast-paced, dynamic environment
+Excellent written and verbal communication skills
+Must be able to articulate, document, and present software designs and technical decisions to team members and project leads
+Desired Prior Experience:
+Big data, data processing pipelines, or ETL (extract, transform, load) systems
+MapReduce, Hadoop, Spark, Cascading, Flume, Flink, Yarn, Docker, or similar technologies
+Database design, SQL, NoSQL Databases, and JDBC
+Amazon AWS (or other) cloud technologies: EMR, Redshift, RDS, DynamoDB, S3, ECS
+HTTP, REST & CRUD APIs, microservices, JSON, Java Spring Framework, and SaaS applications
+Software test design and development; unit, functional, & deployment testing; CI/CD environments; Jenkins; JUnit, TestNG, or other test frameworks
+Exposure to Agile/Sprint/Scrum software development practices
+#LI-AM2
+
+Dun & Bradstreet is an Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, age, national origin, citizenship status, disability status, sexual orientation, gender identity or expression, pregnancy, genetic information, protected military and veteran status, ancestry, marital status, medical condition (cancer and genetic characteristics) or any other characteristic protected by law.
+
+We are committed to Equal Employment Opportunity and providing reasonable accommodations to applicants with physical and/or mental disabilities. If you are interested in applying for employment with Dun & Bradstreet and need special assistance or an accommodation to use our website or to apply for a position, please send an e-mail with your request to TalentAcquisitionTeam@dnb.com. Determination on requests for reasonable accommodation are made on a case-by-case basis.
+
+Please note that all Dun & Bradstreet job postings can be found at https://dnb.wd1.myworkdayjobs.com/Careers and all communication from Dun & Bradstreet will come from an email address ending in @dnb.com.

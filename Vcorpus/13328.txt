@@ -1,0 +1,45 @@
+About PLAYSTUDIOS
+
+PLAYSTUDIOS is a developer of engaging casual games for the world’s largest social and mobile platforms. Founded by a team of experienced gaming and technology entrepreneurs, PLAYSTUDIO’s free-to-play apps combines the best elements of popular social casino games with established gambling mechanics. Players enjoy an ever-growing collection of slot and table games and the opportunity to earn an unprecedented selection of valuable, real-world rewards. In creating the various social casino apps, PLAYSTUDIOS has partnered with MGM Resorts International and its portfolio of the most recognized resorts in the industry, including Bellagio, ARIA, Vdara, MGM Grand, Mandalay Bay, The Mirage, Monte Carlo, New York-New York, Luxor, Excalibur and Circus Circus.
+
+Data Engineer @ Playstudios is responsible for enhancing and maintaining petabyte scale data warehouse and tools around it, by partnering with various cross functional teams like Product Management, Finance, Business analysts and fellow engineering teams. The Data Engineer also designs and implements front-end platform, while working with the back-end storage systems for reporting and analysis. They will focus and maintain the data ingestion pipeline to keep the metrics flowing into the Playstudios data platform.
+
+Responsibilities
+Design, build and launch new data models and ETL pipelines that will make PLAYSTUDIOS more data driven
+Work with engineering, data science and product management teams to build and manage a wide variety of data sets
+Build rich and dynamic dashboards using out-of-box features, customizations and visualizations using d3, Angular.js and Node.js equivalent, to support our unique requirements for visualization, security, data access, etc.
+Simplify and democratize access to useable data throughout the company
+Ability to work on multiple areas like Data pipeline ETL, Data modeling & design, writing complex SQL queries etc.
+Design and publish custom dashboards for Product Teams and stakeholders around the company
+Create ad-hoc queries and reports for Product, User Acquisition, BI & Sr. Management
+Automate and document processes
+Requirements
+BS degree in Computer Science or Engineering discipline, with at least 3-4 years work experience
+Problem solver with excellent communication skills with ability to make sound complex decisions in a fast-paced, technical environment
+Experience with AWS tools & technologies (S3, EMR,ElasticSearch, Kinesis, Lambda, API Gateway, Dynamodb etc)
+Expert knowledge in database technologies, which means excellent in SQL and a good understanding of trade-offs in building data models
+Strong programming experience in at least one of the language like Python, Java, Clojure etc.
+Practical experience with web technologies and frameworks, such as HTML/CSS/JavaScript/Django and data visualization libraries (Node.js, Angular, jQuery, D3, etc.)
+Strong experience in working with large data sets
+Experience building ETL with open source tools such as Talend, Pentaho
+Very good experience in UNIX/Linux
+Capable of planning and executing on both short-term and long-term goals individually and with the team
+Passionate on various technologies including but not limited to SQL/No SQL/MPP databases etc.
+Experience with streaming data pipelines using any of Kafka, AWS Kinesis, Spark streaming etc.
+Preferred
+Knowledge of Statistics and/or Machine Learning Familiarity with columnar data stores
+Benefits and Perks
+100% Health Benefits coverage for you and your dependents!
+Open, creative office space with inviting outdoor patios
+Three fully-stocked kitchens and large communal dining areas
+Catered lunches throughout the week
+Employee-driven entertainment, happy hours, and team-building events throughout the year
+Ping pong table and game room
+Commuter Benefits program
+Flexible vacation policy
+Location, location, location! Right across from CalTrain and vibrant Downtown Burlingame
+Free employee parking
+A great place to work! Come by to find out for yourself!
+This is an exciting opportunity to join a world-class team and bring our exciting games to even more fans worldwide.
+
+PLAYSTUDIOS is an equal opportunity employer. Applicants will be considered regardless of their sex (includes pregnancy, childbirth, breastfeeding and related medical conditions), race, age, religion, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sexual orientation, gender, gender identity, gender expression, military or veteran status, or other protected category under the law.

@@ -1,0 +1,155 @@
+Please make sure to read the job posting in its entirety as it reflects both the University roles and responsibilities, followed by the specific description.
+
+Department
+
+3035504 Bus-Marketing-Interactive
+
+About the Unit
+
+The University of Chicago Booth School of Business is the second-oldest school in the U.S. and second to none when it comes to influencing business education and business practices. Since 1898, the school has produced ideas and leaders that shape the world of business. Their rigorous, discipline-based approach to business education transforms students into confident, effective, respected business leaders prepared to face the toughest challenges. Chicago Booth has the finest set of facilities of any business school in the world. Each of the four campuses (two in Chicago, one in London, and one in Hong Kong) reflects the architectural traditions of its environs while offering a state-of-the-art learning environment. Chicago Booth is proud to claim: -an unmatched faculty. -degree and open enrollment programs offered on three continents. -a global body of nearly 50,000 accomplished alumni. - strong and growing corporate relationships that provide a wealth of lifelong career opportunities. As part of the world-renowned University of Chicago, Chicago Booth shares the University's core values that shape the distinctive intellectual culture. At Booth, they constantly question and test ideas, and seek proof. This extraordinarily effective approach to business leads to new ideas and innovative solutions. Seven of the Booth faculty members have won Nobel Prizes for these ideas - the first business school to achieve this accomplishment. For more information about the University of Chicago Booth School of Business, please visit: http://www.chicagobooth.edu/
+
+Job Family
+
+Information Technology
+
+Responsible for the design, implementation, and maintenance of new and existing applications, systems architecture, and network infrastructure. Ensures operation and security of all servers and networks. Configures, installs, maintains and upgrades applications and hardware for the organization's infrastructure and for end-user devices.
+
+Career Track and Job Level
+
+IT Project Management
+
+Manages all aspects of a diverse IT project or multiple IT projects, typically involving multiple groups in the IT family. Creates budgets and manages resources and schedules. Utilizes expertise and leadership skills to direct staff and to resolve issues to ensure project goals and requirements are met.
+
+P4: Requires specialized depth and/or breadth of expertise. Interprets internal or external University issues and recommends best practices. Solves complex problems; takes a broad perspective to identify innovative solutions. Works independently, with guidance in only the most complex situations. May lead cross-functional or divisional teams or projects.
+
+Role Impact
+
+Individual Contributor
+
+Responsibilities
+
+The job leads diverse IT projects typically involving multiple groups in the IT Function. Uses deep knowledge of IT processes, leadership skills, and breadth of experience to manage budgets, resources, and schedules. Coordinates work of IT staff and to resolves complex issues to ensure project goals and requirements are met.
+
+1) Serves as project lead to coordinate complex information technology changes and ensures the success of enterprise-level application rollouts. Works with University units and the client community to develop detailed business requirements., 2) Uses specialized depth and breadth of expertise in a specific career track to build project plans, including budgets and human resource plans. Provides expertise on managing projects. Maintains project web presence, project archives and project documentation., 3) Leads team to develop and ensure quality control of the project methodology and contributes to the further enhancement and application of the methodology., 4) Solves complex problems relating to the consulting services of vendors, including the development of a project statement of work and determines vendor resource requirements. Researches new software, products, or systems and may attend vendor demonstrations, in order to keep University IT processes up-to-date., 5) Performs other related work as needed.
+
+Unit-specific Responsibilities
+
+1) The Data Scientist will assist Chicago Booth with the use of technology in research, including but not limited to large data manipulation and management, complex statistical analysis and modeling, data mining and other research methodologies. Work with Institutional research and strategic insights team, the Deans’ office, and Booth’s leadership group to apply advanced analytical techniques to extract, manipulate, and analyze large volumes of data pertaining to different aspects of the school’s life.
+
+2) Translates advanced business analytics problems into technical approaches that yield actionable recommendations in diverse areas across Booth.
+
+3) Consults Institutional Research and Strategic Insights team on technology requests to support research and teaching across Booth.
+
+4) Works in multi-disciplinary and cross-functional spaces to translate business requirements into artificial intelligence goals and modeling approaches; rapidly iterate models and results to refine and validate approach.
+
+5) Works in a dynamic environment with virtual and face-to-face interactions. Utilize structured approaches to solving problems, managing risks, and documenting assumptions while communicating results and educating others through insightful visualizations, reports, and presentations.
+
+6) Assists with large data manipulation, complex statistical applications, programming, analysis and modeling; Analyzes and models structured and unstructured data and implement algorithms to support analysis using advanced statistical and mathematical methods from statistics, machine learning, data mining, econometrics, and operations research.
+
+7) Consults with the Institutional Research and Strategic Insights team and analysts across Booth on grid/cluster computing, including optimizing and parallelizing code and leveraging GPU resources when applicable.
+
+8) Consults with the Deans’ Office, Booth’s leadership group and other analysts across Booth on research requests. Researches data options from multiple sources to support research across Booth.
+
+9) Partners with other Booth teams, such as Booth IT and University of Chicago campus teams, including the Research Computing Center, Computation Institute and Globus to assist the school with technology research challenges.
+
+Unit-preferred Competencies
+
+1) Expert level knowledge and at least three years of experience with of statistical programming, data querying and manipulation data within statistical software packages such as SAS, Matlab, Stata, R or other comparable tool.
+
+2) Ability to manage multiple projects simultaneously in a fast-paced environment with strong attention to detail and accuracy.
+
+3) Proven ability to work independently as well as on a team.
+
+4) Excellent problem-solving skills, verbal/written communication, and ability to explain technical concepts to business audience.
+
+5) Ability to apply artificial intelligence techniques to achieve concrete business goals while working with the stakeholders to understand available resources and constraints around data (sources, integrity, and definitions), processing platforms, and security. Superior quantitative abilities, logical reasoning and analytical skills required along with a high level of attention to detail.
+
+6) Skill working and communicating with the Deans, faculty and senior leadership and Information Technology staff.
+
+7) Familiarity with how to optimize code to run in parallel environments, including those that leverage GPUs.
+
+8) Expert level knowledge of the extraction, transformation, loading and manipulation of large data and databases (e.g. multi-terabyte files).
+
+9) Knowledge of or familiarity with scripting languages such as Perl, Python and PowerShell or other comparable programming skills.
+
+10) Familiarity with SQL and/or other methods of accessing data in relational databases, such as Oracle, and Microsoft SQL Server.
+
+11) Familiarity with emerging Cloud Capabilities on Azure, GCP and/or AWS; Experience with command-line scripting, data structures, and algorithms.
+
+12) Ability to use Microsoft Excel, SQL and Tableau programming skills for data mining and to supplement and enhance data analyses.
+
+13) Demonstrated working knowledge of Hadoop technologies including HDFS, JobTracker, MapReduce, Hive, Pig, Yarn and Mahout.
+
+Education, Experience, and Certifications
+
+Minimum requirements include a college or university degree in related field.
+
+Minimum requirements include knowledge and skills developed through 7+ years of work experience in a related job discipline.
+
+Project Management Professional (PMP) Certification - Project Management Institute
+
+Preferred Qualifications
+
+Education
+
+1) Master's degree in computer science, engineering or related fields.
+
+2) Ph.D.
+
+Experience
+
+1) At least three years of professional work or comparable academic experience.
+
+2) Experience working as a research assistant or data analyst in higher education industry.
+
+3) Experience transforming and connecting isolated data files and databases into shared data assets that can easily be accessed and used by many researchers.
+
+4) Experience with grid/cluster computing.
+
+Required Documents
+
+1) Resume
+
+2) Cover letter
+
+NOTE: When applying, all required documents MUST be uploaded under the Resume/CV section of the application.
+
+FLSA Status
+
+Exempt
+
+Pay Frequency
+
+Monthly
+
+Pay Grade
+
+Depends on Qualifications
+
+Scheduled Weekly Hours
+
+37.5
+
+Benefits Eligible
+
+Yes
+
+Drug Test Required
+
+No
+
+Health Screen Required
+
+No
+
+Motor Vehicle Record Inquiry Required
+
+No
+
+Posting Date
+
+2019-07-12-07:00
+
+Remove from Posting On or Before
+
+2020-01-12-08:00

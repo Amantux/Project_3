@@ -1,0 +1,52 @@
+Posting Title
+Sr. QA Engineer
+
+24-Jun-2020
+
+Location/Division
+US-Plano, TX
+
+Job Description
+SUMMARY
+
+The Senior QA Engineer role is to develop and establish quality assurance standards and measures for the information technology services within the organization. This individual will also gather and analyze data in support of business cases, proposed projects, and system requirements. This will include writing test plans and scripts for tracking defects and fixes in product development, software application development, information systems, and operations systems. The individual will work closely with the Automation team to define strategy and process, bringing automation in line with existing functional aspect of the test effort. In addition, the position will be responsible for creation, execution, maintenance of automated scripts and creating metrics and increasing test coverage using the automated systems. Overall, the resource will apply proven analytical and problem-solving skills to help validate IT processes through careful testing in order to maximize the benefit of business investments in IT initiatives.
+
+ESSENTIAL FUNCTIONS AND RESPONSIBILITIES
+Core duties and responsibilities include the following. Other duties may be assigned.
+Participate in the full development life cycle, working within broadly defined parameters, including estimation, test plan execution and software quality needs.
+Writing and executing test plans, designing and developing test tools, debugging and reporting code bugs and pushing quality upstream.
+Analyzes design, develop and maintain automated scripts and manual regression test plans for a variety of interfaces. Develop automation frameworks consisting of functional libraries while adhering to coding standards.
+Assists in planning, scheduling and implementing automation projects. Monitors automation projects and ensures that projects are completed on schedule and within budget.
+Performs evaluation of existing and future products and systems and determines candidates for automation.
+Analyzes scripts and performs code reviews of automated scripts. Reports results of automated scripts in test management tools. Provides updates on automation progress and custom reporting as requested.
+Develops automation strategies that will enhance test execution, manual test coverage and the consistency of regression testing.
+Provides training and technical assistance to members of the automation team. May assist with training on software enhancements. May cross-train and mentor less experienced QA team members.
+Evaluate current procedures and practices for accomplishing the assigned work functions objectives to develop and implement improved procedures and practices and to ensure compliance with required standards.
+Collaborate with Business Project Managers, Technical Delivery Managers, Applications Development and Infrastructure managers to document, investigate and resolve quality issues.
+Provide test progress report with metrics to project stakeholders.
+Recommend staffing requirements and updates to the resource forecast.
+Keeps abreast of software industry “Best Practices” and trends and communicates new information to QA team.
+Perform other duties as assigned or self-initiated.
+JOB REQUIREMENTS
+6-8 years of Quality Assurance industry experience with significant experience leading multiple software development testing efforts.
+Bachelor’s Degree in Information Technology or related field, or equivalent combination of education and experience, preferred.
+Comprehensive knowledge of testing methodologies and application debugging from a technical and business perspective.
+Agile Testing Experience in an agile development environment (e.g. SCRUM/XP/Kanban) with experience writing acceptance criteria for user stories.
+Proficiency with C#, Selenium Web driver. Comprehensive knowledge about automation testing tools, custom framework, ability to review C#, Groovy and SQL scripts.
+Proficiency to define highly complex automated test cases and scenarios.
+Knowledge of Continuous Integration/ Continuous Deployment using Jenkins.
+Knowledge in Maven, TestNG, Gradle and GIT.
+Proficiency with web/rest services automation testing tools to include (but not limited to) JMeter, SOAP UI, Rest Assured etc.
+Strong analytical and troubleshooting skills, including requirements analysis and basic application architecture knowledge.
+Experience with defect tracking/management software and the ability to formulate metrics.
+Comprehensive knowledge with Jira, XRAY, Confluence, SharePoint
+Working knowledge of Database, ability to write basic SQL queries a plus.
+Knowledge with performance and load testing tools to include (but not limited to) JMeter, LoadRunner is a nice to have.
+Excellent verbal and written communication skills.
+Ability to work in a fast-paced dynamic team-oriented environment.
+Ability to communicate ideas in both technical and user-friendly language.
+Ability to meet aggressive deadlines and handle multiple and complex projects.
+Ability to prioritize and execute tasks in a high-pressure environment.
+Strong knowledge and proficiency with Microsoft Office suite of applications (Word, Excel, PowerPoint.)
+Auto req ID
+3228BR

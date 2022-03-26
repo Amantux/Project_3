@@ -1,0 +1,75 @@
+***********
+
+About Envoy
+
+***********
+
+Envoy makes workplaces work better. With a focus on the details, we craft beautiful, modern software that elevates the workplace experience. Companies like Google, Tesla, GitHub, Slack, Stripe and Pinterest, have worked with Envoy to welcome over 30 million visitors to more than 10,000 locations around the world. We are proudly backed by Andreessen Horowitz, Menlo Ventures, Initialized Capital, and many others.
+
+Our mission is to challenge the status quo of workplace technology. This idea started at the front desk, where we set a new standard for visitor sign-in. Now, we're looking around the office—to the mailroom, meeting rooms and beyond—and asking how can we make this better, too? We envision a world where technology is woven through our workplaces, all of it working together to make our time there delightful.
+
+If this world sounds exciting, we'd love for you to help us build the Office OS.
+
+**************
+
+About the role
+
+**************
+
+We are a top-notch engineering organization with a great culture and have the same high standards with our code, systems, practices, and people. We value learning and growth and hire, diverse, well-rounded, communicative people.
+
+We are looking for someone to help extract value from our vast collection of data. Our data platform is one of the most important resources that our company has invested in, and we are looking for someone to leverage it to drive the business and product forward. Our main technology stack currently includes Stitch, Singer, Redshift, Spark, AWS Glue, dbt, Airflow, Looker, and Jupyter Notebooks. If you're looking to challenge the status quo and build the Office OS, come join us.
+
+--------
+
+You will
+
+--------
+
+Drive strategic quantitative research projects from inception to completion
+
+Partner with product and business teams across the organization to solve complex problems using our data, and assemble a big picture of growth opportunities
+
+Design experiments and make recommendations based on their outcomes
+
+Exploratory research on user data to help determine the future of the product roadmap
+
+Work with the rest of the data team to keep our data platform fast, reliable, and efficient
+
+Provide research and recommendations for key product decisions
+
+--------------------
+
+You have
+
+--------------------
+
+5+ years of data science / analytics experience
+
+2+ years working on an analytics team at a high-growth startup
+
+BS / MS in Computer Science or a related technical field
+
+Mastery of SQL
+
+Mastery of basic statistical concepts
+
+Experience building and training predictive and classification algorithms
+
+------------
+
+Bonus points
+
+------------
+
+Experience with dbt, ideally worked on a large dbt project (or have experience with a similar transformation framework)
+
+Experience with Python and key data processing and visualization libraries (pandas, scikit-learn, seaborn, etc.)
+
+Experience working with data processing technologies (Spark, Airflow, Kinesis, Glue, etc.)
+
+Experience building custom data visualizations (D3, React, etc.)
+
+Backend software engineering experience (e.g. able to set up an API endpoint to serve predictions)
+
+If this kind of work sounds interesting, we'd love to hear from you! We're open to all backgrounds and levels of experience, and we believe that great people can always find a place. People do their best work when they can be themselves, so we value uniqueness. We never discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status or disability status.

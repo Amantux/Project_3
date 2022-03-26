@@ -1,0 +1,64 @@
+Responsibilities  
+The Federal Civilian Solutions Mission Area provides guidance and support to its clients in the areas of program and acquisition life cycle management, information technology systems modernization management, applied telecommunications and networking, applied contact centers, and serves as a uniquely neutral technology clearinghouse and information sharing institution. 
+This team is building a behavioral analytics team to support a wide variety of client needs focused on detecting fraudulent electronic transactions/usage and performing general data analytics for cybersecurity. Team members will work collaboratively with the Noblis data analytics architects and data scientists to design and implement an offline and near real time analytics capability, visualization and a near real-time dash boarding and visualization capabilities to support Federal Agencies in strengthening their security posture. 
+The Data Scientist will participate in various aspects of the implementation and operations of the analytics capability, including developing applications for analyzing large scale data sets, and designing and developing analytical approaches, including machine learning and modeling. 
+Responsibilities include: 
+ Support the design and implementation of data integration across data analytics infrastructures. 
+ Identification of analytics approaches, and development of supporting analytical data sets. 
+ Conduct data exploration and identify approaches for model development, feature definition, and application of machine learning. 
+ Conduct independent analysis to identify new insights into user behavior and anomalies. 
+ Development of dashboards and reports to assess data performance and quality control. 
+ Assist with the development of project status briefings and dashboards for Agency executives 
+ Interact with client project team members and operational staff 
+ Qualifications  
+ Required:  
+ Bachelors degree and 7 years of experience or a Masters and 5+ years of experience 
+ Degree in a computer science, applied mathematics or similar technical disciplines required. 
+ Experience in the design, development, integration, testing, and implementation of a large-scale data sets 
+ Solid knowledge of data analytics tools and methods; knowledge and experience with Splunk, R, or a demonstrated ability to quickly learn new tools and languages 
+ Strong ability to navigate and process large log files in a Linux command line environment, including use of vi editor for application development. 
+ Working knowledge of data processing tools/languages including Splunk SPL, Perl, SQL, Bash, etc. 
+ Experience in developing statistical models, and knowledge of machine learning approaches and algorithms 
+ Experience in the design and development, integration, testing, and implementation of a large scale analytics infrastructures 
+ Strong analytic and creative problem solving abilities are required 
+ Highly focused, detail-oriented temperament are required 
+ Ability to work on multiple aspects of a large scale project which includes prioritizing, tracking, attention to detail, follow-up and follow-through to project completion 
+ Strong teamwork, communication and interpersonal skills, excellent communication, written, and organizational skills 
+ Applicants selected will be subject to a government security investigation and must meet eligibility requirements for access to classified information. 
+ Desired:  
+ Project management skills preferred 
+ Experience with Hadoop 
+ Experience with Splunk dashboard development and usage 
+ Progressive experience in data analytics 
+ Overview  
+and our wholly owned subsidiary,, are solving difficult problems that help our government and our country. We bring the best of scientific thought, management, and engineering expertise with a reputation for independence and objectivity. We support a wide range of government and industry clients in the areas of national security, intelligence, transportation, healthcare, environmental sustainability, and enterprise engineering.Learn more at 
+  Why work at a Noblis company?   
+Our employees find greater meaning in their work and balance the other things in life that matter to them. Our people are our greatest asset. They are exceptionally skilled, knowledgeable, team-oriented, and mission-driven individuals who want to do work that matters and benefits the public. 
+Noblis has won numerous. Noblis maintains a drug-free workplace and is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race. 
+ Client Engagement  
+ Support and lead evolving business development efforts by applying technical and functional expertise to develop business solutions. 
+ Lead proposal sections for small or limited competition proposals and actively participate in teaming strategy discussions 
+ Requisition #    6894  
+ Security Clearance    Suitability  
+ FT/PT/On-Call    Full Time  
+ Job Category    Analytical Support  
+ Location    US-VA-Reston  
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Reston, VA 22090 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         2365_5e8298fd8595b2fd2a12f37028c450cb

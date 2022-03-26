@@ -1,0 +1,49 @@
+Amick Brown is seeking an experienced Data Engineer for our direct client.
+
+Location: Sunnyvale, CA
+Duration: 6 Months +
+
+Roles and Responsibilities
+Design and build data models to conform to our existing EDW architecture.
+Design and build data pipelines using tools - SAP SLT, SAP Data Services, Python and Microsoft SSIS.
+Design and development of data warehouse using T-SQL, SQL, and python
+Work with teams to deliver effective, high-value reporting solutions by leveraging an established delivery methodology.
+Implement data structures using best practices in data modelling, processes, and technologies.
+Design and development of data warehouse using Microsoft SQL Server, SAP HANA and Snowflake databases.
+Writing analytics programs (transformations/calculations) in T-SQL, R, Python or comparable
+Knowledge and understanding of Enterprise applications like SAP ECC and SAP CRM, Salesforce etc.
+Knowledge and functional understanding of Finance, Global Supply Chain business processes
+Perform data mining and analysis to uncover trends and correlations to develop insights that can materially improve our decisions.
+Development with one or more data visualization/reporting tools (Tableau, Business Objects, Hana Analytics, Microsoft PowerBI)
+Work with various product owners to ensure applications are instrumented with proper tracking mechanisms to enable analytics.
+Continually recommend, develop, and implement process improvements and tools to collect and analyse data, and visualize/present insights.
+Skill/Job Requirements:
+Bachelors degree in Business, MIS or related area. Masters degree a plus.
+8+ years Business Intelligence / Data Warehouse development experience
+3+ years of experience in ETL development tools, preferably with knowledge of Microsoft Integration Services 2005 or greater (SSIS), SAP Data Services, SAP SLT and Python.
+5+ years of experience in design and development using Microsoft SQL Server, SAP HANA and Snowflake databases.
+Strong experience in full life cycle development, implementation, management and performance tuning of the Enterprise Data Warehouse
+Experience in database development (T-SQL, PLSQL, and/or SQL scripts)
+Experience in building data pipelines using python, C# and JSON
+Experience in Microsoft BI development in Integration Services (SSIS), Analysis Services (SSAS) or Reporting Services (SSRS)
+Experience building and managing data flows to and from cloud applications
+Demonstrated experience in utilizing R, Python, SPSS or comparable to develop analyses
+Experience visualizing data in business intelligence tools such as Tableau, Business Objects or Hana Analytics
+Experience and functional understanding with Enterprise applications like SAP ECC and SAP CRM, Salesforce etc.
+Strong experience with performance and scalability design and testing
+Experience creating test plans, testing and resolving data discrepancies
+Must be a self-motivated, energetic, detail-oriented team player passionate about producing high quality BI & Analytics deliverables
+Strong sense of customer service for internal customers
+Medical robotics has unique characteristics that will require immersion in clinical and technical training and he or she must come up to speed quickly an interest and desire to learn are critical
+Amick Brown, LLC is an Information Technology consulting company providing IT staffing and managed solutions. Founded in 2010, we are a certified woman-owned small business headquartered in San Ramon, CA with an additional office in Sacramento, CA. Amick Browns experienced IT professionals support customers nationwide in both the commercial and public sectors. We are SBA 8(a) and IS0 9001:2015 certified and are an SAP Services Silver Partner.
+
+Regular full-time employees are eligible for the following Amick Brown provided benefits:
+Health
+Vision
+Dental
+401k with company match
+Paid time off
+Sick Leave
+Short-Term Disability
+Life Insurance
+Wellness & Discount Programs

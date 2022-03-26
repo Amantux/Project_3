@@ -1,0 +1,14 @@
+We are looking for Data Scientists to join a top-notch product team in an innovative environment in the Boca Raton area. This is an exciting opportunity to work with the latest technologies for the healthcare industry. The primary responsibility of this role is to enhance current functionality and build new features to expand the depth and breadth of the core AI/ML components of RAPIDS.
+
+Implement and validate machine learning models for our product offerings
+Stay up to date on cutting-edge research in the field
+Be exposed to and incorporate a variety of statistical and machine learning techniques such as neural networks
+Understand business needs and provide analytical solutions communicating with internal and external clients
+Deploy machine learning models and data processing pipelines in the cloud using AWS
+
+Proficiency with statistical programming in Python (Numpy, Scipy, Pandas, Scikit-Learn)
+Working knowledge of Python deep-learning frameworks such as TensorFlow/Keras
+Knowledge of NLP, especially deep-learning based approaches (LSTM, CNN, seq2seq) and vector representations of words (word2vec/GloVe)
+Experience with Git and DevOps
+Excellent communication skills
+Bachelor's degree in Computer Science, Engineering, Statistics, Mathematics or related fields

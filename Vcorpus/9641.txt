@@ -1,0 +1,111 @@
+Job Type:
+
+ROBERTS - Roberts Ctr Pediatric Research Req ID: 27316
+
+Shift: Days
+
+Employment Status: AF - Active - Regular - Full Time
+
+Job Summary
+
+The Children’s Hospital of Philadelphia (CHOP) Research Institute is recruiting a new team to build a data and informatics program called “Arcus” that will link clinical and biological data and provide world-class computational tools to solve the most challenging problems in child health. The Arcus team integrates with major scientific initiatives in the Research Institute Strategic Plan: Lifespan, Rare Diseases, Novel Devices and Therapeutics, and Precision Health. We seek mission driven individuals with an interest in machine learning, statistics, software development, cloud computing and data privacy.
+
+The Applied Data Scientist II will work with the Arcus Applied Data Science team to enable more productive research by providing insights into CHOP’s clinical data. Tasks may include:
+
+Applying natural language processing methods to clinical text to extract structured information
+
+Using the latest deep learning techniques to classify imaging studies
+
+Applying statistical models (with a focus on Bayesian methods) to assist researchers in analyzing missing, erroneous or incomplete patient data
+
+Writing tools and visualizations to surface data insights from the above methods to researchers working within the Arcus platform
+
+The successful Applied Data Scientist II candidate will have a combination of expertise in software development (version control, design, testing), statistics, SQL and machine learning (especially as applied to natural language processing and entity extraction). Experience architecting large scale data pipelines in platforms like Spark, Beam or Pachyderm is a plus. Experience with any of the following will be helpful:
+
+Probabilistic programming languages (Stan, Bugs, Pyro, Infer.net)
+
+Open source machine learning platforms (TensorFlow, PyTorch)
+
+Graph-oriented databases
+
+Working with sensitive data in a secure environment
+
+Natural language processing in the biological and medical domains
+
+Medical ontologies (SNOMED, UMLS)
+
+Architecting pipelines in cloud platforms (GCP, AWS)
+
+Working with open datasets such as those available form opendataphilly.org
+
+The tasks carried out by the Applied Data Scientist II benefit internal customers (health care researchers) in a rapidly-changing, fast-paced health care research setting. This will require the ability to learn and adapt quickly and collaborate with subject matter experts. The role will involve both building prototype solutions as well as writing supportable and maintainable software depending on project stage.
+
+Job Responsibilities
+
+Implement statistical and machine learning models, large-scale, cloud-based data processing pipelines and off the shelf solutions for test and evaluation; interpret data to assess algorithm performance.
+
+Develop novel ways to apply published machine learning models to imperfect clinical data including development of training datasets.
+
+Develop high-quality, secure code implementing models and algorithms as application programming interfaces or other service-oriented software implementations.
+
+Develop tools to help health care researchers derive insights models.
+
+Manage and scale applications using container technology and cloud hosted managed services.
+
+Communicate with clinical and biomedical researchers to discover use cases and discuss solutions.
+
+Mentor junior staff, student workers, co-ops, and research trainees.
+
+Disseminate novel software through academic and non-academic channels as open source.
+
+Required Education and Experience
+
+Required Education: Bachelors in Analytics, Data Science, Statistics, Mathematics, Computer Science or a related field.
+
+Required Experience: At least three (3) years of experience with progressively more complex data science, applied statistics, machine learning, or mathematical modeling projects.
+
+Preferred Education, Experience & Cert/Lic
+
+Preferred Education: Masters in Analytics, Data Science, Statistics, Mathematics, Computer Science or a related field. Non-degree graduate coursework such as a graduate certificate in Analytics, Statistics, or Data Science.
+
+Preferred Experience: Four (4) or more years of experience with progressively more complex data science, applied statistics, machine learning, or mathematical modeling projects.
+
+Additional Technical Requirements
+
+Experience and demonstrated ability acquiring new technical/analytic skills and domain knowledge to support successful contribution to research and development projects is required.
+
+Experience writing code in either applied educational or professional projects using one or more of the following languages: Python or R.
+
+Strong verbal and written communication skills with the demonstrated ability to explain complex technical concepts to a lay audience.
+
+Experience with working in cloud environments and container-based technologies preferred.
+
+Experience with using continuous integration and delivery and familiarity with deployment tools (Terraform, Vault, Jenkins) preferred.
+
+Familiarity with relational databases (e.g. Postgres, MySQL) strongly preferred.
+
+Familiarity with RESTful web services application programming interfaces preferred.
+
+Applied statistics or mathematical modeling experience preferred.
+
+Experience with visualization toolkits like D3, matplotlib, ggplot2 or bokeh preferred.
+
+All CHOP employees who work in a patient building or who provide patient care are required to receive an annual influenza vaccine unless they are granted a medical or religious exemption.
+
+Children's Hospital of Philadelphia is committed to providing a safe and healthy environment for its patients, family members, visitors and employees. In an effort to achieve this goal, employment at Children's Hospital of Philadelphia, other than for positions with regularly scheduled hours in New Jersey, is contingent upon an attestation that the job applicant does not use tobacco products or nicotine in any form and a negative nicotine screen (the latter occurs after a job offer).
+
+Children's Hospital of Philadelphia is an equal opportunity employer. We do not discriminate on the basis of race, color, gender, gender identity, sexual orientation, age, religion, national or ethnic origin, disability or protected veteran status.
+
+VEVRAA Federal Contractor/Seeking priority referrals for protected veterans. Please contact our hiring official with any referrals or questions.
+
+CHOP Careers Contact
+
+Talent Acquisition
+
+2716 South Street, 6th Floor
+
+Philadelphia, PA 19146
+
+Phone: 866-820-9288
+
+Email:TalentAcquisition@email.chop.edu

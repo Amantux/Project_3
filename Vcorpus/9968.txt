@@ -1,0 +1,63 @@
+A Data Scientist is responsible for identifying the insight opportunities present in the customer’s data and helping shape the data pipeline that deliver the insights by applying advanced analytics (e.g., machine learning) in collaboration with the customer. The Data Scientist is a technical, customer facing role, who along with the Analytics Product Team is accountable for the end-to-end data pipeline envisioning and development that starts with addressing issues of data acquisition and data sampling, data exploration and data quality assessment, data wrangling to massage the data so it is better suited to applying advanced analytics, and visualizing or reporting on such data to make the insights available to the customer’s business. The ideal candidate has experience in customer facing roles and has a cross-disciplinary background consisting of statistics and software development. A technical BS degree in Computer Science or Math background is highly desirable. Three or more years of customer facing experience desired.
+
+Top Qualities: Problem Solving (78%), Creativity (39%), Attitude (33%)
+
+Previous Roles: Developer (55%), Statistician/Mathematician (37%), No previous role (37%)
+
+Certifications: MCSA In Machine Learning (24%), MCSE Data Management and Analytics (24%)
+
+Technical Skills
+
+Deep understanding of how to identify data sources, integrate multiple sources or types of data, and apply expertise within a data source to develop methods to compensate for limitations and extend the applicability of the data.
+
+Strong ability to apply (and develop if necessary) tools and pipelines to efficiently collect, clean, and prepare massive volumes of data for analysis.
+
+Able to transform formulated problems into implementation plans for experiments by applying (and creating when necessary) the appropriate data science methods, algorithms, and tools, and then statistically validating the results against biases and errors.
+
+Deep understanding of how to interpret results and develop insights into formulated problems within the business/customer context, while providing guidance on risks and limitations.
+
+Acquires and uses broad knowledge of innovative methods, algorithms, and tools from within the larger scientific community, and applies his or her own analysis of scalability and applicability to the formulated problem.
+
+Understanding of how to validate, monitor, and drive continuous improvement to methods, and propose enhancements to data sources that improve usability and results.
+
+Deep understanding of big data systems, including Spark, Hadoop, Azure Data Lake, Azure SQL, etc.
+
+Strong understanding of scripting languages, including R, Python, Scala, and SQL.
+
+Non-Technical Skills
+
+Work with management and stakeholders, identify opportunities for data science to make an impact, and formulate these opportunities to data science projects.
+
+Consultative requirements gathering with stakeholders at all levels of the business.
+
+Proven track record of driving decisions collaboratively, resolving conflicts, and ensuring follow through.
+
+Presentation skills with a high degree of comfort with both large and small audiences.
+
+Problem-solving mentality leveraging internal and/or external resources.
+
+Exceptional verbal and written communication.
+
+Technologies
+
+Azure, Azure Cognitive Services, Azure Data Catalog, Azure Data Factory, Azure Data Lake, Azure Cosmos DB, Azure HDInsight, Azure Import/Export, Azure Machine Learning, Azure Search, Azure SQL Data Warehouse, Azure SQL Database, Azure Storage, Cassandra, IBM Cognos, Microsoft R, MongoDB, MySQL, NoSQL, PostgreSQL, Power BI, Scala, Apache Spark, SQL Server, SQL Server IaaS, SSAS, SSIS, SSRS, Sybase, Tableau,
+
+Programming/Scripting Languages: R, Scala, Python, DMX, DAX, MDX, SQL, T-SQL, Java
+
+Certifications
+
+MCSA in Machine Learning, other certifications include: Master or PhD in Data Science, Statistics or Probability from accredited universities, Certified Analytics Professional (CAP), Certification of Professional Achievement in Data Sciences, Cloudera Certified Professional: Data Scientist (CCP:DS), edX Verified Certificate in Data Science Curriculum, EMC Data Science Associate, edX Verified Certificate in Data Science Curriculum, EMC Data Science Associate, MCSE Business Intelligence, MCSE Data Management and Analytics, Revolution R Enterprise Professional, SAS Certified Data Scientist.
+
+Project Experience Types/Qualities
+
+5-8+ years of experience developing and working with machine learning algorithms, including classification, regression, clustering, time series forecasting, recommendation systems, and text analytics, and a good understanding of deep learning.
+
+5 years of working experience in applying machine learning to solve complex business problems.
+
+5+ years of experience with one or more scripting languages, such as R, Python, Scala, or SQL.
+
+5+ years of experience working with machine learning platforms, such as R, Python, and Azure ML.
+
+5-8 years of experience building data pipelines to operationalize end-to-end solutions.
+
+3+ years applying statistical modeling and machine learning algorithms to real-world problems.

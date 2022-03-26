@@ -1,0 +1,25 @@
+At Phantom AI, experience the fast paced environment and help the development of the next generation of autonomous vehicles. We are seeking a Data Engineer to help our visionary team through building a robust pipeline and handling terabytes of data.
+You will be designing and implementing full-stack solutions for computing, storing, and presenting evaluation metrics using data gathered from vehicles. This will be a unique opportunity to both improve and implement a scalable pipeline that will be the backbone of the company.
+
+Responsibilities
+· Design, improve, and manage datasets
+· Support technical design and implementation of demand planning automation projects that use these datasets
+· Monitor and enforce data quality standards
+· Hands-on coding, able to implement what was designed
+· Familiar with architecting and designing tools, and self-motivated for documentation
+· Optimize pipeline performance to reduce data lag and refresh time
+
+Requirements
+· 3+ years of experience working in data architecture or a related field
+· 3+ years of Python Experience
+· Web framework experience
+· Experience building and optimizing data sets
+· Deep understanding of data architecture best practices such as normalizing data structures, minimizing logic complexity, defining intuitive and consistent semantic layers, and eliminating redundancy
+· Self-motivated and strong work ethic for continuous development with a strong sense of ownership
+
+Preferred Skills
+· Master’s degree in Computer Science or Data Science or work equivalent experience
+· Experience with ROS
+· Web development experience
+· Hands-on experience in dev-ops best practices and implementations
+· Demonstrated industry efficiency in the fields of database, data warehousing or data sciences

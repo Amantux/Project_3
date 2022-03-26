@@ -1,0 +1,24 @@
+At Caffeine, we want to change how people consume live television - making it more friendly, connected, and fun. To do this, we’re building a new social broadcasting platform that features world-class content, easy-to-use broadcasting tools, a social and fun viewing experience, and an engaged broadcaster community.
+
+This is an exciting and enormous challenge, and we will only be successful if we build a supportive and collaborative team. Our teams prioritize delighting our community of viewers and broadcasters, working with intention, taking ownership of our commitments, and acting with resilience and determination—all with the intention to ship greatness, always.
+
+As part of API and Services team, you will be building the core of Caffeine. You will create new services, contributing to our real-time components and integrating with the data stores that make up our product. We have a microservices architecture with a focus on speed and reliability. You and your team will own and maintain each service you create, from coding & testing to deployment pipeline & production uptime.
+What You'll Do:
+Design, build, and maintain backend service APIs.
+Create new micro-services and integrate with existing services.
+You will add new functionality to (as well as maintain) our real-time services.
+You will write unit, functional, and integration tests for the services and features you add, as well as find and adopt new ones to further increase maintainability and velocity.
+Optimize data access patterns for speed and scalability.
+Instrument services for operational visibility (both logging and metrics).
+You will work cross-functionality with our Marketing, Product, and Content-focused colleagues to build the best experience.
+You will build software that is scalable, extensible, maintainable and observable.
+Who You Are & What You've Done:
+5+ years of engineering experience building APIs and Services.
+Experience in building highly performant systems using relational and key-value datastore.
+Experience with CI/CD, build pipeline and automation.
+Experience working with distributed systems in production.
+Ability to learn and understand new technologies/languages quickly; we currently use Golang, Ruby, Python, but we use whatever tool is required to get the job done right.
+Experience working in modern containerization technologies like Docker and Kubernetes.
+Experience building software in cloud such as AWS or GCP.
+Experience with 'event driven' architecture such as Kafka.
+We are committed to an inclusive and diverse Caffeine. We believe that different perspectives lead to better ideas, and better ideas allow us to better understand the needs and interests of our diverse, global community. We welcome people of different backgrounds, experiences, abilities and perspectives and are an equal opportunity employer.

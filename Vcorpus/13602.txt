@@ -1,0 +1,54 @@
+Think West Coast tech company meets small business in the City of Good Neighbors. We develop cutting edge software while maintaining a work environment that compares to the personal interaction youd get working for a small business. We encourage our team to use the latest technology, collaborate, and run with their ideas. We also encourage them to have fun, which makes coming to work enjoyable! At Utilant, we believe that investing into our employees promotes innovation and excellence in our field.
+
+Teamwork: Work together to accelerate the success of both Utilant and its customers.
+Development: Continuously seek to improve our process by empowering individual growth and creativity.
+Innovation: Build powerful, intuitive software that people want to use.
+We are currently looking to hire a Data Scientist and a Junior Data Scientist to work out of our Buffalo, NY headquarters or to work remotely.
+
+As a Data Scientist youll have the opportunity to work alongside Data Engineers and Software Engineers to solve business challenges by employing vast amounts of insurance underwriting data from 10s of millions of inspections and other data sources. A Data Scientist on our team will explore and understand structured and unstructured data sets, with an aim to design, train, and deploy machine learning models into a production software environment with a cloud-based infrastructure. The ideal candidate will have experience with and interest in collaborating with Software Engineers to deploy a reliable, customer-facing product. As our team is growing quickly, were keenly interested in candidates who understand how to design systems that scale and still know how to deliver results on a deadline when necessary.
+
+Accountabilities:
+• Participate in the complete development lifecycle of cloud-based Data Science products, from exploratory data analysis to deployment
+• Identify new opportunities to improve customer experience using a largely untapped data warehouse of text, image, and columnar data
+• Stay up to date on advancements in Natural Language Understanding and/or Computer Vision technologies, with a focus on tools that can have a real-world impact for our users
+• Demonstrate model performance using visualizations and dashboards to define ongoing progress, compare model versions against key metrics, and provide a focus on our team objectives.
+• Collaboratively give and receive feedback, including technical mentorship, by working with other Data Scientists via code review
+• Work with other Data Scientists to develop reproducible models that predict and explain trends within a vast and heterogeneous data set
+• Communicate with stakeholders outside of the Data Science team to answer specific business questions, understand customer pain-points, and identify opportunities for improvement
+• Independently diagnose and remedy data hygiene issues to ensure reliable analysis and model development
+
+Qualifications:
+• 4+ years of professional experience
+• Advanced degree (MS or PhD) in a technical field, e.g. Computer Science, Engineering, or Mathematics
+• Proficiency in SQL and relational databases like Microsoft SQL Server or equivalent
+• Experience training, deploying, monitoring, and maintaining reproducible machine learning models
+• Advanced knowledge of unstructured data and machine learning technologies
+• Proven experience with planning, execution, vision and success of complex technical projects
+• Strong communication and technical skills
+
+Competencies:
+• Expertise in Python 3
+• Thoroughly versed in statistics, linear algebra, and experimental design
+• Strong knowledge of machine learning methods, including approaches that are neural, tree-based, etc.
+• Experience with distributed version control systems (Git or equivalent) Experience with cloud-based platforms and services such as AWS, Azure, etc.
+• Expertise in working with relational database management systems, including local or remote SQL DBs
+• Working with larger than laptop-memory datasets with distributed computing technologies, e.g. Spark, Dask, Hadoop, Hive, etc.
+• Aptitude for visualizing complex relationships though plots, diagrams, and dashboards
+• Ability to prioritize use cases and remove/discern ambiguity
+• Professional, accountable, and reliable with excellent organizational & time management skills
+
+Expectations:
+• Act in accordance with the Vision, Mission and Values set forth by Utilant, LLC.
+• In this position you may be required to perform duties as assigned outside of normal working hours.
+• Develop a thorough understanding of the company culture.
+• Flexibility in assuming duties not outlined in the responsibilities as needed.
+• Display ability to work self-directed and to take initiative to work quickly, and independently.
+
+Work Environment and Physical Requirements:
+While performing the duties of this job, the employee is regularly required to talk or hear. The employee is frequently required to walk, stand, sit, use hands for fine manipulation, handle or feel and reach with hands and arms using a keyboard and video display terminal. The employee is occasionally required to stoop, kneel or crouch. The employee must regularly lift and/or move up to 30 pounds. Specific vision abilities required by this job include close vision, distance vision, ability to adjust focus and peripheral vision. The intent of this job specification is to provide a representative summary of the types of duties and responsibilities that will be required of positions given this title and shall not be construed as a declaration of the specific duties and responsibilities of any particular position. Employees may be requested to perform job-related tasks other than those specifically presented in this specification.
+
+EEO:
+Utilant LLC provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Utilant LLC complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+Acknowledgement and Receipt of Job Description:
+This description does not imply that these are the only duties to be performed by this employee. He or she will be required to follow any instructions and to perform other duties requested by a supervisor. Your signature below indicates that you have read and understand this job description and its contents. The above information has been communicated and/or completed on the date below.

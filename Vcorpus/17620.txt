@@ -1,0 +1,44 @@
+About the Team
+
+DRINKS is defined by a passionate team that leverages proprietary technology and a groundbreaking big data infrastructure to transform the way customers buy adult beverages, starting with the $72B U.S. wine industry. DRINKS offers the nation's only plug-and-play platform for digital merchants and brick-and-mortar retailers alike to rapidly start marketing award-winning wine online to their customers across the USA. DRINKS DTC division Wine Insiders, an industry pioneer with 38 years of heritage and two million happy customers, is the nation's Direct to Consumer wine leader. Through partnerships with nationally-recognized food & lifestyle influencers like Martha Stewart and Geoffrey Zakarian, Wine Insiders is looking to extend its leadership position.
+
+The Role
+
+We are looking for a Data / ETL Engineer who will immerse themselves within our Engineering team and drive innovation and software design excellence. The role demands high attention to detail, professionalism, and a methodical and technical approach to the execution of software in a cloud-based environment. The position is a member of a high performing agile team which is focused on delivering features; the output from this team goes into production and makes a difference in moving the company forward. This role will report to the Software Engineering Manager and is a regular, full-time, exempt position based out of our beautiful Los Angeles office.
+
+What You'll Do
+Become a member of agile development team
+Actively participate in daily code review sessions
+Understand and implement best practices in managing enterprise data including master data, data quality, lineage and security
+Interface with the department's business analysts, developers, data architects and system administrators on daily support tasks and project-driven activities
+Share best practices and be open to alternative technology implementations
+Work with business team and engineering teams to design and implement large data processing flows
+Take on special projects as necessary
+About You
+Ability to collaborate with engineering team as well as work independently on projects
+Exceptional time management and ability to problem solve under pressure
+Strong understanding of data and analytics solution architecture, including experience with Big Data, Relational databases, streaming and batch data processing
+Strong verbal and written communication skills and excellent attention to detail
+Flexibility in work schedule as needs arise
+Energetic, enthusiastic and self-motivated with a strong work ethic
+
+
+Our Stack
+Matillion ETL
+Ruby / Rails
+Linux scripting
+MySQL
+Redshift
+Familiarity with AWS; S3, Lambda
+
+
+Bonus points for
+Tableau report writing experience
+Bachelor's Degree in Computer Science or equivalent
+Experience at a startup or similar fast-paced tech environment
+A passion for wine!
+
+
+Benefits & Perks
+
+We offer a competitive benefits package including comprehensive health coverage, 401k with company match, paid parking or monthly commuter incentive, paid parental leave, weekly catered lunches, wine tastings, happy hours, and a discount on all products. We value work-life balance and offer 12 paid Holidays and a flexible vacation policy.

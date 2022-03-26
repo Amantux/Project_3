@@ -1,0 +1,32 @@
+Job Description
+About us:
+Oncora is an oncology software and data company dedicated to helping physicians and scientists collect and use real-world data to improve outcomes for cancer patients. Our machine learning algorithms, which are deployed in active clinical environments, accurately predict oncology outcomes such as unplanned hospitalization, survival, and recurrence. Our software products include: a data capture system for radiation oncology clinical care, a data warehouse that leverages connections other healthcare software systems such as EMRs, PACS, to amass real-world, regulatory-grade oncology data, a machine learning platform to train and validate predictive models of key oncology events, a publicly machine learning API to power external software tools, and a virtual clinical trial platform that allows pharma and device companies to leverage automated medical image analysis to advance new technologies in the fight to cure cancer. We work with world-leading cancer centers such as MD Anderson and Northwell Health, global device companies such as Varian Medical Systems, and innovative biopharma companies. Our team is mission-driven to its core.
+
+About the role:
+We are looking for an experienced engineer to join our mission driven team to help develop our data platform that integrates and transforms multiple imperfect and messy healthcare data sources into clean, usable data so that we can learn from every cancer patient.
+
+We are a small team trying to tackle a large problem, so we need teammates that are ultimately accountable to themselves and continuously push the product and the organization forward. You will need to play a vital role in developing and operating our core data platform and help to scale it to serve additional hospitals.
+
+Responsibilities:
+Designing and implementing improvements to our data extraction and transformation processes to increase performance and stability
+Overseeing and monitoring our existing data platforms for stability, performance and accuracy
+Incrementally evolving our platform architecture without disrupting operations
+Working with Product and Engineering to define, document, and build transformations to extract intelligence from multiple incomplete and siloed data sources
+Building pipelines to de-identify and consolidate cross-institutional data to fuel predictive analytics, research, and clinical trials
+Building visibility into all aspects of our data platform (workflow status, system health, data lineage, etc.)
+Qualifications:
+Demonstrated experience independently leading complex software projects
+Experience designing and building data pipelines (real-time or batch)
+Deep understanding of data persistence technologies, relational, document, key/value, columnar, etc (we use MongoDB, Postgres, Redis, and ElasticSearch)
+Experience building asynchronous and distributed systems (we use RabbitMQ)
+Fluency with a functional or imperative language (we use Python & JS)
+A focus on writing understandable, testable, and maintainable code
+Familiarity with modern containerized environments (we use Docker & Kubernetes)
+Experience with healthcare data standards and integrations (HL7, FHIR, DICOM, etc.)
+Compensation, Benefits, and Perks:
+Salary: $100k-130k
+401k, health and dental insurance, flexible vacation, paid parental leave
+eBooks, online courses, home office budget
+Work with smart, passionate people on a product that will have a direct impact on the lives of cancer patients
+
+Oncora is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, age, sex, religious creed, disability, ancestry, national origin, sexual orientation, gender identity, or gender expression.

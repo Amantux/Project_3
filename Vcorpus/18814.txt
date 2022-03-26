@@ -1,0 +1,57 @@
+Overview
+
+
+Principal Software Engineer (Quality Engineer/Java Developer)
+
+This position is critical to the growth and continued success of the organization with responsibility for quality assurance of the group's products and services. The ideal candidate will apply their in-depth working knowledge of quality assurance methodologies and work alongside our Creative and Engineering departments to help develop cutting edge software that is helping to revolutionize the clinical trial process.
+Must have a strong background in API, web, and mobile test automation
+Will work to enhance existing quality assurance standards
+Leverage creativity, initiative, experience and judgment to help plan and accomplish QA goals
+Work under light supervision – reports to the director of SQE
+Responsibilities
+
+
+Responsibilities
+Collaborate with engineering team to plan and manage agile software development sprints for multiple customers, simultaneously.
+Design traceability matrices, test plans and test scripts for mobile and web app requirements
+Execute test scripts, evaluate and troubleshoot errors and bugs
+Conduct integration, regression, and end-to-end testing
+Ensure that quality issues and defects are appropriately identified, prioritized, documented, tracked, and resolved in PRA’s defect tracking system.
+Design, Develop and lead test automation efforts for PRA’s Mobile Health Platform (API, web, mobile)Plan and coordinate testing activities
+Develop, publish and implement test plans to ensure product quality
+Collaborate with creative team to plan and manage mobile app testing
+May be called on to manage one or more SQE team members
+Qualifications
+
+
+Required Qualifications
+7+ years of object-oriented programming with a deep working knowledge in Java
+2+ years of building and extending test framework in Java
+1+ years of CI/CD experience
+Working knowledge of both SQL and NoSQL DBs
+Experience with leading and participating in architecture and design discussions
+Experience developing standards for testing framework (including keyword driven, data driven, coding standards, naming standards)
+Experience with JIRA for tracking user stories and defects
+Ability to work cross-functionally with high attention to detail
+Strong analytical and problem-solving skills
+Experience with data driven and keyword driven frameworks
+Ability to communicate fluently in English (written and verbal)
+Experience with an Agile-based organization
+BS/BA in related technical field (or equivalent)
+
+
+Preferred Qualifications
+10+ years of object-oriented programming in Java.
+2+ years of experience testing web applications with Selenium
+2+ years of experience using Appium
+2+ years of experience testing mobile applications
+3+ years of SQL
+2+ years of any scripting language (JavaScript, Python, or similar)
+2+ years of REST API Testing using RestAssured or similar Test Automation
+Clinical, healthcare or life sciences background (HIPAA, 21 CFR Part 11)
+Experience with TestRail
+1+ years of Ruby programming
+1+ years of Cucumber experience
+1+ years of BDD experience
+1+ years of JavaScript programming
+PRA is an EEO/AA employer and is committed to providing opportunities to minorities, women, veterans and individuals with disabilities.

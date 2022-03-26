@@ -1,0 +1,27 @@
+Current Need:
+
+Position Title: Data Warehouse Engineer
+
+Location: 5601 N. Pima Road, Scottsdale, AZ 85250
+
+Job Duties:
+
+Design and develop solutions and commissions of complex data across systems for Mckesson customers. Ensure that best practices are being followed for data storage and technical data warehouse development. Work with databases, files and unstructured data to identify, transport and quality test the data required to drive our data strategy for the business needs. Work to create mappings and data synchronization tasks to perform daily and incremental loads of data from Salesforce Objects to Oracle and SQL server databases. Write program/code in Informatica PowerCenter to cleanse, apply business logic and standardize the data according to business rules, enabling more effective data governance along with clear and efficient end-user reporting. Perform data analysis on client data files by writing sql queries and perform detailed data load validation by writing SQL scripts in oracle. Store and transport pharmacy data in accordance with high standards using batch processes, leveraging Informatica PowerCenter to process large volumes of data either simultaneously or sequentially, based on the business need. Create batch data processes in an extremely efficient way to process large number of records collected over the period, further designing various jobs to process simultaneously in parallel and sequential order. Leverage Informatica Cloud, Mr. Maturu builds near real-time processes to move data from Salesforce to the Data Warehouse to ensure that vital data is available within seconds or minutes to our business partners for business-critical decisions.
+
+Qualifications:
+
+Bachelor’s degree in Software Engineering, Data Engineering or Electronics and Communications Engineering, or a related field of study and seven (7) years of experience in the job offered or related occupation. Position requires five (5) years of experience with the following: Informatica PowerCenter; Oracle; SQL server; Unix; Shell script; Scheduling tool such as Appworx, GoAnywhere or Control-M; and Erwin.
+
+Contact:
+
+To apply, please mail resume and cover letter to McKesson Corporation, Attn: Cynthia Hurst, 5995 Windward Parkway, Alpharetta, GA 30005. Must reference job title.
+
+McKesson is an Equal Opportunity/Affirmative Action employer.
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, creed, sex, sexual orientation, gender identity, national origin, disability, or protected Veteran status.Qualified applicants will not be disqualified from consideration for employment based upon criminal history.
+
+McKesson is committed to being an Equal Employment Opportunity Employer and offers opportunities to all job seekers including job seekers with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, please contact us by sending an email to McKessonTalentAquisition@McKesson.com . Resumes or CVs submitted to this email box will not be accepted.
+
+Current employees must apply through the internal career site.
+
+Join us at McKesson!

@@ -1,0 +1,29 @@
+Title: Business Analyst
+
+Locations: Phoenix, AZ
+
+Duration: 06 Months
+
+"U.S. Citizens and those authorized to work in the U.S. are encouraged to apply. We are unable to sponsor at this time"
+
+Description of Duties
+
+50% - Identify, evaluate, and document business needs and objectives, operational processes and procedures, problems and requirements. Understand the business case, and gaps in documented business process (as is vs. to be). Perform requirements elicitation/documentation/management, as well as use case documentation (standard, alternate, and error) to assist developers in creation of solutions to meet business objectives. Leverage understanding to document meaningful user acceptance criteria for user stories. Capable of facilitating communication between stakeholders from all levels of the organization while objectively identifying and resolving conflict.
+
+40% - Develop test plans/scenarios/cases/scripts to ensure appropriate test coverage. Execute testing based upon documented test cases/scripts and ensure applications tested meet customer defined business requirements per documented user acceptance criteria. Document and track software defects as well as issues with performance and usability.
+
+10% - Identify and document processes and procedures related to Business Analysis and Quality Assurance standards, including opportunities for improvement.
+
+Required Skills
+Windows Server Experience
+Intermediate Visual Studio/TFS/VSTS Experience
+Intermediate T-SQL Experience
+SDLC - Agile (Scrum, Kanban) Experience
+Intermediate VSTS Experience
+Intermediate STLC Experience
+Intermediate MS Office (Word, Excel, PowerPoint) Experience
+Nice-To-Have
+Beginner SQL Server 2008 R2 & 2016
+Beginner SSRS
+.Net Applications
+MS Project

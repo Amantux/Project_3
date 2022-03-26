@@ -1,0 +1,40 @@
+Job Overview
+
+Who We Want:
+Bazaarvoice has access to the sentiment contained in hundreds of millions of reviews on hundreds of millions of products across a variety of industries as well as the browsing behavior on close to 800 million users a month across our client sites. Our teams leverage these data sets to help our clients build better products, build stronger relationships with their customers, and make decisions on when and where to offer products. Our Data Engineering team creates Bazaarvoice products that help companies understand the competitive positioning of their products. A big area of business growth for Bazaarvoice will come from the efforts of our data engineering team. We are looking for a tenured engineer to lead the evolution of our reportable data store that powers our client-facing reporting and internal data warehousing products. You will also help us aggregate data sets to build out known new product offerings related to analytics and pilot new initiatives. You will need to understand the business cases of the various products and build tools as well as data sets and access methodologies to support all of them in a scalable way. In addition, you will help us select and support the right technologies for this platform.
+
+Responsibilities:
+
+Individual Contributor (expected to be hands-on coder 50%-80% of the time)
+Lead the design and delivery of complex, cross-team systems built & deployed on AWS
+Interview top talent for Engineering’s staffing needs
+Mentor highly talented engineers within the org
+
+Required skills:
+
+12+ years of overall relevant Software Engineering experience
+7+ years of Data Engineering development experience including familiarity in multiple batch and streaming data processing technologies (Hadoop, Spark, Kafka, MapReduce, Hive, etc.)
+3+ years Architecting, Designing and Building large-scale, multi-use Big Data Systems on Public cloud hosting providers
+Strong communication skills (including influencing skills across multiple teams)
+Extensively worked in a range of database technologies including SQL and NoSQL DB
+
+Nice to Have:
+
+3+ years in AWS environment
+Ecommerce industry experience
+Experience influencing Product and other stakeholders
+About Bazaarvoice
+Bazaarvoice connects brands and retailers to consumers, so that every shopping experience feels personal. From search and discovery to purchase and advocacy, Bazaarvoice’s solutions reach in-market shoppers, personalize their experiences, and give them the confidence to buy. Each month in the Bazaarvoice Network, more than a billion consumers view and share authentic content including reviews, questions and answers, and social photos across 6,200 brand and retail websites.
+
+Bazaarvoice completed the acquisition of Influenster in August 2019 and with the 2 companies coming together we are able to create an even more attractive proposition for our clients.
+
+Influenster is a digital destination where consumers discover products and reviews that enable them to make well-informed purchase decisions with over 6 million members who have written over 38 million product reviews.
+
+Founded in 2005, Bazaarvoice is headquartered in Austin, Texas with offices in North America, Europe, and Australia. For more information, visit www.bazaarvoice.com.
+Why join Bazaarvoice?
+We’re committed to client success: There are over 6,200 brand and retail websites in the Bazaarvoice network. Our clients represent some of the world’s leading companies across a wide range of industries including retail, apparel, automotive, consumer electronics and travel.
+We’re leaders in consumer-generated content: Each month, more than one billion consumers view and share authentic consumer-generated content, such as ratings and reviews, curated photos, social posts and videos, about products in our network. Last year, 135K reviews were submitted each day.
+Our network delivers: Network analytics provide insights that help marketers and advertisers provide more engaging experiences that drive brand awareness, consideration, sales, and loyalty.
+We’re a great place to work: We pride ourselves on our unique culture. Join a company that values passion, innovation, authenticity, generosity, respect, teamwork, and performance.
+Commitment to diversity and inclusion
+Bazaarvoice provides equal employment opportunities (EEO) to all team members and applicants according to their experience, talent, and qualifications for the job without regard to race, color, national origin, religion, age, disability, sex (including pregnancy, gender stereotyping, and marital status), sexual orientation, gender identity, genetic information, military/veteran status, or any other category protected by federal, state, or local law in every location in which the company has facilities. Bazaarvoice believes that diversity and an inclusive company culture are key drivers of creativity, innovation and performance. Furthermore, a diverse workforce and the maintenance of an atmosphere that welcomes versatile perspectives will enhance our ability to fulfill our vision of creating the world’s smartest network of consumers, brands, and retailers.

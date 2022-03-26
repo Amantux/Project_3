@@ -1,0 +1,27 @@
+Responsible for identifying and designing automation opportunities.
+Create effective and automated process to drive efficiency and consistency across all areas of big data and MongoDB
+Work closely with peers and leadership to develop automation framework
+Build various test cases using automation tools and efficiency in documenting them
+Understanding of BIGDATA , MongoDB platforms and technologies
+Deep understanding of QA principles , tools and reporting
+Should be able to validate the data in the front end UI by comparing the data at backend tables
+Execute test cases as planned for the assigned modules using knowledge of test execution process for both functional and non- functional process
+Should work closely with multiple developers/teams and be able to handle multiple projects.
+Use RDBMS/HIVE to execute test scripts , modify the scripts as required , identify , classify and raise defects using various defect tracking tools like Jira , Client ALM etc.
+Create test cases for complex modules based on the defined test strategy for assigned module
+Learn and adapt other new technologies that will be used in the same ecosystem
+Required Qualifications:
+5+ years of experience in building complex SQL queries and working on multiple platforms like BIGDATA and MongoDB
+Proficient with automation tools and framework design.
+Strong personal and organizational skills to execute project deliverables
+Background in ETL and data warehousing
+Mandatory BigData experience and preferably with MongoDB experience
+Should be able to handle multiple projects.
+Should have an exposure to banking domain
+Should be able to validate the data across multiple platforms
+Should have experience in creating a test strategy , test plan documents
+Has worked with Agile methodologies such as Scrum, and has ability to write user stories using Agile tools or post-its and participate in agile ceremonies
+Have a Bachelors in computer science , engineering or related technical discipline or equivalent combination of training and experience
+Understanding of data flows , data architecture , ETL and processing of structured and unstructured data
+Excellent written and verbal communication skills
+Some of the Tools used as part of the current project: Hive, Unix, MongoDB, Jira , Confluence, Any testing framework(Automation tool)

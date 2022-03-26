@@ -1,0 +1,87 @@
+About Syapse
+
+Maybe you've supported a friend or family member who's dealing with cancer. Maybe you've battled it yourself. At Syapse, our mission is to enable healthcare providers to deliver the best care to every cancer patient through precision medicine and it's our personal connections to this mission that unites us.
+
+Together, we're building a revolutionary platform that integrates complex oncology data and shares insights across the cancer care ecosystem including cancer care centers and life science companies developing the next generation of cancer diagnostics and medicines. Join us in our mission to make precision medicine available to every cancer patient who needs it and help us make a positive impact in the lives of people battling cancer, their families and the organizations committed to their care.
+
+About the role:
+
+Syapse is looking for a Clinical Data Scientist to build on our efforts to enable clinical decision making using a genuinely unique set of real world data and Syapse software.
+
+We've created a large real-world data set which aggregates and standardizes patient clinical history and molecular profiling results with treatments, and outcomes from multiple disparate sources. This unparalleled comprehensive set of real world data can be used to extract insights such as new treatment paradigms and more efficient research pathways. Not only are the data insights you will be able to generate uniquely possible at Syapse, but these insights will be applied directly to improving patient outcomes at the point of care.
+
+This position will report to the Senior Director of Informatics within the Clinical Data Science team and collaborate daily with a cross-functional team of product managers, software engineers, informaticists, clinicians, data scientists, and others in a fast-paced and mission driven environment.
+
+About You:
+
+You will be our bridge between cancer data needs & technology solutions to put real world data into context and generate meaningful insights. You enjoy translating complicated concepts into digestible results and executing against multiple simultaneous projects. Your strong working knowledge of clinical / healthcare data and analytics is augmented with a deep understanding of the application of precision medicine within oncology. Your expertise spans across the data, underlying technology, and business sides of the organization.
+
+Key Responsibilities:
+
+Be a domain expert in the field of oncology data, the Syapse platform, and the optimal methods to solve clinical problems using our data and solutions.
+
+Support the business development process by being the front-line person to familiarize potential clients around our data, platform, and analytic capabilities.
+
+Identify key opportunities around expanding our data, platform, analytic capabilities, and products and define clear technical requirements around them.
+
+Perform R&D around new platform analytic methodologies, technologies, capabilities.
+
+Perform rapid prototyping of potential new solutions for our internal teams and clients for proof-of-concept and pilot studies.
+
+Work closely with internal teams to improve our core products, analytic capabilities, and data sets as well as working directly with clients and partners on answering their questions and solving their problems.
+
+Share clinical data innovations within and outside of Syapse and publish novel insights.
+
+Requirements:
+
+Masters, PhD, or MD in oncology, clinical, biomedical or health informatics or a related field, from a leading institution or equivalent work experience.
+
+2+ years of experience working with applied data in oncology / precision medicine, including performing data analytics projects and participating in a client-facing role.
+
+Demonstrated proficiency in clinical oncology data (medical terminology such as diagnoses, treatments and biomarkers, provider workflow, and clinical trials).
+
+Deep professional experience leveraging data from various clinical systems, like EHR, pharmacy, Lab information systems, and claims.
+
+Experience working with standard controlled vocabularies like; SNOMED-CT, LOINC, RxNorm, NDC, ICD-9, ICD-10, CPT, HCPCS, OncoTree.
+
+Ability to write scripts (e.g. python, perl) to perform data manipulation and analysis.
+
+Experience with a query language such as SPARQL or SQL.
+
+Experience with a statistical package such as R.
+
+Excellent verbal and written communication skills, with emphasis on relaying complex information and concepts in more relatable terms.
+
+Preferred Skills or Experience:
+
+Experience with analyzing clinical and genomic data for external clients.
+
+Experience with developing predictive models.
+
+Experience with advanced analytic techniques, including machine learning.
+
+Experience with developing and refining data models.
+
+Experience with developing and refining data management processes and technologies.
+
+Publications around clinical data analysis.
+
+Entrepreneurial experience.
+
+Benefits and perks
+
+Amazing Coworkers
+
+Competitive pay and ownership in the company
+
+100% company paid medical, dental and vision for employees
+
+401(K) matching
+
+Flexible time off
+
+Transit assistance & Pre-tax commuter benefits.
+
+Weekly catered lunches and office snacks
+
+Company sponsored gym membership & lots of other perks

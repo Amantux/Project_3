@@ -1,0 +1,81 @@
+Read what people are saying about working here. 
+
+What You'll Do
+
+As part of the Customer and Partner Services Data Science team, our focus is to automate hundreds of processes, connect teams and decisions across the enterprise, and harvest valuable knowledge locked inside our data in ways that benefit Cisco.
+
+We have three primary tasks:
+
+Pursuing the most critical and complicated transformational projects across CPS. These are the “wins” in operations.
+
+Build the decision-making process across all of operations by redesigning manual, disconnected processes into self-learning, automated solutions that by provide not only scale but simplicity and rich data.
+
+Supporting dozens of team-mates we call data champions who are embedded within teams and are responsible for improving decisions and outcomes within their org. We may fill technical gaps or drive an entire solution depending on what the team needs. Our supporting role and their ownership creates a wonderful partnership that cross-pollinates skills across CPS teams and gives ownership to the team using the solution.
+
+In support of these activities we build the core, reusable components and patterns for the rest of CPS and our skill set extends beyond what most people expect in a data science team.
+
+This senior role will have a blend of technical delivery, influencing at all levels, and creating the vision for a given solution that is explainable, supportable, and measurable.
+
+You will be writing code, building reusable components, meeting with stakeholders about their most pressing needs and need to deliver on their solutions. This will require you to actively listen and guide them towards a feasible and valuable solution.
+
+You will help team members learn and leverage your skills by creating re-usable, well-designed components for the team.
+
+You will fill gaps in the team with independent research and POCs.
+
+Who You'll Work With
+
+This team of highly motivated full stack data scientists work every day to make Cisco a better place. We balance each other with skills, work level. We structure ourselves around work in flexible teams that allows you to follow your interests and work on interesting, valuable projects that make it into production and have bottom line results you'll be proud of.
+
+Who You Are
+
+You are passionate about solving problems. You believe people and machines working together will change the world. Responsibility and accountability are things you crave vs tolerate. In general you love individual contributions as part of a team solving highly complex problems. We rarely work with a specification but rather assemble teams working to do the “right thing.”
+
+You have been successful working with both technical and non-technical stakeholders implementing technical solutions based on probabilistic certainty. You enjoy ambiguity and evolving a solution on a timeline plus be able to communicate trade-offs and decisions.
+
+Minimum Qualifications
+
+6-8+ years of related data science
+
+Bachelors degree
+
+You have independently built your problem solving skills and are very skilled in several of capabilities:
+
+Data Science: Experimental design, feature engineering, communication of process and evaluation of results. Significant experience with the Python based data science toolkits
+
+Data Management: Full range of ETL and traditional data warehouse experience; Data modeling for analytics and operational systems and Solid understanding of triggers, procedures, indexes, views, primary keys etc.
+
+Problem Solving Process:
+
+Transparent, decision focused evaluation of the problem and the available solutions. We don’t get stopped by organizational roadblocks and in fact are empowered to “kick down doors” when necessary. We hold people accountable for decisions and commitments just as we are held accountable to ours. Not every project succeeds, but teamwork, clear communication and accountability keep teams working together over the long term.
+
+Doing the right thing for Cisco. We may find that a project reduces the need for an organization. Sometimes we uncover inefficiencies that need to be improved. People matter at Cisco but we bring the facts and options to the decision makers.
+
+Keeping track of what we know and when we know it. Tracking discoveries and noting failures are essential for us to get better. The CRISP-DM process helps us record our journeys through a project and build a vast range of valuable insights into what we have done in the past and why we reached specific decisions.
+
+Programming: Primarily we are a Python-based team with JavaScript in our GUIs. We want to see secure, well-organized code with at least some tests. We share code and build reusable components so bad code is not an option.
+
+DevOps: We use GitHub, Docker, and various deployment processes. We need people who think about their solutions as containers. Ideally, you enjoy working to define repeatable process the team could use in all of our solutions. In the end, we will automate and seamlessly train, verify, and deploy hundreds of models and services into production every day. These solutions will be scaled up and down as needed and will minimize overall infrastructure costs to Cisco.
+
+Process Orchestration: Our solutions are a combination of workflows, models, decision engines, data prep, data management, and analytics and they need automated deployments. Easy dependency management and easy process restarts from failed jobs are part of what we need. If you have experience with Airflow the team will value your contributions immediately.
+
+GUI development: Primary tools are Django, JQuery, and Angular when necessary. You should understand single page apps and have proven success building and maintaining useful interfaces that support dozens to hundreds of users. Interactive visualizations in D3 or another JavaScript wrapper are very valuable on this team.
+
+Big Data Engineering: Your experience and creativity in the realm of big data technologies are important. The ability to efficiently solve problems by balancing performance, cost, and maintainability will enable our entire team to handle the immense data flows we work with. Do you have several projects under your belt with a billion or more rows of data ready to discuss?
+
+Data Capture: Ideally you want to deeply understand users and how they make decisions. This skill is about capturing the decision context and helping algorithms learn. We work differently from most data scientists. We may not start with existing data. Instead we may start by modeling a decision and building a process and interface to actually generate the features we need to automate a decision. You will influence the data we save and the way people work.
+
+Why Cisco
+
+At Cisco, each person brings their unique talents to work as a team and make a difference.
+
+Yes, our technology changes the way the world works, lives, plays and learns, but our edge comes from our people.
+
+We connect everything – people, process, data and things – and we use those connections to change our world for the better.
+
+We innovate everywhere - From launching a new era of networking that adapts, learns and protects, to building Cisco Services that accelerate businesses and business results. Our technology powers entertainment, retail, healthcare, education and more.
+
+We benefit everyone - We do all of this while striving for a culture that empowers every person to be the difference, at work and in our communities.
+
+Colorful hair? Don’t care. Tattoos? Show off your ink. Like polka dots? That’s cool. Pop culture geek...Many of us are. Be you, with us. #WeAreCisco
+
+ Bring your unique self to Cisco, where you'll join with the best people to help Cisco change the way the world lives, plays, works and le...

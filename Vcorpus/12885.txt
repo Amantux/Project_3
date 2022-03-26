@@ -1,0 +1,16 @@
+Data Scientist
+
+Apply for job
+
+Description:
+
+• Bachelor’s degree or 2+ years of work experience.
+• One years of relevant work experience.
+• Experience working with and creating data architectures.
+• Experience using statistical computer languages (Python, Scala, PySpark, Java, SQL, etc.) to manipulate data and draw insights from large data sets.
+• Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, XGBoost, Genetic Algorithms etc.
+• Deep Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+• Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, State Space, NLP, text mining, social network analysis, etc.
+• Experience with Deep Learning using Tensorflow, Pytorch, Keras, etc.
+• Experience with distributed data/computing tools: Tez, Map/Reduce, Hadoop, Hive, Spark etc.
+• Knowledge and experience with ML model serializations like : PKL,RDS,PMML,ONNX and ML model deployments : Batch process, Real-time (End-point url)

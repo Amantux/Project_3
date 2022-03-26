@@ -1,0 +1,22 @@
+Watchful is a platform that makes machine teaching easy, scalable, and automated. The biggest blocker to delivering ML models in production is no longer the algorithms, but the data (or lack thereof) to train the models. Currently, this has been solved by scaling-out human annotators or labelers and there are a number of managed services that have risen to meet this need. However, for use cases that require specific context (intelligence, legal, cyber, etc.) and/or is based on sensitive or classified data, these solutions are untenable.
+
+Watchful is a disruptive automated annotation platform that puts the power back in the hands of data scientists and subject matter experts to label orders of magnitude more data, in orders of magnitude less time.
+
+We are backed by some of the best investors in tech - Foundation Capital, Quest Venture Partners, FF VC, and Haystack. We are currently hiring engineers and data scientists to join our focused team. We have a number of pilot customers and are currently working towards launching a private beta in Q1 2020, with a wider release slated for Q2/Q3 2020. Engineers and Data Scientists who join us can expect to work with an extremely interesting technology stack (ClojureScript/Rust/Python), touch exotic environments, and solve deep pains for our users across a number of verticals.
+
+We're looking for qualified Data Scientists to help us build the next evolution of our ML stack. Specifically, you might work on our "Statistical label model", Explainability & Feedback Loop, Data Exploration functionality, and other core areas of our product. We use Unsupervised, Active, Transfer, and Weakly Supervised learning in various capacities throughout our product so you'll have an opportunity to touch many different forms of machine learning across our stack.
+
+
+As a company, we focus on having a healthy work-life balance and supporting an environment where the best ideas win, regardless of who came up with them. Our team is passionate about both self and team improvement, and we’ve cultivated a supportive culture that gets results.
+About You
+You have 3+ years of experience working on Machine/Deep Learning systems in a professional capacity
+You have real-world experience using PyTorch, Tensorflow, or some other framework
+Bonus: You have a PhD/MS with relevant experience in the field of Machine Learning or Deep Learning
+Bonus: You have a deep background in Statistics or Probability Theory
+Bonus: You have experience with one (or more) of: Active, Transfer, or Weakly Supervised learning
+Bonus: You know Clojure, Rust, or Python
+This is a role at an early stage startup, so you'll have opportunities to work on very high-impact projects and have significant ownership of the product. You'll work with our founding team members who all hail from marquee tech companies (i.e: Facebook/LinkedIn/Splunk) and were previously in senior positions.
+
+
+
+This is a role at an early stage startup, so you'll have opportunities to work on very high-impact projects and have significant ownership of the product. You'll work with our founding team members who all hail from marquee tech companies (i.e: Facebook/LinkedIn/Splunk) and were previously in senior positions.

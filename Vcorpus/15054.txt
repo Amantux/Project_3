@@ -1,0 +1,61 @@
+Job Summary:
+
+As part of Daman’s Data Engineering team, you will be architecting and delivering highly scalable, high performance data integration and transformation platforms. The solutions you will work on will include cloud, hybrid and legacy environments that will require a broad and deep stack of data engineering skills. You will be using core cloud data warehouse tools, Python, spark, events streaming platforms and other data management related technologies. You will also engage in requirements and solution concept development, requiring strong analytic and communication skills.
+
+Responsibilities:
+
+· Function as the solution lead for building the data pipelines to support the development / enablement of Information Supply Chains within our client organizations – this could include building (1) data provisioning frameworks, (2) data integration into data warehouse, data marts and other analytical repositories (3) integration of analytical results into operational systems, (4) development of data lakes and other data archival stores.
+
+· Optimally leverage the data integration tool components for developing efficient solutions for data management, data wrangling, data packaging and integration. Develop overall design and determine division of labor across various architectural components
+Deploy and customize Daman Standard Architecture components
+Mentor client personnel. Train clients on the Daman Integration Methodology and related supplemental solutions
+Provide feedback and enhance Daman intellectual property related to data management technology deployments
+Assist in development of task plans including schedule and effort estimation
+Skills and Qualifications:
+
+· Bachelor’s Degree or foreign equivalent in Computer Science, Electrical Engineering, Mathematics, Computer Applications, Information Systems or Engineering is required
+
+· Experience building high-performance, and scalable distributed systems
+
+· Good experience in migration from Netezza/ DB2 to Snowflake.
+
+· AWS cloud experience (EC2, S3, Lambda, EMR, RDS, Redshift)
+
+· Experience in ETL and ELT workflow management
+
+· Familiarity with AWS Data and Analytics technologies such as Glue, Athena, Spectrum, Data Pipeline
+
+· Experience building internal cloud to cloud integrations is ideal
+Experience with streaming related technologies ex Spark streaming or other message brokers like Kafka is a plus
+· 3+ years of Data Management Experience
+
+· 3+ years of batch ETL tool experience (DataStage / Informatica / Talend)
+
+· 3+ years’ experience developing, deploying and supporting scalable and high-performance data pipelines (leveraging distributed, data movement technologies and approaches, including but not limited to ETL and streaming ingestion and processing)
+
+· 2+ years’ experience with Hadoop Ecosystem (HDFS/S3, Hive, Spark)
+
+· 2+ years’ experience in a software engineering, leveraging Java, Python, Scala, etc.
+
+· 2+ years’ advanced distributed schema and SQL development skills including partitioning for performance of ingestion and consumption patterns
+
+· 2+ years’ experience with distributed NoSQL databases (Apache Cassandra, Graph databases, Document Store databases)
+Experience in the financial services, banking and/ or Insurance industries is a nice to have
+Daman Is an Equal Opportunity Employer and All Qualified Applicants Will Receive Consideration for Employment Without Regard to Race, Color, Religion, Sex, National Origin, Disability Status, Protected Veteran Status, Or Any Other Characteristic Protected by Law.
+
+Job Type: Full-time
+
+Pay: $100,000.00 - $130,000.00 per year
+
+Benefits:
+401(k)
+Dental Insurance
+Health Insurance
+Paid Time Off
+Vision Insurance
+Additional Compensation:
+Bonuses
+Schedule:
+Monday to Friday
+Work Remotely:
+Temporarily due to COVID-19

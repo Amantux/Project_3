@@ -1,0 +1,39 @@
+Amazon Web Services provides a highly reliable, scalable, low-cost infrastructure platform in the cloud that powers hundreds of thousands of businesses in 190 countries around the world. AWS has the broadest and deepest set of machine learning and AI services for our customers businesses. We are seeking experienced modeling engineers to build the next generation of our cloud server platforms. Our success depends on our world-class infrastructure; were handling massive scale and rapid integration of emergent technologies.
+
+As a member of the Cloud-Scale Machine Learning Acceleration team youll be responsible for the design and optimization of hardware in our data centers including technologies such as AWS Inferentia which is a machine learning inference product designed to deliver high performance at low cost.
+
+
+Youll provide leadership in the application of new technologies to large scale deployments in a continuous effort to deliver a world-class customer experience. This is a fast-paced, intellectually challenging position, and youll work with thought-leaders in multiple technology areas. Youll have high standards for yourself and everyone you work with, and youll be constantly looking for ways to improve our products' performance, quality and cost. Were changing an industry, and we want individuals who are ready for this challenge and want to reach beyond what is possible today.
+
+Responsibilities:
+· Develop SW models for machine learning silicon, used by SW developers and Design Verification teams.
+· Participate in HW/SW architectural co-design by providing data for decision making and suggestions for improvements.
+· Evaluate tradeoffs and form technical execution strategies in ambiguous fast-changing problem spaces.
+
+
+
+
+Basic Qualifications
+
+· EE/CE/CS degree with 5+ years of architectural or performance modeling experience.
+. Proficient in developing C++ models.
+· Experience correlating those models to RTL results.
+· Experience identifying architectural bugs and improvements.
+
+
+
+Preferred Qualifications
+
+· Familiarity with state-of-the-art Neural Network architectures and techniques.
+· Experience in SOC, interconnect, accelerator, and CPU micro-architectures.
+· Experience with compiler design, embedded systems, and distributed systems.
+· Experience with system-level debug in various simulation/emulation environments.
+· Experience analyzing workload performance and bottlenecks.
+· Experience with scripting languages (Python or Perl) for automation.
+· Ability to effectively communicate across SW/HW disciplines.
+· MS/PhD in Computer Science or related area
+· Meets/exceeds Amazons leadership principles requirements for this role.
+· Meets/exceeds Amazons functional/technical depth and complexity for this role.
+
+
+Amazon is an Equal Opportunity-Affirmative Action Employer Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation

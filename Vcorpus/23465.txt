@@ -1,0 +1,21 @@
+The NSM Insurance Group Business Intelligence (BI) Team’s goal is to provide analytical insights to business stakeholders to drive data driven decisions. The BI serves all departments across NSM Insurance Group, including but not limited to, Marketing, Finance, and Underwriting.
+The primary role for the Business Intelligence Analyst is to query, analyze data and present findings/recommendations to business stakeholders. Analyst will be asked to compile data from disparate source systems and build interactive reports to help present findings as well as provide business with future self-service reporting. In addition, Analyst will be responsible for maintaining and enhancing current SSAS Tabular and Power BI models.
+
+Analyze internal/external data sets using SQL Management Studio and visualization tools
+Compile and verify data utilized for periodic scheduled reporting
+Develop an understanding of all data contained within multiple data marts and source systems
+Translate business requirements into technical requirements for enhancements and new custom reports
+Develop data extract, transfer and load (ETL) processes via Power Query and/or SSIS
+Perform ad-hoc analysis to find solutions to business inquiries
+Perform regular data analysis monitoring to provide prescriptive recommendations based on data
+
+Degree in Mathematics, Economics, Finance or other quantitative degrees.
+3+ years of experience with SQL
+3+ years of experience with data visualization tools such as Power BI, Qlik or Tableau
+Advanced understanding of Data Warehousing concepts
+Advanced in Excel
+Excellent written and verbal communication skills
+Able to tell a story, using data
+Proactive and able to work in an autonomous work environment
+Advanced knowledge of DAX is a plus
+Experience with statistical programming languages such as R, Python or SAS is a plus

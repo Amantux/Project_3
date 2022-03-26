@@ -1,0 +1,47 @@
+Tuknik Government Services (TGS) is looking for an experienced individual to perform the duties of a Data Scientist to support our government client in San Antonio, TX.
+
+We offer competitive compensation and an extraordinary benefits package including health, dental and vision insurance, 401K with company matching, flexible spending accounts, paid holidays, three weeks paid time off, and more.
+
+Essential Functions, Responsibilities & Duties may include, but are not limited to:
+Apply statistics, machine learning and analytic approaches to answer key intelligence questions, producing results and re-usable products that provide real value to Intelligence Analysts
+Apply machine learning techniques to identify and transform data features, find hidden patterns and trends, build and optimize classifiers, create automated anomaly detection systems, and automate steps of the intelligence process
+Evaluate statistical models to determine the validity of analyses, implement evaluated models into production by collaborating with software developers, periodically re-evaluate and refine machine learning models being used in production
+Develop and refine date sets to achieve stakeholder goals and objectives as requested
+Work with analysts to interpret analytic results and refine analysis as needed
+Coordinate with Data Analysts to refine and implement models and monitor outcomes
+Develop processes and tools to monitor and analyze model performance and data accuracy
+Communicate results and ideas to key decision makers, analysts and other stakeholders
+Advise on the interpretation and use of data intelligence products, quality assessments and applications
+Collaborate with Intelligence Analysts to understand needs and devise possible solutions
+Assess training requirements based on current system and functional baseline
+Develop training artifacts in support of operations including Standard Operating Procedures (SOPs), and Tactics, Techniques and Procedures (TTPs)
+Required Qualifications:
+Top Secret clearance with SCI eligibility
+MS in Data Science, Statistics, Applied Math, or related field
+Two years of experience leading data science projects is desired
+Five years of intelligence analysis experience is desired
+Demonstrated proficiency with R or Python, and SQL to manipulate data and draw insights from large and small data sets
+Demonstrated proficiency in a variety of supervised and unsupervised machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks
+Demonstrated proficiency in advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications
+Demonstrated proficiency with common data science libraries
+Demonstrated proficiency visualizing/presenting data for stakeholders
+Demonstrated proficiency with MS Office tools including Excel, PowerPoint, and Word
+Demonstrated proficiency with AWS, in particular products related to analytics, compute, database, developer tools, and machine learning
+Experience with database solutions including SQL, NoSQL (e.g. MongoDB) and graph (e.g. Neo4j)
+Experience with data visualization tools, such as D3.js, ggplot, Bokeh, etc.
+Capability to recognize when Data Science can add value to an intelligence problem, and when it cannot
+Ability to translate an intelligence problem into a Data Science problem, and to work with the Intelligence Analysts and ACE Chief to refine the understanding of the problem
+Comfortable working in a dynamic environment with several ongoing concurrent projects; able to multitask, prioritize, and manage time effectively
+Interpersonal skills and communication with all levels of leadership
+A drive to learn and master new technologies and techniques; desire to maintain currency on latest industry trends including completing additional training; able to articulate trends and potential clearly and confidently
+Creative problem solver who thrives when presented with a challenge; able to analyze problems and strategize for better solutions; strong problem-solving skills with an emphasis on production for re-use
+Goal-oriented, encouraging to team and staff; comfortable as a team-player, leader and mentor
+Working Environment & Conditions
+
+This position is primarily indoors, consistent with a standard office position and has a noise level of mostly low to moderate. The incumbent is required to stand; walk; sit; use hands to finger, handle, or feel objects, tools, or controls; reach with hands and arms; talk and hear. The work load may require the incumbent to sit for extended periods of time. The incumbent must be able to read, do simple math calculations and withstand moderate amounts of stress. The incumbent must occasionally lift and/or move up to 25 lbs. Specific vision abilities required by the job include close vision, distance vision, color vision, depth perception, and the ability to adjust focus.
+
+Our Equal Employment Opportunity Policy
+
+The company is an equal opportunity employer. The company shall not discriminate against any employee or applicant because of race, color, religion, creed, sex, sexual orientation, gender or gender identity (except where gender is a bona fide occupational qualification), national origin, age, disability, military/veteran status, marital status, genetic information or any other factor protected by law. We are committed to equal employment opportunity in all decisions related to employment, promotion, wages, benefits and all other privileges, terms and conditions of employment.
+
+The company is dedicated to seeking all qualified applicants. If you require an accommodation to navigate or to apply to a position on our website, please contact Heaven Wood via e-mail at accommodations@koniag.com or by calling 703-488-9377 to request accommodations. This contact information is used for accommodation requests only and cannot be used to inquire on a status of your application.

@@ -1,0 +1,188 @@
+POSITION INFORMATION
+This examination will remain open until LACERA's hiring needs are met, and is subject to closure without prior notice.
+
+EXAMINATION INFORMATION: Examination Number: 9-0457-M, Job Bulletin Number: 20-07
+
+TYPE OF RECRUITMENT: Open Competitive Job Opportunity
+
+The Los Angeles County Employees Retirement Association (LACERA) is looking for an experienced Java Developer to join our Member Applications Development Team. This position in the Systems Division requires an experienced developer to fill a role in the continued development of our Pension Administration System (PAS). This System incorporates state of the art enterprise architecture, relational databases, security, system monitoring, document imaging, workflow, and case management.to support LACERA's business goal and strategic plans. The successful candidate will be working in an open collaborative environment to support Software Development Life Cycle (SDLC) activities to design/develop/test/debug/integrate/deploy/ maintain front-end, middle-tier, and back-end components of our enterprise PAS.
+
+What we do: LACERA administers and manages the $57+ billion retirement fund for the County of Los Angeles. We provide retirement, disability, and death benefits to eligible County Employees and their beneficiaries, and collect, deposit, invest, and manage retirement funds collected from the County, outside districts, and County employees. LACERA is one of the largest county retirement associations in the United States with over 156,000 members. Our membership is comprised of individuals from a diverse range of careers, age groups, and ethnicity – all contributing to the greater welfare of Los Angeles County. Benefits include health insurance, annual leave, sick leave, retirement, paid holidays, and ride share program.
+
+Benefits include health insurance, annual leave, sick leave, retirement, paid holidays, and ride share program.
+
+LACERA Values: We work together toward achieving our Mission through our shared Values.
+
+Our Values include Professionalism, Respect, Open Communication, Fairness, Integrity, and Teamwork.
+
+ABOUT THE POSITION
+
+This position will be one of the team's lead developers reporting to an Information Technology Manager. This position will work independently as well as collaborates with other developers, business analysts, system administrators, project management, contractors, and other IT technical staff. The position independently designs, develops, tests, and debugs new and existing Java code based on program specifications; analyzes the impact of changes to existing Java components; makes recommendations to improve existing systems and programs; communicates with business analysts, network engineers, and systems management; and follows established configuration/ change management processes.
+
+Vacancy Information: The current vacancy is in the Retirement Systems Division.
+
+Work Schedule: This full-time position is required to work a 5/40 schedule (e.g. an eight (8) hour day, Monday through Friday) for at least the first twelve (12) months of employment.
+
+EXAMPLES OF ESSENTIAL JOB FUNCTIONS
+The following examples are intended to describe the general nature and level of work performed by persons assigned to each classification. Depending on the assignment, duties may include, but are not limited to the following:
+Analyzes and designs existing and proposed data processing systems which can be programmed and processed by computers, including conducting studies to determine the nature of the problems connected with automated work processes.
+Analyzes users requirements as stated in order to define more exactly what is needed, ascertains if sufficient information is available, identifies possible combinations of information or conditions which can affect the system or programming requirements.
+
+Conducts preliminary feasibility studies to advise whether the desired end product can be produced by the computer equipment available.
+
+Identifies the kind of records, files, and documents which are necessary to accomplish the substantive work by computer means.
+
+Performs systems maintenance work in light of changes in legislation, regulations, or other basic requirements.
+
+Develops overall plans to carry out the required processing which indicates what is to be done, by both computers and humans, at each stage in the processing of data.
+
+Prepares related forms, procedures, rules, and instructions to govern the development, transmission, and use of data necessary to achieve the desired work products.
+
+Checks proposed plans, instructions, and procedures with users to insure that systems devised are acceptable to them, makes necessary adjustments to meet or remedy any omissions or deficiencies.
+
+Coordinates the development of test problems and conditions to insure the adequacy of all manual and machine processes included in the system.
+
+Charts or documents the system in the degree of detail required for presentation to management and for programming, participates in trial runs of new or revised systems, and suggests modifications of systems and programs to correct deficiencies involved.
+
+Outlines for programmers the actions to be accomplished by the computer including specifications of the overall program structure in terms of component segments, sub-applications, modules, or machine runs; how these work together to produce the desired end product; and how these differ from actions to be performed by employees.
+
+May be required to perform other duties as assigned.
+
+REQUIREMENTS
+SELECTION REQUIREMENTS
+Three (3) years of recent progressively responsible full-time experience within the last five (5) years performing coding, testing, and debugging of enterprise Java applications in a centralized IT organization*.
+Centralized IT organization is defined by LACERA as that which is responsible, under the direction or guidance of a Chief Information Officer or Chief Technology Officer, for providing comprehensive IT services including analysis, design, acquisition, and/or development, implementation, maintenance, or support of information systems; and in which the work performed is in direct relationship to the IT requirements and initiatives of the overall company or major organization unit.
+LICENSE:
+A valid California Class C Driver License or the ability to utilize an alternative method of transportation when needed to carry out job-related essential functions.
+
+PHYSICAL CLASS:
+2 - Light.
+ADDITIONAL INFORMATION
+
+DESIRABLE QUALIFICATIONS:
+Graduation from an accredited college or university with a bachelor's degree in Computer Science, Computer Information systems, or a related field
+Experience programming and debugging enterprise Java applications using:
+Eclipse based development tools
+EJB, JSF, Web Services, XHTML, JavaScript
+JBoss or WebSphere
+Red Hat Linux
+Ant/Cruise Control, Maven, Gradle, Jenkins and/or Team City
+Experience testing applications with automated testing tools
+Experience developing applications for banking, insurance, and retirement processing
+To receive credit for the above desirable qualifications, your application must clearly describe your experience.
+
+Knowledge of: Java application testing and testing tools; Java application servers such as JBoss or WebSphere, Red Hat Linux; Eclipse-based development tools; EJB, JSF, Web Services, XHTML, and JavaScript; Ant/Cruise Control, Maven, Gradle, Jenkins and/or Team City; systems design and concepts; technology trends and innovations; correct English usage, grammar, spelling, punctuation and vocabulary; interpersonal skills using tact, patience, and courtesy; consulting and customer service skills; system design concepts and administration; and Microsoft Office applications including Excel, Outlook, and Word.
+
+Ability to: Write, test, and debug new and existing Java code; troubleshoot or escalate issues; analyze and make recommendations; integrate and support an Eclipse-based development environment; communicate clearly and effectively, orally and in writing; develop and use collaborative relationships to facilitate the accomplishment of work goals; develop and sustain productive relationships with public and staff; understand and follow oral and written directions and established processes; provide leadership; work with minimum supervision; keep current with developments and trends in areas of expertise; learn new skills as needed; establish and maintain effective working relationships with other staff internally and externally; determine the impact of infrastructure changes to applications and take steps to ensure stability and availability; operate a personal computer utilizing Microsoft applications such as Word and Excel; and mentor and train others.
+
+Those applicants, who meet the Selection Requirements AND most closely match the desired qualifications, will be invited to participate in the examination process.
+
+EXAMINATION CONTENT: This selection process will consist of:
+
+Part I: A qualifying evaluation of application information and the desirable qualifications.
+
+Only the highest qualified applicants as determined under Part I, will be invited to continue in the selection process under Part II.
+
+Part II: An Appraisal (Oral) Interview weighted 100%.
+
+The appraisal (oral) interview will assess the applicant's knowledge, experience, and general ability to perform the essential functions of the position.
+
+Those candidates which are determined eligible for hire under the Los Angeles County's Civil Services Rules may be invited to the selection process which may be comprised of a selection interview and/or job related assessments.
+
+CANDIDATES MUST ACHIEVE A PASSING SCORE OF 70 OR HIGHER ON THE WEIGHTED PORTION OF THE EXAMINATION IN ORDER TO BE PLACED ON THE ELIGIBLE REGISTER.
+
+EXAMINATION NOTIFICATIONS: All selection invitations (e.g. oral, performance, written, etc.) and/or special notices will be sent to candidates via email to the email address provided on the official application only. Ensure your email address is correct at the time of filing. Allegations of not receiving the email notification to the email address provided on the official application will not be considered an acceptable reason to authorize an early or late examination administration.
+
+All other notifications (e.g. Notice of non-acceptance, Notice of Results, etc.) will be mailed via United States Postal Services (USPS) to the mailing address provided on the official application. Test scores/results cannot be given over the telephone.
+
+Allegations of not receiving notifications sent via USPS to the mailing address provided on the official application cannot be considered to authorize an extension of appeal rights.
+
+To ensure that our emails are not filtered into your "junk" or "bulk" folder, please add governmentjobs.com and lacera.com to your list of trusted senders.
+
+DO NOT select "Off" under Email Preferences within your profile or click "Unsubscribe" on our notices if you would like LACERA to notify you regarding your application status, test schedules, and other important information pertaining to your candidacy for this position. Moreover, please
+add cchan@lacera.com and info@governmentjobs.com to your email address
+book and to the list of approved senders to prevent email notifications from being blocked or filtered as spam/junk/clutter email from your email provider.
+
+LACERA will not consider allegations of not receiving the email notification as an acceptable reason to authorize a reschedule or late exam administration.
+
+ELIGIBLE INFORMATION: The names of candidates receiving a passing grade will be placed on the eligible list/register in the order of their score group for a period of six (6) months following the date of promulgation.
+
+APPLICATION AND FILING INFORMATION:
+
+Application must be submitted online. Applicants can check the status of their applications at anytime by logging into their account on www.governmentjobs.com
+
+The acceptance of an employment application depends upon whether or not an applicant has provided adequate information that clearly demonstrates meeting the Selection Requirements for the position as stated above. Please complete the application and supplemental questionnaire thoroughly and completely. Information provided in the supplemental questionnaire must be reflected in the application to be considered.
+
+Failure to provide complete information on the employment application and on the supplemental questionnaire will impact the assessment of an applicant's qualifications and acceptance in the selection process.
+
+Applications submitted without the complete work history and the supplemental questions completed in their entirety will be rejected as incomplete. "See application" or "See resume" or copy and paste of work experience is not sufficient or qualifying responses.
+
+Resumes will not be accepted in lieu of the completed application or supplemental questionnaire.
+
+In the space provided for education, include the names and addresses of schools attended, and number of credits, degree, and/or certificate(s) earned.
+
+In order to receive credit for any college course work, or college degree, such as an Associate, Bachelor, Master, Doctorate degree, or for completion of a certificate program, you must include a legible copy of the official diploma, official and/or unofficial transcripts, or an official letter from the accredited institution which shows the area of specialization or official certificate(s) at the time of filing or within ten (10) business days from application submission date.
+
+Applicants must provide the appropriate attachments during application submission, email the documentation to humanresources@lacera.com, or fax a photocopy of the required documents to (626) 564-6699 within ten (10) business days of filing. Please include the examination title and number on the documentation.
+
+Failure to provide the appropriate documentation may result in your application being rejected as incomplete and will be removed from consideration.
+
+Your employment history should be listed in order beginning with the most recent.
+
+For each job held, provide the name and address of your employer, your job titles, beginning and ending dates, description of work performed, salary earned, and reason for leaving.
+
+If you have worked in more than one position for one employer, list each job title and/or area of assignment separately on the application to demonstrate your experience in various assignments/occupational areas.
+
+Part-time experience will be evaluated on the basis of its fractional equivalent of a 40-hour workweek.
+
+All required experience must be paid.
+
+This position may require working evenings, weekends, and holidays.
+
+TO APPLY ONLINE GO TO: www.lacera.com and click on the Careers link.
+
+Faxed, emailed, or hardcopy (paper) applications will not be accepted.
+
+COMPUTER AND INTERNET ACCESS AT PUBLIC LIBRARIES: For candidates who may not have regular access to a computer or the internet, applications can be completed on computers at public libraries throughout Los Angeles County.
+
+Candidate(s) who complete examination process with acceptable results will be considered by the Department hiring authority. Upon an offer of employment, a comprehensive background investigation will be conducted, which includes verification of experience, and/or education, credit history, and fingerprinting through the California Department of Justice and the Federal Bureau of Investigation.
+
+BACKGROUND CHECK: Except for a very limited number of positions, Candidates will not be asked to provide information about conviction history until they receive a contingent offer of employment. LACERA will make an individualized assessment of whether or not a Candidates' Conviction History has a direct or adverse relationship with the specific duties of the job, and consider potential mitigating factors, including but not limited to; evidence and extent of rehabilitation, recency of the offense(s), and age at the time of the offense(s). If asked to provide information about conviction history, any convictions or court records which are exempted by a valid court order do not have to be disclosed.
+
+IMPORTANT NOTE: Please note that all information included in the application materials is subject to verification at any point during the examination and hiring process, including after an appointment has been made. Falsification of any information may result in disqualification or rescission of appointment.
+
+Using verbiage from the Classification Specification, Selection Requirements, and/or Desirable Qualifications serving as your description of duties or responses to the supplemental questions will not be sufficient to demonstrate that you meet the requirements. Doing so may result in your application being incomplete and you may be disqualified. Applications may be rejected at any stage of the examination process.
+
+Requests for accommodation: humanresources@lacera.com
+Teletype Telephone: (800) 899-4099
+Department Contact Name: Connie Chan
+Department Contact Telephone: (626) 564-6000 extension 3580
+Department Email: humanresources@lacera.com
+
+The Los Angeles County Employees Retirement Association (LACERA) recognizes excellence and performance by providing comprehensive and competitive benefit programs to its employees. Emphasis is directed toward offering you and your family a variety of benefits that help meet your needs and balance your career with your personal life. The main theme of all of the programs is flexibility.
+
+These types of programs are made possible through Section 125 of the Internal Revenue Code and allows you to choose between nontaxable benefits, taxable cash and the best plan for you and your family. In addition, the County pays you a monthly "benefit allowance" to pay for these benefits.
+
+LACERA offers three (3) cafeteria benefit plans. Each plan has different benefits and rates.
+Options Benefit Plan - for Staff Members represented by SEIU Local 721.
+MegaFlex Benefit Plan - for eligible Non-represented Staff Members.
+Flexible Benefit Plan - for eligible Non-represented Staff Members.
+As a participant of one of the above plans, you may elect the following benefits:
+
+• Medical Coverage
+
+• Dental Coverage
+
+• Group Term Life Insurance
+
+• Accidental Death & Dismemberment Insurance
+
+• Health & Dependent Care Spending Accounts
+
+• Medical Coverage Protection
+
+• Short-Term Disability – for MegaFlex participants only
+
+• Long-Term Disability – for MegaFlex participants only
+
+Part-time employees (except workers in student positions) who work an average of 30 hours or more per week during a period

@@ -1,0 +1,42 @@
+Immuta was founded in 2015 based on a specific mission to build a platform that accelerates self-service access and control of sensitive data. Immuta’s award-winning automated data governance software platform creates trust across security, legal, compliance, and business teams so they can work together to ensure timely access to critical business data with minimal risks. Our automated, scalable, no code approach makes it easy for users to access the data they need, when they need it, while protecting sensitive data and ensuring their customers’ privacy.
+
+Our Mission is clear. Enable the legal and ethical use of data. How we approach this mission is also clear!
+
+We are mission focused. Born out of a government mission, we understand why data is about more than just analytics - it also represents our values. Our mission is to enable the legal and ethical use of data, ensuring that data is accessible to only those who need it, for the right reasons, and in the proper form.
+We are humble intellects. We are experts in privacy, ethics, law, and engineering. But true expertise requires constant change - to always learn and to always adapt. And that means we excel as students and as teachers. We have something to learn from everyone, at any time, in any place.
+We are independent achievers. We don’t need guidance to get things done, yet we know when to ask for help. We accomplish our mission while upholding our values, whatever it takes.
+We are helpful and caring. For us, life is about the values we uphold, not the credit we receive or the attention we garner. We operate with respect and consideration of our peers, acting with empathy, honesty, transparency, and integrity.
+
+RESEARCH TEAM
+Immuta research scientists and engineers identify, plan, and perform basic research and engineer the tools needed to go from concept to prototype. They are focused on developing privacy enhancing technologies, data profiling, and risk management features within the Immuta platform. Our scientists and engineers on this team and others are world class with a drive to take on and solve cutting edge problems.
+
+YOUR ROLE
+You will work on the Research Team investigating the latest technologies and computational techniques relevant to Privacy Enhancing Technologies, and developing models to quantify how these techniques mitigate disclosure risk. Your work will focus on develop risking modeling and mitigation strategies focusing on specifically on privacy risks. Using insights developed from the risk models, you will help develop and enhance novel privacy enhancing technologies to further reduce disclosure risk.
+
+You will work closely with the Applied Data Science and Customer Success teams to understand customer use cases, usage patterns, and feedback. You’ll work closely with the Legal Engineering team to understand trends in regulations and best practices on a variety of regulatory & privacy related topics. Finally, you’ll work closely with the Product Team to ensure successful hand off and productization of research prototypes that transition to product features.
+
+WE’RE LOOKING FOR RESEARCH SCIENTISTS WHO...
+* have a strong background in their field, have a strong background in mathematics & statistics, and have a desire to apply their background to research centered on data privacy, protection, and governance,
+* are experienced in quantitative risk assessment and mitigation,
+* are outstanding problem solvers, can understand tradeoffs without becoming stuck in analysis paralysis, can tackle tough challenges with innovative thinking and determination,
+* have excellent communication skills and can effectively convey the results of investigation for productization and convey the results of analysis / investigations at conferences, in papers, and in other media such as blog posts,
+* have experience using R or Python or can easily leverage their experience with other tools to become experts in those
+
+TECHNOLOGIES YOU'LL USE
+* Immuta's Data Platform
+* Python, Pandas, PySpark
+* Various Machine Learning Frameworks
+* Snowflake
+* Databricks
+
+WE VALUE
+* Proficiency in at least one programming language and associated libraries suited to data science, preferably Python or R,
+* A strong statistics and math background
+* Experience in statistical risk management
+* Understanding of privacy and working in regulated environments
+* Independent research experience
+* Experience developing proof of concept software
+
+Immuta provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, national origin, marital status, age, disability (including disability due to pregnancy) or genetics, protected veteran status, or any other characteristic protected by law. Immuta complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment.
+
+NOTICE TO THIRD PARTY RECRUITERS: Immuta does not accept candidates from third party recruiters. All candidates submitted through are considered to be submissions by the candidate and no submission will obligate Immuta to pay any third party for the referral or hiring of a candidate.

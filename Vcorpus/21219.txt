@@ -1,0 +1,46 @@
+The Machine Learning (ML) Services team within AWS is responsible for setting the strategy and delivering machine learning services across multiple segments and requirements to AWS customers.
+
+Amazons ML services team is seeking a Senior Data Analyst to help with business intelligence and reporting initiatives. Amazon has a culture of data-driven decision-making, and demands business intelligence that is timely, accurate, and actionable.
+
+The Team operates in a fast paced environment where every day brings new challenges and new opportunities. As a Data Analyst, you will be supporting BI infrastructure to address some of the unique challenges. You will be responsible for managing consistent data flows among sources and BI platform, looking into Data Quality issues and addressing them on day to day basis. You will also be working closely with Product Managers, Software Development Managers and Finance teams to handle the growing business needs.
+
+Responsibilities
+You know and love working with business intelligence tools including Tableau, Excel spreadsheets and SQL to model multidimensional datasets, and can partner with cross-functional teams to answer key business questions. You are analytical and creative. You will also have the opportunity to display your skills in the following areas:
+· Interface with other technology teams to extract, transform, and load data from a wide variety of data sources using ETLs, PL/SQL and SQL.
+· Interface with business customers to gather requirements.
+· Understand Data Models and metadata to support ad-hoc and pre-built reporting.
+· Respond to high priority requests from business users.
+· Own the maintenance of ongoing metrics, reports, analyses and dashboards etc. to drive key business decisions.
+· Recognize and adopt best practices in reporting and analysis: data integrity, test design, analysis, validation, and documentation.
+· Write ad-hoc reporting queries.
+· Analyze and solve problems at their root, stepping back to understand the broader context.
+· Use data mining, model building, and other analytical techniques.
+· Learn and understand a broad range of Amazons data.
+· Continually improve ongoing reporting and analysis processes, automating or simplifying self-service support for secondary datasets
+
+Amazon is an Equal Opportunity-Affirmative Action Employer Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation
+
+
+
+
+
+Basic Qualifications
+
+· 7+ years of experience in relevant business domains, including data warehousing and business intelligence tools, techniques and technology, or experience in analytics, business analysis or comparable consumer analytics solutions.
+· Bachelors degree in Computer Science, Engineering, Math, Finance, Statistics or related discipline.
+· Knowledge and expertise with SQL, Oracle or OLAP. Redshift, any other databases.
+· Knowledge of data warehousing concepts.
+· Knowledge and direct experience using business intelligence reporting tools. (OBIEE, Business Objects, Cognos, Tableau, MicroStrategy, SSAS Cubes, Datanet etc.)
+
+
+
+
+
+
+Preferred Qualifications
+
+· MBA
+· Ability to understand the data and handle data quality issues and respond to customer queries.
+· Experience in using Python, R, Julia, or Matlab or other statistical/machine learning software
+· Strong communication and presentation skills
+· Experience with statistical modeling / machine learning

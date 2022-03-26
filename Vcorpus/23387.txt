@@ -1,0 +1,52 @@
+Overview
+
+Analyzes systems to determine root cause of problems and creates system work flow. Partners with and provides support to project stakeholders throughout the SDLC in understanding and clarifying the requirements under examination.
+
+Â
+
+Essential Functions / Principal Responsibilities
+Responsible for designing, documenting, implementing, maintaining and supporting highly complex or mission critical application software that is delivered on time and within budget.
+Aligns highly complex solutions with business and IT strategies.
+Ensures clarity and compliance with the organization's architectural standards and documents functional and non-functional requirements.
+Ensures clarity and inclusion of appropriate details, and strategy, in the same.
+Maintains documentation for new and existing applications.
+Works closely with customers, business analysts, developers and other team members to understand business requirements that drive the analysis and design of quality technical solutions.
+Provides subject matter expertise to project stakeholders (customers and IT) and reviews documentation of other analysts for completeness.
+On-call support for application alerts.
+Work with Incident Management / Problem Management teams for major incidents and provide the information requested.
+Analyze and resolve incidents assigned to Digital Services Support for the Insurance Self-Service application.
+Provide support for mobile application hosted in the App Store.
+Provide preliminary incident triage and troubleshooting.
+Also provide preliminary analysis to support triage work for other application integrations with the Self-Service app.
+Root Cause/solution recommendation - Analyzes defects with an eye towards finding root cause, recommending both technical and non-technical solutions.
+Open production defects in JIRA if new application failures are encountered (as a result of incidents analysis, Splunk log and New Relic error analysis).
+Provide Developer and QA support (clarifications/ discuss solutions etc).
+Deploy releases to production.
+Review the release items prior to a release to understand the functionality delivered.
+Discuss with dev/QA teams if there are questions on implementation or need data to support from an analysis perspective
+Production validation support for enterprise changes as needed.
+Support analysis requests from other application teams on a needed basis.
+Support customer service contact center team as needed.
+Create and submit Service Now change records for changes, certificate updates, DB related requests, etc.
+Dashboard creation and alert creation in Splunk and New Relic.
+Involved in the full systems life cycle.
+May lead small teams to accomplish assigned projects.
+Â
+
+Knowledge, Skills and Abilities
+
+Required
+Solid understanding of development, quality assurance and integration methodologies.
+Ability to trace given transactions through a complex system and document how systems and overlapping processes interact.
+Preferred
+Working knowledge of industry practices andÂCIENT IG'sÂpolicies and the ability to develop a clear understanding of the company's key functional processes and resources.
+Preferred Platform Experience and Certifications:
+AWS
+New Relic
+Splunk
+Ionic Mobile Framework
+Understanding of Java Development
+Education and Experience:
+Bachelor's degree in related area (Computer Science, Information Systems or other related field) or an equivalent combination of education and experience.
+8+ years System documentation experience and/or technical writing.
+Â

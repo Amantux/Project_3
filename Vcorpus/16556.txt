@@ -1,0 +1,22 @@
+Posted: May 13, 2020
+Weekly Hours: 40
+Role Number:
+200095905
+The Siri Advanced Development Group (ADG) is looking for an exceptional machine learning scientist who is passionate about incubating and deploying innovative technologies and features to millions of Apple users. As the research and development arm of Siri, ADG's charter is to prototype next generation experiences and capabilities by tightly coupling state-of-the-art core technologies, and even new hardware, to the user interface. We are an elite team looking for ambitious, strongly technical and creative thinkers, but also team players. Because of the nature of the work, you should be comfortable with uncertainty, taking calculated risks and failing fast.
+Key Qualifications
+3+ years applying machine learning methods to products, features and/or services using libraries such as GraphLab Create, scikit-learn, scipy, R, NetworkX, Spacy, and NLTK.
+2+ years applying deep learning methods using frameworks such as TensorFlow, mxnet, Torch, Caffe, and Kaldi.
+Strong background in at least one area of machine learning, such as deep learning, ASR, NLP, robotics, computer vision, gesture recognition, multimodal fusion, etc.
+Publications in research communities such as NIPS, ACL, ICML, CVPR, etc.
+Excellent algorithm and data structure skills (time and space complexity analysis, optimization, etc).
+Expertise in Python with some experience in C/C++ development.
+Demonstrated ability to quickly learn and modify large, existing code bases.
+Skill in efficiently implementing algorithms published in technical papers and/or developing new algorithms.
+Enthusiasm for continuing to learn state-of-the-art techniques in machine learning.
+Excellent interpersonal and collaboration skills.
+Description
+If hired, you will work with a passionate, product-focused team to ideate, rapidly prototype, and ship next-generation Siri experiences. To succeed, you must be a proactive and determined problem solver with proven ability to work across multiple code bases, teams and organizations. You must enjoy crafting compelling experiences, writing elegant code and applying innovative new technologies in the service of human-centered design.
+
+This position offers the right person a chance to play an important role in the next revolution in machine learning and human-computer interaction. You will contribute to a product that is redefining computing. You will be part of a team that’s creating groundbreaking conversational assistant technologies for both large scale systems and new client devices. You will work with the people who created the intelligent assistant that already helps millions of people get things done. You will be working in the Siri Advanced Development Group, at Apple.
+Education & Experience
+M.S. or Ph.D. in Computer Science, Electrical Engineering, Statistics, Physics or related fields.

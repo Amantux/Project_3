@@ -1,0 +1,44 @@
+***Please note: All hiring and recruitment at Spring Health is handled with a valid '@springhealth.com' email address only or from recruitment firms @hays.com, @oxeonpartners.com, @neptunepeople.com, @rivierapartners.com, or @swingtalent.com. If you receive a message from a sender whose domain is not @springhealth.com, please beware that those communications are not authorized or coming from Spring Health. ***
+
+Our mission: helping individuals and organizations thrive by eliminating every barrier to mental health.
+
+Spring Health is a comprehensive mental health benefit for employers. We help employees understand their mental health issues and connect with best-in-class providers to get the right treatment at the right time.
+
+We are an award-winning, passionate, and mission-driven team with the support of leaders in psychiatry, and backed by prominent VCs including Northzone, Rethink, RRE, and General Catalyst. From early detection to full recovery, Spring Health is the only clinically validated solution proven to be more effective than traditional mental healthcare. By combining the latest technology with vetted providers, we engage 1 in 3 employees, reduce recovery times, and reduce healthcare costs.
+
+We are looking for a Data Scientist to join our R&D team. You will be responsible for designing, developing, and implementing data products throughout our organization. You will collaborate with a team of engineers, designers, product managers, social workers, psychologists, and scientists.
+
+We are creating the future of mental healthcare: within your first year, you’ll discover something no human ever knew before about mental health.
+What you’ll do at Spring Health:
+Develop analytics and secure reporting approaches for a high-performing network of mental health providers
+Work with product and engineering teams to improve user acquisition, patient adherence, and clinical outcomes
+Develop data infrastructure to ingest and integrate multiple data sources, ETL, validate, and create automated reports for clients
+Design and build data deliverables across multiple contexts, such as: claims analyses/financial ROI, longitudinal treatment outcomes, provider quality, and risk stratification algorithms
+What we expect from you:
+BA/BS in Psychology, Economics, Biology, Biochemistry, or other STEM-related field.
+Fluency in R
+Strong presentation skills — fluently tell a compelling clinical or business story with data
+Strong written communication skills — quickly compose client-facing communications or publications for peer-review
+Experience with Git, Python, SQL, parallel/distributed computing, cloud computing, and other data science toolkits
+Experience or knowledge of traditional statistics, e.g. measures of central tendency, descriptive statistics, and inferential statistics
+Possess the initiative and ability to self-direct projects and solve unconventional problems
+Proximity to NYC: minimum 2 days per week in our NY HQ, max 3 days remote
+What we’d love to see:
+STEM PhD— especially in Applied Sciences (e.g. Biostatistics, Psychiatry, Psychology, Biological Sciences), or 3-4 years of equivalent data analysis experience
+Experience using any of the following data: EMR, clinical trials, claims data, longitudinal
+Demonstrated passion for, and understanding of, mental illness and broader U.S. healthcare system
+Experience programming and testing statistical/machine learning models
+Experience using data visualization techniques to present key findings
+Ability to quickly and independently pick up concepts and skills
+Experience working cross-functionally with operations, product, engineering, and design teams
+Why you’ll love working at Spring Health:
+Competitive compensation plan, including equity in the company: we want you to own a piece of what you’re building.
+Comprehensive benefits: we offer 401k, health, dental and vision benefits as well as free mental healthcare!
+World-leading science: we’re shaping the future of mental healthcare, and are at the forefront of peer-reviewed science. You’ll be the first human to discover something about how to treat mental illness.
+Flexible vacation plan: our open vacation-policy allows you to take the time off you need when you need it.
+Great people: make an impact on something that truly helps people alongside an incredible team.
+We care about diversity: diversity allows us to build an excellent patient experience. We are an equal opportunity employer and we do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+We value: humility, entrepreneurship, passion for mental health, honesty and candor/directness
+If you're interested in the role, please submit your CV/Resume via email to careers@springhealth.com, along with one code sample and one writing sample.
+
+The code samples can be in any language, and the writing sample should either be 250 words, or include a 250 word abstract. Communication skills are really important to us, and we are particularly looking for a simple, direct writing style and the ability to articulate a question and research methodology clearly.

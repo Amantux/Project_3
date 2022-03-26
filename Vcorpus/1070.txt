@@ -1,0 +1,113 @@
+Please make sure to read the job posting in its entirety as it reflects both the University roles and responsibilities, followed by the specific description.
+Department
+86755 Research Computing Center
+About the Unit
+The University of Chicago Research Computing Center (RCC), a unit in the Office of Research and National Laboratories (RNL), provides high-end research computing resources to researchers at the University of Chicago. It is dedicated to enabling research by providing access to centrally managed High Performance Computing (HPC), storage, and visualization resources. These resources include hardware, software, high-level scientific and technical user support, and the education and training required to help researchers make full use of modern HPC technology and local and national supercomputing resources. The Office of Research and National Laboratories oversees the conduct of sponsored research, research program development, multi-institutional research institutes, national laboratory board, and contract management functions. RNL supports the development and coordination of research-related communications and educational programs at The University of Chicago. RNL oversees the management of two Department of Energy contracts for Argonne National Laboratory and Fermi National Accelerator Laboratory. When combined with the Lab R&D budgets, the office oversees approximately $1.4 billion in sponsored research. RNL works closely with individual scholars, departments, and divisions to encourage, seed, and coalesce research across the University, Argonne, and Fermilab campuses.
+Job Family
+ResearchResponsible for all aspects of research projects and research facilities. Plans and conducts clinical and non-clinical research; facilitates and monitors daily activities of clinical trials or research projects. Directs engineering and technical support activities to develop and maintain tools and computational methods needed to gather and analyze data.
+Career Track and Job Level
+Research ComputingCreates research focused user interfaces web front-ends, back-end services that scale, and integrate scientific workflows that automate and accelerate the scientific output of multi-institutional collaborative projects. This role involves software development in support of research projects involving data acquisition, ingestion, and integration from heterogeneous sources (metadata extraction from a corpus of diverse data sets, both structured and unstructured data).P2: Requires knowledge and experience in own discipline; still acquiring higher-level knowledge and skills. Builds knowledge of the organization, processes and customers. Solves a range of straightforward problems. Analyzes possible solutions using standard procedures. Receives a moderate level of guidance and direction.
+Role Impact
+Individual Contributor
+Responsibilities
+The job develops software to support the data acquisition, ingestion, and integration for research projects. Assists in the development of user interfaces and scalable back-end services to automate and accelerate the scientific output of multi-institutional research projects.1) Participates in the product development life cycle, providing professional assistance to the design of front-end applications and database systems back-end schema. Analyzes high-level system specifications and makes sure that all application development standards are met., 2) Develops and presents technical training materials and web-based documentation. Ensures timely systems support and updates. Assists in conducting information security assessments and risk analysis of computing environment., 3) Evaluates past and present technologies to help develop new tools. Ensures all the new tools have been through quality control reviews., 4) With a moderate level of guidance, provides hardware, user and application level authentication and authorization. Implements modern web authentication methods such as XACML, SAML, OAuth2, Shibboleth, and LDAP directory server administration. Applies theoretical expertise and innovation to create or apply new technology, such as adapting principles for applying computers to new uses., 5) Performs other related work as needed.
+
+Job Summary
+
+The University of Chicago Research Computing Center (RCC), a unit in the Office of Research and National Laboratories, is seeking a motivated Computational Scientist-Secure Data to work closely with faculty and researchers at the University of Chicago. This position will serve as a multi-disciplinary technical expert in supporting and advising faculty on using sensitive high-end computing environments and related technologies for their research.
+
+Unit-Specific Responsibilities
+
+1) Engage the community of researchers using sensitive data at UChicago across application areas.
+2) Work closely with faculty to identify, develop, and implement useful computational methods and resources that support or advance their research.
+3) Assist faculty, researchers, and students with using resources and services available in the UChicago Secure Data Enclave (SDE) and through the UChicago Secure Research Data Strategy.
+4) Serve as a central resource and point person for RCC’s secure computing environments; assist with onboarding new users.
+5) Plan and deliver SDE training to faculty, staff, and other researchers.
+6) Develop and maintain user guides, training materials, and other documentation.
+7) Install, configure, and maintain software and tools.
+8) Ensure proper process workflows are followed, recommend data protection best practices, and ensure requirements outlined in the standard operating procedures for working with sensitive research data are followed.
+9) Evaluate new technologies and software products to determine feasibility and desirability of incorporating their capabilities within research projects.
+10) Support and contribute to research grant proposal development.
+11) Provide computational science advance technical support in your area of expertise.
+12) Perform other duties as assigned.
+
+Unit-Preferred Competencies
+1) Excellent interpersonal, verbal, written, and presentation skills.
+2) Understand and translate researchers’ scientific goals into computational requirements.
+3) Identify and gain expertise in appropriate new technologies and/or software tools.
+4) Function as part of an interactive team while demonstrating self-initiative to achieve project’s goals and Research Computing Center’s mission.
+5) Strong analytical skills and problem-solving ability.
+6) Work well with faculty and researchers.
+7) Dedicated to meeting the expectations and requirements of faculty and researchers.
+
+Education, Experience, and Certifications
+Minimum requirements include a college or university degree in related field.Minimum requirements include knowledge and skills developed through 2-5 years of work experience in a related job discipline.
+
+Preferred Qualifications
+
+Education
+
+1) PhD.
+
+Experience
+
+1) Work in a research related institution.
+
+2) Experience in high-end computing environment.
+
+Technical Skills
+
+1) Expertise with at least two of the following: C/C++, Python, R, Matlab, Julia.
+
+2) Compiling and building scientific applications.
+
+3) Job schedulers such as SLURM or PBS and ability to write shell scripts.
+
+4) Statistical and numerical methods.
+
+5) Parallel programming.
+
+6) Git and svn.
+
+7) Knowledge of best practices.
+
+8) Familiarity with data management considerations of sensitive data.
+
+9) Knowledge of data security and privacy standards.
+
+Required Documents
+
+1) Cover letter
+
+2) Resume
+
+NOTE: When applying, all required documents MUST be uploaded under the Resume/CV section of the application.
+
+FLSA Status
+Exempt
+Pay Frequency
+Monthly
+Pay Grade
+Depends on Qualifications
+Scheduled Weekly Hours
+37.5
+Benefits Eligible
+Yes
+Drug Test Required
+No
+Health Screen Required
+No
+Motor Vehicle Record Inquiry Required
+No
+Posting Date
+2020-05-27-07:00
+Remove from Posting On or Before
+2020-11-27-08:00
+Posting Statement
+
+
+The University of Chicago is an Affirmative Action/Equal Opportunity/Disabled/Veterans Employer and does not discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity, national or ethnic origin, age, status as an individual with a disability, protected veteran status, genetic information, or other protected classes under the law. For additional information please see the University's Notice of Nondiscrimination.
+
+Staff Job seekers in need of a reasonable accommodation to complete the application process should call 773-702-5800 or submit a request via Applicant Inquiry Form.
+
+The University of Chicago's Annual Security & Fire Safety Report (Report) provides information about University offices and programs that provide safety support, crime and fire statistics, emergency response and communications plans, and other policies and information. The Report can be accessed online at: http://securityreport.uchicago.edu. Paper copies of the Report are available, upon request, from the University of Chicago Police Department, 850 E. 61st Street, Chicago, IL 60637.

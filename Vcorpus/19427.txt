@@ -1,0 +1,22 @@
+Are you ready for a change? At ZT Systems, we put People First, and from day one our team members make a difference. A fast-growing key player in a multibillion-dollar market, ZT designs and builds hyperscale compute and storage solutions for the world’s largest datacenter customers. We are passionate about teamwork, and the consistent high quality of our solutions differentiates us in the minds of our customers. Here at ZT, we recognize hard work, commitment, leadership, and results, and we truly believe that behind every quality solution is a team of highly talented individuals. Join us and become part of an industry-leading team that transforms ideas into reality.
+
+About the Role
+The Solutions Engineer will manage the lifecycle of firmware used in infrastructure (chassis, racks, etc.) controllers, from design through sustaining. This engineer will be responsible for working as a member of a team of solutions and systems engineers to efficiently understand customer requirements and to participate in the design, implementation, test, and release of these products. This individual will drive evaluation and adoption of solutions enabling integration of infrastructure products into customer datacenter operations.
+
+Requirements
+•Have deep understanding of server products, including devices and technologies such as server BIOS (utilize OS level tools for changing CMOS);
+•BMC (utilize ipmi standards and OEM specific commands), RAID/HBA controllers (LSI MegaCLI/SAS2FLASH, PMC/Adaptec arcconf, Intel);
+•Intel 10GB, Mellanox Infiniband, PDUs, and deployment / management tools.
+•Knowledge of cloud / big data software stack model and knowledge of provisioning / deployment of open standard software stacks.
+•Understanding of modern network technology: Cisco Nexus, Arista, Quanta, SFP+ Twinax, Fiber Optics, Cisco CDP
+•Experience with scripting/automation languages: BASH, SQL, Expect, Python, Ruby
+•Analytic problem-solving mindset.
+•Work independently under aggressive timelines.
+•Strong ownership skills in meeting deliverables and drive issue resolution
+
+Minimum Qualifications
+•Bachelor’s degree in Electrical Engineering or Computer Engineering
+•8+ years of experience Application / System development
+•6+ years of experience in design of computer servers or associated equipment that will be deployed in racks for datacenter usage
+
+ZT Systems offers a highly competitive salary commensurate with work experience and/or education, an excellent benefits program that includes a 401(k) plan, health and dental insurance, and paid time off. We are an Equal Opportunity Employer (EOE) and do not discriminate against otherwise qualified applicants on the basis of race, color, creed, religion, ancestry, age, gender, marital status, national origin, disability or handicap, or veteran status. ZT Systems is a Drug-Free Workplace.

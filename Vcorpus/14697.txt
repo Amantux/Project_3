@@ -1,0 +1,24 @@
+Data Scientist North America CoE
+
+The Data Scientist is responsible for providing the delivery of Data and Analytics solutions to Techwave clients as part of our Data & Analytics CoE. The role will create solutions to business challenges through the use of advanced statistical analysis, data mining, and data visualization techniques.
+
+Responsibilities:
+
+Identifies the data the business should be collecting, devises methods of instrumenting the businesss system in order to extract this information
+Designs, implements, and evaluates advanced statistical models and approaches for application in the businesss most complex issues
+Conduct software development, software integration, statistical analysis, modeling, and simulations in a rapid DevOps environment.
+Deploy new data science capabilities through existing toolsets.
+Cleansing of large unstructured data and enabling analytical capability in order to query the data and address various business needs
+Takes initiative to experiment with various technologies and tools with vision of creating innovative data driven insights for the business at the quickest pace possible.
+Staying on top of the industrys trends, in order to provide forward-thinking recommendations
+.
+
+Requirements:
+
+Ph.D. or Masters with experience in any mathematical sciences
+Strong programming skills and experience working with tools such as R, Python Programming, Open Source, visualizations, and so forth.
+Demonstrated skills in SQL server reporting services, analysis services, integration services, Tableau, or other data visualization tools.
+Strong skill in statistical techniques inclusive of cluster-analysis test design, regressions, and forecasting methodologies as well as substantial familiarity in big data and standardizing and A/B testing.
+Experience cleaning labeled data in preparation for use in machine learning
+Ability to create parallel processing operations by managing the number of processors used in an operation given memory limitations
+Knowledge of cloud based data platforms such as Snowflake, Redshift, BigQuery etc..

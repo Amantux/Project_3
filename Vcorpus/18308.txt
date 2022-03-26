@@ -1,0 +1,75 @@
+The Data Modeler Architect is responsible for strategic understanding and documenting of existing corporate data and related applications as well as the tactical design and integration of new foundational, highly-shared Health payer domain data.
+
+The Data Modeler Architect is responsible for creation and maintenance of artifacts related to information architecture including Architectural Diagrams, Data Flow Diagrams, and Conceptual, Logical and Physical Data and or Process Models.
+
+Assists in near/mid-term roadmap creation, to address gaps and move towards future state architecture to support growth, optimization and innovation.
+
+Creates visual representations of the people, places and things of interest to a business. Facilitates communication between business people and technical people. Documents the data concepts / data blueprint that must be communicated and agreed upon.
+
+Designs data interfaces between systems, and the infrastructure that will support common data operations. Creates a formal process for managing the flow of data and how it is processed across the Enterprise.
+
+QUALIFICATIONS
+
+Required Work Experience
+3 years' experience in modeling including Conceptual, Logical, and Physical data and process modeling (Level 1)
+2 years end to end experience evolving data and process models from initiation to physical implementation (Level 1)
+2 years' experience in mapping data integration and data architecture (Level 1)
+5 years' experience in modeling including Conceptual, Logical, and Physical data and process modeling (Level 2)
+3 years end to end experience evolving data and process models from initiation to physical implementation (Level 2)
+3 years' experience in mapping data integration and data architecture (Level 2)
+Required Education
+Associate's degree in Computer Science, Information Systems, Engineering or a related field (All Levels)
+Required Job Skills (Applies to All Levels)
+A proven track record of using technology to capitalize on business opportunities and deliver projects on time and on budget consistently.
+Proven experience in documenting business processes and creating system designs using process flow diagram tools, data modeling tools (ERWIN or E/R Studio), sequence diagrams, etc.
+Understands and resolves highly complex large scale or systems level problems. Able to quickly and efficiently troubleshoot such problems utilizing team resources to coordinate solutions
+Strong leadership, partnership, collaboration and team building skills.
+Ability to apply verbal, written and persuasive communication skills to influence others both individually and groups.
+Proficient in utilization of audio/visual tools to effectively present to groups and capable of presenting technical information to other functions or groups both inside and outside of the organization
+Collaborate closely with business stakeholders and development teams to ensure the architecture and design is usable, maintainable, scalable, reliable, extensible, secure, portable and functional.
+Understand, advocate and augment the standards, best practices and architectural principles that guide solution decisions, development environments, tools, and deployment procedures for the enterprise.
+Strong self-starter, motivated, enthusiastic, risk taker, innovative, and customer service oriented with a record of success.
+Excellent organizational and planning skills.
+Ability to cope with the rapid pace and constant change associated with the industry.
+Ability to successfully manage numerous projects simultaneously.
+Ability to communicate effectively, both oral and written, with internal and external contacts.
+Strong understanding of infrastructure architecture and security architecture concepts.
+Strong command of database design concepts
+Understanding of NoSQL, Relational, Columnar and Graph database platforms
+2. Required Professional Competencies (Applies to All Levels)
+Proven expertise in the following disciplines: enterprise data architecture, enterprise process modeling, data profiling and analysis, enterprise conceptual, logical, and physical data modeling, dimensional data modeling, and their respective usage.
+Requirements gathering and analysis for all project data objects. In addition to the requirements and analysis, ability to model for extensibility over time.
+Ability to ascertain system of record nuances and data relationships with minimal assistance.
+Ability to profile data and ascertain data quality issues.
+Ability to reverse engineer a database schema and provide logical relationships when RI is not present in the DBMS
+Highly organized, self-motivated, competent and shows initiative
+Ability to work as a project team member, learning the nuances of the business data domain with little assistance
+Strong data integration skills needed for disparate data source rationalization
+Strong interpersonal, communication (written and verbal), influencing, and negotiation skills with all levels of the organization
+Understanding the data artifact deliverables needed during the lifecycle of a project, e.g. during the lifecycle of a project, when do conceptual, logical or physical documentation need to be completed, reviewed, and approved.
+Interpersonal skills necessary to work across multiple teams and disciplines focusing on data requirements, and data services to produce optimal solutions
+Strong analytical skills to support independent and effective decision-making
+Ability to prioritize tasks and work with multiple priorities, sometimes under limited time constraints
+Solid technical ability and problem solving skills
+Ability to be self-aware and emotionally intelligent, able to give and receive constructive feedback and continue self development
+3. Required Leadership Experience and Competencies
+Provide leadership, promote teamwork, and act collaboratively to meet objectives (Applies to Levels 2)
+Experience leading teams and implementing projects with both business and technical participants (Applies to level 2).
+Ability to prioritize tasks and work with multiple priorities, sometimes under limited time constraints. (Applies to All Levels)
+Ability to build consensus with a diverse team in an ever-changing environment. (Applies to All Levels)
+PREFERRED COMPETENCIES
+Preferred Job Skills (Applies to All Levels)
+Expert knowledge designing highly redundant, scalable, multi-tier enterprise transaction processing data models
+Experience utilizing a Master Data Management tool such as Profisee Maestro.
+Experience working in an agile development environment
+Experience with one or more of the following data modeling tools: ER/Studio, ERWin, or Power Designer
+Experience with healthcare and health plan data and data structures
+Knowledge of HIPAA security and privacy standards
+Experience with Cloud data technologies (eg. Talend, Azure DB, Cosmos DB and Snowflake).
+2. Preferred Professional Competencies (Applies to All Levels)
+
+a. Ability to work with ambiguous and conflicting information while keeping focus on achieving the end goal.
+
+3. Preferred Leadership Experience and Competencies (Applies to Level 2)
+
+a. Ability to provide mentoring and peer review to junior team members

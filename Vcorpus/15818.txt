@@ -1,0 +1,39 @@
+Company:
+Qualcomm Technologies, Inc.
+Job Area:
+Engineering Group, Engineering Group > Systems Engineering
+Job Overview:
+
+
+Qualcomm is a company of inventors that unlocked 5G ushering in an age of rapid acceleration in connectivity and new possibilities that will transform industries, create jobs, and enrich lives. But this is just the beginning. It takes inventive minds with diverse skills, backgrounds, and cultures to transform 5Gs potential into world-changing technologies and products. This is the Invention Age - and this is where you come in.
+
+Qualcomm's Chip Architecture team of systems engineers, hardware and software architects are driving analysis and defining next-generation architectures for our system-on-chip (SoC) products for mobile, automotive and other product categories. We are looking for talented people to join our team.
+
+Responsibilities:
+Design and develop C++ component models for IP blocks.
+Integrate component models into SoC models.
+Develop unit test and integration tests for component models and SoCs as per specification
+Create platform integration test plans and test cases
+Verify the correct operation of component and platform models
+Create platform configuration and test scripts
+Investigate failure cases and help resolve issues
+Develop tools and automation flows
+Support continuous integration
+Release management and developer support
+Minimum Qualifications
+Bachelor's degree in Engineering, Information Systems, Computer Science, or related field.
+2+ years Systems Engineering or related work experience.
+
+Preferred Qualifications
+MS or PHD Degree. New Grads welcome to apply!
+Understanding of hardware or software development process and tools
+System Debugging skills
+Experience in SystemC and Transaction Level Modeling techniques
+Programming languages: C++, Python, Linux shell scripting
+Excellent written and verbal communication skills
+Ability to work in collaborative team environment
+Applicants: If you are an individual with a disability and need an accommodation during the application/hiring process, please call Qualcomm’s toll-free number found here for assistance. Qualcomm will provide reasonable accommodations, upon request, to support individuals with disabilities to be able participate in the hiring process. Qualcomm is also committed to making our workplace accessible for individuals with disabilities. Qualcomm is an equal opportunity employer and supports workforce diversity.
+
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Qualcomm. Staffing and recruiting agencies and individuals being represented by an agency are not authorized to use this site or to submit profiles, applications or resumes, and any such submissions will be considered unsolicited. Qualcomm does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to our jobs alias, Qualcomm employees or any other company location. Qualcomm is not responsible for any fees related to unsolicited resumes/applications.
+
+EEO Employer: Qualcomm is an equal opportunity employer; all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or any other protected classification.

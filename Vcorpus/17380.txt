@@ -1,0 +1,44 @@
+About Us
+
+Would you like to be part of a team focused on helping customers in a "once in a generation" shift to the cloud and AWS. NorthBay is a 300 person fast growing AWS Cloud-based Professional Services firm helping customers build solutions for data platforms and analytics, ML/Ai, DevOps, Database Migrations and custom application development and modernization. Do you have the business savvy and the technical background necessary to help grow NorthBay as a key technology provider to the Enterprise?
+
+Summary
+
+NorthBay is seeking technically savvy Senior Big Data Engineer to implement solutions for our customers working with our offshore engineering team. In this role, you will collaborate with NorthBay customers, some working onsite, understand requirements and needs, translate into specifications to develop solutions, drive work with offshore engineering teams, and deliver solutions and results to the customer. This includes assessing customer needs, re-engineering business intelligence processes, designing and developing data models, and sharing your expertise throughout the deployment process.
+Responsibilities Include but Not Limited to:
+Possess In depth knowledge and hands on development experience in building Distributed Big Data Solutions including ingestion, caching, processing, consumption, logging & monitoring) (Must Have)
+Strong Development Experience in either one of the Distributed Big Data processing (bulk) engines preferably using Spark on EMR or related (Must Have)
+Strong Development Experience on at least one or more event driven streaming platforms prefer Kinesis, Firehose, Kafka or related (Must Have)
+Strong Data Orchestration experience using tools such has AWS Step Functions, Lambda, AWS Data Pipeline, Apache Airflow or related (Must Have)
+Assess use cases for various teams within the client company and evaluate pros and cons and justify recommended tooling and component solution options using AWS native services, 3rd party and open source solutions (Must Have)
+Strong experience on either one or more MPP Data Warehouse Platforms prefer AWS RedShift, PostgreSQL, Teradata or similar (Must Have)
+Strong understanding and experience with Cloud Storage infrastructure and operationalizing AWS based storage services & solutions prefer S3 or related (Must Have)
+Strong technical communication skills and ability to engage a variety of business and technical audiences explaining features, metrics of Big Data technologies based on experience with previous solutions (Must Have)
+Strong Data Cataloging experience preferably using AWS Glue (Nice to Have)
+Strong Development Experience on at least one NoSQL OR Document databases (Nice to Have)
+Experience on at least one or More Ingestion Integration tools Like Apache NIFI or Streamset or related (Nice to Have)
+Strong Development Experience on at least one Caching Tools like Redis, Lucene, Memcached (Nice to Have)
+Strong Understanding and experience in Big Data Audit Logging and Monitoring solutions (Nice to Have)
+Strong Understanding of at least one or more Cluster Managers (Yarn, Hive, Pig, etc) (Nice to Have)Interface with client project sponsors to gather, assess and interpret client needs and requirements
+Advising on database performance, altering the ETL process, providing SQL transformations, discussing API integration, and deriving business and technical KPIs
+Develop a data model around stated use cases to capture client’s KPIs and data transformations
+Assess, document and translate goals, objectives, problem statements, etc. to our offshore team and onshore management
+Document and communicate product feedback in order to improve user experience
+
+Qualifications:
+
+5+ years of AWS Solutions implementation, professional services experience, prefer Data Analytics space.
+A passion for exploring data and extracting valuable insights.
+Proven analytical, problem solving, and troubleshooting expertise.
+Proficiency in SQL, preferably across a number of dialects (we commonly write MySQL, PostgreSQL, Redshift, SQL Server, and Oracle).
+Exposure to developer tools/workflow (e.g., git/github, *nix, SSH)Experience optimizing database/query performance.
+Experience with AWS ecosystem (EC2, S3, RDS, Redshift).Experience with business intelligence tools with a physical model (e.g., MicroStrategy, Business Objects, Cognos).Experience with data warehousing.
+Exposure to NoSQL-based, SQL-like technologies (e.g., Hive, Pig, Spark SQL/Shark, Impala, BigQuery)
+Excellent verbal and written communication skills
+Ability to travel up to 70-80%
+
+Education and Experience:
+
+Bachelor’s Degree in Computer Science or Equivalent
+Minimum five years of Big Data Engineering on AWS experience
+This position can be located in Boston or Virginia or NC or Columbus or Cincinnati, OH or Detroit or NY or NJ.

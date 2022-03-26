@@ -1,0 +1,22 @@
+We are looking for a Data Engineer to join our growing team of enterprise data experts. The hire will be responsible for the development, architecture, administration, testing, support, project management, and governance of data integrations and APIs. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up. The Data Engineer will define and build data pipelines that will enable faster, better, data-informed decision-making within the business. They must be self-directed and comfortable supporting the data needs of multiple teams, systems and products. The right candidate will be excited by the prospect of optimizing or even re-designing our company’s data architecture to support our next generation of products and data initiatives.
+
+Responsibilities
+Contribute in each phase of enabling data analytics e.g. collection, processing, governance, etc. of the data.
+Design, develop and support ETL mappings using tools like Oracle Data Integrator and Mulesoft for the business integration needs.
+Build and deliver high quality data architecture to support business analysis and customer reporting needs.
+Interface with other teams to extract, transform, and load data from a wide variety of data sources.
+Write optimized SQL statements for data extraction, performance optimization and integration.
+Basic Qualifications
+Demonstrated strength in data modeling, ETL development, and Data warehousing.
+Hands-on experience orchestrating integration use cases involving multiple systems and complex business logic binding in the system, processes, and RESTful APIs.
+Ability to work in multiple programming languages such as Python, Java, SQL etc.
+Proven success in communicating with users, other technical teams, and senior management to collect requirements and describe data modeling decisions and data engineering strategy.
+Knowledge of software engineering best practices across the development lifecycle, including agile methodologies, coding standards, code reviews, source management, build processes, testing, and operations.
+Project management and organizational skills.
+We are looking for a candidate with 3 years of experience in a Data Engineer role, who has attained a Graduate degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field.
+Nice to Have
+Experience with big data tools and distributed systems such as Hadoop, Spark, Kafka, etc.
+Experience with Cloud implementations with major providers (GDC, AWS, Azure, etc.).
+Experience of Business Intelligence (BI) tools such as Tableau, Power BI or QlikView.
+Exposure to and/or interest in machine learning and data science specifically to help solve day-to-day problems and reach objectives in an innovative way.
+Comfortable working in a Linux environment.

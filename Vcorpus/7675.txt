@@ -1,0 +1,55 @@
+Protect My Car has an exciting career opportunity for a motivated, detail-oriented data scientist. PMC is building out a small team of talented professionals with demonstrated ability to conduct rigorous statistical analysis and apply machine learning techniques to uncover actionable insights and drive key business decisions. This high-impact role will interface regularly with executive stakeholders in a multidisciplinary, collaborative team environment. Data science products include predictive models, computational notebook reports, and interactive dashboards drawing from a diverse data warehouse encompassing customer demographic, marketing, billing, claims, call center, and automotive data sets.
+
+Responsibilities:
+
+ Develop, test, and deploy machine learning models
+
+ Perform ad-hoc business analyses and generate informative reports using Python within computational notebooks
+
+ Develop business intelligence dashboards and web applications
+
+ Team collaboration including code reviews, project support, and cross-training
+
+ Engage with stakeholders to identify, prioritize, develop, and deliver data science products
+
+Preferred Experience:
+
+ 1-3 years designing, testing, and deploying supervised machine learning models
+
+ 1-3 years performing statistical data analysis using R or Python
+
+ 1-3 years writing SQL queries to clean, collect, and summarize data
+
+ 1-3 years producing interactive business intelligence dashboards or web applications
+
+ 1-3 years performing project-based analytics work in an Agile environment
+
+ Demonstrated experience generating and communicating business insights to executive stakeholders (i.e., storytelling with data)
+
+ Experience with Natural Language Processing and deep learning frameworks
+
+Tools and Technology:
+
+ Dashboarding software (e.g., Looker, Microsoft Power BI, Tableau)
+
+ Computational notebooks (e.g., Jupyter, R Markdown, Databricks)
+
+ Distributed computing (e.g. PySpark, Dask)
+
+ Project management (JIRA, Airtable)
+
+ Git-based version control
+
+ Containerization (Docker)
+
+Education:
+
+Bachelor’s Degree in either Computer Science or a quantitative field (Statistics, Economics, etc.)
+
+Industry Background Preferences:
+
+Marketing Analysis, Insurance, Automotive Warranty, BI Consulting
+
+Protect My Car is one of the nation’s leading providers of extended vehicle service contracts. The company’s extended coverage plans are ideal for consumers with cars less than 10 years old and with fewer than 150,000 miles, and whose manufacturer’s warranty has expired or will soon expire. Consumers with vehicles older than 10 years, or with more than 150,000 miles, can take advantage of Protect My Car’s “Ambassador” line of policies, which include 24/7 roadside assistance, rental car reimbursement and repair bill savings of at least 50 percent. All of Protect My Car’s policies are offered with a “Free Look” trial period. If a new customer is not completely satisfied, they can contact Protect My Car’s Customer Service Department within 30 days and receive a full refund of their down payment.
+
+https://protectmycar.com/

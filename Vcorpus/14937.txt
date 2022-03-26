@@ -1,0 +1,32 @@
+Â
+
+Role: Data Scientist
+
+Location â Phoenix AZ
+
+Position â Fulltime/Permanent
+
+Â
+
+Details:
+
+Job Description: Looking for Data Scientist having experience in developing and operationalizing AI/ML models. The ideal candidate should have strong programing experience in Python and Spark..
+
+Responsibilities:
+Perform data modelling using advanced statistical analysis, unstructured data processing and developing predictive models.
+Implement statistical and data mining techniques e.g hypothesis testing, machine learning and retrieval processes on a large amount of data to identify trends, patterns and other retrieval information.
+Implement different machine learning techniques: Generalized Linear and Non- Linear models, Time Series Analysis, Random Forest, Gradient Boosted Machines, Text Mining, Deep Learning, Neural Networks, Supervised and Unsupervised methods using python and spark.
+Lead the development of high -performance algorithms for predictive analytics, Testing and implementing these algorithms in scalable, product-ready code
+Work with machine learning frameworks such as Scikit-Learn, H2O, Keras, TensorFlow.
+Perform model evaluation, tuning and performance and scalability of scientific techniques and communicate the findings
+Technology Skillset required:
+Python
+Spark
+Pyspark
+HIVE
+SQL
+Good to have
+Neural Networking
+H2O
+Keras
+TensorFlow

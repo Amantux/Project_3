@@ -1,0 +1,27 @@
+We are seeking a talented data specialist to join our highly motivated and innovative Data Engineering team, your efforts will be critical to the success of our client's global trading businesses. You will be responsible for the following:
+Curate massive amounts of data for thousands of different tradable instruments, including stocks, bonds, futures, contracts, commodities, and more;
+Perform manual steps and develop programs and processes to ensure the completeness and integrity of financial reference datasets;
+Collaborate with team members to design and develop reliable data pipelines that produce high quality datasets;
+Help drive continuous improvements to data quality procedures and a consistent approach to how data quality is measured, monitored and reported;
+Create systematic and automated processes and tools that allow the team to scale and rapidly onboard new datasets;
+Be part of a team to support the data used by production trading algorithms.
+Basic Qualifications:
+A bachelor's degree with a strong academic record, which includes university coursework in programming and computing systems
+Prior professional experience in an environment that prioritized data quality
+Experience in UNIX/LINUX and Windows environments.
+An understanding of the software development process and exposure to hands-on coding in a professional environment
+Experience with SQL and working with a relational database system, such as Microsoft SQL Server.
+Proven problem-solving and analytical abilities including pattern detection, root cause analysis, and issue resolution
+Strong communication skills
+Able to work in an evolving and fast-paced environment and adjust to multiple priorities and timelines
+Preferred Qualifications:
+While financial industry experience is a plus, we are open-minded in our search for critical thinkers who are passionate about technology and data.
+Experience with Python (and/or Java)
+An understanding of how to design and develop effective data quality tests and measures
+Relevant experience in data operations, with proven process improvement skills
+Experience documenting business processes and workflows
+Andiamo is an Equal Opportunity Employer
+
+Andiamo provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Andiamo complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+All qualified candidates are encouraged to apply by submitting their resume as an MS word document including a cover letter with a summary of relevant qualifications, highlighting clearly any special or relevant experience.

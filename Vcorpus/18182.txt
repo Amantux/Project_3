@@ -1,0 +1,40 @@
+Job Description
+Data Engineer– Emphasis on Elasticsearch / Kafka / JSON / XML
+
+The Opportunity:
+
+We are looking for a Data Engineer based in Phoenix Az with 2-3 years software engineering experience.
+
+You'll be developing and deploying tools for the processing and import/export of data into and out of large scale Elasticsearch and Kafka environments.
+
+The Day to Day:
+Work to customer requirements for the import and export of data into various formats
+Develop tools to automate this processing on a regular basis
+Build back-end frameworks that are maintainable, flexible and scaleable
+Work with the core Teraslice development and DevOps team to enhance our data processing platform
+Requirements:
+2-3 years of programming experience in Javascript (Node.js), Python, Ruby or Go
+Experience working with any of Elasticsearch, Kafka, Hadoop (HDFS, Hive, Spark), MongoDB, MySQL or PostgreSQL
+Strong preference for Elasticsearch experience
+Experience working with data in JSON, XML and CSV data formats
+Comfort doing development work on the Linux platform
+Exposure to compute clusters and working with many terabytes of data
+US Citizenship / Work Authorization
+Bonus Points:
+Operational experience with Hadoop, MongoDB, Redis, Cassandra, or other distributed big data systems
+Mac OS X familiarity
+BS or MS in a technology or scientific field of study
+High energy level and pleasant, positive attitude!
+Evidence of working well within a diverse team
+Compensation:
+Salary commensurate with experience, generally higher than competitive industries
+Comprehensive benefits package
+Opportunities for advancement and a clear career path
+Relocation assistance provided (if required)
+About Us:
+
+Terascope provides software and technical services to assist companies deploying Elasticsearch at scale. We assist customers with design, development and operations and through our Open Source efforts are developing the Teraslice distributed processing platform for working with data stored in Elasticsearch and Kafka.
+
+Powered by JazzHR
+
+PzsSBHiFSF

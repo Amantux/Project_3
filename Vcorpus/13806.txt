@@ -1,0 +1,38 @@
+MongoDB is the leading modern, general purpose database platform, designed to unleash the power of software and data for developers and the applications they build. Developers around the world are using MongoDB to build software to create new businesses, modernize existing businesses, and transform the lives of millions of people around the world.
+
+Headquartered in New York, with offices across North America, Europe, and Asia-Pacific, MongoDB has more than 15,000 customers, which include some of the largest and most sophisticated businesses in nearly every vertical industry, in over 100 countries.
+
+MongoDB is growing rapidly and seeking a Data Engineer to be a key contributor to the overall internal data platform at MongoDB. You will build data driven solutions to help drive MongoDB's growth as a product and as a company. You will take on complex data-related problems using very diverse data sets.
+
+Our ideal candidate has experience with
+several programming languages (Python, Scala, Java, etc.)
+data processing frameworks like Spark
+streaming data processing frameworks like Kafka, KSQ, and Spark Streaming
+a diverse set of databases like MongoDB, Cassandra, Redshift, Postgres, etc.
+different storage format like Parquet, Avro, Arrow, and JSON
+AWS services such as EMR, Lambda, S3, Athena, Glue, IAM, RDS, etc.
+orchestration tools such as Airflow, Luiji, Azkaban, Cask, etc.
+Git and Github
+CI/CD Pipelines
+You might be an especially great fit if you
+Enjoy wrangling huge amounts of data and exploring new data sets
+Value code simplicity and performance
+Obsess over data: everything needs to be accounted for and be thoroughly tested
+Plan effective data storage, security, sharing and publishing within an organization
+Constantly thinking of ways to squeeze better performance out of data pipelines
+Nice to haves
+You are deeply familiar with Spark and/or Hive
+You have expert experience with Airflow
+You understand the differences between different storage formats like Parquet, Avro, Arrow, and JSON
+You understand the tradeoffs between different schema designs like normalization vs. denormalization
+In addition to data pipelines, you're also quite good with Kubernetes, Drone, and Terraform
+You've built an end-to-end production-grade data solution that runs on AWS
+You have experience building machine learning pipelines using tools likeSparkML, Tensorflow, Scikit-Learn, etc.
+Responsibilities
+
+As a Data Engineer, you will:
+Build large-scale batch and real-time data pipelines with data processing frameworks like Spark on AWS
+Help drive best practices in continuous integration and delivery
+Help drive optimization, testing, and tooling to improve data quality
+Collaborate with other software engineers, machine learning experts, and stakeholders, taking learning and leadership opportunities that will arise every single day
+*MongoDB, Inc. provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.*

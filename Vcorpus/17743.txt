@@ -1,0 +1,29 @@
+Position Overview
+
+We are looking for a Senior Software Engineer with experience all things Big Data! In this role, you will work closely with cross-departmental resources to meet requirements imposed by both Data Scientists and other Software Engineers collecting, parsing, analyzing and visualizing large sets of data. You also will set a lot of best practices for ETL processes, and data quality.
+
+Responsibilities and Job Duties
+Design, architect, and implement custom data pipelines streaming large amounts of sensor and location data.
+Identify the best technology stacks to enable production grade live data processing.
+Work alongside data scientists to ensure data is processed correctly and efficiently.
+Attend daily stand-ups led by TPM.
+Write clean testable code.
+Minimum Qualifications
+6+ years of hands-on experience in “big-data” technologies in a Hadoop environment.
+BS or MS in Computer Science or a related degree.
+Hands-on experience and strong proficiency with either Python, Scala, or Java.
+Familiarity with software engineering practices for the full software development life cycle, including coding standards, code reviews, source control management, agile development, build processes, testing, and operations.
+A deep understanding of the fundamentals of distributed data processing, data modeling, and ETL.
+Ability to extract data from multiple data sources and load them into a centralized data warehouse to facilitate unified reporting.
+Desired Experience:
+Hands-on experience with working with Spark or Storm.
+Hands-on experience with Hive and HBase.
+Experience creating and ingesting data streams with Apache Kafka or similar pub/sub message systems.
+Experience in determining testing strategy and execution of test cases.
+About Beyond Limits
+
+Beyond Limits is a pioneering Artificial Intelligence company with a technology legacy in Space Exploration. A spinoff of NASA's Jet Propulsion Lab and Caltech, Beyond Limits provides advanced intelligence solutions that go far beyond conventional AI. Our cognitive computing technology mimics human thought processes and provides autonomous reasoning to aid human-like decision-making.
+
+Beyond Limits provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Beyond Limits complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+Beyond Limits expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status. Improper interference with the ability of Beyond Limit’s employees to perform their job duties may result in discipline up to and including discharge.

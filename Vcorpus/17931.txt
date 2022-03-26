@@ -1,0 +1,35 @@
+Are you interested in building the future of healthcare and transforming the patient experience? Are you hopeful about what data and medical research can do to improve medicine? We’re looking for a Senior Data Engineer to ensure PatientIQ remains on the forefront of using data to drive positive healthcare outcomes.
+
+As a core member of the Analytics department, you will be in a dynamic environment that is actively building the future versions of our automated data science platform - Analytics Autopilot. In addition, our team often works cross-functionally with the Engineering, Product, and Sales departments as PatientIQ scales its business. Your work will involve coming up with new software features, defining metrics, streamlining existing data processes, and mentoring other team members. We heavily value diligence, curiosity, and initiative, as those are key to unlocking the value of PatientIQ's data for our users and our decision-making. Your work will be impactful across the entire organization.
+
+Role Responsibilities
+Design, develop, and maintain ETL infrastructure to support the ingestion of external data sources
+Work on a cross-functional team to design, develop, and maintain PatientIQ's internal reporting infrastructure
+Understand data requirements and implement solutions for data science applications
+Perform unit and integration testing
+Mentor junior team members
+Help scale PatientIQ's data strategy as the platform and business grows
+Requirements
+
+Ideal Qualifications
+Experience designing, building, and maintaining ETL infrastructure in a production setting
+BS/MS in Computer Science, Engineering, Mathematics, or related field
+Proficient in Python or another object oriented programming language
+Deep knowledge of SQL and at least one database technology
+Experience with software development lifecycle processes and using version control systems (git), either from prior data engineering work or in a more traditional software engineering setting
+Highly self-motivated with strong analytical problem-solving skills and attention to detail
+Nice to Haves
+Experience with workflow management systems such as luigi or airflow
+Experience in machine learning and/or business intelligence
+Experience with cloud technologies such as AWS, Google Cloud Platform, or Azure
+Experience with ETL tools like Apache Kafka, Logstash, Segment, Informatica
+Experience with automated machine learning technologies such as Amazon SageMaker or Google Cloud AutoML
+Experience with cloud data warehouse platforms such as Snowflake, Qubole, etc.
+Experience working in Healthcare, Finance or another regulated industry
+Benefits
+Great Benefits - top-notch health, dental and vision insurance. Additional perks available including 401K.
+We are Mission Driven - our team is motivated to solve complex problems, drive medicine forward, and ultimately improve patient outcomes.
+True Idea Meritocracy - great ideas win out. We encourage all team members to challenge the status quo because our mission demands this.
+Flexible Time Off - we trust you to take the time you need when you feel it is appropriate, given your workload and responsibilities. No need to track it or save up.
+World-Class Team - we’re at the top of our industry because of our employees. They’re the best investment we can make, and we never forget that.
+Fast Growing - we are building the largest platform for healthcare providers, industry partners, researchers, and others to collaborate on the mission to improve patient outcomes.

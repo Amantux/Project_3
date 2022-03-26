@@ -1,0 +1,29 @@
+We are looking for a data engineer to manage and further build out our data infrastructure pipelines and data visualizations. The work will support core business decisions and models that serve as the basis for core product and growth strategy. Candidates should be able to choose the right tool for the job and learn how to use it if they don’t know how to already. Candidates should prioritize robustness, scaling considerations, and simplicity in architecture decisions.
+
+Requirements
+
+You have at least 2 years in industry. You are experienced with:
+
+- SQL (Postgres in particular)
+
+- Python
+
+- Redis
+
+- AWS
+
+- Periscope or Looker
+
+Optional Skills and Experience:
+
+We will prioritize candidates that have the following additional experience:
+
+- Experience with Segment or another CDP
+
+- Familiarity with Node
+
+- Machine learning
+
+- Data visualization, web and/or mobile (eg, D3.js)
+
+- Spark, Hadoop, or Hive

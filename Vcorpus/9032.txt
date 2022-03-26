@@ -1,0 +1,41 @@
+About Datadog:
+
+We're on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale—trillions of data points per day—providing always-on alerting, metrics visualization, logs, and application tracing for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.
+
+The team:
+
+The Internal Analytics Platform team’s mission is to provide all teams at Datadog with data and analytics about our business, operations and product usage.
+
+The opportunity:
+
+As a Data Scientist for the Internal Analytics Platform team, you will be working on problems that have a strong data engineering component where scale is a major factor. You can expect the position to be a split of between 60% data engineering and 40% model building and quantitative methods.
+
+You will:
+
+Create predictive algorithms for improving operations around the company and increasing product engagement
+
+Apply machine learning and other quantitative methods to revenue and growth metrics
+
+Conduct A/B testing for new designs and products to drive engagement and improve discoverability in our application
+
+Utilize quantitative methods to improve our marketing automation and audience segmentation
+
+Collect data from a wide range of sources: AWS S3, Redshift, PostgreSQL, and various APIs
+
+Build data analytics pipelines using Spark, Luigi, and other open-source technologies, with programming languages like Scala, Python, and SQL
+
+Requirements:
+
+You have experience with tools such as Luigi, Spark, Scala, Python, Pandas, and Redshift
+
+You have 2+ years of work experience in building production data engineering pipelines
+
+You have backend programming experience in one or more languages
+
+You have significant experience applying machine learning to real business problems
+
+You want to work in a fast, high-growth startup environment and thrive on autonomy
+
+You care about code simplicity and performance
+
+You have a BS/MS/PhD in a scientific field or equivalent experience

@@ -1,0 +1,37 @@
+The Department of Ophthalmology at Stanford University School of Medicine is seeking a highly motivated, hard-working andprofessional Data Scientist to facilitate research efforts in ophthalmology. The incumbent will be part of the Department of Ophthalmology; however, the position will be in a collaborative environment, engaging with other Stanford faculty and staff across multiple departments, including Biomedical Data Science, Research IT, and Research Informatics Center. The incumbent will work with a combination of structured and unstructured (text, imaging) data from several sources, including the ophthalmology IRIS (Intelligent Research In Sight) national clinical data registry, Stanfords STARR and STARR-OMOP clinical research databases, commercial and Medicare claims data, national survey data, and other sources. The position will require an incumbent who is comfortable working with some independence; consulting with and advisinginvestigators to refine research questions, define hypotheses and project objectives, design studies and devise analysis plans; and working with project team membersincluding clinicians, trainees, and other statisticians/informaticiststo implement analysis plans and publish findings. The incumbent must be proficient at balancing involvement in multiple simultaneous projects and prioritizing to manage competing priorities. The incumbent will work closely with others to interrogate databases to create analytic files, perform quality control and data cleaning, and manage and analyze data. The incumbent must be an excellent and timely communicator, able to present results in oral and written form to clinical investigators. Duties include:
+Work directly with investigators and independently identify appropriate data analytic approaches; assist in study design and proposal development
+Create analytic files with detailed documentation. Prepare data for analysis by cleaning, identifying cohorts, reshaping data, creating new variables, merging multiple data tables, creating and maintaining new databases as needed.
+Implement data analyses using predictive modeling approaches (machine-learning, deep-learning), or inferential statistical methods as appropriate to the project
+Develop reusable and well-documented code for all projects, that can be maintained in a repository (e.g. GitHub) for collaborative use
+Quickly learn new skills as needs arise, such as new programming or statistical packages
+Communicate and present results for investigators using graphs and tables.
+Develop oral and written dissemination of findings for conference presentations and peer-reviewed journal articles.
+* - Other duties may also be assigned DESIRED QUALIFICATIONS:
+Strong background in machine learning, biostatistics, and bioinformatics
+Willing and eager to learn new skills
+Experience with large datasets and database use
+Experience with analysis of real-world observational health data (e.g., electronic medical records, insurance claims)
+Manipulation and analyses of complex high-dimensional data
+Ability to perform careful data cleaning and preparation, including: identifying and handling data discrepancies, duplicates, missing values, etc; developing cohorts of patients based on inclusion and exclusion criteria, such as those based on billing code diagnoses, age or other demographics, length of follow-up, or other characteristics; creating new variables, including coding relevant outcomes, combining sparse variables, normalizing/standardizing variables; merging datasets on multiple key values; reshaping data from long to wide or vice versa as the befits the analysis needs; loading data into analysis programs, saving data into different file formats
+Experience with at least 2 of the following: 1) Machine learning predictive models (gradient boosted trees, random forest etc.); 2) Deep learning neural networks, transfer learning; 3) Hierarchical/multilevel modeling, propensity score matching/weighting
+Experience with free-text data (e.g., natural language processing) is a plus, or else willingness to learn
+EDUCATION & EXPERIENCE (REQUIRED):Master\'s degree in biostatistics, statistics or related field and at least 3 years of experience.
+KNOWLEDGE, SKILLS AND ABILITIES (REQUIRED):
+Proficient in at least two of R, SAS, SPSS, or STATA for statistical analyses and visualization.
+Proficient in SQL
+Python experience or willingness to learn quickly, including packages such as Jupyter Notebook, matplotlib, pandas, scikit-learn, tensorflow/keras
+Able to use GitHub, write reusable and well-documented code
+Outstanding ability to communicate in written and oral English how data analyses were performed, to both technical and non-technical audiences.
+Demonstrated excellence in at least one area of expertise, which may include statistical methodology such as missing data, survival analysis, or informatics; statistical computing; database design (e.g., Oracle datases, SQL); predictive modeling (machine learning and deep learning).
+PHYSICAL REQUIREMENTS*:
+Frequently perform desk based computer tasks, seated work and use light/ fine grasping.
+Occasionally stand, walk, and write by hand, lift, carry, push pull objects that weigh up to 10 pounds.
+* - Consistent with its obligations under the law, the University will provide reasonable accommodation to any employee with a disability who requires accommodation to perform the essential functions of his or her job.
+WORKING CONDITIONS:May work extended or non-standard hours based on project or business cycle needs.
+WORK STANDARDS:
+Interpersonal Skills: Demonstrates the ability to work well with Stanford colleagues and clients and with external organizations.
+Promote Culture of Safety: Demonstrates commitment to personal responsibility and value for safety; communicates safety concerns; uses and promotes safe behaviors based on training and lessons learned.
+Subject to and expected to comply with all applicable University policies and procedures, including but not limited to the personnel policies and other policies found in the University\'s Administrative Guide, http://adminguide.stanford.edu.
+Additional Information
+http://ophthalmology.stanford.edu/
+Requisition ID: 86845

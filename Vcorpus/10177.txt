@@ -1,0 +1,41 @@
+JOB SUMMARY:
+
+Kernel is building next generation, non-invasive, mind/body/machine interfaces (MBMIs). Our team of 60, including 30 PhDs, is working on the frontier, pioneering in multiple fields. The technology we’re building will improve how we address mental disease and dysfunction and usher in a new era of exploring, improving and evolving our cognition.
+
+We are searching for world-class talent in signal processing to transform the way we use and think about brain signals. At Kernel, new ideas become innovative products and customer experiences. Imagine what you could do here.
+
+Neuroscience is the new rocket science. We’re looking for those who can see it now, without the social proof that will follow in the years to come.
+
+ESSENTIAL FUNCTIONS:
+
+Developing and evaluating novel signal processing algorithms for biological signals, including neural signal analysis
+
+Analyze continuous signals to extract features
+
+Construct and curate large problem specific datasets
+
+Develop algorithms to handle data contaminants
+
+Understand impact of missing data and imputation techniques.
+
+Understanding of signal processing techniques, including Fourier analysis and wavelet transforms.
+
+BASIC QUALIFICATIONS:
+
+M.S, in Electrical or Biomedical Engineering, or related field
+
+Minimum of 3 years of experience in commercial algorithm development. Exceptional new graduates will be considered
+
+Strong foundation in theoretical and practical signal processing
+
+Strong C++ and Python coding skills
+
+Knowledge of time frequency analysis, detrending, artifact removal, and discrete/continuous time series analysis
+
+Demonstrated ability to work independently as well as in a multi-disciplinary group environment
+
+PREFERRED SKILLS:
+
+Experience in the neuroscience, cardiac, biology or related field
+
+Industry experience dealing with large datasets and deploying real-time signal processing

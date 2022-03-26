@@ -1,0 +1,35 @@
+We are looking for a Lead Data Scientist who will support our product teams with insights gained from analyzing company data. The ideal candidate has background in a quantitative or technical field, is adept at using large data sets to find opportunities for product and process optimization and using models to test the effectiveness of different courses of action. They must have strong experience using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations. You are focused on results, a self-starter, and have demonstrated success for using analytics to drive the understanding, growth, and success of a product.
+
+Responsibilities:
+
+Designing and deploying deep learning algorithms and predictive models
+
+Develop custom data models and algorithms to apply to data sets
+
+Assess the effectiveness and accuracy of new data sources and data gathering techniques
+
+Develop processes and tools to monitor and analyze model performance and data accuracy
+
+Collaborate with data and subject matter experts throughout the organization to identify opportunities for leveraging data to drive business solutions
+
+Qualifications:
+
+7+ year of experience with BS or MS or PhD in Computer Science, Electrical Engineering, Statistics, or equivalent fields. Specialization in machine learning preferred
+
+Experience of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+
+Experience of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+
+Applied experience with Deep Learning algorithms such as Convolutional Neural Networks, Recurrent Neural Networks and LSTM etc.
+
+Familiarity with Deep Learning frameworks such as TensorFlow and PyTorch, and strong experience in at least one of those
+
+Experience with data cleansing, data quality assessment, and using analytics for data assessment
+
+Excellent programming skills in languages such as Python and R. Experience with Java and Scala is a plus.
+
+Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Flink, Spark, Cassandra, etc.
+
+Experience visualizing/presenting data for stakeholders using: Periscope, D3, ggplot, etc.
+
+Ability to drive a project and work both independently and in a team

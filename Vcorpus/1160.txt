@@ -1,0 +1,22 @@
+The Machine Intelligence Research and Applications (MIRA) group at Ntrepid is composed of a mix of junior and senior, scientists and technologists, with the goal of attending to both: the subtlety of fundamental questions, as well as those of implementation and integration of computational tools. Modeled to imitate the culture of transformative fields like Computational and Experimental Physics, where mutual respect among scientists and technologists has been a cornerstone of success. We are as passionate about the fast-emerging disruptive advances in Machine Intelligence research as we are about the essential developments in computing, and the craftsmanship required for turning ideas into impact.
+Ntrepid is looking for innovative Computational Behavioral and Social Scientists with a background and interest in software development to join our Machine Intelligence Research Group.
+As part of our research and development team you will help us develop and realize data analysis, modeling strategies, and tools to improve our products and support our customers by integrating insights from the emerging fields of Computational Behavioral and Social Sciences. You will contribute your field and unique perspective to research and development efforts that integrate and advance the state of the art in social media content, communications, and network analysis.
+Working to advance tools and methods in these areas will offer ample opportunities to develop your multiple talents. You will participate in: research and algorithm design, design and development of API services, and the development of data visualizations and user experiences that promote data interpretation and understanding.
+
+Evaluate current research and new technologies in light of our products and customer needs, and use your insights to deliver new capabilities
+Research and design methodologies,modeling strategies, and tools that support social media data analysis which integrate Computational Behavioral and Social Science perspectives
+Collect and process a variety of data, structured and unstructured.
+Develop quantitative models and data analysis strategies.
+Develop and help deploy web-based services and applications.
+Design, implement, evaluate, and refine product prototypes.
+
+U.S. Citizenship Required
+Must be able to obtain/maintain a security clearance
+Advanced degree or relevant experience in Computational Social or Behavioral Science, Social or Behavioral Science with a quantitative methods orientation, or other quantitative field
+Proven capacity to model and solve problems using quantitative approaches
+Experience and clear understanding of machine learning and statistical modeling
+Experience managing and working with structured and unstructured data
+Ability to rapidly develop prototypes as well as write production quality code
+Experience with static (Java, C, C++), dynamic (Ruby, Python), and mathematical and statistical (R, MATLAB, Julia) languages; 5+ years combined experience, with 2+ years in any particular language
+Experience managing and modeling data using relational (Postgres, MySQL), NoSQL (Redis, Neo4j, MongoDB) and search (Elasticsearch, Solr) technologies.
+Familiarity with modern web frameworks, application architectures, languages, and libraries (Rails, Django, MVC, JavaScript, Bower, Node, D3, Plotly)

@@ -1,0 +1,30 @@
+25 years of innovation
+
+The Computer Vision Group at MERL conducts fundamental, academically oriented, cutting-edge research that is applied to challenging industrial problems such as object, action and scene understanding, robotic vision, and autonomous driving, as well as surveillance and monitoring systems. MERL has been setting the standard for excellence in the field for over 25 years. Before deep learning became popular, MERL published one of the first papers on a learning-based approach for super-resolution of images, and starting with the publication of the landmark Viola-Jones face detection paper, MERL has steadily contributed to the state-of-the-art in the detection & classification of objects & actions.
+
+With more than 25 years of innovation, MERL is proud to foster an environment that gives researchers the opportunity to set their own path and pursue their passions. The culture at MERL, which values both fundamental scientific contributions and its application to real business, allows for all of our researchers to become leaders in their field. There is no other industrial lab with this level of freedom and flexibility.
+
+Set your own path at MERL
+
+Successful candidates will identify new problems and solutions that are fundamental to the field and broadly useful. You will conduct research to evaluate your solutions, and publish your results in selective peer-reviewed conferences and journals. Research results are typically transferred to counterparts in Japan for further evaluation and development through collaborative projects and a long-term trusting partnership.
+
+What successful candidates look like
+
+Applicants must have a Ph.D. in Computer Science, Electrical Engineering or related areas focused on Computer Vision, and have a documented track record of creative innovation that has led to successful research outcomes. Candidates with at least 5 years of experience will be considered for senior positions. Applicants are expected to have excellent programming skills, and be able to communicate effectively in both written and verbal forms.
+
+We are looking for Research Scientists and Principal Research Scientists committed to setting their own path in the area of Deep Learning.
+
+Specific problems of interest are related to scene understanding including detection, classification, labeling and prediction of objects and actions in a wide range of environments.
+
+Research Area: Computer Vision
+
+Contact: Alan Sullivan
+
+Mitsubishi Electric Research Labs, Inc. "MERL" provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, MERL complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+MERL expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status. Improper interference with the ability of MERL’s employees to perform their job duties may result in discipline up to and including discharge.
+
+Requirements
+Ph.D. in Computer Vision
+Experience in deep/machine learning using one of the well known APIs such as PyTorch, TensorFlow, Caffe, etc.
+Publication record demonstrating that your research is leading edge in the top journals and conferences.

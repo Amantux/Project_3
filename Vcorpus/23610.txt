@@ -1,0 +1,17 @@
+Perform a current state analysis (in terms of assess, capture & document) of UGI's GIS (including technology platforms, interfaces & data structures).
+Provide a benchmark of UGI's current system, compared to industry standards.
+Perform a gap analysis & determine solution options.
+Perform analysis & document a desired future state, which will align with UGI's vision, business & operational strategies.
+Develop a strategic roadmap, which will include recommendations, in terms of industry blueprint of current GIS & best practices consistent with UGI's business vision.
+Provide an analysis of solution options, which will align with enterprise strategies, roadmaps & system architectures.
+Preparation of a business case & a presentation to UGI's Board of Directors, based on the recommendation by UGI's steering committee.
+Development of a Request for Proposal (RfP) for solution implementation & a project charter that will support UNITE's phase-3 program.
+Current State Analyses cum Benchmarking Report on GIS.
+Gap Analyses cum Solution Options Report on GIS.
+Desired Optimal Future State cum Strategic Roadmap Report on GIS.
+GIS components of a Business Case & Presentation.
+GIS components of a Request for Proposal (RfP) & Project Charter
+ESRI's ArcGIS technology stack (ArcGIS Desktop Advanced 10.6+, Spatial Analyst & 3D Analyst Extensions, ArcGIS Server, ArcGIS Online)
+Schneider Electric's ArcFM
+Oracle APEX
+SAP ERP Central Component (ECC)

@@ -1,0 +1,16 @@
+The Data Engineer will collaborate with various other IT groups, business partners and external service providers and play a key role in the design, development and operations of our new analytics platform.
+Responsibilities Include:
+
+Participate in Requirements Gathering: work with key business partner groups (e.g. Product Mgt) and other Data Engineering personnel to understand department-level data requirements.
+Design Data Pipelines: work with other Data Engineering personnel on an overall design for flowing data from various internal and external sources into the platform.
+Build Data Pipelines: leverage standard toolset and develop ETL/ELT code to move data from various internal and external sources into the platform.
+Support Data Quality Program: work with Data QA Engineer to identify automated QA checks and associated monitoring & alerting to ensure consistently high-quality data.
+Support Operations: triage alerts channeled to you and remediate as necessary.
+Technical Documentation: leverage templates provided and create clear, simple and comprehensive documentation for your development.
+Key contributor to defining, implementing and supporting:
+Data Services
+Data Dictionary
+Tool Standards
+Best Practices
+Data Lineage
+User Training

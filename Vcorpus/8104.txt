@@ -1,0 +1,56 @@
+SeatGeek operates a unique business model in a complicated, opaque market. Many of the hardest problems we face have never been tackled at scale and do not have clear questions, let alone answers. Moving forward requires critical thinking, rapid prototyping, and intellectual dexterity. 
+Our team members have varied backgrounds including an expert on natural language processing, a neuroscientist, a former math teacher, and a mathematician who previously specialized in traffic flow optimization. We share common views on experimental rigor, pragmatism, and software quality. 
+We want someone to join us who shares our excitement at providing data services to our colleagues and customers, someone proficient with at least one general-purpose programming language and who knows its scientific stack. We want someone who can take a messy dataset and make it clean and who can take a clean dataset and make it sing. Last but not least, we want someone who’s committed not only to bettering themselves but to bettering their team, someone who values and invests in knowledge share and open communication.   What you’ll do  
+As a member of the SeatGeek data science team you will take the complex issues facing the business and make them simple. We aim to find meaning in the data we have, go out and get the data we don’t. We leverage technology whenever possible, and we aim to build systems that anticipate the needs of tomorrow as well as solving the problems of today. 
+Here are some things you might work on:  
+Design and implement statistical tests for new KPIs in our A/B testing framework 
+Mine user interaction data for operational efficiencies and product improvements that could save our customers time and boost our bottom line 
+Deliver a talk to engineers on your favorite Scala features or a class on epistemology to the rest of the business 
+Estimate how adding a hundred thousand tickets to our inventory or changing how we allocate marketing resources will impact revenue 
+Use machine learning to identify when a user has a problem before they contact us 
+Build a model to predict the probability a particular ticket listing will sell at a given price    What we’re looking for  
+You have a passion for problem solving, experience working on open-ended projects, and a proven ability to come up with creative, elegant solutions to complex issues. Experience with specific tools is less important than aptitude and drive, but at a minimum we would expect:  
+5 years of academic or professional experience in a quantitative role 
+Experience translating business problems into data problems and solving them 
+Comfort turning ideas into code (bonus points for experience with Python or Scala) 
+Commitment to creating and sharing reproducible analysis 
+A passion for learning and teaching others  
+Bonus points for candidates who have experience with or desire to learn any of the following:  
+Streaming data (Reactive Extensions, Spark Streaming, Akka-streams, Kafka, RabbitMQ) 
+AWS infrastructure (we use Redshift, S3, EMR, Kinesis, Lambda, and RDS) 
+Building distributed software (especially on top of Spark, Hadoop, etc.) in a production environment 
+Utilizing applied statistics or machine learning on large, complex, noisy datasets 
+Scaling and turning statistical models into production-ready applications such as recommender systems   The Tools We Use 
+We do research and development work in a custom environment optimized for repeatability and collaboration. You  absolutely do not  need experience with all of these, but we thought you might be curious.  
+ Languages:  Python for web services and product devlopment, R for analysis and prototyping 
+ Datastores:  MySQL, Redshift, Elasticsearch, Redis 
+ Monitoring:  Graphite/StatsD 
+ Version control:  Git  
+ Perks:   
+A laid-back, fun workplace designed to facilitate collaboration and company wide events 
+$120/mo to spend on live events tickets 
+A superb benefits package that supports health/dental/vision 
+A focus on transparency. We have regular team lunches and Q&amp;A panels where employees can chat openly with teams across SeatGeek, our co-founders, and external guests from the industry 
+Annual subscriptions to Citibike, Spotify, and meditation services    Come Join Us! 
+SeatGeek is committed to providing equal employment opportunities to all employees and applicants for employment regardless of race, color, religion, creed, age, national origin or ancestry, ethnicity, sex, sexual orientation, gender identity or expression, disability, military or veteran status, or any other category protected by federal, state, or local law. As an equal opportunities employer, we recognize that diversity is a positive attribute and we welcome the differences and benefits that a diverse culture brings. 
+  
+   
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             New York, NY 
+                     
+                 
+                             
+                     
+                         Posted 
+                         +30 Days ago 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         27540

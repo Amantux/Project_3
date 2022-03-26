@@ -1,0 +1,165 @@
+Read what people are saying about working here. 
+
+Emailage is growing at an outstanding rate and we are seeking a skilled and enthusiastic Data Scientist to join our team. The Data science and machine learning are the foundation of our approach to identify both risky and positive behaviors. We see it as the process of creating knowledge from data. At Emailage, we see a lot of data, and that will be your playground to implement scalable machine learning models and enhance big data processing capabilities in collaboration with our data scientists. You will be developing and deploying our advanced algorithms on production and perform as a bridge between data science and software development teams. You will also be expected to validate, document, and govern the models that our team builds.
+
+Responsibilities:
+
+Implement and deploy large scale machine learning models to run on the cloud
+
+Retrieve and manipulate very large imbalanced datasets and extract features
+
+Validate and govern the model built, conduct statistical stability tests, and prepare model governance documentation
+
+Design and develop big data enterprise solutions for data ingestion and transformation on AWS
+
+Design data pipelines in production based on continuous delivery practices
+
+Collaborate with data scientists to develop advanced modeling capabilities
+
+Establish technical communication between software development and data science teams
+
+Provide big data thought leadership to leverage Emailage’s data efficiently
+
+Qualifications:
+
+Master’s degree in Computer Science, Statistics, Mathematics, Operations Research, or related advanced quantitative field is required. At a minimum, we expect 2 years of graduate work and PhD is preferred.
+
+Ability to design highly performant systems and troubleshoot complex performance and scalability issues in production
+
+Extensive theoretical and practical understanding of state-of-the-art supervised and unsupervised machine learning methods
+
+Experience working with highly imbalanced datasets
+
+3 years+ of experience in working on and delivering research oriented data driven problems
+
+2 years+ experience munging data using R, Python and SQL
+
+2 years+ experience writing production code using C++, Java and/or Scala
+
+2 years+ of coding experience working with machine learning frameworks such as H2O, Tensorflow, MLLib, scikit-learn or similar tools
+
+2 years+ experience with AWS, specifically S3, EC2, and EMR
+
+2 years+ experience working with very large datasets using big data tools and platforms (Hadoop, Pig/Hive, Spark)
+
+2 years+ combined experience with the following technologies: Cassandra, DynamoDB, HBASE, MongoDB or other major NoSQL platforms
+
+Ability to work in a dynamic, fast changing environment, with a strong attention to detail, communicate effectively and work well in a cross-functional environment
+
+Company Benefits and Perks:
+
+Competitive salary
+
+Full health, dental and vision coverage
+
+Life insurance, short-term, and long-term disability paid for by the company
+
+401(k) plan offered with employer match
+
+High-end hardware to work with
+
+Learning and career growth prospects
+
+Paid Holiday and Time Off
+
+Referral bonus program
+
+You will be working with bleeding edge technology with the opportunity to grow
+
+Ability to participate in employee stock option plan
+
+Fast paced Startup Culture
+
+Why you will LOVE Emailage:
+
+We are a hyper-growth SaaS company based in downtown Chandler, Arizona, with offices in San Francisco, Brazil, United Kingdom, Mexico, Australia and Singapore. We work with financial institutions, e-commerce merchants, and other organizations around the world to make digital transactions easier, more efficient and more secure. We’ve helped businesses around the world prevent over $2.7B in fraud in 2018 by providing an intelligent upfront layer of protection with our innovative fraud prevention solution.
+
+Our Email Risk Assessment delivers an intelligent risk score to the world’s largest organizations that allow them to prevent fraud and increase revenue. We combine fraud data from our contributory consortium model with proprietary machine learning algorithms and email history data. Emailage uses patented machine learning algorithms, along with a global consortium of data, to identify new fraud trends and provide real time intelligence for risky transactions, which allows us to stay ahead of the evolving fraud landscape.
+
+It’s no secret that we work hard, but we also strive to create an office environment where the lines between work and play are blurred. This means we offer great perks to help keep our team healthy, productive, and happy.
+
+To learn more, visit: www.emailage.com.
+
+ 
+
+Emailage is growing at an outstanding rate and we are seeking a skilled and enthusiastic Data Scientist to join our team. The Data science and machine learning are the foundation of our approach to identify both risky and positive behaviors. We see it as the process of creating knowledge from data. At Emailage, we see a lot of data, and that will be your playground to implement scalable machine learning models and enhance big data processing capabilities in collaboration with our data scientists. You will be developing and deploying our advanced algorithms on production and perform as a bridge between data science and software development teams. You will also be expected to validate, document, and govern the models that our team builds.
+
+Responsibilities:
+
+Implement and deploy large scale machine learning models to run on the cloud
+
+Retrieve and manipulate very large imbalanced datasets and extract features
+
+Validate and govern the model built, conduct statistical stability tests, and prepare model governance documentation
+
+Design and develop big data enterprise solutions for data ingestion and transformation on AWS
+
+Design data pipelines in production based on continuous delivery practices
+
+Collaborate with data scientists to develop advanced modeling capabilities
+
+Establish technical communication between software development and data science teams
+
+Provide big data thought leadership to leverage Emailage’s data efficiently
+
+Qualifications:
+
+Master’s degree in Computer Science, Statistics, Mathematics, Operations Research, or related advanced quantitative field is required. At a minimum, we expect 2 years of graduate work and PhD is preferred.
+
+Ability to design highly performant systems and troubleshoot complex performance and scalability issues in production
+
+Extensive theoretical and practical understanding of state-of-the-art supervised and unsupervised machine learning methods
+
+Experience working with highly imbalanced datasets
+
+3 years+ of experience in working on and delivering research oriented data driven problems
+
+2 years+ experience munging data using R, Python and SQL
+
+2 years+ experience writing production code using C++, Java and/or Scala
+
+2 years+ of coding experience working with machine learning frameworks such as H2O, Tensorflow, MLLib, scikit-learn or similar tools
+
+2 years+ experience with AWS, specifically S3, EC2, and EMR
+
+2 years+ experience working with very large datasets using big data tools and platforms (Hadoop, Pig/Hive, Spark)
+
+2 years+ combined experience with the following technologies: Cassandra, DynamoDB, HBASE, MongoDB or other major NoSQL platforms
+
+Ability to work in a dynamic, fast changing environment, with a strong attention to detail, communicate effectively and work well in a cross-functional environment
+
+Company Benefits and Perks:
+
+Competitive salary
+
+Full health, dental and vision coverage
+
+Life insurance, short-term, and long-term disability paid for by the company
+
+401(k) plan offered with employer match
+
+High-end hardware to work with
+
+Learning and career growth prospects
+
+Paid Holiday and Time Off
+
+Referral bonus program
+
+You will be working with bleeding edge technology with the opportunity to grow
+
+Ability to participate in employee stock option plan
+
+Fast paced Startup Culture
+
+Why you will LOVE Emailage:
+
+We are a hyper-growth SaaS company based in downtown Chandler, Arizona, with offices in San Francisco, Brazil, United Kingdom, Mexico, Australia and Singapore. We work with financial institutions, e-commerce merchants, and other organizations around the world to make digital transactions easier, more efficient and more secure. We’ve helped businesses around the world prevent over $2.7B in fraud in 2018 by providing an intelligent upfront layer of protection with our innovative fraud prevention solution.
+
+Our Email Risk Assessment delivers an intelligent risk score to the world’s largest organizations that allow them to prevent fraud and increase revenue. We combine fraud data from our contributory consortium model with proprietary machine learning algorithms and email history data. Emailage uses patented machine learning algorithms, along with a global consortium of data, to identify new fraud trends and provide real time intelligence for risky transactions, which allows us to stay ahead of the evolving fraud landscape.
+
+It’s no secret that we work hard, but we also strive to create an office environment where the lines between work and play are blurred. This means we offer great perks to help keep our team healthy, productive, and happy.
+
+To learn more, visit: www.emailage.com.
+
+ Emailage is a intelligent fraud risk assessment solution that stops fraudsters and streamlines approvals with just email data. Founded in...

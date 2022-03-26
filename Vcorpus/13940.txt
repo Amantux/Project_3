@@ -1,0 +1,82 @@
+Doctors Without Borders/Médecins Sans Frontières (MSF) is an international humanitarian organization that delivers impartial medical care to people affected by conflict, epidemics, disasters, or exclusion from health care in over 70 countries.
+
+We welcome candidates who bring a wide variety of backgrounds and experiences to join us in working toward MSF’s common mission.
+
+Department
+
+The Field Human Resources Department (Field HR) is responsible for recruitment, selection, placement, and retainment of qualified and well-suited field staff to meet the growing needs of MSF field operations.
+
+Project
+
+The People Analytics project aims to support and strengthen data utilization amongst MSF’s global Human Resources (HR) teams so that HR planning is more strategic and data-driven. The project acts as an internal resource for HR teams so that they can leverage the power of data science to support decision-making and strategies around recruiting, retaining, placing, developing and administering policy and programs for MSF’s workforce of ~45,000 people around the world.
+
+Under the direction of the Head of People Analytics, the Data Scientist will help identify opportunities for data-driven solutioning in HR and will be the focal point for the technical aspects of the team’s work. By Data Scientist we mean a practiced statistician that is also fluent in programming methods, open-source technologies and some basic data engineering. The successful candidate has a proven ability to apply simple and complex statistical theories and methods to explore, infer and predict, in addition to the ability to efficiently and rigorously explore data sources, build tools and manage data quality. Using this combination of skills, the Data Scientist will help us uncover information and extract meaning from the data available to support data-driven decision-making on MSF’s workforce and HR activities. The ideal candidate is energetic, patient, proactive, organized and passionate about Data Science and how it can be used to for social good and to positively influence organizations and people operations.
+
+Tasks
+
+Job Functions and Responsibilities
+Apply simple and complex statistical theories and methods to explore, infer and predict;
+Build, iterate and validate predictive models using multiple statistical techniques;
+Perform data manipulation, wrangling, cleansing and analysis;
+Transform and clean large, messy and often distributed datasets by using data cleaning tools/methods to improve data quality by removing unwanted observations, fixing structural errors, investigating outliers, manage missing data (dropping, imputing, etc.), scrubbing for duplicate data and validating the accuracy of data;
+Interpret, understand and extract value and meaning out of MSF’s global HR data;
+Continuously learn and share knowledge about new ways to mine data and distill meaning out of the data available, finding creative ways to work around limitations;
+Take ownership of data models and solutions by communicating and advocating their use to the Head of People Analytics;
+Collaborate closely with the People Analytics Team and play an advisory role/pair with the Data Science Intern(s).
+Travel
+
+The role will not include travel, however collaboration with teams across the MSF movement globally during irregular hours may be required.
+
+Qualifications
+
+Required
+Minimum 3-5 years of proven professional experience as a Data Scientist;
+Minimum Master’s Degree in a relevant subject (e.g., Statistics, Data Science, Computational Mathematics, etc.);
+Must have expert skills and knowledge in R;
+Must have strong skills and significant experience in applied statistics with the ability to use a variety of techniques to extract insights from data;
+Some experience with R Shiny is preferred;
+Some experience with Python is preferred;
+Familiarity with BI tools and storytelling using data visualization (i.e. PowerBI (preferred), Qlik, Tableau) is preferred;
+Experience in data mining;
+Experience in data wrangling/cleansing;
+Proficiency in relational and non-relational databases including SQL;
+Excellent organizational skills with the ability to prioritize and manage multiple workstreams and competing deadlines;
+Superior attention to detail and a commitment to producing accurate and reliable work;
+The maturity and experience to navigate the challenges of working in a resource-limited setting, with the ability to adapt to a rapidly growing and scaling work environment;
+A strong work ethic, commitment to professionalism, intellectual curiosity, and positive attitude, especially when confronting limitations (in the data or otherwise);
+Passion for data and its use in driving organizational change;
+A willingness to perform other tasks as assigned.
+Preferred
+Ph.D. in a relevant subject (e.g., Statistics, Data Science, Computational Mathematics, etc.)
+Analytics experience in the HR, non-profit, humanitarian or global health field;
+An interest or background in HR Analytics, Strategic Workforce Planning or People Analytics;
+Experience with People Data such as compensation, attrition/retention, and leadership pipeline development;
+Experience working on a global team;
+Experience working in consulting, innovation or with startups.
+Fixed Term Assignment: 6 months
+
+Application Deadline: Open Until Filled No phone calls please.
+
+Desired Hiring Date: April 2020
+
+Applicants not meeting the minimum experience and education criteria will not be considered
+
+Please note that relocation assistance or visa sponsorship will be offered for this position
+
+MSF-USA is an Equal Employment Opportunity employer
+
+Type
+
+HQ
+
+Pay Class & Contract Type
+
+Temporary FT Salaried Exempt
+
+Compensation
+
+Starting salary mid 80's to low 90's (commensurate with experience)
+
+Working Time (Hours Per Week)
+
+35

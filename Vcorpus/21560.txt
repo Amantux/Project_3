@@ -1,0 +1,49 @@
+At Priceonomics, our core skill is making data interesting. How do you find a great idea in a dense data set? What’s the best way to present it? How do you create a story where the data is the main character?
+
+As it turns out, there is commercial value in telling a story focused on data. Companies have lots of data, but they have less experience in using it to tell stories that will spread on the Internet.
+
+That’s a shame, because when it comes to content marketing, people seem to actually like it when companies share exciting insights from their data. When you approach a company’s data like a journalist telling a story or an analyst uncovering a trend—rather than a marketer engaging in pure self-promotion—you can produce work that will get your friends talking and gain the attention of publications like The Economist and the New York Times.
+
+In December, we launched The Priceonomics Data Studio, a content marketing agency that helps companies turn their data into stories that spread. Although our data studio is only a few months old, we now work with dozens of companies, including Fortune 100 corporations, “unicorn” tech companies, and small startups. Half our customers are B2B (they sell to businesses) and half are B2C (they sell to consumers).
+
+Working with companies, we’ve told data-driven stories on topics ranging from the driving preferences of Democrats and Republicans to the average size of a bridal party in weddings across the country.
+
+To grow the Priceonomics Data Studio and create more interesting data stories, we need help meeting the demand. Maybe you are interested?
+
+We are looking for people who are comfortable working with data to help us turn data into content for our clients. We’ll send you a raw data file, some thoughts on the topic, and a template for how the charts should look. You’ll create an awesome data-driven article with our help.
+
+For each piece, we’ll pay you (generally around $1000). We’re looking to work closely with people who can work quickly with data, have a knack for visualization, and can complete projects like this in approximately 10 hours or less. If you’re good at this and enjoy it, you can work on nearly as many of these projects with us as you like.
+
+So, are you interested? We need two things from you. First, an honest assessment of if you can do this sort of work. Second, the answer to a very quick “data puzzle.”
+
+1. A quick puzzle
+
+Tell us the median price of booking a room in each of the top 100 cities in this data set.
+
+You can download the data here and read the “backstory” here. This is a fictional data set, but it’s very typical of the kind of raw information we analyze for a Priceonomics Blog post or a project in our Data Studio.
+
+More specifically, send us back a table with a list of the median price in each city, ranked from most to least expensive. Restrict your analysis to just to the "top 100" cities that have the most units on the market.
+
+You can also briefly describe how you solved it, any assumptions you made, or even send us the work. If some parts of the results look odd, you can propose how you’d improve the analysis given the data available in the file.
+
+This puzzle should be a relatively quick task—not something that requires lots of brute force. If you need a hint on how to do this, here’s one.
+
+2. An honest assessment
+
+Companies give us data, and we turn it into interesting stories. Here are some examples of how we used data about driving preferences, bridal parties, and consumer spending habits at the grocery story. Can you do this sort of work?
+
+It requires making maps and tables—and telling a story. It also requires fluency in Excel or a difference analysis program like R. If you know how to use Excel, can you perform: a pivot table, a vlookup, an index-match, an array, and the mid function?
+
+Maybe you’re a PhD student, a data journalist at a blog, or a recovering management consultant who wants to work with interesting data and make some extra money.
+
+Whatever your situation, tell us about your background and why you can do this sort of work.
+
+To apply to become part of this program, just send an email to jobs@priceonomics.com with the answers to these questions. Feel free to let us know anything else we should know about you in the email.
+
+We love a good story about data, and we look forward to creating some with you.
+
+***
+
+We’re also hiring a full time Writer/Analyst to join us in San Francisco. You’ll work at crunching data and telling stories for our customers and on the Priceonomics Blog. If you’re interested in a full time job, complete the puzzle and then send us a message at jobs@priceonomics.com.
+
+***

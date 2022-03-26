@@ -1,0 +1,67 @@
+Secure our Nation, Ignite your Future
+
+The Data Scientist is an accomplished technical leader and a team player with substantial software engineering experience, preferably with some experience within the healthcare industry. The candidate must have hands-on experience with enterprise level software development, integration and implementation using advanced data science or big data technologies. The ideal candidate will have a good foundation of the Java , Scala, R, Spark, REST API, AWS, S3, PostgreSQL, Big Data and SQL .
+
+The candidate must demonstrate a willingness to learn new cutting edge technologies and overcome technical challenges in a fast paced environment. The candidate will provide design, and implementation expertise to a cross-functional software development team. The Data Engineer will play a key role in developing next generation data analytics platform leveraging latest data science technologies, DevOps, cloud computing, and Data Lake / big data technologies.
+
+RESPONSIBILITIES:
+
+Architect, design, code, and implement next-generation data analytics platform using software engineering best practices in the latest technologies
+
+Statistical modeling
+
+Java, Scala, R
+
+Data integration with Spark, Big Data, Pentaho
+
+Data Lake and/or Data warehouse with S3, Redshift
+
+Provide software expertise in these areas: Spark based applications, Java application integration, web services, Cloud computing.
+
+Develop solutions to enable metadata/rules engine driven data analytics application leveraging open source and/or cloud native components.
+
+Passion for learning, growing, and mentor team members on the fine art of data engineering and advanced data science technologies.
+
+Develop solutions in a highly collaborative and agile environment.
+
+All other duties as assigned or directed
+
+QUALIFICATIONS:
+
+Bachelor's degree in computer science or a related field
+
+4+ years of experience in statistical modeling
+
+2+ years of combined experience with R, Scala, Python or Java
+
+1+ years of combined experience in Apache Spark or Big Data Integration
+
+1+ years of combined experience building Data Lake with S3 and/or Redshift
+
+Experience in an Agile development team, preferably SAFe
+
+Education and/or formal training may substitute for experience requirement
+
+U.S. citizen or legal right to work in the United States without sponsorship
+
+TECHNICAL SKILLS:
+
+Excellent knowledge of Spark SQL and ORM technologies (JPA2, Hibernate)
+
+Excellent knowledge of core java, collection framework, generics and multithreading
+
+Basic knowledge of Unix/Linux commands especially in processing data files
+
+Preferred experience with Spring Framework (Boot, Cloud, Security, Data)
+
+Preferred experience with ATTD and associated technologies (Fitnesse, Junit, Karma/Jasmine)
+
+Preferred experience with delivering code using Continuous Integration and Continuous Delivery (CI/CD) best practices and DevOps to production
+
+Preferred experience with AWS cloud technologies (S3, Redshift)
+
+ManTech International Corporation, as well as its subsidiaries proactively fulfills its role as an equal opportunity employer. We do not discriminate against any employee or applicant for employment because of race, color, sex, religion, age, sexual orientation, gender identity and expression, national origin, marital status, physical or mental disability, status as a Disabled Veteran, Recently Separated Veteran, Active Duty Wartime or Campaign Badge Veteran, Armed Forces Services Medal, or any other characteristic protected by law.
+
+If you require a reasonable accommodation to apply for a position with ManTech through its online applicant system, please contact ManTech's Corporate EEO Department at (703) 218-6000. ManTech is an affirmative action/equal opportunity employer - minorities, females, disabled and protected veterans are urged to apply. ManTech's utilization of any external recruitment or job placement agency is predicated upon its full compliance with our equal opportunity/affirmative action policies. ManTech does not accept resumes from unsolicited recruiting firms. We pay no fees for unsolicited services.
+
+If you are a qualified individual with a disability or a disabled veteran, you have the right to request an accommodation if you are unable or limited in your ability to use or access http://www.mantech.com/careers/Pages/careers.aspx as a result of your disability. To request an accommodation please click careers@mantech.com and provide your name and contact information.

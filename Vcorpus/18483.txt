@@ -1,0 +1,28 @@
+At Group K Diagnostics (GKD), we are aiming to change the diagnostic process for both patients and caregivers by increasing accessibility to what we believe to be one of the most important assessments of human health – the blood test.
+
+Our team is developing a single-platform point-of-care device. The technology leverages paper microfluidics and proprietary image processing software to deliver test results in a short period of time.
+
+Our team sees the potential to address more than 40 different types of blood tests, with the goal of streamlining the logistical process historically associated with lab work, maximizing patient-care transparency and allowing physicians to adjust medical treatments in a timely manner.
+
+We are a team of dedicated innovators who are focused on bringing the best point of care test to market, and continually iterating new technologies to continue to stay at the forefront of testing.
+
+We are headquartered in Center City Philadelphia. Among other employee benefits, GKD offers:
+Flexible work schedules
+Full health and dental benefits
+Competitive vacation and work from home policy
+Innovative, collaborative culture
+GKD’s Software Development Team is looking for a Full Stack Software Engineer to help build out and support our current and future product development surrounding a mobile app and backend support. The position will be responsible for interfacing with additional engineers focusing on image processing capabilities. This position will involve significant product development work and interfacing with a hardware product development team as well.
+
+Preference will be given to candidates with experience in DevOps or with building systems conforming to HIPAA or FDA regulations. The ideal candidate can work and communicate with technical and non-technical colleagues in a fast-paced environment, and will have equivalent to 2-3+ years of experience building APIs with the following:
+JavaScript and/or TypeScript on Node.js, or a similar language
+SQL/Postgres
+AWS Serverless tools, such as Lambda and API Gateway
+Serverless Design and Implementation
+Automated testing
+Mobile App Development for iPhone
+Preference will be given to candidates with experience in the following:
+Managing healthcare data and HIPAA compliance
+Single page frameworks, such as React or Angular
+Functional Programming Techniques
+DevOps/System administration
+Terraform

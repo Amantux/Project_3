@@ -1,0 +1,42 @@
+Discovery is looking for a Data Scientist to play a key role in modeling, data product innovation, and process automation in a data-driven advertising sales team. Reporting to the Data Science Lead, this individual would use statistical analysis, machine learning, and data engineering to drive business efficiencies and advance the development and enhancement of data products.
+The Data Scientist role provides support to the Engage team on Discovery’s US networks which include: HGTV, ID, Animal Planet, DIY Network, Food Network, TLC, OWN, Cooking Channel, Discovery Channel, Travel Channel, Science & Motor Trend Network. The Engage team is Discovery’s data-driven linear tv and cross platform ad sales and analytics solution.
+
+Data Science
+1. Build statistical/machine learning models using a variety of data sources, structured and semi-structured
+2. Build complex SQL queries on disparate databases and reporting systems
+3. Data prep, cleaning, and validation
+4. Build data pipelines and batch processes
+5. Data visualizations and dashboarding using various data viz tools (Tableau, matplotlib, ggplot2, shiny apps, etc.)
+
+Data Product / Solutions Development
+1. Work with a cross-functional team of data professionals and advertising sales people to define and test requirements for enhancing audience targeting systems and processes
+2. Build proofs of concept and prototypes
+3. Manage/participate in scrum projects and sprints
+Other
+1. Support ad hoc requests from internal Sales team that require automation of data processes or other technical solutions (small and medium tasks)
+2. Data and process documentation
+3. Interfacing with internal IT and Cloud Engineering teams on various issues
+
+* Bachelor’s or Master’s in a STEM field (Computer Science, engineering, data science, preferred), or relevant experience
+* Experience with statistical, machine learning algorithms and time series analysis
+* 2-5 years of experience using databases and analytics tools
+* Experience with cloud platforms (AWS, Azure, Google Cloud Platform—AWS preferred)
+* Advanced knowledge of SQL, Python
+* Familiarity with Spark, Pyspark
+* Ability to work at command line
+* Experience with Tableau or other business intelligence / data viz tools
+* Ability to think creatively and strategically to solve unstructured business and technical problems
+* Entrepreneurial mindset
+* Detail obsession
+* Service orientation
+* Must have the legal right to work in the United States
+
+Preferred Qualifications
+* Experience in media, advertising, marketing vertical
+* Knowledge of R, Scala, Java, other languages
+* Experience working with Agile framework, using software such as Jira
+* Experience building/administering SQL databases (Oracle, MySQL)
+* Experience with NoSQL databases and big data platforms
+* Apache Airflow or other data pipelining framework
+* Experience with knowledge-bases such as Confluence for documentation
+New York City, New York, NYC, NY

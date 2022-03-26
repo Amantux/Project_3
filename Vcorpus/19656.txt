@@ -1,0 +1,21 @@
+Job Description
+The Data Integration Engineer II is a self-motivated individual responsible for the design, development, and support of data integration solutions. Partners with internal business units, analysts, vendors, and key stakeholders to understand their information requirements to independently design, develop and implement data integration solutions that support our platforms resiliency, stability, and supportability; using a variety of ETL and database technologies. Their work will support business decisions and could span across multiple areas such as consumer experience, clinical quality, hospital operations, supply chain, finance, etc. Datastage, SQL, FastTrack, or other technologies.
+
+Works with business sponsors, SMES and application teams; to understand the business requirements; analyze and assess availability, quality, and lineage of source system data. Design, map data from source to target and develop data integration solutions that meet business needs. Develop and socialize data integration standards.
+
+Support production Data Warehouse applications and utilize tools to proactively manage source system changes, optimize applications and ensure availability, accuracy, security, and acceptable performance. Contributes information to the data governance software to improve knowledge downstream.
+
+Qualifications/Requirements
+The ideal candidate will possess the following qualifications
+Bachelor's Degree in Business Administration, Information Science, Computer Science, Computer Engineering, Information Technology, or relevant field is Required. OR
+Master's Degree in Business Administration, Information Science, Computer Science, Computer Engineering, Information Technology, or relevant field is Preferred.
+3 Years Working as a Data Integration Engineer or Data Integration Production Support Engineer with a Bachelor's degree is Required.
+Experience working in a healthcare or related field is Preferred.
+Teradata Database Experience Preferred.
+Experience upgrading IBM Infosphere Tools is Preferred.
+Skills
+Proficient with interviewing and gathering business requirements, definition and design of data source and data flow, data quality analysis, and working with the data architect on the development of logical data models.
+Proficient using Infosphere/DataStage or equivalent ETL software.
+Proficient with relational databases and using SQL to query, create tables, views, indexes, joins.
+Proficient using Unix and applicable scripting/scheduling tools.
+Experience with the SDLC, ITSM and privacy and security concepts.

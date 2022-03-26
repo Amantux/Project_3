@@ -1,0 +1,43 @@
+Join Rally Health as a Principal Software Engineer, Data Platform where you will architect and develop infrastructure for our Data Team . As part of the Data Team, you will report to a Data Manager and work with teams across the company.
+
+You Will:
+Architect, develop, and deploy infrastructure on which data gets collected, aggregated moved, cleansed, transformed and analyzed
+Operationalize data insights —from research into fault-tolerant, production-scale deployments
+Apply perseverance and imagination, both in writing new software and also deploying existing tools like Airflow, Hadoop, Spark, Jenkins, Docker, Kubernetes and Mesos
+Partner with data scientists and product team to understand their needs and create a platform that empowers them
+Work closely with Product and Project Managers to understand the features, do technical assessment, design, code test and deliver
+You Have:
+
+
+BS in Computer Science, Engineering or a related technical role or equivalent experience
+5+ years of prior experience for the Senior Software Engineer role, or
+8+ years of prior experience for a Principal Software Engineer role
+Coding experience in shipping complex software to production
+Command of Scala or Java, or interest in learning Scala
+Experience with Kafka, Spark, Hive, HDFS, AirFlow
+Command of data structures, algorithms, performance and scalability
+Understanding of fault-tolerant systems, network programming, multithreaded programming and security
+Experience with distributed systems and application design in a SOA environment
+Knowledge of high-scale performance and optimization tools and techniques
+Experience with AWS (configuring, deploying, managing) services and distributed applications
+Rally Health™ is about putting health in the hands of the individual. It's our mission, and it drives everything we do! With our easy-to-use online and mobile tools, we empower people and help them take charge of their health and health care. Improving their diet and fitness to selecting health benefits and choosing the right doctor at the right price for their needs.
+
+Our culture is built on a deep and sincere dedication to helping people live healthier lives. To do this, we are committed to improving at every level. We're building digital tools that support people over their lifetime. Every day, we get to work with amazing people on something that directly impacts the lives of millions of people for the better.
+
+At Rally, we believe in the importance of communication and collaboration to ensure every opinion is valued. Rally knows that we are strongest when our employee population reflects the diversity of the world around us, and we are a place where all voices are valid. A diverse workforce enriches us with the talent, perspective and inspiration we need to achieve our mission. Everything we do is performed with our users in mind, so we make sure that all of our work has a human touch it needs.
+
+Our Benefits:
+
+
+Resources to help you excel in our creative work atmosphere:
+Great compensation package
+Daily onsite catered lunches
+Comprehensive benefits package for full-time employees, including medical, dental, vision coverage, and 401(k)
+Paid leave for new parents
+Wellness programs, including physical and mental health services
+Flexible paid time off for full-time employees
+Rally Health believes in a policy of equal employment and opportunity for all people. It is our policy to train and promote individuals in all job titles, and administer all programs, without regard to race, color, religion, national origin or ancestry, citizenship, sex, age, marital status, pregnancy, childbirth or related medical conditions, personal appearance, sexual orientation, gender identity or expression, family responsibilities, genetic information, disability, matriculation, political affiliation, veteran status, union affiliation, or any other category protected by applicable federal, state or local laws.
+
+Individuals with disabilities and veterans are encouraged to apply. Applicants who require an accommodation related to the application or review process should notify Talent Acquisition (recruiting@rallyhealth.com).
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.

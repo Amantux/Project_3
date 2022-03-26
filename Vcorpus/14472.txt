@@ -1,0 +1,41 @@
+Req ID: 178110
+HBO Max is the future of entertainment and storytelling.
+WarnerMedias new streaming entertainment offering, HBO Maxis the culmination of some of the most innovative new technology and greatest creative talent in the industry. Anchored bythe entire HBO service, arguablythe greatest brand in television, HBO Maxalsofeaturesfan favoritesfrom the WarnerMedia library includingWarner Bros., New Line, DC, CNN, TNT, TBS, truTV, Turner Classic Movies, Cartoon Network, Adult Swim, Crunchyroll, Rooster Teeth, Looney Tunes, and more. HBO Max will also be home to key third-party library acquisitions, such as Friends, South Park and Doctor Who,andmore than50 exclusiveOriginals in its first year, from the likes of groundbreaking creative talent such as J.J. Abrams, Ridley Scott, Jordan Peele, Steven Soderbergh, Michael Mann, Mindy Kaling, Reese Witherspoon, Anna Kendrick, Greg Berlanti, Melissa McCarthy, Robert Zemeckis, Ellen DeGeneres, and other visionaries.
+
+The Job
+As a Staff Machine Learning (ML) Engineer on Personalization and Content Science team, you will design and build ML workflows to fuel analyses and inferences in collaboration with other technology teams in WarnerMedia and possibly AT&T to design and implement end-to-end solutions within a cloud-based analytic infrastructure. The ML based insights will support the HBO Max product management, marketing and content teams understand what makes our customers tick and how to target new ones.
+
+The Daily
+Collaborate with product owners, data scientists and engineering teams to evaluate effectiveness of deployed ML model.
+Work with data scientists, data engineers and solution analysts to design best-suited, robust and scalable ML endpoints for content discovery, personalization.
+Design and develop robust and scalable experimentation approach for model evaluation.
+Experience in writing production level-code and engage in code reviews.
+Lead machine learning model deployment and production execution.
+Experience of deploying ML models on big data volumes and optimize performance.
+Extensive experience with ML frameworks and expertise with at least one.
+Contribute in research, design, experimentation, development, deployment, monitoring and maintenance of ML model lifecycle.
+Research and implement best practices to enhance existing machine learning infrastructure.
+Design and implement data quality framework on content metadata pipeline
+Maintain and own all workflow documents up to date.
+The Essentials
+MS/Ph.D in Computer Science, Information Science, engineering or equivalent experience.
+Minimum 4 years of relevant and hands-on experience in machine learning with track record of processing, enriching and extracting value from large datasets.
+Strong experience in incrementally building big data product and production pipelines to support data and analytic functions.
+Familiar with various data science techniques, hands on experience with ML frameworks, concepts and implement models developed into production environment.
+Flexibility and comfort working in a dynamic, team environment with possible remote organization with minimal documentation and process.
+Strong problem solving and conceptual thinking skills.
+Entertainment or media industry a big plus.
+Knowledge and experience in the following technologies and frameworks is critical:
+Apache Spark, Apache MxNet, TensorFlow, Scikit-Learn, PyTorch,
+AWS
+S3, EMR, Sagemaker, Personalize, Lambda, Step functions, Cloud Watch, etc.
+Python, Spark, PySpark, SparkScala, SQL, Hadoop, Scala, Jupyter notebook
+Relational, non-relational databases (Snowflake, DynamoDB) and graph databases
+Content metadata, media supply chain
+The Perks
+Exclusive WarnerMedia events and advance screenings
+Paid time off every year to volunteer
+Access to well-being tools, resources, and freebies
+Access to in-house learning and development resources
+Part of the WarnerMedia family of powerhouse brands
+[#video#https://youtu.be/CC-seRMEo8s{#400,300#}#/video#] 178110

@@ -1,0 +1,31 @@
+The We Company started as a platform for creators in providing members space, community, and services that enable them to do what they love and craft their life’s work. WeWork alone has grown to over 400,000 members in 26 countries as one of the many business lines of the We Company to help people achieve their purpose and connect with others.
+
+Our dedication to technological innovation has enabled us to grow to more than 400 workspace locations as well as support the other business lines including WeLive (living space), WeGrow (education), Rise by We (wellness) and Powered by We (enterprise). Every day, we see and feel the impact we can have on an employee’s and member’s lives. We do good work on every scale, and we’re proud of it.
+
+Geospatial data and insights are crucial to WeWork. WeWork has accumulated a vast amount of business data; together with external geospatial data sources, we are tackling a wide range of technically challenging and business-critical problems.
+
+Responsibilities
+
+You will serve as the GIS domain expert, lead or participate in the whole life cycle of the analyses, modeling and data solutions:
+
+Apply best practices in GIS to manage geospatial data; help setting up geospatial data management infrastructure at WeWork.
+
+Understand WeWork’s core products and offerings, identify critical data problems, design and implement data-driven approaches for quantitative analyses and solutions.
+
+Develop innovative algorithms and models with geospatial data to solve business problems, e.g., modeling demand for co-working space at any geo location to guide site selection and pricing.
+
+Evaluate external geospatial data sources (e.g. demographics, psychographics, satellite imagery), devise strategies for data vetting and acquisition.
+
+You will work closely with data engineers, data scientists, business analysts and colleagues from other business functions.
+
+Requirements
+
+M.S./Ph.D. in Geography, Statistics, Computer Science, or other related quantitative fields.
+
+Solid understanding of GIS theory and applications, experience with software like ArcGIS or QGIS.
+
+Strong data intuition, deep knowledge in data modeling, statistical inference, machine learning, and other quantitative approaches.
+
+Experience with manipulating large scale geospatial datasets and operating on cloud data platforms. Proficiency in Python, R, or other programming languages. Familiarity with SQL and ETL scripts.
+
+Strong communication skills, both written and verbal.

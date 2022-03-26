@@ -1,0 +1,52 @@
+WHY VARIDESK:
+Comprehensive Health Plans
+Healthy Foods and Snacks
+Wellness Program and Insurance Premium Discounts
+Enhanced Paternity / Maternity Programs
+Three weeks of Personal Time Off a year
+Offsite Events and Happy Hours
+Nicotine Free Workplace
+WHO WE ARE:
+A growing company ranked #1 by SMU as the fastest growing company in DFW
+An active culture, we promote health and wellness (onsite gym, healthy food selections in the breakroom, weekly boot camp, weekly yoga, etc…)
+VARIDESK has a balance between work life and home life, sedentary activity, sitting and standing for all employees
+Position Summary
+
+Insight Agents(Data Engineers) are in charge of analyzing and implementing business intelligence for their organization. They are responsible for the correct functioning of the central data warehouse and deployed machine learning models. They process large amounts of information to draw conclusions based on their intelligence findings, interact with a variety of business professionals, and communicate critical project requirements within their organization. They utilize a personal computer with analytical tools to calculate business data and interpret results. They may work to build out additions to a data warehouse one week and develop machine learning strategies to bake into the business processes the next week. Insight Agents(Data Engineers) build and load enterprise information by using data warehouses and marts, act as a mentor for junior staff, and participate in company meetings to suggest improvements for business processes. They also help manage custom application development and create delivery model strategies, as well as provide scalable services related to high-performance visualization tools and infrastructure design.
+
+RESPONSIBILITIES
+Create end-to-end analytics and reporting solutions.
+Create end-to-end data science projects.
+Create data integration and technical solutions around Microsoft SQL Server, Azure Data Lake and Azure Data Warehouse, Azure Machine Learning and R Server.
+Develop ETL processes using SQL, SSIS, Azure Data Factory with consideration to fault-tolerance, error logging, auditing and data quality.
+Write sophisticated SQL queries to extract data and build complex models (Excel/R/etc.)
+Build/automate reports/dashboards (in Power BI and Microsoft Analysis Services) that allow the business leaders to get a clear snapshot of their operations
+Design and analyze A/B tests to quantify impact of customer-facing changes
+Perform complicated analyses to extract learnings and drive insights
+Perform technical walk-through as needed to communicate design/coded solution and to seek input from team leads and members
+Implement data cleanup procedures, transformations, scripts, stored procedures, and execution of test plans for landing data successfully into the appropriate destinations
+Data Modeling and Requirements Analysis
+Prepare storage logical and physical models based on requirements
+Work closely with Data Science team to provide datasets necessary for experiments and creating machine learning models
+Understand, articulate and present business requirements into technical solutions
+Analyze and profile current data to ensure no requirements are missed
+Work with quality assurance team to build test plans to validate that new systems meet business requirements
+REQUIREMENTS
+Experience in using Cloud-based managed services for data warehousing/analytics in Microsoft Azure (Azure Data Lake, Azure Data Lake Analytics, Azure Data Factory, Azure Table Storage, U-SQL, Stream Analytics, SQL Server R services, etc.)
+Power BI
+T-SQL Mastery
+R Language
+C# Experience
+DAX and Tabular Cube Design
+SQL Server, SQL Server Analysis Services, SQL Server Data Quality Services
+Strong Data Modeling skills to include data quality, source systems analysis, business rules validation, source target, mapping design, performance tuning and high volume data loads
+Excellent communication skills
+Experience working in an agile team environment. Understanding of code promotion, code turnover to operations, version control, and QA procedures. Conduct code walkthroughs, peer reviews, and produce technical documentation
+DESIRED EXPERIENCE
+Background in FP&A and Accounting
+Sr. level understanding of warehousing architectures including ETL design, staging, transformations, delta/change data capture, star-schemas, cubes, and history loading
+Experience leveraging ETL frameworks to develop scalable solutions using SSIS. Design and develop SSIS packages, configuration files, stored procedures, tables, views and functions;
+Understand database platform layouts and configurations
+Understand reusability, parameterization and workflow design
+Ability to effectively balance multiple projects in a rapidly changing environment
+Experience in a professional services environment with exposure to senior functional leaders

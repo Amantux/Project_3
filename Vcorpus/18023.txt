@@ -1,0 +1,37 @@
+Company Description
+
+CGG is a fully integrated Geoscience company providing leading geological, geophysical and reservoir capabilities.
+
+Job Description
+
+CGG is currently looking for a creative and results-focused individual who enjoys working on open-ended problems. Your customers are world-class seismic imagers who strive to image the subsurface with a high degree of accuracy and resolution. Your challenge is to analyze the computational activities and demands of seismic imaging and, with your insights, propose solutions and applications for realms widely ranging from resource scheduling and allocations to automation of imaging-related computations in our HPC environment. In a nutshell, we expect you to propose solutions to known problems and also identify new areas where you can add value with your expertise.
+
+We want people who can work with a team to decide what to look for, and who also have the technical ability to go get it. Interest in data mining and machine learning is key, since these are the two areas where you may specialize. You will participate as an engineer on a development team, writing, testing, and deploying code to achieve your goals. We want you if you are an independent thinker and capable of analyzing requirements, extracting data for analysis, and developing algorithms and tools. We process seismic data at the petascale and warehouse information at the terascale. The stakes are high, but your impact can be higher.
+
+Must have current U.S. work authorization or qualify for sponsorship
+
+Qualifications
+Ph.D.in Computer Science, Math, Statistics, Physics or a closely related field but an equivalent combination of educationand experience will be considered
+Proven Machine Learning experience
+Professional experience with Deep Learning Neural Network building
+Demonstrated experience with Deep Learning Framework such as Tensorflow and Keras
+Experience and/or education in at least one of the fields of Big Data, Data Mining, Predictive/Prescriptive Analytics, Optimization, Exploratory Analysis & Visualization
+Knowledge of relational databases, data modeling, and schema normalization techniques
+Familiar with SQL
+Passion for solving complex data engineering and modeling tasks
+Ability to perform testing based on different hypotheses to determine the impact on key performance indicators
+Excellent analytical skills and the ability to work in a collaborative team environment
+Preferred:
+Experience in programming (high performance computing is a plus) and developing databases
+Knowledge and experience with UNIX (Linux), Java, and XML
+Knowledge of Perl, R, and Spark
+Expertise in designing and implementing efficient algorithms
+We wish to thank all applicants for their interest; however, only those candidates selected for an interview will be contacted. EOE
+
+Our focus on performance and passion for innovation are powered by people
+
+Our greatest resource is you
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.

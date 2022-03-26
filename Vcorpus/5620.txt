@@ -1,0 +1,71 @@
+Read what people are saying about working here. 
+
+TGS provides multi-client geoscience data to oil and gas Exploration and Production companies worldwide. In addition to extensive global geophysical and geological data libraries that include multi-client seismic data, magnetic and gravity data, digital well logs, production data and directional surveys, TGS also offers advanced processing and imaging services, interpretation products, permanent reservoir monitoring and data integration solutions.
+
+Job Summary:
+
+The Data Scientist is responsible for supporting branch projects using data analytics in data visualization, advanced statistics, predictive analytics, machine learning, and preparation of long-term future development scenarios, including performance for planning and economic purposes for Oil and Gas Industry.
+
+Duties and Responsibilities:
+
+Develop advanced analytics that will help geoscientists, geologists and petrophysicists access the critical and high quality TGS data to make the best decision possible.
+
+Explore, interpret, and analyze datasets for patterns of interest
+
+Apply data mining and machine learning techniques, perform statistical analysis, and build high-quality prediction systems that solve our customers' business problems
+
+Work closely with various teams to understand our customers' needs, eventually crafting and pitching machine learning use cases to them
+
+Model business problems to machine learning ones, map business data to dependent and independent features, perform proper feature engineering, iterate with different predictive models, and conduct hyper parameter optimization to yield highest prediction accuracy to deploy the model to production
+
+Help build the data science and machine learning capability inside TGS by developing best practices and patterns for geophysical and geological machine learning, developing reusable technical components for demos and POCs, and identifying and helping establish the needed technology stack and infrastructure
+
+Keep up-to-date with latest technology trends in machine and deep learning and quickly learn about new frameworks/techniques to be used in projects delivery
+
+Actively support company personnel, safety and ethics policies
+
+Additional duties as assigned by your supervisor
+
+Take responsibility for your own safety, and comply with all instructions given regarding health, safety and the protection of the environment
+
+Ensure the correct use of safety devices and protective equipment as required and report any hazards, accidents or injuries to your immediate supervisor
+
+Job Requirements:
+
+Minimum of a Bachelor’s Degree in a relevant quantitative field, such as Statistics, Operations Research, or Computer Science. Master's or PhD preferred.
+
+3-5 Years of Experience as a Data Scientist is required
+
+Skills:
+
+Deep understanding of machine learning techniques and algorithms, such as decision trees, gradient boosting methods, etc.
+
+Strong programming background in Python
+
+Good understanding of the principles of machine learning and deep learning
+
+Familiarity with machine learning frameworks/libraries/packages/APIs (e.g., TensorFlow, PyTorch)
+
+Proven experience in ETL, data processing, transformation, cleaning, and data warehousing techniques
+
+Experience with applied statistics skills, such as distributions, statistical testing, and regression
+
+Experience with widely used probability methods
+
+Experience with time series analysis
+
+Experience with data visualization techniques and tools (e.g., matplotlib)
+
+Good software engineering background (OOP, data structures, algorithms, good understanding of high-performance computing)
+
+Qualifications:
+
+Proven understanding of multivariable calculus and linear algebra
+
+Experience dealing with massive data sets
+
+Strong academic and professional background with statistics
+
+Hands-on experience and expertise with cloud computing services (AWS, Azure, etc.)
+
+Experience in oil and gas industry preferred

@@ -1,0 +1,38 @@
+What We Do
+
+Real-Time Risk Innovation
+
+Imagine is the leading provider of real-time portfolio, risk management and regulatory solutions for financial services firms worldwide. Our integrated software, data and services help businesses better manage financial risk, improve portfolio performance, and deliver transparency. Imagine's innovative technology and talented professionals deliver the products and solutions that enable our clients to navigate changing markets, respond to regulatory change and scale for growth.
+
+Overview
+
+The Business Analyst, Margin will work directly with colleagues in the US and Europe to develop and enhance the portfolio margin platform.
+
+Responsibilities
+Use business analysis skills to translate SME margin requirements and methodologies into platform-specific technical requirements for Margin Development team.
+Liaise with software developers and UAT team to ensure delivery of solutions that are fit for purpose; Provide definition of "done."
+Assist Development and QA teams in integrating exchange margin replication tools.
+Facilitate communication with third party exchanges to understand data and calculation details.
+Liaise with Data team to ensure availability of security data required for margin calculations.
+Serve as a margin platform expert for the Support team.
+Source and maintain exchange margin specifications and parameter files.
+Skills and Requirements
+Excellent written and verbal communication skills.
+Ability to communicate high level business concepts to technical teams and technical details to project sponsors.
+Comfortable with attention to detail.
+Strong ability to work independently as well as collaborate as part of a team.
+Knowledge of how initial margin is calculated across products and exchanges.
+Familiarity with margin optimization and capital efficiencies between OTC products and futures.
+Familiarity with Javascript and BPMN tools.
+Proficiency with database queries to assist Development, QA, and Support teams.
+Familiarity with the Imagine platform would be a plus.
+Minimum 3 years financial experience/MBA preferred.
+Work Environment
+The work environment is highly collaborative and project-centric combing the best of functional departments in matrixed ways to achieve project goals and business initiatives.
+We utilize various methodologies including Agile, Scrum, V-Driven Testing, and Rapid Programming.
+Gathering requirements is highly fluid and may be framed within waterfall specification documentation or user story documents for more agile work.
+You can expect to provide specifications from many sources including:
+Stakeholders expectations
+General use cases
+Business requirements
+Proof of concept work

@@ -1,0 +1,26 @@
+Posted: Jun 12, 2020
+Weekly Hours: 40
+Role Number:
+200175199
+We are the Computer Vision Testing Group responsible for quality of many exciting projects (ARkit, Animoji, FaceID, etc.), that have been shipped on Apple products. We are now seeking a Camera Image Quality Engineer to stress test and provide responsible image quality feedback to developers. You will do hands-on image quality testing work, collaborate with developers, continuously track camera algorithm bugs and be able to represent image quality from a user's perspective.
+Key Qualifications
+A curious mind
+An obsession for quality
+Background in Data science, Data mining, Multivariate statistics, Computer vision, Machine learning
+Experience working with large scale data sets
+Solid programming skills including:
+Python
+C/C++
+Experience with data visualization and presentation, familiar with data analysis tools such as Tableau
+Excellent problem solving and communication skills
+Description
+The Data Scientist will work closely with other members of the Video Engineering group to mine data, implement model evaluation pipeline, analyze large scale data, visualize data, and ensure the delivery is of the highest quality. This position will also require strong coding skills, presentation skills, and collaborating with multiple teams (ex: machine learning, cloud infrastructure support).
+
+The responsibilities of this position includes but not limited to the following for current and future products:
+Implement algorithm evaluation methods
+Analyze data and build data analysis tools
+Deep-dive failure analysis
+Discover new perspectives for old data
+Produce / Present meaningful data visualization to higher-ups and across various involved teams
+Education & Experience
+PhD or Masters in Computer Science

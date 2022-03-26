@@ -1,0 +1,50 @@
+Job Summary:
+
+Disney Streaming Services is a place for the creative and the bold. Whether New York City, San Francisco, Manchester or Amsterdam, we provide opportunities to elevate your career and transform the industry.
+
+Software Engineers at Disney Streaming Services develop premium digital media products for Major League Baseball and our partners. The products we build, such as ESPN+, Disney+, MLB.TV and NHL.TV, are paving the way for the next-generation media and sport technologies. Our Engineering team for Disney Streaming Services is headquartered in the Chelsea area of New York City. Other office locations also include the SoMo area of San Francisco, CA and several international locations.
+
+At Disney Streaming Services, data is central to measuring all aspects of the business, and critical to its operations and growth. The data engineering team is responsible for collecting, analyzing and distributing data using public cloud and open source technologies and offers transparency into customer behavior and business performance.
+
+If you are interested in joining Disney Streaming Services in the pursuit of not only crafting new media products but enjoying the products you build, we are interested in hearing from you.
+
+Responsibilities:
+Collaborate with product teams, data analysts and data scientists to design and build data-forward solutions
+Design and build and deploy streaming and batch data pipelines capable of processing and storing petabytes of data quickly and reliably
+Integrate with a variety of data metric providers ranging from advertising, web analytics, and consumer devices
+Build and maintain dimensional data warehouses in support of business intelligence tools
+Develop data catalogs and data validations to ensure clarity and correctness of key business metrics
+Drive and maintain a culture of quality, innovation and experimentation
+Coach data engineers best practices and technical concepts of building large scale data platforms
+Basic Qualifications:
+3-5 years of experience developing in object oriented Python
+Experience deploying and running AWS-based data solutions and familiar with tools such as Cloud Formation, IAM, Athena, and Kinesis
+Experience engineering big-data solutions using technologies like EMR, S3, Spark and an in-depth understanding of data partitioning and sharding techniques
+Familiar with metadata management, data lineage, and principles of data governance
+Experience loading and querying cloud-hosted databases such as Redshift and Snowflake
+Building streaming data pipelines using Kafka, Spark, or Flink
+Preferred Qualifications:
+Familiarity with binary data serialization formats such as Parquet, Avro, and Thrift
+Experience deploying data notebook and analytic environments such as Jupyter and Databricks
+Knowledge of the Python data ecosystem using pandas and numpy
+Experience building and deploying ML pipelines: training models, feature development, regression testing
+Experience with graph-based data workflows using Apache Airflow
+Required Education
+
+Bachelor's degree in Computer Science or related field or equivalent work experience
+
+About Disney Streaming Services:
+
+Disney Streaming Services is responsible for developing and operating The Walt Disney Company's direct-to-consumer video businesses globally, including the ESPN+ premium sports streaming service; Disney+, the dedicated streaming home for entertainment from Disney, Pixar, Marvel, Star Wars, National Geographic and BAMTECH Media, a global leader in direct-to-consumer video streaming products and solutions. Our core mission is to deliver global audiences the freedom to access content on their terms across any connected device, time or location. We serve consumers by bringing the world's most beloved characters, timeless stories, legendary athletes, and epic sporting events to global audiences through best-in-class direct-to-consumer video services. We strive daily to imaginatively challenge convention with innovative technology that gives consumers the freedom to access content on their terms across any connected device, time or location.
+
+About The Walt Disney Company:
+
+The Walt Disney Company, together with its subsidiaries and affiliates, is a leading diversified international family entertainment and media enterprise with the following business segments: media networks, parks and resorts, studio entertainment, consumer products and interactive media. From humble beginnings as a cartoon studio in the 1920s to its preeminent name in the entertainment industry today, Disney proudly continues its legacy of creating world-class stories and experiences for every member of the family. Disney's stories, characters and experiences reach consumers and guests from every corner of the globe. With operations in more than 40 countries, our employees and cast members work together to create entertainment experiences that are both universally and locally cherished.
+
+This position is with Disney Streaming Technology LLC, which is part of a business segment we call Disney Streaming Services.
+
+Disney Streaming Technology LLC is an equal opportunity employer. Applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Disney fosters a business culture where ideas and decisions from all people help us grow, innovate, create the best stories and be relevant in a rapidly changing world.
+
+Apply Now Apply Later
+
+Explore Location

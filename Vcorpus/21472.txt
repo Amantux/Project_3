@@ -1,0 +1,44 @@
+Role: Market Data Analysis Expert only W2
+Location: 100 % remote
+Years of Experience: Typically, 10+, 5+ could be acceptable depending on skills and knowledge.
+Business Context:
+Must Haves:
+Corporate Bond [HY or IG] Electronic Trading market structure
+Deep understanding on Financial calculations, such as conversion of Yield to Price and basic understanding of Spread
+Deep understanding of BWIC/OWIC negotiating protocol, including nuisances with LP/ECN/ATS
+Deep understanding of Offer Management including concepts of Tiering levels
+Deep understanding of Market Data including Aggregated, Consolidated and Montage books
+Understanding of Post Trade Feed flows including calculations for settlement
+Nice to Have
+Understanding of Risk including DV01, CR01 and generally what these numbers indicate
+Understanding of strategies used to position particular inventory sectors
+Understanding of micro-market structures and typical areas exploited by Algorithmic partners
+Understanding of any Regulatory organizations
+Technology Skills:
+Must Haves:
+Deep Java expertise including low latency techniques such as memory maps, ring buffers, thread pining and cache line consistency
+Deep Experience with Distributed Memory Fabric
+Deep experience with Messaging [JMS or native]
+Experience with raw TCP/IP and UDP/Multicast [prefer to see how implemented reliable Multi-cast]
+Understanding of Spring, Gradle and Docker
+Experience with Relational Databases [Postgress or Oracle preferred]
+Highly skilled in Linux scripting, troubleshooting and host tuning
+Experience with Chromium Engines, HTML5 and Angular or React Javascript libraries
+Nice to Have
+Experience with C/C++, Rust or Python
+Familiarity with Java Unsafe memory access model
+Experience with Kubernetes configuration and Jenkins scripting
+Big Data experience â prefer Hadoop with PIG or Hive
+No SQL Experience, even Mongo DB is ok here
+Tick Database and Market data streaming understanding
+Complex Event Processor experience
+Â
+Â
+Regards,
+4975 Preston Park Blvd, Suite 500 Plano, TX 75093
+Mob: 214-446- 4487
+Phone: 972 430 1000 *127
+Email: bala
+www.tekleaders.com
+Â
+Â

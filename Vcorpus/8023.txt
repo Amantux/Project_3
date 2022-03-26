@@ -1,0 +1,51 @@
+SuisseCo GmbH is a pan-European IT consulting firm with headquarters in Zug and a branch in Zurich. The product portfolio includes IT projects focusing on data management, business intelligence and big data for major international clients in the financial and insurance sectors as well as local industrial companies.
+
+For our office in Zürich/Seefeld we are looking immediately for a Supporting Data Scientist .
+
+Key Responsibilities
+
+The role of Data Scientists Support.is mainly focused on supporting Analytics Lab service, i.e. to provide day-to-day guidance and support to the data scientists in various business divisions.
+
+In this position you will primarily focus on supporting data scientists in various business areas to help them use available tools and technology in the best way within context of their projects
+
+You will be the main point of contact to resolve various issues the data scientists experience in their data work in relation to the tools, technologies, security, connectivity and data
+
+In addition, you will also work on use-cases for business areas, who do not have their own data science capability
+
+You love to proactively identify opportunities to apply machine learning and other advanced analytics methods to contribute to the business success, reduce costs and optimize business processes
+
+You lead PoCs and analytical use cases development for business areas within CS Swiss organization
+
+Additionally you will take part in the operationalization of analytical models developed by other data scientists to embed them into the bank’s business processes
+
+Essentials Skills and Qualifications:
+
+You are proficient in troubleshooting technical issues in complex IT environments
+
+You are technically savvy and able to learn new concepts and technologies quickly
+
+Solid knowledge of security concepts, including Unix ACLs, Kerberos and user impersonation among others
+
+Experience with Dataiku data science toolset incl. Data Science Studio and ideally Automation and API Nodes
+
+Experience with Hadoop technology stack, ideally Cloudera
+
+At least some understanding of data integration, machine learning and other advanced analytics methods
+
+Desired Skills and Qualifications:
+
+Experience with Jupyter Notebook, Hue and/or other end user tools.
+
+Experience of applying machine learning and advanced analytics methods to tackle business use cases
+
+Experience in using various machine learning methods and frameworks, including scikit-learn, MLlib, Tensorflow, Keras, H2O,
+
+XGBoost and similar
+
+Excellent knowledge of SQL with Oracle, Hive and Impala databases
+
+You have a successful track record of working with Python, Spark, Scala and other programming languages
+
+Tableau experience, both Desktop to build dashboards and Server configuration
+
+If you are a practically orientated personality, which thrives in a dynamic, international and challenging environment, then we look forward to receiving your application.

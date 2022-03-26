@@ -1,0 +1,80 @@
+Read what people are saying about working here. 
+
+About the Department
+
+Imagine transforming the face of biomedical research and building world-class protein technology platforms in a state-of-the art facility. That’s what we do at Novo Nordisk Research Center Seattle, Inc. (NNRCSI). Our scientists apply cutting-edge technologies to early discovery projects within the diabetes and obesity areas, with the goal of bringing molecules to market. Such projects include identifying protein-based therapies for obesity, diabetes, and adjacent therapeutic areas, and researching the next generation of medical devices. At the NNRCSI, your skills, dedication and ambition will help us change lives for the better. In exchange, we’ll offer you an opportunity to work with extraordinary talent, continuously learn and develop, and drive change to defeat diabetes and other serious chronic conditions. The team is comprised of collaborative, diverse and passionate people who have a true sense of pride in their work and are committed to helping others grow and develop in their careers. You’ll also have a platform to engage with key stakeholders on a global scale throughout the entire pipeline process. And while changing the future of diabetes treatment is no easy task, we also recognize the importance of an enjoyable workplace, which is why we’ve cultivated a culture of fun, ingenuity and innovation. And our competitive compensation package, generous benefits, and support of a healthy work-life balance all add to a best-in-class employee experience. We are changing lives for a living. Are you ready to make a difference?
+
+The Position
+
+The USDR-US Data Scientist I will contribute to the USDR-US vision to explore and develop new technology, product ideas, and game-changers that may hold the potential to add value to patients and Novo Nordisk in the future within therapeutic areas covered by Novo Nordisk corporate strategy. The Data Scientist I will bring elements of software development in a data science context to a data science R&D team, and will have the opportunity to help develop our technical culture. The Data Scientist I will be responsible for developing, implementing and applying technical tools. At the same time, the Data Scientist I should thrive in a collaborative environment and feel motivated by working with others on novel scientific discoveries generating data insights.
+
+RELATIONSHIPS
+
+The Data Scientist I reports to a USDR-US Senior Project Manager. Internal relationships include R&D colleagues in Seattle and in Denmark. This includes engineers, software developers, designers, user researchers, data scientists, and others. External relationships include relationships with commercial and academic collaboration partners, and may include NNRCSI Seattle drug researchers.
+
+ESSENTIAL FUNCTIONS
+
+Implement and maintain local and cloud (AWS) based computational environments and platforms
+
+Facilitate data pipelines and manage databases
+
+Support daily tasks with data scientists, software developers and other team members
+
+Contribute to the development of therapeutic algorithms based on physiological, sensor, baseline, and behavioral data
+
+Support other data scientists to design, code, train, test, deploy, and iterate on machine learning systems
+
+Demonstrate initiative in identifying and addressing unmet patient needs using data
+
+Generate and mature ideas and concepts into real world solutions
+
+Prepare and present written and oral reports and proposals to peers and management
+
+Capture new, relevant inventions in Novo Nordisk patent applications
+
+Occasionally collaborate with external partners
+
+PHYSICAL REQUIREMENTS
+
+Approximately 10% overnight travel
+
+Qualifications
+
+Bachelor’s degree in computer science or related field (or equivalent experience)
+
+1+ year of experience with Docker and standard AWS services (S3, ECS, EFS, etc.)
+
+2+ years designing and building high-quality systems to handle complex data sets
+
+2+ years writing high quality code using Python or R, as well as PostgreSQL and Git
+
+Advanced degree may be substituted for experience as appropriate
+
+Solid software engineering skills across multiple languages and technologies, including Python, R, AWS, Postgres, Docker, and Git
+
+Preferred experience with business intelligence and demonstration platforms such as PowerBI, Shiny, etc.
+
+Preferred experience with data science tools such as Hadoop, Impala, Hive, Pig, Spark, Jupyter, etc.
+
+Ability to validate algorithms against clinical data, ensuring appropriateness of fit
+
+Experience with one or more of the following is preferred: deep learning, Bayesian reasoning, recommendation systems, learning from semi-structured data, reinforcement or active learning, ML software systems, machine learning on mobile devices
+
+Ability to perform in-depth data analysis and present results and conclusions to engineering and leadership teams
+
+Experience in regulated medical device development or in other regulated field preferred
+
+Excellent written and oral communication skills
+
+Detail oriented with strong documentation skills
+
+Novo Nordisk is an Equal Opportunity Employer - M/F/Veteran/Disability/Sexual Orientation/Gender Identity.
+
+If you are interested in applying to Novo Nordisk and need special assistance or an accommodation to apply, please call us at 1-855-411-5290. This contact is for accommodation requests only and cannot be used to inquire about the status of applications.
+
+Requisition ID: 59605BR
+
+State/Provinces: Seattle
+
+Job Category: Research
+ Novo Nordisk A/S is a Denmark-based healthcare company. The Company provides diabetes care and is engaged in haemostasis management, grow...

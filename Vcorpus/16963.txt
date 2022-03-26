@@ -1,0 +1,47 @@
+What if you could use your technology skills to develop a product that impacts the way communities' hospitals, homes, sports stadiums, and schools across the world are built? Construction impacts the lives of nearly everyone in the world, and yet it's also one of the world's least digitized industries, not to mention one of the most dangerous. That's why we're looking for a talented Principal Kafka Engineer to join Procore's journey to revolutionize a historically underserved industry.
+
+As a Principal Kafka Engineer, you'll join a highly skilled team of Site Reliability, Security, Data Administration, and Production Engineering disciplines dispersed across our Carpinteria, CA, and Austin, TX offices. You'll provide architectural guidance, mentorship, and hands-on support for all things related to Procore's cloud-based Kafka systems. You'll help lead strategic initiatives across the organization while also conducting a range of system management work including managing uptime, event integrity, disaster recovery, self-healing and alerting, and event reporting.
+
+This position will report to the manager of our Data Administration squad and has the opportunity to be located in any of our US offices. Remote candidates will be considered based on experience. We're looking for someone to join us immediately.
+
+What you'll do:
+Work closely with Site Reliability, Security, and Development teams to ensure best practices are followed and architecture patterns are aligned with the requirements
+Leverage subject matter and technical expertise to provide leadership, mentoring, and strategic influence across the organization
+Provide hands-on support for all event-based systems including incident triage and root cause analysis
+Support on-call participation, planning and change management, detailed runbooks, and documentation
+Effectively prioritize and organize tasks and deliver business-driven decisions under pressure
+Efficiently execute daily operational tasks including administration, performance monitoring, triage, ad-hoc walk-ups, and project milestones
+Assist in designing event-based architecture, holding design reviews, building and troubleshooting databases, as well as digging deep into the root of an issue and providing solutions
+Provide configuration and maintenance support for production and development environments
+Assist Application Developers with optimization and tuning
+Generate and maintain scripts to automate common operational and maintenance tasks
+Identify performance trends and opportunities, and deploy proactive corrective measures to minimize downtime
+Work across our tech stack of Ruby on Rails, PostgreSQL, AWS, Kafka, S3, Snowflake, and more
+What we are looking for:
+BS degree in Computer Science or equivalent practical experience
+5+ years of of experience in Kafka or combined experience of 6+ years of Kafka and other message broker or event-driven technologies
+4+ years of experience working within a Cloud infrastructure environment, on-premise or remote
+Development experience in any language
+Production infrastructure and operations background
+Experience working quickly, efficiently, and with keen attention to detail at a fast-paced company where services are available 24/7/365
+Possess a strong understanding that automation is essential, and proactively push boundaries in areas like self-healing conditions and alerts
+Strong Experience with Kafka is desired
+Experience with ETL, data warehouse, data lake, message-brokering, and event-based architecture
+Strong technical hands-on experience in delivering projects
+Possess a natural wonder for technology including AWS and docker and automation
+Experience using the following tools is desirable:
+AWS, GCP, Azure
+Linux Experience
+AWS MSK, Kafka, RabbitMQ
+Containers and Container Management (Docker, Kubernetes)
+Config Management
+Log aggregation tools ( SumoLogic, Splunk, Kibana )
+About Us
+
+Procore Technologies is building the software that builds the world. We provide cloud-based construction management software that helps clients more efficiently build skyscrapers, hospitals, housing complexes, and more. Our headquarters is located on the bluffs above the Pacific Ocean in Carpinteria, CA, with growing offices worldwide. Check us out on Glassdoor to see what others are saying about working at Procore!
+
+We are an equal opportunity employer and welcome builders of all backgrounds. We thrive in a diverse, dynamic and inclusive environment. We do not tolerate discrimination against employees on the basis of age, color, disability, gender, gender identity or expression, marital status, national origin, political affiliation, race, religion, sexual orientation, veteran status, or any other classification protected by law.
+
+Perks & Benefits
+
+You are a person with dreams, goals, and ambitions—both personally and professionally. That's why we believe in providing benefits that not only match our Procore values (Openness, Optimism, and Ownership) but enhance the lives of our team members. Here are just a few of our benefit offerings: competitive health care plans, unlimited paid vacation, employee enrichment and development programs, and volunteer days.

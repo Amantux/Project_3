@@ -1,0 +1,38 @@
+Founded in 2014, Vinli is an automotive technology company based in the heart of Downtown Dallas. In just four years, our team has built the most advanced vehicle data computing platform and secured global partnerships with significant players in the telecom, automotive, and asset management industries. Vinli’s fully customizable platform has enabled sophisticated brands to easily engineer connected car services, allowing them to capitalize on both their vehicle data and other related data sources. Our passion is building products that unlock the true value of connected cars by showing drivers, passengers and organizations the potential hidden within their vehicles' data.
+
+About the Role
+
+The Vinli Data and Analytics team is looking to add a Data Engineer to design and manage all things big data. The team covers data governance, data strategy and partnerships, reporting, machine learning and much more. You will be the cornerstone for data solutions across each of these areas. The candidate must be able to communicate, work with and deliver across each discipline as well as the end business user and executive leadership.
+Responsibilities:
+Lead data architect for the Vinli analytics team.
+Integrate multiple data sources and software tools within the Vinli analytics ecosystem.
+Collaborate with tech leaders across Vinli to ensure data strategy continuously meets all needs both internal and for Vinli customer.
+Create and deliver executive presentations explaining the complex data in simple easy-to-understand terms that resonates with an executive audience.
+Must haves:
+BS in a STEM field.
+Advanced design, coding and analytics skills in a big data ecosystem.
+Expert knowledge of SQL.
+Experience with other languages such as Python, R, PySpark, Java or Scala.
+Strong background of data structures and big data tools (Spark, Hive, HDFS, ect.).
+Data wrangling and ETL tooling experience.
+Exceptional communication skills between both business and technical teams.
+
+Preferred:
+MS or higher in a STEM field.
+Experience managing teams or projects.
+Demonstrated experience with AWS, GCP or Azure.
+Experience handling confidential and sensitive data.
+Demonstrated ability to independently influence and drive outputs, meet deadlines, and set clear expectations and roadmaps.
+
+About You:
+Able to work in a fast-moving environment with high stakes for the company’s success
+You take pride and responsibility seeing the product you worked on meet the real world for the first time
+You love to learn and embrace the opportunity to contribute in new areas.
+
+Vinli Core Values
+
+Integrity. Doing what you say you will do at Vinli is our way of building trust among our team members, partners, investors and vendors. We believe that maintaining integrity requires an openness and empathy in sharing goals and challenges with others.
+Drive to Innovate. People at Vinli don’t just love to learn, they feel compelled to use their knowledge to make our Company and the world a better place. We believe in learning from our mistakes and always challenging ourselves to innovate - from the biggest product decisions to the smallest processes.
+Joyful Work Environment. Loving where you work isn’t about ping pong tables and free snacks. It’s the feeling that you wouldn’t want to be on a project with any other team. It’s the feeling that you can get creative energy just by showing up to work. It’s the feeling that your entire team respects your life away from the job and understands how work impacts it. At Vinli, we believe in building camaraderie and joy in our environment by supporting and encouraging each other every day.
+
+We are an equal opportunity employer. We strictly prohibit unlawful discrimination or harassment of any kind, including discrimination or harassment on the basis of race, color, national origin, ancestry, religion, veteran status, age, pregnancy status, sex, gender identity or expression, sexual orientation, marital status, mental or physical disability, medical condition, or any other characteristics protected by law. We also make all reasonable accommodations to meet our obligations under laws protecting the rights of the disabled.

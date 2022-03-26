@@ -1,0 +1,73 @@
+Job: Data Scientist
+
+Reports to: Director, Data & Insights
+
+Start Date: ASAP
+
+At its core, DoSomething.org is a data-driven organization. Data leads every strategy and goal-setting conversation. The Data & Insights teams job is to analyze large and rapidly evolving data sets to detect changes in our member's behavior and the global youth population.
+
+The Data Scientists role at DoSomething.org is to be the analytical powerhouse that fuels and informs decision making across the organization enabling us to create the most socially and civically engaged generation of young people, ever. You will deliver analyses and products that advance our understanding of drivers of growth and impact.
+
+A successful candidate will possess strong analytical and programming skills alongside a steadfast sense of curiosity, ability to communicate to technical and non-technical stakeholders and a solutions-oriented mindset.
+
+What you'll do:
+Data Analysis and Model Building (50%)
+Mine and synthesize large data sets to enhance the organizations understanding of membership segments, propensities, outcomes and decision points.
+Build models and analyses that uncover the key drivers of acquisition, engagement and retention within the context of the DoSomething campaign mix and product feature development.
+Build statistical models to predict various outcomes of interest and forecast KPIs
+Deliver findings & recommendations to non-technical, cross-functional stakeholders via various visualization methods (Google Analytics, Slides, Docs, Looker, notebooks etc.)
+Assist in sizing impact of new growth opportunities
+Contribute to the development DoSomething.orgs long term analytics strategy
+Data Infrastructure Strategy & Design (20%)
+Collaborate with product management and engineering departments to understand company needs and devise possible data product solutions that scale
+Inform requirements for derived tables that enable analysis; Optimize these joint development efforts through appropriate database use and project design
+Inform requirements for monitoring to ensure our data pipelines are functional, scalable and working as expected
+BI/ Operational support (30%)
+Support ad hoc requests for data & insights from business stakeholders across product, marketing, campaign and business development teams
+Support top level Looker reports/dashboards for non-technical staff
+What we're looking for:
+Strong sense of curiosity. You have the desire to learn new skills and understand complex problems fast.
+Ability to explain analytical outcomes in basic terms. You understand why making data accessible to the larger organization is important, and don't want to be a gatekeeper to this pertinent information.
+High degree of technical proficiency:
+2-3 years of experience with SQL (any variant is fine, though we use PostgreSQL)
+1-3 years of experience with R or Python
+Ability to write scalable, portable scripts that automate querying or generate reproducible analysis
+Experience with the following:
+BI tool (Tableau/Looker/PowerBI)
+Working with non-relational data
+Data warehousing technology and environments (a plus, not a non-negotiable)
+Team oriented with the ability to work cross-functionally and collaboratively at all levels of the organization.
+Well-rounded individual. You are currently learning a new skill or adopting a new hobby that has nothing to do with data science.
+Other Notes:
+Data is everywhere. If youve worked with it at scale, apply, even if you dont meet every single qualification, please apply! Past successful candidates have come with backgrounds in CS, statistics, mathematics, and economics, although these are not required.
+Application Instructions.
+
+Here at DoSomething, we are committed to cultivating an equitable and inclusive environment where a diverse group of people can do their best work, and that starts with how we hire. We ask that you please remove all identifying information from your resume before you upload your application in an effort to help us remove unconscious bias from our resume review process.
+
+Identifying information includes your name, photos, LinkedIn URL, email and physical address.
+
+The Perks.
+3 weeks vacation plus the week between Christmas and New Years (plus Summer Fridays from Memorial Day to Labor Day!). And your birthday, Valentines day, and a half-day on Halloween. If youre in costume. Seriously.
+An inclusive office environment, a gong, brownie bake-offs, and the best coworkers you could ask for.
+Medical and dental premiums fully covered by us. Mhmm. You read that right.
+Five (or six? Were losing count.) different ways of making coffee.
+An incredibly compelling reason to wake up and make it to work every day.
+DoSomething.org is an equal opportunity employer.
+Please, no calls.
+
+------------------------------------------------
+
+DoSomething.org and DoSomething Strategic (we, us) are committed to protecting and respecting your privacy. This policy explains when and why we collect personal information on candidates, and how we keep it secure.
+
+Who are we?
+DoSomething.org is one of the largest organizations in the world focused on young people and social change. DoSomething Strategic is the consulting arm of DoSomething.org. Our 6 million+ members take action, online and offline, to better their communities by participating in one of our 250+ cause campaigns.
+How and why we collect data from you.
+We collect and retain data that is included in your job application. This includes your full name, contact information, and any personal information disclosed in your resume, cover letter, and other supplemental application materials.
+Data is collected for evaluation criteria when seeking employment at DoSomething
+We will only use your data for what was originally intended -- for purposes of seeking and gaining employment at DoSomething. Your data will not be recycled for marketing emails or to sell to third parties.
+How long do we retain this data?
+DoSomething will retain candidate profiles for 3 years.
+Annually on August 1, candidate profiles from 3+ years prior will be entirely deleted from our system.
+Is your data secure?
+JazzHR maintains secure job board pages. Job boards will default to HTTPS. Additionally, if we were to terminate our contract with JazzHR our candidate data is deleted from JazzHRs systems in accordance with JazzHRs Terms of Service.
+Powered by JazzHR

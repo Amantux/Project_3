@@ -1,0 +1,32 @@
+Blackfynn is looking for an experienced Full-Stack Engineer to join our growing engineering team. We're looking for someone that enjoys working in a diverse development environment and loves tackling tough engineering problems.
+ABOUT US
+Our Engineering team designs, builds, scales and optimizes the infrastructure and services powering Blackfynn's data platform, which is leveraged by our end users and internal data science team.
+We're a team with diverse backgrounds that value working on products that make a meaningful difference. We appreciate healthy debate, curiosity, transparency, and getting things done. Above all else, we're looking for people who are mission driven and wish to use their talents to make meaningful impacts on people's lives.
+
+ABOUT OUR STACK
+Our code is well tested, thoughtfully designed, and well-structured. We view software development as a craft. We care deeply about user experience in a field where it is often lacking. We're not language or library zealots, we're "right tool for the job" people; we’re not afraid of a diverse toolset. Although experience with our existing stack is great, we're interested in engineers who are able to take the complex tasks our users perform and distill them down to intuitive experiences. Today, our engineering team makes use of:
+Languages: Javascript/ES6, Node, CSS, HTML, Scala for APIs, Rust CLI, and clients for Python and Matlab
+Frameworks: Vue, Vuex, Ramda, Scalatra, Akka, TinkerPop
+Visualization: D3, canvas
+Infrastructure: A whole lot of AWS and Terraform
+Datastores: Many, we heavily lean on Postgres, Neptune and DynamoDB
+
+ABOUT YOU
+As a Full-Stack Engineer at Blackfynn, we expect that:
+You care deeply about user experience and have strong design sensibilities.
+You sweat the small stuff, thoughtful things that make a product shine.
+You have experience building intuitive interfaces which solve complex tasks.
+You consider yourself a generalist who happens to have deep knowledge in an area or two.
+You value asynchrony, immutability, and static types.
+You have experience working with data of varying shapes and sizes.
+You constantly consider data security and privacy.
+You're mindful of performance and trade-offs in your work.
+You're eager to review peer code and have your code reviewed.
+You're team focused and care about engineering culture.
+WHAT WE OFFER
+Competitive salaries and equity participation – we all share in Blackfynn’s success
+Generous vacation benefits – we want you to work hard but also rest and recharge
+Excellent health benefits – at the end of the day, we are here to improve healthcare
+WHY Blackfynn?
+Neurologic conditions affect one in six people worldwide. The data collected when research and treating these conditions is some of the most complex in the field today. To improve the lives of those impacted, access to and collaboration around this data needs to be vastly improved. To achieve these goals, we need passionate, bright, collaborative, problem-solvers who want to use their skills and talents to make a positive impact on the world.
+For more information, please contact us at: tim@blackfynn.com

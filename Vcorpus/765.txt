@@ -1,0 +1,108 @@
+Towers Crescent (12066), United States of America, Vienna, Virginia   At Capital One, we’re building a leading information-based technology company. Still founder-led by Chairman and Chief Executive Officer Richard Fairbank, Capital One is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. We measure our efforts by the success our customers enjoy and the advocacy they exhibit. We are succeeding because they are succeeding.                                               
+
+Guided by our shared values, we thrive in an environment where collaboration and openness are valued. We believe that innovation is powered by perspective and that teamwork and respect for each other lead to superior results. We elevate each other and obsess about doing the right thing. Our associates serve with humility and a deep respect for their responsibility in helping our customers achieve their goals and realize their dreams. Together, we are on a quest to change banking for good.   Data Scientist for Machine Learning, Conversational AI  
+Capital One is seeking a Data Scientist for an exciting initiative to develop multichannel natural language
+intelligent assistants that provide an outstanding experience for our customers.  So far we've brought to
+life Eno, Capital One’s intelligent assistant, and our Alexa and Cortana skills. We're quickly improving
+these and adding more channels. You will work closely with our product, design, and tech teams to
+develop machine learning models leveraging rich data to bring greater intelligence and humanity to our
+conversational AI. 
+
+At Capital One, data is at the center of everything we do. When we were a tiny startup in 1988,  we
+disrupted the credit card using an information-based strategy to individually personalize every credit
+card offer using statistical modeling and relational databases. Fast-forward to the present and our
+passion for data have skyrocketed us to a Fortune 200 company and a leader in the world of data-driven
+decision-making. 
+
+Twenty-five years after Capital One was started it’s still led by its founder who is committed to making it
+a leading tech company, not just a leading bank. Be ready to join a community of the smartest people
+you’ve ever met, who put the customer first, and want to use their data skills to change banking for
+good. 
+
+As a Data Scientist at Capital One, you’ll be part of a team that’s leading the next wave of disruption at a
+whole new scale, using the latest in distributed computing technologies and operating across billions
+and billions of customer transactions to unlock the big opportunities that help everyday people save
+money, time and agony in their financial lives.  You'll also be part of a strong community of hundreds of
+data scientists doing industry-leading work. 
+
+
+In this position you'll spend time: 
+● Writing code, probably Python, to create machine learning models from conception through retraining,
+partnering with tech teams to deploy to our 30+ million customers in production
+● Mapping whitespace.  You’ll have a lot of latitude to create your own research agenda while focusing on
+where your team can provide the best value.
+● Building partnerships with other ML teams to help deliver more, faster, better 
+
+
+On any given day you may also find yourself: 
+● Using keras, Tensorflow, and/or other hot tools for prototyping and building robust, deployable models
+● Collaborating with our AI teams to make Messaging ever smarter
+● Brainstorming with our Design teams to dream up the next cool way to make Messaging more
+empathetic
+● Using Spark and related tools to manage the analysis of billions of customer transaction records
+● Writing software to clean and investigate large, messy data sets of numerical and textual data
+● Integrating with external data sources and APIs to discover interesting trends (NOAA Weather Data +
+Credit Card Transactions = Fascinating!)
+● Designing a rich data visualization to communicate complex ideas to customers or company leaders
+● Reading up on a new modeling algorithm that the industry is starting to use 
+
+
+The Ideal Candidate will be:  
+● Curious. You ask why, you explore, you're not afraid to blurt out your crazy idea. You probably have a
+diploma and an impressive GPA, or you dropped out of college, taught yourself and routinely win Kaggle
+competitions.
+● Wrangler. You know how to move data around, from a database or an API, through a transformation or
+two, a model and into human-readable form (ROC curve, Excel chart, map, d3 visualization, Tableau,
+etc.). You probably know Python, Java, R, Storm, Julia, SQL, Matlab, Mahout, or think everything can be
+done in a Perl one-liner.
+● Do-er. You have a bias toward action, you try things, and sometimes you fail. Expect to tell us what
+you’ve shipped and what’s flopped.
+● Fearless. Big, undefined problems and petabytes don't frighten you. You can work at a tiny crack until
+you've broken open the whole nut. 
+
+
+Basic Qualifications: 
+● At least a Master's Degree and some interesting projects OR a Bachelor's Degree and a minimum of 2
+years of experience
+● At least 2 years of experience in open source programming languages for large-scale data analysis
+● At least 2 years of experience with machine learning
+● At least 1 year of experience with relational databases
+● At least 1 year of experience with SQL 
+
+
+Preferred Qualifications: 
+● PhD
+● 2+ years of experience in open source programming languages for large-scale data analysis
+● 2+ years of experience with machine learning
+● 2+ years of experience with relational databases
+● 2+ years of experience with SQL 
+
+
+Capital One will consider sponsoring a new qualified applicant for employment authorization for this
+position.    No agencies please.  Capital One is an Equal Opportunity Employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, physical and mental disability, genetic information, marital status, sexual orientation, gender identity/assignment, citizenship, pregnancy or maternity, protected veteran status, or any other status prohibited by applicable national, federal, state or local law. Capital One promotes a drug-free workplace.  Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.  
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at  RecruitingAccommodation@capitalone.com . All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations. 
+
+For technical support or questions about Capital One's recruiting process, please send an email to   Careers@capitalone.com   
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site. 
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC). 
+
+Job Summary
+
+                             
+                     
+                         Location 
+                             Vienna, VA 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         R72070

@@ -1,0 +1,27 @@
+Job summary
+
+Join a small, highly skilled data science team using state of the art machine learning and data analysis to improve Wi-Fi networking. This position offers the unique opportunity to apply data science to a new area (wireless networking) which itself is deep and scientific. We are engaged in solving difficult problems in prediction, optimization, clustering, and anomaly detection.
+
+The data is huge in scale, encompassing measurements from millions of users worldwide at time granularity of seconds. And, your work will improve the performance of consumer products that your friends are buying!
+
+Responsibilities
+Utilize machine learning techniques to develop
+Predictive models of network parameters such as load and interference
+Networking anomaly detection
+Client behavior classification
+Predicting customer satisfaction and behaviors
+Deriving estimates of load, capacity, link rates, etc. from noisy raw measurements
+Develop data analysis and dashboards to represent the network statistics we are gathering
+Specifying tools and data pipelines to enable data analysis and machine learning
+Qualifications (Must)
+Bachelor's degree or higher in Electrical Engineering, Computer Science, or Statistics
+At least three years of experience applying data science to networking or wireless communications is required for this position. This could be work experience, or experience while performing research in a Ph.D. academic program.
+Strong ability in Python, SQL, or Scala, good coding skills
+Experience working with large databases, high volume data
+Familiarity with concepts from statistics
+Experience with and fundamental understanding of machine learning techniques
+Experience Desired
+Experience estimating processing and communications requirements for various data pipelines/learning systems
+Experience with a range of data analysis techniques: linear regression, random forest, clustering, factor analysis, NLP techniques, supervised and unsupervised learning,, graph algorithms, etc.
+Knowledge of networking protocols such as UDP/TCP behaviors,
+Understanding of wireless parameters such as RSSI, MIMO, OFDMA, etc.

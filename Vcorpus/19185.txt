@@ -1,0 +1,31 @@
+Nyansa is a fast-growing innovator of advanced IT infrastructure analytics software based in Palo Alto, California. Founded in September 2013 by technology professionals from MIT, Meraki, Aruba Networks and Google, Nyansa is credited with developing the first cloud sourced, vendor-agnostic network analytics and IoT security platform, called Voyance.
+
+
+We embrace simplicity and take following to heart on everything we do:
+"Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius -- and a lot of courage -- to move in the opposite direction." - Einstein
+
+Nyansa is looking for a data engineer to join the team that is building a new, vendor-agnostic IT network analytics service purpose built for CIOs, network operations and helpdesk personnel managing heterogeneous enterprise environments. Our product is focused on the end user experience by helping IT staff gain new insights into client access conditions, network service behavior and enterprise applications issues that impact user performance.
+
+Our current big data analytics system analyzes billions of streaming events per day using advanced algorithms. Going forward, we aim to scale the system extensively and are looking for radical ideas to achieve this.
+The company is well funded and provides competitive compensation package, stock options, benefits, catered lunch, and a fun work environment.
+
+We’re located within a 1 min walk from the Palo Alto Caltrain station.
+
+Responsibilities:
+• Design and develop highly scalable and available real time analytics platform using Spark, Kafka, Cassandra, and Elasticsearch for large data input streams
+• Work closely with data science and UI teams to define and implement various analytics features related to product
+• Configure, monitor, and optimize Spark and related infrastructure
+
+Requirements:
+• Strong desire to work for an early stage startup and be a part of its success
+• Strong in Map-Reduce, parallelizing computations, and identifying bottleneck computations
+• Strong in Scala and Python
+• Experience in configuring and tuning Spark and Kafka systems
+• Good understanding on Spark UI to extract useful information on application stages, and identify bottlenecks
+• B.S. or higher degree in Computer Science or equivalent
+
+Pluses:
+• Experience with Cassandra, Elasticsearch, Mongo
+• Experience with Ganglia and able to correlate information from various UIs to diagnose efficiency issues
+• Experience working with AWS
+• Experience with Spray to build REST endpoints

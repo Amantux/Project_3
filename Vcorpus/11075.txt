@@ -1,0 +1,79 @@
+Title: Data Scientist
+
+Location: Washington, DC or Reston, VA
+
+Clearance: TS/SCI with the ability to obtain and maintain a CI polygraph
+
+Responsibilities:
+
+Perform in a Data Science and DevOps engineering role responsible for the design, configuration, testing, and deployment of cloud/container services in support of the IC
+
+Apply knowledge of the latest trends in the building and securing Data Science Environment to support the analytical service contract in the deployment of web services and solutions enabling the automation of data discovery and support higher orders of analysis to implement machine learning and artificial intelligence models and algorithms
+
+Provide security engineering input to programs throughout the lifecycle to ensure systems meet ICD-503 standards
+
+Assist with the implementation of counter-measures or mitigating controls
+
+Ensure the integrity and protection of networks, systems, and applications by technical enforcement of organizational security policies, through monitoring of vulnerability scanning devices
+
+Execute periodic and on-demand system audits and vulnerability assessments, including user accounts, application access, file system and external web integrity scans to determine compliance
+
+Maintains current knowledge of relevant technology as assigned
+
+Participates in special projects as required
+
+Requirements:
+
+Bachelor's degree in Engineering, Cyber Security, Computer Science or a related technical discipline with 4-10 years of experience with development and security; an additional 4 years of experience may be substituted for a degree
+
+Extensive hands-on experience with data science, cloud architecture, shared services, migration and security to include AWS-C2S and Azure
+
+Knowledge of cross-domain solution engineering and security; experience with Security Automation tools
+
+Expert understanding of technologies used support of machine learning classification for supervised learning techniques
+
+Experience with Continuous Integration/Continuous Delivery, CI/CD
+
+High-level understanding of multi-security domain operations
+
+Must possess current DoD 8570 IAT III certification; AWS certification(s) preferred
+
+Current active TS/SCI clearance required, with a CI polygraph, or the ability to obtain and maintain one
+
+Key Technology Familiarity:
+
+Configuration Management: Git CLI, GitLab, Bitbucket, GitHub
+
+Machine Learning: Basic understanding of ML algorithms such as: ensembles, boosting, adaboosting, bagging, decision trees, anomaly detectors/predictors. Libraries supported: Pandas, Numpy, Scikit-learn TensorFlow. ML Tools: Orange and KNIME
+
+Application and Web Server technologies: Jboss EAP, IIS, Apache, Tomcat, Nginx
+
+Collaboration Development tools: Atlassian Suite (Jira, Confluence), RocketChat
+
+Release and deployment management: SonaType Nexus, Bamboo, Jenkins
+
+Programming/Scripting Languages: Bash shell scripting, Python,YAML, Jinja2
+
+Secure High-Speed File Transfer: OpenSSH w/ HPN
+
+Operating Systems: Window 10/Server 2016, RPM-Based OS's (CentOS and RHEL),
+
+Enterprise Identity and Access Management: Active Directory and Directory Services (DNS and DHCP), Forefront (FIM), Group Policy Object (GPO), LDAP, Directory Server, Likewise and Centrify. Understanding of PKI and PKI/E using CAC, SSL/TLS, OpenSSL, NSS
+
+Network and System Monitoring: Nagios/Icinga2, Splunk, Elastic Search, LogStash, Kibana, syslog, syslog-ng, rsyslog, snmp
+
+Server/Node Provisioning: Red Hat Kickstart, Windows Imaging Format (WIM), Cobbler, PXE, Packer, CloudFormation, SaltStack, Puppet, Chef, Ansible
+
+Firewalls: IPTables, FirewallD, MS Forefront, AWS VPC, AWS Security Groups, AWS NACL
+
+Network/OS Troubleshooting utilities:TCPDump, WireShark, nslookup, netstat, watch, htop, strace, route, ifconfig
+
+Cloud/IaaS/PaaS and Virtualization Technologies:VMware (vSphere, vCenter, ESXi, Fusion), Vagrant, VirtualBox, Virtualization using Hypervisors type 1-2 KVM/XEN, RHEV, Open Stack, Hyper-V, AWS (EC2, C2S, S3,VPC), Microsoft Azure
+
+CND Tools for log-based telemetry: Splunk, NMap, TCPdump, WireShark, Elastic Search, LogStash, Kibana
+
+ICD 503 Security Compliance:eEye Retina, McAfee Enterprise Policy Orchestrator (ePO), Host Based Security System (HBSS), XCCDF, STIG, SRR, Security Checklists, SCAP compliance tools such as openSCAP, ACAS and commercial Nessus, HubbleStack
+
+Knowledge of static and dynamic vulnerability analyses tools such as: Threadfix, HP Fortify, SonarQube, OWASP ZAP, Arachni, Amazon Inspector, CoreOS Clair, Twistlock, OpenScap
+
+Knowledge of pentesting platforms such as: Kali, BurpSuite

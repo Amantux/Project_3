@@ -1,0 +1,51 @@
+Business/Team Introduction
+The Buying team is part of Amazons Supply Chain Optimization Technology / Inventory Planning and Control organization, and is responsible for deciding how much inventory to carry of every single item offered by Amazon Retail on all of Amazons websites worldwide. Consuming inputs including demand forecasts, placement options, and vendor capability data, our buying system automatically computes the optimal inventory levels and re-order quantities for every single item in our Retail catalog every single day. As a Business Intelligence Engineer/Data Analyst in Buying, you will operate at the apex of multiple Amazon systems, getting global visibility of how Amazon functions and serves our customers. Your curious mind will enable the creation of solutions that drive automation, scalability and optimization of every aspect of buying, reducing cost and delivering speed of execution to thrill our customers. The impact of your work will be global, material and remarkable.
+
+
+
+Business Intelligence Engineer/Data Analyst Responsibilities
+As a successful Business Intelligence Engineer/ Data Analyst in Buying, you need to be curious about Amazons supply chain operations and how data consumed and produced by our systems can be used to improve outcomes and lower costs. Your responsibility is to develop metrics, expose and measure the current performance of our Buying system, find and quantify opportunities for improvement, and dive deep into existing data to root cause unexpected performance. You will collaborate with engineering, research, data science and business teams for future innovation. You need to be a sophisticated user of data querying tools, and an expert at synthesizing and communicating insights and recommendations to audiences of varying levels of technical sophistication.
+
+
+Major responsibilities include:
+
+
+Translate / Interpret:
+· Translate business questions and concerns into specific quantitative questions that can be answered with available data using sound methodologies. In cases where questions cannot be answered with available data, work with engineers to produce the required data.
+Measure / Quantify / Expand
+
+· Retrieve, synthesize, and present critical data in a format that is immediately useful to answering specific questions or improving system performance.
+· Explore/analyze data and work with Research Scientists, Data Scientists and Product Managers to understand customer behaviors, spot system defects, and benchmark our ability to serve our customers
+· Partner with Data Engineers and Software Engineers to design products and systems to transform and store billions of data items using AWS redshift.
+
+Explore / Enlighten
+
+· Given anecdotes about anomalies, design strategies to quantify the overall impact of such anomalies, deep dive to explain why they happen, and identify fixes.
+
+Make Decisions or Recommendations
+
+· Conduct written and verbal presentations to share insights and recommendations to audiences of varying levels of technical sophistication.
+
+
+
+Basic Qualifications
+
+· Bachelors degree in Statistics, Economics, Math, Finance, Engineering, Computer Science or a related quantitative field.
+· At least 3 years of experience with data querying languages (e.g. SQL, Redshift).
+· At least 3 years of experience articulating business questions and using quantitative techniques and driving insights for business.
+· Experience with automated self-service reporting tools (e.g. Tableau).
+· Confidence in dealing with technical and non-technical senior level staff.
+· Ability to operate successfully and independently in a fast-paced environment.
+· Comfort with ambiguity and eagerness to learn new skills.
+
+
+
+Preferred Qualifications
+
+· Masters degree in Statistics, Applied Mathematics, Operations Research, Economics or a related quantitative field.
+· 5+ years experience with 2+ years Analytics and Process Improvement-related initiatives
+· Demonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment
+· Excellent verbal and written communication skills
+· Experience processing, filtering, and presenting large quantities (Millions to Billions of rows) of data
+· Experience working in R/Python
+· Experience in supply chain is a plus

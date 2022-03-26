@@ -1,0 +1,35 @@
+The Data & Analytics team plays a vital role . Data is part of nearly everything that we do. The Data & Analytics team is responsible for storing and organizing data, building algorithms used for patient identification/engagement/treatment, and making useful and actionable reporting for business managers.
+
+· Responsibilities
+
+· Collaborate with the Data Analytics team to ensure the confidentiality, integrity, and availability of data necessary for business analytics and reporting
+
+· Collaborate with client and partner data management teams to defines data transfer requirements and logistics
+
+· Build and validate large-scale batch and real-time healthcare data ingestion pipelines with tools on the AWS platform (Redshift, S3, Airflow, Python)
+
+· Manage the overall quality and security of enterprise data assets
+
+· Manage the day-to-day operational data management needs
+
+· Collaborate with data scientists and other engineers and to develop new data-driven product features and deploy machine learning models
+
+· Collaborate with DevOps team to design and manage data architecture for structured (SQL) and unstructured (NoSQL) data sources
+
+Qualifications
+
+· 2+ year experience working in a healthcare payer data operations role strongly preferred
+
+· Strong experience required in Python ( pandas ) and Linux
+
+· Strong experience with SQL preferred
+
+· Strong experience with commercial and/or open-source ETL tool like Airflow
+
+· Experience designing canonical enterprise analytic & reporting schemas
+
+· Experience working on GCP and/or AWS platforms is a plus
+
+· BA in Computer Science, Mathematics, Operations Research, or other related disciplines
+
+· 4+ years of work experience is strongly preferred

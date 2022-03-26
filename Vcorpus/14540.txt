@@ -1,0 +1,72 @@
+Role Type: Data Scientist
+
+Reports To: Chief Technology Officer
+
+About Us
+
+CareAdvisors is a technology company that helps patients get access to healthcare and social service benefits they need by automating the manual enrollment role taken on by hospitals.
+
+Many patients who receive care at hospitals are eligible for Medicaid and other social service benefits, but some have barriers to enroll or re-enroll in their benefits. Using a modern technology stack focused on automation, CareAdvisorswe remove those barriers so that patients can get access to the benefits they need, and lift the financial burden hospitals endure when providing care to patients.
+
+Our Customer Relationship Management tool empowers care navigators and social workers with a search and communication platform that is connected to a network of community resources and hospitals. We use the data gathered across our network to power our automated analytics engine. Join us in building out our platformCRM so we can connect people to the care they need.
+
+About the Role
+
+As a Data Scientist, you will research and develop predictive models for population health. You will work closely with business stakeholders to build robust data science models across all aspects of our business.
+
+Responsibilities
+Deliver analytic insights in several business domains including population health, social determinants of health (SDoH), and health disparities in vulnerable populations.
+Drive the definition, design, implementation and validation of cutting-edge algorithms to analyze disparate data sources to achieve targeted outcomes by leveraging machine-learning approaches, predictive and statistical modeling concepts, clustering and classification techniques.
+Deliver insights and values from complex data structures to investigate opportunities in population health research.
+Deliver on data-driven research projects through hands-on consultative approach and team effort.
+Actively listen, integrate inputs from multiple sources and collaboratively translate healthcare or business inquiries into data and analysis requirements.
+Drive informed decision making and be comfortable with presenting findings to both technical and non-technical audiences.
+Continually find ways to improve how the team operates and delivers results that align with Care Advisors’ objectives.
+We are looking for a team member with the following background
+Currently based in the Chicagoland area (REQUIRED).
+Master’s Degree in Statistics, Mathematics, Computer Science, Informatics, Data Science or a related quantitative field.
+Familiarity with the data science lifecycle: posing a question, collecting data, exploring the data, developing models, making inferences, and communicating results.
+Ability to communicate data in a compelling way to a variety of audiences and work in a multidisciplinary environment
+Conduct statistical modeling and experimental design on a variety of healthcare datasets, including claims data and healthcare outcomes. Train and validate predictive and categorical algorithms from large datasets.
+Professional experience with a healthcare organization (provider, payer, social sector or government) preferred.
+Experience working in a startup or entrepreneurial environment preferred.
+Familiarity with public health, population health, and social determinants of health are preferred.
+At least 5 years of professional experience demonstrating a trajectory of growth in software engineering, data science, or data engineering.
+Advanced hands-on knowledge of programming languages R, SQL, and/or Python.
+Experience in advanced machine learning topics, including Natural Language Processing, Neural Networks, regression, Deep Learning, and unsupervised learning.
+Familiarity with relational databases, data visualization and database management tools.
+Able to provide access to high quality open source data science projects available in a public forum such as GitHub, data.gov or Kaggle.
+--------------
+
+At Care Advisors we value diversity and endeavor to treat everyone with respect, no matter their age, gender, race, ethnicity, or sexual, cultural or ideological preferences.
+
+Due to the unprecedented situation of COVID-19, Care Advisors has decided to protect our current and future employees by managing our business remotely. This is inclusive of interviewing, onboarding, and daily operations each role day-to-day. Please consider that our roles will not be remote long-term and we will return to an office environment setting once it is deemed we're safe to do so following the guidance of local health authorities’ and the Centers for Disease Control.
+
+Job Type: Full-time
+
+Benefits:
+Dental Insurance
+Employee Assistance Program
+Health Insurance
+Paid Time Off
+Parental Leave
+Professional Development Assistance
+Tuition Reimbursement
+Vision Insurance
+Schedule:
+Monday to Friday
+Experience:
+R, SQL, and/or Python: 3 years (Required)
+statistical modeling and experimental design: 3 years (Required)
+data science lifecycle: 3 years (Required)
+healthcare organization: 3 years (Required)
+Education:
+Master's (Required)
+Location:
+Chicago, IL 60654 (Required)
+Work Location:
+One location
+Benefit Conditions:
+Waiting period may apply
+Work Remotely:
+No

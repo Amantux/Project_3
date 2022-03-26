@@ -1,0 +1,28 @@
+Absolute Software is looking for a Senior Big Data Engineer who will be responsible for designing, developing and building a robust data pipeline infrastructure required for optimal extraction, transformation, loading data from different data sources for our security analytics platform.
+
+Also, you will have the opportunity to learn and apply cutting-edge AI technologies to solve real-world security issues in live enterprise environments. You will take ownership of large software components, help in the design of the architecture, apply your knowledge to functional design, utilize your programming skills for efficient and robust implementation, and guarantee the quality assurance in the whole software development cycle.
+
+Responsibilities
+Design, construct, test and maintain robust, reliable, and scalable data pipeline infrastructure
+Ensure all systems meet the project requirements as well as industry practices
+Investigate and integrate up-and-coming big data technologies into existing requirements
+Recommend different ways to constantly improve data reliability and quality
+Install/update system and component fault-tolerant procedures
+Employ an array of technological tools to integrate with 3rd-party data systems
+Research new uses for existing data
+Develop set processes for data mining, data modeling, and data production
+Collaborate with members of your team (e.g., data architects, data scientists, security researchers) on the project’s goals
+Qualifications
+5+ years of experience in design and implementation of robust and reliable big data infrastructure at scale, especially in supporting inline data ingestion, correlation, and aggregation of data from different data sources
+Experience with designing real time and batch log analytics and search solutions using ELK stack
+Experience with design, implementation, deployment and management of large Elasticsearch clusters and ELK solutions
+Experience with performance tuning and optimization of Elasticsearch clusters
+Experience with integration of Elasticsearch with Hadoop, RDBMS, Streaming technologies such as Kafka, Redis as well as and Data Science/Machine Learning frameworks at scale
+Current hands-on experience with at least two coding and scripting languages e.g. Python, Java, Scala, Shell Scripting
+Why Work For Us:
+
+Absolute is the new standard for endpoint visibility and control, delivering self-healing endpoint security, always-connected IT asset management, and continuous data visibility—both on and off the network. Unlike other endpoint security agent solutions that can be corrupted, compromised or deleted, Absolute can self-heal itself and other critical applications through our patented Persistence technology that is embedded in the firmware of over 1 billion endpoints. No other security company can make this claim.
+
+Headquartered in Vancouver, Canada with international offices in Austin, Texas, Reading, UK and Ho Chi Minh City, Vietnam, we are a collaborative and innovative place to make your mark in the world of security. Our agile, high energy culture rewards top performance and the contributions of those passionate about our collective growth and success. We celebrate our wins in our large common areas where we hold engineering hackathons, end of quarter celebrations, and monthly socials. We believe in a good work / life balance which is reflected in our annual employee retreat where it’s all about friends and family. To learn more about Absolute, visit our website at www.absolute.com or visit our YouTube channel.
+
+Absolute is an equal opportunity employer.

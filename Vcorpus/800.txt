@@ -1,0 +1,33 @@
+US Citizenship Required and (TS or TS/SCI) Required
+
+Job Description:
+
+Are you ready for a position that really matters and is not just about corporate profits? As a Phoenix Data Scientist, you'll be part of a small team composed of both engineers and mission subject matter experts (SMEs). This team will build Machine Learning solutions augmenting human analysts inundated with information overload in carrying out critical Intelligence and Defense missions. Youll use Python and distributed computing technologies to build these solutions in an iterative (Agile) fashion.
+
+On a typical day, youll be working either on a classified network or working remotely from home on an unclassified network. Youll participate in Scrum meetings, collaborate with SMEs (e.g. SIGINT, ELINT, All-Source) to understand the mission space, explore / characterize / process data sets, and implement analytics with support from Data Engineers & Software Engineers.
+
+Skills Required:
+Python (expert-level)
+3+ years of experience as a Data Scientist
+3+ years of experience in a Linux environment
+2+ years of experience using distributed (cluster) technology
+1+ years of experience using Jupyter Notebook
+Skills Preferred:
+Machine Learning
+Apache Spark
+Apache Kafka
+Apache NiFi
+Docker
+Experience with the following python libs: pandas, geopandas, geopy, sklearn, sklearn.cluster, IPython, shapely, scipy, numpy.
+Qualifications:
+US Citizenship Required
+Security Clearance (TS/SCI) Required
+Bachelors Degree in Math, Science or Engineering
+ABOUT PHOENIX OPERATIONS GROUP:
+Phoenix Operations Group is a high-end engineering services company dedicated to protecting and advancing our national cyber resources. As a small start-up operating out of the Baltimore/Washington DC area, we rely on innovation to continually advance our employees' skills and provide game-changing solutions to our customers.
+
+Our technical competencies include Big Data analytics (batch and streaming), Cloud Computing infrastructure, multi-INT visualization, and enterprise architectures. We support operational missions (All-Source, Financial, CND) and serve as Product Owners for our open-source research initiatives.
+
+Please visit us at http://www.phoenix-opsgroup.com for more information.
+
+Phoenix Operations Group is an Equal Opportunity Employer. Phoenix Operations Group does not discriminate on the basis of race, religion, color, sex, gender, gender identity, sexual orientation, age, non-disqualifying physical or mental disability, national origin, veteran status or any other basis covered by appropriate law. All employment is decided on the basis of qualifications, merit, and business need.

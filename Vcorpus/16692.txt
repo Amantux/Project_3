@@ -1,0 +1,24 @@
+Posted: May 7, 2020
+Role Number:
+200169384
+Apple is looking for ML/Deep Learning engineers to develop and integrate machine learning technologies for autonomous systems. You will work on a hardware/software product enabled by the ML technologies you build.
+
+WHAT YOU’LL DO
+Develop features and models to improve the capabilities of systems that use machine learning.
+Scale up models, build training datasets and tune parameters to improve system performance.
+Build software that improves your rate of experimentation and helps you make better decisions about what to try next.
+Build analysis tools and simulations to understand the performance of complex systems. - Conduct original research to solve hard problems applying machine learning in new areas - Work with the team to deploy models in a mission critical environment.
+Key Qualifications
+Able to train and debug deep learning systems: Defining metrics and datasets, performing error analysis, training models in a modern DL framework (such as TensorFlow, PyTorch, Keras, etc.)
+Familiar with current DL literature and the math of machine learning: optimization methods, common types of models and layers, etc.
+Strong background in Python development with Linux. You write clean, correct code while iterating on experiments in Python. Ability to understand and contribute to C++ based software is a plus.
+Excellent verbal and written skills. You collaborate effectively with other teams and communicate clearly about your work.
+Description
+WORKING WITH OUR TEAM
+
+You’ll join a phenomenal team of hardworking engineers and researchers with deep experience in robotics, machine learning, and software engineering. We hope you’re passionate about the values that drive us:
+Passion for the mission: We’re here to make something great. We take on whatever work is right for the product and strive for the best possible results.
+Modesty: The right answer is more important than being right. We search for solutions as a team and value clear-eyed feedback.
+Lean habits: You can’t grow without limits. Time constraints and big goals encourage us to sharpen our focus and learn to make phenomenal decisions.
+Education & Experience
+Bachelors, Masters, or PhD Degree in Computer Science/Machine Learning or equivalent professional experience.

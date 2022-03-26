@@ -1,0 +1,51 @@
+Job Description
+
+Shipt works with a wide variety of data partners to better understand our partners, customers, and brands we work with. We're looking to grow the Data Engineering team with a Solutions Data Engineer to help expand our capabilities and integrate new partners.
+
+The Data Engineering team at Shipt focuses on all data that moves in and out of our system. A growing part of our responsibilities includes getting more value out of the large amounts of data we import and collect. The team works to build different pipelines and integrations to help clean, understand, or enrich our content & information.
+
+As catalog data is fundamental to the grocery delivery experience, our team plays a large part in the Shipt marketplace and helps drive the company's growth plans.
+
+Your Responsibilities
+
+• Develop and maintain pipelines responsible for sending or ingesting large amounts of
+
+data from various sources
+
+• Partner with external vendors on building, enhancing and maintaining business solutions.
+
+• Help evolve our data model & infrastructure for new retailers and verticals
+
+• Collaborate with other teams across the organization (e.g., Retail Partner Success,
+
+Business Development) to enable new opportunities
+
+• Keep the big picture in mind so that our architectural patterns can better
+
+consume and validate source data
+
+• Build and experiment with different tools and tech, and share your learnings
+
+with the broader organization
+
+Requirements
+
+• 2+ years of experience as a Solutions Engineer/Architect
+
+• Strong spoken and written communication.
+
+• Thrives on engaging directly with business partners to build an in-depth understanding of business needs and deliver innovative solutions.
+
+• Proficiency in Python is required (this is our primary language)
+
+• Proficiency in SQL is required (we use PostgreSQL and Redshift)
+
+• Proficiency with REST APIs
+
+• A keen attention to detail
+
+• A Bachelor's Degree in a technical field or equivalent work experience
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.

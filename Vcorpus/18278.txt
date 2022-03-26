@@ -1,0 +1,37 @@
+As a .Net Web Developer you will be responsible for developing, coding, testing, debugging, and documenting moderately complex applications, programs, websites, databases, and systems. A .Net Web Developer is a learned professional responsible for resolving problems of moderate difficulty through analyzing possible solutions utilizing standard procedures. Works under limited supervision. Technical guidance required for unusual and/or complex problems/projects.
+
+We believe success starts with having the right people -- those who have the right attitude and aptitude. We seek out goal-oriented professionals who are creators, leaders and pioneers. We value diversity in our workforce. By bringing together people with different backgrounds, thoughts and life experiences, we create a competitive advantage.
+
+Responsibilities:
+Conducts a full range of programming tasks including program design, development, debugging, estimating, unit testing, and documentation for a variety of applications, systems, databases, or websites.
+Gathers and interprets system requirements and develops detailed system specifications. Formulates and documents design alternatives and recommendations.
+Designs, implements, and executes test plans. Prepares systems test data and prepares program documentation.
+Reviews application modules and checks compliance with application architecture standards.
+Provides ongoing maintenance of applications, systems, databases, or websites.
+Provides application support including on-call (after hours, weekends, holidays) for priority issues. Troubleshoots complex production issues. Evaluates and follows through on issues and problems until resolved or escalated.
+Conducts analysis to determine and plan for new programs, system integrations, or system upgrades.
+Conducts analysis for the evaluation and selection of new vendor software solutions and packages.
+May provide training and technical guidance to less experienced staff.
+Requirements
+Minimum 5 years' experience in custom web application development
+A bachelor's degree in a field related to the position or a combination of related education and work experience in the areas of application/web /systems/database development to equal four years
+Experience with version control and release management tools such as TFS/VSTS/Azure DevOps and Git
+Solid understanding of object-oriented and functional programming, responsive web design, asynchronous request handling, promises and observables, and AJAX.
+Experience using SQL server, TSQL, and Entity Framework Core
+Lives in Visual Studio, works with ASP.Net Core, C#, LINQ, and Entity Framework
+Web Development experience with various technologies including:Working knowledge of IIS, HTTP, WebAPI, JSON, RESTful and SOAP web services, OData, OAuth, and Open API/Swagger
+HTML5; CSS3; and server-side CSS pre-processing, such as LESS/SASS
+JavaScript/TypeScript; advanced frameworks, such as Angular; Jasmine, and Bootstrap
+Experience in an Agile development environment
+Passionate about building high-quality systems with software implementation best practices; an advocate of clean, valid, maintainable, and semantically correct code
+Understands the underlying systems on which web applications are developed
+Ability to multi-task across several complex tasks and prioritize as needed
+Strong written and verbal communication skills
+Bonus Skills:
+Knowledge of Azure Application Insights
+Azure PaaS development including skills like Logic Apps, Azure Functions, Azure Storage, Event Grid, and Service Bus
+Andiamo is an Equal Opportunity Employer
+
+Andiamo provides equal employment opportunities to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Andiamo complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+All qualified candidates are encouraged to apply by submitting their resume as an MS word document including a cover letter with a summary of relevant qualifications, highlighting clearly any special or relevant experience.

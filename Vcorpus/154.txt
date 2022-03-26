@@ -1,0 +1,107 @@
+Read what people are saying about working here. 
+
+About Dexcom:
+
+Founded in 1999, Dexcom, Inc. provides continuous glucose monitoring technology to help patients and their clinicians better manage diabetes. Since our inception, we have focused on better outcomes for patients, caregivers, and clinicians by delivering solutions for people with diabetes - while empowering our community to take control of diabetes.
+
+Summary:
+
+The Data Scientist will be a key contributor to Dexcom’s Sustaining app team. You will be part of the team that works to understand product and customer behavior, using data forensics and merging data from various sources to analyze anomalies, resolve problems, predict system behavior and drive product enhancements. You will be working with latest big-data technologies and cloud computing platforms.
+
+Functional Description: Technical Individual Contributor
+
+Designs, develops and programs methods, processes, and systems to consolidate and analyze unstructured, diverse “big data” sources to generate actionable insights and solutions for client services and product enhancement. Interacts with product and service teams to identify questions and issues for data analysis and experiments. Develops and codes software programs, algorithms and automated processes to cleanse, integrate and evaluate large datasets from multiple disparate sources. Identifies meaningful insights from large data and metadata sources; interprets and communicates insights and findings from analysis and experiments to product, service, and business managers.
+
+Essential Duties and Responsibilities:
+
+Use techniques from statistical analysis and predictive modeling to build knowledge of product behavior
+
+Query and analyze data in support of existing apps and other products in commercial use
+
+Work directly with partners in R&D to execute advanced forms of analytics on diabetes-centric and other Dexcom data
+
+Work with team under agile development methods
+
+Assist in requirements definition, project scoping, timeline management, and results documentation to ensure professional relationship management
+
+Required Qualifications:
+
+Typically requires a Bachelor’s degree in a technical discipline, and a minimum of 2-5 years related experience or Master’s degree and 0-2 years’ equivalent experience.
+
+Strong SQL programming skills
+
+Experience working with relational databases and/or distributed computing platforms, and their query interfaces, such as SQL, MapReduce, PIG, Hive, and GCP BigQuery
+
+Strong knowledge of statistical methods
+
+Good understanding of database systems
+
+Able to work efficiently with Linux environment
+
+Experience with open-source statistical languages and packages, including R, Python libraries, and MLLib, as well as proprietary tools like Alpine, Matlab, etc.
+
+Familiarity with visualization software and techniques (including Tableau), and business intelligence (BI) software, such as Microstrategy, Cognos, Pentaho, and GCP Datalab (Jupiter Notebook)
+
+A team player, capable of conducting independent research, motivated by hard technical challenges
+
+Results-driven, self-motivated, self-starter
+
+Excellent written and verbal communications skills, with a proven ability to translate complex methodologies and analytical results to business insights
+
+Preferred Qualifications:
+
+Experience working with Java/Scala/Spark, GCP DataProc
+
+Experience with data mining, pattern recognition and machine learning
+
+Experience working with GCP BigQuery
+
+Experience developing software for a regulated medical device
+
+Experience working with large data sets
+
+Experience with additional programming languages, including Python, Java, and C/C++
+
+Experience working with Kafka/Flume, etc.
+
+Experience working with MPP / column store databases like Greenplum/Redshift, etc.
+
+Experience working with NoSQL databases like Cassandra, HBase, Couchbase etc
+
+Experience with Hadoop eco system like HDFS, Hive, MapReduce, etc.
+
+Experience working with RDBMS like Oracle, SqlServer, MySQL, etc
+
+Functional/Business Knowledge:
+
+Possesses a high level of theoretical knowledge. Ability to deliver technical ideas that have an impact on the objectives. Understands organizational and functional processes and policies aligned to the technical and business goals.
+
+Scope:
+
+Demonstrates technical proficiency. Works on moderately complex problems where analysis of situations or data requires evaluation. Exercises judgment within generally defined practices and policies in selecting methods and techniques for obtaining solutions. Interprets data and draws conclusions regarding results used in presented material.
+
+Judgement:
+
+Exercises judgment within defined procedures and practices to determine appropriate action. Normally receives general instructions on routine work, detailed instructions on new projects or assignments.
+
+Travel Required:
+
+0 – 24%
+
+Language Skills: Must be able to communicate effectively in English. Ability to read and interpret documents such as safety rules, operating and maintenance instructions, and procedure manuals. Ability to write routine reports and correspondence. Ability to speak effectively before groups of customers or employees of organization.
+
+Physical Demands: The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. May be required to perform the following Physical Activity: Standing, walking, sitting, using hands, handle or feel, reach with hands and arms, climb or balance, stoop, kneel, crouch, or crawl, talk or hear, taste or smell. May be required to lift 0 lbs. to over 20 lbs.
+
+Work Environment: The work environment characteristics described here are representative of those an employee encounters while performing the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. May be exposed to the following environmental conditions: Wet or humid conditions, work near moving parts, work in high - precarious places, fumes or airborne particles, toxic or caustic chemicals, outdoor weather conditions, extreme heat (non-weather), extreme cold (non-weather), risk of electric shock, work with explosives, risk of radiation, vibration. The noise level in this work environment can range from quiet to very loud.
+
+Disclaimers: The information contained herein is not intended to be an all-inclusive list of the duties and responsibilities of the job, nor are they intended to be an all-inclusive list of the skills and abilities required to do the job. Management may, at its discretion, assign or reassign duties and responsibilities to this job at any time. The duties and responsibilities in this job description may be subject to change at any time due to reasonable accommodation or other reasons.
+
+#LI-CC1
+
+An Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+
+If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact Talent Acquisition at talentacquisition@dexcom.com.
+
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Dexcom. Only authorized staffing and recruiting agencies may use this site or to submit profiles, applications or resumes on specific requisitions. Dexcom does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to the Talent Acquisition team, Dexcom employees or any other company location. Dexcom is not responsible for any fees related to unsolicited resumes/applications.
+
+ Founded in 1999, Dexcom, Inc provides continuous glucose monitoring technology to help patients and their clinicians better manage diabet...

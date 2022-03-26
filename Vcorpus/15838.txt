@@ -1,0 +1,37 @@
+Job title: Video Codec Scientist
+Company: Kuaishou Technology
+Job area: Engineering
+Location: Palo Alto, CA
+San Diego, CA
+
+Job overview
+Join Kuaishou Technology to develop advanced video codec. The successful candidates will be part of the video coding team in a well-established but still fast-growing company. You will participate in the design of video codec architecture, implementing and optimizing encoder algorithms such as mode decision, motion estimation, rate control, etc., enhancing quality through machine learning, and coordinating hardware and software teams to come up with optimal solutions.
+
+Key responsibilities
+Design encoder architecture, functional models and data structure for efficient encoder implementation.
+Initiate ideas, design and implement algorithms for superior encoder performance with reasonable complexity and implementation cost.
+Interact with different teams for smooth and timely video codec productization.
+Participate in the research and development of next generation video coding technology, video processing based on neural network and machine learning.
+Key requirements
+7+ years of relevant experience on video codec implementation.
+A MS degree in EE/CS or related fields.
+Solid experience in development of video/image signal processing algorithms in C and C++.
+Strong knowledge in video/image signal processing and compression.
+Familiar with video coding standards, such as AVC (H.264), HEVC (H.265), AV1 and VVC.
+Strong verbal communication and presentation skills in English.
+Excellent technical and scientific writing skills in English.
+Ability to work and make decisions independently.
+Additional preferred skills
+Machine learning.
+Experience in open-source multimedia projects (such as x264, x265, and FFMPEG etc.).
+Experience in international video coding standardization.
+Job Type: Full-time
+
+Education:
+Master's (Preferred)
+Schedule:
+Monday to Friday
+Benefit Conditions:
+Only full-time employees eligible
+Work Remotely:
+Temporarily due to COVID-19

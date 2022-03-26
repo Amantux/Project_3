@@ -1,0 +1,51 @@
+Company Description:
+Angaza is a venture-backed company that is tackling global energy poverty by enabling financing of solar power for off-grid consumers. We have developed a mix of hardware and software solutions for some of the most demanding and dynamic markets in the world. We are for-profit, based in San Francisco, California and Nairobi, Kenya, and focused on aiming market forces at the linked challenges of climate change and global development.
+
+Role Summary:
+Looking for an opportunity to use your analytical skills and business insight to alleviate poverty and empower people to choose safe, clean energy? You will help us use data to focus internal priorities, drive business decisions, and benefit our customer base. You will develop a subject matter expertise in patterns of Pay-As-You-Go Distributor success in order to serve internal stakeholders, customers, and external partners with quality analytics and business intelligence products. Angaza is building a modern analytics practice around a deep commitment to our core values, high-quality tools, proven development practices, and a philosophy of continuous professional improvement, and we need you to help us make that vision a reality!
+
+Outcomes:
+Identify and surface significant trends and insights in high-impact BI products aimed at internal, customer, and partner audiences.
+Empower internal teams with:
+Data transformations and ETL pipelines to support downstream analytics and data needs
+Forecasts on which to base compensation targets, financial planning, and prioritization
+Rich, interactive data visualization tools to assist in self-service analytics
+Customer-facing analytics and data products
+
+Competencies:
+Proficiency creating ETL & analytics products in Python (It would be useful to have experience in: NumPy, Pandas, psycopg2 or other SQL interface, a visualization library of your choice, and scikit-learn, as well as practical experience managing a data warehouse)
+Strong SQL skills (Angaza currently uses PostgreSQL & Redshift)
+Ability to design an efficient data model for use within modern BI tools (Angaza uses Qlik Sense internally)
+Understanding of applied statistics & common modelling techniques in a business context
+Possess strong business insight and appreciation of the challenges facing growing businesses.
+
+You:
+Thrive in a cooperative, dynamic environment
+Are passionate about beautifully presented data that communicates complex information in a straightforward way
+Have strong quantitative, problem-solving, and project management skills
+Demonstrate excellent written and verbal communication skills
+Pride yourself on attention to detail
+Exhibit a strong tendency towards self-management
+Exemplify Angaza’s key values: maximizing impact, empathetic, courageous, trustworthy, curious, and collaborative
+
+Recommended Experience:
+We recognize there are many paths to success in analytics, but we suspect the strongest candidates will have at least two years experience in at least one of the following categories:
+Supporting executive decision-making through descriptive and statistical analysis at an early-stage organization
+Evaluating patterns of customer growth at a B2B SaaS company
+Product management or engineering
+
+Benefits:
+Competitive health benefits including medical, dental, vision, life, disability, HSA, & FSA
+401(k) with company match
+Fully paid parental leave
+Flexible scheduling and time off policies
+Knowledge that you’re making a positive impact on the world every day you come to work!
+
+To Apply:
+Use the form below to send us your contact details and resume.
+
+Employment Eligibility:
+Due to the nature of this role and our maturity as a company, all applicants must have permanent work authorization prior to applying. We are not able to sponsor or transfer employment visas (e.g. H-1B).
+
+Our Commitment to DEI:
+At Angaza, we evaluate all candidates on the basis of their ability to meet stated job requirements. We do not discriminate against candidates on the basis of sex, gender, marital status, religion, nationality, or other personal characteristics. In keeping with our commitment to supporting a safe and inclusive workplace, we strongly encourage candidates from traditionally underrepresented backgrounds to apply.

@@ -1,0 +1,20 @@
+At Clear Street, we are disrupting the institutional brokerage and clearing market by modernizing archaic industry segments with brand new technology. We're changing the way institutional investors interact with the markets; offering an alternative to working with big banks. Our cloud-based API technology will empower clients to clear, settle, and finance trading activity while accessing real-time risk and position information. Our platform is built on an incredibly modern tech-stack, by pragmatic engineers focused on building intuitive and friction-less user experiences. Our tech-infused suite of customer experience-oriented prime service offerings will increase our clients' efficiency and provide real-time insights they've never previously experienced.
+
+As a Data Business Analyst, you will play a critical role in the Data Operations team's expansion as our business continues to grow. You will work closely with teams across the business to understand their data and analytic needs, define scope of projects, and deliver results. You will collaborate with a team of engineers and data specialists to productionize our reporting and analytics, turning prototypes and one-off projects into elegant long lasting solutions. This role will challenge you to build on your understanding of the capital markets (trading, clearing, and settlement processes) and to grow as a systematic problem solver. This is a unique opportunity to join a growing team of passionate engineers and data specialists that are delivering the future of Clear Street's data platform and analytics.
+
+Data Business Analyst Characteristics:
+You have 2+ years of experience defining requirements and using data and metrics to draw business insights (financial/business analytics).
+You communicate technical ideas with ease and effectively and are always looking for ways to collaborate to deliver high-quality products.
+You demonstrate attention to detail and have a customer service mindset, allowing you to quickly adapt to new demands in a quickly evolving environment.
+You have experience writing Python scripts, using SQL to query databases, and building models/macros in Excel.
+You are passionate about the markets and enjoy expanding your understanding of finance, modeling, and accounting.
+You have an educational background in both Engineering and Finance/Business (minimum of a Bachelors).
+
+DataOps Team Stack: Python, Pandas, PostgreSQL, SQL, Excel/VBA, Git, Jupyter Notebook
+
+We offer:
+The opportunity to join a small and growing team of good people, where you can make a difference
+A new, high-quality code base with little technical debt and room to build new services and features
+An environment that embraces the utility of a DevOps oriented culture and combines it with a focus on CI/CD methodology
+A meritocratic philosophy that champions collaboration
+Competitive compensation, benefits, and perks

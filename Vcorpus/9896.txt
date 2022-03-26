@@ -1,0 +1,39 @@
+We are looking for someone to lead the design and execution of a media mix model for a large Enterprise. The ideal candidate will have extensive experience in media mix modeling, building statistical regressions, and interfacing closely with team members from different disciplines.
+
+Job Description for MMM Data Scientist
+
+The Job:
+
+>Build Multi-Touch attribution models (MTA) and marketing mix models (MMM) to analyze ROI from marketing spend, optimize spend allocation by channel, and identify key sales drivers.
+
+>Design the model structure, variable entities, and variable transformations
+
+>Build analytic attribution models and marketing mix models using advanced statistics, econometrics, and/or machine learning techniques such as logistic regression, choice model, time-series model, panel data model, Bayesian statistics, ridge regression, structural equations, probability theory, clustering algorithms, decision trees, etc.
+
+>Quantify the impact of paid media, organic media, web navigations, and individuals’ propensities on multi-step conversion activities in the consumer journeys
+
+>Analyze third party tracking data to understand the customer journey, key indicators of purchase intent, and sales drivers. Understand media overlap, reach, frequency, and targeting effectiveness.
+
+>Validate the model using statistical diagnostic techniques, attribution results, ROI, forecasting, simulation and optimization
+
+>Conduct rigorous QA of model to ensure accuracy and effectiveness.
+
+Skills, Talents, Experience You Will Need:
+
+> Algorithmic Attribution or Last Click Attribution
+
+> Predictive Models, Marketing Mix Models, Shopping Basket Analysis, Targeting and Next Best Actions.
+
+>Academic or professional work experience in marketing mix modeling, digital attribution modeling, multivariate regression, time-series modeling, Bayesian statistics, segmentation modeling, machine learning, data mining, simulation, optimization, and/or forecasting
+
+>Technical or programming skills to solve large-scale information, online search, online advertising attribution and online/offline marketing optimization problems
+
+>Experience with Hadoop, Hive, SQL, R, Python, Spark, Matlab or similar is required
+
+>5+ years of quantitative analytics experience with marketing metrics and tracking, marketing analytics, and attribution modeling is highly desirable
+
+>2-5 years of work in digital AdTech industry with thorough understanding of digital metrics is highly desirable
+
+>Bachelor’s degree (required) or above (preferred) with mathematical or engineering background: Statistics, Data Mining, Operations Research, Econometrics, Finance, Engineering or similar
+
+>Ability to communicate well with team members from different disciplines (marketing, data science etc.)

@@ -1,0 +1,28 @@
+Data Scientist \- Life Sciences
+*Requisition Number:** **4646** **Location:** **Lemont, IL**
+*Functional Area:** **Division:** **DSL\-Data Science and Learning Division**
+*Employment Category:** **Regular** **Shift:**
+*Level \(Grade\):** **RD6** Share: **Facebook** **LinkedIn** **Twitter**
+In this exciting area of research, you will be applying machine learning techniques, with an emphasis on deep learning techniques, to problems in the life sciences with an emphasis on using computational approaches for detecting patterns in a variety of contexts including cancer, brain injury, infectious disease, genome engineering and microbial community datasets\. Problems typically involve the construction of computational models for phenotype prediction from data that includes genomic data and other omics data\. This role will develop and apply computational models on new experimental data, provide measures of uncertainty, and participate in interdisciplinary discussions aimed at the design of new experiments\. You will report on results of research including publishing scholarly papers in scientific journals, give presentations at symposia, conferences, meetings, and seminars\. You will also participate in the preparation of reports and proposals required by funding agencies to obtain and continue funding support\.
+
+We are seeking outstanding people to join us in the Data Science and Learning Division and the Bioscience Division at all career levels\. As a multidisciplinary national laboratory, Argonne offers an exciting campus atmosphere in which to collaborate on interdisciplinary projects developing solutions to complex scientific and engineering problems on the world's largest parallel supercomputers\.
+
++ Minimum bachelor's degree in Bioinformatics, CS, or Biology
++ Fluency in scientific programming languages
++ Experience with bioinformatics analysis techniques and tools
++ Familiarity working in a Unix environment
++ Experience on high performance computing platforms and newer GPU systems
++ Experience processing NGS sequence data, familiarity with bacterial genomics, or demonstrated work in microbiology
++ Knowledge of artificial intelligence across machine learning, deep learning and statistics
++ Strong analytical and problem\-solving skills
++ Understanding of computational algorithms to support DNA sequence alignment, small nucleotide polymorphism detection, gene expression quantification and/or small molecule \(drug\) structure
++ Experience working on protected health information including electronic health records
++ Familiarity with regulatory policies and procedures surrounding electronic protected health information required
++ Ability to write research publications
++ Considerable collaborative skills, including the ability to interact well with external and internal collaborators
++ United States citizenship is a requirement on some projects
++ Ability to think independently and innovatively to develop exceptional technical solutions required
+
+As an equal employment opportunity and affirmative action employer, and in accordance with our core values of impact, safety, respect, integrity and teamwork, Argonne National Laboratory is committed to a diverse and inclusive workplace that fosters collaborative scientific discovery and innovation\. In support of this commitment, Argonne encourages minorities, women, veterans and individuals with disabilities to apply for employment\. Argonne considers all qualified applicants for employment without regard to age, ancestry, citizenship status, color, disability, gender, gender identity, genetic information, marital status, national origin, pregnancy, race, religion, sexual orientation, veteran status or any other characteristic protected by law\.
+
+Argonne employees, and certain guest researchers and contractors, are subject to particular restrictions related to participation in Foreign Government Talent Recruitment Programs, as defined and detailed in United States Department of Energy Order 486\.1\. You will be asked to disclose any such participation in the application phase for review by Argonne's Legal Department\.

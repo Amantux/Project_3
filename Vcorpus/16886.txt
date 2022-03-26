@@ -1,0 +1,50 @@
+Job Title: Enterprise Cloud Data Architect
+Location: Austin, TX-78751
+Duration: 10 Months
+Job Description:
+The Cloud Data Architect position is an Information Technology (IT) position and will be a part of Information Technology's Architecture team providing support for Client's Digital Fabric, Data Analytics, and Data Governance initiatives.
+The Cloud Data Architect has extensive experience working with non-relational and big data tools and supporting cloud services, a pragmatic mindset focused on translating functional and non-functional requirements into viable architectures, and ideally a consultancy background, leading a highly skilled team on engagements that implement complex and innovative data solutions for clients.
+In addition, the Cloud Data Architect thrives in a collaborative and agile environment with an ability to learn new concepts easily.
+The Cloud Data Architect will design solutions that enable data scientists and analysts to gain insights into data using data-driven cloud-based services and infrastructures.
+They will be subject matter experts and will be responsible for the stakeholder management and technical leadership for data ingestion and processing engagements.
+A good understanding of cloud platforms and prior experience working with big data tooling and frameworks is required.
+Roles & Responsibilities:
+Building technical solutions required for optimal ingestion, transformation, and loading of data from a wide variety of data sources using open source, AWS, Azure or GCP 'big data' frameworks and services.
+Working with the product and software teams to provide feedback surrounding data-related technical issues and support for data infrastructure needs uncovered during customer engagements / testing.
+Understanding and formulating processing pipelines of large, complex data sets that meet functional / non-functional business requirements.
+Creating and maintaining optimal data pipeline architecture.
+Working alongside Cloud Data Engineers, Cloud System Developers and Cloud Enablement Manager to implement Data Engineering solutions.
+Redesigning and building a new data ecosystem on the cloud.
+Extending on-premise data supply chain and modernizing data supply chain on the cloud.
+Collaborating with the customer's data scientists and data stewards during workshop sessions to uncover more detailed business requirements related to data engineering.
+Building business cases to support MDM efforts and adoption.
+Providing subject-matter-expertise in the assessment of solution proposals and concepts related to Master Data Management; Data Quality; Data Datalogging; and Metadata management and publication.
+Facilitating cross-functional discussions working groups.
+Identifying, defining, and communicating success factors.
+Performing other duties as assigned.
+Required Experience:
+8 years of Experience in building scalable end-to-end data ingestion and processing solutions
+8 years of Experience in EIM Principles: architecture, sourcing, ETL, data modeling, pipelines and connectors, integration hubs, data access (SOA, API, SQL), platforms (traditional servers, cloud, hybrid), database types (traditional, proprietary MPP)
+8 years of Excellent Experience understanding of EIM principles, capabilities, and best practices with extensive experience and domain knowledge in the areas of Master Data Management, Reference Data, Data Quality, Metadata Management, and Data Governance capabilities
+8 years of Experience in Good understanding of data infrastructure and distributed computing principles
+5 years of Experience in Good understanding of data governance and how regulations can impact data storage and processing solutions such as HIPAA and FedRAMP
+5 years of Experience to identify and select the right tools for a given problem, such as knowing when to use a relational or non-relational database
+5 years of Experience of non-relational and row/columnar based relational databases
+5 years of Experience in Confidently taking responsibility for the technical output of a project
+5 years of Experience in Metadata Management experience including business definitions, business processing rules, data lineage
+5 years of Experience in Master Data Management experience, with a good understanding of MDM full-lifecycle concepts/techniques
+4 years of Experience of database and analytical technologies in the industry including massive parallel processing and NoSQL databases, cloud data warehouse and data lake design, BI reporting and dashboard development
+4 years of successful history of manipulating, processing and extracting value from large disconnected datasets
+4 years of Experience in Comfortably working with various stakeholders such as data scientists, architects and other developers
+4 years of Experience managing Master Data Management and Data Governance deliverables of functional teams, such as Strategic plans/roadmaps, Frameworks, Technical Design Documents and/or Data Models
+2 years of Experience with Machine Learning toolkits
+2 years of Experience with object-oriented and/or functional programming languages, such as Python, Java and Scala
+2 years of Experience in Proficient at implementing data processing workflows using Hadoop and frameworks such as Spark and Flink
+2 years of Experience Delivering production scale data engineering solutions leveraging one or more cloud services
+Preferred Experience:
+4 years of Experience with Healthcare or Insurance business domain
+2 years of Informatica Experience.
+About our Company: -
+
+22nd Century Technologies is a business enterprise that supports demanding staffing programs for Corporations and State and Local Government Agencies. Its journey began in 1997 by supporting large Federal contracts which nudged us in the direction of creating large candidate pools across the country. Over the last 20 years, we have built a strong business model that is carefully constructed to deliver on multiple facets. We have proven past performance of providing services that exceed our clients' expectations. Today 22nd Century technologies supports clients in all 50 states and has grown to be a company that is trusted and sought for providing a complex mix of workforce solutions. With a firm grip on the entire spectrum of staffing solutions, we have placed more than 500,000 skilled resources and delivered 15 million+ man-hours.
+“22nd Century Technologies is an Equal Opportunity Employer" and “US Citizens & all other parties authorized to work in the US are encouraged to apply."

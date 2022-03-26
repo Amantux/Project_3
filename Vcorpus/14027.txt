@@ -1,0 +1,29 @@
+Entera, where residential real estate investing is made simple
+
+At Entera, we are on a mission to transform the way investors find and buy properties. Powered by machine-learning, Entera's end-to-end residential real estate platform modernizes the real estate buying process. Entera's property source aggregation platform, discovery algorithms, intelligent tools and expert real estate service team help our clients access and evaluate more properties, make data-driven investment decisions, and win more - 100% online.
+
+Entera is based in San Francisco, New York & Houston, with satellite service offices in 12 additional markets across the US. We're always looking for talented, creative and passionate people to join our team. If you're interested in opportunities at Entera, we'd love to hear from you!
+
+Job Description
+
+As a Senior Data Scientist at Entera, you'll develop both batch and real-time processing capabilities and improvements in our machine learning efforts. Some of the projects we work on include image recognition across a massive dataset, geospatial analysis using tools in PostgreSQL, and probability/outcome detection as a service to better help match our customers to product. You'll work in Python, developing and measuring the accuracy of Tensorflow models that use datasets in stored in Spark. You'll work with cross-functional teams to do data-mining in an iteratively improving process that mirrors that of our agile engineering organization. You'll work with some of the brightest engineers you'll meet across the full stack to help further integrate our AI systems to drive a better transaction quality and experience on our platform.
+
+Successful candidates will thrive in Entera's unique operating environment and culture: high-growth, innovative, lean, and values-driven. As such, successful candidates must be highly capable in each of the following dimensions (among others): adaptability, curiosity, resourcefulness, analytical thinking/problem solving, proactivity, collaboration, technological savvy, and operating in a dynamic environment.
+
+Job Responsibilities
+Develop production-grade Tensorflow models and work towards improvements in our existing customer-facing machine learning systems
+Create NLP-based systems to structure new sources of data using SpaCy and surface that data via APIs
+Work with Data Engineering to ensure you have access to the source data needed for modeling
+Develop novel ways of analyzing and working with our datasets
+Use Spark as a feature-store and help further improve our labeling and annotation process
+Work within a team structure to deliver on machine-learning projects and data efforts
+Iterate in an agile development workflow and use version control systems (Git and the TFX suite of tooling) to manage model validation and data accuracy
+Preferred Qualifications:
+MS or PhD in Computer Science, Mathematics, Statistics, Physics, Economics, or similar hard-science.
+5+ years hands-on experience in Data Science roles at fast-paced product-driven tech companies
+Extensive experience creating measured and validated models in Tensorflow
+Deep and broad interest in all aspects of machine-learning
+Strong experience with Spark, SQL, R, and Python
+Working knowledge of cloud-services
+Experience using and working with accompanying data pipelines
+Working knowledge of a Python web framework like Flask

@@ -1,0 +1,40 @@
+SimpleLegal is a legal tech startup, based in Mountain View, that is innovating the way corporate legal teams work. Used by the legal departments at Reddit, Alphabet, GitHub, and over 250 more, we are quickly becoming the SaaS platform of choice for enterprise legal teams. Sales has Salesforce, Legal has SimpleLegal.
+
+In the legal tech space, SimpleLegal is known for our outstanding customer implementations and API. Were looking for an Application Integration Developer to join our growing team. Our culture focuses on ownership, transparency, and community. Every developer makes an impact, usually merging code within their first week. In this role, you will work closely with Implementation Managers and Customer IT teams to understand requirements, then own the design, implementation, and test automation necessary to deliver high-quality solutions. The work is always changing, and increasingly focused on REST API development.
+
+Responsibilities
+Design, build, review, and maintain customer integrations + data transformations.
+Develop and document our REST API
+Communicate with customer support, professional services, and other teams to refine requirements, provide estimates, document features, and debug production issues.
+Skills & Experience:
+
+Required:
+Python
+Relational / SQL Database
+Linux and console (SSH/SFTP)
+Git
+Desirable:
+PostgreSQL
+Django
+Docker, Heroku, AWS, GCP
+REST API Development Experience
+Experience with ETL tools
+Experience with finance systems
+NumPy, Pandas
+Our Tech Stack
+
+Our apps are built using Django + Postgres on Heroku. Developer services are hosted on AWS and GKE. Our users typically interact with SimpleLegal directly through the UI but we have an API implemented using Django REST Framework for integrations with other legal-tech and fin-tech applications. The front-end is primarily Bootstrap with JavaScript + jQuery which is being incrementally replaced with React and Redux.
+
+Our Tech Culture
+
+The engineering team watches and discusses tech talks over lunch once a week. We set aside 10-20% of our time for self-directed improvement: experiment with a library; build an internal tool; improve the company for yourself and your coworkers as you see fit. We also have a liberal open-source policy for personal projects, and have released a few packages of our own, as well: https://github.com/simplelegal
+
+About SimpleLegal
+
+Were here to build a world-class enterprise SaaS product that our customers love, that has the best support of any software product they use, in an environment that celebrates company and personal success. We offer competitive compensation and benefits in a fun working environment.
+
+About SimpleLegal SimpleLegal is a legal tech enterprise SaaS startup run by experienced founders, based in Mountain View, CA. We’ve created a software platform to run in-house legal operations. As a well-funded startup with a diversified customer base and meaningful revenue, we are bringing corporate legal teams into the modern age. Sales has Salesforce, Marketing has HubSpot, Legal has SimpleLegal. In May of 2019, SimpleLegal joined the Onit family as of an expansion to offer solutions to the leading companies around the world.
+
+SimpleLegal recently combined with Onit to disrupt the legal operations landscape, with offices in Mountain View, Houston, and Austin. We’re here to build a world-class product that our customers love, that has the best support of any software product they use, in an environment that celebrates company and personal success. We believe that opportunity exists in the legal industry to build that company. We believe that we can build the next great enterprise platform faster and better than anyone else. We offer competitive compensation and benefits in a fun working environment. Dental, medical, catered lunches, game nights to get to know your coworkers, and more.
+
+Powered by JazzHR

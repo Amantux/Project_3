@@ -1,0 +1,55 @@
+Current Employees/Contractors of LendingClub: Please apply via your internal Workday Account
+
+LendingClub (NYSE: LC) was founded in 2007 under the belief that a technology and data-driven marketplace can improve the way people access and invest in credit, creating value for both sides. Since then, we've helped millions of Americans take control of their debt, pursue their dreams, and invest in their future – all in a fair, transparent, and affordable way. Today we’re the world’s largest online credit marketplace, facilitating billions of dollars in loans annually, and we’re leading the governance of a new industry by developing ethical, responsible ways to bring greater value and better opportunities to our members. Everyone deserves a better financial future and our team is committed to making that a reality.
+
+About the Role
+
+Lending Club is looking for a Sr Security Data Scientist to help in detecting and responding to external and internal threats. The position will be key in driving best practices and growing the knowledge base of the Threat Response Team. This is an exciting opportunity for the right individual to play a critical role in defining the threat landscape and necessary detection and response capabilities to contain it.
+
+As a critical role to Lending Club’s overall security strategy the candidate should have a strong background in mathematical model development and prototyping. We are looking for people who are comfortable with research and development of new methods for detection of evolving threats. The candidate should have technical proficiency across multiple technologies: Python (or other scripting language), SQL, NoSQL, Git, etc.. They will also have experience writing scripts to automate alerts, data enrichment and response orchestration. The role requires excellent verbal and written communication skills. Candidate should feel comfortable presenting to all levels of the business.
+
+The Sr Security Data Scientist will report directly to the Director of Threat Intelligence and Response Engineering and be responsible for developing advanced tools for detection of threats.
+
+What You'll Do
+
+Become an expert in the Lending Club technology stack to understand points of weakness and opportunities for security solutions
+
+Prototype / Design / Build detection models for InfoSec and Fraud analytics and automation pipelines
+
+Review security events to determine impact to Lending Club
+
+Identify business problems and engineer solutions that address.
+
+Collaborate with internal stakeholders on addressing systemic security issues
+
+Construct and analyze trends of events and incidents to assist in minimizing Lending Club’s security risk
+
+Review asset, application, host, server, and security logs for anomalous behavior
+
+Determine nature and scale of threats and provide recommended containment actions
+
+About You
+
+Highly-determined and self-motivated individual, who loves learning new things.
+
+6+ years specifically in analytics or data science.
+
+Proficient in working with SQL.
+
+Code development experience in Python or similar.
+
+Experience in predictive model development, machine learning, statistics, graph analysis, time-series modeling.
+
+Experience across cloud (AWS) and data center environments.
+
+Comfortable dealing with ambiguity and conflicting priorities.
+
+Strong ethics and understanding of ethics in information security.
+
+Excellent project management skills.
+
+Excellent communication skills in English.
+
+B.S. Engineering, Mathematics or Computer Science (M.S. Preferred).
+
+LendingClub is an equal opportunity employer and dedicated to diversity and inclusion in the workplace. We do not discriminate on the basis of race, religion, color, national origin, sex, gender, gender identity, sexual orientation, age, marital status, pregnancy status, veteran status, or disability status. We believe that a variety of perspectives will make our teams and business stronger as we work together to transform the traditional banking system.

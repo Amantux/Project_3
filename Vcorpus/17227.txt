@@ -1,0 +1,38 @@
+At Schwab, the Global Data Technology (GDT) organization leads the strategy, implementation and management of the enterprise data technology. They enable the management of data as assets and the delivery of data along the value-chain across Schwab. They help Marketing, Finance, Risk and various P&Ls make fact-based decisions by integrating and analyzing data as well as operationally leverage data for competitive advantage. The team delivers innovative client experience capability and rich business insight through robust enterprise data-driven capabilities.
+Dev Engineering team within GDT focuses on building new frameworks and enhancing existing ones to improve overall project delivery efficiency and maintain coding standards. We are looking for Senior Software Development Engineer to realize this vision for the data platform, to help evolve our service practices, and to build frameworks to support the continued evolving needs of our user base. The individual should have passion for data technologies and mindset to identify and implement innovative ideas to mature our service operations
+
+Diagnose / fix highly complex technical issues independently
+Communicate individual and project-level development statuses, issues, risks, and concerns to technical leadership and management
+Create documentation and training related to technology stacks and standards within assigned team
+Coach and mentor junior engineers in engineering techniques, processes, and new technologies; enable others to succeed
+Experience collaborating with business and technology partners and offshore development teams
+Working with product owners and technical directors to lead technical discussions and resolve technical issues
+Strong skills in design, development and delivery of data solutions on Teradata, Big Data and cloud data platforms.
+Developing and maintaining code for data ingestion and curation using Informatica, Talend, Scoop, Hive etc
+Managing day-to-day development activities for new data solutions and troubleshooting existing implementations.
+Applying best practices of data integration for data quality and automation
+Reviewing data models and data architecture for Hadoop and HBase environments
+Documenting design solutions and supporting documentation.
+Working with business analysts to understand business requirements and use cases
+
+Bachelor's degree in Computer Science or related discipline
+Experience with a structured application development methodology, using any industry standard Software Development Lifecycle, in particular Agile Methodologies is required
+6+ years of overall experience in I.T. with strong understanding of best practices for building and designing ETL code
+5+ years of experience in ETL tools. Specific expertise in implementing Informatica / Talend in an Enterprise environment.
+Very good experience/understanding on Building Enterprise Data Lake using Talend, Scoop, Hive, Mongo DB, etc
+Design, build and support data processing pipelines to transform data in Big Data, Teradata platforms, Cloud Platforms (GCP, AWS)
+Experience in real time data ingestion into Hadoop is required
+Understanding Hadoop file format and compressions is required
+Understanding of best practices for building Data Lake and analytical architecture on Hadoop is required
+Familiarity with MapR distribution of Hadoop is preferred
+Experience in or deep understanding of cloud based data technology GCP/AWS is preferred
+Experience with change data capture tools (CDC) preferred such as Attunity
+Scripting / programming with UNIX, Java, Python, Scala etc. is preferred
+Hands-on experience in Java object oriented programming (At least 2 years)
+Hands-on experience with Hadoop, MapReduce, Hive, Pig, Flume, STORM, SPARK, Kafka and HBASE (At least 3 years)
+Experience in Active Batch Scheduling , control M preferred
+Experience with Test Driven Code Development, SCM tools such as GIT, Jenkins is preferred
+Good verbal and written communication skills
+Strong interpersonal, analytical, problem-solving, influencing, prioritization, decision- making and conflict resolution skills
+Ability to thrive in a flexible and fast-paced environment across multiple time zones and locations
+Experience in Financial Services industry a plus.

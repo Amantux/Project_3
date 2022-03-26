@@ -1,0 +1,43 @@
+Job Summary:
+
+Works with data scientists to develop prototype database code.vSupports the execution of data science solutions to business
+problems within business unit. Documents projects including business objective, data gathering and processing, leading approaches, final algorithm, detailed set of results and analytical metrics. Understands standard BigData capable infrastructures and how to support development in those environments. Works with data scientists with minimal supervision and works directly with other engineering teams to implement solutions. Understands standard programming practices necessary to support and maintain enterprise level applications. Works with data scientists to understand data science solutions and work with existing prototype code to bring a project from POC into production using good standard engineering practices. Maintains existing data science engineering production systems and make necessary changes to code. Supports data science infrastructure issues and working with Production Engineering, Devops, and other engineering teams.
+
+Required Minimum Position Qualifications:
+
+Masters degree in Statistics or related field of study and one (1) year of work experience in the job offered or related occupation.
+
+Position also requires demonstrated experience in the following:
+
+• Programming skills in Python, Scala, Pyspark, R and Java;
+• Modern database warehouse languages SQL in Hive and BigQuery environments;
+• Developing for entire stack of data science spectrum from data modeling (schema development), data cleaning and data validation to complex machine learning models and automated execution via schedulers like Azkaban; and
+• Development tools such as JIRA (task management software for distributed and collaborative software development) and Gerrit (cloud repository for code).
+
+#LI-DNP
+#LI-DNI
+
+PRIMARY RESPONSIBILITIES
+
+Interprets and applies data analytics to translate business insights that support strategic decision-making
+Lead and recommend business decision making for multiple business functions teams / projects
+Implements activities that generally impact multiple components / processes and the work of several other business units /
+Assigned to highly strategic /high risk initiatives across multiple business units
+Leads in the execution of statistical and mathematical solutions to business problems across business unit(s)
+Leads team in determining intended approach and quantitative methods to develop solution for current and future organizational needs
+Oversees design experiments to answer targeted questions
+Develops materials to explain project findings to Leadership and Sr. Technology Leadership
+Defines and delegates development tasks among team
+Guides and recommends to team members and partners
+Provides guidance regarding analytical approach and iteration of algorithms
+Researches new ways for modeling and predicting end-user behavior and makes recommendations for adoption
+QUALIFICATIONS
+
+Required
+7+ years of progressively complex Data Science or analytics experience
+Bachelors degree or equivalent in MIS, Computer Science, Data Science or related field
+Preferred
+Masters degree and/or Ph.D.
+Retail experience
+Special Requirements
+NA

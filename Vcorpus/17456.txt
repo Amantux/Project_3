@@ -1,0 +1,42 @@
+SunIRef:it
+
+Vimeo is searching for an experienced Python and SQL software engineer for its Business Intelligence team. This is an opportunity to design and maintain a robust, scalable and sustainable enterprise data platform with other members of the Business Intelligence team. The ideal candidate will enjoy working on a variety of projects at once, with lots of different software services and data sources, all orchestrated with Python code.
+
+Our platform has robust analytics tools that can tell video creators where people are from, where they click, and even track where in a video someone stopped watchinggiving you insight into creating engaging content in the future.
+
+While working as a peer to both technical and non-technical staff throughout the company, you will drive the improvement process of both our products and our business operations. You will help define data access and discoverability requirements and work to create infrastructure and services that provide access to event streams.
+
+What you'll do:
+Work closely with other BI engineers, BI analysts, and business stakeholders to understand and plan technical requirements for BI projects
+Provide decision analysis and decision support to business stakeholders using BI and other data
+Learn quickly and deeply about Vimeo's software platform, desktop and mobile applications
+Contribute software designs, code, tooling, testing, and operational support to a multi-terabyte BI data platform
+Collaborative work: iterative development, design and code review sessions
+Independent work: author and maintain tools for other developers, plus regular hackweeks to develop for the Vimeo platform
+
+Skills and knowledge you should possess:
+3+ years of engineering experience in a fast-paced environment; 1+ years of experience in scalable data architecture, fault-tolerant ETL, and monitoring of data quality in the cloud
+Proficiency in SQL
+Proficiency in Python
+Proficiency with modern source control systems, especially Git
+Experience working with non-technical business stakeholders on technical projects
+
+Bonus Points (Nice Skills to Have, but Not Needed):
+Airflow, Celery, or other Python-based task processing systems
+Cloud-based devops: AWS or Google Cloud Platform
+Relational database design
+Kafka, Kinesis, PubSub and other durable, scalable messaging systems
+Spark
+Pandas or R
+Redshift, Vertica, Snowflake, CitusDB, or other distributed columnar-store databases
+Experience with Mixpanel, , Snowplow, or similar event tracking systems
+Experience with any distributed map/reduce framework, in Hadoop or otherwise
+Basic Linux/Unix system administration skills
+
+About us:
+
+Vimeo is the world's leading professional video platform and community. With over 175 million members across more than 150 countries, we help anyone grow their business by making it easy to create and market high-quality, impactful videos.
+
+We work hard to enable creators of all kinds to succeed, and to that end, we prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and creativity. We're committed to building a company and a community where people thrive by being themselves and are inspired to do their best work every day.
+
+Vimeo is headquartered in New York City with offices around the world, and is an operating business of IAC. Learn more at .

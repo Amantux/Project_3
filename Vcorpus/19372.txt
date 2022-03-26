@@ -1,0 +1,31 @@
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.We are looking for a Data Engineering Manager for our Finance Products (FP) team to use data and technology to transform the way Facebooks Finance and Compliance teams work. You'll be part of the final stages of transforming a service-oriented organization into a world-class product team. Youll also be a pioneering Data Engineering leader and youll be empowered to create a strong community of Data Engineers and Data Scientists across the pillars of our parent organization, Enterprise Products.The perfect candidates will have strong data infrastructure and data architecture skills, a proven track record of leading and scaling data teams, strong operational skills to drive efficiency and speed, strong project leadership, and a strong vision for how data engineering can proactively create positive impact for companies.
+
+Responsibilities:
+
+Provide leadership and management to a team of data engineers. Youll split your time between unblocking your team, vetting their designs, and coaching them to realize their full potential, while also building things yourself.
+Proactively drive the vision for data engineering across the Finance Products pillar, and define and execute on a plan to achieve that vision.
+Proactively mentor and grow the team, identify the required skills, hire the best talent, actively manage their performance and help them to grow to their fullest potential.
+Define the processes needed to achieve operational excellence in all areas, including project management and system reliability.
+Build cross-functional relationships with Data Scientists, Product Managers, Software Engineers, and leaders in Facebooks Finance business to understand data needs and deliver on those needs.
+Drive the design, building, and launching of new data models and data pipelines in production.
+Manage development of data resources and support new product launches.
+Drive data quality across financial products and related business areas.
+Manage the delivery of high impact dashboards and data visualizations.
+Define and manage SLAs for all data sets and processes running in production.
+Mininum Qualifications:
+
+6+ years of experience in Data Engineering, BI, or Data Warehousing.
+Experience scaling and managing 5+ person teams.
+Communication and leadership experience and experience initiating and driving projects.
+Project management experience.
+Data architecture experience.
+Experience in SQL or similar languages and development experience in at least one scripting language (Python, Perl, etc.).
+BA/BS in Computer Science, Math, Physics, or other technical fields.
+Preferred Qualifications:
+
+Experience working in Financial Technology companies.
+Experience partnering with leaders of Financial Planning & Analysis, Financial Operations, and/or Accounting teams.
+Experience with Hive or Presto, data visualization tools (e.g., Tableau), and/or relational database management systems.
+Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.
+
+Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.

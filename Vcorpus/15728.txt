@@ -1,0 +1,47 @@
+LMI is a government consulting firm, dedicated to advancing the management of government. We operate free of political and commercial bias, and we gauge our success by the mission outcomes we enable our government clients to achieve. Our clients value our objectivity, deep government IQ, and expertise in logistics, analytics, information technology, and management consulting. We seek talented, hardworking people who share our passion for public service and want to join us in solving the most pressing challenges in government management.
+LMI is currently seeking an innovative, experienced, and highly-skilled Data Engineer to join our growing Advanced Analytics team in San Antonio, TX. In this role, you will create and develop custom solutions for our users in a collaborative, fast-paced, state-of-the art environment. To be successful in this role, you will be thorough, creative, and exceptionally well-skilled in all phases of the development lifecycle, with a passion for continued learning and collaboration.
+*This position is located in San Antonio and requires an active TS w/SCI eligibility clearance*
+*Also looking for candidates in these locations: Charlottesville, Fort Bragg (NC), Fort Gordon (GA), Ft. Meade, Hawaii, San Antonio, Germany, Italy, South Korea
+
+5+ years performing data acquisition, identify relevant data sources and sets and shall provide data system enhancements as required, including but not limited to product reformatting and data quality assessments to support the acquisition of new datasets.
+Design, develop, test and manage the overall architecture that helps analyze and process data in the way the organization needs it.
+Integrate external or new datasets into existing data pipelines.
+Process, clean, and verify the integrity, accuracy, completeness, and uniformity.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques and perform all network administration and data system operations (e.g., computer and peripheral device operations, system backups) and any related operations associated with data acquisition, data maintenance, maintaining and updating metadata, and other data and information services for stakeholders.
+Develop, construct, test and maintain databases.
+Build data and analytics tools that will offer deeper insight into the pipeline, allowing for critical discoveries surrounding key performance indicators and customer activity.
+Give recommendations and implement ways to improve data reliability, efficiency, and quality: evaluate, compare and improve the different approaches including design patterns innovation, data lifecycle design, data ontology alignment, annotated datasets, and elastic search approaches.
+Act as the lead data strategist, identifying and integrating new datasets that can be leveraged.
+Document all processes, models and activities.
+Research and keep up-to-date with latest tradecraft and technology.
+Collaborate with systems architects, data scientists, and analysts to direct and optimize the flow of data within the pipeline and ensure consistency of data delivery and utilization across multiple projects.
+Curate and collect the data from a variety of traditional and non-traditional sources: extract data from sources, transform and integrate data in line with existing data, and load data into data stores for access by others.
+Languages, Tools, and Techniques:
+Data pipeline/workflow management tools such as Azkaban and Airflow AWS cloud services such as EC2, EMR, RDS and Redshift.
+Know basics of algorithms and data structures, distributed computing, Hadoop cluster management, HDFS, MapReduce, stream-processing solutions such as Storm or Spark, big data querying tools, frameworks, messaging systems, and big data toolkits.
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+Experience building and optimizing data pipelines, architectures and data sets.
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+Knowledge of ETL tools, data APIs, data modeling, and data warehousing solutions.
+R, Python, Ruby, C++, Perl, Java, SAS, SPSS, and Matlab.
+Demonstrated ability to work with enterprises to develop processes that support data transformation, data structures, metadata, dependency and workload management.
+Comfort working in a dynamic environment with several ongoing concurrent projects; able to multitask, prioritize, and manage time effectively.
+Creative problem solver who thrives when presented with a challenge; able to analyze problems and strategize for better solutions; strong problem solving skills with an emphasis on production for re-use.
+
+Active TS/SCI clearance
+MS in Computer Science, Information Systems or equivalent field and 5+ years of experience in a similar data engineer role; BS in Computer Science, Information Systems or equivalent field and 7 + years of experience in a similar data engineer role; or AA in Computer Science Information Systems or equivalent field and 10+ years of experience in a similar data engineer role
+3 years of experience handling databases and software develop is preferred.
+Experience working with AWS cloud services such as EC2, EMR, RDS and Redshift
+R, Python, Ruby, C++, Perl, Java, SAS, SPSS, and Matlab skills desired
+Advanced data engineering experience required
+Significant experience with databases
+Experience and familiarity with Agile-Scrum software development
+Experience gathering and decomposing requirements
+Proven record of solution development and deployment
+Familiarity with web based application development
+Experience with testing, use case, and user stories
+Outstanding communication skills, written and verbal
+Highly-organized and able to manage multiple projects simultaneously
+Team-player mentality with a positive attitude
+Keen attention to detail and solid analytical skills
+Able to articulate complex, abstract concepts concisely and effectively

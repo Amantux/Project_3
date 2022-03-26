@@ -1,0 +1,26 @@
+About gettacar:
+
+gettacar is a direct-to-your-door, online platform that enables users to buy, finance, and trade used cars. The old way of buying cars is outdated. We want buying a car to be as simple as buying a pair of shoes and as trustworthy as online banking. By controlling the process from beginning to end, we allow customers to shop a wide inventory of cars, choose their terms, and have the car delivered right to their door. We even give 7 days to decide if you want to keep it. This is the future of car buying.
+
+What we are looking for:
+
+gettacar is looking for a Data Engineer to join our growing Analytics team. The Data Engineer position will be responsible for building out and developing our analytics data warehouse.
+
+We’ll count on you to:
+Structure, manage, and ensure accuracy of data in a SQL data warehouse environment to support various levels of analytics products using the latest ETL methods and technologies.
+Collaborate with analytics and business teams to improve data models that feed business intelligence tools, increasing data accessibility and fostering data-driven decision making across the organization.
+Implement processes and systems to monitor data quality, ensuring production data is always accurate and available for key stakeholders and business processes that depend on it.
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Build analytics tools that utilize the data pipeline to provide actionable insights into customer acquisition, marketing, sales, operational efficiency and other key business performance metrics
+Perform data analysis required to troubleshoot and resolve data related issues
+Skills & Requirements:
+5+ years of data engineering experience
+5+ years of experience using SQL
+Experience working with segment.io
+Experience with R or Python a plus
+Bachelor’s or Master’s degree in Computer Science, Information Systems or related field
+Ability to develop/structure data to support analytical work, BI reporting, and data visualization
+Ability to assess the best engineering approach and implement ETL, ELT, Transformations, Triggers, Stored Procedures, or other methods to support optimal SQL data warehouse structuring.
+Experience managing Schemas, Tables, Views
+Demonstrated experience ensuring accuracy and reliability of core data through sound data governance practices
+Auto industry experience not required

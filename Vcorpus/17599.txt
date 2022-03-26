@@ -1,0 +1,66 @@
+We appreciate your interest in employment with The Honest Company! The Honest Company is committed to a policy of equal employment opportunity, and will not discriminate against an applicant or employee on the basis of race, color, religion, creed, national origin, ancestry, sex, gender, age, physical or mental disability, veteran or military status, genetic information, sexual orientation, gender identity, gender expression, marital status, or any other legally-recognized protected basis under federal, state, or local law. Applicants with disabilities who need assistance with the application process may be entitled to a reasonable accommodation in accordance with applicable law. If you need assistance in completing this application or with the application process because of a disability, please contact the Human Resources Department at 1.888.862.8818 or 1.310.857.3020.
+
+About Us
+
+Founded in 2012, The Honest Company® is a mission-driven consumer products company dedicated to empowering people to live happy, healthy lives. Consumers seeking thoughtfully formulated, safe and effective baby, personal care and beauty products, along with education and support can find The Honest Company products across North America via honest.com and honestbeauty.com and at more than 17,000 retail locations. Beginning in spring 2019, consumers in Europe can find Honest Beauty at select Douglas retail locations. A leader in the natural baby category and a trailblazer in clean beauty, The Honest Company is committed to ensuring all families have access to basic necessities and the latest health information for safe growth and development - a commitment reflected in its ongoing partnerships with organizations such as Baby2Baby and Mount Sinai. The Honest Company is privately held and headquartered in Los Angeles, California.
+
+Our Mission
+
+We're on a mission to empower people to live happy, healthy lives. We're a wellness brand with values rooted in consciousness, community, transparency, and design. Every day and in every way, we hold ourselves to an Honest standard. We believe that it is our responsibility to do our part to help create a healthy and sustainable future for all.
+
+The Role
+
+The Honest Company is looking for a Data Engineer to help us in our mission of delivering safe affordable products to current and future customers. We sit at the center of technology and the business, supplying the company with the tools and training to make better use of our vast datasets. You will serve a key function, integrating critical systems, and translating raw data into information that drives the business forward.
+
+What you'll do:
+Build data pipelines to integrate systems and move data into our data warehouse. We use Amazon Redshift, Apache Airflow, Fivetran, Mule ESB, Python and Bash, among other tools.
+Collaborate with data analysts across the business to build the tables and tools they need to support better decisions.
+Integrate data flows between operational systems, build tools for data reconciliation
+Intimately understand the company's operational data models, troubleshoot data flow issues, and improve system reliability and fault-tolerance
+You'll love this job if you:
+Love data and have a passion for turning it into insights
+Are a dynamite problem solver. You're motivated to solve customer issues and are always thinking one step ahead.
+Create strong partnerships with stakeholders
+Love iterating quickly on software
+Are a strong advocate of high-quality code
+What you'll need:
+2+ years software or data engineering experience
+Strong SQL skills
+Strong analytical and problem-solving skills
+The ability to take business requirements and translate them into technical requirements
+Effective communication and interpersonal skills
+Bonus Points for:
+Knowledge of the AWS ecosystem, especially as it relates to data
+Experience with Mule ESB, Java, Python, Ruby and/or Apache Airflow
+Experience in a retail or ecommerce environment
+Benefits & Perks
+
+We offer a competitive benefits package including comprehensive health and wellness coverage, 401k with company match, wellness incentives including a monthly fitness reimbursement and onsite fitness classes, options for education reimbursement, and a discount on all products. We value work-life balance and offer a generous and flexible vacation policy. Thinking about adding little ones to your family? Honest offers generous maternity and paternity leave. We love the furry kids too and offer pet insurance so your companions are well taken care of.
+
+California Privacy Rights Notice for Californian Job Applicants and Prospective Talent
+
+Effective Date: January 1, 2020
+
+Under the California Consumer Privacy Act of 2018 ("CCPA"), The Honest Company, Inc. ("Honest" or "us" or "we") is required to inform California residents who are our job applicants or prospective talent (together "job applicants" or "you") about the categories of personal information we may collect about you and the purposes for which we use this information. Click here if you are a California resident to read disclosures required by the CCPA. Note this notice applies only to personal information that is subject to the CCPA.
+
+Categories of Personal Information We Collect. We may collect the following categories of personal information about our job applicants, who are California residents:
+Name
+Signature
+Social Security Number
+Email and mailing address
+Telephone number
+Education
+Employment history
+How We Use Job Applicants' Personal Data. We use and disclose the personal information we collect for our business purposes. These business purposes include, without limitation:
+Processing evaluating your application to determine your qualifications for the role to which you've applied, and communicating with you about your application, including to check references or your background, and communicate with you about other jobs that may interest you.
+Other business purposes as identified in the CCPA, which include:
+Auditing related to our interactions with you;
+Legal compliance
+Detecting and protecting against security incidents, fraud, and illegal activity;
+Debugging;
+Performing services for us, such as analytics;
+Internal research for technological improvement; and
+Internal operations.
+Other Interactions with The Honest Company. More information about our privacy practices can be found in our Privacy Policy, which is incorporated herein by reference.
+
+Contact Us. For questions or concerns about our Privacy Policy, please contact us at privacy@honest.com.

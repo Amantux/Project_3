@@ -1,0 +1,10 @@
+The main task is to support their Risk-Based Capital model adoption: Presently, a strategic initiative is underway to help lower the capital requirements.
+Support the risk managers, risk analytics, and model validation teams by providing them with suitable technology solutions
+Risk-Based Capital calculations are required to be validated by quantitative risk team. This team develops suitable quant software or wraps 3rd party analytical libraries into packages to meet their needs. The candidate will assist them in this process by devising a robust software development process and documenting them to regulatory standards.
+REQUIREMENTS
+5+ years of business analysis experience
+Strong Market and Credit Risk Management knowledge
+Business process engineering, requirement gathering and BRD preparations for enhancements to risk management framework
+UAT and QA testing experience
+Has to Understand VaR and Stress VaR as it related to products across FI, Equities, FX, Credit, etc.
+Undergraduate degree and/or graduate degree in STEM, preferably computer science or financial engineering. Experience working on SIMM or Libor initiatives a plus

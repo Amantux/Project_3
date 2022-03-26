@@ -1,0 +1,37 @@
+Location: LA, DC, or NYC preferred; Remote for the right candidate
+
+The Data Analyst plays an important role in executing on the National Justice Database analysis plan. The uniquely robust and ever-growing National Justice Database is the first and largest database on police behavior in the country (e.g., vehicle stops, pedestrian stops, use of force, complaints against officers).
+Key Responsibilities
+Execute on analyses outlined in the National Justice Database analysis plan
+Delivery of all code and syntax developed to conduct the analyses
+Perform data pre-processing/wrangling tasks to prepare the data for analysis
+Produce compelling data visualizations
+Set up regression models and provide interpretation of the results
+Conduct quality assurance checks to ensure there are no errors in the analyses or the interpretation of the output
+Qualifications
+Background in statistics/data science with specific experience in performing multiple regression, multilevel (hierarchical) modeling, and Bayesian inference
+Highly proficient in R and/or Python
+Ability to produce markdown notebooks with Jupyter and/or RMD/Knitr
+Expertise in interpreting syntax across statistical software platforms (including, but not limited to, R, Python, SAS, Stata, and SPSS)
+Experience working with geographic data (GIS shapefiles; desired, but not required)
+Ability to explain analysis findings in clear terms that can be understood by non-technical audiences
+Familiarity with administrative dataset cleaning and merging
+Comfort with collaboration across a geographically distributed team
+Collaborative Institutional Training Initiative (CITI) certified (or equivalent; this may be completed after an offer has been extended)
+Benefits
+Medical
+Dental
+Vision
+Life Insurance
+Pet Care
+Generous Vacation
+Sick Pay
+Paid Holidays
+Application Submission Guidelines
+Applications will be considered on a rolling basis. However, applications received after the close date will receive delayed consideration. To apply, please submit the following materials:
+CV/resume
+Cover Letter
+Two example analyses (preferably as Jupyter notebooks or RMD documents, though other formats are acceptable)
+Please be sure to label each PDF file by including your name. For example, your submitted CV should be labeled, “LASTNAME\_FIRSTNAME.CV.pdf.”
+
+Job Types: Full-time, Part-time

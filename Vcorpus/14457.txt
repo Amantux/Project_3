@@ -1,0 +1,60 @@
+About City of Hope
+
+City of Hope, an innovative biomedical research, treatment and educational institution with over 6000 employees, is dedicated to the prevention and cure of cancer and other life-threatening diseases and guided by a compassionate, patient-centered philosophy.
+
+Founded in 1913 and headquartered in Duarte, California, City of Hope is a remarkable non-profit institution, where compassion and advanced care go hand-in-hand with excellence in clinical and scientific research. City of Hope is a National Cancer Institute designated Comprehensive Cancer Center and a founding member of the National Comprehensive Cancer Network, an alliance of the nations leading cancer centers that develops and institutes standards of care for cancer treatment.
+
+Position Summary
+
+The Lead Clinical Decision Support Data Scientist will lead the development of data-driven clinical decision support tools through predictive analytics to optimize clinical care processes. The individual will partner with department leaders and clinical end users to understand and prioritize the pain points and work with the data science team and IT team to strategize, develop and deliver decision support tools at point of care.
+
+Key Responsibilities include:
+Collaborate with administrative leaders, clinicians and IT specialists to support data strategy and execution for research and clinical projects.
+Lead decision support data science team in developing high quality, robust and reliable algorithms for real time monitoring and decision support tools.
+Plan, resource, strategize and manage clinical decision support projects
+Query and analyze large datasets from multiple systems
+Evaluate different methodologies and data sources for the best approach to solve data science problems
+Design and implement machine learning algorithms for predictive models
+Design and implement pilots for validation and optimization of models in real time
+Strategize and manage moving decision support tools into production environment
+Plan, resource and manage optimization and maintenance of predictive models in production
+Produce technical documentation to clearly define and explain different phases of decision support projects
+Produce data visualizations and presentations to present the progress and results of the decision support projects to leadership and end users, as well as external conferences and meetings
+Prepare scientific manuscripts, posters and abstracts for publication in journals and conferences
+Lead mentorship activities, training, and professional growth development for the Clinical Data Science team.
+Lead sessions and meetings to drive analytics roadmap and long-term strategy to develop health learning system.
+Lead the clinical data science team and inspire innovative thinking in the analytics space and advise on current project work.
+Recruit, motivate and develop members of the data science team
+Develop best practices for scoping, building, validating and monitoring data science projects.
+Follows established City of Hope and department policies, procedures, objectives, performance improvement, attendance, safety, environmental, and infection control guidelines, including adherence to the workplace Code of Conduct and Compliance Plan. Practices a high level of integrity and honesty in maintaining confidentiality.
+Performs other related duties as assigned or requested.
+Qualifications
+Basic education, experience and skills required for consideration:
+Masters in computer science, engineering, statistics, mathematics, physics or related field
+8+ years of experience with data analytics within industry, developing and successfully implementing statistical and machine learning models for data mining, classification, prediction and decision support.
+3+ years of experience with decision trees
+Strong leadership skills with 2+ years of experience leading a technical team
+2+ years of industry experience
+Preferred Education:
+PhD
+Skills/Abilities:
+Experience with project management tools (Jira preferred)
+Experience with relational databases and SQL programming
+Must be knowledgeable in at least one of the statistical and analytic languages such as Python (e.g. pandas, scikit-learn, genism, seaborn), R (e.g. caret, dplyr, ggplot2), Matlab
+Proficiency in at least one programming language (e.g. Python, Java, C)
+Ability to work independently and use creative approaches to problem- solving.
+Capable of turning questions into testable hypotheses, extracting data from complex databases, creating and evaluating statistical models
+Experience in data visualization and ability to communicate results to a non-technical audience
+Ability to maintain a professional attitude and demeanor during normal and pressure situations.
+Demonstration of effective oral/written communication and presentation skills.
+Able to prioritize, organize, assess and reallocate work in order to meet deadlines.
+Familiarity with a health care environment and EHR data
+Time series analysis
+Natural Language Processing (NLP)
+Gradient boosted tree libraries such as XGBoost and LightGBM
+Deep neural networks
+Cloud services platforms like Amazon AWS and Microsoft Azure
+Awareness of the recent trends and developments in the Data Science / Machine Learning fields
+City of Hope is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, religion, color, national origin, sex, sexual orientation, gender identity, age, status as a protected veteran, or status as a qualified individual with disability.
+
+#LI-DQ

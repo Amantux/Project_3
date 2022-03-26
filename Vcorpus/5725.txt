@@ -1,0 +1,97 @@
+Sparkfund is an energy technology subscription company based in Washington, D.C. We give customers access to essential building energy functions and outcomes — like cold air, light and resilience to storm events — without the constraints of ownership, enabling them to do more energy projects, faster, and with fewer resources. We strive to create positive change by deploying solutions that are good for business and good for the planet. And we’re building a diverse and collaborative culture to help us achieve all of that.
+
+Sparkfund is hiring a Data Scientist/Lead Data Scientist who will be using a combination of statistics, programming and domain knowledge to solve problems, ranging from customized solutions for specific customers to creating the methodological backbone for our general purpose products and services. This position will be expecting strong technical data science skills as well as a person with the ability to support creative thinking, innovation and have the ability to deliver value to our customers (both internal and external). The role will be working with various functional teams across the organization and will require someone who is comfortable working in a fast paced, production-oriented environment.
+
+What You Will Be Doing
+
+Analyze data, as well as contribute to the design, implementation and delivery of analytics products and services
+
+Build predictive modeling, tooling and data visualizations
+
+Oversee and/or lead data science projects for customers (both internal and external)
+
+Strive to support team excellence by documenting processes and evangelizing new approaches
+
+Enable internal and external customers to solve complex data problems including but not limited to problem framing, data preparation, model building, model deployment, model management and output consumption
+
+Provide data science knowledge and expertise as a trusted advisor to the client
+
+Follow coding standards, proper design standards and best practices
+
+Generate results working closely with stakeholders from various functional groups within the organization
+
+Key Requirements
+
+Masters degree in Data Science or related quantitative field, advanced degree preferred
+
+At least 5 years of working in a quantitative production environmentAdvanced understanding of a statistical programming language such as R, Python or Julia
+
+Experience building predictive models using regression and machine learning techniques
+
+Ability to manipulate data with SQL and/or similar database solutions
+
+Proven experience creating analytics output within a production-oriented team
+
+Ability to effectively communicate technical concepts to non-technical audience
+
+Knowledge of experimental design and causal inference
+
+Ability to create user interfaces for new products using frameworks such as Shiny or Django
+
+Experience creating informative and engaging data visualizations using industry leading tools.
+
+Experience with Git and continuous integration and delivery platforms (e.g. CircleCI) a plus
+
+Experience with Agile methodology for building and shipping products/solutions a plus
+
+Driven and self-motivated to learn new technologies
+
+Proven strong analytical design and troubleshooting skills
+
+Highly accountable for meeting all commitments and deadlines
+
+Effective communication (written and verbal) for technical and non-technical audiences
+
+Ability to work independently and collaboratively as needed
+
+Strong communication and presentation skills
+
+Creative approach to solving problems, including the patience and ability to make logical and well-reasoned recommendationsFluency with a variety of technical tools for manipulation of datasets
+
+A dedication to what we’re building at Sparkfund, which is to make a positive impact through increasing access to efficient energy infrastructure across the economy
+
+We’d love it if you have
+
+An understanding of common machine learning algorithms and/or advanced inferential statistical techniques
+
+Standard Python data science tools (e.g. Pandas, scikit-learn, R etc.)
+
+Common flavors of SQL or SQL-like languagesExperience with deep learning frameworks a plus
+
+Analysis of natural language data a huge plusAnalysis of especially observational human or machine behavioral data (e.g. survey data, sensor data, equipment data) a plus
+
+Experience with technologies such as Kafka, Docker, Mesos, Marathon, Kubernetes, Go a plus
+
+Advanced data modeling skills a plusExperience with energy technology, energy infrastructure, or utility projects
+
+Benefits
+
+Competitive compensation and stock option plans - we believe in radical shared ownership.
+
+Comprehensive benefits package including medical, vision, and dental insurance; pre-tax commuter benefits; disability and life insurance; and a 401(k) plan with a Sparkfund match
+
+10 paid holidays + a flexible vacation philosophy that encourages ~4 weeks of additional time off.
+
+Gender-neutral paid leave for caregivers when they have a new addition to their families.
+
+A company laptop and any other hardware you need.
+
+A communal kitchen stocked with snacks and catered lunches every Friday.
+
+We Want You To Know
+
+You can be a great candidate even if you don't fit everything we've described above. You can also have important skills we haven't thought of. If that's you, don't hesitate to apply and tell us about yourself.
+
+We are dedicated to environmental stewardship, and recognize we need diverse perspectives to successfully tackle this massive challenge. To change the world, we must first change ourselves, which is why Sparkfund has created a space that sources viewpoints from people who look and think differently.
+
+We are committed to diversity and building an equitable and inclusive environment for people of all backgrounds and experiences, and we're taking steps to meet that commitment. We specially encourage members of traditionally underrepresented communities to apply, including women, people of color, LGBTQ+ people, veterans, and people with disabilities.

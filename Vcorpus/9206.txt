@@ -1,0 +1,35 @@
+The mission of the Instagram Machine Learning (IGML) team is to power smarter products for Instagram through the use of machine learning. As a Data Scientist in IGML, you will work cross-functionally with teams across Instagram to power and improve all of their machine learning models, by focusing on ranking, retrieval, and even resource efficiency. You’ll also be working and with some of the world leading experts in Machine learning!
+
+RESPONSIBILITIES
+
+Design and implement data-driven systems to increase the value of modeling, labeling, ranking and efficiency for all product teams in Instagram that leverage machine learning.
+
+Develop a framework to standardize feature adoption and feature deprecation across all engineering teams in Instagram.
+
+Create forecasts and models for supply and demand to support our quarterly and annual capacity planning needs.
+
+Understand how feature values change over time, either due to user behavior or data quality issues, and how that impacts all IGML models.
+
+MINIMUM QUALIFICATIONS
+
+MS or PhD Degree in Machine Learning.
+
+5+ years of experience working in an analytics organization.
+
+Experience working independently and as a member of a cross-functional team.
+
+Experience in querying and manipulating raw datasets for analysis.
+
+SQL experience.
+
+Experience with visualizations, dashboards, and reports.
+
+Experience with advanced data modeling, machine learning algorithms, and data science techniques, including the majority of the following topics: decision trees, cross validation, model evaluation, forecasting, classification, clustering, linear regression and GLM, and other similar topics.
+
+Communications experience and experience explaining technical concepts and analysis implications to varied audiences and be able to translate business objectives into actionable analyses.
+
+PREFERRED QUALIFICATIONS
+
+Experience with Hive, ETL, R, and Python preferred.
+
+Facebook is committed to providing reasonable accommodations for qualified individuals with disabilities and disabled veterans in our job application procedures. If you need assistance or an accommodation due to a disability, you may contact us at accommodations-ext@fb.com.

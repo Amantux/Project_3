@@ -1,0 +1,59 @@
+Job Description
+
+About Data Science in Authorship
+
+Data Scientists are responsible for converting raw data into actionable insights for our students and teachers as well as internal decision makers and stakeholders. This role will report into the Machine Intelligence team, and is expected to own data science for Turnitin’s new Authorship product. The Authorship product extends Turnitin’s industry leading Academic Integrity suite by providing tools to help identify and prevent the rapidly growing problem of contract cheating in student and academic writing. We do this by leveraging the latest advances in Data Science to bring forward predictions and insights on the writing style and consistency of every student, enabling educators and Academic Integrity Officers to make better decisions about the origin of a piece of writing with more context and clarity.
+
+Role and Responsibilities
+
+We are looking for an innovative data scientist with strong data and statistical skills to own the Data Science work in the Authorship product. This role will be a vital member of the Turnitin Machine Intelligence team. Your focus will be on leveraging Turnitin’s 1B+ student papers as well as our proprietary labeled datasets to understand how to detect instances of contract cheating. Being able to generate clean data from large, raw, and disparate tables is important, as well as being able to communicate your findings to teammates, colleagues and senior leadership with diverse backgrounds and skillsets. Must be able to function with high autonomy and feel comfortable owning the direction of data science within the project and helping to steer the project direction.
+
+Day-to-day, your responsibilities are to:
+
+Work closely with domain experts, project engineers and product owners and own the setting of Authorship data exploration directions.
+
+Find, extract, and clean the necessary data from Turnitin’s vast data stores to answer those questions by writing efficient and robust SQL queries.
+
+Develop innovative and rigorous statistical aggregation and modeling techniques to make predictions and bring forward insights from the data.
+
+Create production ready data and modeling pipelines in the Turnitin AWS stack that will power key data features surfaced by the Authorship product.
+
+Regularly communicate project direction, status, needs and key findings to stakeholders across the company, from teammates and colleagues to senior and executive leadership.
+
+Stay up to date with the latest advances in applied data science by reading papers, industry blogs, and attending conferences.
+
+Function as a Data Science thought leader within Turnitin, helping to champion good data practices and expand the vision of data science across the company.
+
+Mentor more junior data scientists as the team grows.
+
+Qualifications
+
+Qualifications
+
+Required Qualifications
+
+Experience with the above responsibilities.
+
+Experience in extracting insights and predictions from large, raw data stores.
+
+Fluency in SQL, Python + Jupyter notebooks or R + RStudio, unix systems, git, github.
+
+Strong applied knowledge of Statistics and predictive algorithms and fluency with general machine learning domains including classification, regression and unsupervised clustering.
+
+Essential software engineering fundamentals (we use Python, Unix-based systems, git, and github for collaboration and review).
+
+Strong data science and data exploration skills in local and cloud based workflows.
+
+Master’s in Computer Science, Statistics, Applied Mathematics, or related field; or 3+ years of relevant industry experience.
+
+Desired Qualifications
+
+Interest in Education Technology and Academic Integrity.
+
+Fluency in more advanced Machine Learning techniques such as deep learning, and recommender systems.
+
+Prior experience in natural language processing or computational linguistics.
+
+Additional Information
+
+Turnitin, LLC is committed to the policy that all persons have equal access to its programs, facilities and employment without regard to race, color, ancestry, national origin, age, gender, sexual orientation, gender identity, age, religion, creed, disability, medical condition, genetic information, marital or veterans status.

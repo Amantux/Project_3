@@ -1,0 +1,45 @@
+Description:
+
+Ribometrix is a platform therapeutics company discovering small molecule drugs that target functional 3D RNA structures to treat human diseases. Our main operations are located in the heart of Research Triangle Park in Durham, North Carolina.
+
+We are seeking a highly motivated Data Scientist. This person will be responsible for developing analytical models and providing data driven insights.
+
+Responsibilities include but are not limited to:
+
+Analysis and management of data derived from pharmaceutical discovery assays
+
+Evaluation of complex data sets and interpretation of results within the context of biological processes
+
+Programming or integration of systems to support pharmaceutical drug discovery.
+
+Requirements:
+
+BS degree and a minimum of 2+ years relevant industry experience required
+
+Extensive experience with Python and R is required
+
+Experience with analytics software packages such as Spotfire or JMP and data visualization via Jupyter, D3, Plotly, or other tools is required
+
+Experience analyzing complex data sets and deriving and communicating conclusions and next steps is required
+
+Experience in algorithm design, development, and application is required
+
+Relevant experience in drug discovery is required
+
+Familiarity with relational databases and SQL is required
+
+Familiarity with version control concepts and best practices, including Git is required
+
+Working knowledge of statistics and experience in the application of statistics to solve diverse problems is required
+
+Ability to work in a fast-paced environment and to support defined timelines is required
+
+Ability to work effectively both independently and in cross-functional teams is required
+
+Excellent interpersonal skills, strong initiative, excellent organization and attention to detail, proactive communication skills, and strong written and verbal communication and presentation skills are required
+
+Experience with commercial cloud computing platforms (AWS, Azure, etc.) a plus
+
+Experience in the integration and configuration of commercial LIMS software a plus
+
+Working knowledge of biology and biological processes a plus

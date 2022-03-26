@@ -1,0 +1,29 @@
+About Atos
+
+Atos is a global leader in digital transformation with over 110,000 employees in 73 countries and annual revenue of over € 11 billion. European number one in Cloud, Cybersecurity and High-Performance Computing, the Group provides end-to-end Orchestrated Hybrid Cloud, Big Data, Business Applications and Digital Workplace solutions. The group is the Worldwide Information Technology Partner for the Olympic & Paralympic Games and operates under the brands Atos, Atos Syntel, and Unify. Atos is a SE (Societas Europaea), listed on the CAC40 Paris stock index.
+
+The purpose of Atos is to help design the future of the information technology space. Its expertise and services support the development of knowledge, education as well as multicultural and pluralistic approaches to research that contribute to scientific and technological excellence. Across the world, the group enables its customers, employees and collaborators, and members of societies at large to live, work and develop sustainably and confidently in the information technology space.
+
+Document analysis using Optical Character Recognition and Machine Learning
+
+Activities entrusted to intern:
+
+Design and implement a solution to automatically analyze documents to extract key information. The solution will be able to:
+
+o Detect the different element in a document (text, table, pictures, logo,…)
+
+o Extract the text using OCR
+
+o Apply NERC (Named Entity Recognition & Classification) on the text to extract business insight (Date, client name, product name, etc.)
+
+As the solution should be able to process a very large volume of documents (~50,000/day), the solution will be developed on a DataLake using distributed storage and processing.
+
+The solution should be able to extract the company that produced the receipt (name of the restaurant, hotel,…), the category (flight, hotel, food,…) and the total price that has been paid.
+
+Your Application
+
+If you wish to apply for this position, please click below to complete our online application form and attach your CV in either Word, rtf or text format.
+
+Atos does not discriminate on the basis of race, religion, colour, sex, age, disability or sexual orientation. All recruitment decisions are based solely on qualifications, skills, knowledge and experience and relevant business requirements.
+
+We are committed to making reasonable adjustments to the applications process for people with disabilities.

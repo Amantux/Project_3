@@ -1,0 +1,119 @@
+Read what people are saying about working here. 
+
+Overview
+
+Nashville, Tenn.-based Bridgestone Americas, Inc. is the U.S. subsidiary of Bridgestone Corporation, the world’s largest tire and rubber company. Bridgestone Americas and its subsidiaries develop, manufacture and market a wide range of Bridgestone, Firestone and associate brand tires to address the needs of a broad range of customers, including consumers, automotive and commercial vehicle original equipment manufacturers, and those in the agricultural, forestry and mining industries.
+
+The companies are also engaged in retreading operations throughout the Western Hemisphere and produce air springs, roofing materials, and industrial fibers and textiles. The Bridgestone Americas family of companies also operates the world’s largest chain of automotive tire and service centers.
+
+Guided by its global corporate social responsibility (CSR), commitment Our Way to Serve, Bridgestone embraces its responsibility as a global leader by striving to improve the way people move, live, work and play.
+
+Position Summary
+
+The Transportation industry is evolving rapidly and the Commercial Fleet Solutions Group will lead Bridgestone’s efforts to design, market and commercialize digital solutions to meet emerging needs for the world's largest tire and rubber company.
+
+The Lead Data Scientist's primary focus will be to plan and prioritize the ‘intelligence’ roadmap and execute work for FMS digital products. The role will manage the day to day activities of the data science team and supporting vendors to meet goals and deadlines. In addition, they will help identify and test new technologies for inclusion in minimally viable products. The role will require active participation in field trials and small and large scale launches of the digital solutions, which will include interactions with external end users and their management. The Lead Data Scientist will also collaborate with several internal teams globally to coordinate with data science ongoing in R&D tire design teams, IoT teams, enterprise analytics teams, and digital ‘garages’, in North America, Europe and Asia.
+
+The Lead Data Scientist must be familiar with current data science approaches to build robust algorithms and models in a fast-paced, startup-like environment, continuously seeking new ways of transforming the business through available data and helping Bridgestone forge new capability in intelligent digital solutions.
+
+Responsibilities
+
+Builds new predictive/descriptive models and evaluates current effectiveness of existing models.
+
+Designs experiments/campaigns and analyzes the resulting data.
+
+Performs post-hoc (correlation) analysis when experimental designs. (causational analyses) are not feasible and explains the limitations of the results.
+
+Advises analytical data programmers on quality and infrastructure needs and challenges.
+
+Translates analytical results and makes recommendations for improvements in the areas of application.
+
+Identifies data quality issues and drives them to resolution.
+
+Identifies and independently resolves data issues.
+
+Creates advanced transformations and applies advanced techniques for dealing with small sample sizes independently.
+
+Assist Commercial Emerging Technologies (CET) Directors, vendors, and third parties in the identification and quantification of applications for analytics and development of project charters and plans as appropriate
+
+Mentor and train less experienced Analysts.
+
+Helps set goals, identifies training opportunities, and manages day to day activities of the Data Science team,
+
+Creates the roadmap for the analytics stack and sets priority for development
+
+Qualifications
+
+Required:
+
+MS degree in Analytics, Statistics, or Mathematics field and 8+ years of Data Science/Analytics experience or PhD degree and 5+ years of Data Science / Analytics experience
+
+Advanced knowledge of the various Analytics applications on the market for business units/focus areas.
+
+Experience with Azure and Amazon cloud environments
+
+Demonstrated ability to apply techniques as appropriate for extremely large data sets with 1,000+ variables (columns)
+
+Experience developing, training, mentoring, data scientists
+
+Experience designing, applying, and improving algorithms/models on streaming data
+
+Experience designing robust algorithms capable of adapting to missing, sparse, or poor data, that may also include differing frequencies of collection at different times.
+
+Able to analyze business data using 5 or more of the Statistical/Mathematical Specialties and expertise in 3 or more of the Statistical/Mathematical Specialties below:
+
+Sample Selection / Stratification
+
+Experimental Design
+
+Categorical Data Analysis
+
+Linear Regression
+
+Non-Parametric Analysis
+
+Multivariate Analysis
+
+Survey Design and Analysis
+
+Survival Analysis
+
+Time Series Analysis
+
+Forecasting
+
+Optimization
+
+Simulation Models
+
+Decision Trees
+
+Heuristic Models
+
+Algorithmic Models
+
+Complex Event Design
+
+Demonstrated experience with Business Rules Engines, such as DROOLS or KAFKA, for building events, predictions, and prescriptions for end users
+
+Experience with these current generation digital tools: Python, Databrix, R, Java, MS BI Tools, and Tableau
+
+Preferred:
+
+Familiar with Agile development methods
+
+Expertise acquired through prior experience in applying statistical/mathematical techniques in several business units/focus areas (Operations, Supply Chain, Real-Estate, Pricing, Marketing, etc).
+
+Capable of communicating the technical needs of medium scale, high-value, technically complex projects to laypersons or senior level management.
+
+Advanced degree in Data Science, with Bachelor's Degree in Mathematics or Statistics
+
+Experience with deploying Artificial Intelligence in an end-user application
+
+Experience with structured and unstructured databases, and familiarity with different data models
+
+Experience in user interface / user experience (UIX) design principals
+
+Familiar with api design and query/ingestion
+
+ The Bridgestone Americas family of enterprises includes more than 50 production facilities and 55,000 employees throughout the Americas. ...

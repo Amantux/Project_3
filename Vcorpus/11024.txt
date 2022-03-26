@@ -1,0 +1,44 @@
+JOB DESCRIPTION: 
+Pre-requisites: 
+DNA Sequencing (Single End and Paired Reads) 
+RNA Sequencing (Single End and Paired Reads) 
+Python, Anaconda Programming, Jupyter notebooks 
+Perl Scripting 
+Linux OS (CentOS, Ubuntu and other variations), Bash Scripting 
+Azure, PowerShell (base knowledge) - Data Science Virtual Machine (DSVM) 
+Predicative analysis ability - Fast, FastStructure 
+Advanced data analytics services (e. g. R, Machine Learning, and Batch) 
+. Net (but not must) 
+Biotech software(s) 
+  HiSat, HISAT2 (https://ccb. jhu. edu/software/hisat2/index. shtml ), 
+  Samtools (http://www. htslib. org/ ) - Hisat commands for indexing reference genome 
+  MATLAB 
+  OpenFOAM 
+  snpEff 
+Type of work: 
+  Indexing, sequencing, trimming and Transcriptome Mapping etc 
+  Compile and debug complex algorithms 
+  Modelling and simulation using the tools (meshing etc) 
+  Predicative analysis on very large workloads Genomics (e. g. Fast Structure (. fastq) extension files)   Plants/seeds based genetic/genomes etc 
+  Run analysis for plants/seeds based genomic research, which involves very complex computations, huge data sets, and various algorithms 
+  The genetics/genomes (NT3. 1) using complex Algorithms using BioTech softwares. 
+  Faststructure-(which is used for inferring population structure from large genotype data) as well algorithms that sit on to of the popular R application (which is used for statistical computing and graphics).  
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Richmond, VA 23214 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         2365_68a6a0bae217693d33ffdaba3dcb9b04

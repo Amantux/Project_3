@@ -1,0 +1,25 @@
+Job Description
+Our client a bay area based Data Science and BigData service provider is looking for a Lead Data Scientist/ Applied Statestician. This is a permanent postion based in Bay Area with a requirement to travel 25% in US.
+
+Responsibilities:
+Work on small and large data sets of structured, semi-structured, and unstructured data to discover hidden knowledge about the client’s business and develop methods to leverage that knowledge for their business.
+Identify and solve business challenges working closely with cross-functional teams, such as Delivery, Business Consulting, Engineering and Product Management.
+Develop prescriptive and predictive statistical, behavioral or other models via machine learning and/or traditional statistical modeling techniques, and understand which type of model applies best in a given business situation.
+Drive the collection of new data and the refinement of existing data sources.
+Analyze and interpret the results of product experiments.
+Collaborate with the engineering and product teams to develop and support our internal data platform to support ongoing statistical analyses.
+Competencies:
+A proven passion for generating insights from data.
+Comfort manipulating and analyzing complex, high-volume, high-dimensionality data from varying sources.
+Expertise in mathematics and applied statistics, computer science, and visualization capabilities.
+Curious and an excellent learner. Able to research, explore and acquire working knowledge in new areas.
+A complete understanding of standard statistical techniques like MLE/QMLE, GMM, OLS/GLS, univariate and multivariate time series models (e.g. ARIMA, DLM's, VAR's), regression model diagnostics for time series and cross sectional data, along with Machine Learning methodologies like Random Forests, SVM's and Boosting/Bagging. The ideal candidate would know when and how to apply these alternative methodologies, and the relative advantages/disadvantages of each for a particular business case.
+Expert knowledge of an analysis tool/statistical package such as R, JMP, Stata, SPSS, SAS, Matlab
+Highly effective communicator; able to communicate complex quantitative analysis in a clear, precise & actionable way that is meaningful to general business audience and credible to client’s data scientists.
+Fluency with at least one scripting language such as Python, Java, or C/C++.
+Expertise with relational databases and SQL. NoSQL is a big plus.
+REQUIREMENTS:
+MS or Ph.D. preferred in a quantitative Social Science (e.g. Economics) or Statistics with a substantive field interest.
+At least 5 years’ experience in business, consulting or applied field research with project lead responsibilities for solving analytics problems using quantitative approaches.
+Demonstrated track record producing models and actionable insights using advanced statistical methods.
+Experience working with large data sets using distributed computing tools, e.g. Map/Reduce, Hadoop, Hive, etc.

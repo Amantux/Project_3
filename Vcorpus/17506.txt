@@ -1,0 +1,41 @@
+We are looking for an experienced software engineer to join our Financial Engineering organisation. Our mission is to build the technical platform that underpins our key company decisions, revenue and royalty calculations, financial performance management and our ability to scale out to new markets and products. As a software engineer for our data products, you will join a team of experienced software engineers and data scientists. Some of the challenges we tackle are:
+Design and implement complex logic for calculating royalties from many products and hundreds of tailor-made license contracts
+Design large scale data pipelines (billions and billions of data points) that can retrospectively correct metrics over a long period of time without reprocessing huge amounts of data
+Design, implement and operate our company core datasets that have extreme requirements on scalability, flexibility, and quality
+Evolve and scale our fraud platform by developing rules and machine learning models that detect and continuously adapt to ever-shifting behaviors, swiftly mitigating their effects on the company.
+Continuously consume and produce massive amounts of data while optimising for speed, accuracy, and quality
+Innovate our data products to create a single coherent platform with sources of truth that serve a plethora of stakeholders from Spotify feature teams to our ad sales organisation
+Above all, working as a software engineer in Financial Engineering will challenge your design, quality and problem-solving skills to build robust, highly distributed and scalable data processing systems and pipelines.
+
+What you'll do
+Apply your expertise in software engineering to design and implement data products that meet extreme requirements on quality and scalability
+Work closely with cross-functional teams of data and backend engineers, scientists, user researchers, product managers and designers
+Research and Innovate what fuels many of Spotify’s critical financial systems and product features such as Daily Mixes and Royalty calculations
+Gaining technical expertise in building a data platform at scale to solve business, product and technical use cases
+Getting hands-on experience with Google Cloud Platform and technology/languages such as BigQuery, Scala, Scio and Docker
+Working hand-in-hand with the data science community to understand various user or content trends that influence product changes and customer acquisition strategies
+Cross departmental exposure and flexibility to engage with many teams in the company - both in Stockholm and New York
+Communicate insights and recommendations to key stakeholders, engineering and product partners
+Who you are
+Master's degree in Computer Science or Electrical Engineering
+6+ years of professional software engineering and programming experience (Java, C++, Scala)
+3+ years of architecture and design (patterns, reliability, scalability, quality) of complex systems
+Advanced coding skills and practices (concurrency, distributed systems, functional principles, performance optimization)
+Professional experience working in an agile environment
+Strong analytical and problem solving ability
+Strong written and verbal communication skills
+Experience in operating and maintaining production grade software
+Comfortable with tackling very loosely defined problems and thrive when working on a team which has autonomy in their day to day decisions
+Preferred Skills
+Deep knowledge of software engineering best practices
+Experience in mentoring and leading junior engineers
+Experience in serving as the technical lead for complex software development projects
+Experience with large scale distributed data technologies and tools
+Strong coding skills for analytics and data engineering (Scala, Java and Python)
+Experience performing analysis with large datasets in a cloud based-environment, preferably with an understanding of Google’s Cloud Platform
+T-Shaped. Your primary area is data engineering but you are comfortable working in a second area such as data presentation, backend engineering or front-end development
+Experience working in a large scale, global consumer product company, in an engineering or insights role
+Understands how to translate business requirements to technical architectures and designs
+Comfortable communicating with stakeholders (customers, product managers, C-level management)
+You are welcome at Spotify for who you are, no matter where you come from, what you look like, or what’s playing in your headphones. Our platform is for everyone, and so is our workplace. The more voices we have represented and amplified in our business, the more we will all thrive, contribute, and be brilliant. So bring us your personal experience, your perspectives, and your background. It's in our differences that we will find the power to keep revolutionizing the way the world listens.
+Spotify transformed music listening forever when we launched in 2008. Our mission is to unlock the potential of human creativity by giving a million creative artists the opportunity to live off their art and billions of fans the opportunity to enjoy and be inspired by these creators. Everything we do is driven by our love for music and podcasting. Today, we are the world’s most popular audio streaming subscription service with a community of more than 271 million users.

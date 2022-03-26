@@ -1,0 +1,113 @@
+U.Group is hiring a Data Scientist to join our Data Science team. Read on to learn more about us, our take on Data Science, the gig, and how to apply!
+
+About U.Group
+
+U.Group is an Advanced Technology and Creative Design company launched in 2019 after combining the data and domain expertise of ByteCubed with the world-class creative of CHIEF. Together under a new brand and market position, U.Group’s team of 280+ changemakers are using data science, engineering, and ingenuity to develop deep understanding of our clients most pressing challenges, and powerful solutions for confronting them. Working collaboratively out of offices in Arlington, VA, Washington, DC, Portland, OR, and in the heart of the action at client sites—U.Group is committed to using customer-centric innovation to create new opportunity in the public and private sectors. To learn more, visit www.U.group
+
+About this job
+
+People use the words “data science” to mean a lot of different things. At U.Group, the data science team mostly does data wrangling, natural language processing, and machine learning. We work with a lot of different kinds of data: unstructured text from the wild web, relational datasets from commercial providers, semi-structured data from public APIs. On a practical level, whether we’re working with social media data or corporate entity data, we’re generally looking for ways to make it easier for client-side folks to do what they already do - look up data, draw connections, anticipate shifts and changes, make hard business decisions - but make it faster, easier, smarter, and more scalable. We leverage libraries from Python and R, tools like Spark and Hadoop, and a range of different SQL and noSQL databases to do that, though we’re fairly open-minded in terms of stack (well, we do have a strong preference for open source).
+
+Who we’re looking for
+
+First off, you’re a U.S. Citizen and able to work in the U.S.; This is non-negotiable due to the contracts we work on. It would be best if you reside in the DC/MD/VA commuting area, but we can make a remote arrangement work if necessary.
+
+You have extensive experience working with data, and you’re comfortable with structured and unstructured data (HTML, XML, JSON, CSV).
+
+You don’t have a dog in the SQL/noSQL fight - you believe in picking the best tool for the job, and you’ve used enough of both to have good instincts about what will work best to solve the problem at hand.
+
+You’ve been doing object-oriented programming for a while (4+ years), and you know Python/R well enough to hit the ground running on Day One.
+
+You have a grasp of machine learning and you’re game to help us find smart ways to implement/integrate data science features (e.g. machine learning models) within a Java- and Angular-based software application.
+
+You have experience with agile software development, know about sprints, scrum, and all that stuff, and you aren’t squeamish about code reviews or rubber ducking.
+
+You understand why version control is important to data science and are willing to using git branching conventions in a routine, methodical, communicative, and participatory way.
+
+Things that are nice to have:
+
+A PhD or some other advanced degree. If you have one, that’s cool (some of us do, too).
+
+Other fancy credentials, certificates, badges, HackerRank or Kaggle scores, etc.
+
+Your ability to implement a binary search tree or fizzbuzz on a whiteboard while an interviewer stands behind you.
+
+Being “full stack” - yes, experience with a range of tools is nice, but we’re more interested in depth than breadth.
+
+A GitHub profile commit calendar that’s lit up like a Christmas tree. We would like to hear about the projects you’ve worked on in the past, but we understand if they aren’t open source. (Also, if you come work with us, you will have an opportunity to work on open source projects.)
+
+Working at the office 5 days a week, within an arbitrarily fixed time range every day.
+
+Your current or past job titles.
+
+How to apply and what to expect
+
+Please send an email with a paragraph or two about yourself and why you’re interested in this job, along with a link to a publicly-viewable LinkedIn profile or resume. Please use thoughtful, conversational English and proof-read your message. Additionally, please briefly describe one or two projects or products you’ve worked on recently for work, fun, or any other reason. Include the capacity you worked on the project and challenges you faced. (Links to code or live versions are great, but we understand if that’s not possible.)
+
+If we choose to move forward we’ll invite you to a 30-60 minute phone screen so you can learn more about U.Group and this role and we can learn more about you. About half of this call will be dedicated to your questions for us, so you can begin to evaluate if this job might be a good fit for you and if you want to invest more time in this process.”
+
+If that goes well, we’ll give you an at-home coding exercise that involves reading and refactoring some code.
+
+A half-day of in-person interviews. These will build on the code base from the last step. We’ll do a collaborative code review, brainstorm next steps, and do some pair programming together. You will also have an opportunity to meet a range of folks from our company, and will have ample time to ask us all questions.
+
+After each stage we’ll let you know whether or not we’d like to continue as quickly as possible. If you’re advancing to the next stage, we may also give you feedback about what we thought you did well and what you could improve on for the next round.
+
+U.Group is an Affirmative Action/Equal Opportunity Employer committed to providing equal employment opportunity without regard to an individual’s race, color, religion, age, gender, sexual orientation, veteran status, national origin or disability.
+
+ 
+
+U.Group is hiring a Data Scientist to join our Data Science team. Read on to learn more about us, our take on Data Science, the gig, and how to apply!
+
+About U.Group
+
+U.Group is an Advanced Technology and Creative Design company launched in 2019 after combining the data and domain expertise of ByteCubed with the world-class creative of CHIEF. Together under a new brand and market position, U.Group’s team of 280+ changemakers are using data science, engineering, and ingenuity to develop deep understanding of our clients most pressing challenges, and powerful solutions for confronting them. Working collaboratively out of offices in Arlington, VA, Washington, DC, Portland, OR, and in the heart of the action at client sites—U.Group is committed to using customer-centric innovation to create new opportunity in the public and private sectors. To learn more, visit www.U.group
+
+About this job
+
+People use the words “data science” to mean a lot of different things. At U.Group, the data science team mostly does data wrangling, natural language processing, and machine learning. We work with a lot of different kinds of data: unstructured text from the wild web, relational datasets from commercial providers, semi-structured data from public APIs. On a practical level, whether we’re working with social media data or corporate entity data, we’re generally looking for ways to make it easier for client-side folks to do what they already do - look up data, draw connections, anticipate shifts and changes, make hard business decisions - but make it faster, easier, smarter, and more scalable. We leverage libraries from Python and R, tools like Spark and Hadoop, and a range of different SQL and noSQL databases to do that, though we’re fairly open-minded in terms of stack (well, we do have a strong preference for open source).
+
+Who we’re looking for
+
+First off, you’re a U.S. Citizen and able to work in the U.S.; This is non-negotiable due to the contracts we work on. It would be best if you reside in the DC/MD/VA commuting area, but we can make a remote arrangement work if necessary.
+
+You have extensive experience working with data, and you’re comfortable with structured and unstructured data (HTML, XML, JSON, CSV).
+
+You don’t have a dog in the SQL/noSQL fight - you believe in picking the best tool for the job, and you’ve used enough of both to have good instincts about what will work best to solve the problem at hand.
+
+You’ve been doing object-oriented programming for a while (4+ years), and you know Python/R well enough to hit the ground running on Day One.
+
+You have a grasp of machine learning and you’re game to help us find smart ways to implement/integrate data science features (e.g. machine learning models) within a Java- and Angular-based software application.
+
+You have experience with agile software development, know about sprints, scrum, and all that stuff, and you aren’t squeamish about code reviews or rubber ducking.
+
+You understand why version control is important to data science and are willing to using git branching conventions in a routine, methodical, communicative, and participatory way.
+
+Things that are nice to have:
+
+A PhD or some other advanced degree. If you have one, that’s cool (some of us do, too).
+
+Other fancy credentials, certificates, badges, HackerRank or Kaggle scores, etc.
+
+Your ability to implement a binary search tree or fizzbuzz on a whiteboard while an interviewer stands behind you.
+
+Being “full stack” - yes, experience with a range of tools is nice, but we’re more interested in depth than breadth.
+
+A GitHub profile commit calendar that’s lit up like a Christmas tree. We would like to hear about the projects you’ve worked on in the past, but we understand if they aren’t open source. (Also, if you come work with us, you will have an opportunity to work on open source projects.)
+
+Working at the office 5 days a week, within an arbitrarily fixed time range every day.
+
+Your current or past job titles.
+
+How to apply and what to expect
+
+Please send an email with a paragraph or two about yourself and why you’re interested in this job, along with a link to a publicly-viewable LinkedIn profile or resume. Please use thoughtful, conversational English and proof-read your message. Additionally, please briefly describe one or two projects or products you’ve worked on recently for work, fun, or any other reason. Include the capacity you worked on the project and challenges you faced. (Links to code or live versions are great, but we understand if that’s not possible.)
+
+If we choose to move forward we’ll invite you to a 30-60 minute phone screen so you can learn more about U.Group and this role and we can learn more about you. About half of this call will be dedicated to your questions for us, so you can begin to evaluate if this job might be a good fit for you and if you want to invest more time in this process.”
+
+If that goes well, we’ll give you an at-home coding exercise that involves reading and refactoring some code.
+
+A half-day of in-person interviews. These will build on the code base from the last step. We’ll do a collaborative code review, brainstorm next steps, and do some pair programming together. You will also have an opportunity to meet a range of folks from our company, and will have ample time to ask us all questions.
+
+After each stage we’ll let you know whether or not we’d like to continue as quickly as possible. If you’re advancing to the next stage, we may also give you feedback about what we thought you did well and what you could improve on for the next round.
+
+U.Group is an Affirmative Action/Equal Opportunity Employer committed to providing equal employment opportunity without regard to an individual’s race, color, religion, age, gender, sexual orientation, veteran status, national origin or disability.

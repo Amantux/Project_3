@@ -1,0 +1,23 @@
+Are you excited about enabling a powerful ecosystem of capabilities and protection for Brand Owners? Are you thrilled to work on a new and high priority initiative? If so, we are looking for you. The Amazon Customer Trust and Partner support (CTPS) team's mission is to protect Amazon customers ( Buyers, Brand owners, and Sellers) from bad actors, abuse, and fraud. We realize that the future of Amazon is in winning brands. This includes the well-known, established brands as well as new and emerging brand owners. Our vision is to provide Brands with the most trusted experience for accurately representing and protecting their Brand Identity.
+
+The Brand Product Catalog team, part of CTPS's Brand Protection Org, solves a challenging problem of uniquely identifying a brand that a product belongs to using various heuristic and ML methods. Through our work, we unlock a number of brand protection features including infringement detection and counterfeit removals as well as features that enable brands to grow their brands on Amazon. As an SDE on the team, you will influence the technical direction of the team, working with many different technologies. You will design, code, troubleshoot, and support. You will work closely, hand in hand with product managers, and machine learning teams. We are constantly innovating, finding new ways of building massively scalable distributed systems. We set a high bar to build and deliver extremely secure, available, and scalable systems. We are passionate about our customers, those inside Amazon and those outside of it, and work on their behalf.
+
+You will be an integral part of an exceptionally talented team. You will have an opportunity to conceptualize, design, build, test, and own software systems. As an SDE at Amazon, you will help drive the technical direction within the team, working with many different technologies.
+
+
+Basic Qualifications
+
+· experience in software development
+· Bachelor's degree in Computer Science/related field or equivalent work experience
+· Proficiency with object-oriented design, data structures, and algorithms
+· Proficiency with object-oriented programming including Java, Python, C++, C#, or C
+· Strong debugging, troubleshooting, and problem solving skills
+· Ability to take a project from requirements analysis through to launch and operation of the system in production
+
+Preferred Qualifications
+
+· Successfully bring definition to ambiguous/undefined problems; ability to think abstractly.
+· Experience building extremely high volume and highly scalable microservices, data structures, and APIs.
+· Experience building highly available systems and operating 24x7 services.
+· Master's degree in Computer Science.
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate based on race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or any other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.

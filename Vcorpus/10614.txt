@@ -1,0 +1,73 @@
+Position Purpose:
+
+A bioinformatics/genomics data scientist is responsible for providing experimental design consulting and data analysis for large, high-throughput genomic experiments, with a focus on forensics and metagenomics. The data scientist will be responsible for designing and implementing annotated code for managing, manipulating, and analyzing large-scale genomic data, and for preparing thorough documentation and reporting.
+
+Essential Duties and Responsibilities:
+
+Develop tools for management, analysis and interpretation of next generation sequencing data
+
+Organizing and managing large-scale genomic data sets
+
+Managing, manipulating, analyzing data with R, python, and UNIX tools
+
+Using established open-source software and tools to assess quality and analyze data
+
+Implement and execute data processing workflows and automated analytic pipelines
+
+Create standardized summary tables and figures
+
+Manage large dataset collections including analytical results and data quality
+
+Develop annotated computer code and conduct code reviews and programming validation
+
+Conduct workflow benchmarking
+
+Identify inconsistencies and initiate resolution of data problems
+
+Prepare SOPs, document source code/workflows, and write reports to summarize computational
+
+requirements, processing status, and customized analysis results as needed.
+
+Required Knowledge, Skills & Abilities:
+
+Strong knowledge of working in a Unix/Linux environment
+
+Advanced proficiency with R/Bioconductor, RMarkdown, and the "tidyverse" tools for data analysis.
+
+Proficiency with Python, Perl, or another scripting language.
+
+Experience with open-source software, tools, and databases for analyzing next-generation sequencing data (RNA-seq, ChIP-seq, DNA variation, epigenetics, microbiome, and metagenomics).
+
+Familiarity with developing and querying relational databases (MySQL or similar)
+
+Familiarity with AWS cloud computing is desired
+
+Experience with NextFlow, SnakeMake, or similar workflow/pipeline management systems is desired
+
+Experience using Version Control software (e.g., Git or similar) to manage programming code
+
+Experience using workflows and sprints throughout the development process
+
+Ability to manage multiple tasks
+
+Education/Experience:
+
+MS or PhD in Bioinformatics, Genomics, Data Science, or related field
+
+Experience (5+ years with MS/3+ years with PhD) managing and analyzing large-scale datasets produced sequencing platforms and deliver solutions for managing, visualizing, analyzing, and interpreting genomic data
+
+Using Linux/Unix text processing tools, R, and other open-source tooling to manipulate and format data, to assess data quality, and analyze data.
+
+Clearance:
+
+This position requires that the candidate be willing and able to complete a successful background screening for a security clearance. Candidates with a current security clearance will receive preference.
+
+Supervisory Responsibilities:
+
+May serve as a task/project lead.
+
+Working Conditions/ Equipment:
+
+Ability to work in varying conditions to include: traditional office environments with sedentary extended periods required for code development and testing;
+
+The above job description is not intended to be an all-inclusive list of duties and standards of the position. Incumbents will follow any other instructions, and perform any other related duties, as assigned by their supervisor.

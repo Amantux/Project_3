@@ -1,0 +1,75 @@
+Who is Trace3?
+
+Trace3 is a leading Transformative IT Authority, providing unique technology solutions and consulting services to our clients. Equipped with elite engineering and dynamic innovation, we empower IT executives and their organizations to achieve competitive advantage through a process of Integrate, Automate, Innovate.
+
+Our culture at Trace3 embodies the spirit of a startup with the advantage of a scalable business. Employees can grow their career and have fun while doing it!
+
+Trace3 is headquartered in Irvine, California. We employ more than 850 people all over the United States. Our major field office locations include Atlanta, Denver, Detroit, Indianapolis, Grand Rapids, Lexington, Los Angeles, Louisville, San Diego, San Francisco, and Scottsdale.
+
+Ready to discover the possibilities that live in technology?
+
+Come Join Us!
+
+Street-Smart - Thriving in Dynamic Times
+
+We are flexible and resilient in a fast-changing environment. We continuously innovate and drive constructive change while keeping a focus on the "big picture." We exercise sound business judgment in making high-quality decisions in a timely and cost-effective manner. We are highly creative and can dig deep within ourselves to find positive solutions to different problems.
+
+Juice - The "Stuff" it takes to be a Needle Mover
+
+We get things done and drive results. We lead without a title, empowering others through a can-do attitude. We look forward to the goal, mentally mapping out every checkpoint on the pathway to success, and visualizing what the final destination looks and feels like.
+
+Teamwork - Humble, Hungry and Smart
+
+We are humble individuals who understand how our job impacts the company's mission. We treat others with respect, admit mistakes, give credit where it's due and demonstrate transparency. We "bring the weather" by exhibiting positive leadership and solution-focused thinking. We hug people in their trials, struggles, and failures – not just their success. We appreciate the individuality of the people around us.
+
+JOB SUMMARY:
+
+The Data Engineer (DE) provides technical expertise primarily in the Engage and Evolve phases of Trace3's services framework. In the "Engage" phase, the BDE primarily delivers building and integration. The DE also may assist in delivering development and customization services in the "Evolve" phase. The DE is a deeply technical role in their specific discipline area(s) of expertise (Data Scientist, Programmer, Hadoop Engineer, etc.)
+
+SUMMARY OF ESSENTIAL JOB FUNCTIONS:
+Minimum 6 months of designing, building and operationalizing large scale enterprise data solutions and applications using AZURE or AWS data and analytics services in combination with custom solutions - Spark, Azure Data Lake, HDInsights, SQL DW, DocumentDB, Search, Elastic Pool etc.
+Minimum 6 months of hands-on experience analyzing, rearchitecting and re-platforming on-premise data warehouses to data platforms on AZURE or AWS cloud using AZURE or AWS custom services.
+Minimum 6 months of designing and building production data pipelines from ingestion to consumption within a hybrid big data architecture, using Java, Python, Scala etc.
+Minimum 6 months Experience in performing detail assessments of current state data platforms and creating an appropriate transition path to AZURE or AWS cloud.
+Hands-on Cloud experience with examples of solutions designed and implemented at production scale.
+REQUIRED SKILLS AND EXPERIENCE:
+
+Bachelor's degree in Computer Science, Engineering, Technical Science or 3 years of technical architecture and build experience with large scale solutions.
+Minimum 6 months of experience in architecting large-scale data solutions, performing architectural assessments, crafting architectural options and analysis, finalizing preferred solution alternative working with IT and Business stakeholders.
+6 months of hands-on experience architecting, implementing operating large production Hadoop clusters on Cloud using Azure HDInsight or Amazon EMR.
+6 months of hands-on experience in implementing Kafka pipelines for streaming data ingestion into Azure or AWS cloud,
+6 months of hands-on experience designing and implementing data ingestion solutions using Azure Data Factory, AWS Glue or using custom approaches.
+6 months of hands-on experience designing and implementing data lakes on AZURE or AWS cloud serving analytics and BI application integrations.
+6 months of experience in designing and optimizing data models on AZURE or AWS cloud using data stores such as AWS Redshift, Amazon RDS, Amazon Aurora, Azure Cosmos DB, Azure SQL Data Warehouse and Azure SQL Databases/Managed Instances.
+Minimum 6 months of experience introducing and operationalizing self-service data preparation tools (e.g. Trifacta, Paxata) on AZURE.
+Minimum 6 months architecting and implementing metadata management on AZURE.
+Architecting and implementing data governance and security for data platforms on AZURE.
+Designing operations architecture and conducting performance engineering for large scale data lakes a production environment.
+Craft and lead client design workshops and provide tradeoffs and recommendations towards building a solutions.
+IMPORTANT ATTRIBUTES
+
+Entrepreneurial in a team setting
+Entrepreneurial: anticipates and identifies what needs to be done and takes action
+Team setting: communicative, aware of potential synergies and conflicts
+Energized by growing the business from the ground up
+Consultative problem solving
+Clearly understands clients' short- and long-term goals and obstacles and constraints even in ambiguous/vague settings
+Uses these to frame the problem
+Develops solutions that leverages repeatable components
+Demonstrates clarity and confidence to clients by articulating issues and solutions in clients' contexts
+Innovative
+Continuously seeks to develop ever-better way to frame the problem and to develop solutions than those that are generally accepted
+Willing and able to develop and test new hypotheses
+Aware of and challenges conventional approaches within the realistic parameters of time, capabilities, and budgets
+Results-oriented
+Self-identifies strategies, milestones, and plans, and focused on achieving them
+Resourceful and finds ways to circumvent obstacles or minimizes their impacts
+The Perks:
+Comprehensive medical, dental and vision plans for you and your dependents
+401(k) Retirement Plan with Employer Match, 529 College Savings Plan, Health Savings Account, Life Insurance, and Long-Term Disability
+Competitive Compensation
+Training and development programs
+Stocked kitchen with snacks and beverages
+Collaborative and cool office culture
+Work-life balance and generous paid time off
+***To all recruitment agencies: Trace3 does not accept unsolicited agency resumes/CVs. Please do not forward resumes/CVs to our careers email addresses, Trace3 employees or any other company location. Trace3 is not responsible for any fees related to unsolicited resumes/CVs.

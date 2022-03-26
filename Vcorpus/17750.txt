@@ -1,0 +1,52 @@
+Company Overview:
+Age of Learning is a leading education technology innovator based in Glendale, California, with a talented team of 500+ individuals comprised of nationally-renowned educators, curriculum experts, designers, animators, engineers, and more. We develop engaging, effective digital learning technology and content to help children build a strong academic foundation for lifelong success.
+Our flagship product ABCmouse.com Early Learning Academy® is a comprehensive online curriculum and the #1 digital learning product for young children. To-date, more than 30 million children worldwide have completed over 6 billion Learning Activities on ABCmouse. We recently launched Adventure Academy, the first massively multiplayer online (MMO) game designed specifically to help elementary- and middle-school-aged children learn. It features thousands of engaging Learning Activities—including minigames, books, original animated and live action series, and more—in a fun and safe virtual world. Other Age of Learning programs include immersive English language learning products for children in China and Japan; ReadingIQ, a digital library and literacy platform; and a groundbreaking personalized, adaptive digital learning system that individualizes math instruction for every child through AI-driven technology.
+
+We are committed to helping all children succeed. We provide our educational programs at no cost to teachers, Head Start programs, public libraries, and other community organizations, and have served millions of children through these initiatives. We recently established the Age of Learning Foundation to expand this work globally.
+As we expand our global reach and increase the educational impact of our programs, we’re looking for passionate, ambitious, and collaborative leaders to become a part of our growing team.
+
+
+Summary:
+We are seeking a full time Director of Data Engineering, who will lead Age of Learning’s data engineering efforts across a growing portfolio of global education technology products. This role oversees the data engineering function across the company’s suite of products including data automation, data quality and the underlying infrastructure (Big Data Pipeline). The ideal candidate will lead both the technical aspects of Business Intelligence and Data Engineering as an embedded function within product teams. This role will also grow and scale the data team providing both technical and team leadership.
+Responsibilities:
+Lead enterprise-wide data platforms, operations, and architecture management activities
+Work with analysts and business owners to iterate on data warehouse design and the data models and that feed our business intelligence tool to make data more accessible and foster data-driven decision making across the company
+Provide guidance to a cross functional team of product owners and business stakeholders (including Senior Management) on Key Performance Indicators (KPI/s) and success metrics across user and business (product) data
+Develop and maintain a technical metadata framework and repository of data events to enable consistent Extract Transform Load (ETL) operations and workflows
+Lead the design of and test highly available and scalable data pipelines and relevant data storage systems to enable business success across a multi-product functionality
+Develop a proactive cadence of maintaining the operability of the underlying data processing infrastructure including its configuration, performance and related storage
+Proactively identify operational and systemic issues within the data supply value chain (from collection to processing to reporting) and work with production operations (DevOps) team to implement monitoring solutions.
+Ensure testing and validation best practices are followed across the team so that accuracy of data transformations and data verification is complete and documented
+Ensure high operational efficiency and quality of your solutions to meet SLA (Service Level Agreement) and support commitment to stakeholders (both internal and external)
+Be an active participant and advocate of agile/scrum practice to ensure health and process improvements for your team
+Recruit, retain and actively coach data engineers, including data quality and warehousing
+Required Qualifications:
+Experience engaging with top executives to leverage the value of data cross company
+Minimum of 5+ years of experience designing and building large scalable data systems preferably across a multi-product portfolio
+Strong SQL skills with proven ability to write complex data queries across large data sets
+Minimum of 5+ years of exposure to software development preferably working in agile/scrum/kanban environments across multiple products
+Minimum of 5+ years of experience analyzing and manipulating data across diverse data sources (Python, Scala as an example)
+Minimum of 5+ years of hands on experience working across AWS (Amazon Web Services) cloud environment (EC2, S3, RDS, Sagemaker), including related ETL tools (like Talend, Airflow)
+Strong exposure to big data technology preferably across a containerized environment (Hadoop, Spark, Hive, Presto)
+Strong technical leadership and technical recruitment experience scaling a team of data engineers
+Strong attention to detail with excellent analytical, problem-solving, and communication skills
+Bachelor’s degree in Computer Science, Computer Engineering or Information Technology or related fields is required
+Exemplary communication skills (both written and oral), with experience producing technical and design documentation of complex processes
+Good time management and ability to work on concurrent assignments with different priorities
+Ability to work in a fast paced, iterative development environment with short turn-around times
+Preferred Qualifications:
+Experience with A/B Testing and related optimization across desktop and mobile in a digital environment a plus (examples include: Optimizely, Leanplum, deltaDNA)
+Experience analyzing and manipulating data across several data formats (JSON, Avro, Parquet, ORC)
+Experience building and architecting data warehouse workflows in large cloud-based production environments (Snowflake as an example)
+Understanding of columnar data warehouse solutions (Redshift, Vertica as an example)
+Experience developing and maintaining metadata catalogue API/s across a variety of data sources (AWS Glue, Metacat as an example)
+Prior experience working in Educational Technology and/or Gaming Studios an added plus
+Experience with sourcing and modeling data from Restful API (Application Programming Interface)
+We Provide:
+Medical, Dental, Vision + 401k
+Highly competitive PTO policy
+Casual Dress Code
+Snacks + Drinks (Coca Cola Freestyle Machine)
+Gaming room including an Arcade (2,000+ games)
+Frequent team and company outings
+Limitless opportunities for professional growth!

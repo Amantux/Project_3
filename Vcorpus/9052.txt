@@ -1,0 +1,59 @@
+About Kiva
+
+Kiva (kiva.org) is an international nonprofit with a mission to expand financial access to help underserved communities thrive. We run a global marketplace platform to crowdfund microloans for financially excluded entrepreneurs, farmers and students around the world. Our organization combines the culture and technological passion of an internet start-up with the compassion and empathy of a non-profit to create impact and opportunity at global scale. In just 13 years, we have raised more than $1.2 billion in loan capital for 2.7 million borrowers in 83 countries. Our lenders fund over $10 million in loans every month. With offices in San Francisco, Portland, New York, Nairobi, and Bangkok, Kiva's team includes 100+ employees and 400+ volunteers worldwide. Our team is growing as we pursue exciting new opportunities to create a financially inclusive world.
+
+About Data Science @Kiva
+
+The newly formed Data Science team at Kiva is tasked with creating impact by using data to solve problems around financial inclusion. This translates to a host of interesting and challenging technical problems spanning analytics, machine learning, data engineering and infrastructure. The team is currently building out algorithms to power personalization on kiva.org and is looking to scale data science for other kinds of problems. Our current ecosystem of infrastructure, tools and skill sets includes AWS, GCP, Kubernetes, Snowflake, Fivetran, Looker, Google Cloud Composer (Airflow), Snowplow, Python, Kotlin, R, PHP, and Hyperledger. We are looking for smart and motivated individuals to join our growing team.
+
+About the Role
+
+The team is looking for a Senior Data Scientist to help build data driven products using machine learning / data science. This is an opportunity to be an early influencer and a significant contributor to the direction and growth of the team. As a Senior Data Scientist, you will:
+
+Help solve a variety of problems using data to influence the experience of millions of lenders and borrowers around the world.
+
+Ideate, prototype and productionize machine learning models.
+
+Design and analyze experiments.
+
+Influence and help execute on our product strategy by collaborating with product managers, business stakeholders as well as other data scientists & data engineers on the team.
+
+Help foster a spirit of innovation and collaboration both within the engineering team and across the organization.
+
+Work to create impactful and sustainable solutions to complex problems by taking bold and measured risks.
+
+Balance your technical excellence with a high E.Q., showing up with a sense of empathy, awareness, and responsibility.
+
+Share the knowledge you gain generously with your peers to perpetuate a culture of engineering excellence.
+
+This role will be based in San Francisco or Portland, and will report to the Director of Data Science based in San Francisco. At this time, we can only consider applicants with authorization to work in the United States on a permanent, full-time basis; unfortunately, we cannot provide visa sponsorship.
+
+About You
+
+You have a BS in a quantitative discipline (computer science, engineering, physics, mathematics or a related field) or comparable work experience.
+
+You have the ability to communicate findings and recommendations to technical and non-technical audiences.
+
+You have 3+ years of experience in building data-driven products.
+
+You have experience in one or more of the following: recommender systems, reinforcement learning (multi-armed bandits), causal inference, personalized search, computational optimization, natural language processing, deep learning.
+
+You have coding skills (Python/R & SQL).
+
+You have exposure to distributed systems and architectures.
+
+You are willing to learn, take initiative and wear multiple hats as required.
+
+What We Offer
+
+An opportunity to improve real lives, solve hard problems, and change the world
+
+Friendly, supportive, and adventurous environment with a team of engaged colleagues
+
+A comprehensive, industry-leading benefits package
+
+Opportunities to connect with and learn from colleagues and partners around the world
+
+A diverse and inclusive workplace where we learn from each other is an integral part of Kiva's culture. We actively welcome people of different backgrounds, experiences, abilities and perspectives. We are an equal opportunity employer and a great place to work. Join us and help us achieve our mission!
+
+We will only accept applications directly from candidates. Kiva will not be responsible for any recruiting agency fees, absent a formal agreement.

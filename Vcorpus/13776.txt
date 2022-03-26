@@ -1,0 +1,66 @@
+Join our team dedicated to developing and executing innovative solutions in support of customer mission success.
+
+Job Description:
+
+Novetta is seeking a Data Scientist (Senior)) in the role of the Maritime Safety Office.This position is to provide both digital and hardcopy maritime products, services, and data to support worldwide Safety of Navigation. Without accurate and up-to-date nautical products, military platforms are at increased risk when they conduct operations, transport personnel and deliver material. The U.S. Navy has made it clear to NGA that it will continue to require both digital and hard copy maritime products for the foreseeable future. Services procured under this contract will primarily support the production and maintenance of Maritime GEOINT at NCE facilities.
+
+Responsibilities include:
+Strong data management skills, including SQL, NoSQL (MongoDB), and triplestore/graph
+databases
+Experience createing and managing ETL processes using Ni-Fi or similar software using both
+structured and unstructured data
+AWS experience, particularly with EC2, S3, Cloudwatch, RDS
+Experience with data visualization tools
+Experience with or working knowledge of ElasticSearch or similar
+Perform ad-hoc analysis and present results in a clear manner
+Conduct undirected research and frame open-ended industry / customer questions
+Recommend cost-effective changes to existing procedures and strategies
+Create / maintain tools to extract features from a variety of sources including raster to vector,
+vector to vector, text to vector, and text to database.
+Write / maintain Python Scripts in ARCGIS to improve efficiency of the production process.
+Support Business Processing Re-Engineering
+Perform Data Conversion/migration
+Perform Business Analytics
+Work with the Government on new production capabilities / services
+Strong data management skills, including SQL, NoSQL (MongoDB), and RDF
+(triplestore/graph) databases
+Linux experience
+Basic Qualifications:
+Strong data management skills, including SQL, NoSQL (MongoDB), and triplestore/graph databases
+Experience createing and managing ETL processes using Ni-Fi or similar software using both structured and
+unstructured data
+AWS experience, particularly with EC2, S3, Cloudwatch, RDS
+Experience with data visualization tools
+Experience with or working knowledge of ElasticSearch or similar
+Perform ad-hoc analysis and present results in a clear manner
+Desired Skills:
+Experience with combining digital cartography, computer technology, GIS, cartographic and geospatial
+production techniques, remote sensing, photogrammetry, and digital data formats.
+Ability to clean / prune data to discard irrelevant information
+Ability to examine data from a variety of angles to determine hidden value, weaknesses, trends, and / or
+opportunities
+Advanced knowledge of ESRI ArcGIS and ArcServer.
+
+Novetta, from complexity to clarity.
+
+Novetta delivers highly scalable advanced analytics and secure technology solutions to address challenges of national and global significance. Focused on mission success, Novetta pioneers disruptive technologies in machine learning, data analytics, full-spectrum cyber, cloud engineering, open source analytics, and multi-INT fusion for Defense, Intelligence Community, and Federal Law Enforcement customers. Novetta is headquartered in McLean, VA with over 1,000 employees across the U.S.
+
+
+Our culture is shaped by a commitment to our core values:
+
+Integrity • We hold ourselves accountable to the highest standards of integrity and ethics.
+
+Customer Success • We strive daily to exceed expectations and achieve customer mission success.
+
+Employee Focus • We invest in our employees' professional development and training, respecting individuality, and fostering a culture of diversity and inclusion.
+
+Innovation • We know that discovering new and innovative ways to solve problems is critical to our success and makes us a great company.
+
+Excellence in Execution • We take pride in flawless execution as we build a company that is best in class.
+
+
+Earn a REFERRAL BONUS for the qualified people you know.
+For more details or to submit a referral, visit bit.ly/NovettaReferrals.
+
+Novetta is an equal opportunity/affirmative action employer.
+All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age, or any other characteristic protected by law.

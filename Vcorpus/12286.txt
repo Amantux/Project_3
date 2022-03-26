@@ -1,0 +1,59 @@
+Hello, World! Codecademy has helped over 45 million people from around the world upgrade their careers with engaging, accessible, and flexible education on programming and data skills. We provide over 200 hands-on interactive lessons ranging from Python to R to Javascript and everything in between. Our learners have gone on to start companies, new jobs, and new lives thanks to what they’ve learned with Codecademy, and we’re thrilled to be working to take that impact to the next level.
+
+Codecademy was started in 2011 by two college students in a dorm room at Columbia that were frustrated by the huge gap between education and employment. A few years later, we are a rapidly growing, diverse team of 75+ in SoHo, NYC. We’ve raised over $40m in venture capital funding from top investors including Union Square Ventures, Kleiner Perkins, Naspers, Y Combinator, and more.
+
+If you want to help build a business that impacts tens of millions of people each year and helps them lead better lives, join us!
+
+WHAT YOU'LL DO
+
+As a Data Scientist focused on Analytics and Experimentation, you will work on an impactful team to analyze our millions of learners. We capture terabytes of data on how users engage with our platform. As Codecademy continues our rapid growth, we want to build a data-informed culture that uses hypothesis testing, experimentation, and exploratory analysis to guide our decision-making process.
+
+You will join a small but growing team of Data Scientists. Our work is in high-demand from all corners of Codecademy. We work on a variety of problems and have a real impact on the business and product. If you have a proven background in data and you are excited about making code education accessible, we want to hear from you!
+
+Apply exploratory data analysis and causal inference to answer complex questions about our users.
+
+Collaborate across teams to help scope out analyses, through a combination of experimentation (A/B testing) and quantitative user research.
+
+Design experiments and evaluate results to test and iterate on new product ideas.
+
+Perform deep dives into our data to build understanding around our business.
+
+Work with our data science and engineering teams to maintain data integrity.
+
+Mentor and consult with a cross-functional team of data scientists, engineers, and product managers.
+
+WHAT YOU'LL NEED
+
+4+ years of industry experience in a data science, analytics, or research role. You have strong data intuition and knowledge of using data science best practices to drive impact.
+
+Expert SQL - we use Redshift. Able to write clean and efficient queries on massive datasets.
+
+Applied experience with statistical programming languages - R or Python preferred.
+
+Understanding of statistical methods and when to use them (hypothesis testing, experiment design, sampling).
+
+Strong written and verbal communicator. Comfortable working with loosely defined research problems.
+
+WHAT WILL MAKE YOU STAND OUT
+
+Background in experimentation and measurement. We’re looking to streamline our experimentation reporting framework and would love your help.
+
+A workflow involving reproducible methods and version control - Github, Docker.
+
+Experience automating dashboards with business intelligence tools - Looker, Tableau.
+
+Passionate about teaching the world to code. Empathy for our learners, such as a background in education or past experience using our site.
+
+INTERESTING QUESTIONS YOU MIGHT WORK ON
+
+What are some different types of patterns in user behavior?
+
+What do we do when we are unable to conduct an experiment?
+
+Can we predict whether a learner will renew their subscription?
+
+How do we improve the relevance of our course recommendations?
+
+How can we scale our existing processes? (experiment reporting framework, forecasting)
+
+At Codecademy, we are committed to teaching people the skills they need to upgrade their careers. Codecademy aims to educate a richly diverse demographic of learners with our product and in order to accomplish this, we believe our team should reflect that rich diversity. Our company celebrates diversity in all of its forms- race, gender, color, national origin, marital status, sexuality, religion, veteran status, age, ability, disability status- and works to create an inclusive workplace where people of all backgrounds and beliefs are empowered to better their futures.

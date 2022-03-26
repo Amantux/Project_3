@@ -1,0 +1,30 @@
+Nokia is a global leader in the technologies that connect people and things. With state-of-the-art software, hardware and services for any type of network, Nokia is uniquely positioned to help communication service providers, governments, and large enterprises deliver on the promise of 5G, the Cloud and the Internet of Things.
+
+Serving customers in over 100 countries, our research scientists and engineers continue to invent and accelerate new technologies that will increasingly transform the way people and things communicate and connect.
+
+We are searching for a data engineer / analyst to engage in the research and development of silicon photonics integrated circuit technology, as well as supporting production activities. The candidate will take responsibility for the development and deployment of new data analysis tools and infrastructure, which is vital in handling live data streams from our global production lines and other sources and enabling critical integration and automation across data pipelines and platforms.
+
+An ideal candidate would have a strong programming background, experience in data engineering, and the ability to understand the physics / engineering behind the data. As a member of our silicon photonics R&D team, you’ll be working within the data analytics team and alongside experienced silicon photonics and RFIC designers and test engineers with strong records of delivering innovative photonic device designs & large-scale silicon photonics circuits.
+
+Key Responsibilities
+Develop new infrastructure for data pipelines, analytic tools, and signal processing SW to support the data analytics team.
+Develop new analytical approaches and innovate on performance and yield optimization.
+Interact with data providers and test team.
+Provide rapid and concise feedback for debugging of yield and design problems in real time.
+Collaborate with all other functional teams in the organization to deliver crisp, actionable results in situations of considerable complexity.
+Key Qualifications:
+M.S. or Ph.D. in computer science / electrical engineering / physics / applied physics / similar quantitative fields.
+Fluency with programming in Python, C++, or similar.
+Familiarity with data infrastructure, ETL, and analytics platform development.
+Good understanding of general concepts in physics.
+Understanding of multi-variate statistics and stochastic processes.
+Desirable Qualifications:
+Strong experience in ETL framework, database/data warehouse, analytic platforms development and optimization.
+Proficiency in SQL, experience in PDF Solutions DB tools, MySQL, PostgreSQL, Oracle.
+Familiarity with analytic platforms such as TIBCO Spotfire, Tableau.
+Proficiency with JMP and Bash scripting.
+Experience with designing or characterizing silicon photonic or other integrated optical/optoelectronic devices or circuits.
+Nokia is an equal opportunity employer that is committed to diversity and inclusion.
+At Nokia, employment decisions are made regardless of race, color, national or ethnic origin, religion, gender, sexual orientation, gender identity or expression, age, marital status, disability, protected veteran status or other characteristics protected by law.
+
+Apply now.

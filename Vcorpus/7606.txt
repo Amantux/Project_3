@@ -1,0 +1,65 @@
+At Lyft, community is who we are and it's what we do. It's what makes us different. To create the best ride for all, we start in our own community by creating an open, inclusive, and diverse organization where all team members are recognized for what they bring.
+
+Data is at the heart of how Lyft makes business and product decisions. As a data science team, we work collaboratively with partners across product, engineering, operations and growth to develop business insights and make actionable recommendations.
+
+We're looking for passionate data scientists to take on some of the most interesting and impactful problems in ridesharing. You'll work in a dynamic environment, where we embrace moving quickly to build the world's best transportation.
+
+Data Scientists pursue a variety of problems ranging from understanding our passengers and drivers, to ensuring we have an efficient marketplace, to optimizing how we run our marketing and growth incentives. You'll dig into the data to uncover insights, design experiments and measure the impact, and help influence decision-making across the entire organization.
+
+The Forecasting team builds short-term (real-time) and long-term forecasts of market signals to power business planning at multiple levels including engagement budget planning, supply positioning, pricing, support staffing, etc. We are looking for scientists to build experimentation and performance monitoring frameworks for forecast models, as well as perform deep analysis and build visualizations of spatiotemporal data and unstructured data such as events and weather.
+
+You will report into a Science Manager.
+
+*****************
+
+Responsibilities:
+
+*****************
+
+Partner with product managers, scientists, engineers and operators to translate business insights into decisions and action
+
+Find opportunities for growth and efficiency for Lyft
+
+Design experiments to test for business metric movement in response to model improvements for real-time prediction models; communicate results and launch decisions.
+
+Develop analytical frameworks to monitor business and product performance
+
+Build impact assessment framework for long-term forecast models to estimate relative product efficiency gains in the absence of counterfactuals
+
+***********
+
+Experience:
+
+***********
+
+Degree in a quantitative field like statistics, economics, applied math, or engineering. Advanced degrees are preferred
+
+3+ years of industry experience in a data science or analytics role
+
+Proficiency in SQL - able to write structured and efficient queries on large data sets
+
+Experience in Python, especially with visualization tools for spatiotemporal data
+
+Experience designing experiments and interpreting findings as relevant to business context
+
+Strong oral and written communication skills, and ability to collaborate with cross-functional partners to build the business
+
+********
+
+Benefits
+
+********
+
+Great medical, dental, and vision insurance options
+
+In addition to 11 observed holidays, salaried team members have unlimited paid time off
+
+401(k) plan to help save for your future
+
+18 weeks of paid parental leave. Biological, adoptive, and foster parents are all eligible
+
+Monthly commuter subsidy to cover your transit to work
+
+20% off all Lyft ride
+
+Lyft is an Equal Employment Opportunity employer that proudly pursues and hires a diverse workforce. Lyft does not make hiring or employment decisions on the basis of race, color, religion or religious belief, ethnic or national origin, nationality, sex, gender, gender-identity, sexual orientation, disability, age, military or veteran status, or any other basis protected by applicable local, state, or federal laws or prohibited by Company policy. Lyft also strives for a healthy and safe workplace and strictly prohibits harassment of any kind. Pursuant to the San Francisco Fair Chance Ordinance and other similar state laws and local ordinances, and its internal policy, Lyft will also consider for employment qualified applicants with arrest and conviction records.

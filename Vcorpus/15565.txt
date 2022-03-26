@@ -1,0 +1,35 @@
+Knowesis is seeking an experienced data scientist to support the Hearing Center of Excellence (HCE) and HCE stakeholders. This person will help execute the DHA/HCE Data Vision of providing seamless data services and decision support for clinicians, patients, beneficiaries, analysts, researchers, and DoD leadership. This individual's primary responsibility will be to provide advanced analytics to support HCEs understanding of the issues on military service IAW SEC. 721 of the NDAA for FY 2009. The Data scientist will perform, collect, analyze, and report data to support a variety of hearing-related initiatives.
+
+Responsibilities Include:
+Provide a variety of business intelligence and advanced analytics services, including descriptive, predictive, and prescriptive analytics
+Perform advanced exploratory and predictive analytics using machine learning techniques to gain insights on outcomes of interest to help improve patient care through clinical communities
+Support DoD/VA internal and external research partnerships in the hearing health community as well as general analyses required within the HCE
+Work with both structured and unstructured data employing unsupervised learning models including isolation forest, k-means clustering, anomaly detection, and principal component analysis
+Handle Big Data problems utilizing unique technologies that store, manipulate, extract, and create features for processing and modeling
+Implement machine learning algorithms with multidimensional data for classification and clustering problems and graphical networks
+Provide overall data management and analytic solutions, ensuring adherence to all applicable privacy, data security, and HIPAA regulations and guidelines for Human and Non-Human Subject Researches
+Serve as a Subject Matter Expert of MHS/VHA data and make recommendations on improving data collection methodologies related to any hearing requirements. Extract data from multiple data warehousing sources to generate and design standard and ad-hoc reports.
+Required Experience:
+Minimum of 5 years of demonstrated experience in statistics and statistical software (R, SAS, Python, SQL)
+Exposure and understanding of Data Science/Machine Learning Techniques (isolation forest, k-means clustering, anomaly detection, and principal component analysis, Baysian, etc.)
+1-2 years of experience with data visualization software (Tableau, Qlik, PowerBI)
+Expert knowledge in Microsoft Office products and Sharepoint
+Demonstrated experience in preparing and editing technical documentation
+Experience and Skills
+
+Qualifications:
+Experience working with Military Health Systems (MHS) and/or Veteran Health Administration (VHA) and Veteran Benefits Administration (VBA) data systems, such as Management Analysis and Reporting Tool (M2), MHS Data Repository (MDR) and Defense Manpower Data Center (DMDC)/Defense Eligibility and Enrollment Systems (DEERS), VA CDW and DSS.
+Proficient in Python, R, SAS, Tableau, Shiny, SQL, and Hadoop ecosystem
+Exposure to distributed files frameworks including Hive and Spark
+Experience in leveraging machine learning algorithms to perform predictive modeling and forecasting.
+Experience of performing statistical modeling with multiple regression techniques, variable selection methods, time series analyses, and neural networks in Python, R, and/or SAS
+Experience of utilizing Python or R in data analytics to collect, understand, transform, cleanse, store, and share data in a privacy-preserving way
+Proficient in data visualization tools to design report and graphs to identify autonomous patterns and behaviors
+Experience with text analytics including Natural Language Processing
+Strong background in mathematics, statistics, and probability preferred
+Applicants must possess, at a minimum, a favorably adjudicated National Agency Check with Inquiries (NACI) or an equivalent or higher investigation
+Education:
+
+Master's degree in Data Science, Statistics, Computer Science, or an associated technical discipline with three (3) years minimum experience in data analytics, including providing analytical management by planning, coordinating and directing programs, conducting surveys and studies, and special projects OR
+
+Bachelor's degree in one of the above disciplines with eight (8) years minimum experience in data analytics, including providing analytical management by planning, coordinating and directing programs, conducting surveys and studies, and special projects.

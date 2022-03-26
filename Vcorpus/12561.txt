@@ -1,0 +1,45 @@
+THIS IS BLUE APRON
+
+At Blue Apron, our mission is to make incredible home cooking accessible to everyone—from the novice cook just getting started to the experienced chef. Each week we send hundreds of thousands of customers all the pre-measured and perfectly proportioned ingredients they need to prepare delicious and healthy meals at home. We introduce our members to new ingredients, flavors, and cooking techniques with seasonally inspired recipes that are always delicious, fun and easy to prepare. We make fresher, healthier food available at better prices by rethinking the grocery supply chain from the table all the way back to the farm.
+
+WHO'S IN THE KITCHEN
+
+Blue Apron's Analytics and Business Insights team develops critical metrics, actionable insights and insightful forecasts on our rapidly expanding customer base and the broader meal kit marketplace. This team also powers business decisions around complex supply chain and logistical challenges.
+
+WHAT'S ON THE MENU
+
+The Data Scientist will drive efforts to iteratively improve Blue Apron's long and near term forecasting methodologies and company-wide testing methodologies. This will include efforts to size risk and opportunity, diligently test new testing infrastructure, and determine the success of strategies in marketing, digital and physical products changes.
+
+Candidates will be motivated self-starters who are comfortable navigating large datasets, building and/or interpreting predictive models, partnering with technical teams, and understanding customer demand signals. They will be intimately familiar with advanced statistical testing methodology and interpretation. They will be comfortable presenting findings through both verbal and written formats. Candidates will feel confident in their abilities to influence decision making at the highest levels, understand requirements in working with cross functional teams, and be confident in presenting to individuals of all levels throughout the company.
+
+Key responsibilities include:
+
+Work closely with Demand Forecasting & Operations, Engagement Analytics, Acquisition Analytics, and Data Engineering teams to enable continuous implementation of sophisticated predictive statistical models on big data by developing new data sources, testing model enhancements, running computational experiments, and fine-tuning model parameters
+
+Formalizing assumptions about how demand forecasts are expected to behave, creating definitions of outliers, developing methods to systematically identify outliers
+
+Finding root causes of forecast inaccuracy for Near-term and Long-term Forecasting
+
+Owns the design, development, and publication of automated A/B testing reports, including the accuracy of the underlying data
+
+Counsel business owners for hypothesis and success metrics definition as well as result interpretation and business impacts
+
+Have a deep understanding of statistics and testing methodologies
+
+NECESSARY INGREDIENTS
+
+Bachelor's or Master's degree in a quantitative field such as Statistics, Applied Mathematics, Physics, Engineering, Computer Science, or Economics
+
+2-5 years of experience in time series forecasting and in applying descriptive statistics, building predictive models and visualization to solve real-world problems
+
+2+ years of experience with data querying languages (e.g. SQL) and statistical/mathematical software (e.g. R, Python)
+
+Proven ability to convey rigorous technical concepts and considerations to non-experts
+
+Strong statistics knowledge and experience to strengthen the validity of A/B tests, including statistical distributions and testing/sampling methodologies.
+
+In depth knowledge of web and mobile analytics (Google Analytics or Amplitude) a plus
+
+Natural curiosity and desire to learn
+
+Blue Apron provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, Blue Apron complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.

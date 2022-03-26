@@ -1,0 +1,60 @@
+Job Information
+
+Job Opening ID 1806 Location Phoenix Department Name IT Work Experience 5+ years Number of Positions 1 Job Opening Status In-progress Industry IT Services City Phoenix State/Province Arizona Zip/Postal Code 85012
+
+Job Description
+
+JOB SUMMARY:
+As a Scrum Quality Assurance Automation Engineer, your core responsibility includes drafting, planning, and manually execution of various levels of web-based application testing - including system, integration, security, and functional regression tests. You will automate the functional tests in Cucumber/Gherkin with implementation in Java for happy path test scenarios in an already established automation framework that expands over few thousand scripts.
+We follow the Agile Scrum/Kanban methodology and every team has the ability to choose between 2-4 weeks sprint. Teams review their sprints with business/Product Owners/Stakeholders at a regular interval. All technical and business teams are easily available and are located in the same building. Every team has its own environment which regularly gets refreshed from production allowing teams to test with most up-to-date masked data. Once teams and Product Owners are ready to release, they commit their changes to the release env which gets pushed to production on a monthly basis.
+We believe in strong and open communication with Development, Security and Operation teams Under the DevSecOps initiative, our goals are to streamline, simplify and automate our code delivery through CI/CD Pipelines. We believe in thoroughly and regularly reviewing our dev code. Application development teams are in-house/on-premise and all located on same floor. We empower our teams to be independent and to implement DevSecOps culture with various automated tools implementation to eliminate the need for manual execution and verification.
+Our Client provides a stable work environment and a professional atmosphere that fosters a healthy work-life balance. At the ASRS, we are always trying to improve. One of the ways we improve is by hiring good people. We encourage all motivated, knowledgeable and professional QA Automation Engineers who meet the following requirements to apply.
+Strong working knowledge with Behavior Driven Development (BDD) with Gherkin Syntaxes; Cucumber knowledge is a plus
+Strong knowledge on Selenium web-driver and Java Core
+Hands on experience with writing and executing SQL Queries
+Experience working in an Agile Scrum/Kanban environment and a solid understanding of all facets of Software Development Lifecycle
+Applied knowledge of version control, configuration management, and continuous integration is desirable
+Experience in Security testing web applications is a plus
+General working knowledge of Defect tracking tools, Automation Tools, Test case management tools, Testing methodologies, Testing definitions & Processes
+Plans & Executes Test cases and performs ad-hoc testing where necessary and issues a detailed defect report
+Environment : Oracle DB, Atlassian JIRA, Confluence, Celoxis, Cucumber (Behavior Driven Development BDD) Gherkin syntax for test cases with implementation of Step Definitions and code in JAVA; Bamboo & Jenkins (CICD build and deployments of WAR files); Docker containers; Java/J2EE framework; Spring, Spring boot apps, microservices structured applications; Git/Bitbucket as source code and code review application.
+
+Work History Requirements:
+Minimum of 7 years working experience in Information Technology
+Minimum of 5 year working as an Quality Assurance Automation Engineer
+Minimum of 3 years developing Automation Test Scripts
+Minimum of 2 years of Gherkin Syntaxes
+Educational Requirements:
+Bachelors degree is highly desired; preferably in Software Development or Information Technology
+Participation in continued education will be considered a plus
+
+Required Qualification
+
+JOB SUMMARY:
+
+As a Scrum Quality Assurance Automation Engineer, your core responsibility includes drafting, planning, and manually execution of various levels of web-based application testing - including system, integration, security, and functional regression tests. You will automate the functional tests in Cucumber/Gherkin with implementation in Java for happy path test scenarios in an already established automation framework that expands over few thousand scripts.
+We follow the Agile Scrum/Kanban methodology and every team has the ability to choose between 2-4 weeks sprint. Teams review their sprints with business/Product Owners/Stakeholders at a regular interval. All technical and business teams are easily available and are located in the same building. Every team has its own environment which regularly gets refreshed from production allowing teams to test with most up-to-date masked data. Once teams and Product Owners are ready to release, they commit their changes to the release env which gets pushed to production on a monthly basis.
+We believe in strong and open communication with Development, Security and Operation teams Under the DevSecOps initiative, our goals are to streamline, simplify and automate our code delivery through CI/CD Pipelines. We believe in thoroughly and regularly reviewing our dev code. Application development teams are in-house/on-premise and all located on same floor. We empower our teams to be independent and to implement DevSecOps culture with various automated tools implementation to eliminate the need for manual execution and verification.
+
+Our Client provides a stable work environment and a professional atmosphere that fosters a healthy work-life balance. At the ASRS, we are always trying to improve. One of the ways we improve is by hiring good people. We encourage all motivated, knowledgeable and professional QA Automation Engineers who meet the following requirements to apply.
+
+Strong working knowledge with Behavior Driven Development (BDD) with Gherkin Syntaxes; Cucumber knowledge is a plus
+Strong knowledge on Selenium web-driver and Java Core
+Hands on experience with writing and executing SQL Queries
+Experience working in an Agile Scrum/Kanban environment and a solid understanding of all facets of Software Development Lifecycle
+Applied knowledge of version control, configuration management, and continuous integration is desirable
+Experience in Security testing web applications is a plus
+General working knowledge of Defect tracking tools, Automation Tools, Test case management tools, Testing methodologies, Testing definitions & Processes
+Plans & Executes Test cases and performs ad-hoc testing where necessary and issues a detailed defect report
+Environment: Oracle DB, Atlassian JIRA, Confluence, Celoxis, Cucumber (Behavior Driven Development BDD) Gherkin syntax for test cases with implementation of Step Definitions and code in JAVA; Bamboo & Jenkins (CICD build and deployments of WAR files); Docker containers; Java/J2EE framework; Spring, Spring boot apps, microservices structured applications; Git/Bitbucket as source code and code review application.
+
+Work History Requirements:
+
+Minimum of 7 years working experience in Information Technology
+Minimum of 5 year working as an Quality Assurance Automation Engineer
+Minimum of 3 years developing Automation Test Scripts
+Minimum of 2 years of Gherkin Syntaxes
+Educational Requirements:
+
+Bachelors degree is highly desired; preferably in Software Development or Information Technology
+Participation in continued education will be considered a plus

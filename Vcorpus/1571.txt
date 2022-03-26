@@ -1,0 +1,23 @@
+About Navio:
+Navio builds software tools that help cancer patients and their doctors navigate to a better standard of care. Ultimately, we’ll change the narrative around highly lethal cancers like Glioblastoma, where standard treatment offers no hope.
+
+Navio’s software helps patients learn about the most appropriate treatment options, tracks treatment progress and response, and connects them with appropriate care and support resources, allowing them to feel more in control throughout their care journey. For physicians, Navio organizes individual care options, streamlines patient onboarding, then monitors and tracks outcomes via patient-reported measures like quality of life score. With visibility into the complete patient journey, Navio will provide researchers access to a unique dataset for finding novel relationships that will lead to better care for all.
+
+We combine modern technologies, like Kotlin, Scala, Java, Javascript, React, GraphQL and Elasticsearch with AWS services and deploy them on Docker and serverless platforms.
+
+Navio is looking for a data scientist who:
+Uses system tools, queries and scripts to develop and generate customized data analysis and reporting information from the IBM Watson Health Platform
+Perform detailed data analysis using complex analytical thinking skills to determine enhancement and correction of queries and reports
+Create data visualizations for the purpose of explaining data
+Influence product and business direction with data outcomes
+
+Preferred Qualifications
+Experience with data science, data visualization, and bioinformatics
+Experience with programming languages and data visualization tools
+Clinical experience, specifically in oncology departments is a plus
+Good communication skills
+Self starter demonstrating initiative to develop creative solutions
+Flexibility and commitment to contribute as needed to the success of the project
+Experience with IBM Watson Health Platform is a plus
+
+This is a part-time opportunity with a potential option for full-time.

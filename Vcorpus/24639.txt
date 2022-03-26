@@ -1,0 +1,12 @@
+8+ years of experience as an Oracle DBA/Application ADBA,
+Oracle Certification preferred (OCA or higher),
+5+ years of SQL and PL/SQL Development experience,
+Eclipse 3.3+, Linux scripting,
+DB Schema Design, DB Performance tuning, Oracle 10g+, TOAD 9.6+
+Working knowledge of Telecom domain and Fiber Planning
+Will be responsible for high level database administration and related tasks on multiple DMBS platforms with emphasis on Oracle.
+Should have the ability to create a logical model and transform logical design into efficient physical database elements, performing data table design, applying normalization and de-normalization principles as needed.
+Ability to write Database procedures, functions, triggers and objects to assist developers with the implementation of new projects or for changes in existing projects for an enterprise application.
+Should be able to assist developers in troubleshooting and resolving database related issues that are outside the domain of application programming.
+Should be able to tune Database queries; apply indexes, hints and other database best practices as needed to keep the database in optimal shape to deliver peak performance on critical business days.
+Should have the ability to create and maintain application database related jobs and UNIX shell scripts to go with them to run a certain business function periodically.

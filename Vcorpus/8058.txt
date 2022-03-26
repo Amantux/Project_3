@@ -1,0 +1,53 @@
+Shutterfly is looking for a Jr. Customer Data Scientist who will take customer knowledge to the next level. Leveraging machine learning, predictive modeling, and audience techniques (such as cluster analysis, customer journey, persona identification) this experienced customer data scientist will join the Marketing department to focus on identifying actionable audience and customer insights especially focused on creation of behavioral segments and identification of targeting groups.
+
+This will involve providing end to end data science support by leveraging Shutterfly’s unique and varied data. This involves using cutting edge, cloud-based machine learning techniques and technologies to develop models (deep learning, uplift models), designing and implementing A/B tests, creating algorithms and running simulations, scaling the solution through automation, creating integrated feedback mechanisms for the models to improve and calibrate based on A/B tests, and extensive analytical deep-dives to investigate and find insights.
+
+POSITION RESPONSIBILITIES:
+
+Work with stakeholders to define objectives and success measures, establish KPIs and measurement time period
+
+Identify customers' needs/requirements and quantify them into statistical problems.
+
+Use advanced knowledge of SQL to pull accurate data from Teradata or Cloud based systems
+
+Build machine learning models using R/Hive/Pig/Python which can recommend who, what and how of targeting
+
+Collect and cleanse large amount of real-world consumers’ usage and commerce data in various production environments
+
+Develop predictive models on large-scale datasets to address various business problems through demonstrating advanced statistical modeling, machine learning, or data mining techniques.
+
+You will deliver informative and actionable findings, results and recommendations from machine learning models to stakeholders, be able to build dashboards of critical statistics and metrics
+
+You will drive full cycle projects from data to results.
+
+REQUIREMENTS:
+
+MS or BS degree in Computer Science, Statistics, Applied Math, Operations Research, Econometrics, or other related fields.
+
+Previous experience with Customer Analytics and Segmentation/Targeting.
+
+Deep understanding of statistical modeling, machine learning, deep learning, or data mining concepts, and a track record of solving problems with these methods.
+
+Proficient in one or more programming languages such as Python, Java, Scala, and C
+
+Familiar with one or more machine learning or statistical modeling tools such as R, scikit learn, and Spark MLlib
+
+Practical experience with distributed data platforms: Map/Reduce, Hadoop, SPARK
+
+Knowledge and experience working with relational databases and SQL; Demonstrated flexibility in working with large, complex, and ambiguous datasets
+
+Work successfully in a highly cross-functional environment
+
+Strong analytical and quantitative problem solving ability.
+
+Excellent communication, relationship skills and a strong teammate.
+
+PREFERRED REQUIREMENTS
+
+Strong programming skills to achieve automation and scale
+
+Experience withCloud compute solutions, such as AWS, GCS or Azure, preferred
+
+Experience with version control systems such as Github
+
+Familiarity with Unix

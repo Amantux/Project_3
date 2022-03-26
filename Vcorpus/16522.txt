@@ -1,0 +1,35 @@
+Leading the future of luxury mobility
+
+Lucid’s mission is to inspire the adoption of sustainable energy by creating the most captivating luxury electric vehicles, centered around the human experience. Working at Lucid Motors means having a shared vision to power the future in revolutionary ways. Be part of a once-in-a-lifetime opportunity to transform the automotive industry.
+
+We are currently seeking an experienced Big Data Engineer to help building up our large-scale data management system for the ADAS / Autonomous Driving team. This field allows contributions on various levels around the data pipeline and data processing, like the data annotation, machine learning, data ingestion, data pre-processing, integration of Deep Neural Network frameworks, efficient data search and high performance data manipulation.
+
+The Role:
+Work with a state-of-the-art data pipeline on the development and test process of the ADAS/AD features
+Enable efficient data (pre-)processing in our cloud infrastructure
+Contribute to the architecture and implementation of an efficient data ingestion process to transfer and store large-scale vehicle sensor data from our Lucid Air test vehicles efficiently into our data storage
+Help to optimize the data storage, search and data processing based on a diverse mix of storage solutions, caching techniques and big data frameworks.
+Contribute to the implementation of a secure distributed data access solution for data on-premise and via cloud providers to connect Lucid data with service providers and partners
+Work with machine learning experts, testing engineers and software developers to solve challenging development problems
+Qualifications:
+Knowledge of database systems, big data concepts and cluster computing frameworks (e.g. Spark, Hadoop, or other tools)
+Excellence in C++, Python, Java or other related programming languages
+Previous experience with big data applications or back-end software development
+Experience with machine learning, data engineering, deep learning frameworks and related open-loop testing techniques
+Strong communication skills
+Advantageous:
+Previous experience building efficient large-scale data collection, storage and processing pipelines
+Understanding of cyber-security issues and best practices
+Education:
+BS minimum in the areas of Computer Science/Engineering, Data Engineering or other related fields
+4+ years of work experience or a PhD in a related field
+Advanced degrees preferred
+LMHP
+
+Be part of something amazing
+
+Come work alongside some of the most accomplished minds in the industry. Beyond providing competitive salaries, we’re providing a community for innovators who want to make an immediate and significant impact. If you are driven to create a better, more sustainable future, then this is the right place for you.
+
+At Lucid, we don’t just welcome diversity - we celebrate it! Lucid Motors is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, national or ethnic origin, age, religion, disability, sexual orientation, gender, gender identity and expression, marital status, and any other characteristic protected under applicable State or Federal laws and regulations.
+
+To all recruitment agencies: Lucid Motors does not accept agency resumes. Please do not forward resumes to our careers alias or other Lucid Motors employees. Lucid Motors is not responsible for any fees related to unsolicited resumes.

@@ -1,0 +1,66 @@
+Read what people are saying about working here. 
+Job Description
+
+If you dream of a job working in a field where all of the hard problems are solved and you get to re-use previous research to get your job done, you need not apply. If, however, you are someone who wants to tackle problems that truly are on the cutting edge, then we encourage you to keep reading.
+
+Data Science is an emerging field within cyber security. FireEye, given its deep expertise and comprehensive view on the advanced threat landscape, is uniquely positioned to enable data scientists to have major impact within our industry, company, and across our customer base.
+
+This role will oversee the continued iteration and improvement of machine learning solutions tackling constant threat landscape changes. You will be challenged to find new angles to difficult problems in malware classification and categorization.
+
+Responsibilities:
+
+This role will require experience building, analyzing and maintaining supervised learning models, as well as familiarity with malware detection and binary analysis.
+
+You will be expected to analyze model results and work with domain experts, engineers and other data scientists on your team to develop and implement improvements. You must be able to translate fluidly between data science and cybersecurity concepts. The ability to work as part of a team, give and receive feedback, and communicate clearly is critical.
+
+Qualifications
+
+Requirements:
+
+Experience in applying a wide variety of unsupervised, semi-supervised, and supervised machine learning techniques, and the ability to turn big data into actionable intelligence
+
+Familiarity with network and endpoint security concepts and technologies
+
+Ability to analyze, retrain, and improve machine learning models
+
+Ability to work as part of a remote team
+
+Ability to provide and receive scientific critiques and work towards data-driven solutions
+
+Significant development experience with Python, Matlab, R, or Scala
+
+Ability to document and explain technical details clearly and concisely (peer-reviewed publications preferred)
+
+B.S. + 6 years of experience in data science or data analytics required OR M.S. + 4 years OR PhD
+
+Strong written and verbal communication skills
+
+Additional Qualifications:
+
+Experience with sklearn, pandas, numpy or similar packages
+
+Familiarity with malware, host forensics, or network traffic analysis concepts
+
+Experience with Linux command line and bash scripting
+
+Experience with reverse engineering malware
+
+Experience with AWS infrastructure
+
+Experience with a deep learning frameworks such as TensorFlow, Theano, or MXNet
+
+Experience with GPU-accelerated computing and hardware (e.g., NVIDIA DGX-1)
+
+Experience using Hadoop and Spark
+
+Experience using relational and non-relational databases
+
+Experience with web frameworks to visualize large datasets
+
+Preference for remote candidates will have experience in Data Science and Cyber Security
+
+Additional Information
+
+All qualified applicants will receive consideration for employment without regard to race, sex, color, religion, sexual orientation, gender identity, national origin, protected veteran status, or on the basis of disability.
+
+ The rules of engagement in today’s threat landscape are changing rapidly and as cyber-crime evolves, there is a security gap that can be ...

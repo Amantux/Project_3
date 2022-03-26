@@ -1,0 +1,43 @@
+Goldfinch Bio is a biotechnology company that is singularly focused on discovering and developing precision therapies for patients with kidney disease. Just as the goldfinch has long been a symbol of healing and renewal and was a prominent figure of the Renaissance, Goldfinch Bio is leading a new age of therapeutic discovery to transform the treatment paradigm for people with kidney disease. Goldfinch was launched in 2016 by Third Rock Ventures, and is headquartered in Cambridge, Mass. For more information, please visit https://www.goldfinchbio.com.
+
+The Role:
+
+Goldfinch Bio seeks a talented computational biologist or data scientist to play a central role in development of the Kidney Genome Atlas (KGA) and the biology platform, two key components of our product engine for discovering novel drug targets, biomarkers for patient stratification, and insights into mechanism of disease. The KGA encompasses more than 20,000 multi-omic samples (WGS, RNAseq, scRNAseq, proteomics, metabolomics, epigenetic marks), with plans to grow to >100,000 samples. The biology platform consists of iPSC-derived human kidney organoids and differentiated cells, podocytes.
+
+This exciting position will play a pivotal role in data processing and analysis, by wranging multi-omic data, applying appropriate statistical methods, and interpretation and presentation of results. A successful candidate will have significant experience implementing algorithms to derive disease insights from multi-omics data.
+
+Job Responsibilities Include:
+
+Evaluation and incorporation of cutting edge analytical and statistical approaches in analyses and interpretation of high-dimensional multi-omic and phenotypic data
+
+Analysis of RNAseq data for calculating eQTLs and diffential gene expression
+
+Unbiased cell type clustering of single cell data (e.g. scRNAseq, scATACseq) and trajectory analysis of cell differentiation
+
+Curation of public and proprietary epigenetic data (e.g. ChIPseq, histone marks), including rigorous examination of batch effects
+
+Building scalable and reproducible data processing and analysis pipelines in a cloud environment
+
+Deploying machine learning algorithms for drug discovery, including researching, adapting, and implementing cutting-edge methodologies
+
+Qualifications/Experience:
+
+Ph.D. in Computational Biology, Bioinformatics, Computer Science, or related field; or equivalent academic/industry experience. Post-Doctoral training a plus.
+
+Experience integrating and analyzing high-dimensional data
+
+Proficiency in Python, R and Linux is required
+
+Experience analyzing genomic and/or transcriptomic data a plus
+
+Proficiency with machine learning algorithms
+
+Proven ability to work independently and in a team environment
+
+Excellent analytical and problem-solving skills
+
+Excellent written and verbal communication skills
+
+Record of significant peer-reviewed publications
+
+Strong drive with a desire to make an impact on kidney disease

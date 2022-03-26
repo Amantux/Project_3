@@ -1,0 +1,71 @@
+Main responsibilities are to develop and improve discovery services that help researchers to find what matters to them (e.g. articles, researchers, funding opportunities). You will work on products throughout Elsevier from existing ones with high volumes of traffic to new and innovative ones. You will collaborate with cross functional agile team of data scientists, engineers and product owners to deliver end-to-end discovery products, and will assume data science ownership over certain components and continuously work to improve them.
+
+Responsibilities
+
+Assume data science ownership over certain components and continuously work to improve them
+
+Identify, research and design algorithms to power Elsevier’s discovery services (e.g. recommender systems and search engines)
+
+Build and deliver algorithms in production environments, typically as services
+
+Evaluate how these algorithms perform in live services and improve them to move relevant business goals
+
+Work closely with other data scientists, engineers and product owners to understand complex product requirements and translate them into solutions
+
+Demonstrate, communicate and promote the value of Data Science in discovery products both inside and outside the company
+
+What you'll be doing
+
+Collaborate with cross functional agile team of data scientists, engineers and product owners to deliver end-to-end discovery products
+
+Drive improvement of the quality of discovery services throughout Elsevier
+
+Research and develop algorithms to power discovery services (e.g. recommender systems, search engines)
+
+Identify, obtain and prepare large scale data sets for training and testing algorithms (e.g. data cleaning, data normalization, data linkage)
+
+Evaluate algorithms through controlled offline and online experiments (e.g. A/B testing)
+
+Build proof of concept prototypes demonstrating these algorithms in action
+
+Productionize prototypes with the support of skilled engineers to build reliable, scalable systems
+
+Deliver presentations that communicate the value of discovery technologies to the business
+
+Keep up-to-date with relevant data and machine learning technologies
+
+Help out with recruitment and onboarding of new data scientists
+
+What you should bring
+
+4+ years of research and development experience in industry or academia
+
+PhD or MSc in Machine Learning or related fields is strongly preferred
+
+Strong background in Machine Learning, preferably with expertise in personalized machine learning algorithms
+
+Experience with building and improving discovery services such as Recommender Systems and Search Engines is desirable but not required
+
+Good problem-solving involving identifying, researching and delivering solutions to product needs
+
+Experience of working in cross functional teams including Engineers, UX and Product to build and deliver data products
+
+Experience of creating and delivering presentations that communicate the value of data products to different groups (e.g. Business, Engineering, Product)
+
+Experience in fast prototyping languages (e.g. R, Python) and Unix skills (e.g. bash scripting, sed, AWK)
+
+Experience of Java or Scala programming; can independently prototype solutions to problems
+
+Experience with big data technologies (e.g. Spark, Hadoop, MapReduce) and AWS is desirable but not required
+
+Experience of working with large scale data sets
+
+Knowledge of agile software processes and data-driven development is a plus
+
+Fluent spoken and written English
+
+Elsevier is a global information analytics business that helps institutions and professionals progress science, advance healthcare and improve performance for the benefit of humanity. We help researchers make new discoveries, collaborate with their colleagues, and give them the knowledge they need to find funding. We help governments and universities evaluate and improve their research strategies. We help doctors save lives, providing insight for physicians to find the right clinical answers, and we support nurses and other healthcare professionals throughout their careers.
+
+Elsevier provides digital solutions and tools in the areas of strategic research management, R&D performance, clinical decision support, and professional education; including ScienceDirect, Scopus, SciVal, ClinicalKey and Sherpath. Elsevier publishes over 2,500 digitized journals, including The Lancet and Cell, more than 35,000 e-book titles and many iconic reference works, including Gray's Anatomy. Elsevier is part of RELX Group, a global provider of information and analytics for professionals and business customers across industries.
+
+ Elsevier employs over 7,000 people in more than 70 offices worldwide. We are an employer of choice, attracting and developing talented and creative people who thrive in a challenging and fast-paced environment. We offer an excellent compensation and benefits package as well as a real opportunity for career growth in a growing organization. Elsevier is an equal opportunity employer: qualified applicants are considered for and treated during employment without regard to race, color, creed, religion, sex, national origin, citizenship status, disability status, protected veteran status, age, marital status, sexual orientation, gender identity, genetic information, or any other characteristic protected by law. If a qualified individual with a disability or disabled veteran needs a reasonable accommodation to use or access our online system, that individual should please contact 1.877.734.1938 or accommodations@relx.com.

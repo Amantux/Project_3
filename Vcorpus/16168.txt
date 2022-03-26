@@ -1,0 +1,25 @@
+About Frontier:
+
+Frontier® Communications provides communications services to urban, suburban, and rural communities in 25 states. Frontier offers a variety of services to residential customers over its FiOS® and Vantage™ fiber-optic and copper networks, including video, high-speed internet, advanced voice, and Frontier Secure® digital protection solutions. Frontier Business™ offers communications solutions to small, medium, and enterprise businesses.
+Senior Data Scientist
+
+Responsibilities include:
+Successful candidate will be a key contributor to driving Frontier's predictive analytics capabilities and leveraging quantitative insights throughout the company. Senior Data Scientist will be responsible for a broad range of analytics driven insights including developing and enhancing customer segmentation for sales and marketing, churn forecasting and propensity modeling, marketing mix analysis, customer profitability and lifetime value analysis, propensity to bundle, and response modeling across B2B and B2C domains. Work with and analyze complex data from various sources. Manipulate large data sets and navigate a variety of servers, data types, and data structures to complete statistical and other analyses
+Develop and scale predictive and descriptive models using advanced statistical, optimization and big data techniques including: multivariate, regression, decision trees/classification and time series forecasting.
+Work with stakeholders to understand critical business issues and propose analytics-driven solutions to inform smarter decisions.
+Work with IT teams to increase the velocity of insights across the organization; e.g. by automating algorithmic scoring of accounts.
+Drive end to end analytical process: from formulation of requirements, data acquisition, identification of analytical methods, creation/validation of models to business-friendly summarization of results.
+Work in complex data environment comprising enterprise data warehouse, several additional databases and 3rd party data sources.
+Manipulate large data sets and navigate a variety of servers, data types, and data structures to complete statistical and other analyses.
+Use a suite of analytical tools including Python, SAS, & R to build, implement, and regularly monitor the effectiveness of predictive models.
+Work with a broad range of Frontier business constituents from the C-suite, corporate marketing and finance to regional/product managers.
+Required Skills/Requirements
+Requires at least a Master’s degree in Statistics, Math, Econometrics or related field and five years of experience as Data Scientist, Statistician, Analyst or related position.
+Experience must include the following experience and skills:
+5 years of experience with the following: working with a broad range of analytical methods including multivariate, time series, classification and machine learning; developing predictive and descriptive models using variety of statistical methods: multivariate analysis, generalized linear models, linear/logistic regression, Bayesian analysis, clustering or survival analysis; marketing/sales analytics or forecasting; statistical analysis tool like R, SAS or SPSS; performing data management, mining, and manipulation along with analytics
+3 years of experience with the following: data mining and machine learning methods such as classification and clustering (e.g., bootstrap aggregation, boosting, decision trees, Monte Carlo simulations); creating and deploying statistical/analytical models to drive strategy, segmentation and targeting; translating quantitative results into clear and concise presentations/reports using compelling data visualization techniques;
+2 years of experience with the following: time series forecasting of market or consumer trends using hierarchical ARIMA, exponential smoothing, moving average or ensemble models; marketing analytics: Marketing Mix Modeling, attrition/retention modeling, experimental design (A/B testing), sample size calculations tracking and analysis of marketing campaign; working with SQL and relational data models; working with and analyzing complex data from various sources, manipulate large data sets and navigate a variety of servers, data types, and data structures to complete analysis;
+1 year of experience with the following: price elasticity models, pricing strategies and price optimization efforts for promotions, product offers, and various marketing programs
+Desirable
+Familiarity with relational databases, such as Oracle, MS SQL and Server
+Knowledge of 3rd party demographic (Claritas) or firmographic (D&B) information sources

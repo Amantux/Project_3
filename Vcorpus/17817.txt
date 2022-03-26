@@ -1,0 +1,42 @@
+Job Description
+Our Mission
+
+With wasteful healthcare spending in the U.S. estimated at $935 billion, we take our role as a healthcare innovator very seriously. Simply put, Apervita is on a mission to change the face of healthcare. We intend to do this by continuously improving the value of healthcare delivery through performance, measurements and insights.
+Recognized as the trusted source for performance measurement through our proprietary cloud-based rules engine, we address the complexities of an industry transitioning to accountable-based care arrangements. Serving one of the nation’s largest regulatory organizations, more than 1-in-2 U.S. hospitals and several nationally recognized health plans, Apervita conducts more than 10 billion value-based computations annually, providing vital insights that enable collaboration, build trust and advance value-centric care.
+
+As we move into our next phase of growth, we’re looking for smart, passionate and fearless professionals to help us pursue our mission. We’ve earned the trust of our investors, including Optum Ventures, Baird Capital, Pritzker Group Venture Capital and Math Venture Partners, to further grow and scale our business in 2020. We’ve also been recognized as an industry leader by Gartner, CIOReview, Healthcare Tech Outlook, and Healthcare Informatics. Always in search of the next “first,” Apervita was recently named the first company to certify electronic clinical quality measures from the National Committee for Quality Assurance (NCQA) using our proprietary clinical quality language (CQL) ingestion engine. This is a huge step forward in healthcare quality innovation and an indication of where we’re headed. We’re clearly on the cusp of something big and bold and can’t wait to see what happens next.
+
+Are you up to the challenge?
+
+Data Engineer
+
+About the role
+The Data Engineer is responsible for deploying and managing ETL/ELT pipelines, jobs, orchestration frameworks, and ensuring data quality. The charter of the data engineering team is to optimize how our customers data turn into insights as fast as possible meeting customer SLA’s. The data engineer can expect to work closely with business analysts, data scientists, analytics experts and developers to build the ETL/RLT pipelines, and data models. The data engineer will also have the opportunity to inform the design, implementation, and best practices or this system including deployment of modern tools.
+
+Responsibilities
+Build cloud-based data warehousing environments, data processing pipelines, and data models that support a variety of business needs
+Support a variety of data processing pipelines, integrate new data sources into our data warehouse, and create jobs to load, transform, and QA vital datasets
+Work with analysts and developers in the product development process to ensure that newly designed data models meet analytics requirements and follow best practices
+Share your expertise on scalable data processing with analysts and data scientists to further our goal of being a truly data driven organization
+About you
+5+ years of experience as a data engineer using data warehousing technologies like, Amazon Redshift, RDS, S3, Athena, EMR, and Hadoop/Hive/Spark
+Proficient in SQL including one or more relational databases like MySQL, Oracle, Postgres, or similar
+5+ years experience with ETL and job scheduling or orchestration using tools like Airflow, Luigi, Oozie, or similar
+5+ years experience programming in python and familiarity with AWS and git
+Excellent communication skills and ability to work on a growing team
+Bonus points if you have
+Experience with web-scale data or working with healthcare data in a HIPAA-compliant environment
+Experience with Healthcare Payer data as well as Optum Impact Intelligence tool.
+Experience with data modeling, data visualization, and/or BI tools like Looker, Metabase, or Tableau
+Experience with AB Testing
+Benefits
+Stock Options
+PTO
+Unlimited sick and sanity days
+Commuter benefits
+Medical, Dental, Vision
+401K with matching
+Unlimited snacks in office
+Powered by JazzHR
+
+17RCjfuDup

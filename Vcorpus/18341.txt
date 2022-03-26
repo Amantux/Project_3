@@ -1,0 +1,65 @@
+Data Engineer, Ad Technology
+
+Data Engineer, Ad Tech
+Level
+Experienced
+Job Location
+Philadelphia - Philadelphia, PA
+Position Type
+Full Time
+Job Category
+Information Technology
+Job Title: Data Engineer, Ad Technology
+
+Location: Philadelphia, PA
+
+Overview:
+
+As the newest member of our small-but-mighty and growing data & analytics team, you will play a key role in expanding and improving our audience measurement, tracking and retargeting platform within our cloud microservices data ecosystem. You will champion infrastructure-as-code and test driven development, building out the workings of modern data transformation & data science pipelines. Your experience working with a variety of data technologies - from traditional columnar data warehouse modeling to distributed computing - will be critical in our mission to improve user experiences through data. Your Python chops are impressive, your SQL skills even more so. You prefer a bash terminal to a spreadsheet and cannot fathom life without source control. You take pride in your uncanny ability to productionize anything, be it a Python script, a Jupyter Notebook or a SQL model. You live for those two little words: “ship it”.
+
+What’s Special About this Role:
+
+Spend your time writing software and solving business problems, not sitting in endless meetings. Work to improve products that make real people’s lives better. Use the best tools out there, and sometimes write even better ones. Engage with a team that wants to do big things fast, and values a healthy work-life balance while doing them.
+
+What You Do:
+Build and automate infrastructure using deployable code
+Optimize our data warehouse and analytics platforms to run reliably and economically
+Make our transformations faster/more accurate/more reliable every single day
+Construct new data source ingestions and integrate them into our data warehouse
+Contribute to and help maintain our Open Source Software projects
+What You Bring:
+Develop in Java/Python engineering critical, large scale distributed services
+Experience with Kafka, Spark, Hadoop
+Knack for going beyond the obvious; digging up root causes and determining what really matters in making our business successful
+Experience in the AdTech / advertising / online identity space. Prior experience with integrations with the adtech ecosystem including DMPs, third party measurement firms like ComScore, Crossix, Experian.
+Prior experience creating and working with device and user identity graphs
+Nice to Haves:
+Experience with display ads: Facebook Ads, DFP/DFA
+Experience with marketing/remarketing, etc.
+Under the hood (our data tech stack):
+AWS microservices suite
+Snowflake
+Alooma
+Fivetran
+DBT
+Airflow
+SnowShu
+HEALTH UNION REALLY IS THE BEST PLACE TO WORK
+
+Health Union is a dynamic company that’s growing at a fast pace. To us, the most important part of managing fast growth is maintaining our culture. But don’t just take our word for it: Philly.com, Philadelphia Business Journal, and MM&M have all named Health Union a “best place to work”--and we take pride in living up to that hype every day. At Health Union:
+We cultivate a fun, family-friendly work environment that values inclusion, community, excellence, and transparency.
+We work hard, play hard and in the process, form close-knit relationships that breed an authentic, respectful culture of teaching and learning.
+All team members - from executives to managers to people in entry-level positions - sit together in an open office and enjoy a fully integrated, collaborative and supportive work environment.
+All team members enjoy free personal training classes, a full supply of La Colombe coffee, frequent on-site social events, Summer Fridays, and regular complimentary family-style lunches.
+Full-time team members are immediately eligible for comprehensive health benefits, FSA for transit, parking, and dependent care, as well as PTO, paid parental leave, and paid holidays.
+Health Union is the only digital health company that continuously works to bring people together by evolving social interactions into meaningful health conversations through a growing portfolio of online health communities. Every day, Health Union encourages engagement that helps millions of people with chronic conditions find the information, connection and validation they seek. Learn more at www.health-union.com.
+
+EEO Statement: We are an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, disability status, age, protected veteran status or any other characteristic protected by law.
+
+To comply with federal law, Health Union participates in E-Verify. Successful candidates must pass the E-Verify process after hire.
+
+Applicants must be legally eligible to work in the U.S for any employer.
+
+This is a full-time position, located at Health Union offices in Philadelphia (Center City). Relocation assistance is not available for this position.
+
+*Candidates only. No direct calls or emails. No recruiters/agencies, please.

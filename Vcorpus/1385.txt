@@ -1,0 +1,127 @@
+At American Family Insurance, we’re driven by our customers and employees. That’s why we provide more than just a job – we provide opportunity. Whether you’re already part of our team in search of a new challenge or new to our company and ready for what’s next, you’re in the right place. Every dream is a journey that starts with a single step. Start your journey right here. Join our team. Bring your dreams.
+
+Job ID:
+R15759 Senior Data Engineer (Open)
+Summary:
+Job Family Summary
+
+Determines and builds the technical solution(s) to allow unstructured data to be structured and used by Data Scientists. Seeks to understand the data being worked with as its often unstructured data sets. Often are data gurus who prepare data for all stages of the modeling process including exploration, training, testing, and deployment.
+
+Job Summary Wording
+
+As a Data Engineer III, you’ll work on collecting, storing, processing and building Business Intelligence and Analytics applications within our big data platform. Presently, our team is constructing an enterprise data lake to enable analysts and scientists to self-service data at scale across American Family’s operating companies. We’re leveraging open source technologies like Spark, Python, Hadoop, and cloud native tools to curate high-quality data sets. You’ll also be responsible for integrating these applications with the architecture used across the organization. Adjacent responsibilities include establishing best practices with respect to data integration, data visualization, schema design, performance and reliability of data processing systems, supporting data quality, and enabling convenient access to data for our scientists and business users.
+
+Job Description:
+
+
+Job Level Summary
+Requires specialized depth and/or breadth of expertise in own job discipline or field
+Leads others to solve complex problems
+Works independently, with guidance in only the most complex situations
+May lead functional teams or projects
+Primary Accountabilities
+Perform exploratory data analysis to determine which questions can be answered effectively with a given dataset. Ability to analyze new (possibly unstructured) data sources to determine what additional value they may bring and how to effectively make use of them.
+Design and develop highly scalable and extensible data pipelines from internal and external sources.
+Work on cross-functional teams to design, develop, and deploy data-driven applications and products, particularly within the space of data science.
+Lead in prototyping emerging technologies involving data ingestion and transformation, distributed file systems, databases and frameworks.
+Work with our data science team on applying improvements to their machine learning algorithms and platforms.
+Design, build, and maintain tools to increase the productivity of application development and client facing teams.
+Partner with business analyst to define, develop, and automate data quality checks.
+Review developed solutions to solve specific business problems. Optimize queries, data models, and storage formats to support common usage patterns.
+Design and develop big data applications and data visualization tools.
+Code structure moves beyond procedural ad-hoc workflows and exhibits modularity and comprehensive test cases. Develops code at a high-level of abstraction – writes, maintains, and reuses utilities/libraries across projects.
+Influences strategy related to processes and workflows across their division.
+Participates in mentoring junior colleagues.
+Specialized Knowledge & Skills Requirements
+Demonstrated experience providing customer-driven solutions, support or service.
+In-depth knowledge of SQL or NoSQL and experience using a variety of data stores (e.g. RDBMS, analytic database, scalable document stores)
+Extensive hands-on Python programming experience, with an emphasis towards building ETL workflows and data-driven solutions. Able to employ design patterns and generalize code to address common use cases. Capable of authoring robust, high quality, reusable code and contributing to the division’s inventory of libraries.
+Expertise in big data batch computing tools (e.g. Hadoop or Spark), with demonstrated experience developing distributed data processing solutions.
+Applied knowledge of cloud computing (AWS, GCP, Azure).
+Knowledge of open source machine learning toolkits, such as sklearn, SparkML, or H2O.
+Solid data understanding and business acumen in the data rich industries like insurance or financial
+Applied knowledge of data modeling principles (e.g. dimensional modeling and star schemas).
+Strong understanding of database internals, such as indexes, binary logging, and transactions.
+Experience using tools for infrastructure-as-code (e.g. Docker, CloudFormation, Terraform, etc.)
+Experience with software engineering tools and workflows (i.e. Jenkins, CI/CD, git).
+Practical experience authoring and consuming web services.
+Education and Licenses
+Bachelor’s degree in computer science or related field, or equivalent combination of education and experience.
+Travel Requirements
+This position requires travel up to 10% of the time.
+Additional Job Information:
+Top candidates will have 5-10 years of post-academic data engineering experience. This is not a Business Intelligence role nor an ETL Developer.Depending on qualifications, candidates may be hired at a different levels.We are seeking candidates with demonstrated experience using Python and SQL--a coding challenge will be incorporate into the selection process.Knowledge and experience of cloud platforms a plus, specifically AWS.Candidates experience with Python, AWS, and/or Hadoop preferred.
+
+Offer to selected candidate will be made contingent on the results of applicable background checks.
+
+Offer to selected candidate is contingent on signing a non-disclosure agreement for proprietary information, trade secrets, and inventions.
+
+Relocation assistance is available.
+
+Stay connected: Join our Talent Community!
+
+LI:DB1
+
+At American Family Insurance, we’re driven by our customers and employees. That’s why we provide more than just a job – we provide opportunity. Whether you’re already part of our team in search of a new challenge or new to our company and ready for what’s next, you’re in the right place. Every dream is a journey that starts with a single step. Start your journey right here. Join our team. Bring your dreams.
+
+Job ID:
+R15759 Senior Data Engineer (Open)
+Summary:
+Job Family Summary
+
+Determines and builds the technical solution(s) to allow unstructured data to be structured and used by Data Scientists. Seeks to understand the data being worked with as its often unstructured data sets. Often are data gurus who prepare data for all stages of the modeling process including exploration, training, testing, and deployment.
+
+Job Summary Wording
+
+As a Data Engineer III, you’ll work on collecting, storing, processing and building Business Intelligence and Analytics applications within our big data platform. Presently, our team is constructing an enterprise data lake to enable analysts and scientists to self-service data at scale across American Family’s operating companies. We’re leveraging open source technologies like Spark, Python, Hadoop, and cloud native tools to curate high-quality data sets. You’ll also be responsible for integrating these applications with the architecture used across the organization. Adjacent responsibilities include establishing best practices with respect to data integration, data visualization, schema design, performance and reliability of data processing systems, supporting data quality, and enabling convenient access to data for our scientists and business users.
+
+Job Description:
+
+
+Job Level Summary
+Requires specialized depth and/or breadth of expertise in own job discipline or field
+Leads others to solve complex problems
+Works independently, with guidance in only the most complex situations
+May lead functional teams or projects
+Primary Accountabilities
+Perform exploratory data analysis to determine which questions can be answered effectively with a given dataset. Ability to analyze new (possibly unstructured) data sources to determine what additional value they may bring and how to effectively make use of them.
+Design and develop highly scalable and extensible data pipelines from internal and external sources.
+Work on cross-functional teams to design, develop, and deploy data-driven applications and products, particularly within the space of data science.
+Lead in prototyping emerging technologies involving data ingestion and transformation, distributed file systems, databases and frameworks.
+Work with our data science team on applying improvements to their machine learning algorithms and platforms.
+Design, build, and maintain tools to increase the productivity of application development and client facing teams.
+Partner with business analyst to define, develop, and automate data quality checks.
+Review developed solutions to solve specific business problems. Optimize queries, data models, and storage formats to support common usage patterns.
+Design and develop big data applications and data visualization tools.
+Code structure moves beyond procedural ad-hoc workflows and exhibits modularity and comprehensive test cases. Develops code at a high-level of abstraction – writes, maintains, and reuses utilities/libraries across projects.
+Influences strategy related to processes and workflows across their division.
+Participates in mentoring junior colleagues.
+Specialized Knowledge & Skills Requirements
+Demonstrated experience providing customer-driven solutions, support or service.
+In-depth knowledge of SQL or NoSQL and experience using a variety of data stores (e.g. RDBMS, analytic database, scalable document stores)
+Extensive hands-on Python programming experience, with an emphasis towards building ETL workflows and data-driven solutions. Able to employ design patterns and generalize code to address common use cases. Capable of authoring robust, high quality, reusable code and contributing to the division’s inventory of libraries.
+Expertise in big data batch computing tools (e.g. Hadoop or Spark), with demonstrated experience developing distributed data processing solutions.
+Applied knowledge of cloud computing (AWS, GCP, Azure).
+Knowledge of open source machine learning toolkits, such as sklearn, SparkML, or H2O.
+Solid data understanding and business acumen in the data rich industries like insurance or financial
+Applied knowledge of data modeling principles (e.g. dimensional modeling and star schemas).
+Strong understanding of database internals, such as indexes, binary logging, and transactions.
+Experience using tools for infrastructure-as-code (e.g. Docker, CloudFormation, Terraform, etc.)
+Experience with software engineering tools and workflows (i.e. Jenkins, CI/CD, git).
+Practical experience authoring and consuming web services.
+Education and Licenses
+Bachelor’s degree in computer science or related field, or equivalent combination of education and experience.
+Travel Requirements
+This position requires travel up to 10% of the time.
+Additional Job Information:
+Top candidates will have 5-10 years of post-academic data engineering experience. This is not a Business Intelligence role nor an ETL Developer.Depending on qualifications, candidates may be hired at a different levels.We are seeking candidates with demonstrated experience using Python and SQL--a coding challenge will be incorporate into the selection process.Knowledge and experience of cloud platforms a plus, specifically AWS.Candidates experience with Python, AWS, and/or Hadoop preferred.
+
+Offer to selected candidate will be made contingent on the results of applicable background checks.
+
+Offer to selected candidate is contingent on signing a non-disclosure agreement for proprietary information, trade secrets, and inventions.
+
+Relocation assistance is available.
+
+Stay connected: Join our Talent Community!
+
+LI:DB1

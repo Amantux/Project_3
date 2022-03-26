@@ -1,0 +1,54 @@
+Position Title: Senior Data Analyst / Data Warehouse Consultant
+Note: Work Order will be awarded on an individual basis, based on the specific needs described herein.
+Contract Term: 6 months with possibility of extension
+Requesting Department: TSS
+Schedule: Full-Time On-site All work hours will be at billed at the same base rate regardless of the number of hours worked per billing period.
+
+Typical Tasks:
+" Collaborates with vendors, administrators and owners of third-party databases to establish data mapping plans and methods, enabling the sharing of data;
+" Develops computer testing and audit policies and assists end users in implementing auditing controls to ensure that defined, mission-critical interfaces are passing data accurately;
+" Provides integration and interface design (data mapping, translation and transformation specifications) and architectural services for new and existing projects;
+" Analyzes requirements from a technical standpoint and translates them into potential integration points, thereby defining the interface topology for the project;
+" Coordinates and maintains electronic interface security;
+" Develops data mapping, translation and transformation routines and methods utilizing interface engine toolset and standard query and database tools;
+" Evaluates and tests emerging integration technologies
+" Analyzes requirements and helps define integration and interface specifications;
+" Builds, configures and maintains interfaces;
+" Conducts testing of all mapping, translation and transformation routines prior to moving interfaces into production;
+" Maintains technical artifacts, interface documentation, and topology diagrams;
+" Performs analysis and troubleshooting of integration related issues;
+" Maintains a library of all required standard vocabularies and nomenclatures used in normalizing inbound and outbound data feeds;
+" Maintains test and production libraries of interfaces and applies appropriate methods, procedures and safeguards to protect the integrity of the interfaces and to ensure their recoverability;
+" Performs other related duties as required.
+Training and Experience: Sufficient education, training, and experience to demonstrate the possession and direct application of the following knowledge and abilities.
+" 6 years of experience with systems integration and building interfaces
+" Minimum of 3 years developing Service Development in Software AG webMethods required
+" Familiarity working with an AGILE task management
+" Technical writing experience a plus
+" Strong analytical and quantitative skills
+" Self-Motivated and can effectively multi-task
+" Experience performance tuning, supporting, and troubleshooting software AG webMethods is plus
+
+Possession of a Bachelor's degree from an accredited college in Computer Science, Information Technology, Mathematics, Engineering, or a related field
+
+Knowledge of:
+" Industry-specific systems, data manipulation and data transport mechanisms, standards, and protocols;
+" Interface standards and protocols, including but not limited to HTML, ASCII;
+" Inbound and outbound data integration involving XML, XSLT, JSON and other structured data being transmitted via FTP, API or web services;
+" Electronic interface security;
+" Data mapping, translation and transformation routines and methods;
+" Interface engines and building interfaces on interface engines;
+" Interface engines and platforms (i.e. Software AG WebMethods, NextGen Mirth, Corepoint, Orion, Infor, etc.)
+" Requirements that define interface specifications;
+" Building, configuring and maintaining interfaces;
+" Interface testing;
+" Technical artifacts, interface documentation, and topology diagrams;
+" Analysis and troubleshooting of integration related issues;
+" Methods, procedures and safeguards to protect the integrity of the interfaces and to ensure their recoverability.
+" Quality of product and service
+" Timeliness of performance
+" Depth of knowledge
+" Interpersonal and communication skills
+" Project management skills
+" Experience, qualifications, and ability to meet the needs of this engagement
+On-Site Requirements: On-call help may be required.

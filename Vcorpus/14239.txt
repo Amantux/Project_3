@@ -1,0 +1,30 @@
+Pluto TV is the leading free streaming television service in America, delivering 100+ live and original channels and thousands of on-demand movies in partnership with major TV networks, movie studios, publishers, and digital media companies. Pluto TV is available on all mobile, web and connected TV streaming devices and millions of viewers tune in each month to watch premium news, TV shows, movies, sports, lifestyle, and trending digital series. Headquartered in Los Angeles, Pluto TV has offices in New York, Silicon Valley, Chicago and Berlin. Pluto is a subsidiary of ViacomCBS (NASDAQ: VIAB, VIA), a global content company with premier television, film and digital entertainment brands.
+We are seeking a Data Scientist who will support our customer, product, sales, leadership and marketing teams with insights gained from analyzing streaming media data. The ideal candidate is adept at using big data to answer questions for product and process optimization, and using models to test the effectiveness of different courses of action. The right person for this job will have used a plethora of data mining/data analysis methods and tools, building and implementing models, using/crafting algorithms and creating/running simulations in a professional environment. They must have a validated ability to deliver business results with their data-based insights. They must be comfortable working with a wide range of partners and functional teams. The right candidate will have a passion for discovering solutions hidden in data and working with partners to improve business outcomes.
+This is a critical role with a wide range of responsibilities, including:
+Collaborate with the Business Intelligence team to find opportunities which can use company data to drive business solutions
+Mine and analyze data from databases and data lake sources to drive optimization and improvement of product development, marketing techniques and business strategies
+Develop custom data models and algorithms to apply to data sets
+Assess the efficiency and accuracy of new data sources and data gathering techniques
+Use predictive modeling to increase and optimize customer experiences, generate revenue, improve ad targeting and other business outcomes
+Coordinate with different functional teams to implement models and monitor outcomes
+Develop processes and tools to monitor and analyze model performance
+
+We believe the right individual will have the following skills and experience in order to be successful in this role:
+Strong problem-solving skills with an emphasis on media content, customer and product development
+Professional experience using statistical computer languages to manipulate data and draw insights from large data sets
+Experience working with and creating data frames and other data architectures
+Experience with a data mining methodology (CRISP-DM, etc.)
+Knowledge of a variety of machine learning techniques and their real-world advantages/drawbacks
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications
+Excellent written and verbal communication skills for coordinating across teams.
+A drive to learn and master new technologies and techniques
+
+Technical Requirements:
+We’re looking for someone with 3-5 years of professional experience manipulating data sets and building statistical and ML models, has a Master’s or PHD in Statistics, Mathematics, Computer Science or another quantitative field, and is familiar with the following skills:
+Coding in several languages: SQL, Python, R, Java, Scala, C (C++), JavaScript, etc.
+Knowledge and experience in statistical and data mining techniques: Classification, Association, Clustering, Outliner Detection, GLM/Regression, Random Forest, Boosting, Trees, etc.
+Experience using cloud-based systems: Snowflake, Redshift, S3, Spark, Databricks, etc.
+Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+Experience analyzing data from 3rd party providers: Freewheel, Google Analytics, Site Catalyst, etc. a plus
+Experience with distributed data/computing tools: Map/Reduce, Apache Hadoop, Hive, Apache Spark, Apache Kafka, Map/Reduce, etc.
+Experience visualizing/presenting data for partners and internal teams using: Tableau, D3, ggplot, etc.

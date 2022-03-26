@@ -1,0 +1,19 @@
+Bowery is growing food for a better future by revolutionizing agriculture. Our modern farming company combines the benefits of the best local farms with advances made possible by technology to grow produce you can feel good about eating. BoweryOS, our proprietary software system, uses vision systems, automation technology, and machine learning to monitor plants and all the variables that drive their growth 24/7. Because we control the entire process from seed to store, Bowery farms use zero pesticides, 95% less water, and are 100+ times more productive on the same footprint of land than traditional agriculture. Bowery produce is currently available at select Whole Foods and Foragers stores in the Tristate area, and featured on the menus of Tom Colicchio’s New York restaurants Craft and Temple Court. Based in New York City, the company has raised over $170 million from leading investors including GV, General Catalyst, GGV Capital, First Round Capital, Temasek and Almanac.
+
+About the Role:
+Data Science at Bowery means building production-facing data products which automate the agricultural and operational functions in our network of indoor vertical farms. The Data & AI function at Bowery is central to the vision of the company as well as its day to day operation. You’ll work with our team of data scientists and analysts as well as agricultural scientists and agronomists who bring the domain expertise to our data-driven solutions.
+What You'll Do:
+You’ll create innovative quantitative solutions and advance the state of indoor farming alongside mechanical engineers, agricultural scientists, and the farm operations team.
+You’ll analyze historical data related to crop growth and environmental characteristics to forecast yields for future harvests and uncover insights about ways conditions can be optimized.
+You’ll use the key drivers of Bowery's business and agricultural science to design experimental frameworks to ensure data integrity and empower us to more easily analyze and act upon data from new trials.
+You’ll optimize work and production schedules to achieve the highest utilization of time and space in the farm.
+You’ll help shape the way our data science team does work - researching and making key decisions about what we build, how we build it, and which tools are best for solving our problems.
+You’ll work alongside software engineers to implement data processing and visualization systems that make data readily available and simplify how insights are communicated.
+What You'll Have:
+You have a strong mathematical background in probability, statistics, and optimization algorithms.
+You are fluent in a scripting language such as Python or R for analysis and modeling.
+You are proficient with query languages (SQL/Postgres) and maybe even dream in SQL
+You have a deep understanding of and have applied various machine learning techniques for solving real-world problems, and can provide technical leadership in the team.
+You must be able to translate business, operations, and agricultural questions into data science problems, solve those problems, and interpret the output back into clear outcomes.
+You are confident in taking ownership of projects from start to finish and enjoy the process of turning nebulous ideas into reality.
+We celebrate unique backgrounds, qualities, and cultures that will enrich the workplace. Join us in creating an inclusive work environment that is free of bias and discrimination, where everyone can be their authentic self. We strongly encourage people from all walks of life and underrepresented backgrounds to apply and join the Bowery Farming team. We are an equal opportunity employer.

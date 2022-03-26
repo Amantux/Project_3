@@ -1,0 +1,21 @@
+Mine and analyze data from company databases to drive optimization and improvement of product development, marketing techniques and business strategies.
+
+Analyze real-time events to quickly identify anomalies (break-in events, hardware failure, battery levels, etc.).
+Assist software development team with data model design
+Work with stakeholders (co-workers and customers) to identify opportunities to create better customer experiences using data
+Clean, transform and shape datasets from disparate sources
+Become an expert of data architecture (including sourcing data and managing the flow)
+Create a sustainable long-term data retention strategy
+Contribute to team effort by accomplishing related results as needed.
+
+Bachelor’s or master’s degree in math, statistics, economics, computer science or related field, or equivalent experience.
+3+ years of relevant work experience.
+Familiarity with key data engineering concepts.
+Ability to wrangle and normalize data from Postgres and MySQL.
+Ability to synthesize, visualize and communicate ideas.
+Willingness to roll up your sleeves and decipher disparate data models written by various individuals/teams.
+Experience with time-series database and data visualization tool (PowerBI, GDS or Tableau) preferred.
+Basic understanding of common data science toolkits such as Pandas, NumPy, scikitlearn, etc. preferred.
+PHYSICAL DEMANDS:
+Regularly required to sit, stand, and walk.
+Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of the position.

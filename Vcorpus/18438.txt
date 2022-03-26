@@ -1,0 +1,56 @@
+About the Position:
+
+Juniper Networks has an immediate opening for a collaborative, highly effective, and self-motivated individual to support the Sales Engineering in Service Provider segment. Sales Engineers (SE’s) are a critical component of the Juniper GTM Team and have a primary responsibility to partner with the sales organization on driving technical sales activities for both new and existing opportunities. SE’s possess in-depth, hands-on expertise with Juniper's products, solutions, and services as well as those of our competitors and can demonstrate the same to our customers and business partners.
+
+The specific role is for Senior Consulting Engineer for Cable MSOs on America’s Service Provider architecture team and will be looked upon as an inspiring leader and a multi-domain specialist within the areas of distributed access architecture, SDN, Routing, Switching and Security solutions. The successful candidate will operate in an architect capacity for the sales engineering organization and will be responsible for the overall architecture and solutions being positioned to all the Cable MSOs in North America. The candidate will work closely with Juniper Product, Engineering, and strategy teams to make sure Juniper’s product roadmap is aligned to industry trends and customer’s evolving needs in emerging technologies. The candidate will also work closely with other SE architects in Americas and Global SP space and identify repeatable opportunities.
+
+Location: Philadelphia, PA or New Jersey area
+
+Minimum Qualifications:
+
+A successful candidate will meet all of these requirements:
+
+1. Experience working in a pre-sales role selling networking equipment OR end-user experience in design/architecture/vendor selection
+Ability to communicate, both oral and written, on complex technical and sales issues to a variety of audiences, including executive-level technical decision-makers
+Ability to make and communicate relevant connections between proposed technical solutions and customers' business requirements.
+Strong understanding and knowledge of how to build successful relationships between an equipment manufacturer and a channel partner or reseller
+2. 15+ years relevant proven experience in mobility, wireline, and SDN domains. Candidate should have experience in multiple of the following technical domains
+Expertise in Distributed Access Architecture, Converged Interconnect Network, DOCSIS evolution
+Virtualization technologies on x86 and scaling using technologies such DPDK, SR-IOV, SmartNICs etc.
+Containers and Container related technologies such as Docker, Kubernetes and Container networking (Flannel, Calico, Canal, Weave etc.)
+Expert level and hands-on knowledge of SDN environments including Overlay protocols such as MP-BGP, EVPN and tunneling technologies such as VXLAN, MPLSoGRE, MPLSoUDP
+Data Center networking with deep understanding of large underlay Leaf and Spine based CLOS networks.
+Routing expertise in access, metro and core back-bone design, including hands-on knowledge on BGP, IGP, Multicast and MPLS technologies (SR, LDP, RSVP-TE etc.)
+Design and operate large scale MPLS enabled services such as Multicast-VPN, L3VPN, L2VPN, EVPN.
+Up to date knowledge on emerging protocols and technologies shaping up in standard bodies (SRv6, SRm6 Network slicing architecture etc.)
+Expert level and hands-on knowledge of software-hardware disaggregation and industry initiatives such as SONiC, SAI, P4 etc.
+Experience in designing managed services solutions to the enterprise including SD-WAN, AI based operations, WiFI solutions, Campus/branch routing and switching solutions etc.
+Experience in network automation including solutions for work flow automation, service provisioning, telemetry and close-loop automation solutions
+Experience in crafting high-performance security solutions for network infrastructure, cloud and mobility. Should have crafted sophisticated firewalls, private/public cloud virtual firewalls, threat prevention and aggregation, policy enforcements, SIEM solutions for service provider customers.
+3. In-depth understanding of product features, use cases, positioning, and configuration in many of the following products or product categories:
+Juniper Contrail Cloud, Contrail Edge Cloud, Contrail Enterprise Multicloud, Contrail Networking, Contrail Security
+Contrail Service Orchestration, Contrail Healthbot
+Data center automation: Contrail Fabric Manager, Cloudvision, ACI etc.
+Opensource activities like ONOS, ODL, ONAP etc.
+Linux operating system knowledge including KVM
+SDN overlay technologies including Nuage, or NSX
+Network Monitoring on Junos, Netconf/Rest APIs, YANG
+OSS/BSS/IT integration
+DevOPs capabilities, SLAX/Junos Automation, Perl,Ansible, Puppet, Chef, Cobbler
+Juniper QFX/EX switches, Cisco Nexus switches, or Arista switches
+Juniper MX Series routers, PTX Series Routers, Cisco ASR9000, CRS
+Juniper ACX Series routers for metro
+Juniper SRX series products, ATP, SecIntel, Contrail Security etc.
+Public cloud platform and services (AWS, Azure, GCP)
+Open Networking switch hardware (white box) and related software (Cumulus, BigSwitch, Pica8)
+Knowledge of merchant silicon technologies (Trident, Tomahawk, Jericho, etc.)
+4. JNCIE, CCIE, RHCE, CKA/CKD or other expert-level industry certification is desired
+
+5. Formal or informal technical sales leadership or mentoring is desired
+
+Other Information:
+
+Travel requirements for the position - 50%. This position will travel based on customer demand for sales activities
+
+Juniper Networks is enrolled in E-Verify® and will be participating in E-Verify in addition to our Form I-9 process. www.dhs.gov/E-Verify
+Juniper Networks is an Equal Opportunity/Affirmative Action Employer.

@@ -1,0 +1,39 @@
+At Finite State, our mission is to protect the devices that power our modern lives by illuminating the vulnerabilities and threats within their complex software supply chains. We do this by leveraging massive data analysis to provide transparency to device manufacturers and their customers - enabling them to understand and mitigate their risks before they are compromised. We are seeking a Data Engineer with special interest in firmware analysis. If you are a self-starter who enjoys working in a fast-paced, collaborative environment, then we want to talk to you!
+
+Primary responsibilities for this position include:
+● Manage the ingestion, flow, and processing of firmware and network data through our analytics pipeline.
+● Collecting data from third party API’s and other data sources.
+● Developing new data models to support a wide variety of data types and use cases.
+● Developing customer facing and internal REST and GraphQL API interfaces to the full data set.
+● Solving challenging big data management problems.
+
+Candidates at a minimum must have significant experience with the following:
+● Experience with large scale, complex, and fast moving data sets
+● Experience with Stream based data pipelines preferably leveraging Kafka
+● AWS Cloud Batch, Lambda, Glue, ECS
+● NoSQL and SQL database technologies
+● Django Development
+● Python Development
+● Source control (Github)
+
+It’s preferred (but not required) that candidate have familiarity and experience with:
+● Kubernetes and Docker orchestration
+● Apache Calcite
+● PostgreSQL
+● Pilosa and Molecula
+● CI/CD tooling
+● Python Alembic
+● Python Graphene and GraphQL
+● PySpark
+● ElasticSearch
+● Enterprise SaaS Development
+● Apache Airflow
+
+About Finite State
+Built on two decades of cybersecurity experience serving the Fortune 50 and the U.S. Intelligence Community, our team of experts understands the hidden risks in today’s enterprise networks, where IoT vulnerabilities are quickly becoming the entry point of choice for cyber attacks.
+
+Finite State gives cyber defenders a tactical advantage by identifying the devices running on the network and proactively analyzing firmware buried inside the IoT devices for hidden vulnerabilities. We have a sense of duty to protect the critical infrastructure we rely on including medical devices, power grids and telecommunication networks. We were founded in 2017 in Columbus, Ohio.
+
+At Finite State, we are dedicated to hiring a diverse workforce and are proud to be an equal opportunity employer. We offer competitive salary, equity, full benefits (medical, dental, vision, disability and life-insurance), 401k plan and unlimited PTO, because we believe it is important to unplug and recharge.
+
+Come help us solve one of the biggest problems in cyber security!

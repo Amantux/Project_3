@@ -1,0 +1,43 @@
+This job is responsible for producing various ad-hoc and recurring reports from the SAP billing system or data warehouse equivalent (e.g. IRW) for Executive/management, Customer Operations, Account Management (i.e. customer requests), Marketing, ARM and Finance.
+In addition, this job is responsible for creating support tools to assist with daily business operations. The purpose of the team is to achieve an increase in the effectiveness of the Reporting data being utilized across the organization by eliminating redundant data and consolidating reports where appropriate and reducing work required to push data to users by automating as many recurring reports as possible.
+Essential Duties/Responsibilities:
+• Developing reports using Microsoft SQL Server Reporting Services (SSRS) and supporting other analysts who use SQL Server Data Tools
+• Knowledge of development and running reports in PC SAS and Unix SAS environments desired.
+• Knowledge of automation tools like worksoft ,winrunner would be an additional asset.
+• Participate in development and implementation of appropriate methods for monitoring, analyzing, and preparing data for management reports and statistics.
+• Helping to gather and/or clarify data and reporting requirements from business owners
+• Developing and maintaining database stored procedures
+• Assimilate information from various environments and develop queries or reporting solutions to fulfill business needs. Recognize data anomalies to analyze and troubleshoot to determine cause.
+• Utilize thorough knowledge of table structure and reporting environments to gather data to report metrics. Generate effective reports and manipulate data in reports to provide key metrics to business operations.
+• Demonstrate proficiency in SAP and external systems to diagnose and correct failures and errors from a reporting perspective.
+• Participate in developing and implementation of new processes and tools to streamline workflow.
+• Provide innovative solutions. Document and communicate technical data requirements for development of system queries and reports to support ongoing root cause analysis.
+• Prepares documentation on business and functional processes in support of reporting activities.
+• Interact and consult with other areas/departments regarding Reporting issues and activities.
+
+Additional Knowledge, Skills and Abilities:
+• Ability to import, export, and manipulate data files between various IT applications and databases (e.g. Oracle, SAP, BW) is preferred
+• Ability to develop recommendations/action plans and manage multiple projects simultaneously.
+• Must be detail oriented. Clearly communicates complex technical concepts both in a written and oral manner.
+• Excellent problem- solving skills and ability to use good judgment to make recommendations and decisions.
+• Ability to prioritize both routine and unpredictable work activities and identify exceptions and recommend solutions.
+• Ability to import, export, and manipulate data files between various IT applications and databases (e.g., Oracle, SAP, BW) is preferred.
+• Excellent personal computer skills within a Windows environment demonstrating advanced working knowledge of Microsoft Office applications. (Word, Excel, Access)
+• Knowledge of SAP (SAP and BW) is desired.Knowledge of statistical analysis (including time-series, sampling, probability, regression, linear programming and forecasting) is desired.
+• Ability to use fundamental math daily (add, subtract, multiply, divide, and calculate percentages).
+• Ability to conceptualize, negotiate and communicate innovative concepts or ideas to work groups or management level representatives.
+• Ability to meet deadlines. Must be dependable and available.
+• Ability to develop and make formal presentations to internal and external groups.
+• Interact and consult with other areas/departments regarding Reporting issues and activities.
+
+Education: Bachelor’s degree or equivalent education and/or work experience.
+Experience:
+• At least 2 years’ experience in: Microsoft SQL Server (which uses the T-SQL ANSI/SQL development standards), SSRS (SQL Server Report Services), SSIS/DTS package development, Visual Studio, VisualBasic.net. Microsoft SSAS, cube development, and .NET experience is a plus.
+• 2+ years’ experience in data mining, querying / accessing large data sets and developing key business reports and metrics.
+• Experience writing stored procedures, T-SQL, functions, and SQL queries.Experience utilizing report writing best practices (optimization, use of joins and sub-queries)
+• Experience with manual testing to include User Acceptance Testing (UAT)
+• Experience pulling data from Microsoft SQL Server 2005/2008 R2/2012/2014, Oracle, SAP, text files, excel files, MS Access databases for reports
+• Experience with cubes and drill down/drill through reports
+• Experience with SQL Server Data Tools (SSDT) SSRS/SSIS/SSAS, Visual Studio, and/or other (non-Microsoft) reporting platforms
+• A minimum of 1-4 years’ experience in billing, enrollments, and/or work within SAP is required.
+• Proficient with Microsoft Office Suite (Excel, Word, Power Point).

@@ -1,0 +1,55 @@
+Location: San Francisco, US
+
+YOU
+
+A data science professional with wide-ranging experience in the analysis of clinical phenotypes and biomarkers. You bring statistical rigor to the table in your ability to work with diverse patient populations and outcomes. A skilled modeler with deep knowledge of machine learning environments and data normalization. You are motivated to find the best estimate of truth in complex datasets, and to yield your powers in the service of patient-centric products. If this is you, read on.
+
+US
+
+We are not married to specific tools, technologies or shiny objects. We ask questions until we arrive at the best answer for the patient. We believe glycoproteomics is a new language of biology that we are translating for the benefit of patients, researchers, science, and medicine. We have diverse backgrounds and experiences, are happy challenging the status quo, and always remain solution oriented. If this sounds like a good fit, read on.
+
+THE DETAILS
+
+We are seeking a sharp, experienced individual to join as a Clinical Data Scientist. The optimal candidate would have the requisite programming and statistical knowledge to turn patient data into clinically-useful diagnostics. The ability to work with real world data, harmonizing signals across disparate experiments, is essential. Candidate will work closely with the Clinical Sciences team in a variety of projects, carrying out statistical analysis and developing classification algorithms to be employed in hospitals around the world. For this employee, data science is not an abstract exercise – the fruits of their labor will directly affect patient lives.
+
+RESPONSIBILITIES
+
+Develop, validate, and expand patient classifiers currently under development
+
+Assess batch normalization efforts in a new layer of -omics
+
+Serve the needs of the Clinical Sciences team in addressing population heterogeneity and patient stratification
+
+Program in R and share data pipelines for general use in clinical implementation
+
+Ensure quality assurance needs in an end-to-end data workflow
+
+Work with R&D in analytical validation of novel biomarkers
+
+Keep up-to-date with data modeling techniques as applied to clinical populations
+
+Distill complicated data science into reports and digestible insights for the greater company
+
+QUALIFICATIONS
+
+Ph.D., MS or MPH in quantitative field such as Statistics, Mathematics, Data Science, Bioinformatics, or Computer Science
+
+3+ years experience modeling health care data in industry or academia
+
+Alternatively, BS in quantitative field and 6+ years relevant experience
+
+Extensive experience in the R programming language, utilizing statistical packages, and working with ML conventions
+
+Familiarity with cloud computing environments such as Google Cloud and AWS is a plus
+
+Preference will be given to candidates with experience analyzing genomic or proteomic biomarkers
+
+Familiarity with shell scripting, the Linux operating system, Python, or Github will also be considered
+
+Ability to come up to speed quickly and seek out new solutions independently
+
+A genuine desire to impact patient lives and contribute to the greater scientific community
+
+Apply Now
+
+send us an email at careers@venn.bio.

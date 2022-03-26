@@ -1,0 +1,41 @@
+Designs, develops and applies programs, methodologies and systems based on advanced analytic models (e.g. advanced statistics, operations research, computer science, process) to transform structured and unstructured data into meaningful and actionable information insights that drive decision making.
+
+Uses visualization techniques to translate analytic insights into understandable business stories (eg. descriptive, inferential and predictive insights).
+
+Embeds analytics into client’s business processes and applications. Combines business acumen and scientific methods to solve business problems.
+
+Responsibilities:
+
+Applies basic knowledge of the client's business need to formulate and define analytic objectives. Uses available data elements, defines business rules, and solution objectives.
+
+Develops, enhances and maintains a client's metadata based on analytic objectives. May load data into the infrastructure, creates hypothesis matrix, and identifies available data to prepare for the Exploratory Data Anlysis (EDA) and hypotheses.
+
+Builds models to supports/contribute to the overall solution, validates initial model and validates results & performance after the implementation.
+
+Researches, identifies, and aids in delivering data science solutions to problem domain. Contributes significantly in measurement of business performance based on the model deployed. If needed, leads the model enhancements.
+
+Create visualization of the model's insights for easy consumption.
+
+Education and Experience Required:
+
+Master´s degree in Statistics, Operations Research, Computer Science or equivalent preferred. Or Bachelor´s Degree in these areas and at least 2-3 years of relevant experience.
+
+Knowledge and Skills:
+
+Working knowledge of data science methodologies including but not limited to classical regression, neural nets, CHAID, CART, association rules, sequence analysis, cluster analysis, and text mining.
+
+Understanding of business requirements, how they relate to data science objectives and how to translate them into mathematical models.
+
+Strong background and working proficiency in effective use of analytics software (eg. R, SAS, SPSS, Python, Cplex).
+
+Working knowledge of machine learning, data integration, and modeling skills and ETL tools (eg. Infomatica, Ab Initio, Talend).
+
+Solid communication and presentation skills.
+
+Working knowledge of relevant data programming languages.
+
+Strong interpersonal skills and effectiveness in working across geographical boundaries.
+
+Working knowledge of data visualization techniques.
+
+1052126

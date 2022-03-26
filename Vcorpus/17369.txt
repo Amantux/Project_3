@@ -1,0 +1,39 @@
+Overview
+
+Role: Big Data Consultant
+
+Location: Columbus, Ohio
+
+Duration: 6+ Months
+
+Top Three Skills:
+
+1) Hands on experience on data solutions – DW/BI, Data Architecture, Database, Data Security
+2) At least 2 years - Hortonworks/Cloudera/MapR
+3) At least 6 months - Data consumption tool/database (Hive, Impala, EsGyn, Trifacta, AtScale etc.)
+Trifacta or AtScale exp would be the best
+
+Job Description:
+The Big data consumption software engineer will be early members of a growing team with responsibilities for designing and developing highly scale able big data consumption solutions as part of the 3rd party vendor tool or custom build tool. The individual in this role will remediate (hands on) the platform/script related issues, act as SME for the consumption tools. An ideal candidate will have experience on configuration, performance tuning, user setup and onboarding in the tool set. The candidate should have excellent communication skills and able to drive some of the discussion with JPMIS, Vendor GTI partners on tool configuration, installation and performance tuning.
+
+Preferred Qualifications:
+10+ years of hands on experience on data solutions – DW/BI, Data Architecture, Database, Data Security
+2+ years of experience in any one of Hortonworks/Cloudera/MapR
+Familiarity with some of the data consumption tool/database (Hive, Impala, EsGyn, Trifacta, AtScale etc.) from HDFS files
+6+ years of hands on experience on IT support role (L3 support) to fix platform or data related issues
+6+ experience with Unix/Linux/Java scripting
+5+ years of experience with new user on boarding to a database system (create and define user class, RSAM & AD roles, host group etc.)
+Strong SQL query writing skills
+Knowledge of standard methodologies, concepts, best practices, and procedures within Big Data environment
+Experience with data architecture and data modeling
+Familiarity with Data Visualization tools like Tableau/QlikView
+Experience working in large complex data environment
+Good communication and presentation skills
+
+Additional Information:
+
+o Candidate should be aware of big data platform- Hortonworks, Cloudera, Mapr- doesn’t matter- good 2-3 years of experience in Big data and some experience with the big data consumption
+o Self-service tools, so the business users will be developing data transformation logic.
+o This individual will be more supporting the platform JPIS- with the infrastructure team; performance testing/tuning. Creating different user groups- work with DTI partners. Not really any development.
+o Cloudera and Hortonworks are the top two; no MapR today, but if we have good candidates in that space that is ok. Not an admin of the platform. They will generate the Hive structure and develop a report on top of this, and framework
+o Consumption is on our roadmap in the last 2-3 years so there is no one in this role today

@@ -1,0 +1,45 @@
+Hello. We’re Stadium Goods. We are the world’s premier sneaker + streetwear marketplace selling only the most sought-after footwear, apparel and other hard-to-find items on behalf of our sellers. We are driven by our principles and committed to providing the best consumer and consignment experience there is. In January 2019 Stadium Goods became part of the Farfetch family of companies, which will help guide our evolution as we usher in the next chapter of scale and growth.
+
+Our fast-growing team is looking for a Data Engineer to be based in our New York City headquarters.
+
+ROLE & IMPACT
+
+Working on Data Engineering your role will be focused on creating access to critical data for a variety of teams, spread across the business and engineering groups. Stadium Goods is an international organization with diverse data from across multiple platforms (including stores) and your work will directly help the organization create value from that data. You will use a variety of techniques, ranging from structuring data for Tableau and creating the perfect report for broad consumption or writing APIs for the engineering team to consume data in a structured way.
+
+You will join other data engineers who are building out the practice and you’ll have the freedom to explore new ways of thinking about these challenges and have the potential to make a significant impact on the way the business operates using data.
+
+WHO YOU ARE
+You understand the importance of process and structure but also know how to get things done in a scrappy way.
+You’ve worked with a variety of types of data and know how to make things come together to form a cohesive dataset.
+You are ready to answer the big questions about what’s working and what’s not, but also have the patience and focus to dig in on why a certain piece of data may or may not be correct due to technical issues.
+You are ready to work closely with a variety of stakeholders to get things done and can explain problems from outside people’s experience in a way that helps them understand and feel engaged.
+
+RESPONSIBILITIES
+Create and maintain optimal data pipeline architecture
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Build systems that allow for validation of our data product, ensuring accuracy of these data sets
+Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and AWS ‘big data’ technologies.
+Build analytics tools that utilize the data pipeline to provide actionable insights
+Requirements
+2-5 years’ experience working in Data Engineering
+A foundation in Computer Science, Engineering, Stats, or Math, through education and/or work
+Advanced SQL skills
+Strong Python or R, and Tableau skills
+Experience with AWS or Azure clouds
+Linux/Unix experience preferred
+Prefer experience working in ecommerce (bonus points if you’ve worked with eBay, Amazon, or Tmall)
+Experience with Airflow, DBT, or similar tools for managing ETL pipelines
+Bonus for working on international commerce
+Ability to make thoughtful trade-offs among a diverse set of teams and priorities, filling the gap between business requirements and engineering, and suggesting reasonable workarounds when necessary
+Bonus points if you have a passion for the sneaker and streetwear industry
+Benefits
+Comprehensive total rewards package that includes competitive salary, company equity, health benefits and 401k
+Paid time off & work from home policy
+Dynamic career growth opportunities
+A fun, creative and mission-driven work environment
+Team outings and afterwork events
+Stadium Goods is committed to being an inclusive workplace where diversity in all its forms is celebrated. We make employment decisions without regard to race, religious creed, color, age, sex, sexual orientation, gender, gender identity, gender expression, national origin, ancestry, marital status, medical condition as defined by state law, physical or mental disability, military service or veteran status, pregnancy, childbirth and related medical conditions, genetic information or any other classification protected by applicable federal, state or local laws or ordinances. If you require special accommodation, please let us know.
+
+LOCAL CANDIDATES ONLY
+
+ABSOLUTELY NO RECRUITING AGENCIES PLEASE

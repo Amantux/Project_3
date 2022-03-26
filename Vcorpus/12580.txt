@@ -1,0 +1,69 @@
+Sling TV L.L.C. provides an over-the-top (internet delivered) television experience on TVs, tablets, gaming consoles, computers, smartphones, smart TVs and other streaming devices. Distributed across a variety of strategic device partners, including Google, Amazon, Apple TV, Microsoft, Roku, Samsung, LG, Comcast, and many others, Sling TV offers two primary domestic streaming services that collectively include more than 100 channels of top content. Featured programmers include Disney/ESPN, NBC, AMC, A&E, EPIX, NFL Network, NBA TV, NHL Networks, Pac-12 Networks, Hallmark, Viacom, and more. For Spanish-speaking customers, Sling Latino offers a suite of standalone and extra Spanish-programming packages tailored to the U S. Hispanic market. And for those seeking International content, Sling International currently provides more than 300 channels in 20 languages (available across multiple devices) to U.S. households.
+
+Sling TV is the #1 Live TV Streaming Service Sling TV is a next-generation service that meets the entertainment needs of today’s contemporary viewers. Visit www.Sling.com. We are driven by curiosity, pride, adventure, and a desire to win – it’s in our DNA. We’re looking for people with boundless energy, intelligence, and an overwhelming need to achieve to join our team as we embark on the next chapter of our story.
+
+Opportunity is here. We are Sling.
+
+A successful API Test Automation Engineer will:
+
+Be available to work onsite out of our American Fork, UT, Cheyenne, WY or Englewood, CO offices
+
+Have a 4-year college degree in Computer Science / Information Technology, master’s degree is preferred or equivalent professional experience
+
+Have 3+ years of professional enterprise development / testing experience
+
+Technologies in our environment:
+
+Here are some of the key technologies that make up our environment. While we do not expect you to have a detailed understanding of each, the more of these you are familiar with the better.
+
+GoLang, Java, Python, JavaScript, Type Script
+
+Automated testing of applications & Continuous Integration / TDD / BDD, Postman, Newman
+
+Confluent Stack / Kafka / ELK Stack / Couchbase / Cassandra / PostGreSQL / Elasticsearch
+
+Cloud Native tools: Kubernetes / Docker / Rancher / Consul / Vault / Salt Stack / Jenkins / Terraform / AWS / Jaeger / gRPC / Istio / Calico / Envoy
+
+CI / CD & DevOps Culture
+
+12 Factor Applications
+
+Serverless / Function as a service concepts, implementations & patterns
+
+#LI-SLING2
+
+About the position
+
+Our mission is to build the next generation, web scale platform for SlingTV. Our environment is…
+
+Complex
+
+Highly elastic
+
+Based on some of the latest and greatest cloud native technologies
+
+Very fast paced
+
+Your team will be…
+
+Building the middleware for our client applications
+
+Driving a customer centric, highly personalized approach to the evolution of our platform
+
+Delivering microservices into a Kubernetes based, web scale environment
+
+Delivering software in a SAFe based agile environment, continuously
+
+In order to be successful in this role, you will need to be…
+
+Highly motivated, driven, hardworking and open to learning new things
+
+Not afraid to fail
+
+Capable of building proper testing frameworks and tools for an enterprise middleware layer
+
+Comfortable working in a TDD & CI/CD environment
+
+Highly competent using tools such as Git, postman, an IDE and a tracking tool such as Jira
+
+A team player. We have a great group of diverse folks working together in harmony. Big egos and “super heroes” need not apply.

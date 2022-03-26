@@ -1,0 +1,34 @@
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.For many people around the world, basic financial services are still out of reach: about 1.7 billion adults globally remain unbanked. The cost of that exclusion is significant $25 billion is lost by migrants every year through remittance fees. This is the challenge were hoping to address with Novi, a Facebook subsidiary whose goal is to provide people everywhere access to safe and affordable financial services through Libra, a new global payment system powered by blockchain technology. Our first product will be a digital wallet - Novi - for Libra, and it will be available in Messenger, WhatsApp, and as a standalone app.
+
+Were looking for Data Scientists to develop flows for cashing in and cashing out, shaping our novel payment rails and guiding our FX purchases for the Novi Wallet. You will enjoy working with rich financial and behavioral data sets, a world class team, cutting edge technology, and the ability to see your insights turned into real products and strategy on a regular basis.
+
+The perfect candidate will have a background in a quantitative or technical field, experience working with large data sets, data-driven decision making, and trading or investing experience especially in high frequency environments for currencies. You are focused on results, a self-starter, and have demonstrated success in using analytics to drive understanding, growth, and success of a product and/or strategy.
+
+Responsibilities:
+
+Apply your expertise in quantitative analysis, data mining, and the presentation of data to see beyond the numbers to improve our payment rails and our user experiences
+Partner with Product and Engineering teams to solve problems, inform solutions creatively with a variety of data, and identify trends and opportunities
+Inform, influence, support, and execute our product decisions and product launches
+The Data Scientist Gateway Analytics role has work across the following four areas:
+Product Operations: Deeply understanding our FX transactions and supporting the development of operational efficiencies, Forecasting and setting product team goals, Monitoring key product metrics, understanding root causes of changes in metrics, Building key data sets to empower operational and exploratory analysis
+Exploratory Analysis: Understanding the liquidity partner, exchange, and broker/dealer relationships to develop strategies to lower cost, Understanding ecosystems, user behaviors, and long-term trends, Building models for user or partner behaviors for analysis to power production systems, Identifying new levers to help move key metrics
+Product Leadership: Influencing product teams through presentation of data-based recommendations, communicating state of business, experiment results, etc. to product teams
+Data Infrastructure: Working in Hadoop and Hive primarily, sometimes MySQL, Oracle, and Vertica, Automating analyses and authoring pipelines via SQL and Python based ETL framework
+Mininum Qualifications:
+
+4+ years experience doing quantitative analysis in a fast paced environment
+BA/BS in Computer Science, Math, Physics, Engineering, Statistics, or equivalent experience
+Experience in SQL or other programming languages
+Knowledge of statistics (e.g. hypothesis testing, regressions)
+Proven experience leading data-driven projects from definition to execution: defining metrics, experiment design, communicating actionable insights
+Experience manipulating data sets through statistical software (ex. R, SAS) or other methods
+Experience communicating the results of analyses with product and leadership teams to influence the strategy of the product
+Preferred Qualifications:
+
+Experience in high frequency trading FX
+Experience with distributed computing (Hive/Hadoop)
+Experience at a web or mobile company in financial services
+Development experience in any scripting language (PHP, Python, Perl, etc.)
+Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.
+
+Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.

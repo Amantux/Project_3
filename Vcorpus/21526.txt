@@ -1,0 +1,44 @@
+Doximity is transforming the healthcare industry. Our mission is to help doctors be more productive, informed, and connected. As a Data Analyst, you'll work within cross-functional delivery teams alongside other analysts, engineers, and product managers in discovering data insights to help improve healthcare.
+
+Our team brings a diverse set of technical and cultural backgrounds and we like to think pragmatically in choosing the tools most appropriate for the job at hand.
+
+About Us
+Here are some of the ways we bring value to doctors
+Our data stack run on Python, Snowflake, Spark, and Airflow
+Our web applications are built primarily using Ruby, Rails, JavaScript (Vue.js), and a bit of Golang
+We have over 350 private repositories in Github containing our applications, forks of gems, our own internal gems, and open-source projects
+We have worked as a distributed team for a long time; we're currently about 65% distributed
+Find out more information on the Doximity engineering blog
+Our company core values
+Our recruiting process
+Our product development cycle
+Our on-boarding & mentorship process
+Here's How You Will Make an Impact
+Collaborate with a team of product managers, analysts and other developers to define and complete data projects from data ingestion, to analysis to recommendations.
+Show off your engineering skills by creating data products from scratch and automating code so they can be re-used continually.
+Leverage Doximity's extensive datasets to identify and classify behavioral patterns of medical professionals on our platform.
+Play a key role in creating both product and client-facing analytics.
+Grow into a presentation/communication-focused role or dive deeper into more-involved technical challenges - the choice is yours.
+About you
+B.S. or M.S. in quantitative field with 2-4 years of experience.
+Working knowledge of statistics and visualization.
+Expert SQL skills with proven ability to create and to evaluate complex SQL statements involving numerous tables and complex relationships.
+Fluent in Python and experience using common modules (numpy, pandas, statsmodels, matplotlib) for EDA.
+Excellent communication skills to explain your results and solutions to the stakeholders in a clear and compelling way.
+Understanding of Object Oriented principles and testing as it relates to Data and Python.
+Comfortable with UNIX command line interface and standard programming tools (vim/emacs, git, etc.)
+Excellent problem solving skills and a strong attention to detail.
+Ability to manage time well and prioritize incoming tasks from different stakeholders.
+Fast learner; curiosity about and passion for data.
+Preferred Qualifications:
+Experience with Amazon Web Services products (EC2, S3, Snowflake).
+Prior exposure to workflow management tools (Airflow).
+Prior exposure to machine learning techniques (regressors, classifiers, etc).
+Experience leveraging Apache Spark to perform analyses or process data.
+Benefits
+Doximity has industry leading benefits. For an updated list, see our career page
+More info on Doximity
+
+We're thrilled to be named the Fastest Growing Company in the Bay Area, and one of Fast Company's Most Innovative Companies. Joining Doximity means being part of an incredibly talented and humble team. We work on amazing products that over 70% of US doctors (and over one million healthcare professionals) use to make their busy lives a little easier. We're driven by the goal of improving inefficiencies in our $3.5 trillion U.S. healthcare system and love creating technology that has a real, meaningful impact on people's lives. To learn more about our team, culture, and users, check out our careers page, company blog, and engineering blog. We're growing steadily, and there's plenty of opportunity for you to make an impact.
+
+Doximity is proud to be an equal opportunity employer, and committed to providing employment opportunities regardless of race, religious creed, color, national origin, ancestry, physical disability, mental disability, medical condition, genetic information, marital status, sex, gender, gender identity, gender expression, pregnancy, childbirth and breastfeeding, age, sexual orientation, military or veteran status, or any other protected classification. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.

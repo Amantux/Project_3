@@ -1,0 +1,189 @@
+Job Description:
+
+The Data Scientist for this office will provide support
+
+to data management and automation activities as part of
+
+SFP's technical operations team. The scope of work
+
+aligns to SFP's efforts to modernize and advance
+
+requirements management and production feedback
+
+capabilities. The contract shall support the office in
+
+modernizing the Community's requirements management
+
+process, to include automation data management,
+
+statistical analysis, data visualization, training, and
+
+process documentation.
+
+The primary result of this effort will be the
+
+implementation of enhanced requirements management
+
+capabilities in order to support Community stakeholders
+
+and SF leadership.
+
+The ideal candidate will be responsible for, but not
+
+limited to:
+
+Work in a team environment and interact with
+
+production offices, analysts, and data owners as
+
+required
+
+Advise and consult SF stakeholders on data
+
+management best practices
+
+Assist SF analysts and external partners on data
+
+management procedures and best practices
+
+Implement enterprise database management processes
+
+Perform data management tasks, to include data
+
+manipulation
+
+Perform data analysis to assess integrity, identify
+
+patterns, and determine and correct shortfalls
+
+Develop and document data management workflows
+
+Transfer data between multiple formats
+
+Automate processes through the use of Python
+
+scripting and model building
+
+Perform statistical analysis of data to identify
+
+trends and patterns and to build reports for SF
+
+leadership and IC community or (NSG)
+
+Provide advanced data visualization to convey
+
+findings and communicate insights utilizing
+
+capabilities such as IC Portal and other dynamic
+
+viewers
+
+Independently identify, document, and address
+
+technical challenges
+
+Deliver schema mapping and entity resolution across
+
+disparate geospatial data sources through data
+
+scientist applied expertise in the subject
+
+Understand and communicate the interrelationships
+
+across many disparate datasets
+
+Document and visualize data both temporally and
+
+spatially to assist in data integrity checks, ask
+
+the next question, and display analytical
+
+assessments
+
+Develop and apply methods to identify, collect,
+
+process, and analyze large volumes of data to build
+
+and enhance GEOINT processes, and systems
+
+Provide support to product GEOINT web services
+
+publication to develop application-ready content,
+
+support GEOINT content metadata-tagging to enable
+
+content discovery; and publish GEOINT web services
+
+Implement ESRI Story Maps in a classified
+
+environment
+
+Work with ESRI Portal technology to develop and
+
+maintain map services
+
+Support and manage geodatabase versioning workflows
+
+Support, manage, and automate geodatabase
+
+synchronization workflows
+
+Job Requirements:
+
+ACTIVE TS/SCI
+
+3+ years of relevant experience
+
+A Bachelor's Degree can be substituted for up to 2
+
+years of experience
+
+Advanced proficiency with the following programs:
+
+Python
+
+ArcGIS, ArcSDE, ArcPro, ArcGIS Online
+
+PostgreSQL, Postgis, PgAdmin
+
+Application programming interfaces (APIs)
+
+Advanced proficiency of database principles and
+
+technology
+
+Advanced data transformation skills
+
+Advanced data processing and analytical skills
+
+Advanced experience with enterprise geodatabase
+
+management
+
+Advanced experience geodatabase versioning workflows
+
+Advanced experience with geodatabase synchronization
+
+and integration
+
+Advanced experience with Python (i.e. numpy, pandas,
+
+matplotlib libraries)
+
+Advanced experience in SQL and NoSQL technologies
+
+Advanced experience text parsing
+
+Advanced experience in metadata tagging (data
+
+storage, processing, and analyzing)
+
+Advanced experience in work with a variety of
+
+geospatial data formats
+
+Desired:
+
+Experience with JAVA programming language
+
+Experience with cloud-based database solutions

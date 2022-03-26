@@ -1,0 +1,31 @@
+Ready to write the best chapter of your career? XSELL Technologies is an artificial intelligence company focused on increasing sales. Our cloud-based machine learning engine uses predictive analytics and natural language processing to equip sales professionals with the best real-time responses, driving improved conversion rates and customer experiences. We pride ourselves on our high performing, collaborative culture. We are passionate about our product, our clients, and our industry leading results.
+
+XSELL is currently seeking a Data Scientist to serve as a key member of our Data Science team. This role will work within the SAFe Agile framework of continuous delivery, work with other Data Scientists, and be a critical resource for our growing Data Science staff.
+
+Job Description
+Designing, implementing and improving XSELL’s proprietary softwares, real time messaging recommendation systems, HiPerCoBot and QABOt using various mathematical, Natural Language Processing (NLP) algorithms and machine learning models.
+Developing new systems using Python NLP (lemmatization, stemming, named entity recognition) and updating the existing systems by adding new features to enhance the customers experience.
+Interacting with stakeholders to identify the requirements and define new processes.
+Closely work with the team to define the architecture of the Microservice environment and deploy systems using RESTful API’s.
+Planning, development, and analysis of dialogue prediction/sentiment models, causal models of customer/agent behavior.
+Improving the accuracy of the in house XSELL Recommendation System software suite by evaluating and monitoring annotations manually labelled by Ontology team.
+Analyzing and researching the current market trends for possible AI opportunities/improvements.
+Qualifications
+MS/PhD in a quantitative discipline (e.g. Machine Learning, Data Science, Computer Science, Mathematics, Statistics, or a related field).
+3+ years full time employment or postdoctoral experience building and validating predictive models on structured or unstructured data.
+Proficiency in Python with knowledge of basic libraries for data manipulation, machine learning, natural language processing and text mining.
+Experience creating and using advanced machine learning algorithms (regression, neural networks, etc.)
+Understanding of deep learning algorithms and experience with related libraries such as TensorFlow, PyTorch.
+Nice to Have
+Experience in SQL.
+Understanding of object oriented design.
+Ability to craft new concepts and stay current with academic research
+Experience with graph databases and graph designs.
+Experience in designing/developing production level machine learning architectures (using Flask or Redis)
+We provide competitive compensation, generous benefits, and a professional atmosphere. XSELL fosters an entrepreneurial, results driven work environment where you will have the opportunity to be part of a collaborative, inclusive team and be able to grow and develop your professional career.
+
+XSELL Technologies is an Equal Employment Opportunity Employer and all employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+
+Location: Chicago, IL
+
+Role: Full-Time / Salaried

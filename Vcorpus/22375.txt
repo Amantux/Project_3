@@ -1,0 +1,18 @@
+Rapid Response Kinaxis Business Analyst
+
+Rapid response is a planning tool. It will take below data files from EBS and generate planning information(required materials for future demand from suppliers).
+Historical Demand -- Closed Sales order information
+Independent Demand -- Open Sales order information
+On-hand information -- current on-hand information
+Part information -- items(Parts) information
+Part Source information -- sourcing rules information
+UOM Extract -- unit of measure information
+Scheuled Receipt WO -- it will pick the open order information
+Currency conversion -- currency conversion information
+Currency conversion forecast
+Customer information
+Purchase order receive
+Material Transaction
+Supplier
+Bill of material
+Allocation information for pending and Wip batches

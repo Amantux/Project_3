@@ -1,0 +1,41 @@
+ABOUT ENVIEW
+
+Enview creates a digital twin of the world in 3D to protect people and critical infrastructure. We solve one of the hardest problems in machine perception: the application of AI to nation-scale, 3D point clouds to virtualize the world in 3D. The proliferation of 3D sensors like LiDAR is enabling for markets such as Energy, National Security, Autonomous Logistics & Vehicles, and Smart Cities. However, the unstructured 3D data from these sensors can't be processed by traditional computer vision methods, forcing these markets to be bottlenecked by slow, expensive, and unscalable manual services. Enview has built the world's most scalable AI platform to enable rapid, automated classification of 3D point clouds, which enables digital twinning of the world in 3D at unprecedented speed and scale.
+
+RESEARCH AT ENVIEW
+
+Advances in compute capacity combined with the proliferation of cost-efficient LiDAR sensors enables Enview's Research Team to pioneer ideas in the complex field of unstructured 3D point cloud classification. Our research drives Enview's ability to meet the needs of users in the field, who rely on our mapping data and insights about the environment to conduct important tasks in a fast-changing world.
+
+We put a premium on innovation and curiosity, with the Research Team on the vanguard of new capability development. We work with the engineering team to transition our work into Enview's product pipeline with large-scale computing and advanced visualizations. The Research Team reports directly to the CTO and is engaged in collaborations with teams across the company.
+
+THE ROLE
+
+As a Machine Learning Engineer, your work will drive Enview's ability to extract geospatial insights from 3D point cloud data. Using your expertise you will help research and design algorithms and ML systems to tap into the cutting edge of 3D computer vision. In collaboration with the Engineering team, you will leverage your skills to build infrastructure for rapid prototyping of ML systems to support deployments to customers in the field.
+
+YOU WILL:
+Use machine learning to create reduced order models from complex, unstructured 3D point clouds
+Design algorithms/ML systems capable of extracting geospatial insights from a variety of data sources
+Build infrastructure for rapid training and testing of ML systems
+Maintain insight into trends and advances in machine learning
+Publish and present, formally and informally, on behalf of Enview
+MINIMUM QUALIFICATIONS:
+BS in engineering, computer science, or a related field
+2+ years experience in 3D computer vision/machine learning OR 5+ years experience in 2D computer vision/machine learning (grad school counts!)
+Background and expertise with object segmentation, classification, registration and general scene understanding
+Mastery of Python and prior experience with GPU acceleration
+Capability with deep learning frameworks (ie, TensorFlow, Keras, etc)
+Excellent communication skills
+Rigorous analytical thinking
+Priority on team excellence
+PREFERRED QUALIFICATIONS:
+MS or PhD in engineering, computer science, or a related field
+Prior experience with cloud computing, AWS preferred
+Prior experience with GIS
+PERKS
+Opportunity to play a foundational role at a well-funded startup with major clients and revenue
+Work with people like yourselftalented and thoughtful; passionate about solving challenging problems
+Unlimited vacation policy (we're serious about this - do great work, have fun and live life)
+Full medical/vision/dental + 401K
+EXPORT CONTROL
+
+Enview works with software and technology subject to U.S. export controls regulations. Under these regulations it may be necessary for Enview to obtain a U.S. government export license prior to releasing its software and technology to certain persons. Enview also complies with applicable U.S. sanctions laws and regulations, which can restrict Enview's ability to employ certain persons subject to U.S. sanctions.

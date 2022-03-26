@@ -1,0 +1,36 @@
+RESPONSIBILITIES:
+
+Kforce has a client in search of a Data Engineer in Phoenix, AZ.
+
+Summary:
+We are looking for a Senior Software Engineer with experience as a Full stack developer skilled primarily with middleware and back end data engineering technologies with a minimum of 7+ years of experience in designing and developing enterprise solutions with cloud.
+
+Key Tasks:
+Design, build and optimize data applications and data pipelines to extract, transform and load data from various data sources to internal and cloud targets
+Participate in proactively identifying issues and resolving issues concerning data pipeline jobs
+Identify and implement process improvements: automate data processing, build frameworks, design and implement near real-time data ingestion capabilities
+Evaluate tools and emerging technologies and carry out POCs to identify tools that would optimize data processing and data pipelines
+Design and implement data sharing tools and solutions including batch sharing and API capabilities
+Design and implement data analytic tools and solutions that provides actionable insights to stakeholders
+Work with product, application and business teams to assist with ad hoc data requests, data exploration requests and building business knowledge models
+Work with data science teams to assist with assist with data and data processing requests
+Contribute by the way of your past experiences and industry knowledge to the Data Engineering function that is driving significant changes to the tool stack to drive critical initiatives for the organization
+REQUIREMENTS:
+A minimum of 5 years of software development experience, covering the stages of the SDLC
+A minimum of 3 years of experience working with data technologies and relational (oracle, MySQL, SQL server, PostgreSQL) as well as NoSQL databases
+3 years of experience developing solutions on Java/J2EE platform
+3 years of experience developing solutions with Amazon AWS data tools and technologies
+2+ years of experience with Python or JavaScript (server side - node.js or other js frameworks) or R scripting
+2+ years of experience with Python or JavaScript (server side - node.js or other js frameworks) or R scripting
+2+ years of experience working with Hadoop and spark eco system
+Advanced working knowledge of current and emerging data technologies
+Vast knowledge of open source tools & technologies
+Experience working with agile software development methodologies
+Experience with spring framework using spring boot specifically is preferable
+Experience working on cloud migration projects is preferable
+Experience in developing and consuming REST based web services and working in and integrating with microservices based environment is preferable
+Experience working with event driven architectures and distributed messaging broker such as Kafka
+Experience working with one or more data streaming technologies is preferable
+Experience working with Mongo DB or Elasticsearch and/or Redis technologies is preferable
+Experience working with Informatica, HVR is preferable
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.

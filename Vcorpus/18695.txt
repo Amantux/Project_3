@@ -1,0 +1,21 @@
+Job Title: Linux Engineer
+Location: San Antonio, TX, 78236
+Duration: Permanent
+
+Clearance Required: Active Secret clearance
+Certification Required: Security+ CE or equivalent certification. (IAT Level II/III).
+Job Description:
+Contractor shall support the development and maintenance of policies and procedures, including instructions, for the installation, operation, back up, data recovery, configuration, administration, hardening, system maintenance, and troubleshooting of all *nix operating systems (A003, A006, A011, A012, A018, A036, A041, A072, A074, A075, A076, A085, A086, A087).
+Contractor shall support the associated system software libraries, registries, dynamic linked libraries, and shared services for Red Hat, Ubuntu, and other Linux variants.
+Contractor shall be responsible for at least 12 monthly software updates and up to 2 major releases per year for all WS Components and Virtual Machines.
+Contractor shall provide Tier 3 Problem Determination / Problem Source Identification (PD/PSI) and Problem Resolution for all WS Components and Virtual Machines up to 100 software trouble tickets a month.
+Contractor shall be responsible for preparing and testing of software source code and configuration files, as well as performing unit and integration testing of the new software (A032, A033, A034).
+Contractor shall be proficient with high-level *nix scripting languages (AWK, SED, Perl, BSH, etc.).
+Contractor shall have working knowledge of TCP/IP and able to perform limited network configuration on *nix devices
+Contractor shall have experience in configuring nodes, subnets, domains, and network security.
+Contractor shall have experience with virtual applications, VMware vSphere, vCenter, ESXi, other products, etc.
+Contractor shall have working knowledge of larger networks and AF Gateways and DoD GiG.
+Contractor shall have a valid Unix/Linux administrator certification (e.g. LPIC, RHCSA, RHCE, OCA, GCUX).
+About our Company: -
+22nd Century Technologies is a business enterprise that supports demanding staffing programs for Corporations and State and Local Government Agencies. Its journey began in 1997 by supporting large Federal contracts which nudged us in the direction of creating large candidate pools across the country. Over the last 20 years, we have built a strong business model that is carefully constructed to deliver on multiple facets. We have proven past performance of providing services that exceed our clients' expectations. Today 22nd Century technologies supports clients in all 50 states and has grown to be a company that is trusted and sought for providing a complex mix of workforce solutions. With a firm grip on the entire spectrum of staffing solutions, we have placed more than 500,000 skilled resources and delivered 15 million+ man-hours.
+“22nd Century Technologies is an Equal Opportunity Employer" and “US Citizens & all other parties authorized to work in the US are encouraged to apply."

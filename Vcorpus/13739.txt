@@ -1,0 +1,79 @@
+BACKGROUND- CANOPY HEALTH
+
+- Canopy Health, formed in 2015 with leadership from UCSF and John MuirHealth (JMH) and with participation from additional, leading Bay Areaproviders, is creating an integrated healthcare experience where quality careand coverage are provided by an alliance of the top caregivers across the Bayarea, allowing people to access the best options for their personal needs. Ownedby physicians and hospitals, Canopy Health is a community of caregiverschampioning health. Our focus is on improving health, advocating for the entireBay Area, and supporting individuals in a way that is empathetic andrespectful. Our large network of physicians and other providers will offerconsistently high-quality care with clear, foreseeable costs.
+
+- Founded in 2015, BayHealth Development is a Universityof California San Francisco Health (UCSF) and John Muir Health (JMH) jointventure company focused on infrastructure development supporting the needs ofthe Canopy Health accountable care network, and serving as a joint strategic investmentvehicle in support of the UCSF/JMH affiliation. BayHealth Development is deeplycommitted to value creation in the Canopy Health network and our shared visionwith UCSF/JMH for innovation in patient experience, access, affordability andquality of care.
+
+ORGANIZATION
+
+- This position reports tothe CFO of Canopy Health and BayHealth Development. This position will workwith senior business leaders in both organizations and will interact with thehealth plan, provider and vendor partners.
+
+- The Data Scientist willbe a strategic partner of Canopy Health and BayHealth finance leadership team.The Data Scientist will work with finance leadership to develop leadingpractice finance and actuarial capabilities to support the achievement of thestrategic goals of Canopy Health and Bayhealth.
+
+KEY RESPONSIBILITIES
+
+- Work with stakeholdersthroughout the organization to identify opportunities for leveraging companydata to drive business solutions.
+
+- Mine and analyze datafrom company databases to drive optimization and improvement of productdevelopment, marketing techniques and business strategies.
+
+- Assess the effectivenessand accuracy of new data sources and data gathering techniques.
+
+- Develop custom datamodels and algorithms to apply to data sets.
+
+- Use predictive modelingto increase and optimize customer experiences, revenue generation, ad targetingand other business outcomes.
+
+- Develop company testingframework and test model quality.
+
+- Coordinate with differentfunctional teams to implement models and monitor outcomes.- Develop custom datamodels and algorithms to apply to data sets.
+
+- Use predictive modelingto increase and optimize customer experiences, revenue generation, ad targetingand other business outcomes.
+
+- Develop company testingframework and test model quality.
+
+- Coordinate with differentfunctional teams to implement models and monitor outcomes.
+
+Develop processes and toolsto monitor and analyze model performance and data accuracy.
+
+Education/License:
+
+- Masters or PHD in Statistics, Mathematics, Computer Science or anotherquantitative field- Requires deep knowledge of healthcare economics obtained throughprofessional experience and advanced education
+
+- Experience:
+
+- Requires deep knowledge of healthcare economics obtained throughprofessional experience and advanced education
+
+- Typically viewed as a specialist within the Data Science area and may havebasic knowledge of project management
+
+- Requires a minimum of 2 to 3 years of professional experience for one or more healthcare organizations (health plan,integrated health system / complex hospital, large IPA, ACO, healthcarecompany).
+
+- 5-7 years of experiencemanipulating data sets and building statistical models and is familiar with thefollowing software/tools:
+
+o Knowledge and experiencein statistical and data mining techniques: GLM/Regression, Decision Trees, RandomForests, Support Vector Machines, Boosting, text mining, social networkanalysis, etc.
+
+o Experience queryingdatabases and using statistical computer languages: R, Python, SQL, Julia, etc.
+
+o Experience using webservices: Redshift, S3, Spark, DigitalOcean, etc.
+
+o Experience creating andusing advanced machine learning algorithms and statistics: regression,simulation, scenario analysis, modeling, clustering, decision trees, neuralnetworks, etc.
+
+o Experience analyzing datafrom 3rd party providers: Google Analytics, Site Catalyst, Coremetrics,Adwords, Crimson Hexagon, Facebook Insights, etc.
+
+o Experience withdistributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi,MySQL, etc.
+
+o Experiencevisualizing/presenting data for stakeholders using: Periscope, Tableau, BusinessObjects, D3, ggplot
+
+Knowledge/Skills Required:
+
+- Strong problem solvingskills with an emphasis on product development.
+
+- Experience usingstatistical computer languages (R, Python, SQL, etc.) to manipulate data anddraw insights from large data sets.
+
+- Experience working withand creating data architectures.
+
+- Knowledge of a variety ofmachine learning techniques (clustering, decision tree learning, artificialneural networks, etc.) and their real-world advantages/drawbacks.
+
+- Knowledge of advancedstatistical techniques and concepts (regression, properties of distributions,statistical tests and proper usage, etc.) and experience with applications.
+
+- Excellent written andverbal communication skills for coordinating across teams.
+
+- A drive to learn andmaster new technologies and techniques.

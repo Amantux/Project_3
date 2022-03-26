@@ -1,0 +1,21 @@
+Job Description
+We are a recruiting company here in the Silicon Valley. Now we're helping one of our client, an American social media web and mobile application company, looking for a Data Engineer in their Sunnyvale office.
+
+Duties:
+The Business Intelligence (BI) team is looking to hire a Data Engineer to build robust, extensible, and scalable data and BI solutions for ***'s product org. These solutions could be a combination of one or more of the following: source-of-truth datasets, daily/hourly pipelines, dashboards, visualization tools, and alerting.
+This role will entail the following responsibilities:
+Understand the data landscape of *** products
+Design, architect, and implement new source of truth datasets, in partnership with analytics and business teams
+Build the required data and reporting pipelines using ***'s internal ETL tools
+Develop dashboards, web-based visualizations (using Tableau, D3, or Plotly), and web-based tools (node.js or flask apps)
+Collaborate with other engineering teams to develop and integrate BI solutions
+Skills:
+Experience designing, architecting, and maintaining data warehouses that seamlessly stitches together data from production databases and clickstream event data
+Hands-on experience with Hive query development and optimization, and, building workflows (preferably using Airflow)
+Hands-on experience with building data pipelines in a programming language like Python
+Hands-on experience with building and maintaining Tableau dashboards and/or Jupyter reports
+Working understanding of Hadoop and Big data analytics
+Ability to understand the needs of and collaborate with stakeholders from analytics and business teams
+Powered by JazzHR
+
+BldnFu5fX3

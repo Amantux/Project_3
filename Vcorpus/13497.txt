@@ -1,0 +1,30 @@
+About Secureworks
+
+Secureworks® (NASDAQ: SCWX) is a technology-driven cybersecurity leader that protects organizations in the digitally connected world. Built on proprietary technologies and world-class threat intelligence, our applications and solutions help prevent, detect, and respond to cyber threats.  Red Cloak™ software brings advanced threat analytics to thousands of customers, and the Secureworks Counter Threat Platform™ processes over 300B threat events per day. We understand complex security environments and are passionate about simplifying security with Defense in Concert™ so that security becomes a business enabler. More than 4,000 customers across over 50 countries are protected by Secureworks, benefit from our network effect and are Collectively Smarter. Exponentially Safer.™ www.secureworks.com
+
+We enjoy competitive compensation and benefits packages, and reward and recognize our employees for exceptional results. A constant focus on continued learning and growth keeps our team members engaged and excited about “what’s next.” We offer flexible work options when available, and emphasize the importance of work-life balance. We know that when our people are rewarded, recognized, and rejuvenated, we win as a team.
+
+Role Overview
+
+
+We are looking for a detail-oriented, talented, and enthusiastic data engineer to work in a fast-paced, startup-like environment with a seasoned cross-functional team of Security Experts, Data Scientists, and Machine Learning Engineers to advance the state-of-the-art in network defense. If you love the challenges that come with big data then this role is for you. Duties include large-scale data routing, modeling, extraction, transformation, loading, warehousing, and composing such systems together with support for monitoring and mediation logic. You will use the latest big data platforms and technologies (e.g. NiFi, Spark, Kafka, NoSQL, Docker, Kubernetes, AWS/GCP) to help federate algorithms and applications across many clouds as part of the next generation Secureworks platform.
+
+The ideal candidate will have a software development background with an emphasis on distributed systems and some familiarity with data science or machine learning, though personal expertise is not required. This role requires a data engineer that can take architectures from concept to reality and work well within a collaborative environment. If you’re an engineer with experience solving big data problems, you might have what it takes to become an elite member of our team and help us innovate faster than the bad guys.
+
+Key Responsibilities
+Design, build, launch, and maintain infrastructure to support large-scale data routing, streaming and historical processing, data warehousing, and container orchestration.
+Employ a variety of languages and tools to marry big data systems together and hunt down opportunities to acquire new data from other systems.
+Recommend and implement ways to improve data reliability, efficiency, and quality.
+Collaborate with data scientists and security researchers to productize new methods of extracting information from structured and unstructured data.
+Work effectively on a geographically distributed team to deliver high quality software against aggressive schedules.
+Minimum Requirements
+Minimum of 6 years of experience in data engineering, data modeling, ETL development, or data warehousing.
+Minimum of 2 years of experience of software engineering in Scala.
+Minimum of 2 years of experience with scripting languages like Python, Ruby, Perl, Bash, etc.
+Minimum of 3 years of experience with big data platforms (e.g. Hadoop, Spark, Kafka, HBase, etc)
+Preferred Experience
+Experience with Amazon AWS, Google GCP, or similar cloud provider.
+Experience working with containers and container orchestration solutions such as Docker, Kubernetes, Mesos, etc.
+Experience with stream-processing systems, such as NiFi/StreamSets, Kafka, Storm/Heron, Spark, or Flink.
+Experience with distributed NoSQL databases, such as HBase, Cassandra, or Accumulo.
+Secureworks (A Dell Technologies Company) is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Secureworks are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Secureworks will not tolerate discrimination or harassment based on any of these characteristics. Learn more about Diversity and Inclusion at Secureworks here.

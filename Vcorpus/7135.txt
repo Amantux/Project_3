@@ -1,0 +1,44 @@
+Data Scientist    for machine learning, computer vision, and neuroscience projects          The  Kumar Lab  at the  Jackson Laboratory  consists of geneticists, neuroscientists, and computer scientists who are passionate about discoveries of novel targets and models for mental illness through innovation at the confluence of computational, genetic, and genomic methods. We combine traditional behavioral and neuroscience methods with modern computer vision and machine learning methods to understand how genes shape the nervous system and how this, in turn, leads to altered behaviors. We believe that by taking this multimodal approach to problem solving we will make impactful discoveries for diagnosis and treatment of mental illness. We are recruiting a data scientist for this project to join an existing team of two engineers for a project that is fully funded for three years.    A typical project may involve determining behavioral changes that occur in short vs long term time scale in mice due to exposure to addictive or mood-altering substances. Linking these behaviors to specific genetic variants. Scoring sleep states visually without the need for electrode-based EEG/EMG recordings and linking sleep disturbances to addiction behaviors. Since the team has two computer vision scientists, behaviorists, and neuroscientist, no experience is required within these fields. Instead, intellectual curiosity and the ability to work across fields at the interface multiple fields are required. The successful candidate will receive credit for their work through authorship on academic papers and patents.    
+ Uncover more of our historic milestones, including the 26 Nobel prizes    associated with our research, resources, and education. Follow the progress we’re making on our quest to improve human health via our recent  research highlights .  
+  The Kumar Laboratory  has core expertise in addiction genetics and is comprised of seven engineers, neurophysiologists, and statistical geneticists.   
+ JAX information technology group hosts two high performance compute clusters, and 48 state of the art NVIDIA Tesla V100/P100 GPUs with systems administrators and HPC experts are on staff.   
+ A highly collaborative  computational sciences group  at JAX has 30+ PhD level software engineers, biostatistician, and software engineers    
+ 
+ Use outputs from computer vision and machine learning techniques to quantify and analyze mouse behavioral data (video-based).  
+ Expand those tools to new environments, behaviors, and multiple mice.  
+ Design and manage relevant training datasets to achieve these tasks.  
+ Carry out multidimensional and multivariate statistical analysis and modeling of these data.  
+ Lead and contribute to scientific journal articles.  
+ Statistical modeling      Recommended: these skills are available in the group and will be taught       
+ Machine Learning and computer vision – opportunities to learn state of art machine vision will be offered  
+ GPU Compute Familiarity  
+ Big Data Management  
+ HPC Environments: SLURM, Torque, singularity and pipeline development  
+ Behavioral psychology and genetics  
+ Experience with Tensorflow, PyTorch or Keras  
+ Be willing represent the Lab at CS meetings and conferences.   
+ Ability to explain data to non-computer scientists is encouraged.    
+ 
+ Minimum of five (5) years of experience and a BS or a higher degree in computer science or bioinformatics, or significant prior work experience in writing programs for scientific research  
+ Candidate should come with extensive exeperience with the methods and processes of data analysis  
+ The successful candidate will have working familiarity with a majority of the following technologies:  R statistical environment, big data analysis, Python, and HPC (SLURM, Torque, singularity and pipeline development), Tensorflow, PyTorch or Keras)   
+  The Jackson Laboratory (JAX,  www.jax.org ) is a nonprofit biomedical research institute with over 2,000 employees whose mission is to discover precise genomic solutions for human disease and empower the global biomedical community in the shared quest to improve human health. A National Cancer Institute-designated Cancer Center, JAX has a mammalian genetics headquarters in Bar Harbor, Maine, a facility in Sacramento, California, and a genomic medicine facility, The Jackson Laboratory for Genomic Medicine (JAX-GM), in Farmington, Connecticut.       The Jackson Laboratory's 43-acre scenic Bar Harbor campus is nestled between the Gulf of Maine and the mountains of Acadia National Park. Some of the best hiking and biking in the world (over 50 square miles of mountains, lakes, views, and dramatic coastline) is accessible from our campus. We are one mile from downtown Bar Harbor, which offers a vibrant downtown district with a plethora of restaurants, shops, museums, and galleries.       JAX employees work in a collaborative, value-driven, and team-based environment where the focus is on advancing science and improving patients’ lives. Researchers apply genetics to increase the understanding of human disease and advance treatments and cures for cancer, neurological and immune disorders, diabetes, aging, and heart disease. JAX was voted among the top 15 “Best Places to Work in Academia” in the United States in a poll conducted by The Scientist magazine!            Our Values:        INTEGRITY - Courage and commitment to do what is right    PEOPLE - Inspiring our people to enhance the health of all    ONE TEAM - Unified by our promise to transform medicine and science    EXCELLENCE - Achieving world-class results    INNOVATION - Leading with discovery and creative solutions    STEWARDSHIP - Caring for and enhancing the resources entrusted to us            What do we have to offer?            JAX offers a dynamic and supportive work environment, competitive salaries, and a comprehensive benefits package, including a medical plan, outstanding retirement plan, generous paid time off, and tuition reimbursement including an MBA program. Our campus offers a fitness center with an award-winning wellness program, an onsite full service cafeteria, and a fully operational primary care facility available to employees and their families.       Most importantly, every position contributes to JAX’s mission of discovering precise genomic solutions for human disease and empowering the global biomedical community in our shared quest to improve human health.        The Jackson Laboratory provides equal employment opportunities to all employees and applicants for employment in all job classifications without regard to race, color, religion, age, mental disability, physical disability, medical condition, gender, sexual orientation, genetic information, ancestry, marital status, national origin, veteran status, and other classifications protected by applicable state and local non-discrimination laws.        Learn more about career opportunities at JAX:  http://www.jax.org/careers .  
+
+Job Summary
+
+                             
+                     
+                         Location 
+                             Bar Harbor, ME 04609 
+                     
+                 
+                             
+                     
+                         Posted 
+                         +30 Days ago 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         9014-26778

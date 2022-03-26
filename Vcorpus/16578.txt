@@ -1,0 +1,38 @@
+, 2020
+Weekly Hours: 40
+Role Number:
+200158503
+Would you like to be part of a team that impacts millions of users every single day? Does finding patterns in data and building highly scalable data-driven systems to solve real-world problems excite you? Would you be interested to explore building novel ML/NLP features that find use in the next iOS release?
+
+We power Apple’s Maps Search. Our team operates at the intersection of building highly scalable applications, analytics to understand user behavior and big data machine learning to improve our end-user experience.
+
+As a member of this stellar team, you'll be working closely with Runtime Infrastructure, Maps Data and Analytics teams to develop new ML models/features that improve Maps Search experience. You will be prototyping ideas, running/evaluating experiments and shipping ML/NLP features that have deep impact. Along the way, you will continuously learn from a versatile group of experienced ML practitioners and top-notch engineers.
+
+Key Qualifications
+Strong ML background with expertise in one of these areas - search applications, information retrieval, text mining, natural language processing, search relevance/ranking
+Strong programming and debugging skills in: Java or C/C++ or Python or equivalent
+Experience in distributed computing, search and related technologies
+Experience with big data technologies like Hadoop/MapReduce, Spark, Kafka
+Excellent interpersonal and communication skills - working independently and/or in small teams
+
+Description
+Here are some of your job responsibilities:
+Apply knowledge of data mining, information retrieval, NLP and machine learning to develop
+key iOS and OS X features focused on improving maps search experience.
+Design and build highly scalable, big data pipelines that enrich our maps index/corpus for search
+use-cases.
+Own and conduct A/B tests for exploring various ideas and perform data analysis to infer insights
+from experiments to help ship features.
+Collaborate with various teams (e.g., infrastructure, quality, data) to develop exciting features and
+bring them from ideation to shipping the feature.
+Develop and mentor aspiring applied scientists / engineers to expand their scope and have a
+huge impact. Be part of building a world class search team!
+
+Education & Experience
+- MS/PhD in ML/NLP/CS/Physics or a related field
+4+ years of industry experience in a related area
+Additional Requirements
+- Experience with Hadoop/Map-Reduce/Spark
+- Experience with data engineering
+- Experience with Lucene/Solr/Elastic Search or any other Search Engine — is a plus!
+Apple is an equal opportunity employer that is committed to inclusion and diversity. We take affirmative action to ensure equal opportunity for all applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, Veteran status, or other legally protected characteristics.

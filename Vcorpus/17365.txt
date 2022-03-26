@@ -1,0 +1,83 @@
+Overview
+
+Please find the requirement below and let me know your availability along with updated resume.
+
+Position : Java/Hadoop Developer
+
+Location : Columbus, Ohio
+
+Duration : 8 Months contract with possible extension
+
+Top Three Skills:
+
+1. Java Developer w/ a strong understanding of Kafka
+
+2. HBase (Apache) - NoSql database that sits over Hadoop; on prem., MapR distribution (would also look at experience w/HortonWorks or Cloudera)
+
+3. Kafka
+
+4. Experience w/"Containers," ideally Docker
+
+Job Description:
+
+Cleint is looking for a Big Data Engineer responsible for supporting Big Data analytics. Work closely with business partners to translate complex functional and technical requirements into high performing Big Data systems. Work on multiple projects as a technical lead
+
+to develop, test, and deliver Big Data solutions.
+
+Additional Information:
+
+-Conducts logical and physical database design
+
+-Identifies unique opportunities to collect new data.
+
+-Designs ETL processes and data pipelines to build large, complex data sets.
+
+-Strategizes new uses for data and its interaction with data design.
+
+-Finds new uses for existing data sources.
+
+-Conducts statistical modeling and experiment design.
+
+-Discovers “stories” told by the data and presents them to business partners
+
+-Tests and validates predictive models.
+
+-Builds data visualization prototypes.
+
+-Implements automated processes for efficiently producing scale models.
+
+-Designs, modifies and builds new data processes.
+
+-Implement, configure, administer, monitor Hadoop clusters
+
+-Implements new or enhanced software designed to access and handle data more efficiently.
+
+-Prepare and communicate status, issues, and opportunities to the business.
+
+-Provides technical assistance to junior team members
+
+-Create, refine and enforce data management standards, policies, and procedures.
+
+-Evaluates emerging Big Data technologies to develops next-generation Big Data analytics framework
+
+-Responsible for problem escalation to appropriate L Brands teams and third parties as appropriate.
+
+-Provide 24×7 on-call support
+
+AUTHORITY:
+
+-Recommend expenditures as required to meet Big Data support requirements.
+
+-Recommend the initiation of Big Data support activities and projects .
+
+-Recommend Big Data standards/directions/technologies.
+
+QUALIFICATIONS:
+
+Required:
+
+-4 year degree in Information Systems or an equivalent combination of course work
+
+and job experience
+
+-4–6 years experience with Big Data technologies and analytics

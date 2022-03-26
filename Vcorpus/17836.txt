@@ -1,0 +1,44 @@
+Why VillageMD?
+
+VillageMD is changing the trajectory of healthcare by empowering primary care physicians to make informed decisions and engage patients in meaningful ways. We work with thousands of clinicians and healthcare disruptors across the country to build and contribute to our platform to improve patient health while driving down the cost to deliver it.
+
+We are a mission-oriented organization and are thrilled about the work that we do every day. We're transparent, collaborative, and relentless in pursuit of our mission, all while doing so with humility and a low ego. We believe that diverse backgrounds and experiences create the best opportunity for innovation and the community that we are creating is greater than any individual.
+
+We've built our technology using the best of cloud and open-source technologies to create an open, data-first platform that is enriched with analytical models and modernly connected to internal and external apps. These apps drive clinical decision support, patient engagement, and other facilitators of innovative, information-enriched health experiences.
+
+Data Engineers at VillageMD build distributed components, pipelines, and tools that enable our organization to make analytical, data-driven decisions. We're in a unique position to impact everyone in primary care from independent, family-owned practices to world-class health systems. We aggregate, process, and deliver rich datasets to improve the effectiveness of primary care for our doctors and patients.
+
+What are examples of work that Data Engineers have done at VillageMD?
+Built and implemented a data profiling tool to reverse engineer data schemas from new data sources facilitating normalization of the data into our data model
+Created a summary data platform supporting our presentation layer that allows clinicians and operators in our practices to pinpoint interventions on-demand to patients most in need
+Analyzed and designed the best ways to expand our data model to incorporate more data that's mission critical
+What will make you successful here?
+Strong analytical and technical skills
+A real passion for problem solving and learning new technology
+Vision to balance speed and maintainability in solution design
+The ability to handle multiple, concurrent projects
+Crafting and implementing requirements, keeping projects on track, and engaging partners
+Challenging the status quo to improve our processes and tools
+Communicating complex technical details in meaningful business context
+A low ego and humility; an ability to gain trust by doing what you say you will do
+What you might do in your first year:
+Own ten projects to design and implement best-in-class data processing enabling clean data flow directly to our data model and on to our presentation layer
+Work with analytics, engineering and operations to design and implement a new analytics product that supports improving patient health
+Design a new concept within our data model to meet a new operational or analytical need
+The following experience is relevant to us:
+5+ years of full-time experience including extensive experience with healthcare data
+Ability to understand and design relational data structures required
+Very strong capabilities manipulating data using SQL
+Knowledge of, and/or willingness to learn, non-relational data structures and other technologies (e.g. Postgres, Redshift, Cassandra, MongoDB, Neo4j, S3, etc.)
+Experience or willingness to learn building information pipelines utilizing Python or Java a plus
+BS/MS in computer science, math, engineering, or other related fields is required.
+Track record of successfully executing projects with multiple partners
+What can we offer you?
+Competitive salary, bonus, and health benefits
+Paid gym membership
+Fun, fast-paced, startup environment (with snacks)
+Pre-tax savings on commute expenses
+Remote flexibility
+A highly-collaborative, conscientious, forward-thinking environment that welcomes the impact you can make from Day 1.
+A clear link between our daily work on products and services and the improved quality of healthcare that this work facilitates for patients.
+At VillageMD, we see diversity and inclusion as a source of strength in transforming healthcare. We believe building trust and innovation are best achieved through diverse perspectives. To us, acceptance and respect are rooted in an understanding that people do not experience things in the same way, including our healthcare system. Individuals seeking employment at VillageMD are considered without regard to race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

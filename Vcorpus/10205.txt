@@ -1,0 +1,27 @@
+Masters Degree plus 1-3 years of industry experience in Operations Research, Transportation Engineering, Industrial Engineering, Statistics, Applied Mathematics, Computer Science or related field OR PhD Degree in related fields.
+
+Experience writing scripts (Perl, Python, Ruby) to manipulate data and developing software in traditional programming languages (C/C++, Java).
+
+Experience building statistics / ML models
+
+Amazon.com Services, Inc. is looking for a motivated individual with strong analytical skills and practical experience to join our Modeling and Optimization team. We are hiring Data Scientist specialists at all levels into our scientific team with expertise in Statistics, Optimization, Machine Learning and/or Control Theory.
+
+We are seeking a business driven, code savvy Data Scientist. The ideal candidate should demonstrate excellent data driven business acumen realized from extracting patterns and intelligence from multiple possibly conflicting data sources. This coupled with an understanding of statistical and machine learning concepts to back any analysis and results generated. We expect you to be fluent in multiple data science coding languages and the ability to leverage any new or existing tool to solve business requirements. You should enjoy data driven deep dive sessions while equally maintaining a wide breadth knowledge of the business in general. Using your expertise and business acumen you will design and charter future analytical approaches for the team.
+
+The successful candidate will have good communication skills and ability to serve as an interface between science and business. This would require an ability to speak at any level appropriate for the audience. You will implement and collaborate with fellow scientists, software development engineers, and program managers, and will deliver business value in a close partnership with many stakeholders from operations, finance, IT, and business leadership.
+
+As Amazon is growing rapidly, driven by faster delivery to our customers, a more efficient supply chain network, and lower cost of operations, our main focus is in the development of analytical strategic models and automation tools fed by massive amounts of data. You will be responsible for building these models/tools that improve the economics of Amazon’s worldwide fulfillment networks in North America, European, and Japan, China, and India as Amazon increases the speed and decreases the cost to deliver products to customers. You will identify and evaluate opportunities to reduce variable costs by improving fulfillment center processes, transportation operations and scheduling, and the execution to operational plans. You will also improve the efficiency of capital investment by helping the fulfillment centers to improve storage utilization and the effective use of automation. Finally, you will help create the metrics to quantify improvements to the fulfillment costs (e.g., transportation and labor costs) resulting from the application of these optimization models and tools.
+
+The ideal candidate will have good communication skills with both technical and business people with ability to speak at a level appropriate for the audience.
+
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation
+
+Ph.D and at least 1-2 years work experience working as a member of an analysis team supporting business decision.
+
+Practical experience developing large-scale decision support tools
+
+Familiarity with forecasting and time series analysis
+
+Familiarity with machine learning techniques and technologies
+
+Familiarity with data visualization (e.g. R, ggplot, ggobi, Tableau)

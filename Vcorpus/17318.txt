@@ -1,0 +1,16 @@
+We believe a large part of building an effective insurance company can be solved with a systematic, quantitative framework. We are committed to the rigorous development and effective deployment of modern statistical machine learning methods to problems in the insurance industry.
+
+The Pricing R&D team is looking for a Principal Data Scientist to help improve and maintain our pricing models. In this role, you’ll be working alongside our Pricing R&D and Actuarial teams from ideation to deployment, rapidly researching and testing new, innovative approaches to loss cost modeling. The ideal candidate will have experience in Private Passenger Auto, with expertise in the research process, evaluation protocols, and post-deployment analyses.
+Responsibilities:
+Technical and thought leadership on the Pricing R&D team
+Continuous improvement of the predictive power of our loss cost models
+Development of a rigorous pre- and post-deployment frameworks
+Constantly search for new predictive rating elements
+Maintain and enhance the quantitative pipeline required for quickly moving proof-of-concepts into production
+Minimum Qualifications
+5+ years of applying advanced quantitative methods to pricing P&C insurance products, with a preference towards private passenger auto
+Strong, demonstrated experience building, validating, and applying statistical machine learning methods.
+Strong programming skills with experience using SQL and modern packages in R.
+Experience with large-scale analytics on AWS platforms
+Exceptional communicator and storyteller.
+Data science maturity

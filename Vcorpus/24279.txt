@@ -1,0 +1,60 @@
+:
+World Wide Technology (WWT) is a global technology integrator and supply chain solutions provider. Through our culture of innovation we inspire, build and deliver business results, from idea to outcome. Based in St. Louis, WWT works closely with industry leaders such as Cisco, HPE, Dell EMC, NetApp, VMware and F5, focusing on three market segments: Fortune 500 companies, service providers and the public sector.
+
+Check us out: https://www.youtube.com/user/worldwidetechnology
+
+Take an ATC Tour: https://www.wwt.com/services/atc/
+
+This position supports the US Army Corps of Engineers ACE-IT Program. Conducts or participates in multidisciplinary research and collaborates with equipment designers and/or hardware engineers in the planning, design, development, and utilization of electronic data processing systems software. Utilizing Application Programming Interfaces, including RESTful APIs, the appropriate programming language and COTS software, manages data across disparate systems for purposes of gaining new insights into the that data, and automates the deployment of infrastructure architectures designed by the Systems and Networking Engineers. Locates and integrates data sources for the purpose of process improvement for the customer. Locates and automates time consuming manual tasks. As an alternate to the DevOps Engineer, and under the direction of the DevOps Engineer automate Systems tasks in Ansible. As an alternate to, and under the direction of the ITSM Architect, integrates the ITSM tool set with newly deployed and existing infrastructure and home-grown software, and in coordination with the Operations teams, ensures that all Configuration Items in the Configuration Management Database are in a healthy state. Interfaces with all areas affected by the project including Government and Contractor Engineering team, Operations, and the end user. Defines project scope and objectives and develops detailed work plans, schedules, project estimates, resource plans, and status reports. Conducts project meetings and is responsible for project tracking and analysis. Directs and participates in high-level enterprise architecture analysis, evaluation, design, integration, documentation, and development. Applies high-level business and technical principles and methods to very difficult technical problems to arrive at creative engineering solutions. Recommends and takes action to direct the analysis and solutions of problems. Has a deep understanding of DoD business transformation and processes, DoD organizational structure, and experience in developing briefings and responses to executives both within and external to the department.
+
+Requirements:
+Collaborate openly and frankly with all internal and external partners, such as Government Engineers, Contractor Engineers, Contractor Operations staff, Management, and 3rd party vendors
+Work independently, help others and ask for help without hesitation
+Drive innovation through data analysis, process analysis and automation
+Determine innovative methods for using data sources
+Collaborate with DevOps and ITSM Engineers on methods for locating and normalizing data sources, and implementing new processes or automations based on the analyzed data
+Utilizing a multitude of COTS applications, and programming languages (e.g., Python, JavaScript), automate the collection of data, existing processes, and the deployment of new architectures (Infrastructure as Code). Primary tools and data sources include, but are not limited to:
+Tools, Automation, and Orchestration software: UiPath, Hitachi Analytics, SCCM, Puppet, Ansible, GIT, CI/CD, Python, Perl, PowerShell, T-SQL, REST
+Virtualization: vSphere, ESXi, vRealize Automation
+Microsoft: Windows Server, SQL Server, Cluster Server
+Oracle: Solaris, Database Server, WebLogic, Oracle HTTP Server, APEX, GoldenGate
+Linux: Red Hat Enterprise Linux, OpenLDAP
+Networking: Cisco Prime Infrastructure
+Storage: OnCommand Insight, OnCommand Unified Manager, Hitachi Command Suite, NTPSoftware
+Cloud architecture, e.g. Azure, Amazon Web Services, Google Cloud Platform
+ITSM Tool Set and CMDB: ServiceNow
+Other application stack software: Tomcat, WebSphere, ColdFusion, IIS, Identity Access and Management (IDaM), Sailpoint, CyberArk
+Provide technical guidance and leadership on the integration of software within the Corps of Engineers' environment
+Develop or analyze requirements in a Requirements Traceability Matrix, design and develop solution options in a Systems Engineering Plan, provide test plans, develop implementation plans including integration with existing systems in the production environment, provide engineering support through transition to operations and "Early Life" of new or upgraded systems/services in production, provide tools, processes and procedures for monitoring/performance measurement, event detection, problem identification and remediation, and troubleshooting assistance as needed after deployment
+In collaboration with the Government Engineer, bring proposed changes to the Change Advisory Board
+Give Continuous Service Improvement recommendations to the Chief Engineer
+Report on forthcoming End of Life or End of Support to the Government Engineering team and Contractor Operations support -- develop plans for replacement, to be included in the Technology Refresh Plan
+Perform detailed market research, develop Bills of Materials for Government consumption
+Develop or update, and continually maintain all as-built site infrastructure drawings and associated documentation
+Track work in the provided ITSM tool set and report all project status to the associated Government Engineer, Contractor Project Manager, and Engineering Leadership, etc.
+Provide monthly status reports to the Director of Engineering
+Document the data and software architecture, including automation and orchestration software, and design choices of the associated applications (Low Level Design, High Level Design)
+In collaboration with the ITSM Architect, integrate all systems into the enterprise Configuration Management Database
+Assist in daily operational duties regarding Automation/DevOps support, including working a ticket queue, and acting as the highest internal level of Automation/DevOps and Software Engineering, troubleshooting and problem management
+In coordination with Government partners, prioritize workload
+
+:
+Qualifications:
+* 5 or more years of relevant experience, or a 4-year degree, or military experience
+
+* Ability to obtain a Secret Clearance required
+
+* Ability to obtain within 6 months of hire, one of the following certifications:
+
+Certified Information Systems Security Professional (CISSP)
+
+--OR- Certified Advanced Security Professional (CASP)
+
+--OR- Security+ (Sec+)
+
+* Certification in an Operating Environment per AR25-2 regulations (e.g., MCP, OCP, CCNA, etc.)
+
+Preferred Qualifications:
+
+Prior USACE/ACE-IT experience.
+* Experience working in a DoD environment.

@@ -1,0 +1,43 @@
+Read what people are saying about working here. 
+
+Read something interesting online today? There's a good chance it reached you because of our technology.
+
+Taboola is the world's leading content discovery platform, serving 360B recommendations to over 1B unique visitors each month on the web's most innovative publisher sites, including NBC, USA Today, The Weather Channel, Tribune and Fox Sports.
+
+Taboola, the world’s largest content recommendation platform, is hiring a Senior Data Scientist to join our R&D Team in Downtown LA. This is the team that builds Taboola Newsroom, an innovating editorial tool powered by Taboola’s predictive engine and massive data set of over 1B internet users. Taboola Newsroom helps writers, editors and special-interest teams make informed decisions to increase readership.
+
+About You:
+
+You are a hyper-intelligent Data Scientist with a robust background in a big data environment.
+
+In this Job:
+
+You will build complex Data Science solutions for large-scale product initiatives, scaling up to a Petabyte of data. You will also:
+
+Design and build predictive customer behavior models for targeting and personalization
+
+Implement Machine Learning and statistics-based algorithms for prediction and optimization, then deliver to production
+
+Build and maintain code to populate HDFS, Hadoop with log from Kafka or data loaded from SQL production systems
+
+Design, build and support algorithms of data transformation, conversion, computation on Hadoop, Spark and other distributed Big Data Systems
+
+Requirements:
+
+5+ years of experience as a Data Scientist, preferably in Big Data Environment
+
+2+ years of programming experience in Java/Scala and/or Python
+
+Hadoop stack (HIVE, Pig, Hadoop streaming) and MapReduce
+
+HBase or comparable NoSQL
+
+SQL & database experience
+
+Experience with Google products: Google Cloud Storage, Google Analytics and Google Big Query (a plus)
+
+Bachelor’s degree in quantitative or related field
+
+Taboola is an equal opportunity employer and we value diversity in all forms. We are committed to creating an inclusive environment for all employees and believe such an environment is critical for success. Employment is decided on the basis of qualifications, merit, and business need.
+
+#LI-TC1

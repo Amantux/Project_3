@@ -1,0 +1,27 @@
+Role : Data Engineer
+
+Client :IQVIA
+
+Location : Raleigh, NC
+Good knowledge and Hands on Scala Programming
+•Good skills on modular program development in Scala
+•Data pipeline using Spark Scala
+•Load disparate data sets by leveraging Kafka consumers
+•Ability to utilize Hive, Spark, Cassandra, Mesos and Kafka
+•Experience with AWS components and services, particularly EMR, S3, and Lambda
+•Good understanding of file formats including JSON, Parquet, Avro, and others
+•Experience with open source NoSQL technologies such as Cassandra
+•Experience with messaging and complex event-processing systems such as Kafka and Storm
+•Extensive hands on Data frame and Dataset operations of Spark
+•Basic Understanding of Bigdata Technologies and Hadoop
+•Good knowledge on Hive and HiveQL
+•Knowledge on Cassandra Architecture and CQL is desirable
+•Build reusable code, with the ability to scale with very large data volumes
+•Knowledge on Java Programming is desirable
+•Data Migration/ETL knowledge is desirable
+•Expert knowledge of software development tools, practices, and lifecycle methodologies
+•Extensive experience with legacy and modern data warehouse concepts and implementations
+•Extensive experience with data integration concepts and implementations including ETL, ELT, CDC, streaming, pub/sub
+•Able to produce high quality design documentation and provide thorough reviews of design documentation produced by others
+Ability to establish and maintain effective working relationships with co-workers, managers and clients
+•Flexibility, ability to simultaneously juggle multiple complex projects and adapt to rapidly changing priorities

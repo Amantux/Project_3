@@ -1,0 +1,42 @@
+eBay is a global commerce leader that allows you to shape how the world buys, sells, and gives. Youll be part of a work culture thats been genuinely committed to diversity and inclusion since its founding more than 20 years ago. Here, you can just be yourself, do your best work, and have a meaningful impact on people across the globe. We are looking for people with drive, ideas, and a passion for helping small businesses succeed to help shape the future of eBaydoes this sound like you? If so, wed love to talk to you!
+
+About the team:
+
+Core Technology (CT) is a global team responsible for the end-to-end eBay technology platform. This platform runs our entire infrastructure and all the services that come together to form ebay.com.
+
+Data Service & Solution team empowers eBay businesses (eg. selling, buyer experience, payment, risk, marketing, advertising .. etc.) with data services & products, the team focus on data engineering & machine learning & data product development.
+
+As applied data scientist, you will closely work with product managers, data engineers and application developers to find out business insights from eBay data, and drive business decision & operation with data insights. Recent area you will focus on are abnormal signal detection and forecast upon time series data, natural language processing in argument analytics product, demand signal and forecast, graph embedding algorithms etc. You will be responsible to work with data engineers on feature engineering, design and train machine learning models, research academic papers, adapt science with product requirements and engineering.
+
+Role:
+
+We are using recently machine learning techniques to enable sophisticated analytics on eBay's performance and user behavior data. We are working in the following directions,
+Anomaly detection of structured time series data
+Demand forecasting and campaign optimization
+Dynamic network analysis with recent advance in graph embedding techniques
+Qualifications:
+MS/PhD degree in CS/EE or related areas and top conference publication (ICML, ACL, KDD, WWW) are highly preferred
+Outstanding expertise and hands-on 3-5 years of experience on machine learning (generative models, time series and network analysis)
+Familiarity with Python with hands coding experience with Pytorch or Tensorflow
+Familiarity with distributed data processing/analysis such as Map-Reduce and Spark
+Passionate, proactive
+Effective communication skills, both verbal and written
+Benefits:
+
+Benefits are an essential part of your total compensation for the work you do every day. Whether youre single, in a growing family, or nearing retirement, eBay offers a variety of comprehensive and competitive benefit programs to meet your needs. Including maternal & paternal leave, paid sabbatical, and plans to help ensure your financial security today and in the years ahead because we know feeling financially secure during your working years and through retirement is important.
+
+Here at eBay, we love creating opportunities for others by connecting people from widely diverse backgrounds, perspectives, and geographies. So, being diverse and inclusive isnt just something we strive for, it is who we are, and part of what we do each and every single day. We want to ensure that as an employee, you feel eBay is a place where, no matter who you are, you feel safe, included, and that you have the opportunity to bring your unique self to work.. To learn about eBays Diversity & Inclusion click here: https://www.ebayinc.com/our-company/diversity-inclusion/.
+
+This website uses cookies to enhance your experience. By continuing to browse the site, you agree to our use of cookies
+
+View our privacy policy
+
+View our accessibility info
+
+eBay Inc. is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, sexual orientation, gender identity, veteran status, and disability, or other legally protected status. If you are unable to submit an application because of incompatible assistive technology or a disability, please contact us at talent@ebay.com. We will make every effort to respond to your request for disability assistance as soon as possible.
+
+For more information see:
+
+EEO is the Law Poster
+
+EEO is the Law Poster Supplement

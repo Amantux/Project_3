@@ -1,0 +1,47 @@
+The Department of Developmental Neurobiology (DNB) at St. Jude Children's Research Hospital is seeking a motivated Data Scientist to join its Neuroimage Analysis Core. Researchers in DNB study the neural circuits that underly neuropsychiatric disorders, arousal, attention and motor function. Recent advances in machine learning have enabled a revolution in how animal behavior is studied. These new approaches enable insights into how neural circuits contribute to behavior. You will join a dynamic team in DNBs fast-paced research environment to apply machine learning approaches in the analysis of animal behavior and develop innovative solutions to advance our understanding of the role of individual neural circuits in complex behaviors. You will work closely with the Neuroimage Analysis Core, the Neurobehavior Core and the Center for Bioimage Informatics.
+
+Preferred experience
+
+• Experience in deep learning is preferred.
+
+• Experience in using machine learning to analyze time-series data is preferred.
+
+• Experience in using computer-vision for tracking and pose-estimation is preferred.
+• Experience in using established image analysis platforms (e.g.: ImageJ/Fiji, CellProfiler) is preferred.
+
+• Experience in working with large image data volumes is preferred.
+
+• Experience in biological/medical imaging is preferred.
+
+What you will be doing:
+• Test algorithms and develop data analysis pipelines utilizing a variety of existing and custom software libraries.
+• Consult with St. Jude researchers and staff to exploit the full potential of machine learning in propelling individual experiments and research projects forward.
+• Work collaboratively with the Neurobehavior Core and the Center for Bioimage Informatics on rodent behavior analysis approaches using machine learning.
+• Deploy algorithms in an HPC context and optimize for accuracy and speed.
+Bachelor's degree is required.
+Master's degree or PhD is preferred.
+Six (6) years of relevant experience is required.
+Four (4) years of relevant experience may be acceptable with a Master's degree.
+No experience may be acceptable with a PhD in Computer Science or Bioinformatics, with a background in the biological sciences.
+Experience in programming (Python, Java, C/C++, perl or other programming/scripting languages) under linux/unix environment is required.
+Experience with and the ability to deal with a wide range of users is required.
+Experience of independent data analyses and project management is required.
+End user support and training experience is required.
+Experience with open source software development preferred.
+Experience in development of algorithms, statistical methods or scientific software preferred.
+Experience in next-generation sequence analysis or imaging analysis is preferred.
+Experience in working with high-throughput data sets in a highly competitive environment is preferred.
+Experience in working in a team project is preferred.
+Cross training in biological sciences (e.g. genomics, genetics, transcriptomics and epigenetics) preferred.
+Scripting experience using a statistics package such as R, S-Plus or SAS preferred.
+Experience in personnel management preferred.
+Benefits
+
+Salary is highly competitive (comparable to industry) and employee benefits are outstanding. Relocation assistance is available. Working at St. Jude provides the opportunity to make a tangible difference to pediatric cancer patient care and survival and St. Jude has been consistently ranked in Fortune magazines 100 Best Places to Work list and is exceptionally positively reviewed on GlassDoor.
+
+St. Jude is an Equal Opportunity Employer
+
+No Search Firms:
+
+
+St. Jude Children's Research Hospital does not accept unsolicited assistance from search firms for employment opportunities. Please do not call or email. All resumes submitted by search firms to any employee or other representative at St. Jude via email, the internet or in any form and/or method without a valid written search agreement in place and approved by HR will result in no fee being paid in the event the candidate is hired by St. Jude.

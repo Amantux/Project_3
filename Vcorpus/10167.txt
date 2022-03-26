@@ -1,0 +1,51 @@
+Job Description:
+
+The Data Scientist will be responsible in assessing AI (Artificial Intelligence) solutions implemented across the bank (built internally or externally) to identify any risks which may have unintended consequences. Thereby, assisting Bank of America to follow principles of Responsible AI (Fairness/Equality/Justice, Privacy, Transparency etc).
+
+Review, critical assessment and challenge of models on conceptual soundness, assumptions and limitations, data, developmental evidence in support of modeling choices, performance and implementation.
+
+Understand the core methodology in AI solutions and the context in which it will be deployed so as to find risks/gaps
+
+Develop efficient methodologies to detect and to quantify risks/gaps in AI solutions
+
+Suggest alternative approaches or controls to mitigate risks/gaps identified
+
+Develop and implement testing plans and testing code in order to challenge models through empirical analyses and to verify model implementation
+
+Create metrics to quantify risks/gaps specific to each AI solution and define thresholds after consulting with all stakeholders
+
+Monitor metrics for breach of thresholds
+
+Look for unexpected risks / unintended consequences of an AI solution over its life cycle
+
+Write technical reports for distribution and presentation to model developers, senior management, and audit R
+
+Required Skills:
+
+PhD or Masters/Bachelors in a quantitative field such as Mathematics, Physics, Finance, Engineering or Statistics;
+
+2- 5 years of professional experience as a Data Scientist or related roles
+
+Experience with Machine Learning/Deep Learning techniques like Linear Regression, ARIMA, Decision Trees, Gradient Boosted Trees, PCA
+
+Factor Analysis, Clustering, SVM, CNN,RNN-LSTM, NLP- GloVe/Word2Vec etc.
+
+Programming experience using SAS / R/ Python required ? Knowledge of model performance measures required
+
+Preferred Skills:
+
+Knowledge of financial instruments and financial risk management principles is beneficial
+
+Ability to understand and implement techniques discussed in AI research papers (academic and technical)
+
+Background in Audit/ Model Risk Management/ Legal/Compliance areas are preferred
+
+Candidates with certifications like CFA, FRM are preferred.
+
+Shift:
+
+1st shift (United States of America)
+
+Hours Per Week:
+
+40

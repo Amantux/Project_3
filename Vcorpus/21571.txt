@@ -1,0 +1,32 @@
+Who We Are:
+
+
+Twitter users generate many terabytes of data every day; The TwS analytics team is at the intersection of all this data and strives to make it actionable to all business units within TwS. Analytics team build real-time and offline solutions to make data accessible and reliable -- and then apply them to the most critical and fundamental analytical problems to guide TwS business decisions via observational analyses, trend analyses, modeling, and new measurement strategies.
+
+What You’ll Do:
+
+
+We are trying to improve Twitter Service. To improve something, we need to be able to measure it. You will enable better measurements and ensure measurement accuracy so that we know where we are doing well and where we want to improve.
+
+You’ll partner with product, technology, and ops leaders to turn business problems into data problems and demonstrate creativity by using existing data to solve those problems. You have at least 8+ years of experience in applied data science and analytics, including hands-on development and deployment of predictive modeling/machine learning models.
+Collaborate w/business partners to identify opportunities, understand objectives, and rationalize efforts to support strategic business objectives w/ both short-term and long-term deliveries in an environment with high SLA expectations.
+Advanced - SQL , Python (descriptive / predictive models) and Tableau viz. Working knowledge of Hadoop, BigQuery, Presto, Vertica, Excel
+Own the end to end data science process, from initiation to deployment, and through ongoing communication and collaboration, sharing of results to partners and leadership.
+Drive personalization, real-time decision-making, causal inference, and predictive analytics capabilities through the application of Machine Learning, Deep Learning, NLP, and Simulation in an agile development framework.
+Conduct quantitative analysis of experimental, and textual data to generate insights and drive decision making (ANOVA, Regression, Chi-Sq, AB, pre-post etc..)
+[Preferred] Ability to write Scalding job for data extraction and aggregation. Working knowledge of Data warehousing principles
+Write well documented code that can be shared and used across teams, and can scale to be used in existing products
+Soft skills:
+Ability to communicate findings clearly to both technical and non-technical audiences and to effectively collaborate within cross-functional teams
+We follow agile framework and processes. Hence, cross-functional collaboration, communication skills and a focus on delivering a great user experience are a must
+You should be comfortable managing work plans, timelines and milestones
+You have a sense of urgency, move quickly and ship things
+Bonus Points:
+You're experienced in metrics and experiment-driven development
+Experience in statistical methodology (multivariate, time-series, experimental design, data mining, etc.)
+Industry experience (retail or service is a plus but not a prerequisite)
+Note: Potential exposure to sensitive or graphic content, including but not limited to vulgar language, violent threats, pornography, and other graphic images.
+
+You will see a direct link between your work, TwS growth, and user satisfaction.
+
+We are committed to an inclusive and diverse Twitter. Twitter is an equal opportunity employer. We do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic information, marital status or any legally protected status.

@@ -1,0 +1,51 @@
+Bigger challenges. Bolder ideas. Global impact. At Viasat, we're on a mission to deliver connections with the capacity to change the world. We're the company behind the world's fastest satellite internet service, with technology that's helping to bridge the digital divide and improve life for our customers around the globe. By providing powerful new ways for people to connect with one another, gain greater access to education, entertainment, medical research, commerce, and much more, our team is empowering millions of customers worldwide.
+
+We're growing rapidly and looking for passionate, innovative professionals to join our team and connect the world to more. You'll work in a collaborative and inclusive environment that values diverse perspectives and continuous learning, and provides industry-leading benefits with unmatched opportunities for career growth. Our team is fearless in pursuit of new ideas and uncompromising in our quest to become the world's first truly global Internet Service Provider. Interested in joining our mission? Take a look at career opportunities at Viasat today.
+
+Job Description
+
+Every day, petabytes of data from Viasat networks across the globe are collected, processed, and stored - and our Cybersecurity Analytics team within ANCS mines this data to reveal new insights. The Cyber Security Data Scientist will leverage cutting edge technologies to perform statistical analysis and inference, data modeling, clustering and predictive analysis. As a key member of the technical team, you will translate cyber and network security related questions into sophisticated models and help derive new insights to drive business decisions, and protect and defend against cyber-attacks. You will be working with unique data sets, security appliances and interdisciplinary teams to create complete and holistic analyses. You will help create elaborate models focusing on network traffic due to malware and cyber threat detection that will analyze and predict their security risks.
+
+Our Team
+
+Our Cyber Security Data Analytics Team is dedicated to keeping our customers safe and making our networks cyber resilient while preserving our casual, start-up atmosphere and environment. On Viasat’s multiple networks we see a diversity of cyber-attacks every day including from the most sophisticated attackers, Advanced Persistent Threats (APTs) and nation states. We employ the latest technologies (Spark, Kafka, Impala, Hadoop) to analyze Petabytes of data our operational systems collect. Our developers, data scientists, security analyst and engineers collaborate in multi-disciplinary teams to gain insight; solving both business and technical problems.
+
+Job Opportunity
+
+Cybersecurity Data Scientists serve as the backbone of the Cybersecurity Analytics team. Some of the job duties include, but are not limited to:
+
+ Parameterization and Abstraction: Use data-driven methodologies to discover/develop and abstract key security and malware metrics across multiple models and network segments to support network traffic due to malware and security threat evaluation and analysis, including evaluation of alternate threat detection and network bandwidth consumption due to malware models and future business scenarios.
+
+ Modeling: Architect, Design, Build and Support data models using both real time and historical analysis approaches to support security, business, technical planning, and decision-making.
+
+ Visualization: Create visualizations and reports to effectively convey the information discovered through data analysis.
+
+Requirements
+
+Master's degree or higher in Computer Engineering, Computer Science, Cyber Security, Informatics, Data Science or related technical field or equivalent practical experience
+
+Experience with Big Data technologies such as Spark, Impala, Hadoop
+
+Excellent understanding of several statistical and machine learning models
+
+Extensive experience with data analysis tools such as R, Python, Jupyter, Anaconda, Scikit-learn, BigML, TensorFlow, RapidMiner, Weka, Matlab, Tableau and Others
+
+Basic understanding of networking fundamentals
+
+Excellent communication skills (writing, presenting, storytelling and visualization) troubleshooting, problem solving, and critical thinking
+
+Interested in pursuing a career in the cybersecurity domain
+
+Ability to travel up to 10%
+
+Preferences
+
+Info Security / Cybersecurity Experience
+
+Bioinformatics degree
+
+Intermediate level knowledge of networking stack including TCP/IP
+
+Experience with Machine or Deep Learning and TensorFlow applied to Cybersecurity
+
+PhD in a data related field such as mathematics, informatics, computer science, physics, or similar

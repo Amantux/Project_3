@@ -1,0 +1,4 @@
+"0","```r
+sandy_data_by_year <- sandy_data %>% group_by(date) %>% 
+  summarise(across(everything(), sum))
+```"

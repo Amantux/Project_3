@@ -1,0 +1,45 @@
+Company Description
+
+Liongard is a fast-growing tech startup based in Houston, Texas. Liongard’s mission is to enable relentless insight through automation to unleash IT teams to operate at 10x! Our customers are Managed Service Providers (MSPs) that are now managing into a complex modern IT stack – from cloud services like Office 365 and GSuite to network devices, apps, services and databases. Our customers love us because our product, Roar, gives them deep visibility into all the systems and configurations managed and bring it all back to one unified dashboard. This allows them to troubleshoot issues faster, track changes over time, receive alerts when something is misconfigured, and generate reports across all of their environments and systems.
+
+We have built an amazing team that has allowed us to grow extremely quickly, while continuing to rapidly improve the product and respond to our improving understanding of our customers’ needs. The product is truly unique in its capability to unify the wide array of systems that represent the modern IT stack. We are excited about our industry-leading capabilities for empowering MSPs, and are well-positioned to continue developing cutting-edge capabilities that we’ve planned on our roadmap.
+
+Liongard is a product and customer focused company, and that is really evident in our core values which drive both how we work and who we hire:
+Listen & Learn – Be a sponge. We are focused on learning, not perfection.
+Adapt & Automate – Respond to what’s been learned.
+Execute as a Team – Collaborate to all row in the same direction.
+Focus on Visible Progress – Commitment to excellence through iteration.
+Teach – The best path to mastery is through teaching. Provide thought leadership!
+Job Description
+
+As a Software Engineer, you'll join a talented, collaborative, and growing engineering organization whose main responsibility is to solve challenging problems and manage complexity as the product continues to grow and change. Team members have the ability to make an impact every day by contributing code across all of our codebases which include the following:
+a web application written primarily in Node.js/Typescript, composed of a REST API and a React.js UI.
+an agent that is installed both in the cloud and on-premise
+Postgresql database
+Our inspectors which are responsible for collecting data from systems and reporting it back to our platform are language agnostic, implemented in whatever language fits the job best (Node.js, Python, Golang, Bash, Powershell, etc).
+Communication and collaboration tools: Atlassian suite (Jira, Bitbucket, Confluence), Slack
+In addition to experience with the tools we use, the best candidates for this role are going to be absolutely fantastic communicators, with a great attitude and high level of attention to detail. Additionally, we have a lot of fun together: quarterly hackathons, weekly team lunches, bi-weekly lunch and learns, regular team outings, and just enjoying each other's company in the office.
+
+Responsibilities
+Work as a software engineer in a fast paced environment with a growing engineering team
+Contribute readable, maintainable, and performant code to our existing codebases
+Participate in code reviews with other members of the development team
+Follow standard Software Development Lifecycle practices to ensure both quality and efficient delivery of code: requirements, design, and testing
+Work with the Product team to solidify and validate code requirements
+Work with the Engineering team to solidify and validate software designs as well as to solidify and validate software test plans
+Debug and determine root causes for customer issues in the field, clearly communicating resolutions and workarounds to both customers and the internal team
+Contribute to internal and external knowledge base articles and documentation
+Develop blameless postmortems to identify points of failure and prevent future issues
+Qualifications
+2+ years of experience as a software engineer working on a team in an agile environment.
+BS or higher in Computer Science or related field
+High level of competency in at least one programming language, preferably Node.js
+Experience programming web applications, and interacting with REST APIs
+Excellent verbal and written communication skills, problem-solving skills, and customer service and interpersonal skills
+Strong experience with development tools such as the following: git, any code review tool, continuous integration, etc
+Experience with React, Python, or integration development is a plus
+Experience with general IT Infrastructure or Managed Service Providers is a plus
+Experience with AWS infrastructure and/or Powershell is a plus
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.

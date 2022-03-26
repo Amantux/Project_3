@@ -1,0 +1,42 @@
+This is an exciting opportunity to join an innovative and growing data centric team within the Marketing department.
+The Marketing Analytics team is responsible for using data to make decisions, which includes the development of frameworks and models that are leveraged to optimise marketing programs, drive efficiency and generate action from analytic insights.
+This project can be seen as "foundational " to understand our customer's experience and journey on client and how analytics gathered from this experience can be used to make informed decisions about Marketing spend, campaigns, client journey, new client acquisition, web site organization, web site page recommendation etc.
+The role involves the below listed marketing datasets that need to be extracted from respective system and transferred to EDH. The datasets are
+GA 360 – Google Big Query - Web site navigation hit level data. Demandbase data also available along with
+GA 360 – Google Reporting API - Web site navigation session level aggregated level data. Demandbase data also available along with
+Pardot - Marketing e-mail application
+Client's LDAP dataset
+Responsibilities:
+Use the Client's AWS, Google Cloud Platform and Client's on premise data center to:
+Test and validate the Proof of Concept (POC) GA 360 – Google Big Query data to AWS S3
+Complete end to end development, test and validate the POC Pardot - Marketing e-mail data to AWS S3
+Operationalize the above listed items (4 data sets) in production environment with the broadly outlined tasks/steps
+Set up infrastructure – Client's on premise data center (DC3)
+GCP components set up
+AWS set up
+Streaming data from GCP through DC3 to AWS
+Data transfer Network & Security - GIS
+Build & Deploy Pipelines
+Scheduler for daily and history runs
+Production operations and support
+QA - Validation of daily transfer and landed data
+Education & Experience
+BS/BA in Computer Science and Engineering, Mathematics, Statistics or equivalent experience utilizing a different degree
+MS or progress towards MS in Computer Science and Engineering including Machine Learning, Advanced Mathematics, Applied Statistics is preferred
+Certification and or experience in cloud computing or big data technologies
+Programming and devops experience in an enterprise wide setting is required
+Experience in enterprisewide database system is required
+Experience with data analysis, data modelling is strongly prefered
+Combination of technical/quantitative and business acumen are strongly preferred
+Job Qualifications
+Expertise in Python for data analysis is a must, other shell scripting languages
+Expertise in SQL (Oracle, Postgres, etc.)
+Experience with using Analytical functions in SQL
+Experience with Datawarehouse is a plus
+Experience with a visualization tool Tableau
+Experience with Google BigQuery, Apache Spark, Hadoop, Hive, and other Big Data technologies
+Experience with AWS (EMR, S3, Lambda, DynamoDB, Athena, etc.) or other similar cloud services
+Experience working with version control tool – Git, Stash, Bitbucket
+Experience with build and automation tools – Jenkins, Chef etc
+Exposure to Google Analytics
+Strong communication, organizational and multitasking skills with ability to balance competing priorities

@@ -1,0 +1,49 @@
+Software Engineer - Cloud
+
+Futurex is seeking a talented software engineer with experience integrating applications with cloud services like AWS, Microsoft Azure, and Google Cloud Platform OR experience developing applications with a focus on high availability & scalability to work on VirtuCrypt, Futurex's Crypto-as-a-Service cloud platform. Among other requirements, applicants must have at least 3 years of experience as a developer using Python on Linux systems.
+
+Our world-class software engineering team is based at Futurex's Engineering Campus in the Hill Country just north of San Antonio, Texas. This role offers an opportunity for candidates to expand their talents by participating directly in the development of production software. Individual visibility within the team is high, and opportunities for rapid advancement exist.
+
+Qualified candidates possess strong Python scripting skills, as well as the ability to code, test, and debug software; interpret technical information relating to software development; and communicate effectively. The position involves developing & improving an existing codebase providing SaaS security services, developing high availability & disaster recovery solutions, as well as documenting methods and procedures.
+
+Responsibilities
+Design, develop and implement updates & improvements to existing code base
+Designs and supports mission-critical, high-availability architectures
+Analyzing and resolving technical and application problems
+Work with the team to define scaling strategies for existing applications
+Write maintainable code with extensive test coverage, working in a professional software engineering environment (with source control, release cycle and continuous deployment).
+Integrating 3rd-party cloud services including data and application integration
+Qualifications
+Bachelor's degree or higher in computer science, engineering, or similar field
+3-5 years of professional experience as a developer
+3 years of software development experience in Python
+Motivated, self-starting, and eager to learn
+Must have experience in at least one of these areas:
+Cloud Integration Engineer
+
+- Experience integrating with cloud services like AWS, Microsoft Azure, Google Cloud Platform
+
+Cloud Application Developer
+
+- Experience developing an application with a focus on high availability
+
+- Experience developing an application with a focus on scalability
+
+- Experience with SaaS platforms
+
+Strongly Preferred
+Experience developing Flask application microframework
+Experience with container networking on Docker
+Experience with building and maintaining high availability systems on Kubernetes
+General DevOps experience
+Benefits
+A key role in production-level software projects working directly on cutting-edge encryption technology with a fast time to market
+Competitive compensation and opportunities for advancement
+Flexible scheduling policy
+Company-provided snacks and drinks
+Scenic corporate campus with amenities including a tennis court, jogging trail, and putting green
+Welcoming, family-style corporate culture uniquely suited to fast-paced, entrepreneurial, and motivated individuals
+Location
+
+
+Bulverde, Texas

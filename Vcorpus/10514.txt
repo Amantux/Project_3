@@ -1,0 +1,59 @@
+Octo is currently seeking a Platform Security Engineer to join a growing team on an exciting and highly visible project for a DoD customer.
+
+The project you will be working is to define and design the data architecture and taxonomy in preparation for conducting extensive analysis of the data ingested via Air Force existing legacy applications to a more evolvable architecture that can better leverage a cloud environment to deliver better technology, reduce program sustainment costs, and higher system reliability. Our approach is to transform legacy applications to be cloud native and reside on a Platform as a Service (PaaS). Additionally, modernize current applications by breaking them down into loosely coupled micro-services, and leveraging a continuous integration / continuous delivery pipeline to enable an agile DevOps Strategy.
+
+Octo Data Scientists on this project will have an opportunity to …receive 6+ months of Pivotal Cloud Foundry training as part of the standard on-boarding process for this project.
+
+You…
+
+As a Data Scientist at Octo, you will be involved in the analysis of unstructured and semi-structured data, including latent semantic indexing (LSI), entity identification and tagging, complex event processing (CEP), and the application of analysis algorithms on distributed, clustered, and cloud-based high-performance infrastructures. Exercises creativity in applying non-traditional approaches to large-scale analysis of unstructured data in support of high-value use cases visualized through multi-dimensional interfaces. Handle processing and index requests against high-volume collections of data and high-velocity data streams. Has the ability to make discoveries in the world of big data. Requires strong technical and computational skills - engineering, physics, mathematics, coupled with the ability to code design, develop, and deploy sophisticated applications using advanced unstructured and semi-structured data analysis techniques and utilizing high-performance computing environments. Has the ability to utilize advance tools and computational skills to interpret, connect, predict and make discoveries in complex data and deliver recommendations for business and analytic decisions. Experience with software development, either an open-source enterprise software development stack (Java/Linux/Ruby/Python) or a Windows development stack (.NET, C#, C++). Experience with data transport and transformation APIs and technologies such as JSON, XML, XSLT, JDBC, SOAP and REST. Experience with Cloud-based data analysis tools including Hadoop and Mahout, Acumulo, Hive, Impala, Pig, and similar. Experience with visual analytic tools like Microsoft Pivot, Palantir, or Visual Analytics. Experience with open source textual processing such as Lucene, Sphinx, Nutch or Solr. Experience with entity extraction and conceptual search technologies such as LSI, LDA, etc. Experience with machine learning, algorithm analysis, and data clustering.
+
+Us…
+
+We were founded as a fresh alternative in the Government Consulting Community and are dedicated to the belief that results are a product of analytical thinking, agile design principles and that solutions are built in collaboration with, not for, our customers. This mantra drives us to succeed and act as true partners in advancing our client’s missions.
+
+What we’d like to see…
+
+Full-stack software development experience with a variety of server-side languages such as Java, C#, PHP, or Javascript (NodeJS)
+
+Experience with modern front-end frameworks like React, Vue, or Angular
+
+Intimate knowledge of agile and lean philosophies and experience successfully leading software teams in the practice of these philosophies
+
+Experience with Continuous Delivery and Continuous Integration techniques using tools like Jenkins or Concourse
+
+Experience with test-driven development and automated testing practices
+
+Experience with data analytics, data science, or data engineering, MySQL and/or Postgres, GraphQL, Redit, and/or Mongo
+
+Experience with building and integrating at the application and database level REST/SOAP APIs and messaging protocols and formats such as Protobuf, gRPC, and/or RabbitMQ
+
+Experience with Pivotal Cloud Foundry
+
+Experience with Event/Data Streaming services such as Kafka
+
+Experience with Enterprise Service Bus and Event Driven Architectures
+
+Experience with prototyping front-end visualization with products such as ElasticStack and/or Splunk
+
+Strong communication skills and interest in a pair-programming environment
+
+Bonus points if you…
+
+Possess at least one of the Agile Development Certifications
+
+Certified Scrum Master
+
+Agile Certified Practitioner (PMI-ACP)
+
+Certified Scrum Professional
+
+Have proven experience writing and building applications using a 12-factor application software architecture, micro services, and API
+
+Are able to clearly communicate and provide positive recommendation of improvements to existing software applications
+
+Years of Experience: 5 years or more
+
+Education: Associates in a Technical Discipline – Computer Science, Mathematics, or equivalent technical degree
+
+Clearance: SECRET

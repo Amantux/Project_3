@@ -1,0 +1,31 @@
+Nokia is a global leader in the technologies that connect people and things. With state-of-the-art software, hardware and services for any type of network, Nokia is uniquely positioned to help communication service providers, governments, and large enterprises deliver on the promise of 5G, the Cloud and the Internet of Things. Serving customers in over 100 countries, our research scientists and engineers continue to invent and accelerate new technologies that will increasingly transform the way people and things communicate and connect.
+
+Responsibilities include:
+
+Protocol development of software on a real-time operating system, including design, and coding, as well as maintenance of software.
+
+Requirements:
+
+Must be strong in ‘C/C++’ and data structures programming. Good in operating system and networking concepts. Protocol development preferably, wireless experience, such as development on SGSN, GGSN, using GTP, charging protocols, RADIUS, Diameter IP and routing protocols is added advantage.
+
+Responsibilities include:
+
+1. Architecture of the functional modules for 4G/5G gateways
+
+2. Unit testing of features developed on Packet and Serving gateways
+
+3. Maintenance of software developed, support and technical assistance
+
+4. Should be able to mentor junior engineers in team.
+Education and experience:
+
+BSCS or BSCE with 8 years or MSCS or MSCE with 5 years.
+
+MS in Computer Science or Elec. Eng. (with understanding of networking)
+
+Familiarity with IP network protocols
+
+Familiarity with UNIX based and real-time operating systems Strong C programming skills Experience in developing network protocols Experience in debugging and maintaining control plane software
+Nokia is an equal opportunity employer that is committed to diversity and inclusion. At Nokia, employment decisions are made regardless of sex, gender identity or expression, sexual orientation, race, ethnic origin, color, creed, religion, national origin, citizenship, age, marital status, physical or mental disability, genetic information or ancestry, protected Veteran or military status, or other characteristics protected by law.
+
+Apply now.

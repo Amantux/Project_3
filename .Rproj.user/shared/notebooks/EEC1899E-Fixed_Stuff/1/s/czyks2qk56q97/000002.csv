@@ -1,0 +1,15 @@
+"0","```r
+library(tidyverse)
+library(magrittr)
+
+sandy_data <-read_csv(\"https://raw.githubusercontent.com/dianaplunkett/607/main/sandy-311-calls-by-day.csv\")
+```"
+"1","Rows: 1783 Columns: 25
+-- Column specification ----------------------------------------------------------------------------------------
+Delimiter: \",\"
+chr  (1): date
+dbl (24): NYC-3-1-1, ACS, BPSI, CAU, CHALL, DEP, DOB, DOE, DOF, DOHMH, DPR, FEMA, HPD, HRA, MFANYC, MOSE, NY...
+
+i Use `spec()` to retrieve the full column specification for this data.
+i Specify the column types or set `show_col_types = FALSE` to quiet this message.
+"

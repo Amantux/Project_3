@@ -1,0 +1,32 @@
+DESCRIPTION
+
+GrainBridge is seeking a talented data scientist who is passionate about technology to help us build the next generation of Ag software for the worlds producers. Successful candidates will have the opportunity to join our highly collaborative team and to work with the latest cloud technology stacks while building enterprise customer-facing Ag technologies.
+
+As a data scientist at GrainBridge you will develop cutting edge data pipelines, build accurate statistical/predictive models, and deploy cloud technologies that provide forecasting insights and predictive decision support capabilities to producers throughout the world. We are looking for a talented, driven, and analytical individual to help us discover innovative ways to leverage data that will fundamentally change the way the producers manage their operations.
+
+KEY RESPONSIBILITIES
+Work with executive management, product and engineering teams to imagine innovative ways to utilize data in order to provide valuable insights to our customers
+Develop solutions through ad hoc analysis, statistical inference, predictive modeling and scalable algorithms/models to solve specific business problems
+Develop new data sources, testing models and model parameters
+Design and develop predictive systems
+Collaborate with executive management, product and engineering to define feature requirements, provide analytical support, and communicate feedback
+Analyze complex third-party datasets to determine the desirability of and the use cases for their data
+Create visualizations to drive data insights
+Mentor data architects and engineers
+BASIC QUALIFICATIONS
+Masters degree in a quantitative field (data science, computer science, mathematics, machine learning, AI, statistics, or any math-intensive degree program)
+3+ years of experience working in data science with large-scale, complex datasets that support machine learning, predictive analytics, forecasting and optimization models
+Experience with Python and Jupyter notebooks
+Demonstrated ability to quantify and deliver customer experience improvements as a result of research
+Ability to distill informal customer requirements into concise problem definitions
+Experience working with SQL and relational/NoSQL databases
+Ability to adapt modeling methods from other disciplines and apply them to new problem domains
+Excellent communication and data presentation skills, including the ability to effectively collaborate with executive management, product and engineering teams
+Strong mathematical background
+PREFERRED QUALIFICATIONS
+PhD in a quantitative field (data science, computer science, mathematics, machine learning, AI, statistics, or any math-intensive degree program)
+Experience applying data science to Ag-related applications
+Familiarity with causal inference, applied time series modeling, machine learning forecasting applications and associated tools/technologies
+Practical understanding of supervised and unsupervised learning methods and mathematical optimization
+Experience building customer-facing data visualizations
+Familiarity with AWS cloud technologies that support data science, machine learning, analytics and big data storage

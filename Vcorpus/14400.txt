@@ -1,0 +1,43 @@
+Aspiration is the first VC-backed neobank on a mission to be the leading consumer financial services brand and company focused on sustainability and the environment. At Aspiration, we created the category of sustainable, socially responsible retail consumer finance. We offer unique financial products to let people save, spend, and invest their money in ways that make them more financially secure and align with their personal values. Unlike other financial institutions, Aspiration is committed to building a relationship with our customers based on trust and aligning the customer’s success with our own. Aspiration has raised over $200M in funding to date, and is growing quickly.
+
+We are looking for smart and highly motivated individuals of our Data Engineering team to contribute towards the success of Aspiration goals - to bring fair financial products to masses. This is a hands-on technical role and will be responsible for building scalable solutions as it relates to data architecture strategies, data standards, and data integration tools.
+
+What You'll Do
+Build and extend a scalable and modern data analytical environment
+Architect, design and develop end-to-end data pipelines across multiple data sources and systems of record
+Develop, design data models, data structures for data acquisition and manipulation purposes
+Build custom metadata-driven frameworks using programming languages as well as leveraging off-the-shelf integration tools, as appropriate
+Create ETL/ELT processes based on mapping specification documents (STMs)
+Ensure data quality, integrity, security and completeness throughout the data lifecycle
+Perform ongoing monitoring, automation and refinement of data engineering solutions
+Surface data in company chosen BI tool for self-service usage
+Analytical infrastructure support and enhancement
+Enable data science team by providing necessary infrastructure and tools
+Interface closely with product, engineering and business divisions
+Deep understanding of the cloud offerings and engage in quick proof of concepts and proof of value in prototyping data and analytics solutions and derive viability
+Ability to interact with the business stakeholders to understand requirements and translate into technical solutions
+Build and meet project timelines and manage delivery commitments with proper communication to management
+What You'll Bring
+5+ years of experience with SQL
+5+ years of experience in ETL concepts/technologies and data modeling
+Thorough understanding of relational and analytical databases
+Strong technical, logical and problem-solving skills
+Experience with working on multiple tasks/projects in parallel
+Ability to manage multiple deliverables in a highly energized and fast-paced environment within a framework of constantly shifting deadlines and deliverables
+Working experience in a fast-paced and agile environment
+Ability to work well in a team environment and brainstorm ideas with other team members.
+Flexibility to adapt to a change and willing to learn and develop new skill sets as applicable
+Ability to learn new technologies without formal training
+Experience with ETL/ELT tools, e.g. Matillion, Talend, Pentaho, SyncSort, SSIS is a big plus
+Experience with BI tools, e.g. Looker, Tableau, MicroStrategy, Mode is a big plus
+Experience in programming/scripting languages (c#/java/bash/powershell/ruby/python) is a big plus
+Experience with Snowflake,Amazon Redshift, S3, Elastic MapReduce, Hive, and other AWS services, or equivalent technologies is a big plus
+Experience ingesting and transforming data from APIs is a big plus
+Experience with real-time data capture, processing, and storing using technologies like Kafka, AWS Kinesis.
+Prior experience with MPP databases and maintaining a large amount of data processing is a big plus
+What You'll Get
+Work for a mission-driven company to transform the lives of millions by building a better, values-oriented financial firm
+Competitive Salary and Equity Incentives
+Robust Healthcare Plans (medical, dental, vision)
+401K & Unlimited Vacation Time
+Diverse & Inclusive Culture

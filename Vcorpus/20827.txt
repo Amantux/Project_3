@@ -1,0 +1,32 @@
+RESPONSIBILITIES Provide exploratory analysis to understand data elements/ correctness data domain
+
+Develop sample KPI(TM)s for both product and quality and demo to multiple stakeholders
+
+Build domain knowledge on various areas such as IP Video, HSD, xFi, etc.,
+
+Capture and document requirements using interviews, document analysis, requirements workshops, business process descriptions, task and workflow analysis
+
+Work with developers and SME's to establish roadmaps for data streams
+
+Help prioritize data engineering needs for syndicated partners
+
+Evaluate information gathered from multiple sources, and reconcile conflicts and develop recommendations to change procedures based on learnings
+
+Work with internal and external customers to insure the reliability, accuracy, and functionality of data changes and/or enhancements.
+
+All requirements will flow through you from syndicated partners
+
+REQUIREMENTS
+Programming expertise with Scala, Java, Python etc.
+Experience with full scale cloud environments such as AWS/AZURE etc.
+Strong SQL knowledge, good communication, coordination skills
+Bachelor's degree in quantitative field or equivalent education/experience
+Must have experience with Media and Entertainment industry
+2+ years of experience in large faced-paced, development environment
+Thorough understanding of operational procedures and systems
+PREFERRED SKILLS
+Hands on experience with very large data sets
+Knowledge of Big Data technologies such as SPARK, Hadoop etc.,
+Understanding of real-time data feeds, data lakes, visualizations etc.,
+Strong desire to develop and deliver data driven decision making
+Master(TM)s degree in quantitative area preferred (Data Science, Math, Science)

@@ -1,0 +1,49 @@
+About Dexcom:
+Founded in 1999, Dexcom, Inc. provides continuous glucose monitoring technology to help patients and their clinicians better manage diabetes. Since our inception, we have focused on better outcomes for patients, caregivers, and clinicians by delivering solutions for people with diabetes - while empowering our community to take control of diabetes.
+Essential Duties and Responsibilities:
+Hands-On development 75% of daily activities
+Performa Database Administration activities with Cassandra
+Work with our Data Architect to build robust data pipelines for our Enterprise Environment via Java (Scala) in a virtualized environment
+Execute on technical requirements and document new ones when needed
+Monitor SQL/NoSQL performance and optimize table indexes to increase query performance
+Participate in on-call rotation for SQL and No SQL database support in a GCP environment
+Support QA: diagnosing and resolving bugs
+Apply best practices for testing and deployment in an agile environment
+Understanding the technical architecture of internally developed applications
+Protect the confidentiality and security of client data
+Understand business processes and requirements from the business
+Review and develop dbs schema while ensuring database(s) performance is efficient and optimized
+Work both independently and as part of a team
+Manage code via Github/Bamboo and work tasks within JIRA
+Required Qualifications:
+Demonstrated experience as a DBA supporting a Production environment -Primary role
+Demonstrated experience and ability to develop in Java (Scala)– Secondary role
+Knowledge of traditional and modern data warehouse methodologies
+Proven ability to learn new tools and technology
+Expert level SQL with the ability to create and evaluate complex SQL statements, stored procedures, and index tables
+Experience developing, deploying, and supporting ETL workflows along with optimizing queries
+Demonstrated ability to work in a fast paced and changing environment with short deadlines, interruptions, and multiple tasks/projects occurring at once
+Bachelor's degree in Computer Science, Information Systems, Mathematics or Engineering from an accredited academic university, or an equivalent combination of education and experience
+Preferred Qualifications: (Optional)
+Experience with GCP infrastructure deployments – application resource management in GCP environment(s)
+Experience developing and deploying libraries for database(s) interaction layer
+Experience with PostgreSQL
+Experience with GCP services (Dataflow/PubSub/Airflow/Spanner)
+Prior medical device experience
+Experience and Education Requirements:
+Typically requires a Bachelor’s degree in a technical discipline, and a minimum of 5-8 years related experience or Master’s degree and 2-5 years equivalent industry experience or a PhD and 0-2 years experience.
+Travel Required:
+Up to 25%
+Functional Description: Technical Individual Contributor
+Establishes database management systems, standards, guidelines and quality assurance for database deliverables, such as conceptual design, logical database, capacity planning, external data interface specification, data loading plan, data maintenance plan and security policy. Documents and communicates database design. Evaluates and installs database management systems. Codes complex programs and derives logical processes on technical platforms. Builds windows, screens and reports. Assists in the design of user interface and business application prototypes. Participates in quality assurance and develops test application code in client server environment. Provides expertise in devising, negotiating and defending the tables and fields provided in the database. Adapts business requirements, developed by modeling/development staff and systems engineers, and develops the data, database specifications, and table and element attributes for an application.
+Functional/Business Knowledge:
+Possesses broad understanding of technical principles and theories. Ability to synthesize external data and research findings for application that may impact technical objectives.
+Scope:
+Demonstrates successes in technical proficiency and independent thought. Works on complex problems in which analysis of situations or data requires an indepth evaluation of various factors. Exercises judgment within broadly defined practices and policies in selecting methods, techniques and evaluation criteria for obtaining results.
+Judgement:
+Exercises good judgment in selecting methods and techniques for obtaining solutions.
+Normally receives little instruction on day-to-day work, general instructions on new assignments.
+#LI-CC1
+An Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or protected veteran status and will not be discriminated against on the basis of disability.
+If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact Talent Acquisition at talentacquisition@dexcom.com.
+To all Staffing and Recruiting Agencies: Our Careers Site is only for individuals seeking a job at Dexcom. Only authorized staffing and recruiting agencies may use this site or to submit profiles, applications or resumes on specific requisitions. Dexcom does not accept unsolicited resumes or applications from agencies. Please do not forward resumes to the Talent Acquisition team, Dexcom employees or any other company location. Dexcom is not responsible for any fees related to unsolicited resumes/applications.

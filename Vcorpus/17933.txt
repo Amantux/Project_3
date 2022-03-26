@@ -1,0 +1,17 @@
+Passionate about precision medicine and advancing the healthcare industry?
+
+Recent advancements in underlying technology have finally made it possible for AI to impact clinical care in a meaningful way. Tempus' proprietary platform connects an entire ecosystem of real-world evidence to deliver real-time, actionable insights to physicians, providing critical information about the right treatments for the right patients, at the right time.
+
+As a Data Platform Engineer at Tempus, you will architect and implement cloud-native data pipelines and infrastructure to enable analytics and machine learning on Tempus's rich clinical, molecular, and imaging datasets.
+
+Why we're looking for you:
+You know what it takes to build and run resilient data pipelines in production and have experience implementing ETL/ELT to load a multi-terabyte enterprise data warehouse.
+You have implemented analytics applications using multiple database technologies, such as relational, multidimensional (OLAP), key-value, document, or graph.
+You value the importance of defining data contracts, and have experience writing specifications including REST APIs.
+You write code to transform data between data models and formats, preferably in Python or PySpark.
+You've worked in agile environments and are comfortable iterating quickly.
+Bonus points for:
+Experience moving trained machine learning models into production data pipelines.
+Healthcare domain knowledge and experience with healthcare transmission formats (e.g. FHIR, HL7, ANSI X12) and data models (e.g OMOP).
+Expert knowledge of relational database modeling concepts, SQL skills, proficiency in query performance tuning, and desire to share knowledge with others.
+Experience building cloud-native applications and supporting technologies / patterns / practices including: AWS, Docker, CI/CD, DevOps, and microservices.

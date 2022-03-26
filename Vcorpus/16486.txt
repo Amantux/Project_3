@@ -1,0 +1,24 @@
+Posted: Nov 4, 2019
+Role Number:
+200120447
+Play a role in bringing autonomous technologies to the real world. We are looking for an experienced and highly motivated data scientist to partner with us in our efforts to measure and evaluate autonomous technologies. You will help engineer and generate data-driven insights into system performance and testing, as well as provide a sound statistical basis for determining the performance of autonomous software systems.
+Key Qualifications
+Experience working with large datasets (Hadoop/Spark preferred)
+Expertise in statistical modeling (supervised and unsupervised methods), statistics of rare events, and long tail distributions
+Experience developing data science pipelines, tool-chains, and workflows in Python and C++
+Experience designing a measurement strategy to evaluate the performance of complex systems against challenging requirements, including A/B experiment design
+Ability to create clear and meaningful data visualizations (matplotlib, bokeh, plotly, etc)
+Experience with experimental design loops for integrated SW/HW systems
+Experience with geospatial datasets & tool-chains (PostGIS a plus)
+Signal processing background, including cleaning data, handling missing data, filtering techniques, linear/nonlinear fitting
+Description
+Assess readiness of autonomous systems based on rigorous statistical methods
+Develop informative data visualizations based on scalable data pipelines and analysis
+Develop and execute performance measurement strategy for autonomy systems
+Deploy novel analytic strategies to evaluate accuracy of simulation methods against real-world data
+Develop a statistical basis for determining sufficient depth and breadth of autonomous software simulation testing
+Education & Experience
+MS/PhD (or equivalent experience) in Physics/Applied Math preferred, CS/Data Science/Mathematics/Statistics/EE or other Scientific background
+
+3+ years data science background including data analytics, modeling, visualization, study design, and statistical methods
+Clear and concise written and verbal communication skills

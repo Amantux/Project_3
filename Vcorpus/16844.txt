@@ -1,0 +1,38 @@
+Onica is one of the fastest growing AWS Premier Partners in North America. As a full spectrum AWS integrator, we assist hundreds of companies to realize the value, efficiency, and productivity of the cloud. We take customers on their journey to enable, operate, and innovate using cloud technologies from migration strategy to operational excellence and immersive transformation.
+
+If you like a challenge, you'll love it here, because we're solving complex business problems every day, building and promoting great technology solutions that impact our customers' success. The best part is, we're committed to you and your growth, both professionally and personally.
+
+Overview
+
+As a Data Science Architect, you are passionate about data and technology solutions, are driven to learn about them and keep up with market evolution. You will play an active role in delivering modern data solutions for clients including data ingestion/data pipeline design and implementation, data warehouse & data lake architectures, cognitive computing and cloud services. You are enthusiastic about all things data, have strong problem-solving and analytical skills, are tech savvy and have a solid understanding of software development.
+
+What you'll be doing
+Lead, define and implement end-to-end modern data platforms in support of analytics and AI use cases
+Collaborate with enterprise architects, data architects, ETL developers & engineers, data scientists, and information designers to lead identification and definition of required data structures, formats, pipelines, metadata, and workload orchestration capabilities
+Address aspects such as data privacy & security, data ingestion & processing, data storage & compute, analytical & operational consumption, data modeling, data virtualization, self-service data preparation & analytics, AI enablement, and API integrations
+Be the technical liaison between customers and engineering teams
+Directly collaborate with the sales team to formulate and execute a sales strategy to facilitate the adoption of AWS and big data technologies and help build offerings
+Be an AWS evangelist by educating a variety of customers on the value of AWS and AWS's Data services
+Traveling up to 50% of the time
+Qualifications & Experience
+5+ years experience leading engagements from design to implementation of creative data solutions leveraging the latest in Big Data frameworks, supporting on-premise, cloud (Ideally AWS) and hybrid architectures to enable use cases in analytics and AI
+5+ years experience architecting solutions for optimal extraction, transformation and loading of data from a wide variety of traditional and non-traditional sources such as structured, unstructured, and semi-structured using SQL, NoSQL and data pipelines for real-time, streaming, batch and on-demand workloads
+3+ years experience with analytics/data management strategy formulation, architectural blueprinting, business case development and effort estimation of disruptor based analytics
+3+ years working in the cloud or multi-server complex environments. Experience with AWS a requirement.
+Ability to simplify complex technical concepts into an easy-to-understand non-technical language in order to facilitate, communicate and interact with executives and business stakeholders
+Experience with Agile development methods in data-oriented projects
+Strong candidates will also have some of the following capabilities:
+Strong SQL, Database, Data Modeling, Data Warehousing and Development skills
+Strong programming / scripting experience using various languages such as Java, .NET, Python, Scala, Javascript, etc.
+Experience in Cloud Big Data & Analytics Services on the cloud (AWS preferred ie. S3, Redshift, Athena, EMR, Glue, Quicksigh,, etc.)
+Experience with Dashboarding and Reporting Tools used in the Industry (Tableau, Qlik, etc.)
+Experience with industry ETL tools (Informatica, Talend, SSIS, etc.)
+Have strong people management skills: leading teams, training, onboarding, offboarding, etc.
+Certifications in architecture, data engineering and development from AWS (Preferred)
+Subject matter data expertise in Financial Services (Banking, Insurance), Consumer Products (Retail), Energy & Resources, Life Sciences (Healthcare) and Government (Transport, Higher Ed, Social Services) industries
+Experience with implementation of data security, encryption, PII/PSI legislation, identity and access management across sources and environments
+Knowledge of software configuration management environments and tools such as JIRA, Git, Jenkins, TFS, Shell, powershell, Bitbucket, etc.
+Bachelor's Degree or higher in quantitative areas such as Computer Science, Information Management, Big Data & Analytics, or a related field is desired
+Note : This role would require up to 50% travel
+
+If you get a thrill working with cutting-edge technology and love to help solve customers' problems, we'd love to hear from you. It's time to rethink the possible. Are you ready?

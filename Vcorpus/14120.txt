@@ -1,0 +1,49 @@
+Job Description
+Our entertainment company is seeking an innovative Senior Data Engineer to join our fast-paced team! We utilize and develop cutting-edge technology to deliver high-end and creative content on a global scale. We work across multiple platforms to transform how we see media.
+
+The ideal candidate will possess all of the required skills listed below and more! They will demonstrate excellent interpersonal and communication skills and adhere to the standards of quality and excellence at our company's core.
+
+Please, only apply if you are able to work directly for a U.S. company for the next three years. We are not currently able to work with C2C, H1, or OPT for this position.
+
+Duties & Responsibilities:
+Build data pipelines orchestration.
+Create the design and architecture for data-lake, data-marts, data-models, and data-warehouse.
+Ensure efficiency of data science workflows and advanced machine learning algorithms.
+Build and optimize performance of Hadoop and Spark batch jobs (Spark, Kafka, Cassandra, etc.).
+Construct and improve ElasticSearch performance.
+Contribute to open source solutions and communities.
+Stay current on emerging tools and technologies.
+Collaborate cross-functionally with other software engineers and their teams.
+Establish and demonstrate technologies, solutions, and leading practices.
+Balance resources, requirements, and complexity.
+Qualifications:
+5+ years of experience in full software development lifecycle.
+5+ years of experience developing bis data apps.
+Bachelor’s or Master’s degree in Computer Science, Engineering, Mathematics or Physical Sciences.
+Minimum 3 years’ experience with Apache Spark and Spark Streaming.
+Minimum 3 years’ experience with Hadoop batch processing framework and map reduce design patterns.
+Minimum 3 years’ experience with Java/Scala/Python in support of data applications.
+Expertise in Java 1.8+, Scala 2.11, and Linux.
+Demonstrated proficiency in programming and analysis (design patterns, hardware, software requirements, systems requirements, deployment protocols, etc.).
+Previous experience in an Agile environment using Scrum.
+Previous experience with open source technologies, widely used RDBMS’ and SQL, and at least one columnar NoSQL solution.
+Preferred Qualifications:
+Prior experience developing and maintaining large scale, consumer facing web apps.
+Prior experience working for a large data enterprise organization, creating robust and reliable data pipelines, and using multiple NoSQL solutions (HBase, MongoDB, Neo4j).
+Previous operational experience with large software systems.
+Previous Schema or Cube design experience.
+Familiarity with statistics, machine learning, and natural language processing apps.
+Knowledge of security and PII and PCI compliance issues.
+Previous experience with the following preferred:
+Apache Airflow
+Amazon AWS
+AWS EMR
+docker and Kubernetes
+Restful APIs
+Apache Kafka
+Apache HBase
+Apache Hive and/or Apache Crunch
+Apache Avro
+Powered by JazzHR
+
+h23E4mKY4q

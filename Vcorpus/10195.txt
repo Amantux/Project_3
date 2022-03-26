@@ -1,0 +1,69 @@
+About Us:
+
+At Rent the Runway, our mission is to make women feel empowered and self-confident every single day by combining best in class technology, logistics, and customer service. Since our launch in 2009, we've developed proprietary technology, a one-of-a-kind reverse logistics operation, stores of the future, a viral brand, relationships with hundreds of fashion designers - and we are passionate about continuing to innovate our customer experience. We have pioneered the closet in the cloud and believe that every person globally will soon have a subscription to fashion. We are proud to be both a profitable and fast-growing business, with 11 million members of our community who believe that rental is the future.
+
+About the Team:
+
+We work on unique questions at the intersection of tech, reverse logistics and the sharing economy and are obsessed with improving our customer experience every day. Finding solutions often requires pushing the boundaries of data science and finding novel and creative solutions. This is where we hope you come in.
+
+About the Role:
+
+For anyone who enjoys untangling logistical complexity and solving difficult problems using the power of data, RTR is offering your dream job. You will be analyzing reams of inventory movement, warehouse labor, retail store and customer interaction data to drive tactical/strategic decisions, and the overall product vision. We are seeking strong dynamic talent to support the critical data and analysis needs to optimize the operational process behind the only reverse logistics platform for luxury goods in the world. You will be working closely with the following systems:
+
+Warehouse Management System.
+
+Order and user management system which smartly allocate our users and orders to the right distribution center
+
+Smart booking system that minimizes future inventory conflicts
+
+Fulfillment system which turns inventory from one reservation to another just-in-time within our vertically integrated operations involving returns, cleaning, repairs, QC etc.
+
+Allocation system (the "brain") which controls the assignment of units to reservations to optimize business objectives
+
+What You'll Do:
+
+Apply expertise in quantitative analysis, operational research, statistical methods and data mining to see beyond the numbers and extract actionable insights to reduce our operation cost, improve our inventory turnaround time, optimize our transportation network.
+
+Cross-functionally lead a team of multiple stakeholders (Operation, Product, Analysts, Data, Engineering) to help Rent the Runway's Operation team to reduce cost to serve, while ensuring a perfect Cinderella experience for the customer.
+
+Define and track success metrics to evaluate our constantly evolving supply chain network and operational process. Proactively identify hidden inefficiencies in our operations workflow to capture greater cost saving; collaborate with operations team to address these inefficiencies and ensure continuous improvement.
+
+Lead the design and delivery of dashboards to measure the health of our operation.
+
+Build models to optimize operations labor planning to ensure sufficient capacity while minimizing fulfillment cost.
+
+Diagnose and communicate root causes of changes in operational metrics.
+
+Transform data into real time predictive insight to guide warehouse with labor planning and capacity monitoring.
+
+Evolve to become a key influencer of operations strategies. What other questions should we be asking and answering?
+
+Create reusable datasets with appropriate architecture using our complex data pipeline. Develop and share best operating practices within the broader Analytics team
+
+About You:
+
+Strong quantitative and/or technical academic background: Mathematics, Computer Science, Statistics, Operations Research or other quantitative field. Masters is a plus!
+
+You have a passion for data and its ability to inform (and transform!) business strategy.
+
+Experience working with operations team, share the sense of urgency and handles well under tight project deadline.
+
+4+ years of experience doing quantitative analysis
+
+You are a SQL expert who speaks the language of joins, window functions, common table expressions, and stored procedures
+
+Strong experience building models (classification, regression, clustering) in Python/R
+
+Ability to visualize data to tell stories: you have developed dashboards with BI tools like Tableau and Looker, as well as custom UIs with tools like R Shiny and Dash
+
+Benefits:
+
+At Rent the Runway, we're committed to the happiness and well-being of our employees and aim to create a workplace that fosters both personal and professional growth. We have a competitive benefits package on offer for all our Ireland based employees which reflects our ethos and culture. Our benefits include, but are not limited to:
+
+Generous Paid Time Off including annual leave, paid bereavement, and family sick leave - every employee needs time to take care of themselves and their family.
+
+Universal Paid Parental Leave for both parents + flexible return to work program - because we know your newest family member(s) deserve your undivided attention.
+
+Paid Sabbatical after 5 years of continuous service - Unplug, recharge, and have some fun!
+
+Comprehensive health, vision, and dental care from day 1 of employment - Your health comes first and we've got you covered.

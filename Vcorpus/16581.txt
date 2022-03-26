@@ -1,0 +1,60 @@
+The Opportunity
+
+
+The machine learning effort is part of the Data Science team at Livongo and works closely with product managers, engineering and operations to identify, build, ship and maintain machine learning models and pipelines to personalize how our members manage chronic conditions.
+
+This is an opportunity to use technical rigor to apply machine learning to real-world business problems, and engineer, deploy, measure and iterate ML in production, for every Livongo member.
+
+Responsibilities:
+Design, develop, deploy and maintain production grade data processing, machine learning and deep learning code, pipelines and systems.
+Study and transform data science prototypes. Use Python, Tensorflow, PyTorch, and Keras to run exploratory analyses using both traditional and deep-learning techniques. This includes feature engineering, unsupervised learning, supervised learning, reinforcement learning.
+Run machine learning tests and experiments; measure the performance of deployed models; work with data scientists to propose improvements and iterate to improve performance.
+Manage machine learning model lifecycle: develop, deploy, monitor, maintain and update models in production.
+Research and implement appropriate ML algorithms and tools.
+Develop machine learning applications and services according to requirements.
+Select appropriate datasets and data representation methods
+Perform statistical analysis and fine-tuning using test results
+Train and retrain systems when necessary
+Extend existing ML libraries and frameworks
+Keep abreast of developments in the field.
+Collaborate closely with product management and engineering teams to drive requirements and define new product features and architecture.
+Candidate Profile
+Advanced degree in computer science, math, statistics or a related discipline
+Proven experience as a Machine Learning Engineer or similar role
+Deep knowledge of math, probability, statistics and algorithms
+Ability to write robust code in Python, Spark, SQL, R or Java.
+Familiarity with machine learning frameworks (like Keras or PyTorch) and libraries (like scikit-learn)
+Knowledge of Hadoop or other distributed systems.
+Experience with ML systems, recommendation engines, NLP, etc.
+Extensive understanding of data structure, data modeling and software architecture
+Experience in end-to-end machine learning model development, deployment and production.
+Experience with agile sprint processes to deliver ML work.
+Experience in ML CI/CD process; and familiar with Jenkins, dockers, Databricks, git code management, etc.
+Experience designing and building useful, maintainable code for model training, evaluation and interpretation.
+Familiarity with the entire ML algorithm life-cycle (modeling approach ideation, POC, data exploration, data processing, feature extraction, feature construction, model development, evaluation, iteration).
+Willingness to learn new ML platforms and tools, as well as propose and help teams adopt new tools.
+Experience in close collaboration with backend software engineer, data engineering team; as well as business owners to establish ML A/B testing platform.
+Great active listening skills to infer product needs and underlying context.
+Ability to collaborate effectively with peers, and respect for member privacy
+Why Join Livongo?
+
+
+The Transformative Name in Healthcare: The transformative industry forces in Community, Content and Commerce are now household names. As Amazon is to Commerce, Livongo is to Healthcare. With our Applied Health Signals engine, AI+AI, we've transformed how care is delivered.
+
+Our Work Truly Matters: Livongo's proprietary, consumer-first technology is revolutionizing the experience of living with a chronic health condition. Our data-driven digital health engine enables our Members to seamlessly manage multiple health conditions on one empowering platform. We use smart, connected devices, personalized digital guidance, and 24x7x365 access to health professionals to make it easier for people to stay healthier.
+
+Make an Impact: Do you want to accomplish something meaningful? To create results that matter? Livongo's innovative solution produces industry-leading member satisfaction, measurable clinical outcomes and proven healthcare costs savings. Here you can truly improve lives.
+
+The Largest Digital Health IPO in History: We are at a milestone period in our history. On July 25, 2019 we took our company public, in order to elevate and expand the way the industry views us, thus ushering us into a whole new set of mission-critical conversations that will help us accomplish the work still to be done. As we reach new levels of achievement, we accelerate our ability to deliver life-changing services.
+
+Focus on PEOPLE: Livongo has been voted one of the Best Places to Work in healthcare, by Fortune Magazine and Best Place to Work! Talented, passionate individuals make the difference, in this fast-moving, collaborative and inspiring environment.
+
+Diversity and Inclusion: At Livongo we believe that personal and professional diversity is the key to innovation. We hire based solely on your strengths and qualifications, and the way in which those strengths can directly contribute to your success in your new position.
+
+Growth and Innovation: We've already made healthcare history, yet we remain on the threshold of very big things. Leading the industry with our Applied Health Signals category, we have cracked the code to transforming healthcare. Come grow with us and support our mission to make a tangible difference in the lives of our Members.
+
+See photos, watch videos and learn more about Livongo: follow us on Glassdoor.
+
+As an Equal Opportunity Employer, we never have and never will discriminate against any job candidate or employee due to age, race, religion, color, ethnicity, national origin, gender, gender identity/expression, sexual orientation, membership in an employee organization, medical condition, family history, genetic information, veteran status, marital status, parental status or pregnancy (including breastfeeding we have a mother's room in both our offices). In our innovative and inclusive workplace, we prohibit discrimination and harassment of any kind.
+
+#LI-Remote

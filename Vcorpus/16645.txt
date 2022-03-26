@@ -1,0 +1,50 @@
+Description
+
+At Xilinx, we are leading the industry transformation to build an adaptable, intelligent world. ARE YOU bold, collaborative, and creative? At Xilinx, we hire and develop leaders and innovators who want to revolutionize the world of technology. We believe that by embracing diverse ideas, pushing boundaries, and working together as ONEXILINX, anything is possible.
+
+Our culture of innovation began with the invention of the Field Programmable Gate Array (FPGA), and with the 2018 introduction of our Adaptive Compute Acceleration Platform (ACAP), has made a quantum leap in capability, solidifying our role as the adaptable platform supplier of choice. From the start, we have always believed in providing inventors with products and platforms that are infinitely adaptable. From self-driving cars, to world-record genome processing, to AI and big data, to the world's first 5G networks, we empower the world's builders and visionaries whose ideas solve every day problems and enhance people's lives.
+
+If you are PASSIONATE, ADAPTABLE, and INNOVATIVE, Xilinx is the right place for you! At Xilinx we care deeply about creating meaningful development experiences while building a strong sense of belonging and connection. We foster an environment of empowered learning, wellness, community engagement, and recognition, so you can focus on work that matters - world class technology that improves the way we live and work. We are ONEXILINX.
+Software Engineer
+
+Xilinx is looking for a developer with expertise in modeling
+complex HW architectures for fast simulation in SystemC TLM/C++.
+
+As part of the Device Simulation Modeling team, the candidate will
+be responsible for the definition, development, validation and release of
+Verilog, VHDL, SystemVerilog or SystemC simulation models for all of Xilinx’s
+All Programmable FPGAs, SoCs, 3D ICs and ACAP devices. Xilinx’s new hardware
+programmable SoC FPGAs and Adaptive Compute Acceleration Platform (ACAP)
+deliver most dynamic processor technology and are achieving record performances
+in Data Center, Wireless/5G, Automotive/ADAS and Emulation applications. These
+new applications and heterogeneous computing architecture brings in new
+challenges in simulation modeling, especially in fast simulation of large scale
+user designs that solve complex acceleration or AI/ML problems.
+
+The
+position requires strong programming fundamentals preferably in C++ and good
+understanding of System On Chip (SoC) hardware architecture.
+
+Qualifications
+Experience
+with simulation modeling in SystemC TLM, UVM, Verilog or System Verilog
+Experience
+with software development - preferably in C++
+Familiarity
+with hardware functional verification
+Experience in object-oriented design and programming
+Self-sufficient in software development concepts and methods, coding, and debugging
+Proactively identifies and delivers solutions that reduce development and support costs
+Capable of developing a single project in its entirety
+Demonstrates flexible adaptability in working with still maturing, generation-dependent software development and testing methods
+Nice to have
+Exposure
+to SoC performance analysis
+On-chip
+SoC protocols, such as AMBA or PCI-express
+Dynamic
+RAM (DDR/HBM) controllers and memory bandwidth optimization
+
+Education Requirements
+Bachelors in EE/CE/CS with 3 years or Masters in EE/CE/CS with 1 year of relevant experience.
+]]>

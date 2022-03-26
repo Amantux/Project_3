@@ -1,0 +1,63 @@
+The Lead Data Engineer will lead a small team of data analysts/engineers within the technology team as well as support other data analysts throughout the organization on various data initiatives and will ensure optimal data delivery architecture is consistent throughout ongoing projects.
+
+TheLead Data Engineerwill develop data solutions in support of analytics and reporting for Venus, with a focus on the collection, storage, and organization of data by maintaining existing workflows and on-boarding new sources of information as they are identified, ensuring data quality standards are maintained. The objective is to provide reliable data for reporting and analysis. TheLead Data Engineerwill be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross-functional teams.
+
+ESSENTIAL DUTIES& RESPONSIBILITIES:
+
+Include the following. Others duties may be assigned:
+
+· Lead a small team of data engineers/analysts. Responsible for mentoring, providing career guidance and retaining this high function team
+
+·Design, develop, and maintain systems for the mining, warehousing, and processing data
+
+· Demonstrate an ability to bridge business and technical domains with an interest in learning new technologies, and be capable of working with business end users
+
+·Design, implement, test, deploy, and maintain stable, secure, and scalable data engineering solutions and pipelines in support of data and analytics projects, including integrating new sources of data, and moving data out to various applications and vendor sources
+
+· Coordinate cross-departmental projects and dedicattely drive projects and road-map items to completion
+
+· Consult with teams across Venus to provide expertise, guidance, and support using data
+
+·Lead daily stand-ups, perform design reviews and provide architectural guidance when necessary. Execute sprints; groom and prioritize backlog using JIRA.
+
+· Maintain knowledge and stay current on developments in the fields of Retail industry, Analytics, business intelligence, data warehousing, data science, and emerging technologies
+
+QUALIFICATIONS:
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases
+Knowledge of modern data warehousing concepts, data modelling and data management
+Build processes supporting data transformation, data structures, metadata, dependency and workload management
+Experience with one or more BI reporting tools (preferable Qlik based)
+Experience leading a technical team, direct management of team preferred
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement
+A successful history of manipulating, processing and extracting value from large disconnected data sets
+Experience supporting and working with cross-functional teams in a dynamic environment
+Interest in Data Science (Machine Learning/AI, Tensor Flow, Cluster Analysis, Decision Trees, ensemble methods, etc.)
+CORE COMPETENCIES:
+
+·Manages Ambiguity: Operating effectively, even when things are not certain or the way forward is not clear
+
+·Collaborates: Building partnerships and working collaboratively with others to meet shared objectives
+
+·Customer Focus: Build Strong customer relationships and delivering customer-centric solutions
+
+·Develops Talents: Developing people to meet both their career goals and the organization’s goals
+
+·Plans and Aligns: Planning and prioritizing work to meet commitments aligned with organizational goals
+
+·Drive Results: Consistently achieving results, even under tough circumstances
+
+JOB BASED COMPETENCIES:
+
+·Ensures Accountability: Holding self and others accountable to meet commitments
+
+·Decision Quality: Making good and timely decisions that keep the organization moving forward
+
+·Directs work: Providing direction, delegating, and removing obstacles to get work done
+
+·Self-Development: Actively seeking new ways to grow and be challenged using both formal and informal development channels
+
+EDUCATION& EXPERIENCE REQUIREMENTS:
+BA/BS degree
+Minimum of 5 years of data engineering and analysis experience
+Minimum of 2 years supervisory experience
+Or equivalent combination of education and experience

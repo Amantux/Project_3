@@ -1,0 +1,40 @@
+Ranked by Forbes as one of America’s best startup employers, Bambee is a venture-backed startup that is developing and deploying best-in-class Human Resources technology and services, while reimagining the employment experience for the largest segment of the job market - small and medium businesses. Bambee consists of self-starters - past and future entrepreneurs who view their departments like small companies. As a member of the Bambee team, you have an insatiable drive for results. Solving customers’ problems excites you. Data guides you. Results inspire you.
+
+Bambee’s goal to offer Human Resources for $99/month has never been done. The team accomplishing this is a team full of drivers. What are you? If you’re a passenger, thanks for reading. If you’re a driver, join us.
+
+Job Summary
+
+We are looking for engineers that love and have chosen to specialize in backend development, and love working within Node/Express and both NoSQL (MongoDB/Mongoose) and SQL DBs (postgres). As a backend engineer, you have best practices and mental frameworks that you are proud of and clearly communicate your design principles. You are familiar with infrastructure and have experience in configuring AWS services, Docker containers, Kubernetes clusters, and strategizing infrastructure needs with the DevOps team.
+Responsibilities
+Working with cross-functional team members to produce backend services to support business requirements
+Creating API services for frontend consumption
+Developing an API versioning plan to implement and maintain backward compatibility
+Planning and releasing new services and database schemas
+Strategy to increase source code automated test coverage
+Ensure API services are maintainable and debuggable through proper automated tests and logging procedures.
+Ensure deployments are handled gracefully through proper data schema management and migrations.
+Enforcing security practices to ensure data integrity
+Skills & Qualifications
+2+ years in our primary stack (Node/Express, MongoDB/Mongoose)
+Solid understanding of data modeling
+Ability to clearly communicate complex technical concepts
+Familiarity with AWS (and EKS)
+Proven record of launching and maintaining robust API services that have gone through the test of time supporting high volume transactions.
+Understanding of microservice design
+Strong understanding of source code branching & deployment strategies
+Bonus Points For
+DevOps experience
+Experience with Typescript
+Experience with CI/CD pipeline management
+Experience with test automation
+HR industry experience
+What’s In It For you?
+
+Bambee cares deeply about employee well being and is proud to offer the following benefits and perks:
+Equity, 401(k), Unlimited vacation, Medical, dental, and vision insurance, Life insurance, Monthly gym contribution, Health equipment reimbursement, $500 personal travel stipend to promote new life and travel experiences, Sponsorship for participation in arts and cultural events, Weekly summer movie nights, Dog-friendly office, Commuter benefits, Fully stocked kitchen (kombucha and cold brew on tap!), Annual staff retreat, Frequent company dinners and happy hours, Professional development
+
+AAP/EEO Statement
+
+We provide equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. In addition to federal law requirements, we comply with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.
+
+We expressly prohibit any form of workplace harassment based on race, color, religion, gender, sexual orientation, gender identity or expression, national origin, age, genetic information, disability, or veteran status. Improper interference with the ability of our employees to perform their job duties may result in discipline up to and including discharge.

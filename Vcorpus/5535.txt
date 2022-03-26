@@ -1,0 +1,35 @@
+There’s a lot of work around Osmo for someone with a love of statistics.
+
+For one there’s anonymous player statistics that need to be distilled into understanding of what works and doesn’t work for the player population. Someone in this role would have to support product developers, ideally providing views of key metrics and helping them understand effects of updates on them.
+
+There’s also a business-level need for processing our data. In this role you’d be constantly striving for a better understanding how play patterns and purchase patterns relate. You’d also be seeking to better qualify and quantify the life cycle of the consumer, as well as help identify and prioritize opportunities discovered from studying usage data.
+
+Our stack currently involves BigQuery, Java, and Periscope… but you may find that you need other tools to build more innovative views, and this will largely be at your discretion.
+
+As with all roles at Tangible Play, the ideal candidate would be largely self-managing, prioritizing their task list and providing estimates and visibility for stakeholders in other roles.
+
+Responsibilities
+
+Define key metrics and maintain views of them for easy monitoring by any interested party
+
+Monitor key metrics as relating to the health of both old and new users and make known any significant changes
+
+Be on the constant search for the best indicators of player happiness and be able to show correlation between indicators and key metrics
+
+Be a resource for game teams with questions about engagement or retention; create easy views for them to plug into their products to know important metricsInnovate on common industry measures for retention and engagement to make meaningful views given typical kids play patterns
+
+Optimize existing data to move commonly needed data into highly accessible schema that is cheap to query and fast to give needed information
+
+Edit the data pipeline in Java to generate new views that digest incoming information for other services
+
+Qualifications
+
+Several years of experience in analytics for a game or online product
+
+Bachelor's Degree in Computer ScienceExpertise with SQL (extra points for BigQuery)
+
+Experience writing in Java (extra points for Google cloud tools)
+
+Experienced using tools like Python/MatLab for statistical analysis
+
+Demonstrable aptitude with statistics; understanding how to measure changes over a population

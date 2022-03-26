@@ -1,0 +1,46 @@
+WHO WE ARE
+
+
+Postmates enables anyone to have just about anything on-demand. We pioneered the on-demand space and currently serve 4200+ cities with a fleet of more than 500,000 Postmates and the largest network of merchants in the US. We're changing the landscape of commerce by making cities our warehouses, providing the delivery infrastructure, and connecting our customers to any product, anywhere, anytime. Postmates isn't just an app, it's a way of life and a part of pop culture. We are the O.G. of on-demand and we've given people a new superpower — the ability to Postmate anything from anywhere. We're building a movement to make Postmates a verb: Postmate it.
+
+WHAT WE DO
+
+
+Postmates relies heavily on our engineering team to realize this vision. Building a software platform that is reliable, scales, and stays agile under demanding product needs is a serious technical challenge. Postmates is a three-part balancing act connecting customers, merchants, and couriers in real-time. If any piece is out of whack, the whole system suffers. Working with the Postmates engineering team offers an opportunity with explosive growth, cutting-edge technology, a highly visible charter, and a cool user-focused product vision.
+
+As a Data Scientist, you'll use your full toolkit - statistical modeling, machine learning, data mining, data visualization, and software engineering - to develop data products and models that are used by millions of users and power the growth of our business. You will collaborate with a strong team of engineers, product managers and data analysts in defining the frontier of data products and models in the three-sided marketplace. Data scientists will work on how to formulate a model from a real business problem, determine evaluation metrics, evaluate different modeling approaches, conduct data analysis, and build features and algorithms for the various challenging problems at Postmates.
+
+YOUR RESPONSIBILITIES
+Modeling and forecasting demand and supply to enable more intelligent matching, optimize the overall marketplace efficiency and provide valuable insights to our merchants and Postmates
+Large scale Machine Learning algorithms that powers our Search Ranking models and Personalized Recommendation Engine
+Predicting the Postmates Delivery Time (PDT) and improving the dispatching algorithm
+Determining the optimal pricing strategies to help our Postmates maximize their revenue
+Identifying suspicious transactions and malicious users for risk control
+Natural Language Processing to understand text content on Postmates platform, including named entity resolution and recognization of reviews, descriptions and interactions between users on our marketplace
+OUR REQUIREMENTS
+A Bachelor's/Master's degree (or higher) in a technical field (Computer Science, Statistics, Economics, Operations Research, Math, Physics, Engineering, etc.)
+3+ years of professional experience in Data Science or Applied Machine Learning required
+A deep theoretical understanding of modern machine learning algorithms, statistical models, or optimization
+Extensive experience with data tools, Python (Pandas, Scipy, Numpy, Scikit-Learn, etc), R, SAS, SQL, etc and strong skills in data analysis, data visualization, and feature engineering
+Ability to own your modeling work from model development all the way to production deployment and beyond with minimal help from engineers
+Strong communication skills; Explaining complex technical concepts to product managers, data analysts, and other engineers shouldn't be a problem for you
+OUR PREFERRED QUALIFICATIONS
+Experience with MapReduce, Spark, Hive, HBase, Google BigQuery, and BigTable
+Experience with ML frameworks like Tensorflow, PyTorch, Spark MLlib, XGBoost, and Scikit-Learn
+YOUR BENEFITS
+
+
+Postmates has your back. In our impact-first work environment, we value huge company vision. As you strive to build the future with us, we'll support you with:
+Competitive salary and generous stock option plan.
+Access to the Postmates 401(k) plan.
+100% coverage for employees medical, dental, and vision insurance.
+95% coverage for dependents medical, dental, and vision insurance.
+Pre-tax Flexible Spending Account (FSA) for qualified out-of-pocket health care costs.
+Flexible time off policy under which Postmates will not limit paid time off for vacations or to handle personal affairs. (Salaried US Employees)
+16 days paid time off and 7 days paid sick leave (Hourly US Employees; amount of paid sick leave depends on state).
+3 days paid time to volunteer through CivicLabs and positively impact the communities we serve.
+Generous parental leave including flexible transition plans, Postmates meal credit, and subsidized access to the Milk Store, Urban Sitter, and Concern.
+Free and confidential counseling resources through an Employee Assistance Program.
+Pre-tax Commuter Benefits for parking or transit fees.
+A free subscription to Postmates Unlimited.
+Catered lunches, open snack bar, and subsidized Postmates Pickup meals.

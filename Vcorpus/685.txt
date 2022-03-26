@@ -1,0 +1,173 @@
+Data Scientist - Analytics
+
+Ann Arbor, MI
+
+Mid- Senior Level
+
+The Role
+
+ITHAKA is a highly-successful non-profit with a mission to expand access to knowledge and education around the world whose services include the well-known research platform, JSTOR, and the leading digital preservation service, Portico. Across these products, ITHAKA has vast stores of data including more than 500 terabytes of academic content, usage data for hundreds and millions of users over two decades, and billions of logged events. As Data Scientist - Analytics you will work with our software and quality assurance engineers, and interact directly with ITHAKA business, product, and engineering leaders to identify opportunities to leverage this data, using it to improve our products and services, to tell compelling stories about our work and impact, and to inform decision-making.
+
+Our organization and this role will provide you with an opportunity few other companies can offer including:
+
+Exercising your entrepreneurial muscles to solve problems for the research and education communities.
+
+Leveraging technologies including, AWS, Databricks, Spark, and the various ML stacks built on Python such as Tensorflow, PyTorch, or MXNet.
+
+Working on Agile teams that follow continuous deployment and test automation best practices allowing for rapid application development and frequent deployments. We complete an average of 80 production deployments each week.
+
+Using the same architecture, technologies, and tools as companies like Netflix, Etsy, and Amazon.com.
+
+A unique opportunity to be on the leading edge of building large-scale, cloud delivered web applications that host hundreds of millions of sessions annually.
+
+As part of the data engineering/analytics team, you can expect to receive tool and product training. We have an excellent onboarding program, which enables new engineers to become productive very quickly. A lead will work closely with you as you begin engaging your assigned agile team. You will be provided with constant support as we work to make you comfortable in your new environment. Those in leadership roles will work tirelessly to set you up for success.
+
+Responsibilities
+
+The successful candidate will have applicable development experience, experience with large-scale distributed web applications, large datasets, a high degree of intellectual curiosity, and excellent soft skills. We look for candidates that possess strong problem recognition and problem solving skills, and a passion for innovation.
+
+The primary responsibilities of our data scientists include:
+
+Understand the ITHAKA business as well as the businesses and organizations we engage with to advance access to scholarly materials.
+
+Develop relationships with teams that will consume your models, understanding their problems so that you can provide the solution they need but aren’t necessarily asking for directly.
+
+Help your team develop prioritized backlogs of work – enabling them to know what they are working on and to know how well they are meeting their commitments.
+
+Design, develop, and iterate on world class algorithms and predictive models, leveraging statistical, machine learning, and AI methods - particularly in the area of time series forecasting, usage based clustering, and anomaly detection.
+
+Work with your team to provide evidence regarding the impacts of your models, leveraging ITHAKA’s Data Pipeline and Data Warehouse, to all levels of the organization.
+
+Experience and Skills
+
+Advanced degree in a quantitative discipline such as Statistics, Economics, Mathematics, Computer Science or equivalent.
+
+3 plus years hands on experience building statistical and machine learning models using common data science toolkits such as Python, Spark, NumPy, SciPy, Scikit-learn, TensorFlow, R, etc.
+
+Clojure, Apache Spark are a plus.
+
+Exceptional communication skills with experience presenting complex results in easy to understand ways to diverse audiences.
+
+Experience with multi-billion row record datasets and leading projects that span the disciplines of data science and data engineering.
+
+Experience with relational databases, data warehousing, and NoSQL technologies such as Postgres, MySQL, Oracle, AWS Redshift, AWS Athena, ElasticSearch, Dynamo.
+
+Proficiency in using query languages such as SQL, Spark DataSets, Pandas, Lucene/ElasticSearch/SOLR.
+
+Experience building robust data ingestion pipelines.
+
+Intellectual curiosity, entrepreneurial drive, innovative thinking and problem solving skills.
+
+Ability to determine what is needed for a minimum viable dataset, minimum viable predictive model and how to iterate that dataset or model for iterative and continuous improvement.
+
+Work for ITHAKA
+
+Our team is passionate about our mission and supporting one another. We enjoy working together to create opportunities for people to learn and grow out in the world, and we bring that same commitment to helping our teammates develop in our careers and our lives. One of our core values is belonging. We embrace differences, and believe that the things that make each of us unique are the things that help us see new insights and build better solutions.
+
+Learn more about Working at ITHAKA.
+
+Apply Now:
+
+Interested candidates can submit their resume, a detailed cover letter, and salary requirements.
+
+We are proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants receive consideration for employment without regard to race, color, sex, national origin, gender identity, sexual orientation, age, religion, domestic violence victim status, veteran status, disability, history of disability or perceived disability, or other status protected by law.
+
+Education
+
+Preferred
+
+Masters or better in Mathematics
+
+Masters or better in Economics or related field
+
+Masters or better in Computer Science or related field
+
+Masters or better in Statistics or related field
+
+ 
+
+Data Scientist - Analytics
+
+Ann Arbor, MI
+
+Mid- Senior Level
+
+The Role
+
+ITHAKA is a highly-successful non-profit with a mission to expand access to knowledge and education around the world whose services include the well-known research platform, JSTOR, and the leading digital preservation service, Portico. Across these products, ITHAKA has vast stores of data including more than 500 terabytes of academic content, usage data for hundreds and millions of users over two decades, and billions of logged events. As Data Scientist - Analytics you will work with our software and quality assurance engineers, and interact directly with ITHAKA business, product, and engineering leaders to identify opportunities to leverage this data, using it to improve our products and services, to tell compelling stories about our work and impact, and to inform decision-making.
+
+Our organization and this role will provide you with an opportunity few other companies can offer including:
+
+Exercising your entrepreneurial muscles to solve problems for the research and education communities.
+
+Leveraging technologies including, AWS, Databricks, Spark, and the various ML stacks built on Python such as Tensorflow, PyTorch, or MXNet.
+
+Working on Agile teams that follow continuous deployment and test automation best practices allowing for rapid application development and frequent deployments. We complete an average of 80 production deployments each week.
+
+Using the same architecture, technologies, and tools as companies like Netflix, Etsy, and Amazon.com.
+
+A unique opportunity to be on the leading edge of building large-scale, cloud delivered web applications that host hundreds of millions of sessions annually.
+
+As part of the data engineering/analytics team, you can expect to receive tool and product training. We have an excellent onboarding program, which enables new engineers to become productive very quickly. A lead will work closely with you as you begin engaging your assigned agile team. You will be provided with constant support as we work to make you comfortable in your new environment. Those in leadership roles will work tirelessly to set you up for success.
+
+Responsibilities
+
+The successful candidate will have applicable development experience, experience with large-scale distributed web applications, large datasets, a high degree of intellectual curiosity, and excellent soft skills. We look for candidates that possess strong problem recognition and problem solving skills, and a passion for innovation.
+
+The primary responsibilities of our data scientists include:
+
+Understand the ITHAKA business as well as the businesses and organizations we engage with to advance access to scholarly materials.
+
+Develop relationships with teams that will consume your models, understanding their problems so that you can provide the solution they need but aren’t necessarily asking for directly.
+
+Help your team develop prioritized backlogs of work – enabling them to know what they are working on and to know how well they are meeting their commitments.
+
+Design, develop, and iterate on world class algorithms and predictive models, leveraging statistical, machine learning, and AI methods - particularly in the area of time series forecasting, usage based clustering, and anomaly detection.
+
+Work with your team to provide evidence regarding the impacts of your models, leveraging ITHAKA’s Data Pipeline and Data Warehouse, to all levels of the organization.
+
+Experience and Skills
+
+Advanced degree in a quantitative discipline such as Statistics, Economics, Mathematics, Computer Science or equivalent.
+
+3 plus years hands on experience building statistical and machine learning models using common data science toolkits such as Python, Spark, NumPy, SciPy, Scikit-learn, TensorFlow, R, etc.
+
+Clojure, Apache Spark are a plus.
+
+Exceptional communication skills with experience presenting complex results in easy to understand ways to diverse audiences.
+
+Experience with multi-billion row record datasets and leading projects that span the disciplines of data science and data engineering.
+
+Experience with relational databases, data warehousing, and NoSQL technologies such as Postgres, MySQL, Oracle, AWS Redshift, AWS Athena, ElasticSearch, Dynamo.
+
+Proficiency in using query languages such as SQL, Spark DataSets, Pandas, Lucene/ElasticSearch/SOLR.
+
+Experience building robust data ingestion pipelines.
+
+Intellectual curiosity, entrepreneurial drive, innovative thinking and problem solving skills.
+
+Ability to determine what is needed for a minimum viable dataset, minimum viable predictive model and how to iterate that dataset or model for iterative and continuous improvement.
+
+Work for ITHAKA
+
+Our team is passionate about our mission and supporting one another. We enjoy working together to create opportunities for people to learn and grow out in the world, and we bring that same commitment to helping our teammates develop in our careers and our lives. One of our core values is belonging. We embrace differences, and believe that the things that make each of us unique are the things that help us see new insights and build better solutions.
+
+Learn more about Working at ITHAKA.
+
+Apply Now:
+
+Interested candidates can submit their resume, a detailed cover letter, and salary requirements.
+
+We are proud to be an Equal Opportunity/Affirmative Action employer. All qualified applicants receive consideration for employment without regard to race, color, sex, national origin, gender identity, sexual orientation, age, religion, domestic violence victim status, veteran status, disability, history of disability or perceived disability, or other status protected by law.
+
+Education
+
+Preferred
+
+Masters or better in Mathematics
+
+Masters or better in Economics or related field
+
+Masters or better in Computer Science or related field
+
+Masters or better in Statistics or related field

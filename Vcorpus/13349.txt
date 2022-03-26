@@ -1,0 +1,30 @@
+About Datadog:
+
+We're on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at high scale—trillions of data points per day—providing always-on alerting, metrics visualization, logs, and application tracing for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.
+
+The opportunity:
+
+You will have a fantastic team of data engineers to support you, a collaborative environment to encourage your work, and the best technologies for performing data science at high scale in your toolkit.
+
+You will:
+Present the latest academic research papers to your team.
+Research and benchmark the latest algorithms that can be used for our particular use-cases.
+Apply machine learning algorithms and statistical techniques to build new product features.
+Deploy a new feature to production, instantly affecting customers with your work.
+Mentor other data scientists on your team.
+Explore and find meaning in extremely high volumes of data.
+Investigate and fix a production issue from a service your team owns.
+Requirements:
+You have 2 + years professional experience
+You are fluent with SQL / relational algebra.
+You have mastered working with data in a language such as Python, R, or Julia.
+You’ve done data science at high scale with tools like Hadoop and Spark.
+You have backend programming experience in one or more languages.
+You have significant experience applying machine learning to real business problems.
+You want to work in a fast, high-growth startup environment and thrive on autonomy.
+You care about code simplicity and performance.
+You have a BS/MS/PhD in a scientific field or equivalent experience.
+You can explain complex ideas and algorithms in understandable ways.
+Bonus points:
+You’ve written production data pipelines.
+You’re familiar with time series analysis.

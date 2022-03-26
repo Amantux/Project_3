@@ -1,0 +1,81 @@
+Gallagher is a global leader in insurance, risk management and consulting services. We help businesses grow, communities thrive and people prosper. We live a culture defined by The Gallagher Way, our set of shared values and guiding tenets. A culture driven by our people, over 30,000 strong, serving our clients with customized solutions that will protect them and fuel their futures. 
+Good companiesoffer you a career. A great company will offer you a sense of purpose. Andthats the Gallagher difference. When you join us, you become part of aclose-knit and collaborative culture thats making a difference in the lives ofothers around the globe. Were proud to have been recognized by Ethisphere asone of the Worlds Most Ethical Companies each year for seven years running.And, Forbes named Gallagher as one of the 2000 best places to work in theworld. 
+ PositionSummary  : 
+The datascientist will partner with sales, marketing, and operations for GallaghersBrokerage segment. You will leverage company and external data to developpredictive models and other insights that provide business leaders with suggestionsfor revenue and process optimization. The ideal candidate will have provenexperience managing large data sets and developing predictive models. Goodcommunication skills are essential as you will provide highly technical,analytical assessments to team leaders. 
+ Responsibilities  :  
+
+Independently develop predictive models,leveraging internal and external data, to optimize sales performance, customerexperience, and marketing spend. Build models in a cloud environment, and workwith the team to ensure any business-accepted models can be deployed toproduction.  
+
+Understand and define business problems and identifythe data needed to solve problems.  
+
+Coordinate with business analysts and dataengineers to gather data for analysis. Lead testing of data quality andcompleteness for modeling attributes.  
+
+Produce written reports and recommendations forinternal consumption, including problem statement, methods, interpretation offindings, and business implications.  
+
+Provide ad-hoc support to internal clients fordata mining and other analytics.  
+
+Technology is always changing. Continue improvingmachine learning and programming skills.   
+ Required  :  
+
+Degree in quantitative field, such as data science, statistics, mathematics, computer science, finance, or economics.  
+
+3 years of experience using statistical modeling and/or machine learning techniques to build models that influence company decision-making.  
+
+Proficient with building data pipelines from larger data sets.  
+
+Excellent problem solving skills as well as critical thinking and conceptual thinking abilities.  
+
+Intermediate to advanced proficiency in SQL and R or Python.  
+
+Experience with cloud tools and structures, preferably Azure.  
+
+Experience with distributed data and computing tools: MapReduce, Hadoop, Hive, Spark, MySQL, etc.   
+ Nice to Have  :  
+
+A background in insurance, insurance brokerage,or financial services.  
+
+Experience deploying models in a productionenvironment including writing tests to improve code coverage, using versioncontrol (e.g. Git), and levering CI/CD tools (i.e. Jenkins, CircleCI, Travis CI,etc.)  
+
+Experience working in an agile environment andusing agile software (Jira, Asana, Trello, etc.).  
+
+Experience with advanced modeling techniquessuch as ensemble and neural networks.  
+
+Masters or PhD in quantitative field, such asdata science, statistics, mathematics, computer science, finance, or economics.   
+ U.S. Eligibility Requirements  :  
+
+Interested candidates must submit an application and resume/CV online to be considered  
+
+Must be 18 years of age or older  
+
+Must be willing to submit to a background investigation; any offer of employment is conditioned upon the successful completion of a background investigation  
+
+Must have unrestricted work authorization to work in the United States.  For U.S. employment opportunities, Gallagher hires U.S. citizens, permanent residents, asylees, refugees, and temporary residents. Temporary residence does not include those with non-immigrant work authorization (F, J, H or L visas), such as students in practical training status. Exceptions to these requirements will be determined based on shortage of qualified candidates with a particular skill. Gallagher will require proof of work authorization  
+
+Must be willing to execute Gallaghers Employee Agreement or Confidentiality and Non-Disclosure Agreement which requires, among other things, post-employment obligations relating to non-solicitation, confidentiality and non-disclosure   
+Gallagher offers competitive salaries and benefits, including: medical/dental/vision plans, life and accident insurance, 401(K), employee stock purchase plan, educational expense reimbursement, employee assistance program, flexible work hours (availability varies by office and job function) training programs, matching gift program, and more. 
+ Gallagher believes that all persons are entitled to equal employment opportunity and does not discriminate against nor favor any applicant because of race, sex, color, disability, national origin, religion, creed, age, marital status, citizenship, veteran status, gender, gender identity / expression, actual or perceived sexual orientation, or any other protected characteristic. Equal employment opportunity will be extended in all aspects of the employer-employee relationship, including, but not limited to, recruitment, hiring, training, promotion, transfer, demotion, compensation, benefits, layoff, and termination. In addition, Gallagher will make reasonable accommodations to known physical or mental limitations of an otherwise qualified applicant with a disability, unless the accommodation would impose an undue hardship on the operation of our business.  
+ #LI-KF1  
+ Job:     Finance  
+ Organization:     Corp - Home Office  
+ Title:     Data Scientist  
+ Location:     Illinois-Chicago  
+ Requisition ID:     56239  
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Chicago, IL 60290 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         2365_aecdbc684dc4218f5f71433f5321b4b1

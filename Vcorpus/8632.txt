@@ -1,0 +1,35 @@
+POSITION SUMMARY
+
+The CCQ seeks highly motivated data scientists with a strong background in computational physics methods and software development. Depending on levels of experience, positions may be at-will Data Scientists or term-appointment Associate Data Scientists.
+
+These positions will report to a group leader or project leader and will be responsible for developing the core library and algorithms for CCQ software libraries, which are currently ITensor (http://itensor.org/) and TRIQS ( https://triqs.ipht.cnrs.fr/) . These positions also support the associated scientific community by creating documentation, responding to user questions, and addressing bug reports. A Data Scientist may be expected to provide training through lectures and tutorials at the Institute and external activities such as summer schools. The scientific output of these positions also includes publications produced in collaboration with scientists at the Flatiron Institute.
+
+MINIMUM QUALIFICATIONS:
+
+Education:
+
+PhD in Physics or closely related field
+
+Required Qualifications:
+
+Development of scientific software for physics research
+
+Knowledge of many-body quantum physics
+
+Experience with the C++ programming language
+
+Excellent communication and teaching skills
+
+Other Desired Qualifications:
+
+Experience with tensor network algorithms and/or DMRG
+
+Experience with DMFT and related methods
+
+Experience with the Julia or Python programming languages
+
+Experience with multi-core, MPI, or GPU parallelism
+
+THE SIMONS FOUNDATION'S DIVERSITY COMMITMENT
+
+Many of the greatest ideas and discoveries come from a diverse mix of minds, backgrounds and experiences, and we are committed to cultivating an inclusive work environment. The Simons Foundation provides equal opportunities to all employees and applicants for employment without regard to race, religion, color, age, sex, national origin, sexual orientation, gender identity, genetic disposition, neurodiversity, disability, veteran status, or any other protected category under federal, state and local law.

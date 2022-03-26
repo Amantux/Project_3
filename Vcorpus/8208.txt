@@ -1,0 +1,47 @@
+Crisis Text Line is looking for a Business Intelligence Data Scientist to join our Community Team.
+
+The Community Team supports our volunteer Crisis Counselors, who are the backbone of the Crisis Text Line service; the Crisis Counselors’ role is to message with texters in crisis, and move them from a hot moment to a cool calm. Over 5,000 Crisis Counselors volunteer with Crisis Text Line every month, making it one of the largest online volunteer communities in the world.
+
+The Data Scientist will work with two groups within the Community Team:
+
+(1) a Product Development group, with a mix of engineering, product, and data staff, and (2) a Volunteer Success group, with customer service and instructional design staff.
+
+The Data Scientist will work with both groups to deepen volunteer engagement using three skillsets: (1) technical, to instrument, munge, and analyze data, (2) scientific, to bootstrap MVP experiments that test products before investing engineering resources, and (3) storytelling, using principles from masters like Edward Tufte and Robert Cialdini, to move from insight to action. Crisis Text Line has a diverse, inclusive, and empathetic culture—we look for people who are curious, creative, and work to be a little better every single day.
+
+As a Community Team, in our work together we aim to be humble, open, gritty and, above all, collaborative. Does this sound like a good fit for you? If so,
+
+What you will be doing
+
+Using the largest data corpus on crisis in the world (~110 million messages), find insights that will change how we train our counselors and understand our impact on texters.
+
+Serve as the data advisor to our Community Team leadership, guiding which projects to prioritize, based on data.
+
+Lead data projects from start to finish, including strategy and execution for data collection, storage, and analysis.
+
+Collaborate with product and engineering to test and evaluate products. Build dashboards, launch new data instrumentation, and set up real-time monitoring of our products’ performance. Then, share insights with all staff in presentations. What you should have
+
+Requirements
+
+Minimum of 2 years of experience in an Analytics, BI, or Behavioral Science role, and/or a degree in a related field.
+
+Proficiency in one or more data science languages, including SQL, python, and R for data ETL, munging, and analysis.
+
+Experience designing live monitoring dashboards with BI tools including Periscope, Looker, and Tableau.
+
+Experience with mixed research methods, including but not limited to split-testing, multi-arm bandit testing, natural language processing, ethnography, grounded theory, and natural experiments.
+
+Benefits
+
+Crisis Text Line provides free, 24/7 emotional support and information to people in crisis, by text. We aim to move every texter in crisis from a hot moment to a cool calm. Crisis Text Line is one of the first non-profits built from the ground up around data and technology. In our first five years, our Crisis Counselors have exchanged over 100 million messages with texters in crisis. We plan to exchange the next 100 million in the next 11 months. This means now have the largest dataset on crisis in the world. We’re using this data in two ways: (1) to improve our service internally, and (2) to improve the crisis space as a whole. For the public, we’ve developed www.crisistrends.org, which updates daily. For researchers, we have a Fellows Program, where researchers spend 6 months with us, breaking new ground for crisis care and research-for-good. So far, 7 papers have been published with our data; we expect another 10 in the next twelve months. Crisis Text Line is headquartered in New York City. Come help us shape the story of what #dataforgood means here at Crisis Text Line.
+
+We also provide:
+
+3 weeks vacation per calendar year.
+
+A rockin’ team. Lots of support and laughter.
+
+You don’t have to work on your birthday (but we’ll probably bake you cookies if you do).
+
+Valentine’s Day is also a holiday here...and Halloween is a half day. Plus all those normal holidays.
+
+Crisis Text Line is an equal opportunity employer.

@@ -1,0 +1,40 @@
+Overview
+
+
+At Sotheby’s we use data science to unravel the secrets of art and luxury commerce space. This enables us to efficiently scale the marketplace business for our clients. In this role, you will utilize a unique set of data to model rich dynamics critical for business functions. You will work in a team of data engineers, machine learning engineers, infrastructure engineers, and product managers to build and deliver data science products that unlock supply and predict demand in the Sotheby’s marketplace.
+
+Responsibilities
+
+
+What you'll do:
+
+* Work on the end-to-end data science pipeline: from data collection and cleaning, to experimenting with predictive models, to deployment of the results
+
+* Perform exploratory data analysis and write data pipelines to improve data quality for downstream tasks
+
+* Train models to understand and predict price dynamics of artworks and other luxury commerce categories
+
+* Build recommender systems for artworks and other luxury commerce categories, to deliver a personalized experience to clients
+
+* Develop off-line evaluation metrics and craft real-world tests to measure model’s efficacy
+
+* Build production data pipelines and services on Google Cloud Platform to deploy data science products
+
+* Collaborate closely with data engineers, machine learning engineers, infrastructure engineers
+
+* Work from our office in New York City, and contribute to the product vision for reshaping a 300-year old industry through automation and data science
+
+Qualifications
+
+
+Who you are:
+
+* M.S. in CS, EE, Stats or other quantitative field
+
+* Strong understanding of statistics and machine learning
+
+* Experience working with and designing machine learning/deep learning models, and a documented history of code or research accomplishments
+
+* Highly proficient in at least one of the following programming languages for data engineering and data science: Python, C++, or Java. (Experience in Python preferred)
+
+* Friendly, hard-working, collaborative, and able to multitask are musts in our lean team

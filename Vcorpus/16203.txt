@@ -1,0 +1,94 @@
+Location:
+Dallas, New York, Pittsburgh
+
+Geography:
+North America
+
+Capabilities:
+Technology & digital
+
+Industries:
+Technology industries
+
+About Us
+
+
+Boston Consulting Group partners with leaders in business and society to tackle their most important challenges and capture their greatest opportunities. BCG was the pioneer in business strategy when it was founded in 1963. Today, we help clients with total transformation-inspiring complex change, enabling organizations to grow, building competitive advantage, and driving bottom-line impact.
+
+To succeed, organizations must blend digital and human capabilities. Our diverse, global teams bring deep industry and functional expertise and a range of perspectives to spark change. BCG delivers solutions through leading-edge management consulting along with technology and design, corporate and digital ventures—and business purpose. We work in a uniquely collaborative model across the firm and throughout all levels of the client organization, generating results that allow our clients to thrive.
+
+Practice Area Profile
+
+BCG Platinion launched in Germany in 2000 to add deep technical expertise to the Boston Consulting Group’s existing capabilities. Today, our presence spans across the globe, with offices in Asia, Europe, and South and North America. Our New York-based North American team began in 2014 and in 2017 acquired MAYA Design, a Pittsburgh-based digital design and innovation lab, to grow our capabilities around technology and design. We support our clients’ total digital transformation through technology, design, cybersecurity, and risk management & financial engineering capabilities. And together with BCG, BCG Platinion’s interdisciplinary team of technical experts enable customized technical solutions and accelerate delivery value through new business platforms, application consolidations, and major system implementations.
+
+Role Profile
+
+At BCG Platinion, we are thinkers, makers, and doers who love solving hard problems. We aren’t afraid to roll up our sleeves and dive into the weeds of complexity—in fact, that’s our job. When companies are tasked with understanding and managing their data, we come in and develop the products, tools, and platforms they need to harness that information for real impact.
+
+Lead/Principal Data Engineers at BCG Platinion are:
+Iterative. They are excited to prototype at all levels of fidelity—and have the humility to walk away from ideas when they fail.
+Collaborative. They have the ability and enthusiasm to work with researchers, engineers, business consultants, and other designers who will challenge and support one another.
+Comfortable with ambiguity. They know projects and businesses move fast. That means the path forward isn’t always well-defined. They are comfortable and collaborative through our process.
+Interdisciplinary. They deliver data products for digital solutions, deploy analytical models into production, fix existing data platforms, or coach and enable other teams in best practices depending on need.
+You’re Good At:
+Working with a diverse set of clients across domains and industries
+Implement data orchestration pipelines, data sourcing, cleansing, and augmentation and quality control processes
+Deploying machine learning models in production
+Leading data architects in designing data architectures
+Design flexible and scalable data architectures tailor made for the client
+Mentoring data engineers to further their personal and professional growth
+Leading other engineering staff on projects
+Developing team’s talent by providing direction and facilitating technical architectural discussions
+Contribute to the running of BCG Platinion | MAYA Design’s consulting business by:
+Assisting with business development through writing proposals, scoping projects
+Contributing to our thought leadership through written publications and speaking at events and conferences
+Translating business needs into solutions
+Designing overall data solution, integration, and enterprise architectures
+
+Your Qualifications
+
+You’ll Bring:
+6+ years of experience working on large scale, full lifecycle data implementation projects
+BS/BA in data engineering, software engineering, data science, computer science, applied mathematics, or equivalent experience
+2+ years professional development experience with some of the AWS/Azure/GCP data stack:
+S3
+Redshift
+AWS glue
+EMR
+Azure Data Warehouse
+Azure Blob Store
+Google Big Query
+5+ years of experience in a client facing role
+Subject matter expert in at least one area related to data management
+An RDBMS technology
+A Big Data technology
+Enterprise Data Management, Governance, Strategy, etc.
+A deep knowledge of performant SQL and understanding of relational database technology
+Hands-on RDBMS experience (data modeling, analysis, programming, stored procedures)
+Expertise in developing ETL/ELT workflows with one or more of the following:
+Python
+Scala
+Java
+Deployment of data pipelines in the Cloud in at least AWS, Azure, or GCP
+A deep understanding of relational and warehousing database technology, working with at least one of the major databases platforms (Oracle, SQLServer, Teradata, MySQL, Postgres)
+Additional consideration to candidates who possess some of the following criteria:
+Experience working with Big Data technologies such as Spark, Hive, Impala, Druid, or Presto
+A solid foundation in data structures, algorithms, and OO Design with fundamentally strong programming skills
+Proven success working in and promoting a rapidly changing, collaborative, and iterative product development environment
+Strong interpersonal and analytical skills
+Intellectual curiosity and an ability to execute projects
+An understanding of “big picture” business requirements that drive architecture and design decisions
+DevOps and DataOps skills including “infrastructure as code” systems like CloudFormation or Terraform
+Data system performance tuning
+Implementation of predictive analytics and machine learning models (MLlib, scikit-learn, etc)
+Willingness to travel around the globe to work with clients and BCG teams. At times, this role involves significant travel to client sites. The amount of travel will depend on client needs and nature of projects
+What to include in your application:
+A link to your portfolio that demonstrates your affinity for data engineering and shows how you approach digital challenges
+
+BCG pioneered strategy consulting more than 50 years ago, and we continue to innovate and redefine the industry. We offer multiple career paths for the world’s best talent to have a real impact on business and society. As part of our team, you will benefit from the breadth and diversity of what we are doing today and where we are headed next. We count on your authenticity, exceptional work, and strong integrity. In return we are committed to supporting you in discovering the most fulfilling career journey possible—and unlocking your potential to advance the world.
+
+Date Posted:
+14-Jan-2020
+
+Boston Consulting Group is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, sexual orientation, gender identity / expression, national origin, disability, protected veteran status, or any other characteristic protected under national, provincial, or local law, where applicable, and those with criminal histories will be considered in a manner consistent with applicable state and local laws.
+BCG is an E-Verify Employer. Click here for more information on E-Verify.

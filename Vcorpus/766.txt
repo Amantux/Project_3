@@ -1,0 +1,90 @@
+Towers Crescent (12066), United States of America, Vienna, Virginia   At Capital One, we’re building a leading information-based technology company. Still founder-led by Chairman and Chief Executive Officer Richard Fairbank, Capital One is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. We measure our efforts by the success our customers enjoy and the advocacy they exhibit. We are succeeding because they are succeeding.                                               
+
+Guided by our shared values, we thrive in an environment where collaboration and openness are valued. We believe that innovation is powered by perspective and that teamwork and respect for each other lead to superior results. We elevate each other and obsess about doing the right thing. Our associates serve with humility and a deep respect for their responsibility in helping our customers achieve their goals and realize their dreams. Together, we are on a quest to change banking for good.   Data Scientist, Digital Machine Learning  
+
+Data Scientist, Digital Machine Learning  
+
+At Capital One, data is at the center of everything we do. When we launched as a startup we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making. 
+
+
+Team Description  
+Digital ML is the data science and machine learning team inside Capital One’s Digital Products organization.  We deliver real-time, personalized, intelligent customer experiences in Capital One’s suite of award-winning digital products, including our website, mobile app, emails, chatbot, and beyond.  We partner closely with our product and engineering teams to build the data and modeling platforms crucial to the deep understanding of customers that enables our applications to delight them by adapting to their needs. 
+
+
+As part of Digital ML, you will:   
+
+Explore billions of clickstream events to discover the patterns in customer behavior, and use those patterns to model key customer outcomes  
+
+Build and leverage an enterprise-wide taxonomy of customer data to optimize digital marketing initiatives  
+
+Develop the real-time models that use vast amounts of customer data to anticipate customers’ needs and deliver the right message at the right time  
+
+Develop the models that ensure our most important customer data is accurate, fighting fraud and other bad behavior, while enabling seamless digital experiences across all our products   
+
+
+Role Description  
+
+
+In Digital ML, you will work at all phases of the data science lifecycle, including:   
+
+Build machine learning models through all phases of development, from design through training, evaluation and validation, and partner with engineering teams to operationalize them in scalable and resilient production systems that serve 50+ million customers.  
+
+Partner closely with a variety of business and product teams across Capital One to conduct the experiments that guide improvements to customer experiences and business outcomes in domains like marketing, servicing and fraud prevention.  
+
+Write software (Python, Scala, e.g.) to collect, explore, visualize and analyze numerical and textual data (billions of customer transactions, clicks, payments, etc.) using tools like Spark, Elasticsearch, and AWS.   
+
+
+The Ideal candidate will be:   
+
+Curious and creative.  You thrive on bringing definition to big, undefined problems.  You love asking questions, and you love pushing hard to find the answers.  You’re not afraid to share a new idea. You communicate clearly and effectively to share your findings with non-technical audiences.  
+
+Technical: You have hands-on experience developing data science solutions from concept to production using open source tools and modern cloud computing platforms.  You are not afraid of petabytes of data.  
+
+Statistically-minded.  You have built models, validated them and backtested them.  You know how to interpret a confusion matrix or a ROC curve.  You have experience with clustering, classification, sentiment analysis, time series analysis and deep learning.  
+
+Customer and product oriented.  You share our passion for changing banking for good.   
+
+
+Basic Qualifications: 
+-Bachelor’s Degree plus 2 years of experience in data analytics, or Master’s Degree plus 1 year of experience in data analytics, or PhD
+-At least 1 year of experience in open source programming languages for large scale data analysis
+-At least 1 year of experience with machine learning
+-At least 1 year of experience with relational databases
+
+
+Preferred Qualifications:  
+
+-Master’s Degree in “STEM” field (Science, Technology, Engineering, and Mathematics) plus 1 year of experience in data analytics, or PhD in “STEM” field (Science, Technology, Engineering, and Mathematics) 
+-At least 1 year experience working with AWS
+-At least 3 years’ experience in Python, Scala, or R 
+-At least 3 years’ experience with machine learning
+-At least 3 years’ experience with SQL
+
+
+Capital One will consider sponsoring a new qualified applicant for employment authorization for this position.     No agencies please.  Capital One is an Equal Opportunity Employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, physical and mental disability, genetic information, marital status, sexual orientation, gender identity/assignment, citizenship, pregnancy or maternity, protected veteran status, or any other status prohibited by applicable national, federal, state or local law. Capital One promotes a drug-free workplace.  Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.  
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at  RecruitingAccommodation@capitalone.com . All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations. 
+
+For technical support or questions about Capital One's recruiting process, please send an email to   Careers@capitalone.com   
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site. 
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC). 
+
+Job Summary
+
+                             
+                     
+                         Location 
+                             Vienna, VA 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         R73618

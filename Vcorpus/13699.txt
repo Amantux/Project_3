@@ -1,0 +1,40 @@
+LOCATION: Remote (home based) with some travel to New York, Washington DC, Boston.
+
+About Us VIDEO
+
+Founded in 2013, Pivotal Software, Inc. combines our leading cloud-native platform, tools, and methodology to empower the world's largest organizations to adapt to change and build great software. Our technology unleashes developer productivity, while fulfilling our mission to transform how the world builds software.
+
+You
+
+As a data scientist on Pivotal's Data Science team, you'll be working on a wide variety of data problems for a diverse range of clients. You will often be asked to learn new technologies and domains on the fly. You should be comfortable working under deadlines and making tough decisions. Consequently, you will frequently have to balance achieving an immediate goal with scalability and productionalizability.
+
+The role offers room for personal and professional growth, and you won't be working in isolation. Data Science at Pivotal is an encouraging and supportive team, where ideas and challenges are addressed collaboratively. We're looking for the kind of person who will try and solve a problem on their own first, but isn't afraid to ask for help or say "I don't know."
+
+Us
+
+The Data Science team at Pivotal is primarily a consulting practice; we are tool agnostic, working with our customers to solve real world problems. Our customers, like us, are cross-disciplinary. We service engagements with use cases running from customer churn to optimization to detecting fraud and misconduct. We are not just doers, we are also educators and enablers.
+
+Your Day
+
+While there is no such thing as a "typical day", these are activities we frequently find ourselves doing:
+Working with clients to uncover and frame new opportunities for data science. Clients often come to us without a clear understanding of what we can do, so this is our chance to open their eyes to new possibilities for their businesses.
+Exploring client datasets, looking for actionable insights we can present.
+Engineering features, training models, tuning hyperparameters and evaluating the results. We emphasize rigor, because data science done right at this stage leads to models that shine in production.
+Taking the models we build into production. This is an exciting stage for anyone who likes collaborating with engineering teams and seeing their model become real when users interact with it.
+Helping our clients develop their internal data science practices, from hiring and recruiting to data capturing, so that they can be successful when we hand off the project.
+Required Skills / Experiences
+Clear and empathetic communicator. You'll be the one sharing your insights with clients and stakeholders at check-ins, documenting your work, and even explaining your model to client data teams as part of a handoff. As such, communication and empathy are essential parts of your toolkit.
+Advanced knowledge of statistical modeling and/or machine learning methods. These are the tools we need to go from analysis to prediction.
+Strong programming skills. Left to our own devices most of us work in Python, but learning the client's tech stack is an important part of the job.
+Strong exploratory data analysis skills. Every engagement starts with an investigation of the data, and thorough EDA saves us a lot of headaches in the long run.
+Some travel is expected, depending on location and skillset. We mostly work out of the Pivotal office closest to the client, but sometimes we have to be on site for an extended period of time.
+At least a bachelor's degree in an analytical or technical field. This could be applied mathematics, statistics, computer science, operations research, economics, etc. Higher education welcome and encouraged.
+
+This role will support US government clients that require US citizenship. Given this, US citizenship is required for you to apply.
+Desired Skills / Experiences
+2+ years of work in a data-centric field (data science or data engineering).
+Experience with relational databases.
+Exposure and experience working in a Linux environment.
+You have a specialization in an area like NLP, optimization, or image processing.
+Hands-on experience working in a distributed computing environment or proven theoretical understanding of parallelism.
+Pivotal is an Equal Employment Opportunity employer that will consider all qualified applicants, regardless of race, color, religion, gender, sexual orientation, marital status, gender identity or expression, national origin, genetics, age, disability status, protected veteran status, or any other characteristic protected by applicable law.

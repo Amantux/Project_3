@@ -1,0 +1,63 @@
+About us
+
+Certilytics offers a suite of innovative analytic solutions including Big Data Services, Total Population Health Management, Financial Risk Intelligence and Customized Prediction Models. These solutions are configured upon our open source Hadoop Platform, with the underlying philosophy of providing analytics as a service and moving beyond predictions to deliver actionable intelligence.
+
+Our team represents a dynamic infusion of multidiscipline which includes actuarial, data and behavioral scientists, IT engineers, software developers, nurse clinicians, as well as experts in public health and the health insurance industry. Certilytics has extensive experience working with a diverse set of customers including large self-insured employers, health plans, pharmacy benefit managers, government programs, care management companies and health systems. These relationships with various data providers and customers allows for rapid data ingestion, validation and enrichment as well as streamlined delivery of analytic dashboards, outputs and visualizations to our customers.
+
+Our unique approach allows for the development of the most accurate financial, clinical and behavioral models in the industry.
+
+About the Role
+
+Data Scientist with experience building, testing and validating Deep Learning models using PyTorch, Keras, Tensorflow, or other relevant frameworks sought by leading financial services and technology company. As part of the data science team, the Data Scientist will be responsible for building models for clinical and financial risk prediction, performing original research, and contributing to a proprietary machine learning library.
+
+Essential Function
+
+ Develop supervised and unsupervised models to drive health and business insight in the healthcare space
+
+Participate in the development and selection of new data sources and ensuring the quality and reliability of the data
+
+Communicate, implement, and integrate statistical tools developed into the internal systems for ongoing use
+
+Measure and communicate the effect of models in production
+
+All other duties as assigned
+
+Required Skills
+
+Requirements
+
+Must have a Bachelors Degree in Science or related field
+
+Must have strong analytical/mathematical skills and working knowledge of machine learning
+
+Experience in R, Python, Scala, and/or other statistical and machine learning software
+
+Experience with Deep Learning
+
+Experience with PyTorch, Keras, or Tensorflow
+
+Preferred Experience
+
+Masters Degree or PhD in Science or related field encouraged but not required
+
+Good knowledge and hands on experience in distributed technologies such as Hadoop, Hive, Spark
+
+Publication record or past research experience
+
+Experience building custom layers for deep learning frameworks (PyTorch, Keras, Tensorflow or similar)
+
+Experience translating research papers to code
+
+Achievements in data competitions such as Kaggle a plus
+
+Experience in Scala
+
+Experience in software development and version control
+
+Experience with NLP
+
+#TTR
+
+rec:IT
+
+Required Experience

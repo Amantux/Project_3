@@ -1,0 +1,55 @@
+Performance Engineering Services – Data Analyst
+Duration: 12 Months
+
+Your principal responsibility is to participate within the Performance Assurance Monitoring assisting other team members with SQL queries automation necessary to extract, transform, or load data as part of integration and analysis development. You will be responsible to cooperate with Operations/ IT team to deploy software and hardware upgrades that make it possible for us to leverage big data use cases. You will be responsible for utilizing a variety of reporting tools and software (Tableau and Business Objects), develops queries to generate reports and/or gather data from multiple sources. Focuses on client needs in defining data requirements and retrieving accurate information reporting requirements from start to finish to minimize future revisions. Also, you will be responsible for the identification, analysis, and diagnostics of wireless telecommunications networks performance characteristics. You will be responsible for monitoring KPIs, spotting trends, and correlating metrics across a diverse network infrastructure. You will answer technical questions as well as day to day operational questions. You will work independently with limited guidance to accomplish goals and objectives.
+
+Specific Responsibilities include:
+• Comprehensive knowledge of database administration (design, installation & troubleshooting)
+• Experience performing indexes and stored procedure tuning; handling security, backups and recovery.
+• Extensive familiarity with SQL queries.
+• Analyze and address database resource contention issues including inefficient queries.
+• Analyze, design, build and support current and new data feeds from various data sources to the data warehouse.
+• Writes and modifies SQL queries, Views and stored procedures for Automation producing reports that track KPIs performance metrics and systematizes automated reporting processes.
+• Build dashboards (using Tableau, Python and other BI tools) that illustrate how key performance indicators (KPIs) and metrics are changing over time.
+• Develop presentations to communicate findings to internal and external customers.
+• Exercise judgment within generally defined practices and policies in selecting methods and techniques for obtaining solutions and results.
+• Present ideas, technical and non-technical, in a logical, compelling manner in a written format and verbally in both small and large group settings
+• Work with the Network Engineering and Operations Teams on the cell site’s antenna and RF equipment configuration and database parameters
+
+Background & Competencies Required:
+• Bachelor’s Degree in Computer Science or Electrical Engineering; Master’s Degree a plus; 5-10 years’ work experience in the wireless industry
+• 3+ years of experience developing SQL/Oracle server objects e.g., store procedures, tables, triggers, views and functions.
+• 3+ years of experience developing Oracle server objects e.g., store procedures, tables, triggers, views and functions.
+• 3+ years of experience with at least one of the common industry data visualization tools (Tableau, Spotfire, Business Objects, Power BI, etc.) for data correlation, analysis, reporting, etc.
+• 3+ years of experience of wireless network KPI monitoring, trouble shooting and optimization, prefer with wireless infrastructure providers and /or operators.
+• Strong knowledge on 3G/4G/5G KPI definitions and formulas; good understanding of 3GPP protocols.
+• 3+ years hands on working experience with one of more wireless EMS system; building analysis reports using CM/PM/FM data
+• Advanced working knowledge of Base Station Vendor equipment (Samsung, Alcatel Lucent, Ericsson)
+• Demonstrated problem solving skills via prior work experience.
+• A solid understanding of RF fundamentals and data network protocols
+• Must have a strong work ethic, integrity and work extremely well in a team environment
+• Must have an aptitude for creativity and innovation
+• Programming knowledge and experience a plus: SQL, Python, R
+• Database design and administration a plus
+• 3+ years working experience with one of more EMS system; Advanced working knowledge of Base Station Vendor equipment (Samsung, Alcatel Lucent, Ericsson)
+• Advanced working experience on Microsoft Excel, PowerPivot, PowerPoint
+• Strong interpersonal communication skills
+• Proven ability to manage multiple priorities in a fast paced environment
+• Tableau Desktop Certified Professional Certification (preferred)
+• Python (preferred)
+• Database Administration Certification(preferred)
+• Bilingual in Korean (preferred)
+
+Physical/Mental Demands and Working Conditions: The position requires the ability to perform the essential duties and responsibilities in the following environment:
+• Excellent interpersonal and communication skills. Must be skilled in developing and maintaining good working relationships with all appropriate levels within and outside the company
+• Operate a computer keyboard and view a video display terminal more than 75% of work time in an office work environment
+• Frequently works additional hours beyond normal schedule
+• Performs work under time schedules and stresses which are normally periodic or cyclical and include time sensitive job stress, fatigue, unpaid over-time, intellectual challenge, constant technical data feedback, language barriers, and project management stress.
+• Machines, tools, equipment, and work aids include PC’s, printers, etc. most often associated with office work area equipment
+• Travel to customer locations, etc. approximately 20% of time
+• Under minimal supervision with a high level of responsibility to apply general policies and guidelines where decisions are seldom monitored, consequences of decisions may adversely affect operating results and management decisions. Position has complete access to confidential company data where disclosure may jeopardize the company’s competitive position
+
+Thank you,
+Sachin Patil,
+510-402-1063
+sachin@apninc.com

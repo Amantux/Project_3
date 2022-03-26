@@ -1,0 +1,48 @@
+Sr. Data Engineer
+
+We are growing!!
+
+Bridg is seeking a Senior Data Engineer who will be architecting highly scalable data integration and transformation platform processing high volume of data under defined SLA. You will be creating and building the platform that includes ingestion and transformation of data, data governance, machine learning, analytics and consumer insights.
+
+We’re a rapidly-growing start-up in the heart of Sawtelle Japantown, just blocks away from the 405 and the 10. Our loft-style office houses a passionate, hard-working team of ramen-slurpers, beachcombers, and LA-daydreamers. At our core, we’re a tech company, yes, but our people make the magic happen.
+
+At Bridg, you will be solving complex problems with a business that celebrates innovation and values your contributions. We want you to wake up each day excited to use cutting edge tools/technologies and software development practices. Our platform is a combination of a large scale near-real time data pipeline (10s of billions of data points of sale transaction data from major retailers) and over 100 microservices.
+
+Our current tech stack includes Flink, Kafka, Cassandra, ElasticSearch, AWS Athena, Glue, Redshift, EMR, DynamoDB, and Java Spring Boot based microservices.
+
+A collaborative and innovative culture, Bridg offers highly advanced technology to identify and track purchasers in a physical retail store. Bridg's technology relies on data science and probabilistic modeling to identify and track the purchasers. The Bridg platform gives retail chains the same level of customer insight (and revenue growth) as data-savvy online retailers like Amazon, leveraging hundreds of millions of daily data points.
+Qualifications
+3+ years working in Big Data and related technologies
+5+ years Java and Spring Boot experience
+Experience building high-performance, and scalable distributed systems
+AWS cloud experience (EC2, S3, Lambda, EMR, RDS, Redshift)
+Experience in a variety of relevant technologies including Cassandra, AWS DynamoDB, Kafka, AWS Kinesis, Elasticsearch, Machine Learning, Spark, Hadoop, Hive, Presto
+Experience in ETL and ELT workflow management
+Familiarity with AWS Data and Analytics technologies such as Glue, Athena, Redshift, Spectrum, Data Pipeline
+MS preferred, or BA/BS degree in computer science, related field, or equivalent practical experience
+Experience with Agile methodologies preferred
+Experience at start-ups a plus
+Experience in a fast paced development environment ideal
+Must pass background check
+Must be able to work in the office full time.
+Must be able to reliably commute to the office daily.
+What we offer
+A fantastic opportunity to be part of a growing start-up. A chance to work with a passionate, driven and fun team.
+An incredible work environment - fun, casual and fast-paced
+Monthly team activities and outings
+Loft-style office with plenty of break-out space
+Fully stocked company snack area complete with every drink and snack your heart desires
+Great benefits - Health, Dental, Vision, and Vacation
+Security, Availability and Confidentiality Requirements
+You are responsible for protecting the credentials provided to you to access S3’s (and customer, where applicable) networks, systems and data
+You are responsible for maintaining the confidentiality of all S3’s customer data to which you are granted access.
+Any suspected compromises of S3’s proprietary data or customer data must be reported to Management immediately.
+You will adhere to the S3 Information Security Policy and Procedures and supporting standard operating procedures to protect Company systems and data.
+Respond to and resolve customer help desk requests [varies based on role]
+You will alert management immediately with any expected system or data compromises and/or system failure impacting the security, confidentiality, availability and integrity of S3 and customer data
+
+
+About Bridg:
+Bridg is a marketing software company that provides a CRM solution, email and SMS marketing, insights and analytics, mobile app and loyalty program development for restaurants and retailers. Powered by transaction data, Bridg builds unique 360º customer profiles to understand individualized behavior patterns, providing clients with deep data science used to create wide-reaching, effective personalized marketing campaigns that drive traffic and sales in a measurable way.
+
+Our headquarters is located in West LA / Santa Monica, and we offer competitive salaries, great benefits, and a high-energy environment with lots of room for personal and professional growth.

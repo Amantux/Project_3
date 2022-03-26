@@ -1,0 +1,22 @@
+Company Description
+
+ClientSolv Technologies is an IT solution firm with over a decade of experience serving Fortune 1000 companies, public sector and small to medium sized companies. ClientSolv Technologies is a woman-owned and operated company that is certified as a WMBE, 8a firm by the Federal government's Small Business Administration.
+
+Job Description
+
+We are seeking a remote ColdFusion Developer with MSSQL Development skills to assist with building a solution for end users to access legacy data with a new application and systems that are being implemented. This role will be a 3-6 month contract and will be a telecommuting/remote role.
+
+The current system, which was built on ColdFusion and MSSQL has over 100 reports which will need to be translated and exported to flat file such that our users can continue to pull reports outside of the system.
+
+The duties of this role are as follows:
+Assist with building a solution for end users to access legacy data with a new application and systems that are being implemented.
+Understand the data model within the application
+Reverse engineer the queries within the application
+Standardize the set of queries and reports
+Export data for all users and reports Skills
+Qualifications
+Senior level ColdFusion Development
+Senior Level MSSQL Development
+Additional Information
+
+3- 6 months contract role. Can work remotely

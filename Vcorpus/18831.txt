@@ -1,0 +1,26 @@
+Job Description
+Open to C2C . Must have Masters in Computer Science
+
+This Software Engineer position is responsible for all phases of software development life cycle from software design, Service operations through customer support. We are looking for someone who is willing to jump in and learn some of the cloud technologies and help us build a highly scalable cloud service.
+• Handling complex dependencies in software design, implementation, testing, documentation and support and maintenance activities as well as software packaging
+• Build low friction APIs, highly responsive web UIs, and the backend to support them.
+• Communicate effectively with other engineers and QA
+• First-level test engineer with excellent analyst skills
+• Use knowledge and experience to influence the design and implementation approaches and solutions
+Basic Qualifications
+• Masters in Computer Science with 2+ years of experience
+• Strong computer science fundamentals in data structures, algorithm design, and complexity analysis
+• A passion for cloud technology, API design, and responsive UX
+• Demonstrated proficiency with at least one modern general-purpose programming languages like JavaScript, Java, C++, Go, Python, etc.
+• Ability to build an end-to-end user experience as part of a service oriented product.
+Preferred Qualifications
+• Java programming experience
+• Web-based development experience
+• Familiarity with dev-ops software development methods.
+• Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, testing, and operations.
+• Experience in communicating with users, other technical teams, and management to collect requirements, describe software product features, and technical designs.
+• Experience with cloud services like AWS or Microsoft Azure.
+• Experience with Docker container related technologies like Kubernetes, Mesos, etc.
+• Experience with Java IDE’s, Source Control and Problem Tracking tools
+• Previous/current Teradata experience or knowledge of relational database engines.
+• Experience with automated deployments and source code / configuration management tools - GitHub, AWS CloudFormation, Jenkins, Chef, Ansible, Puppet, Vagrant, Terraform, etc.

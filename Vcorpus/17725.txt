@@ -1,0 +1,34 @@
+Sr Engineer, BI
+
+Senior BI Engineer will work closely with business stakeholders to help identify data and reporting opportunities and architect solutions for data analysis of business information. This position will provide overall technical solutions and design for agile Business Intelligence. Areas of responsibility include Data Architecture, Data acquisition, ETL design, development, Data Analysis, Reporting, and implementation of large scale solutions and applications spanning Business, Financial, Operations, Technology and other related areas of the company. Additional areas include leading technical discussions, code reviews, solution design documentation and defining overall best practices and standards as related to data integration and reporting.
+
+What you’ll do:
+Implement business intelligence and advanced analytics solutions to achieve reporting and data analysis goals coordinating with stakeholders and business analysts.
+Responsible for solution design, hands-on development, release management and implementation of business intelligence and data solutions on Snowflake and SQL Server platform.
+Define and implement overall ELT and ETL architecture including key designs on integration standards such as loading, streaming/near real time/batch, CDC, data validation, parallelization and etc.
+Recommend and implement enhancements and modifications to optimize data model, data architecture, business intelligence and data governance processes.
+Coordinate with the business stakeholders to identify new data requirements, analysis strategies and reporting solutions.
+Assist in data management, modelling and integration activities in cloud native data warehouse system on Snowflake.
+Architect solutions based on specific project requirements, considering best practices and performance standards while promoting reusability.
+Deep hands-on knowledge of data integration methodologies(ELT/ETL), Messaging and API platforms.
+Analyze issues, reverse engineer where needed to come up with solutions to resolve issues in a timely manner.
+Responsible for maintaining team’s commitment to excellence and high standards in an agile and collaborative environment.
+Work with management to align solutions and data integration with business strategy and objectives.
+
+Qualifications:
+Bachelors of Science or Masters in Computer Science or related field
+Candidate should possess 10+ years of overall IT experience
+Candidate should possess 8+ years in a direct role as a data engineer, architect for ELT, ETL and Reporting solutions on SQL server enterprise data warehouse and Snowflake cloud native data lake
+Candidate should possess 5+ years - Data Modeling Experience to deliver both logical model & physical design for analytical systems.
+Solid hands-on SQL experience with SQL Server, Snowflake, ELT tools, Tableau and Informtica.
+Must have technical understanding with tools and products used in data mart and data integration development, such as SQL Server, Snowflake.
+Broad exposure in the new techniques in agile Data Warehousing and Data Integration technologies.
+Strong conceptual and analytical skills: SQL, Problem Solving, Performance tuning, Test case analysis
+Good understanding of data architecture in a cloud environment (AWS)
+Technical expertise in distributed system architecture, design, and development
+Experience and exposure to MongoDB, Cassandra, NoSQL environments a plus.
+Able to communicate effectively with all levels of management in a clear and professional manner; verbally and written, and possess superior people management and leadership skills
+Strong Leadership, Decision-making, and Technical design skills
+Ability to multitask and comfortable working in a large organization across multiple teams
+
+LegalZoom is an Equal Opportunity Employer, dedicated to diversity.

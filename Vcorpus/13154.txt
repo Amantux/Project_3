@@ -1,0 +1,34 @@
+Company Industry: Technology
+Opportunity: The Mom Project is helping to source candidates for the above client who is looking for a Data Engineer
+Commitment Level: 40 hours per week, on-site
+
+We are excited to partner with a growing, socially responsible, and profitable FinTech company that is one of the highest-rated and best-in-class online finance platforms and service providers in the industry. They have partnered with The Mom Project in hiring talented professionals as part of their Women's Work Initiative!
+
+This company offers consumers a simple and responsible source of funding when faced with
+financial emergencies. They continue to experience growth year over year with profitable returns each year. Employees have an opportunity to make an immediate effect in a growth stage company.
+
+The technology organization is a team of clever, inventive optimists with diverse perspectives and backgrounds. The employees approach every new challenge with an unparalleled ability to see what could be rather than settle for what is. They want people to be excited to come to work every morning and know they are a part of something great. That’s why they prize collaboration, collegiality, and letting the best ideas win the day. They are looking for engineers who are excited by the chance to challenge the FinTech status quo.
+
+What you get to do:
+Data Engineers are integral members of the Database team who work with internal stakeholders to design database solutions to meet reporting, analytics and data science needs. The team supports architecture, design, ETL, and database administration tasks for both OLTP systems (PostgreSQL) and data warehouses (Snowflake).
+
+What you will bring to the team:
+5+ years of experience of related data engineering experience working in an engineering team
+Substantial SQL experience (required)
+Scripting proficiency in Python, Ruby, or R (required)
+Strong collaboration skills
+A strong sense of customer service and empathy
+Experience with Airflow, AWS, Linux, Snowflake, and PostgreSQL strongly preferred
+Experience with containerization technologies and CI/CD tools a plus
+
+What you will be doing:
+Use Apache Airflow and Snowflake to make several layers of data available for reporting, Data Science and analytics
+Develop and document audits and controls to ensure the data meets quality standards and alerts the team when thresholds are breached
+Support and refine internal Business Intelligence and Data Warehouse environments.
+Collaborate closely with development teams to build data integrations for our applications and services
+Collaborate closely with internal teams to implement data integrations with external products and partners
+Operate in close partnership with the site reliability engineering team to develop and maintain database and ETL infrastructure
+Contribute energy and opinions to the database team
+Participate in the hiring process for technology candidates within a well-defined process
+
+***Compensation Commensurate with Experience***

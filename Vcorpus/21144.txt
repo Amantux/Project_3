@@ -1,0 +1,27 @@
+As an AI Insights Data Analyst at Moveworks, you will distill prospective customer ticket data into insights to enable them making informed purchase decisions. You will take large amounts of data, create compelling and accurate visualizations, and present your findings to senior executives. You will develop a deep understanding of the challenges and opportunities of the prospective customers and help them to envisage the impact of Moveworks in their unique environments. As we scale, you will help to build a data pipeline for the presales analysis and drive continuous improvements in technical and business tools/processes.
+
+We are looking for an experienced data analyst expert who will help us improve the quality and velocity of the presales analysis, make the product better and help the customers thrive.
+
+What will you do?
+Utilize Moveworks algorithms, as well as off-the-shelf Business Intelligence tools, to provide insights to prospect customers and internal teams
+Assist the sales team by crafting visualizations and pitch decks that tell the future customers a compelling story about their historic data, as well as highlighting Moveworks' value proposition
+Work with the product manager and customer success team to identify & prioritize opportunity areas to configure Moveworks skills for existing customers
+Build highly scalable data pipelines and clean datasets around key business metrics
+Focus on improving data quality and anomaly detection to increase trust in data
+Automate the process of analyzing data and visualizing results, both for the sales teams, as well as for core Product teams
+What do you bring to the table?
+3+ years of experience in a Business Analyst / Business Intelligence role
+Expertise in Tableau, Python (SQL is a plus), AWS, Airflow (or equivalent workflow mgmt platforms)
+Expertise in data modeling, ETL, and data warehousing concepts
+Experience in a startup and/or consulting environment is desirable
+Self-motivated with the ability to work independently
+Strong communication and organizational skills
+Proven track-record of working with business
+Who we are
+
+
+Moveworks is an AI first company with a singular focus: fully autonomous resolution of all enterprise IT. We are building a state of the art platform that combines natural language understanding, conversational interface, and automation to enable hundreds of millions of knowledge workers get work done faster. Our engineers built foundational systems are companies like Google, Amazon, LinkedIn, and Facebook, and we are now applying our expertise to build a first of its kind enterprise machine learning platform.
+
+While we currently resolve 15-35% of all IT related requests autonomously at companies like Broadcom and Autodesk, we are just getting started. Our vision is to build a single AI platform where employees can come for help whenever they need anything from their respective companies - ranging from HR related help, facilities, legal, and more. This is all delivered through a conversational interface like Slack, Teams, or Google Chat for a fast, delightful, and frictionless user experience.
+
+As we scale globally, there's plenty of space for you to grow with us. You'll be part of a team that thinks in terms of we, not I. Together, we're focused on simplifying life for millions of people around the world in their most pressing hours of the day by giving them an effortless, magical way to resolve issues -- all powered by a strong form of AI.

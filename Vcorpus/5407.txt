@@ -1,0 +1,60 @@
+Read what people are saying about working here. 
+Job Description
+
+We are looking for a Senior Data Scientist who has proven professional experience in building machine learning algorithms in distributed environments such as Amazon EMR with a Data Driven organization for more than 3 + years. The ideal candidate will have a passion for discovering patterns from large data sets and working with internal stakeholders to understand the business problems.
+
+CORE RESPONSIBILITIES
+
+Understand pros and cons of different machine learning tools (e.g. MLlib, scikit-learn, Amazon SageMaker) and recommend which one to use for a given problem
+
+Analyze steps involved in training a machine learning algorithm and break down into steps that can process terabytes of data in a distributed environment. This will involve analyzing vast amounts of data, generating features that are relevant to the problem, and running Spark jobs to pre-process the data that can be used to train the learning algorithm
+
+Analyze results from these steps and fine-tune model parameters iteratively to improve efficiency and accuracy
+
+Compile final outputs of the algorithms and present to stakeholders in a way that is comprehensible by non-technical audience
+
+Write complex queries in relational databases and Big Data (Spark/Hadoop) clusters
+
+Understand the business logic behind the data structure and nuances of the data. Understand the relationships among disparate data sources including where they come from and what they represent
+
+Understand behind-the-scenes steps of machine learning algorithms and do not treat them as black boxes. Know pros and cons of different machine learning practices. Select the most appropriate algorithm for a given task and explain why a particular algorithm is better than others to solve the problem
+
+Create data visualizations to tell the story from the data. Understand what types of visualizations are appropriate for the audience
+
+Collaborate with Product Operations team to set up environments needed for the data science team. Communicate effectively on what is needed and brainstorm with them to explore the best solution for a given problem
+
+Collaborate with Product, Engineering and QA teams in productizing proof-of-concept machine learning algorithms
+
+Possess business savviness and understand the business problem before formulating solutions. Identify which data is relevant to solve the problem and propose solutions
+
+Proactively seek opportunities to help predict the outcomes of business decisions and mitigate potential threats to the business. Communicate the benefits of the use of data in making informed decisions to business stakeholders. Manage expectations and explain existing technical limitations in a manner all stakeholders can understand
+
+Qualifications
+
+YOU ARE RIGHT FOR THE JOB IF:
+
+You have at least 4 years of proven professional experience working with machine learning algorithms in a distributed environment using large-scale data processing tools
+
+Your education background and relevant work experience demonstrate a mixture of math, statistics, and data engineering
+
+You are able to code in Python and R
+
+You can extract data on your own and prepare a large data set to train a machine learning algorithm
+
+You feel comfortable working with data that is sometimes incomplete, or messy…or both.
+
+You don’t make assumptions about the data yourself. Instead, you are willing to work with others to get a clear understanding of the context around the data
+
+You possess business acumen and curiosity to learn Centro’s business operations
+
+You don’t limit yourself to how things are done today. You instead focus on the best ways to create value
+
+Bonus item:
+
+You have experience working in Ad Tech and are familiar with data from ad servers such as DoubleClick
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.
+
+ For 13 years, we've had a singular goal: to improve the lives of those working in the advertising industry by building media management s...

@@ -1,0 +1,33 @@
+Lead Data Engineer - (Elasticsearch, Logstash, Kibana)
+
+Equinix is one of the fastest growing data center companies, growing connectivity between clients worldwide. That’s why we're always looking for creative and forward-thinking people who can help us achieve our goal of global interconnection. With 200 data centers in over 24 countries spanning across 5 continents, we are home to the Cloud, supporting over 1000 Cloud and IT services companies that are directly engaged in technological innovation and development. We are passionate about further evolving the specific areas of software development, software and network architecture, network operations and complex cloud and application solutions.
+
+At Equinix, we make the internet work faster, better, and more reliably. We hire talented people who thrive on solving hard problems and give them opportunities to hone new skills, try new approaches, and grow in new directions. Our culture is at the heart of our success and it’s our authentic, humble, gritty people who create The Magic of Equinix. We share a real passion for winning and put the customer at the center of everything we do.
+
+Description:
+As part of Equinix Product Software Engineering organization, data engineer brings skills in development of the ELK stack, fluentd, beats.
+
+Successful candidates would bring a data driven mindset to ensure customer success. Ability to manage the ELK infrastructure using kubernetes on a global scale.
+
+You will be responsible for architecture and driving roadmap execution in a matrix cross functional organization. Have strong written and communication skills and a sense of ownership and drive towards business objectives.
+
+Responsibilities:
+• SLDC process involving scrum agile process from inception to product delivery.
+• Elasticsearch Engineer will work closely with product manager, architects, engineers, and integrators to assess customer requirements and to design and support an Elasticsearch Stack solution to ensure data is useable for internal and external customers.
+• Deploy and maintain ELK and Prometheus infrastructure on development and production environments.
+• Testing data flows, troubleshooting issues, and monitoring the health of the solution and servers to maximize performance and minimize downtime
+• Securing environments with TLS, certificates, SSO authentication
+
+Minimum qualifications:
+• 3+ years' experience in technical leadership leading a team of engineers.
+• 3+ years' experience contributing as a team member using Scrumban/Kanban agile model
+• 3+ years hands on experience in performance profiling and optimization in a distributed environment
+• 5+ years hands on experience with Prometheus, Alertmanager, ELK, Grafana, and fluentd
+• BS degree in Computer Science or equivalent
+• 2-4 years of cloud engineering experience with at least one of the leading public cloud
+•
+Additional Qualifications:
+• Working experience development using Python/Go
+• Experience working with fault tolerant and highly-available distributed systems
+• Experience with big data systems and/or database administration (e.g. PostgresSQL, Cassandra, etc) a plus;
+• Strong linux environment / OS performance and troubleshooting skills

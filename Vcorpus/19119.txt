@@ -1,0 +1,45 @@
+Job Title: Software Engineer OSS
+
+Job Location: Sunnyvale
+
+Ooma creates powerful connected experiences for businesses and consumers, delivered from its smart cloud-based SaaS platform. For businesses of all sizes, Ooma provides advanced voice and collaboration features that are flexible and scalable. For consumers, Ooma provides PureVoice HD voice quality, advanced functionality and integration with their mobile devices. Ooma’s groundbreaking smart security solution delivers a full range of wireless security sensors and an intelligent video camera that make it easy for anyone to protect their home or business. Learn more at www.ooma.com.
+
+Summary:
+
+We are looking for an experienced software professional that thrives on writing and delivering elegant software for OSS (Operational Support Systems) and Billing systems. The ideal candidate has experience in the fields of CRM, OSS, Billing, Inventory Management, Provisioning, IP Networking, and Databases in an IP/telephony/service provider company. The candidate will be a key member of the OSS team at Ooma helping to implement business processes, systems, and automation for key areas of business and customer growth. The ideal candidate will have design and hands-on experience working with big-data micro-services and complex integrations of multiple enterprise systems.
+
+Job Responsibilities:
+
+· Full development lifecycle involvement including requirements review, design, coding, implementation, testing optimization, and maintenance support for Ooma’s Operational Support System
+
+· Integration of Ooma‐developed and 3rd party software
+
+· Work with on‐shore and off‐shore engineers
+
+· Proto-type systems/solutions/architectures and newer technical software concepts
+
+· Write design documents and translate to work break downs
+
+Required Experience & Qualifications:
+
+· BS in Computer Science, Computer Engineering or Equivalent
+
+· Solid understanding of object‐oriented design methodology and Design Patterns
+
+· 7+ Years In Java Coding & Development, experience in one or more of: Scala, Ruby, ReactJS, NodeJS
+
+· Knowledge of open source development tools and platforms, including Ant, Maven, JUnit, Gradle, NetBeans, Tomcat and Jetty
+
+· Experience with J2EE and application servers a must in addition to one or more of the following areas; Web-Service, RESTful APIs/Service, Enterprise Messaging Systems, Big Data, Big Data Pipelines, Python, Analytic Processing
+
+· Hands on experience on MySQL or a relational Databases. NoSQL: MongoDB, Cassandra
+
+· Keen interest in writing stable, scalable code
+
+· Excellent verbal, written and interpersonal skills
+
+· High level of self‐motivation, willingness to make a difference
+
+To apply, please submit your resume electronically to careers@ooma.com.
+
+Ooma™ is proud to be an Equal Employment Opportunity employer.

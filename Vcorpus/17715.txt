@@ -1,0 +1,39 @@
+Neustar is an information services and technology company and a leader in identity resolution providing the data and technology that enables trusted connections between companies and people at the moments that matter most. More information is available at https://www.home.neustar.
+Job Requisition:
+R-3138 Data Ops Engineer (Open)
+Primary Location:
+LOS ANGELES
+Job Description:
+Data Ops Engineer
+Who are we?
+As a company built on the foundation of Privacy by Design, for more than 20 years Neustar’s unique capabilities have made us the leader in the field of responsible identity resolution. Neustar enables trusted connections between companies and people at the moments that matter most, with world-class and industry leading solutions in Marketing, Risk, Communications, Security and Registry services.
+What is a Data Engineer?
+A Data Ops Engineer will play a key role in end to end data on boarding and in creating a data pipeline for the end application. This role will work closely with technical product managers, solution architects and other internal stakeholders to address issues in data pipeline and to make sure data is ingested accurately and on time. This individual will enjoy the challenge of working on implementing solutions for on boarding large volumes of data feeding into the front end application.
+What you will be doing:
+In depth analysis of source data to provide insights for data mapping & business rules setup.
+Develop, code & implement the data pipeline
+Assist and shadow rest of the team members and accomplish the tasks in a timely manner.
+Work in a high paced and rewarding environment with bleeding edge technologies and innovative concepts
+What we would love to see:
+Bachelor’s Degree in Computer Sciences or equivalent, with 3 - 5 years related IT experience.
+Adept at data pre-processing & complex data transformations using Hive programming.
+Experience in working with HiveQL and performance tuning of Hive queries.
+Extensive experience on distributed systems frameworks like Hadoop including hands on experience on HDFS, MapReduce etc.
+Proficient in working with large scale multi-node clusters with technologies like HDFS/ Hive etc.
+Excellent SQL skills and in-depth understanding of relational databases.
+Adept at working on UNIX environments and exposure to shell scripting.
+Knowledge of database design principles like OLAP, OLTP and ETL.
+Excellent understanding of Oracle and MySql relation databases.
+Experience in Python and Java will be an advantage.
+Familiarity with big data platforms like Qubole/AWS will be an advantage.
+Experience in working with cloud based services like AWS.
+Work with an innovative bend of mind to develop creative solutions for data on boarding
+Why work for us
+At Neustar, we are committed to the growth and development of our employees whose individual skills, curiosity and passion for their work, contribute to the overall success of our business. Our core values (Accountability, Collaboration, Transparency, Resilience, and Respect) are the driving force of our culture across our locations around the globe. We offer our employees a comprehensive benefits package including perks such as tuition reimbursement, awesome company discounts, back-up day care, community service events, pet and baby swag and much more! We are all learning and creating together, and having some major fun along the way.
+JOIN US! We can’t wait to meet you!
+Neustar does not accept unsolicited resumes from external firms or agencies. Neustar will not be responsible for placement fees associated with unsolicited resumes.
+DIVERSITY
+Diversity, inclusion and teamwork are second nature to Neustar; and these values permeate our entire business structure. Neustar is committed to creating an environment where a wide spectrum of opinions and beliefs are actively sought, listened to and respected. Further, our talented workforce draws from the many geographic areas and markets in which Neustar operates worldwide, which represents a distinct competitive advantage. The rich and varied personal and professional backgrounds of our employees make Neustar a dynamic and rewarding company at which to build a career. We invite you to join us.
+
+EOE of Minorities/Females/Vets/Disability
+Neustar, Inc. considers all applicants for employment without regard to race, color, religion, sex, national origin, age, disability, sexual orientation, or status as a Vietnam-era or special disabled veteran in accordance with federal law and other state and local requirements. Neustar, Inc., complies with applicable state and local laws prohibiting discrimination in employment and provides reasonable accommodation to qualified individuals with disabilities in accordance with the American with Disabilities Act (ADA) and applicable state and local laws.

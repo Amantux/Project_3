@@ -1,0 +1,45 @@
+Quil, the joint venture between Independence Health Group (Independence) and Comcast, is the digital health platform that offers personalized and interactive health journeys to consumers and their caregivers. Quil is committed to educating and engaging consumers, leading to better health experiences and better outcomes, at a lower cost. Quil serves patients, members, and their caregivers and partners with healthcare providers and health plans nationally. We are headquartered in Philadelphia, PA with an additional office in New York City.
+
+Visit our website to learn more: https://quilhealth.com.
+
+We are seeking an experienced Data Engineer to lead and grow our team of analytics experts. As Data Engineer you will be responsible for expanding and optimizing our data and data pipelines, and ensuring that anything interesting is available to our data scientists and business analysts.
+
+This position is open to both local and remote candidates who are comfortable working in the us-east time zone.
+
+You have the skills to be successful in this role if you have:
+
+5+ years of software development and engineering,
+
+3+ years experience as data engineer
+
+Define and implement best practices for data management and governance
+
+Experience working with Looker, Tableau, or some other BI tool
+
+Experience working with data stores
+
+Experience working with Python and Scala
+
+You love to collaborate and are comfortable leading a team
+
+You are comfortable working across the organization to assemble and refine requirements
+
+You love getting your hands dirty and working through tough problems
+
+You are comfortable working with a product team to tease out requirements
+
+You have excellent communications and problem solving skills
+
+It is a plus if you have:
+
+Experience with Apache Spark and AWS Glue
+
+Experience working with AWS and relevant components including IAM, S3, etc
+
+Experience with Snowflake
+
+Experience with GCP data products including Firebase and BigQuery
+
+Experience working with Terraform
+
+Experience specifically with Looker for building reports

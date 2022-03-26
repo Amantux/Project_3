@@ -1,0 +1,41 @@
+About Pivot Bio
+
+-
+
+Fueled by an innovative drive and a deep understanding of the soil microbiome, Pivot Bio is pioneering game-changing advances in agriculture. Our first commercial product harnesses the power of naturally-occurring microbes to provide nutrients to crops. We are dedicated to providing new sustainable ways for farmers to improve yield as they work to help feed the world's growing population.
+
+The Field Technology team measures and models the performance of Pivot's microbial product. We aim to use this proprietary data to increase the value of our product by supporting the success of our customers. The Senior Data Scientist will analyze large, complex data sets to create and optimize predictive models using machine learning and other statistical tools. They will own the prototype and early development of data products that can complement our microbial nitrogen fertilizer.
+
+Location: Berkeley, CA
+
+Responsibilities:
+
+Own the development of predictive analytics that validate and increase the value of our core microbial product.
+
+Help develop Pivot's technical partnership strategy for creating value from data.
+
+Work with Pivot's data engineering team to translate statistical models from R&D to production.
+
+Help quantify and communicate the impact Pivot's future microbial product candidates to both business and technical internal customers.
+
+Required Skills and Experience:
+
+Ph.D. in a quantitative discipline plus 5 years experience or M.S. and equivalent practical experience, particularly in computer vision, remote sensing, biological, health or agricultural data.
+
+Experience using Python and developing statistical models in a shared on-cloud database.
+
+Understanding of how to structure and analyze problems with machine learning, from both a conceptual standpoint, as well as having practical knowledge of libraries such as sklearn, PyTorch, and TensorFlow.
+
+Must be authorized to work in the U.S.
+
+What we offer:
+
+Competitive package in an early-stage, disruptive startup
+
+Health/Dental/Vision
+
+401(k) plan
+
+Flexible vacation policy
+
+Exciting opportunity to work with a talented and fun team

@@ -1,0 +1,22 @@
+GRAIL is a healthcare company whose mission is to detect cancer early, when it can be cured. GRAIL is focused on alleviating the global burden of cancer by developing pioneering technology to detect and identify multiple deadly cancer types early. The company is using the power of next-generation sequencing, population-scale clinical studies, and state-of-the-art computer science and data science to enhance the scientific understanding of cancer biology, and to develop its multi-cancer early detection blood test. GRAIL is located in Menlo Park, California. It is supported by leading global investors and pharmaceutical, technology, and healthcare companies. For more information, please visit www.grail.com
+
+In this role, you will lead analyzing some of the largest, richest biological datasets in the world to find biological signals and patterns and guide our assays, bioinformatic pipelines, and product strategies. Working closely with scientists, clinicians, and engineers, you will develop machine learning and statistical methods to pull signals out of ultra-deep sequencing data and identify cancer at its earliest stages. You will develop and experiment with machine learning models operating across GRAIL’s data sets, public data, and data from collaborators in academia and industry. Your analysis will result in exciting discoveries in cancer biology, impactful publications, and products for early detection of cancer.
+You Will:
+Develop GRAIL’s deep bench of knowledge in bioinformatics, machine learning, statistics, and data science.
+Modeling and analysis of large, complex genomics datasets using advanced machine learning and statistical methods to generate predictions and biological insights.
+Create and perform end-to-end analysis that include design, data gathering, processing, analysis, iteration with stakeholders, and presentation of results.
+Interact cross-functionally with other teams including software, clinical, operations, research, and product development.
+Promulgate approaches and build tools that preserve scientific rigor and quality and which maintain GRAIL’s statistical culture.
+Maintain an active external scientific presence.
+
+Your Background Will Include:
+
+M.Sc. or Ph.D in Computer Science, Bioinformatics, Statistics, Computational Biology, Genomics, Physics, or equivalent preparation and experience.
+3 to 7 years (depending on level) relevant experience in positions of increasing responsibility.
+Deep understanding of machine learning and statistics.
+Ability to apply machine learning and statistical tools for analysis of genomics datasets and to uncover new biological insights from large genomics datasets.
+Proven track record of strong contributions demonstrated by highly cited publications, impactful tools, products, data sets used by the scientific community, presentations at international conferences, or awards.
+Strong knowledge in at least one major programming language (e.g. Python, Go, C++, R, Java) and proficiency in Linux environment, version control tools, and reproducible research practices.
+Technical leadership and self-direction, willingness to both teach others and learn new techniques.
+Effective written and verbal communication skills.
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

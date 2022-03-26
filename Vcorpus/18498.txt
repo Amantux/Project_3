@@ -1,0 +1,47 @@
+SIG is seeking a systems engineer to develop and productionize tools for
+scaling up and out the processing of petabytes of data on a cluster with
+thousands of cores. You will be part of a team that is building a cutting edge
+proprietary software library for Python and Numpy that allows for highly
+parallelized data analysis, advanced statistics, and machine learning on
+extremely large datasets. This is an essential component to SIG s strategy
+development and signal discovery.
+
+You ll join a highly visible team that works with traders and quantitative
+research strategists to provide key information used in trading. This is a
+great opportunity to work in a non-siloed, collaborative meritocracy on
+challenging problems with other scientists and engineers who have an impressive
+record both academically and in the workplace.
+
+Who We Are:
+SIG is one of the world s leading proprietary trading firms. Continually
+growing since inception, our engineers are a vital part of our success. They
+enjoy a mix of development, research, model training, and simulation/back
+testing. We encourage novel ideas and solutions to problems. Our environment
+fosters the open exchange of ideas and innovative thinking that top engineers
+covet.
+
+Required Qualifications:
+MS or PHD in the Applied Sciences or related discipline or its foreign
+equivalent plus experience in numerical analysis and programming
+5+ years of professional experience in C++ and Python
+Experience writing Python and/or Numpy C extensions is a plus,
+particularly so if using libraries such as pybind11 or boost::python.
+Deep experience with NumPy and SciPy scientific computing packages
+required
+Enthusiasm for working with data, especially large sets of data. Strong
+aesthetics for cleanliness and correctness in data
+Exerience with developing database engines a plus
+Want to contact the team directly?
+
+Chris Gomes
+
+We don t post salary ranges externally so any salary estimate you see liste
+here was not provided by SIG and may not be accurate. We think it s importa
+to take your skills and experience into account when determining compensation.
+
+SIG is not accepting unsolicited resumes from search firms. All resumes
+submitted by search firms to any employee at SIG via-email, the Internet or
+directly without a valid written search agreement will be deemed the sole
+property of SIG, and no fee will be paid in the event the candidate is hired by
+SIG.
+Show moreShow less

@@ -1,0 +1,47 @@
+Your Opportunity
+
+
+Cross Enterprise Services Quality Engineering team is a centralized Center of Excellence Quality Engineering group which is a collaborative group of experts that helps in setting up automation design, framework, process governance and tools standardization to help deliver quality in fast paced Agile methodology in a Continuous Deployment DevOps model.
+
+The Cross Enterprise Services group provides trading business capabilities to Schwab’s retail and institutional businesses by developing innovative, unique-in-class investment products and are looking for a seasoned Sr. Test Automation expert who will excel in dynamic team, in a fast-paced and agile environment, specializing in testing, test frameworks, test infrastructure, automation code, test tools and data. A highly experienced software test automation leader with testing project management and extensive automation experience. Someone who is a strong technical leader and possesses a client-focused sensibility.
+
+What you’re good at
+Be a hands-on advocate and leader for Test Automation across CES QE, drive continuous integration and deployment strategies with a DevOps philosophy using Atlassin stack
+Set and communicate automation strategies and processes for web services, APIs, middleware, UI etc., evaluate and implement software test automation tools and tooling standards
+Build automation frameworks to increase reuse and reduce effort
+Increase automation cycle execution run times and decrease manual analysis of results
+Keep automation current, flexible and designed to work within a continuous integration / deployment framework
+Develop methods and procedures to create automation test data and data refresh capabilities
+Assist developers with Robust unit/component/ commit/ build and deploy/CI/CD test automation as needed
+Recommend meaningful and automated dynamic reports and metrics that measure the success of automation efficiency and quality, and provide action items for continuous improvements
+Interact with various levels of individual contributors and management to educate and influence
+Collaborate with Automation CoE experts to plan, design, mange, report and prioritize software test automation solutions along with Dev and QA engineers across BATT org
+Implement and lead Continuous Integration / Continuous Deployment strategies
+Maintain tools used in the Automation development including source control, test management and release systems
+Influence, develop and execute QA process and testing best practices
+Be a leader in enabling teams to use TDD/BDD/ATDD using Gherkin/Ruby/Cucumber
+Be a quality leader in defining quality metrics for BPMT Pega systems such as Pega Unit, Gurad Rails etc.,
+What you have
+Bachelor of Science in Computer Science or a related field
+6+ years of hands on application programming and/or test automation / framework experience in an Agile development environment
+Team player with excellent communication skills (oral and written) to partner technically with Application Architects, Development, QA/Testing organizations and Business teams
+Experience in developing or influencing the development of automated framework(s) for enterprise level functional and regression testing is preferable
+Working knowledge of Agile, Iterative development process and/or Rational Unified Process development methodologies is essential
+Experience with one or more programming language C#,JAVA, Java Script.
+Experience in BDD,TDD or ATDD design techniques.
+Exposure To performance Engineering.
+Exposure to different Test data management techniques and tools.
+Passion for building solutions through automation, driven by innovation and commitment to lifelong learning
+Strong programming, debugging/troubleshooting and problem-solving skills
+Demonstrated ability to work well under pressure in a fast-paced environment
+Experience in API test automation using Parasoft SOATest;
+Experience in UI automation using Sauselabs, Selenium or any other open source automation tools
+Database testing using Relational databases like Oracle; Tools used are TOAD and SQL Server; white box testing using PL-SQL
+Experience in non-relational databases like Aerospike.
+Experience with REST API service testing using tools, SOAPUI; Advanced REST Client
+Experience with CI /CD tools like Jenkins, Bamboo, Zephyr, Bit Bucket, Shell Scripting/Powershell, Splunk;
+Experience with Agile Methodologies, Collaboration Tools (JIRA, Confluence, Hip Chat )
+Hands-on experience with server and configuration management
+Ability to think outside the box and come up with creative solutions when tools don’t work
+Ability to effectively persuade, negotiate and influence all levels of staff; excellent collaboration and relationship-building skills
+Motivation and passion to stay on top of new and emerging test and automation technologies and able to provide direction to test teams

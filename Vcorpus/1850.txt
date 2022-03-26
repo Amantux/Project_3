@@ -1,0 +1,49 @@
+CompuForce is seeking an experienced and highly motivated data scientist to join our clients growing data science team. This individual will support enterprise initiatives on segmentation, personalization, and forecasting through in-depth, statistical & quantitative analyses of consumer data, and integration of high-quality prediction systems into our brands & products. Discover the information hidden in vast amounts of data, and help us make smarter decisions to deliver even better products. Your primary focus will be in applying data mining techniques, doing statistical analysis, and building high quality prediction systems integrated with our products.
+
+Responsibilities:
+
+Conduct statistical analysis of our audience web, demographic and transactional data in support of strategic initiatives. Project work covers all phases conceptualization, planning, data acquisition, modeling, documentation, and presentation of findings/recommendations.
+
+Design tests, benchmark and track performance of predictive models over time.
+
+Improve business results, by applying machine learning to ongoing business activities, and develop recommendations to guide future activities.
+
+Work with partners in Data Engineering, Marketing, Product and Programmatic teams, to operationalize integration of analytic models into production environment(s).
+
+Stay current on relevant academic and industry developments to identify best-in-class algorithms, techniques, libraries, etc.
+
+Partner with other team members to evolve existing capabilities.
+
+Perform ad hoc analytic tasks and reporting as needed.
+
+Select features, building and optimizing classifiers using machine learning techniques
+
+Mine data using state-of-the-art methods
+
+Extend companys data with third party sources of information when needed
+
+Enhance data collection procedures to include information that is relevant for building analytic systems
+
+Process, cleanse, and verify the integrity of data used for analysis
+
+Create automated anomaly detection systems and constant tracking of its performance
+
+Skills:
+
+Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Forests, etc.
+
+Exceptional quantitative analytics/applied statistics skills, including regression, clustering and classification, forecasting and machine learning, and other techniques appropriate for large scale data analysis.
+
+Experience with common data science toolkits, such as R, Weka, NumPy, MatLab, etc. Excellence in at least one of these is highly desirable
+
+Exceptional programming skills in a modern-stack Linux environment. This includes knowledge of approaches to automate workflows and data pipelines.
+
+Experience with big data technologies: Hadoop, AWS/EMR, Spark, Hive.
+
+Two or more years of business/marketing analytics experience, preferably in a media organization.
+
+Exceptional communication skills, particularly in communicating and visualizing quantitative findings in a compelling and actionable manner for management.
+
+Strong set of professional skills: attention to detail; analytic, logical and creative problem solving; critical thinking; ability to work independently and within a cross-functional team.
+
+Advanced degree with an emphasis in a quantitative discipline such as statistics, engineering or mathematics. PhD preferred.

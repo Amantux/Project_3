@@ -1,0 +1,41 @@
+Data Engineer - Intern | Santa Clara, CA, United States
+About us:
+CLARA analytics ("CLARA") drives change in the commercial insurance markets with easy to use artificial
+intelligence (AI) based solutions that dramatically reduce claims costs by anticipating the needs of
+claimants and helping align the best resources to meet those needs. Leading examples of our solutions
+include CLARA providers, an award-winning provider scoring engine that helps rapidly connect injured
+workers with top performing doctors, and CLARA claims, an early warning system that helps frontline
+claims teams efficiently manage claims, reduce escalations and understand the drivers of complexity.
+CLARA’s customers include a broad spectrum from the top 25 insurance carriers to small, self-insured
+organizations.
+This is a chance to get to work with a rapidly growing Silicon Valley company, and to participate in
+developing the next generation of truly game-changing products in the Insurance Industry.
+Job Description
+We are looking for a Big Data Engineering intern who is passionate about data with a craving to make
+sense out of structured and unstructured data. Data engineer will work with a senior member of the
+team on the collecting, storing, processing, and analyzing huge sets of data. The primary focus will be on
+working with the CLARA data team to design technologies that wrangle, standardize and enhance our
+master data repositories, then maintaining, implementing, and monitoring. You will also be responsible
+for integration with the architecture used across the company.
+Unique skills expected for this job is the ability to translate Python code into clean, high-quality Scala
+and Java libraries that can be re-used within our platform. Ability to create orchestration workflows that
+ingest structured and unstructured data, enhances them and makes them available for use throughout
+the platform.
+Requirements:
+ The ideal candidate will be focused on a mix of data engineering, software engineering and data
+science knowledge
+ Currently pursuing a MS or BS in Computer Science or a related field or equivalent experience
+ Proficiency with Python or Scala or Java
+ Knowledge/ development experience of popular Big Data and Machine Learning frameworks
+like: Spark, Hadoop, Hive, Zeppelin
+ Experience working with relational databases, query authoring (SQL) as well as familiarity with a
+variety of databases
+ Familiarity with OO design and implementation
+ Excellent analytical and problem-solving skills
+ Work in a dynamic, fast-paced, creative, collaborative and data driven environment
+Nice to have skills:
+ Experience in implementing ETL process
+ Experience with Scala build systems: maven, ant, sbt
+ Familiarity with AWS lambda, Athena & s3
+
+ Flexible to work with multiple programming languages

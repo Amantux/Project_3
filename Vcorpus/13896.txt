@@ -1,0 +1,44 @@
+About Hungryroot
+
+Hungryroot is an online grocery service that delivers modern, healthy food with recipe and meal planning support. Hungryroot's mission is to help people feel their best by making it easier to shop for, cook, and love healthy food. In addition to offering a curated selection of modern brands, Hungryroot develops its own in-house line of innovative healthy products—like Black Bean Brownie Batter—and is challenging the traditional CPG model by building a customer-driven innovation platform to push outdated American grocery offerings into the 21st century.
+
+About the opportunity
+
+We're hiring a Data Scientist, Personalization to advance the ways that Hungryroot delivers personalized groceries and recipes to customers every week.
+
+Today Hungryroot sends hundreds of thousands of groceries each week to customers across the country, each with their own flavor preferences, dietary restrictions, and food occasion needs. Our algorithm takes in all of these signals and balances them against our inventory of delicious, perishable food products and customers' love for variety in what they eat.
+
+We learn about each customer's taste via explicit signals like their preference for how often they receive an individual item and their star ratings of recipes, as well as implicit signals like their retention and weekly spend. There are big opportunities for advancing the algorithm, including identifying other predictive implicit signals via regressions, collecting new explicit signals from customers, leveraging collaborative filtering, and more.
+
+This role will own personalization end-to-end. We'll look to you to recommend ways of optimizing our algorithm against a goal of customer satisfaction and retention. You'll be responsible for prioritizing research and analyses into what opportunities exist, working with Engineering to test hypotheses, and collaborating with Product, UX Research, and Design when we want to learn from or surface things to our customers.
+
+You'll be joining a team that reports to the VP Product and includes a Product Manager, a Product Designer, a UX Researcher, and a Business Analyst. We all fit within Hungryroot's overall crew of 40 motivated, smart and kind teammates.
+
+Responsibilities include, but are not limited to:
+Conduct action-oriented research using statistics and data science methods
+Collaborate with Engineering to define, deploy, and report on AB experiments that drive customer retention via personalization
+Partner with UX Research to understand user thinking and behavior
+Partner with Product and Design to come up with and launch customer-centric ways of collecting new actionable signals
+Bring an understanding of best practices in recommendation systems, to both the backend and user-facing frontend
+Report on the performance of your work and our personalization algorithm
+Requirements:
+2+ years in data science, product management, research, or related role
+Data science toolkit including regressions, predictive modeling, R/Python
+SQL querying skills
+Experience working with engineers and/or designers
+Ability to explain complex concepts clearly
+Highly detail-oriented and organized
+A love of learning and the ability to keep up with a frequently changing environment
+Bonus points for:
+Startup experience
+D2C and/or subscription business experience
+A passion for food
+Looker/LookML experience
+Additional Information:
+Based in our Manhattan office just south of Madison Square Park
+Reports to our VP Product
+Competitive compensation + subsidized health benefits
+Unlimited vacation policy
+Monthly Hungryroot credit
+Universal paid parental leave
+A working environment filled with passionate, happy, smart people

@@ -1,0 +1,58 @@
+Lead Data Scientist  Machine Learning - Cloud Data  
+ Preferred Qualifications  
+ Lead Data Scientist  ML - Cloud Data Security  
+The Database Security Group is chartered to provide a comprehensive portfolio of security solutions to ensure data privacy, protect against insider threats, and enable regulatory compliance for both Oracle and non-Oracle databases. Oracle is the leader and pioneer in database security. Our group continues to innovate and extend the lead on our competitors. Security is essential for businesses and consumers in the information age. 
+Our team within the Database Security Group is responsible for the  Oracle Audit Vault and Database Firewall  at http://www.oracle.com/us/products/database/security/audit-vault-database-firewall/overview/index.html  product and Audit Cloud Service. Oracle Audit Vault and Database Firewall consolidates and collates audit data and monitors Oracle and non-Oracle database traffic to detect and block threats. It also provides comprehensive reporting capabilities by consolidating audit data from databases, operating systems, directories, and other sources. 
+Oracle Audit Vault and Database Firewall (AVDF) is growing rapidly and we want to expand into new areas such as Cloud and Machine learning based Anomaly detection. To help focus in these areas, we are looking for a Consulting Member of Technical Staff to join our team. 
+ Responsibilities:   
+
+ProvideTechnical leadership, hands-on development for building ML based Anomalydetection/Data Analytics service  
+
+Work closelywith Product Management, QA and other cross functional teams in all phases ofproduct development  
+
+Champion theMachine Learning use cases and its application to solve the real world problemsacross the group  
+
+Mentor,guide and provide design and code reviews for other engineers   
+ Requirements:   
+
+Bachelors or Masters degree in Computer Science or related fields is required  
+
+8-10   years of experience developing Enterprise software/cloud products  
+
+5  years Data Science experience.  
+
+5  years experience building machine learning based Anomaly detection/Analytics service  
+
+Strong development experience with Java is required  
+
+Hands-on Cloud product development experience is desirable  
+
+Experience with statistical languages and packages, such as R, SAS, Matlab is a plus   
+ Detailed Description and Job Requirements  
+Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc. 
+As a member of the software engineering division, you will take an active role in the definition and evolution of standard practices and procedures. Define specifications for significant new projects and specify, design and develop software according to those specifications. You will perform professional software development tasks associated with the developing, designing and debugging of software applications or operating systems. 
+Provide leadership and expertise in the development of new products/services/processes, frequently operating at the leading edge of technology. Recommends and justifies major changes to existing products/services/processes. BS or MS degree or equivalent experience relevant to functional area. 8 more years of software engineering or related experience. 
+ Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law.  
+ Job:   Product Development 
+ Location:   US-CA,California-Redwood City 
+ Job Type:   Regular Employee Hire 
+ Organization:   Oracle 
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Redwood City, CA 94061 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         2365_42e95d460b20546d3a7e64df309b14cc

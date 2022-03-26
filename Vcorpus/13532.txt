@@ -1,0 +1,15 @@
+Data Scientist
+
+Location : Birmingham, AL
+
+Type of Employment : Full time direct hire
+
+Salary: DOE
+
+Skills & Competencies
+Experience using statistical computer languages R, Python, PySpark, etc. to manipulate data and draw insights from huge data sets in a BigData Ecosystem like CDH
+Experience in Data Science tools like Cloudera Data Science Work Bench or similar data science tool
+Knowledge & Experience of a variety of machine learning techniques clustering, decision tree learning, artificial neural networks, etc. and their real world advantages/drawbacks
+Knowledge & Experience in implementing machine learning frameworks like SparkML etc
+Knowledge of advanced statistical techniques and concepts regression, properties of distributions, statistical tests and proper usage, etc. and experience with applications
+Experience with distributed data/computing tools: Map/Reduce, Cloudera/Hadoop, Hive, Spark, Impala, Python 3.x, PySpark etc.

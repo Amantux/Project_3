@@ -1,0 +1,48 @@
+Job Description
+
+
+Overview
+
+Are you looking to join a global technology department for an industry leading financial advisory firm? Fisher Investments is looking for driven technologists to support our growing business. If you are seeking the opportunity to make an impact as we develop scalable and strategic solutions to support our global growth, we want to hear from you!
+
+The Opportunity:
+
+Fisher Investments is seeking a Big Data Developer to execute on Cloud Big Data initiatives. As a member of the IT department, you will support the implementation of Cloudera on Azure and provide ongoing support for Cloudera big data applications and new developments to meet the firm’s evolving needs. You will have hands-on participation in the full SDLC process and convert business requirements into working software that adheres to our architectural standards for multiple business processes.
+
+The Day-to-Day:
+Take part in development projects on Cloudera Data Platform (CDP) platform
+Support existing Cloudera applications, monitor performance and tune clusters (e.g. Hive, ETL jobs, Sqoop, NiFi, Spark and etc)
+Partner with business stakeholders and technology partners to translate business requirements into efficient and robust technology solutions
+Adhere to existing policies and procedures including SDLC, architecture standard, information security and compliances
+Learn new tools and expand big data functionalities by implementing additional Hadoop and Spark ecosystem components to meet evolving business needs
+Develop training materials and provide training to internal IT and business users
+Evaluate new releases and features of Cloudera platform, provide recommendation on upgrade and impact analysis
+Provide after-hour system and application support as needed
+Qualifications:
+Bachelor’s degree or equivalent in MIS, Computer Science, Engineering or related discipline
+3+ years of experience as a Cloudera/Hadoop/Spark Developer
+Cloudera or Hortonworks Developer Certification (CCP Data Engineer, CCA Spark and Hadoop Developer or Hortonworks Certified Developer)
+Knowledge of Linux and Windows servers, bash shell scripting
+Knowledge of relational database structures, theories and practices
+Demonstrated experience in data modelling, design and implementation of adding new datasets into the cluster
+Experience with:
+Cloudera Data Platform (CDP), Sqoop, Nifi, Hive, HiveQL, Impala, Ranger, Spark and Spark SQLCloud development using Microsoft Azure
+One or more languages: Java, Scala or Python
+CI/CD, Kafka, tokenization, or Machine Learning is a plus
+Why Fisher Investments:
+
+Fisher Investments is a different kind of investment firm. We don’t come from Wall Street, nor do we believe we fit in with most of the finance industry, and we’re proud of that. We work for a bigger purpose: bettering the investment universe. From unmatched service to innovative perspectives on investing, it’s the people that make the Fisher purpose possible. After all, it’s our people that enable us to offer the level of service that we do. And we invest in them accordingly, offering exceptional benefits like:
+100% coverage of premiums for health, vision and dental insurance
+A 50% 401(k) match, up to the IRS maximum
+20 days of PTO*, plus 9 paid holidays
+8 week paid Primary Caregiver Parental Leave
+And much, much more
+We also provide a cumulative, continuous learning and development framework customized for every employee. This emphasis on personal and professional growth has yielded an award-winning work environment; we’re Great Place to Work Certified, and The Oregonian named us as a Top Workplace.
+
+But in the end, it’s not the perks that keep people here. They stay because they believe in our mission of service—our employees want to make a difference in an industry that can do better.
+
+* California employees accrue up to 17 days of PTO and 3 days of sick time per year.
+
+FISHER INVESTMENTS IS AN EQUAL OPPORTUNITY EMPLOYER
+
+#DI

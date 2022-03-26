@@ -1,0 +1,39 @@
+Read what people are saying about working here. 
+
+Summary
+
+Posted: Feb 18, 2019
+
+Role Number: 200023956
+
+Would you like to play a part in the next revolution in human-computer interaction? Contribute to a product that is redefining mobile and desktop computing, and work with the people who built the intelligent assistant that helps millions of people get things done — just by asking?
+The vision for the Siri Analytics, Evaluation, and Data Engineering organization is to improve Siri by using data as the voice of our customers. Within this organization the mission of the Analytics team is to inform the evolution of Siri through measurement and analysis of the user experience. As an Embedded Data Scientist on the team, you will be an ambassador of analytics to product and engineering teams with the ultimate purpose of improving the Siri experience for Apple customers.
+
+Key Qualifications
+
+You think about data in terms of statistical distributions and have a big enough analytics toolbox to know how to find patterns in data, identify targets for performance, and identify sources of variance about those targets.
+
+You use good judgment balancing art and science when visually communicating information (e.g. Tableau, Superset, ggplot, D3).
+
+You have engineered information out of massive and complex datasets (e.g. Hive, Spark, Druid, Solr, Oozie).
+
+You have proven experience with at least one programming language (e.g. Python, R, Scala) and are comfortable developing code in a team environment (e.g. git, notebooks, testing).
+
+You are self-motivated and curious with demonstrated creative and critical thinking capabilities and an innate drive to improve how things work.
+
+You have a high tolerance for ambiguity. You find a way through. You anticipate. You connect and synthesize.
+
+You have excellent verbal and written communications skills and experience in influencing decisions with information.
+
+Your academic background is in a quantitative field such as Computer Science, Statistics, Engineering, Economics or Physics. Advanced degree preferred.
+
+Description
+
+You will partner closely with Siri engineering teams to develop ways of characterizing the user experience in how Siri executes on requests and connecting those characterizations into Siri's development.
+Define metrics that we will measure our efforts against as well as defining the instrumentation required for yielding sufficient data.
+Communicate with and advocate to a wide audience of engineers, managers and executives to inform decisions on how Siri evolves.
+Build analytic, visualization, and other information products with a drive to automate and scale the insights available to science and engineering teams.
+Perform exploratory data analyses to enrich our mental models about Siri usage and identify new questions to pursue.
+Extract information from structured and unstructured data coming from Siri's computational architecture.
+
+ This is where you can do the best work of your life. Where you’ll join some of the world’s smartest, most innovative people to create ama...

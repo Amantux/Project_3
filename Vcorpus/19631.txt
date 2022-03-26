@@ -1,0 +1,39 @@
+Job Category: Engineering
+
+Work Location: Irving, TX, US.
+Position Summary:
+
+Pixentia is looking for a dynamic, energetic and organized Software Engineer.
+
+Ideal candidate is responsible to work with the project team ensuring availability of all relevant
+data from the client’s internal systems and third-party sources; both structured and
+unstructured data produced from the many emerging media: social, mobile, IoT, or others.
+
+Duties/Responsibilities:
+
+
+7+ years of data management and data processing for BI / Analytics solutions.
+Creating technical design and architecture for enterprise data-warehouses.
+Extracting data from outside sources
+Transforming it to fit operational and analytics needs
+Loading it into the database
+Managing policies, rules, or standards that govern which data is collected; and how it is
+stored, arranged, integrated, and put to use in data systems.
+Protecting the database from destructive forces and the unwanted actions of
+unauthorized user.
+Managing who in the organization has access to which data sources and information.
+
+Skills/Requirements:
+
+
+Knowledge of R, Python, SQL, SPSS, Weka, NoSQL
+Dimensional modelling and Data warehousing, Snow flake schema, star schema, data
+normalization, performance tuning.
+Advanced knowledge of technologies and tools like Informatica, ODI, Oracle, Teradata,
+Apache Hadoop, HDFS.
+Working knowledge of machine learning, time series forecasting, data mining
+algorithms.
+Advanced knowledge of algorithms/data structures and statistical techniques for
+Regressions, CART, neural networks, KNN, random forest, generalized boosted models,
+support vector machines, Bagging, gradient boosting, ARIMA, clustering.
+Master’s Degree from an accredited college or university in related field.

@@ -1,0 +1,62 @@
+Title: Senior Network Engineer
+
+Department: Engineering
+
+Type: Full Time
+
+Location: Exton, PA 19341
+
+Job Summary
+
+White Label Communications is seeking a strong Senior Network Engineer to join our Engineering team in Exton Pennsylvania. Are you a success-driven, team-oriented individual committed to providing world-class service for its customers? Do you have the ability to thrive in a fast-paced environment? We are looking for candidates with that entrepreneurial spark! Familiarity with SIP and VoIP is a HUGE plus.
+
+Our Senior Network Engineer is responsible for the design implementation and operation of the White Label Communications multi-data center production environments ensuring that the network infrastructure is operating within the design specifications.
+
+Participation in our product and engineering discussions and design reviews. This engineer will produce design recommendations for upgrades and drive future network functionality and architectures. Additional tasks are to collect operational and trend statistics and to analyze performance results.This position is expected to provide advanced technical support for issues that are escalated from the development and support teams and is the top escalation point for all critical network related issues; training and knowledge transfers to other network team members are also expected.
+
+Responsibilities and Duties
+Management of White Labels 4 active production data center environments.
+Capacity and performance planning, running software upgrades after hours on production platforms, data center build-outs, and change management.
+Execute routine changes, provisioning services, and deployments.
+Fault isolation, service recovery, and incident analysis.
+General systems administration and maintenance of Linux systems in a 24/7 data center environment.
+Development of automation programs and scripting (such as bash, Python, Perl, Ruby, PHP, etc)
+Develop standards, procedures and other documentation.
+Provide level three technical support to the development and customer support teams.
+Design complex and efficiently operable networks to support real-time protocols.
+Continuously identify and leverage new technologies or methodologies.
+Vendor engagement and relationship management.
+Participate in 24x7 on-call rotations.
+Provide direction and training for other network engineers.
+Qualifications and Skills
+5+ years experience hands-on network engineering/design and operation of large, high-availability, global enterprise networks
+Hands-on design, operation, and support of large, high-availability, multi-data center enterprise networks.
+Expert level Linux experience in any of CentOS, Redhat, Ubuntu.
+Troubleshooting complex networks and applications.
+IPv4 knowledge required, IPv6 knowledge preferred
+TCP/IP fundamentals (packet level analysis)
+Network protocols including TCP, UDP, HTTP, FTP, DNS, SIP, RTP
+Network infrastructure including LAN, WAN, routing, switching, load-balancing, monitoring
+Network applications including VoIP, encryption, SSL offloading, content delivery
+Network security including firewalls, proxies, ACL, IPSec, VPN, SSL/TLS, PKI
+Experience with Cisco routers, switches, and firewalls. (Juniper and F5 nice to have)
+Education and Personal
+BS degree or 5+ years working experience
+Expert level industry certification (e.g., Cisco, Linux, etc) preferred
+Creative problem solving and design
+Function well in a team as well as individually
+Excellent written and oral communications skills
+Strong organizational practice
+Benefits
+
+About Us
+
+White Label Communications is a nationwide provider of wholesale cloud communications services. We provide a competitive salary and benefits package which offers Medical and Dental Insurance, an Option Plan, Paid Time Off, and Paid Holidays. Check us out at http://www.whitelabelcomm.com
+
+Job Type: Full-time
+
+Experience:
+Network Engineer: 5 years (Required)
+linux administration: 5 years (Required)
+Work authorization:
+United States (Required)

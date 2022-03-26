@@ -1,0 +1,65 @@
+Job Description
+
+Bosch is at the forefront of innovation in the connected world and is impacting millions of lives every day through its products in mobility, industrial technology, consumer goods and energy and smart building sectors. We rely on data for every aspect of our product lifecycle and operations and we collect a lot of it every day.
+
+Our team is responsible for enabling a wide variety of Bosch engineering teams to make use of advancements in AI through centralized services that involve streaming data from connected services to building and deploying state-of-art AI solutions.
+
+We are looking for a talented engineer who is passionate about building fault-tolerant data services and analytics tools targeted towards vision applications. Your work will be used by hundreds of Bosch engineers and will have global impact by improving the quality and value of Bosch products.
+
+Primary Responsibilities:
+
+Execute complex machine learning and deep learning projects that have a significant impact on Bosch global business.
+
+Share knowledge by clearly articulating results and ideas to customers, managers, and key decision makers.
+
+Collaborate with product, engineering, and marketing teams across many Bosch business domains (automotive, industrial, internet of things) to translate business needs into technical solutions
+
+Collaborate with other data scientist and data engineers to design, prioritize and implement new features for our AI platform to solve real customer problems
+
+Write clear, maintainable and tested code
+
+Stay current with the latest research and technology and communicate your knowledge throughout the enterprise
+
+Take responsibility for preparing data for analysis, review data preparation/ETL code and provide critical feedback on issues of data integrity
+
+Contribute to Bosch's patent portfolio
+
+Up to 10% travel may be required.
+
+Qualifications
+
+Basic Qualifications:
+
+Masters Degree in Computer science, electrical and computer engineering and 2+ years of professional experience
+
+2+ years experience with Python (Scikit-learn, Pandas, Numpy)
+
+2+ yrs experience designing and implementing deep NN architectures (both convolutional and recurrent) using open-source deep learning frameworks, e.g. TensorFlow, PyTorch
+
+Preferred Qualifications:
+
+Ph.D in Computer science, electrical and computer engineering with focus on deep learning and feature discovery
+
+In depth knowledge and working experience on the various aspects of training and deployment of deep networks
+
+Strong understanding of machine learning algorithms & principles
+
+Experience building deep NN models for image classification, object detection and semantic segmentation
+
+Familiarity with CPU/GPU architectures and numeric libraries
+
+Hands-on experience in distributed training of deep architectures: multi-GPU, multi-node, synchronous and asynchronous
+
+Experience with computer vision libraries like OpenCV
+
+Publications in top conferences such as NIPS, CVPR, ICLR, ICML
+
+Additional Information
+
+BOSCH is a proud supporter of STEM (Science, Technology, Engineering & Mathematics) Initiatives
+
+FIRST Robotics (For Inspiration and Recognition of Science and Technology)
+
+AWIM (A World In Motion)
+
+By choice, we are committed to a diverse workforce – EOE/Protected Veteran/Disabled.

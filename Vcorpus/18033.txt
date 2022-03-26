@@ -1,0 +1,55 @@
+What we do
+
+Civis Analytics helps leading businesses, nonprofits, and government use data to identify, attract, and engage customers, constituents, and citizens. With a blend of proprietary data, technology and advisory services, and an interdisciplinary team of data scientists, developers, and survey science experts, Civis helps organizations stop guessing and start using statistical proof to guide decisions. Learn more about Civis at www.civisanalytics.com.
+
+What we are looking for
+
+
+Senior Applied Data Engineers are experts in creating elegant, maintainable, and extensible data pipelines and database architectures. They partner with Civis's Applied Data Science consultants -- the Applied Data Engineers make the data clean and available, and the Applied Data Scientists analyze and present the data to clients.
+
+As a Senior Applied Data Engineer, you will be the go-to person for questions about how to handle new datasets. You will help scope and plan what we need to accomplish when starting data work with a new client. You will build maintainable and extensible ETL solutions for diverse data sources. You will advise Applied Data Scientists, mentor junior Applied Data Engineers, and be directly responsible for building some of Civis's most complex client-oriented data pipelines.
+
+Civis Analytics values autonomy, and you will be trusted and expected to use your expertise to solve both technical and non-technical problems to create data solutions for Civis's clients.
+
+**This is a temporary, full-time, salaried position with benefits slated to end Dec. 31, 2020. There is a possibility of extension if the business requires it.**
+
+Due to the uncertainty of COVID-19, all Civis offices are closed and all employees are remote for the foreseeable future. This is being closely monitored as things change and it’s likely our offices will reopen. Because of this uncertainty, we want to ensure candidates are open to relocating to one of our offices in the future, but other locations may be negotiable.
+
+Responsibilities
+Ingest data using connectors built by our Engineering team and build new data connectors as required
+Collaborate with clients and client-facing teams to define user requirements and database design specifications for our clients’ needs
+Transform data based on business requirements
+Apply data validation and/or software testing techniques to ensure data processes and pipelines are working properly
+Create pipelines that deliver data error-free and on-time with features such as logging, fault tolerance, notifications, and scalability
+Document and train others on data pipelines
+Serve as a technical resource in resolving issues related to data pipelines
+Work closely with client-facing teams
+Mentor junior members of the Applied Data Engineering team
+Project manage data pipeline construction and maintenance work
+Minimum Requirements
+Bachelor’s degree in an analytical subject (statistics, math, economics, physics, engineering, business, political or social science, computer science, etc)
+5+ years of experience with database and ETL pipeline design
+Experience leading data and/or software projects
+Proficiency in Python and SQL
+Ability to work as part of a cross-functional team to solve problems and build solutions
+Strong communication and teamwork skills
+Eagerness to constantly learn and teach others
+Preferred Qualifications
+Experience working on data pipelines in support of data analytics or data science applications
+Significant experience with Python and SQL
+Experience with software development practices including unit testing, version control, code review, and Agile development
+Experience with technical project management
+Mentorship and training experience
+Familiarity with data and database technologies such as Redshift, Spark, S3, postgres, HDFS, etc., and with issues related to distributed systems.
+Why join our team?
+The opportunity to be part of a growing tech startup focused on solving interesting and meaningful problems, invested in internal promotion, and committed to fostering a diverse, equal and inclusive workplace.
+Competitive benefits, including unlimited PTO, 401K match with immediate vesting, health, dental, and vision benefits, paid parental leave, breastfeeding support including breastmilk shipping services for traveling moms, flexible work from home policy, commuter benefits, wellness initiatives including weekly group meditations, monthly on-site massage therapy, and pet insurance.
+Civis Analytics embraces the individuality of our employees and we celebrate each other's differences. Our products, services, and culture benefit from and thrive on the unique perspectives brought by each person in our community. We're proud to be an equal opportunity workplace, and we are committed to equal employment opportunity regardless of race, age, sex, color, ancestry, religion, national origin, sexual orientation, gender identity, citizenship, marital status, disability, or Veteran status. If you have a disability or special need that requires accommodation, please contact internalrecruiting@civisanalytics.com
+
+In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States.
+
+EEO IS THE LAW
+
+EEO Supplement
+
+Pay Transparency

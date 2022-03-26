@@ -1,0 +1,30 @@
+Amazon Advertising exists at the intersection of marketing and e-commerce and offers advertisers a rich array of innovative advertising solutions across Amazon owned properties as well as third party properties Amazon operates. We believe that advertising, when done well, can greatly enhance the value of the customer experience and generate a positive return on investment for our advertising partners.
+
+Amazon Sponsored Display advertising team is seeking a Data Engineer to play a key role in building a large-scale, high-volume, high-performance data solutions. The Amazon Display product is continually evolving and will require constant adaptation to the change. If you love solving challenging problems and like to move fast in a growing and changing environment, this role is right fit for you.
+
+
+Key Responsibilities Include:
+· Design, develop, and maintain data pipelines to enable faster business analysis and reporting.
+· Manage automated unit and integration test suites to ensure data correctness and consistency.
+· Maintain source code repository of scripts (SQL, Python/R) and other products (dashboards, reports, etc.).
+· Partner with our product managers and finance teams to publish datasets for measuring key performance indicators
+· Understand and document business processes and design a path to incorporate new initiatives into existing solutions (or build new ones where required)
+
+Basic Qualifications
+
+· 3+ years of experience as a Data Engineer or in a similar role
+· Experience with data modeling, data warehousing, and building ETL pipelines
+· Experience in SQL
+· Bachelors degree or higher in an analytical area such as Computer Science, Physics, Mathematics, Statistics, Engineering or similar.
+· Proficiency in one or more of the following languages - Python, Java, R or similar.
+· A real passion for technology. We are looking for someone who is keen to demonstrate their existing skills while trying new approaches.
+· Ability to communicate effectively and work independently with little supervision to deliver on time quality products
+
+Preferred Qualifications
+
+· Graduate degree in Computer Science, Engineering or related technical field.
+· Understanding of Big Data technologies and solutions (Spark, EMR, Hive, S3, Redshift, etc.)
+· Understanding of Amazon Web Services (AWS) technologies
+· Demonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.

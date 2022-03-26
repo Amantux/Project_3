@@ -1,0 +1,33 @@
+General Responsibilities
+
+Data Scientist:
+
+The Fleet Operations team at Hertz is a highly analytical and data driven function. The team is responsible for midterm and short term planning, distribution/logistics of fleet, as well as fleet operations functions including getting cars inservice, registered, deleting, etc the for North America Rent-A-Car business. Vehicle depreciation is the biggest cost for Hertz (about 1.8 billion dollars annually). It is impacted by many macro/micro economic factors; in addition, getting the right cars to the right place at the right time is key to our revenue success. We are constantly looking to improve our fleet forecasting and related processes that overlap other functions including RM and Operations.
+
+As a Data Scientist, you would build predictive modelling for various projects. You will enhance and support Hertz’s modeling and assist on technical and process solutions to Fleet Operations business problems. to incorporate impact of options, volume, incentives and other factors.
+
+Enhance optimization of midterm planning
+
+Create modeling and data analytics around logistics and short term planning.
+
+Mandatory Requirements
+
+Educational Background:
+
+Masters with 3+ years of experience as data scientist
+
+Skills:
+
+Working experience with a statistical programming language (like SAS, R, Octave, Python etc.)
+
+Experience with machine learning (regression, classification, neural networks). Preferably also have experience with constrained mathematical optimization models (Linear Programming, CPLEX).
+
+Preferably also have experience with SQL databases
+
+ #LI-CG1
+
+EEO Statement
+
+Hertz is a Drug-Free Workplace. All employment is contingent on successful completion of drug and background screening.
+
+Hertz is an equal opportunity affirmative action employer and administers all personnel practices without regard to race, color, religion, sex, age, national origin, sexual orientation, gender identity or expression, marital status or domestic partnership status, disability, protected veteran status or military status, genetic information, or any other category protected under applicable law. Hertz is committed to taking affirmative steps to promote the employment and advancement of minorities, women, persons with disabilities and protected veterans.

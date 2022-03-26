@@ -1,0 +1,41 @@
+Summary
+
+Posted: Aug 26, 2019
+
+Weekly Hours: 40
+
+Role Number: 200093152
+
+We are seeking an enthusiastic teammate to join our small, inclusive, and dynamic team who will collaborates with a broad array of partners within Apple to distill data into actionable and intuitive visualizations that drive informed decisions. We work to understand challenging problems that arise during all stages of product design at Apple. The job requires fluency using statistics and visualizations to answer specific questions about datasets, proficient programming skills in R, Python, and/or MATLAB, and most importantly, a passion for creating informative visualizations and presentations to communicate results to all levels of the company. You are a person who approaches problem solving with curiosity and imagination, with a desire to learn new skills and a mindset that challenging questions are opportunities for insight. We are committed to professional development across all aspects of data visualization with mentorship and training opportunities both within and outside Apple. This includes, but is not limited to, providing team members opportunities to improve their skills in: graphic design, coding, visual arts, statistics, communication, and presentation. The DataViz team enables data-driven decision making by developing and performing analysis, modeling, and visualization of unstructured data for engineering and research design teams. Our unique position within the organization allows us to assist other teams on a wide range of products designed at Apple. Our work impacts products used by millions of people worldwide.
+
+Key Qualifications
+
+Fluency using statistics and visualizations to answer questions about data sets.
+
+Effective communication skills. Specifically, explaining complex issues to a variety of audiences, considering the big picture when communicating, and can summarize technical details succinctly.
+
+Strong programming skills in R, Python, and/or MATLAB. You have experience using these tools to import, clean, analyze, and visualize data to enable data-driven decision making.
+
+Experience working with multivariate and/or “large” datasets using conventional statistical techniques. Our datasets are typically not large enough to employ machine learning techniques.
+
+Strong interest in peer collaboration with a willingness to solicit input and accept feedback.
+
+An appreciation of functional design or interested in developing your design aesthetic.
+
+Experience or interest in analyzing and visualizing 3D data sets or enthusiastic about delving deeper into 3D data analysis and visualization. Our datasets include human anthropometric and biometric data, acoustic data, and inertial motion unit data (accelerometers, gyroscopes, altimeters).
+
+Familiar with SQL and database design or curious to learn more.
+
+Familiar with Github and software development workflows or eager to adopt these software collaboration practices.
+
+Ability to juggle multiple projects.
+
+Excited to learn to communicate important information in an easily understandable manner.
+
+Description
+
+As a member of this team-oriented, group, you will be an integral partner, working on the latest, most innovative Apple products together with many cross-functional teams. Your responsibilities will include some of the following activities: •Gathering large quantities of unstructured data from many different sources. •Conducting data exploration, QA/QC, visualization, statistical and data analyses, and modeling. •Creating custom algorithms for large datasets to enable visualizations that help decision makers quickly understand the data. •Defining data capture formats to enable useful and efficient analysis. •Collaborating with teams to automate processes, conduct systems analysis, and build visualization workflows by building and deploying software tools. •Creating systems for real-time or near real-time data analysis to improve precision machine performance in factories •Sharing results and concepts across the company through presentations and other communication channels •This small but growing team strongly inspires collaboration but also offers freedom and autonomy. Creative and outside-the-box thinking is required, and original ideas are supported by the team.
+
+Education & Experience
+
+Masters degree in an analytical field such as Human Computer Interaction, Climate or Environmental Science, Applied Math, Economics, Social Sciences, Engineering, Physics, Biological Sciences, Statistics, or Robotics along with 2+ years relevant work experience. Ph.D. degree preferred.

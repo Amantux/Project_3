@@ -1,0 +1,51 @@
+Sema4 is a next-generation health information company, spun out of the Mount Sinai Health System, that provides advanced genomic testing and merges big data analytics with clinical diagnostics. Our team creates practical tools that help patients, clinicians, and researchers better diagnose, treat, and prevent disease. We are striving to construct a more comprehensive picture of health by integrating three key elements: a wealth of clinical experience that informs the answers that patients and providers are seeking, the world-class academic research that illuminates new directions, and the pioneering information science that puts all the pieces together.
+
+Sema4 is searching for a talented Data Scientist to join our Disease Discovery team in Stamford, CT. The candidate will work in a multi-disciplinary team in Sema4 and contribute significantly to our efforts to systematically study complex human diseases through the integration of genomic, genetic, epigenetic, proteomic, literature and clinical phenotypic data into network models or other machine learning models. The goal of this research is to identify and model mechanisms underlying human diseases using computational models such machine learning, deep learning, or other artificial intelligence techniques. Such models will be used to guide drug target discovery and prioritization, to develop combination therapies, to reposition existing drugs, to match individual patients to the best therapies, and more.
+
+Responsibilities
+
+Development of novel computational models for integrating diverse types of data into molecular network models for diseases.
+
+Develop novel platforms and pipelines to identify novel therapeutic targets, and to discover biomarkers for drug response, patient stratification.
+
+Development of novel statistic models for comparing diverse datasets or network models.
+
+Analyze preclinical and clinical genomic data including whole genome, whole exome, RNA-Seq (single cell and bulk), and epigenetic data.
+
+Expertise in statistical methodologies such as predictive modeling and inference, machine learning methods, mixed effects models, multivariate analysis, etc.
+
+Expertise in integration of genetic, genomic and proteomics data analysis, metabalomic and microbiome including raw data processing and modeling of processed/normalized data, and familiarity with state of the art pipelines.
+
+Computational models for predicting disease risk or drug responses which integrate EHR and genetic data.
+
+Development of computational models for rational drug combination design
+
+Advanced hands-on knowledge of R and/or Python.
+
+Execute RWD analysis using EMR data, registry data and publicly available data sources.
+
+Integrative analysis of structured and unstructured EMR data to develop predictive models for treatment response and clinical outcome.
+
+Requirements:
+
+Ph.D in quantitative sciences – Computer Science, Electronic Engineering, Physics, Mathematics, Statistics, Computational Biology or Bioinformatics
+
+2+ years in analyzing large scale genetic and genomic data
+
+2+ years in Computational Analysis of EMR data
+
+4+ years in R, Python and Perl
+
+4+ years SQLStrong track record in methods developmentExperience in machine learning preferred
+
+A track record of leading clinical/translational research projects using rigorous statistical and computational approaches
+
+Outstanding programming skills in R, Python, and/or perl, extensive experience in SQL
+
+Strong knowledge of Unix shell scripting
+
+Prior experience in analyzing genomic and genetic data preferred
+
+Broad knowledge of cancer biology, immunology, cancer drug discovery preferred
+
+Strong ability to collaborate with teams of research scientists, bioinformaticians, software developers, and external collaborators

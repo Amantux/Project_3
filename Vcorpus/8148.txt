@@ -1,0 +1,51 @@
+With the advent of genomic sequencing, we can finally measure and process our genetic makeup. We now have more data than ever before, but providers often don't have the infrastructure or expertise required to easily extract the valuable insights that exist within this data. Here at Tempus we believe the greatest promise for the detection and treatment of cancer & other diseases lies in building a deep understanding of the interaction between molecular attributes and clinical treatment.
+
+We're on a mission to redefine how genomic data is used in a clinical setting. We are looking for data scientists who are passionate about applying state of the art techniques to the processing and analysis of vast amounts of clinical, molecular, and imaging data.
+
+What You'll Do
+
+Collaborate with product, science, engineering, and business development teams to build the most advanced data platform in precision medicine
+
+Design and prototype novel data visualization and analysis tools and algorithms
+
+Wrangle and analyze large diverse sparse datasets, extract insights, and drive further research opportunities
+
+Interrogate analytical results for robustness, validity, and out of sample stability
+
+Document, summarize, and present your findings to a group of peers and stakeholders
+
+Qualifications
+
+Degree in computer science, software engineering, statistics, machine learning, bioinformatics or related technical field
+
+2+ years full time employment experience building and validating predictive models on structured or unstructured data
+
+Proficient in Python, and SQL
+
+Experience with the following: Pandas, NumPy, SciPy, Scikit-learn, Jupyter Notebooks
+
+Experience with supervised and unsupervised machine learning algorithms, and ensemble methods, such as: K-Means, PCA, Regression, Neural Networks, Decision Trees, Gradient Boosting
+
+Experience working in a Linux / Mac environment
+
+Outstanding programming and problem solving skills
+
+Self-driven and work well in an interdisciplinary team with minimal direction
+
+A strong desire to understand why things work the way they do
+
+Thrive in a fast-paced environment and willing to shift priorities seamlessly
+
+Experience with communicating insights and presenting concepts to diverse audiences
+
+Nice to Haves
+
+Kaggle.com competitions and/or kernels track record
+
+Experience working with clinical and/or genomic data
+
+Experience with AWS architecture
+
+Experience with: Git, matplotlib, seaborn, HTML5, CSS3, JavaScript, D3, Plot.ly, Flask, Dask
+
+Experience in agile environments and comfort with quick iterations

@@ -1,0 +1,58 @@
+Position overview:
+
+Teaching Strategies is the industry-leading provider of Whole Child curriculum and assessment solutions, serving Head Start, Public School District, and Private Childcare programs across the United States and abroad. As the Chief Data Scientist, you will build a team to lead the creation of the next generation of data-driven assessment, curriculum and family engagement software for the classroom, childcare environment and home. You will leverage machine learning and other strategies to create, implement and continuously improve the models that drive the effectiveness of teachers, caregivers, and families in support of improved child outcomes. Serving as a member of the senior leadership team, you will work closely with the Teaching Strategies Team to design data-enabled interventions for every stakeholder, while ensuring our research roadmap supports efficacy measurement across all socio-economic subgroups and learning environments.
+
+Your team will define and analyze data sets that enable the company to answer important product questions easily and effectively. You and your team will work with curriculumspecialists, product managers, operations specialists and data engineers to produce data sets and mine themfor insights. Your team will be directly responsible formining data, cleaning it, creatingreproduciblevisualizations,insightsand inferences, and communicating themeffectively.The ideal candidate is motivated, organized, and passionate about demonstrating the impact of technology can have on teacher effectiveness and educational outcomes.
+
+Qualifications:
+Data Scientist preferably with expertise in Psychology/Education
+Ph.D. or Master's Degree in education measurement, quantitative psychology, applied statistics, or related areas
+5-10 years of experience in a data or learning science role
+Experience in a statistical programming language(Pythonor R) for data cleaning, munging, analysis, and visualization
+Deep knowledge of the standard basket of machine learning algorithms (linear regression, logistic regression, random forests, regularization techniques, cross-validation) and proficiency with using machine learning algorithms in either Python or R
+Experimental design knowledge and statistical modeling (such as regression, multilevel modeling, longitudinal analysis, survival analysis, etc.)
+Experience writing SQL queries and data transforms against large-scale column-oriented databases (Vertica, Redshift, Snowflake)
+Strong desire to explain what you've learned from the data to the rest of the company using visualization frameworks including ggplot and (occasionally) Tableau dashboards
+At least three years independent research experience
+At least one year research leadership experience
+Excellent oral and written communication skills
+Experience using ML in education or edtech
+A willingness to roll up your sleeves and do what it takes
+A desire to fundamentally improve outcomes for the next generation of children and families
+Preferred Skills and Qualifications:
+Familiarity with adaptive educational technology and psychometric algorithms such as IRT (you will be creating and tuning algorithms for adaptive applications)
+Experience participating in the development of commercial software products
+Experience with standard metrics in gaming or in education
+Experience in custom ETL design, implementation, and maintenance
+Experience with data quality frameworks and data validation and verification
+Proficiency with H2O andggplotand other common R libraries; has created new R libraries before
+Experience buildingreusabledashboards and tools
+Experience writing SQL queries and data transforms against large-scale column-oriented databases (Vertica, Redshift, Snowflake, etcetera)
+In-depth knowledge of how to write and optimize SQL statement
+About us
+
+Teaching Strategies is a high growth, market leading business in early childhood education. The Company provides the most innovative and effective curriculum, assessment, professional development, and family connection resources to programs serving children from birth through 3rd grade. With ground-breaking print and SaaS solutions and a strong belief that the most powerful way to impact child outcomes is to improve teacher effectiveness, Teaching Strategies has been supporting the critical work of early childhood educators for over 30 years.
+
+Located in downtown Bethesda, MD, our company's headquarters are within steps from Bethesda Row and the Bethesda Metro stop. Candidates who fit with our values, vision, and mission will find a work environment that fosters creativity, innovation and career growth. We are building a team of results-oriented individuals who will thrive in a collaborative, work-hard/play-hard culture. We pride ourselves on the impact we have on the early childhood field through supporting teachers who are doing the most important work there is, teaching children to become creative, confident thinkers.
+
+What's in it for you
+
+Teaching Strategies offers our employees a robust suite of benefits and other perks which include:
+Beautifully designed, open office space
+Endless cereal and coffee
+Free on-site gym
+Casual dress environment
+Company sponsored events
+Professional development and growth opportunities
+Tuition assistance
+Competitive compensation package
+Medical, dental, and vision coverage for spouses, domestic partners, and children
+Pre-tax medical and dependent care flexible spending accounts (FSA)
+Health savings accounts with employer contributions
+401(k) plan with employer match
+Company sponsored life, short and long term disability insurance
+Voluntary life and critical illness insurance
+Commuter benefits
+Paid parental leave programs
+Generous paid time off (which includes Winter Break)
+Teaching Strategies, LLC is committed to creating a diverse workplace and is proud to be an equal opportunity employer of Minorities, all Genders, Protected Veterans and Individuals with Disabilities.

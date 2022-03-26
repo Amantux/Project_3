@@ -1,0 +1,46 @@
+You will join a successful and growing group engaged in
+multi-asset automated stat arb trading. We build
+a complex suite of research, data, and trading systems.
+You'll plan and execute updates to our infrastructure and tools.
+You'll take ownership of our Python development environment,
+build tools, automated testing, and deployment setup. You'll also
+lead
+migration of our research workflows and data to a public cloud.
+You'll evaluate and implement new tools
+and technologies to take our production trading setup to the next
+level. You'll improve our research
+platform, developer experience, test environment, and config
+management.
+This is a front office role. You will work directly within an
+extremely experienced team of about twenty
+quants, engineers, and portfolio managers. We are all technical
+and hands-on builders. We'll expect you to
+learn about trading and technology from us, and to teach us how
+to manage and improve complex
+software systems. Each of us wears many hats, and so will you.
+This is an ideal role for an experienced developer interested in
+quant finance, for a financial developer
+looking for systems and infrastructure responsibilities, or a
+strong operational engineer looking to
+transition to software and infrastructure engineering.
+Qualifications
+We'll expect you to arrive with these skillsand then level-up
+all of them.
+Python development skills, not just scripting.
+Familiarity with Python tools and data science ecosystem.
+Experience with test and CI tools (any).
+Solid understanding of git and git workflows.
+Basic familiarity with Linux, storage, and networking.
+If you are not experienced with Python but have demonstrated
+development skills in other languages, we
+are open to discussion.
+The following further qualifications would help you succeed,
+though we expect a talented individual will
+be able to acquire them as needed.
+Experience on AWS and/or GCP.
+Experience with Ansible, Puppet, Chef, or other config
+management systems.
+Knowledge of testing best practice.
+Software and infrastructure security skills.
+Experience with relational and/or NoSQL databases.
+Familiarity with Docker or another container technolog

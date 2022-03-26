@@ -1,0 +1,91 @@
+Warner Bros. Entertainment Inc. seeks a Sr Full Stack Data Engineer for the
+Digital Product, Platform & Strategy: Content Mgmt & Distribution department.
+The Software Engineer will be a member of the Media Supply Chain (MSC) team
+within the WarnerMedia Technology (WMTO) organization, the position will be
+responsible for hands on development as well as managing application launches
+and software maintenance from inception to launch. The Software Engineer must
+understand business functions and requirements and translate those to working
+applications that allow Media Supply Chain technology to continue innovating in
+support of business need.
+
+The Media Supply Chain Who We Are
+Media Supply Chain is tasked to architect, engineer, and program manage a wide
+range of applications, workflows and services for our internal partners who
+operationally manage and distribute WarnerMedia content globally. Our
+applications and technology solutions are responsible for scheduling, image &
+asset metadata management, as well as, content processing and delivery as well
+as content mastering, localization and preservation. We are the team pioneering
+new ways to process and deliver WarnerMedia content to its global customers
+
+The Media Supply Chain Mission
+Our mission is to provide and sustain practical, innovative, agile software and
+technology solutions which are highly reliable, automated, measurable,
+optimized, modern systems capable of distributing high-quality content and
+metadata to our domestic and global platforms & partners.
+
+The Daily
+Develop and provide support for core functionality and components for
+applications and service in support of various content platforms by
+starting with business needs and objectives, creating functional and
+technical specifications and executing against a plan to launch and
+maintain applications.
+Review project objectives and determine best technology for
+implementation. Implement best practice standards for development, build
+and deployment automation while mentoring and leading a team of
+engineers.
+Review emerging technologies and evaluate potential uses for WarnerMedia
+(WM) Technology and other divisions. Develop prototype projects using new
+technologies.
+Evaluate software products and vendors for WM Technology and other
+divisions. Recommend action, develop and lead implementation of selected
+products/services.
+Work with internal and external developers to ensure WB Technology code
+standards and best practices are performed for development of
+applications.
+
+The Essentials
+B.S. in Computer Science or equivalent experience.
+AWS Developer Certification preferred.
+6+ years software development experience.
+4+ years experience with Java, including significant demonstrable
+experience with Java 8.
+2+ years experience in Node.js, Python or equivalent scripting lanague.
+Bash experience preferred.
+Demonstrated expertise and experience in ELK stack (elasticsearch,
+logstash, kibana)
+Demonstrated experience implementing database technologies such as NoSQL,
+and Relational. Experience in graph databases a plus.
+Experience with a Javascript front end framework such as React.js or
+Polymer. Polymer experience preferred. Experience with a Java front-end
+framework such as Hibernate, Faces or Grails is a plus.
+3+ years experience in working with noSQL databases such as Mongo,
+Couchbase, Dynamo, Cassandra or equivalent. Experience in graph databases
+such as Neptune or Neo4j preferred but not required.
+Proficient in API design and development, specifically REST APIs.
+Experience with Swagger 2.0 and AWS API gateway is highly preferred.
+Experience with source code and knowledge repositories such as git, jira,
+or equivalent systems.
+Experience developing in AWS at scale leveraging core services such as
+Lambda, RDS, and ec2.
+Experience with Build and Deployment tools such as Jenkins, Chef, Puppet,
+or equivalent.
+Demonstrated expertise and experience in deploying containerized
+applications using Docker, Kubernetes or equivalent.
+Demonstrated expertise and experience in automating development pipelines
+using Cloudformation or Teraform.
+Proficient in a Linux environment.
+Solid understanding of core DevOps and SDLC in an agile environment.
+Overall knowledge of the entertainment industry business preferred.
+Overall knowledge of WarnerMedia. businesses, business processes,
+technologies and applications that support it is preferred.
+Ability to work with outside vendors and clients under sometimes adverse
+circumstances and under time critical constraints.
+Must be able communicate effectively and tactfully with all levels of
+personnel (in person, written, telephone).
+Must be able to pay close attention to detail.
+Must be able to handle multiple tasks in a fast paced environment.
+Must be able to organize and schedule work effectively.
+Must be able to work flexible hours, including overtime, if and when
+necessary.
+Must be able to respond to after-hours pager notifications to provide
+support for applications as necessary.

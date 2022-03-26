@@ -1,0 +1,29 @@
+Data Engineer
+
+Our goal at Elkay is to inspire everyday – customers, employees…and the employees of tomorrow. We focus on doing the right thing so we can be in business forever. Our values-driven culture emphasizes investing in people and treating them like part of the family. We’re financially-stable and privately-owned with a solid reputation for ethics, integrity, giving back, and providing an engaging, inclusive environment where careers flourish and grow. Our people are proud to work for Elkay.
+
+And the feeling is mutual – because it’s Elkay’s people who really give us our edge. We empower our employees to take the lead in delivering Elkay’s exceptional customer experience. Our commitment to our people and their professional development is a recipe for success that has fueled our growth from a three-person shop in 1920 to one of today’s leading international suppliers of plumbing, water delivery and branded commercial interiors. If you’re ready for a new career challenge where everything you do will make a difference, talk to us about joining the Elkay family.
+
+The Data Engineer we hire will perform a variety of project and technical tasks supporting Elkay’s analytics infrastructure, including data integration and ETL, database architecture and design, data prep, and reporting. Contribute to all aspects of the project lifecycle, including requirements gathering, design, development, testing, and deployment. Become familiar with Elkay’s business model and the various business functions that utilize Elkay’s analytics infrastructure, including sales, marketing, supply chain, operations, pricing, finance, and customer care. Keep abreast of trends, architectures, and tools in the analytics landscape and evaluate them for incorporation into Elkay’s analytics landscape. Learn quickly and juggle multiple tasks for various customers. Communicate complex technical problems effectively to management and to the business. Collaborate with other technical team members on solutions. Effectively prioritize support tasks with project work.
+
+Specific duties include:
+Design, develop and maintain data models, database architectures, and associated database objects in Snowflake, Oracle, and other database solutions such as Azure.
+Design, develop, and maintain data integrations using Informatica Power Center, Informatica Integrated Cloud Services, and data prep tools.
+Participate in or drive project activities such as requirements gathering, design, develop, test, and deploy.
+Assist in the set-up of, and administer, on premise and cloud tools used in the Elkay analytics infrastructure.
+Create and maintain necessary technical documentation, including requirements, design, and test documents.
+Identify emerging trends, processes, and techniques impacting Elkay’s analytics infrastructure and make suggestions for incorporation of these into the analytics infrastructure.
+Must have's:
+A Master’s or Bachelor’s degree in Computer Science, MIS, engineering, or a related technical discipline is required.
+5+ years of experience in data engineering, data warehousing, business intelligence, ETL on databases such as Oracle or SQL Server, and/or big data is required.
+3+ years of experience in ETL/ data integration is required with 2+ years of experience in Informatica PowerCenter, job scheduling tools is required.
+Working experience in Python/R/Scala, Snowflake is required.
+Hands on experience in writing and understanding complex SQL (e.g. CTE’s others).
+Thorough understanding of relational database design and best practices, including dimensional (star, snowflake) models is required.
+A collaborative working style and ability to work well within the team and with business consumers is required.
+Ability to clearly communicate to technical and non-technical audience by written and verbal is required.
+Independent analytical, critical thinking, and problem-solving ability in complex technical environments is required.
+Nice to have's:
+Production experience in OBIEE, Oracle Analytics Cloud (OAC) and Tableau is nice to have.
+Familiarity with big data technologies such as Microsoft Azure Data or AWS is nice to have.
+EOE/M/F/D/V/SO

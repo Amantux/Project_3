@@ -1,0 +1,22 @@
+Forward Slope currently has one (1) full-time position for a Software Engineer to join our team. The position is located in San Diego, California.
+
+Forward Slope, Inc. is seeking an experienced and fast-learning full-stack software developer to provide software development and sustainment services for the Department of Defense (DoD) and the Naval Information Warfare Center (NIWC). This effort includes systems engineering, software development, and sustainment of command and control (C2) systems that allow users to access, manipulate, and display relevant mission data.
+
+Required Qualifications:
+3 to 6 years of demonstrated full-stack software development experience with:
+Object-oriented programming (i.e. Java 9+, C++ 11+)
+UI development with modern web technologies (i.e. Node.js, Angular, React)
+Linux and Windows administration
+RDBMS database design (i.e. SQL and JPA for PostgreSQL)
+Service Oriented Architecture (SOA) and web services (i.e. REST, AJAX, JSON, XML)
+Bachelor’s degree in computer science, engineering, mathematics, or physics
+Currently hold an active SECRET clearance or be able to obtain one
+Desired Qualifications:
+Software engineering experience with:
+DevOps engineering (i.e. Jenkins, Ansible, Chef, Puppet, Vagrant)
+Containerization (i.e. Docker, Kubernetes, OpenShift)
+Cloud computing infrastructure (i.e. AWS, Microsoft Azure)
+Geospatial Information System (GIS) (i.e. GeoServer, Esri ArcGIS)
+Atlassian Suite (i.e. JIRA, Confluence, Bitbucket)
+CompTIA Security+ Certification
+Forward Slope Inc., is an Equal Opportunity Employer: Minorities/Women/Veterans/Disable

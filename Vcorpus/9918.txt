@@ -1,0 +1,55 @@
+Role: Data Scientist
+
+Level: Junior/Mid-level
+
+Overview:
+
+The Investment Banking & Capital Markets (IBCM) Innovation Team is seeking a contractor data scientist as we build out our Hubble Insights Platform. We’re a group of product managers, software engineers and data scientists building a data platform that combines proprietary data, news data, SEC filings, and scraped people/company data from the web to build complex analytics, recommendations and search tools for IBCM bankers. We strive to help answer the hard problems that bankers encounter every day as they seek relationships and provide trusted advice to clients.
+
+We’re looking for a data scientist who is interested in helping unlock value from different types of unstructured data and building it into features in our insights product. Our stack so far includes Python requests and beautifulsoup for web scraping, scapy for NLP and entity extraction, Neo4j for our graph database, Node.js/Express/React.js for our web stack. We’re also trying to be the first team in the bank to build a production application on GCP (Google Cloud Platform).
+
+You’ll be a good fit if you:
+
+ Have worked with Python for lots of different types of problems, especially using the powerful analysis stack (numpy, pandas, scikit-learn)
+
+ Are comfortable in a Linux environment, using Git (or any version control) and are into automating everything
+
+ Have worked with large unstructured, messy datasets, especially raw text.
+
+ Have interest in learning and using Natural Language Processing (NLP) techniques and tools
+
+ Have used machine learning packages and libraries and understand fundamental techniques to building models
+
+ Are interested in working with a diverse stack of tools as different problems arise
+
+Nice To Have Skills:
+
+ Experience with public cloud services (AWS/GCP/Azure). Team is focused on GCP so that is a plus
+
+ Has worked with larger datasets with distributed computing tools (Apache Spark, Dask)
+
+ Experience with graph databases
+
+ Experience with a lower level language (Java, Scala, C++, etc)
+
+Qualifications
+
+Bachelors Degree
+
+Good in Communication
+
+Primary Location: US-NY-New York
+
+Work Locations: New York 115 W 30th ST STE 910 "New York, NY 10001-4000" New York 10007
+
+Job: Big Data & Analytics
+
+Organization: US_Interactive
+
+ Regular
+
+Shift: Standard
+
+Employee Status: Individual Contributor
+
+Job Level: Day Job

@@ -1,0 +1,41 @@
+Software Test Engineer - Data Analyst
+Verb Surgical - a Google and Johnson & Johnson joint venture!
+
+The mission of this role is to develop tools for analysis and testing R&D algorithms and prototypes, and identify the improvements to a surgical system. We are looking for a strong engineer who is passionate about surgery and robotics and preferably experienced in clinical procedures, surgeon needs and clinical environment. This position will support developing tools for data acquisition and performing post processing of data including system performance characterization and accuracy assessment across various technical projects at Applied Research Team at Verb.
+
+Professional Experience/Background to be successful in this role:
+Bachelors Degree in Computer Science, Data Science/Engineering or equivalent experience
+3-4 years hands-on experience in software product development. Prior research work is an added benefit
+Demonstrated programming skill in C++
+Learn, develop, and modify Python and Matlab scripts for data collection and analysis
+Familiar with Pythons Scikit-learn library
+Experience with software configuration management systems, such as Subversion and Git
+Working with Linux and Windows
+Key Accountabilities:
+Own development of test processes from component-level to overall system
+Design, and implement interfaces for data exchange with other systems
+Knowledge of clinical environment and procedures
+Knowledge of robotics and common sensors (encoders, load cells, optical trackers, etc.)
+Strong Math skills
+Strong level of ownership, accountability, and drive for exceeding expectations
+Bias towards action, great sense of accuracy, and perform well under pressure
+Designing clinically relevant cases/scenarios/ usage cases to characterize/improve system components, and executing these cases in both full and sub-system level
+Design of experiments for the optimal test strategy, time and effort
+Developing modular test scripts in Matlab and/or Python to automate test data collection from various sensors
+Familiar with querying data from cloud-hosted services
+Analysis of test data to create understanding of system performance and user behavior, and to extract key performance metrics and insights for design improvements.
+Debug new hardware and software issues that pop up in the lab and in the field.
+Preparation and documentation of test protocols and results
+Effective communication of results across multiple teams at Verb in a well-organized manner.
+Teamwork attitude, and ability to multitask and prioritize
+Excellent written and verbal communication skills
+Fast learner in high tempo environment
+Expected Outcomes:
+Clinically relevant test protocols that evaluate the sub-systems of the Verb platform as well as the entire system performance.
+Perform post processing of data to capture information from raw data and perform comparison against clinical requirements.
+Growing dataset driving the development of algorithms on user behavior, and prediction of user intent for improved safety.
+Who is Verb Surgical?
+
+Verb Surgical is shaping the future of surgery. A new future, a future unimagined even a few years ago, which will involve machine learning, robotic surgery, instrumentation, advanced visualization, and data analytics. A future of surgery that aims to achieve improved patient outcomes, lower costs, and greater hospital efficiency.
+
+Verb Surgical was founded with technology, expertise, and funding from Verily (formerly Google Life Sciences) and Ethicon, a medical device company in the Johnson & Johnson family of companies. This company will continue in strong partnership with Verily and Johnson & Johnson (Google and Johnson & Johnson Team for Robotic Surgery) to advance the surgical tools and capabilities available to surgeons and OR professionals today.

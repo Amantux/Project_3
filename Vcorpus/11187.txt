@@ -1,0 +1,73 @@
+Position Overview
+
+The Climate Corporation’s mission is to help the world’s farmers sustainably increase their productivity with digital tools. The Data and Analytics team is focused on creating competitive advantage for The Climate Corporation and our customers through novel data infrastructure, metrics, insights, and data services. We are a small but rapidly growing data science and engineering team that builds and leverages state-of-the-art analytics systems. Our work informs decisions and direction for our business, while also impacting our products. Data Scientists at The Climate Corporation build predictive and prescriptive models to deliver insights to farmers. In order to take advantage of increasing amounts of agricultural and environmental data, we are hiring new data scientists to drive the research and development of scalable machine learning models. In this role, your work will broadly influence the company's data and products.
+
+What You Will Do:
+
+Build and implement state-of-the-art machine learning and deep learning systems
+
+Help to define the infrastructure required to train models at scale
+
+Work with data engineers to build real time and offline features and maintain the datasets from which models are created
+
+Partner with scientists and product experts in the R&D organization to build scalable models that support our suite of decision support services
+
+Help to assess new technologies for data scientists at The Climate Corporation
+
+Basic Qualifications:
+
+B.Sc. in Statistics, Mathematics, Computer Science or other relevant technical field
+
+Either minimum two years of experience in applying statistical/machine learning solutions on a scalable platform to real-world applications, or M.A. or M.Sc. in machine learning, statistics, applied mathematics, or an equivalent technical field
+
+Fully proficient in Python (including PySpark)
+
+Experience with at least one Deep Learning framework, including Tensorflow and/or Torch/Pytorch
+
+Strong software engineering fundamentals
+
+Preferred Qualifications:
+
+Ph.D. in machine learning, statistics, applied mathematics or other relevant technical field
+
+Experience building distributed systems and/or scalable backend systems with the ability to maintain in production
+
+Proficiency in developing performant large-scale queries using SQL, Hive or Pig
+
+Experience with a cloud platform such as AWS
+
+Proficiency with SQL, R, Scala
+
+Experience working with Engineering and Product organizations using an Agile development process
+
+What We Offer:
+
+Our teams are composed of industry experts, top scientists, and talented engineers. The environment is extremely engaging and fast-paced, with dozens of specialties coming together to provide the best possible products and experiences for our customers.
+
+We provide competitive salaries and some of the best perks in the industry, including:
+
+Superb medical, dental, vision, life, disability benefits, and a 401k matching program
+
+A stocked kitchen with a large assortment of snacks & drinks to get you through the day
+
+Encouragement to get out of the office and into the field with agents and farmers to see first-hand how our products are being used
+
+We take part and offer various workshops, conferences, meet-up groups, tech-talks, and hackathons to encourage participation and growth in both community involvement and career development
+
+We also hinge our cultural DNA on these five values:
+
+Inspire one another
+
+Innovate in all we do
+
+Leave a mark on the world
+
+Find the possible in the impossible
+
+Be direct and transparent
+
+Learn more about our team and our mission:
+
+The Climate Corporation - The Technology Behind Making A Difference
+
+https://youtu.be/c5TgbpE9UBI or visit https://climate.com/careers

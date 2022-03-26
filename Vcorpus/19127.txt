@@ -1,0 +1,38 @@
+Job TITLE: Data Engineer
+
+Location: Santa Clara, CA
+
+Term: Contract
+
+Skill: Client is looking for a Data engineer who has passion and can drive for customer success. Your primary focus will be on improving customer business outcomes through optimization and automation of data operations and data engineering. Strong verbal and written communications as well as troubleshooting skills are critical for success in this role.
+
+• Contribute in data engineering efforts
+• Develop ETL and data integration processes
+• Ensure that critical customer operational issues are addressed quickly and effectively
+• Understand existing data environment, variations of implementation and develop effective triage mechanisms and tools
+• Coordinate and collaborate with development team to remain current on code and technology
+• Analyze individual issues in the context of overall platform to proactively identify larger problems
+• Differentiate between issues that arise in operations, user code, third party libraries or product
+• Plan and implement upgrades, changes for various implementations
+• Maintain and manage SLA
+• Work closely with off-shore team
+• Drive for success across teams and customers
+• Documentation of issues, resolutions and processes
+• Develop Splunk Queries, Splunk custom inputs
+
+Experience: • 5+ years of strong SQL and data pipeline development experience
+• 3+ years of data pipeline development experience using any programming language like Python, C++, Java, Ruby
+• 3+ years of experience developing backend platform services using RoR
+• 2+ years of experience working with AWS and various services
+• 1+ years of experience with Splunk
+• Desire and ability to learn new technologies
+• Strong written and verbal communications skills
+• Experience working with off-shore teams
+
+Education: • Prior data operations experience
+• Splunk administration experience
+• 1+ years development experience with map-reduce paradigm with hadoop-hive environment
+• Any type of contribution to open source community
+• Experience with any of the reporting tools
+• Experience working with Elastic Search, Redis or other noSQL data source.
+• Prior experience of Infrastructure Systems Engineer Jobs

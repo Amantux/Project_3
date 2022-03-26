@@ -1,0 +1,57 @@
+As a Data Scientist in our Decision Sciences R&D organization, you will be responsible for researching and building optimization, control theory, simulation, and machine learning applications to extend Conversant’s personalization platform. Conversant’s business is based on analyzing anonymized data at Internet scale and evaluating more than one trillion advertising opportunities per month in real-time. You will work on real-world problems as part of our highly collaborative R&D team, and your solutions will directly and rapidly impact our business. This includes analyzing raw source data and derived data; researching and developing models, algorithms, and applications; building tools and analyses for new and existing products; and presenting findings.
+
+RESPONSIBILITIES
+
+Develop an understanding of Conversant’s personalization platform and proprietary datasets.
+
+Use your optimization, control theory, simulation, or machine learning expertise to research and recommend the best approaches to solving our technology and business problems.
+
+Design, implement, and validate your solutions in Apache Spark and Apache Hive using Scala or Python on large state-of-the-art computing clusters.
+
+Work with our Engineering teams to integrate your solutions into Conversant’s platform.
+
+Participate fully in our collaborative approach to research and applications projects.
+
+REQUIREMENTS
+
+A Ph.D. in Computer Science, Operations Research, Electrical Engineering, Statistics, Mathematics, Physics, Economics, or a related scientific discipline.
+
+Research experience and coursework in Optimization, Control Theory, Machine Learning, or Simulation.
+
+Fluency in programming.
+
+Experience working with large data sets.
+
+Strong understanding of modeling and statistical techniques.
+
+Desire to work in a highly collaborative environment.
+
+ADDITIONAL USEFUL BUT NOT REQUIRED SKILLS
+
+Experience with distributed computing, such as Hadoop, Spark, or related technologies.
+
+Familiarity with Scala, Python, SQL, or Java.
+
+Experience modeling or analyzing consumer behavior, market dynamics, or auctions.
+
+#LI-AL
+
+#analytics
+
+Primary Location: USA - United States-3090 - Illinois-50082 - Chicago-L5-Chicago, IL - CNVR
+
+Work Locations: L5-Chicago, IL - CNVR Chicago 60606
+
+Job: Technology
+
+Organization: Epsilon
+
+Schedule: Regular
+
+Job Type: Full-time
+
+Job Posting: Jul 26, 2019, 1:32:47 PM
+
+Division: Conversant
+
+RI: AL

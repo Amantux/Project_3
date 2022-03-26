@@ -1,0 +1,36 @@
+Job Description
+• Solid knowledge of Data Warehousing fundamentals and Data Modeling
+
+• Must have Scripting/coding experience with SQL, Python or Java
+
+• Must have experience in securing PII data such as data masking
+
+• Must have experience working with Snowpipe and Snowflake API
+
+• Experience writing, troubleshooting, and debugging complex SQL queries on distributed systems/MPP (massively parallel processing) architecture
+
+• Strong knowledge of RDBMS, SQL data types, functions, stored procedures, security & encryption
+
+• Database migration and ETL/ELT experience
+
+• Experience working with data formats like CSV, XML, AVRO, JSON, PARQUET etc
+
+• Good understanding of Amazon AWS ecosystem
+
+• Experience working on a Scrum team or other Agile delivery methodology
+
+• Working knowledge of GitHub or GitLab
+
+Nice to Have:
+
+• ETL Pipeline development experience using any one of these tools such as Informatica, Matillion, Glue or similar tools
+
+• Familiarity with Spark, PySpark etc
+
+• Experience with workload automation tools such as Airflow, Autosys.
+
+• Knowledge of Big Data (HDFS, Hive), AWS (S3, IAM), and various data formats
+
+• Knowledge of DevOps tools such as Jenkins
+Company Description
+TenTek has been in business since 1989, and is recognized as a leading staffing provider of tech professionals to a growing client base.

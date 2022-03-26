@@ -1,0 +1,47 @@
+Guy Carpenter is seeking candidates for the following position based in the New York Office
+
+LEAD DATA SCIENTIST
+
+'
+
+What can you expect?
+
+The Lead Data Scientist role within the Data Strategy group at Guy Carpenter (GC) provides an opportunity to create and improve data-driven products to power one of the worlds largest and most respected risk management and reinsurance firms. The Data Strategy group has a start-up style mandate and internal consulting role (within a $1.3 billion company) to quickly and efficiently enhance the acquisition, storage, analysis, fidelity, and monetization of massive amounts of client, internal, and third-party data across the GC organization.
+
+As a member of the Data Strategy group, the Lead Data Scientist will work with fellow data scientists, data engineers, product managers, business analysts, and stakeholders from other internal groups to design and improve data-centric products with the dual mandate of (1) increasing the efficiency of the data collection and analysis process across GC and (2) driving the monetization of data via newly designed and existing products for GCs reinsurance clients. The lead data scientist will act as an advisor on a number of internal initiatives and will have ownership over projects which will require direct reporting to senior-level management in both business and technical groups.
+
+We will count on you to:
+Incorporate new, cutting edge business intelligence, machine learning, and alternative data practices into wider organization to drive efficiencies and generate revenue
+Own the full stack execution of data science projects from data wrangling, model development, presentation, measurement to deployment
+Work with data engineers to produce fully productionized pipelines including data ingestion, cleaning, feature engineering and model training/prediction.
+Conduct research and analysis into reinsurance and advisory products to augment industry-standard models and develop new market offerings for GCs clients
+Establish and maintain strong relationships with internal team members and external clients when possible
+Monitor performance of data products and respond to internal inquiries regarding their maintenance
+Evangelize data science techniques and best practices throughout analytics and engineering teams
+Keep up-to-date on the latest trends and innovation in data science tools and techniques and how these trends apply to GC's business and data strategy
+Additional Tech Lead Responsibilities
+Own the implementation for data products on the teams roadmap
+Development data science and engineering talent within the team
+Support the hiring of technical and business talent
+Partner with the team product manager to manage technical communications with stakeholders
+Collaborate with the product manager to establish sprint backlogs, stories and estimation
+What you need to have:
+3-5 years of experience as a data scientist or in equivalent quantitative engineering role
+Significant experience with Python (pandas, sklearn), Spark (RDDs, dataframes), machine learning algorithms and libraries (TensorFlow, PyTorch), SQL
+Must be able to produce production level code and familiar with engineering best practices (e.g. unit testing, code reviews)
+Experience acquiring and organizing data in cloud and on-premises environments
+Bachelors or Masters Degree in data science, computer science or related quantitative field such as applied mathematics, statistics, engineering or operations research
+Experience working in an Agile environment to facilitate the quick and effective fulfillment of group goals
+Good interpersonal skills for establishing and maintaining good internal relationships, working well as part of a team and for presentations and discussions
+Strong analytical skills and intellectual curiosity as demonstrated through academic experience or work assignments
+Ability to communicate technical concepts to non-technical audience
+Excellent verbal and writing skills for complex communications with GC colleagues at all levels of the organization
+Good ability to prioritize workload according to volume, urgency, etc. and to deliver on required projects in a timely fashion
+Desire to take ownership of proposed and assigned tasks and to seek assistance when needed
+Ability to thrive in ambiguity, and drive technical focus in directions of high business value
+What makes you stand out:
+Experience with machine vision and extracting structured information from images, multimedia, and other unstructured file formats (CSS)
+Prior experience in relevant insurance/reinsurance field performing analytic analysis or experience in building model/software products for financial or insurance industry
+Familiarity with modern data productivity frameworks and their alternatives such as Databricks, DataRobot and Alteryx
+Significant experience with natural language processing techniques ranging from topic classification to sentiment analysis
+Guy Carpenter & Company, LLC is a leading global risk and reinsurance specialist with more than 3,100 professionals in over 60 offices around the world. Guy Carpenter delivers a powerful combination of broking expertise, trusted strategic advisory services and industry-leading analytics to help clients adapt to emerging opportunities and achieve profitable growth. Guy Carpenter is a business of Marsh & McLennan Companies (NYSE: MMC), the worlds leading professional services firm in the areas of risk, strategy and people. The companys 75,000 colleagues advise clients in over 130 countries. With annualized revenue approaching $17 billion, Marsh & McLennan helps clients navigate an increasingly dynamic and complex environment through four market-leading companies including Marsh, Mercer and Oliver Wyman. For more information, visit www.guycarp.com and follow Guy Carpenter on LinkedIn and Twitter @GuyCarpenter

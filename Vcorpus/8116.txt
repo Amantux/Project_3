@@ -1,0 +1,52 @@
+Summary
+
+Posted: Jul 17, 2019
+
+Role Number: 200081198
+
+We are looking for data scientists to help explore the limits of bleeding-edge technologies at the heart of products that surprise and delight our customers. Machine learning brings an exciting new set of challenges to how we evaluate, validate and qualify algorithms.
+Do you have a curious mind? Are you passionate about quality and analyze data with a skeptical mindset?
+Do you love taking apart complex systems?
+Shipping a black box with confidence isn’t easy, but if you are intrigued by these questions, you’ll feel right at home here. The goal of our team is to provide insight into the quality of both machine learning models as well as data used for their development, using data science approaches.
+As a part of the Human Interface Devices organization at Apple, we get to work closely with hardware and tackle many different challenges around sensors and sensing software. You will get to further machine learning research & development by inspecting, interpreting and evaluating the predictions of machine learnings algorithms and their underlying datasets.
+In this role you will collaborate with Algorithms, Software, Firmware, Data and Quality Assurance Engineers to deliver state-of-the-art next generation technologies into Apple products.
+
+Key Qualifications
+
+Background in either:
+
+Data Analysis, Machine Learning, Statistics, Data Engineering, Mathematics, Computer Science
+
+Comfortable with Python, R, Matlab, and/or other Data Science tools
+
+Experience with highly parallel, distributed, streamed or generally asynchronous data processing environments (Spark, Kafka, BigQuery, Dask, Celery, Hadoop, etc..)
+
+Experience with SQL and NoSQL / Key-value store databases
+
+Experience with analyzing large scale datasets
+
+Confident with basic and advanced statistical methods, e.g. descriptive and inferential statistics, multivariate regression analysis
+
+Quality driven, detail oriented, with excellent communication skills
+
+3+ years relevant industry experience
+
+Description
+
+Analyzing and visualizing algorithm performance in a concise, illustrative, truthful and comprehensive way
+Working with large scale datasets and developing tools and frameworks necessary for processing of such data
+Developing test frameworks and routines to ensure high quality of data processing and analysis pipelines
+Devising performance metrics, test cases and regression conditions for different models
+Researching feasibility of new algorithms and features
+Processing raw data and building refined datasets
+Ensuring the highest quality of the end user product
+
+Education & Experience
+
+MS or PhD in Computer Science, Computer Engineering, Data Science, Statistics or equivalent in relevant industry experience
+
+Additional Requirements
+
+Experience with visualizing very large data sets and creating performance reports
+
+Experience with data acquisition operations (defining data collection protocols, logistics…)

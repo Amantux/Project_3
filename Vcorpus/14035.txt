@@ -1,0 +1,66 @@
+Small Teams; Big Data
+
+
+At Tapad, we look for individuals who are motivated by complex and challenging work. We want to work with people who share compelling solutions to those challenges, solutions informed by their unique experiences, passions, and expertise.
+
+We are looking for a Senior Data Engineer to join our global engineering team in New York City. We need a person who can work hands-on as an engineer, solving complex problems and building advanced software systems. We face daily challenges that are both unique and engaging, while processing data at petabyte scale. That is over one trillion data points in any given 60-day period — with consumer privacy and data security at the heart of everything we do.
+
+The size and scale of our challenges demand the use of cutting edge, open-source technologies, like Apache Spark, Apache Beam, and Kubernetes. We're proud to have been built on Scala from day one.
+
+Collaboration is at the forefront of our day-to-day at Tapad. You would be working with multiple engineering domains, and with our commercial teams, to guarantee that we are delivering the best products. We believe that our engineers have an obligation to dissent and discuss. A successful Tapad engineer understands that their ideas hold weight, and they contribute freely and regularly. We want someone who is motivated to find large-scale solutions with us. We work with big data on small teams. Every contribution is important.
+
+When you work with us, you matter. We ask our employees to make an impact and feel it is only right to give a lot in return. We believe if you're sick, feel like you're getting sick, or just need a personal day, take that time to get better. We love to develop a sense of community, so we host meetups, share knowledge, and have regular team outings. At Tapad, we make sure our office is full of individuals who can teach and learn from one another.
+
+Technologies we use at Tapad (don't worry, we'll teach you):
+Google Cloud Platform (GCP), Google Dataflow/Beam, SQL, BigQuery
+Scala, sbt, cats, http4s, fs2
+Spark ML, TensorFlow, Kubeflow, Python, PyTorch
+Airflow, Prometheus, Kubernetes
+We are looking for candidates who meet some of the following qualifications:
+5+ years of experience making significant contributions in the form of code
+Strong understanding of algorithms and data structures and knowing when to apply them
+Deep familiarity with one or more programming languages (Ex: Scala, Java, Python, etc.)
+Interest in machine learning techniques to develop better predictive and clustering models
+Experience working with high-scale systems
+Proficiency in SQL
+Interest in creating powerful machine learning tools that facilitate experimentation and productionalization at scale
+Interest in data engineering and warehousing to develop ingestion engines, ETL pipelines, and organizing data to expose it in a consumable format
+Passionate about helping mentor your teammates grow by providing insightful code reviews and feedback
+Lead technical projects. Taken responsibility for the planning, execution, and success of complex technical projects
+Bonus Experience:
+
+
+Experience with building systems for model training and serving using TensorFlow, Keras, PyTorch, Spark ML, or Kubeflow
+Working with productionalization of Machine Learning research, and ML project lifecycle management
+Understanding and genuine interest of AI and machine learning methods and algorithms, e.g., gradient based optimization and neural networks
+Experience with functional programming
+Strong understanding of concurrent and parallel programming
+A day in the life of a Tapad Engineer:
+Solve complex problems building advanced software systems, while processing several petabytes of data
+Adapt quickly to utilize software engineering best practices
+Demonstrate the ability to deliver quality software collaboratively
+Designing, implementing, and running big data pipelines that canvas over petabytes of data
+Contributing to real production projects that constitute Tapad's core offering
+Collaborate with your team of engineers, and add to product, account, and business development functions to create new products and features
+Learn functional programming
+Ensure that the software you create is testable and tested
+Serve as a senior member of the team by contributing to the architecture, design, and implementation of Tapad's systems
+Lead and drive technical projects. Take responsibility for the planning, execution, and success of complex technical projects
+Tapad Perks:
+Generous PTO - no accruing necessary
+401k matching
+On-site medical and dental partitioners (we bring the doctors in-house so you can make appointments at your convenience)
+Scala School (we'll teach you!), Coursera, LinkedIn learning, peer-lead professional development, and an abundance of resources to help you stay sharp
+Unlimited snacks and beverages, collaboration catered lunches
+Discounts on gym memberships
+Foosball, ping pong, diversity and inclusion group, book club, Tough Mudder, push-up challenges, and tons of other extra-curricular activities that will make you feel like part of the Tapad family
+Check out our #TapadLife page to see what our employees have to say
+Find more about our engineering culture HERE
+About Tapad:
+
+
+Founded in 2010, Tapad cracked the code on cross-device marketing technology. Our groundbreaking, proprietary technology assimilates trillions of data points to find the relationship between smartphones, desktops, laptops, tablets, and connected TVs. Ten years later, we are processing data at petabyte scale, with an engineering team that comprises roughly half of our entire organization. When you work with us, you matter, and your work matters.
+
+We use Scala, in combination with large-scale data processing and open-source technologies, to build our device graph. Across our engineering teams, we also use Scala, GCP, Spark, Kubernetes, Python, TypeScript, Angular, and anything else that helps us get the job done. We're open-minded about new technologies, we're passionate about what we do, and we make time for everyone to learn and grow as the industry changes. Engineers at Tapad are approachable and ambitious people who think outside the box and solve big problems collaboratively. Are you up for the challenge?
+
+Tapad is proud to be an equal opportunity employer and will consider all qualified applicants regardless of age, sex, race, religion, national origin, sexual orientation, gender identity, marital or family status, disability, or any other legally protected status. Tapad does not accept resumes from unsolicited search firms nor recruiters. In no event shall fees be paid to any unsolicited search firms nor recruiters, regardless of whether the candidate is made an offer or accepts a placement at Tapad. All resumes received through any channels will be considered the sole property of Tapad.

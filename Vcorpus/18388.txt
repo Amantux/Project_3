@@ -1,0 +1,26 @@
+Overview
+
+Penn Interactive (PI) is a real-money interactive gaming company headquartered in Philadelphia. As the digital arm to Penn National Gaming (NASDAQ: PENN), the largest regional casino operator in the U.S., we are poised for fast-paced growth in the sports betting and online casino space and are looking for a Backend Engineer to join our expanding Sportsbook team!
+
+The Senior Data Engineer works closely with the Director of Engineering in a small, cross-functional team to develop a one-of-a-kind, native sports betting experience. Successful candidates for this role will leverage data from the largest casino chain in the United States to assist in tasks such as affinity, personalization, bonusing, promotions, etc. Previous work in the gaming industry is not important but we do expect you to take the lead in developing a data warehouse and pipeline to enable novel and rewarding data discoveries.
+
+Your daily responsibilities include
+Design a big data stack and data processing infrastructure and platform
+Architect and rearchitect multi-tenant databases to meet the needs of our enormous customer base
+Improve data validation and data quality monitoring
+Work with client and backend teams to ensure appropriate logging
+Optimize and tune the databases to improve performance and reduce cost
+To be successful in this position it will require the following skill set
+Minimum 5+ years of experience building large scale, cost effective and robust data processing platforms
+Strong experience in database schema design and data modeling for analytics purposes
+Experience with Hadoop, Redshift, Pentaho, MySQL, etc.
+Experience with AWS and/or Azure cloud
+Good understanding of data security and encryption
+Ability to work effectively as part of a small team, with strong interpersonal and communication skills
+BONUS POINTS
+BSc or MSc in Computer Science or another STEM field
+A passion for sports or betting
+Familiarity with Kotlin
+Something to leave you with
+
+Penn Interactive is committed to helping our team members live their best, healthy life. We offer unique and competitive benefits that help our employees, through a private exchange which allows our team members the ability to choose from several coverage levels and insurance carriers (both local and national carriers). Along with medical, prescription, dental, and vision coverage, there are also voluntary plans available to employees. PI also offers our employees office perks such as free catered lunches, snacks, and beverages in the office.

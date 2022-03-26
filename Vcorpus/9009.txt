@@ -1,0 +1,49 @@
+Do you have background in operations research/operations management? Are you passionate about using mathematical programming, metaheuristics and other optimization techniques to solve real world problems? Do you thrive in highly ambiguous environments where innovation and creativity can translate into hundreds of millions of dollars saved for the company?
+
+If you answered yes, we are the team you should be talking to!
+
+The Azure Cloud Supply Chain & Provisioning Engineering team builds the services that literally fuel cloud growth. We ensure Microsoft’s cloud data centers are properly seeded with all types of hardware required to meet Microsoft’s growing customer needs.
+
+We’ve built a highly asynchronous, event driven, distributed microservices platform that automates and optimizes weeks long business and physical processes and reacts to changes that happen during those weeks.
+
+To deliver on the customer promise of the infinite cloud, we’re looking for people to join an architect and a small team of people to push this architecture further, by exploring opportunities for optimization and modeling of existing processes and providing data driven support for decision making.
+
+Responsibilities
+
+Learning quickly from your peers, projects and interactions with business partners.
+
+Learning and application of OR/OM skills in a production setting – researching, building and proving different optimization techniques using C#/Python/R.
+
+Building system models and simulations to support decision making as well as what-if analysis
+
+Extracting insights and actionable observations from large data sets
+
+Qualifications
+
+Basic Qualifications:
+
+BS/MS in Computer Science, Engineering or related technical field
+
+5 years of experience in using OR/OM techniques to solve real world problem and develop production grade optimization and model solutions.
+
+Ability to use C#/python/R to develop proof of concepts and optimization/modeling solutions
+
+Other Qualifications:
+
+Strong problem-solving skills
+
+Experience with supply chains or similar business operations is a strong plus
+
+Familiarity with typical data management systems and tools such as Pandas, SQL, Azure Data Lake etc.
+
+Great written and verbal communication skills and ability to collaborate cross-group and work effectively within the team
+
+Ability to simplify and disambiguate complex problem spaces
+
+Familiarity with Azure, or similar cloud solutions
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check upon hire/transfer and every two years thereafter.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.

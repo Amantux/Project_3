@@ -1,0 +1,39 @@
+Data Scientist
+
+Company
+
+Personal Capital is a leading digital wealth management company, founded in 2009. We're on a mission to transform financial lives through technology and people, providing both insight-driven advice with free financial tools and personalized wealth management from 200+ registered financial advisors across the country. Personal Capital has raised $315 million in capital from accomplished financial and strategic investors (IVP, Venrock, Crosslink, Corsair, Blackrock, BBVA, USAA, IGM/Power) to disrupt the traditional $30 trillion U.S. wealth management market. Our free personal finance app is utilized by over two million users, helping them track over $650 billion of their personal finances, all in one place. Our award-winning apps paved the way for our advisory firm, which now manages over $9 billion in personalized investment portfolios for American families. Personal Capital is headquartered in Redwood Shores with offices in San Francisco, Denver, Dallas and Atlanta.
+
+Role
+
+You will provide insights to business stakeholders in Marketing, Sales, Product, and Service, enabling them to make informed decisions. You will perform exploratory and detailed analysis of large data sets and present the analysis to stakeholders. You will maintain and create complex classifiers, predictive models and utilize other machine learning techniques, in collaboration with Data Engineers, Java Engineers, Business Analysts and business stakeholders to provide analysis and make recommendations. Further, you will leverage large data sets and assist with the creation of pipelines to support our data modeling and business insights.
+
+Candidate
+
+You should be innovative, think outside of the box, understand financial services business and advocate visionary and new ideas. Further, you should be self-motivated, work well independently, possess solid critical thinking skills, the ability to synthesize complex problems and develop programs to apply data science concepts to improve business efficiencies. Excellent written and speaking communication skills are required to work successfully in a collaborative cross-functional environment and interact with the full spectrum of business divisions.
+
+Qualifications
+
+3+ years of professional experience as a Data Scientist.
+
+A Bachelor of Science degree in Computer Science, Operations Research, or another quantitative discipline. Prefer a candidate with Masters degree.
+
+Experience with statistical analysis and analytic presentation tools. Experience with A/B testing is added plus.
+
+Familiarity with machine learning techniques and classifier algorithms.
+
+Strong experience with data management systems, particularly with SQL queries. Knowledge of NoSQL platforms an added plus.
+
+Experience extracting and working with large sets of data stored in a variety of storage platforms such as traditional Data Warehouse, Data Lake, and NoSQL.
+
+Experience working defining data pipelines to facilitate machine learning and analytics.
+
+Familiarity with distributed computing and Big Data technologies, including map/reduce ecosystem (Hadoop, Spark, HDFS, Hive)
+
+Familiarity with capturing and processing real-time streaming data.
+
+Strong programming experience in at least one programming language, preferably Python.
+
+Experience with software engineering infrastructure like Git or other source repositories and unit testing is required. Experience should be in a production environment.
+
+Familiarity with conventional machine learning and deep learning libraries, in particular scikit-learn and keras.

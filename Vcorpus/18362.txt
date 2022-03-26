@@ -1,0 +1,64 @@
+Our Organization
+
+
+DLL is not your average financial services company. In fact, we’re above average in almost every way. With an employee engagement score of 84% (compared to the 72% industry average), it sure seems like we’re doing something right. And, while most companies survive fewer than 20 years, 2019 marks our 50th. We collaborate with equipment manufacturers, dealers and distributors in more than 30 countries to enable businesses to obtain and use the assets they need to contribute meaningfully to their communities. We believe in partnering with our customers to develop innovative and sustainable financial solutions that deliver meaningful value to the world. Come see what all the excitement is about.
+
+
+Your Function:
+
+
+As a Lead Data Engineer, you are responsible for architecting, designing, and implementing data pipelines, data analytics, and APIs for monetizing DLL’s data. In addition, the Lead Data Engineer defines and promotes adaptation of best practices, provides consultative guidance and recommendations on pragmatic solutions to solve complex business requirements within the context of one or more digital transformation initiatives. In this role you will be part of the Data Insights team that is responsible for delivering real-time data insights through advanced analytics, visualizations, and distribution of data insights across DLL’s internal organization and externally to our partners and customers. The various initiatives for the team affects multiple business units, large end-user populations, corporate client delivery, applications, and other areas of solution delivery across the organization. As such, this position is critical to ensuring the appropriate stakeholders are engaged in evaluating the optimal solution design to meet the complex business needs. The position requires someone with excellent communications skills (verbal and written), works well under pressure, and effectively work with cross-functional teams throughout a diverse business community. This position requires extensive knowledge of batch and real-time data pipelines, modern data warehousing, and experience working in an agile organization. Knowledge of IT processes, supporting technologies, and how these technologies integrate across initiatives and existing environments is a must.
+
+Day to Day:
+Develops and maintains scalable data pipelines and builds out new API integrations to support continuing increases in data volume and complexity.
+Collaborates with analytics and business teams to improve data models that feed business intelligence tools, increasing data accessibility and enabling data-driven decisions across the organization.
+Implements processes and systems to monitor data quality, ensuring production data is always accurate, secure, and available for key stakeholders and business processes that depend on it.
+Contributes to engineering communities of practice, and documents work.
+Performs data analysis required to troubleshoot data related issues and assist in the resolution of data issues.
+Works closely with a team of frontend and backend engineers, product managers, and analysts.
+Defines company data models, uses ELT pipeline and data streaming tools to populate data models.
+Designs data integrations and data quality framework.
+Designs and evaluates open source and vendor tools for data lineage.
+Works closely with all business units and engineering teams to develop strategy for long term data platform architecture.
+Position location - Wayne, PA or Dallas, TX
+
+Your Profile:
+
+
+BS or MS degree in Computer Information Science or related technical field
+8-10 years of Information Technology experience with data management
+5+ years of software engineering experience in Python, Scala, Java, or .NET
+5+ years of experience with schema design, dimensional data modeling, and data storage technology
+5+ years of multiple kinds of database experience (SQL and No-SQL)
+Proven ability in managing and communicating data warehouse plans to internal clients
+Experience designing, building, and maintaining secure, reliable batch and real time data pipelines
+Experience with cloud data ingestion, data lake, and modern warehouse solutions (Azure is a plus)
+Experience with event streaming platforms like Kafka or Azure Event Hubs
+Ability to provide data architecture and engineering thought leadership across business and technical dimensions solving complex business cases
+Possesses a deep understanding of enterprise software patterns and how they may be leveraged in modern data management
+Knowledge of best practices and IT operations in an always-up, always-available service
+Experience with or knowledge of Agile Development methodologies (SAFe is a plus)
+Excellent analytical problem solving and troubleshooting skills
+Excellent oral and written communication skills with a keen sense of customer service
+Excellent team player with proven ability to influence
+Highly adaptable to a continuously changing environment
+Able to give and receive open, honest feedback and to foster a feedback environment
+Outstanding communication, interpersonal, relationship building skills for team development
+Possible Travel (10%)
+Experience within financial services is a plus
+
+We Offer:
+
+
+Two working days per year volunteering for a local charity
+Health and Wellness program including healthy food, fresh Coffee Plaza, free health checks, fun health & vitality activities
+Flexible hours with possibility to work from home (within job scope)
+Career development opportunities: online learning, member development programs
+Highly competitive benefits
+
+Additional Information:
+
+
+DLL thanks all applicants. We advise only those who qualify for an interview will be contacted. Hiring subject to successful completion of a background check and drug test. EOE
+
+Please visit our website www.workingatdllgroup.com to apply online.

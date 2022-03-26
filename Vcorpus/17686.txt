@@ -1,0 +1,50 @@
+Job Description:
+
+We are looking for a Senior Data Engineer/Architect to join our new Data Center and Networking AI Team to solve some of the hardest and most interesting technological challenges facing the industry today. This is a high visibility, hands-on data engineering lead role.
+
+The Team
+
+You will be joining a new team of world-class high-performing and low ego engineers and scientists that have an entrepreneurial and hacker spirit. The team will operate in a very self-driven, agile and fast-paced environment.
+
+The team operates by self-organizing, around shared values, vision and objectives.
+
+Keys to Hiring
+
+You are the best candidate for this position if you stay up to date with the latest and greatest data engineering innovations and off-the-shelf solutions. You are both an architect and a hands-on data engineer. You enjoy working with and supporting data scientists. You generate new ideas and initiatives to solve problems and identify trends and opportunities. You are comfortable working independently and figuring things out, and also enjoy working collaboratively in a small, fast-paced entrepreneurial environment. You enjoy being challenged and respectfully challenging others.
+
+You write code almost every day and are comfortable working with your team to produce tools, pipelines, packages, modules, features, dashboards, or whatever is needed to move the team forward. You have a hacker’s spirit. You’re a quick study and technically flexible.
+
+The Role
+
+Primary
+Build a scalable architecture to support real-time analytics and offline ML model training pipelines.
+Build an auto-scalable (Kubernetes) containerized ML microservices for anomaly detection, prediction, forecasting, correlation analysis, etc.
+Ensure a modular platform architecture for deployment in public and private clouds.
+Build a scalable AI platform to build, train and deploy custom ML models as microservices for real-time predictive intelligence, deep actionable insights for faster RCA.
+Use off-the-shelf tools as needed to prevent reinventing the wheel.
+Attract and foster a world-class data team
+Qualifications
+15 years of hands-on experience in data engineering
+4+ years of experience leading data engineering teams for AI/ML platforms that serve real-time products
+4+ years of experience leading data engineering recruitment, mentoring and conducted hands-on training sessions to data scientists, analysts and BI engineers.
+2+ years of experience collaborating to design standards, championing data engineering culture and developing world-class technical talent.
+2+ years of experience as a Data Architect for AI/ML platforms and driving engineering roadmap.
+Track record of being a hands-on contributor for various data science & engineering projects
+Track record of bringing 2 enterprise products to market from conception to deployment
+Experience building and delivering a cloud-based analytics solution
+Proven track record of meeting aggressive release schedules; demonstrated ability to balance multiple priorities in a complex environment and manage teams to successful project completion.
+See what it's like working at our Crimson House West campus in San Mateo, CA!
+Sponsorship tag select one!
+
+
+Employment eligibility to work with Rakuten and it's brands in the U.S. is required as the company will not pursue visa sponsorship for these positions.
+
+Rakuten may choose to consider applicants that require some form of company sponsorship to work in the United States at its sole discretion, based on business needs.
+
+*******************************************************************************
+
+Rakuten is an equal opportunity employer. We do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic information, marital status or any legally protected status.
+
+Women, minorities, individuals with disabilities and protected veterans are encouraged to apply.
+
+Languages:

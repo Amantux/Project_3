@@ -1,0 +1,67 @@
+About us
+Nasdaq (Nasdaq: NDAQ) is a leading global provider of trading, clearing, exchange technology, listing, information and public company services. Through its diverse portfolio of solutions, Nasdaq enables customers to plan, optimize and execute their business vision with confidence, using proven technologies that provide transparency and insight for navigating today's global capital markets. As the creator of the world's first electronic stock market, its technology powers more than 100 marketplaces in 50 countries, and 1 in 10 of the world's securities transactions. Nasdaq is home to approximately 4,000 total listings with a market value of approximately $15 trillion. To learn more, visit: http://www.nasdaq.com
+
+Global Technology is responsible for developing World Class leading technology to support our Markets, Market Makers not only in the US but across the Globe. Within our greater technology organization we are committed to excellence in every aspect of software development from Capability Conception to Project Execution. There are many technical teams – spread across the Globe with a mind to usher in innovative technology to meet Nasdaq’s constantly growing needs and opportunities.
+
+The Team
+
+This role offers the right candidate an opportunity to participate in our World Class Index Calculation and Dissemination Technology. At the heart of that technology our Research & Development team uses a cloud based data store to support research and development. This role will provide AWS, SCALA, SPARK and SQL expertise, and source data management support to the Index Administration Team.
+
+Your role and responsibilities
+
+Big Data Engineering on Cloud Platform
+Good understanding of Big data technologies – Spark SQL
+Programming SPARK in Scala
+Proficiency in SQL
+Strong data analysis and troubleshooting skills
+Regularly interacts with Business ,Data Vendors and Cloud DevOps Team
+Domain knowledge of Capital Market is plus
+Knowledge of shell scripts and other languages including Python, R, Java is plus
+Unit testing/verification of new development
+Work with QA Test analyst to ensure test coverage (Including Integration & Regression testing)
+Develops new program logic and/or assembles standard logic modules to create new applications
+You will need the following skills and experience
+At least 2 years of hands on experience on Big Data Engineering on AWS
+Minimum 1 year experience with Spark, Scala
+Must be able to write complex sql queries
+Experience with RDB and sql server databases (Could be MS or Oracle…)
+Experience with Large data sets
+Excellent teamwork/collaboration skills
+Excellent communication skills (Written & Oral)
+Good knowledge of linux OS, shell scripting
+Experience working on complex distributed information systems
+Experience with version control systems, preferable SVN, GIT.
+Strong work ethic in a mission-critical 24x7 diverse environment with multiple vendor/customer relationships.
+And it would be great if you have experience with
+AWS Certification is plus
+Preferred – Experience with Financial Markets (options a plus)
+Preferred – Working knowledge of various Financial Market data feeds
+Beneficial having experience with log aggregation tools such as Elasticsearch, Splunk, Datadog, etc
+Must be able to work Saturdays and rotational schedule
+Sounds like you? Please follow through by clicking the “Apply” link and submitting your application. If your skills and experience are a match, we will be in touch soon, and in the meantime please visit our website and social media channels to learn more about our innovative business, inclusive culture and where a career at Nasdaq can take you.
+
+Nasdaq is an equal opportunity employer. We positively encourage applications from suitably qualified and eligible candidates regardless of age, color, disability, national origin, ancestry, race, religion, gender, sexual orientation, gender identity and/or expression, veteran status, genetic information or any other status protected by applicable law.
+
+Job Type: Full-time
+
+Pay: $125,000.00 - $130,000.00 per year
+
+Benefits:
+401(k)
+Dental Insurance
+Health Insurance
+Paid Time Off
+Tuition Reimbursement
+Vision Insurance
+Schedule:
+Monday to Friday
+Experience:
+SQL: 1 year (Preferred)
+Big Data Engineering on AWS: 2 years (Required)
+Spark and Scala: 1 year (Required)
+Location:
+New York, NY 10036 (Required)
+Visa Sponsorship Potentially Available:
+No: Not providing sponsorship for this job
+Work Remotely:
+Temporarily due to COVID-19

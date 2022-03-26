@@ -1,0 +1,34 @@
+Grubhub is dedicated to connecting hungry diners with our wide network of restaurants across the country. Our innovative technology, easy-to-use platforms and streamlined delivery capabilities make us an industry leader today, and in the future of online food ordering.
+We strive to create a workplace that reflects the diversity of our customers and the communities we serve. When you join our team, you become part of a community that works together to innovate, solve problems, take risks, grow, work hard and have a ton of fun in the process!
+Why Work For Us
+We have a fast-paced environment and that is what our teams thrive on. Grubhub believes in empowering people and offering opportunities for development, as well as professional growth. We value strong, positive relationships in all areas: with each other, our customers and our greater community. Want to be a part of a team of diverse collaborators in an authentically fun culture? If so, we want to talk to you - and hear what’s your favorite restaurant for food delivery!
+More About the Role:
+Grubhub is looking for a data scientist to join the Pricing team. As a part of Pricing, you’ll be a member of a small team of data scientists and engineers who shape and optimize how we charge our diners, shaping hundreds of millions in revenue annually. You will work closely both with financial stakeholders as well as engineers to ship models that make Grubhub more efficient with the way in which it charges customers. You’ll construct models and A/B tests as well as write code to improve our modeling capabilities.
+
+Prototype and ship large-scale models that help drive profit or order volume
+Conduct A/B experiments to validate the effectiveness of these models
+Work closely with financial stakeholders to construct models that drive business goals
+Leverage big data tools to incorporate new data sources into modeling pipelines
+Work closely with data scientists and backend engineers to implement and maintain your changes
+
+MS with 5+ years of relevant industry experience or PhD in computer science, engineering, statistics, machine learning, mathematics, or in another quantitative field
+Experience shipping changes to a production environment
+Comfortable with using git, basic Linux commands, and object-oriented programming languages (Scala, Java, Python)
+Experience performing analysis with large-scale SQL tooling (Presto, BigQuery, etc.)
+Familiarity with basic AWS tools like EC2 and S3
+Superior communication and data presentation skills
+Effective working in a fast-paced team environment
+Preferred Qualifications
+Demonstrated ability to work on cross-functional teams
+Experience making high-impact decisions (multiple millions of dollars)
+Ability to comprehend and debug complex systems that might cross team and tool boundaries across the company
+
+Flexible PTO. Grubhub employees are provided a generous amount of time to recharge their batteries.
+Health and Wellness. We provide programs that support your overall well-being such as generous medical benefits, employee network groups, company-wide fitness challenges, and a comfortable and casual workplace! We also support our parents by offering 8 weeks of paid parent bonding time, a 4-week returnship program, and 6-8 weeks paid medical leave.
+Learning and Career Growth. Your personal and professional development is a priority at Grubhub. From day one, we empower you to lead and be an active participant in your career growth. We provide continuous learning opportunities, training, and coaching and mentorship programs.
+MealPerks. Who’s ready for some lunch? We provide our employees with a weekly Grubhub credit to enjoy and support local restaurants. We also offer company-wide meals several times a year to bring our Grubhub family together.
+Fun. Every Grubhub office has an employee-led Culture Crew that connects people through fun, meaningful events and initiatives. Some of our popular past events include: Wing-eating contests, Grubtoberfest, 5k Runs, Bring Your Child to Work Day, regular happy hours, and more!
+Social Impact. We believe in the importance of serving the communities that support our business. In addition, employees are given paid time off each year to support the causes that are important to them.
+
+Grubhub is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics. The EEO is the Law poster is available here: DOL Poster. If you are applying for a job in the U.S. and need a reasonable accommodation for any part of the employment process, please send an e-mail to TalentAcquisition@grubhub.com and let us know the nature of your request and contact information. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this email address.
+CA Privacy Notice: If you are a resident of the State of California and would like a copy of our CA privacy notice, please email privacy@grubhub.com.

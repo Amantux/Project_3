@@ -1,0 +1,113 @@
+We are seeking a Data Scientist skilled at time series problems and forecasting. You will use Kinsa’s unique illness, symptomatic, geographic, and demographic data to help us understand and predict the spread of infectious disease and how this impacts treatment seeking behavior and demand for health products/services. You will use a combination of machine learning, epidemiological models, Monte Carlo simulations, LSTM neural networks, and other time series techniques. You will also help improve the existing Kinsa illness signal, derive new signals based on proprietary symptoms and fever data, as well as external data. The ideas, research, and tools you develop will contribute directly to the realization of Kinsa’s mission.
+
+The ideal candidate is skilled in a range of general data science, machine learning and other statistical approaches; has the engineering experience to build prototypes around these tools, and has extensive experience with modeling and forecasting, ideally in epidemiological context. You’ll be comfortable working cross-functionally with internal and external stakeholders. You understand how to work in a scrappy startup environment, and know how to balance speed vs. accuracy. Most importantly, you’ll have a genuine passion for Kinsa’s mission, and act as a force multiplier as we enter this next phase of growth in our organization
+
+Kinsa was founded with a mission to stop illness from spreading by knowing where and when it starts. We’ve done this by transforming the first device you grab when sickness strikes - the thermometer - into a sensor to detect when and where illness is rising, and communicate with those who have just fallen ill. Our connected products help people and communities stay healthy while advancing a broader mission: to create a real time map of human health in order to track — and stop — the spread of disease.
+
+There are three key characteristics of our team that we hope are traits you have as well:
+
+Passion: The Kinsa team is driven towards a goal that is bigger than themselves, they have a real passion in working toward a solution for a widespread social issue.
+
+Communication: Direct, direct, direct. If you want to say something in 15 words, say it in 10. Structured meetings, with an end goal in mind.
+
+Hard Work: We are a startup, and we are proud of our work so far but there is a lot more work to be done. We hope you have the same mindset. Be productive and don’t be afraid to work out the problem on your own.
+
+You have:
+
+Advanced quantitative degree - e.g. Econometrics, Statistics / Biostatistics, Physics, Computer Science, Electrical Engineering, etc - MS/PhD preferred
+
+1-2 years industry experience in a relevant quantitative field, ideally at a high growth / early stage company
+
+A proven track record of building forecasting models
+
+A proven track record of working with large structured & unstructured data sets to extract timely, meaningful and impactful insights
+
+Strong programming skills in SQL and Python (pandas, sci-kit learn, keras, tensorflow, etc.)
+
+Experience with machine learning techniques
+
+Business acumen & product intuition - you must be able to think creatively and independently
+
+Persuasive oral and written communication skills
+
+You might also have:
+
+Experience deploying your code in a production environment
+
+Experience with epidemiological modeling
+
+Geospatial data processing and visualization
+
+Experience with data in the healthcare sector
+
+Experience preparing, writing, and publishing research papers
+
+About Us
+
+At Kinsa, we are driven by our mission of tracking and stopping the spread of contagious disease while simultaneously giving families the tools and information they need to stay healthy. Our award winning connected thermometers provide the sensor network needed to collect real-time, geolocated, clinically accurate health data. This data allows us to track and forecast illness using machine leaning and other modeling techniques.
+
+We are technologists, designers and health professionals who have built best-selling products, started successful ventures, and brought life-saving treatments to millions of people. We are backed by successful entrepreneurs and top VCs like Kleiner Perkins and FirstMark Capital.
+
+We are looking for mission-driven people who want to work on problems that really matter in the world.
+
+Come join our team and do good!
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+ 
+
+We are seeking a Data Scientist skilled at time series problems and forecasting. You will use Kinsa’s unique illness, symptomatic, geographic, and demographic data to help us understand and predict the spread of infectious disease and how this impacts treatment seeking behavior and demand for health products/services. You will use a combination of machine learning, epidemiological models, Monte Carlo simulations, LSTM neural networks, and other time series techniques. You will also help improve the existing Kinsa illness signal, derive new signals based on proprietary symptoms and fever data, as well as external data. The ideas, research, and tools you develop will contribute directly to the realization of Kinsa’s mission.
+
+The ideal candidate is skilled in a range of general data science, machine learning and other statistical approaches; has the engineering experience to build prototypes around these tools, and has extensive experience with modeling and forecasting, ideally in epidemiological context. You’ll be comfortable working cross-functionally with internal and external stakeholders. You understand how to work in a scrappy startup environment, and know how to balance speed vs. accuracy. Most importantly, you’ll have a genuine passion for Kinsa’s mission, and act as a force multiplier as we enter this next phase of growth in our organization
+
+Kinsa was founded with a mission to stop illness from spreading by knowing where and when it starts. We’ve done this by transforming the first device you grab when sickness strikes - the thermometer - into a sensor to detect when and where illness is rising, and communicate with those who have just fallen ill. Our connected products help people and communities stay healthy while advancing a broader mission: to create a real time map of human health in order to track — and stop — the spread of disease.
+
+There are three key characteristics of our team that we hope are traits you have as well:
+
+Passion: The Kinsa team is driven towards a goal that is bigger than themselves, they have a real passion in working toward a solution for a widespread social issue.
+
+Communication: Direct, direct, direct. If you want to say something in 15 words, say it in 10. Structured meetings, with an end goal in mind.
+
+Hard Work: We are a startup, and we are proud of our work so far but there is a lot more work to be done. We hope you have the same mindset. Be productive and don’t be afraid to work out the problem on your own.
+
+You have:
+
+Advanced quantitative degree - e.g. Econometrics, Statistics / Biostatistics, Physics, Computer Science, Electrical Engineering, etc - MS/PhD preferred
+
+1-2 years industry experience in a relevant quantitative field, ideally at a high growth / early stage company
+
+A proven track record of building forecasting models
+
+A proven track record of working with large structured & unstructured data sets to extract timely, meaningful and impactful insights
+
+Strong programming skills in SQL and Python (pandas, sci-kit learn, keras, tensorflow, etc.)
+
+Experience with machine learning techniques
+
+Business acumen & product intuition - you must be able to think creatively and independently
+
+Persuasive oral and written communication skills
+
+You might also have:
+
+Experience deploying your code in a production environment
+
+Experience with epidemiological modeling
+
+Geospatial data processing and visualization
+
+Experience with data in the healthcare sector
+
+Experience preparing, writing, and publishing research papers
+
+About Us
+
+At Kinsa, we are driven by our mission of tracking and stopping the spread of contagious disease while simultaneously giving families the tools and information they need to stay healthy. Our award winning connected thermometers provide the sensor network needed to collect real-time, geolocated, clinically accurate health data. This data allows us to track and forecast illness using machine leaning and other modeling techniques.
+
+We are technologists, designers and health professionals who have built best-selling products, started successful ventures, and brought life-saving treatments to millions of people. We are backed by successful entrepreneurs and top VCs like Kleiner Perkins and FirstMark Capital.
+
+We are looking for mission-driven people who want to work on problems that really matter in the world.
+
+Come join our team and do good!
+
+Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.

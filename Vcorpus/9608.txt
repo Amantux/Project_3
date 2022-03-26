@@ -1,0 +1,43 @@
+Sling TV L.L.C. provides an over-the-top (internet delivered) television experience on TVs, tablets, gaming consoles, computers, smartphones, smart TVs and other streaming devices. Distributed across a variety of strategic device partners, including Google, Amazon, Apple TV, Microsoft, Roku, Samsung, LG, Comcast, and many others, Sling TV offers two primary domestic streaming services that collectively include more than 100 channels of top content. Featured programmers include Disney/ESPN, NBC, AMC, A&E, EPIX, NFL Network, NBA TV, NHL Networks, Pac-12 Networks, Hallmark, Viacom, and more. For Spanish-speaking customers, Sling Latino offers a suite of standalone and extra Spanish-programming packages tailored to the U S. Hispanic market. And for those seeking International content, Sling International currently provides more than 300 channels in 20 languages (available across multiple devices) to U.S. households.
+
+Sling TV is the #1 Live TV Streaming Service Sling TV is a next-generation service that meets the entertainment needs of today’s contemporary viewers. Visit www.Sling.com. We are driven by curiosity, pride, adventure, and a desire to win – it’s in our DNA. We’re looking for people with boundless energy, intelligence, and an overwhelming need to achieve to join our team as we embark on the next chapter of our story.
+
+Opportunity is here. We are Sling.
+
+If you meet most of the following requirements, you are likely to be a great fit for the position:
+
+You have an academic background in applying statistics and machine learning. The typical candidate has a Bachelor’s or Master’s degree in Math, Statistics, Computer Science, or Physics or such quantitative fields or has done a program from a business school in marketing, analytics etc. with a focus on quantitative approaches.
+
+You have at least 5 years of experience working with data and data analysis in some form. You have built predictive models and have done analyses to explain and understand the underlying process, variable relationships, causality etc.
+
+You have a wide range of statistical and machine learning tools under your belt, and deep practical insight to choose the best tools for a given problem. These include linear models for regression and classification, multi-level models, factor analysis & PCA, discriminant analysis, support vector machine, decision tree ensembles & bootstrap, neural networks, mixture models & clustering algorithms, and so on.
+
+You know how to incorporate prior domain knowledge in your models in a principled fashion. You are familiar with Bayesian modeling and inference; you also know when and when not to use them based on practical considerations.
+
+You are proficient in at least one programming language commonly used for data analysis (like R/Python), and you are comfortable with SQL
+
+Additional Preferred qualifications:
+
+Experienced in designing and analyzing controlled experiments. This will be a strong plus.
+
+Have worked on problems involving survival analysis or time series modeling
+
+Possess strong data visualization skills using programmatic tools (e.g. ggplot2) and tools like Tableau
+
+Have worked with large data sets, with big data processing tools like MapReduce, Spark, Hive, etc. Have data engineering skills to do basic preprocessing, cleaning and transformations.
+
+Knowledgeable on different database and data warehousing systems like MySQL, Amazon Redshift, BigQuery, Teradata
+
+#LI-SLING1
+
+DISH, in Foster City, is looking for a Lead Data Scientist who will work closely with teams like product, engineering, marketing, operations, and help solving some of their problems from a data perspective.
+
+Primary Responsibilities:
+
+Take full ownership in developing effective ways to do various analyses like customer segmentation, user modeling, churn analysis and prediction, LTV prediction, and otherwise process large volumes of customer and device data with the intention of gaining actionable insights and making data-driven decisions.
+
+Collaborate closely with other team members including data scientists, engineers, and quality analysts to make sure the team is progressing as a cohesive unit and producing results. Provide technical guidance to other team members when required.
+
+Help multiple audiences - engineers, product managers, executives - dig into and understand the output of the team’s analyses ands models using notebooks (e.g. Rmd, Jupyter), visualization, presentations etc.
+
+Constantly look for and adopt new techniques and tools to ensure the team stays at the forefront of modern large-scale data processing and analysis techniques

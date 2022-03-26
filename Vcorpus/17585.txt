@@ -1,0 +1,31 @@
+Spokeo is a people search engine that both enlightens and empowers our customers. With over 12 billion records and 18 million visitors per month, we reconnect friends, reunite families, prevent fraud, and more.
+
+We are looking for a Business Intelligence (BI) Engineer with a passion for wrangling data and developing analytics systems to join our team. Working in an AWS ecosystem, this role will work closely with the data science and analytics team to define the flow of data within the pipeline and ensure the accuracy of dashboard delivery and insights.
+
+Responsibilities:
+Work with business users directly to gather requirements, develop solutions, and provide insights using business intelligence platforms like Tableau and Google Analytics.
+Design, build and maintain Google Tag Manager and Google Analytics implementations to ensure accurate business and data analysis.
+Build and manage existing business intelligence platforms and monitor key metrics.
+Work with large, complex databases, data warehouses, and data lakes.
+Create and maintain technical documentation and follow Agile methodologies.
+Create unit and stress test scripts/modules.
+Write well-abstracted, reusable, and efficient code for moving data through different layers of the data lake.
+Requirements:
+Experience in Web and Product analytics tools like Google Analytics, Amplitude, etc.
+Experience with and understanding of event data collection tools like Snowplow Insights, Segment, Google Tag Manager, mParticle, Tealium, etc.
+Strong scripting, programming, and SQL skills, preferably using Python, Ruby, and ANSI SQL.
+Experience in Business Intelligence tools like Tableau, Chartio, Snowflake, etc.
+Experience in ETL related technologies and tools like Databricks, Pentaho, Airflow, etc.
+5+ years of experience in backend software development.
+Experience with AWS services like Redshift, Athena, Glue, etc.
+Working knowledge of statistical analysis using tools such as R.
+Experience working with large data sets (billions of records).
+Strong organizational skills and detail-oriented mindset.
+BS in Computer Science, Information Systems, or a related field.
+Privacy Notice for Candidates: https://www.spokeo.com/recruiting-policy
+
+Spokeo is an equal opportunity employer. Applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Spokeo fosters a business culture where ideas and decisions from all people help us grow, innovate, create the best products and be relevant in a rapidly changing world.
+
+Recruiters or staffing agencies: Spokeo is not obligated to compensate any external recruiter or search firm who presents a candidate or their resume or profile to a Spokeo employee without 1) a current, fully-executed agreement on file and 2) being assigned to the open position (as a search) via our applicant tracking solution.
+
+]]>

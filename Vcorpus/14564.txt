@@ -1,0 +1,22 @@
+Passionate about precision medicine and advancing the healthcare industry?
+
+Recent advancements in underlying technology have finally made it possible for AI to impact clinical care in a meaningful way. Tempus' proprietary platform connects an entire ecosystem of real-world evidence to deliver real-time, actionable insights to physicians, providing critical information about the right treatments for the right patients, at the right time.
+
+We are looking for Junior Imaging Scientist who are passionate about the prospect of building the most advanced data platform in precision medicine.
+
+What you'll do:
+You will be working with Tempus' multidisciplinary team of physicians, cancer biologists, software engineers, and scientists to:
+Develop image analysis algorithms and deep learning architectures to solve exciting clinical problems
+Design and create a platform for medical image processing, analysis, and visualization
+Requirements:
+Bachelor or higher degree level in biomedical/electrical engineering, computer science, physics or related field
+Practical experience with image processing methods as well as building convolutional neural network
+Experienced with PyTorch or Tensorflow
+Familiarity with state of the art classification models (i.e. ResNet) as well as segmentation models (i.e. UNet)
+Quantitative training in machine learning and deep learning
+Proficiency in Python, C/C++, Java, or Javascript
+Preferred:
+Participates in Kaggle competitions
+Experience with development/deployment tools (AWS, Git, Docker, Jenkins, etc)
+Knowledge of medical imaging modalities and whole slide images
+Understanding of anatomy, physiology, and imaging/radiation physics

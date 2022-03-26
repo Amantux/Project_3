@@ -1,0 +1,83 @@
+Code for America builds technology to make government services work for those who need them most. The data science team helps to define problems and discovers opportunities for all four CfA programs: GetCalFresh (food stamps), ClearMyRecord, GetYourRefund (Earned Income Tax Credit), and Integrated Benefits (combined safety net applications). This particular role will primarily focus on ClearMyRecord and any exploratory criminal justice projects.
+
+As a Senior Data Scientist, you'll help us better understand user needs, behaviors, and outcomes. Based on analysis of surveys and observational data and in consultation with qualitative researchers, you'll design experiments to test new ideas for improving user experiences and outcomes. You'll be responsible for sharing what you've learned from your analyses to non-technical audiences within and outside of CfA.
+
+We're looking for someone who is curious about people, technology systems, and government, but excited to solve real world problems. We strongly value empathy, initiative, and pragmatism.
+
+Your work will involve:
+
+Building models to sharpen our understanding of where our users are having trouble
+
+Working with qualitative researchers to generate hypotheses about how to help our users
+
+Designing and analyzing experiments to test those hypotheses and measure causal effects
+
+Designing, administering, and analyzing surveys
+
+Explaining your results and their implications for our services to engineers and designers
+
+Example tasks and projects:
+
+Analyze criminal justice data sets to estimate the impact of proposed record clearance reforms
+
+Design an experiment to compare the efficacy of different reminder message strategies
+
+Use government datasets and policy reports to ballpark the impact of getting more people in certain states an unclaimed benefit.
+
+This role is based in San Francisco, is a full-time opportunity, and reports to the Data Science Manager.
+
+Requirements for this role include:
+
+Expert fluency with R, python (pandas, scipy, numpy), or another modern statistics suite
+
+Deep, varied experience with data wrangling and data management
+
+Solid understanding of a wide range of statistical concepts and methods
+
+Ability to clearly communicate findings to experts or a general audience
+
+At least three years of highly relevant experience or a Ph.D.
+
+Our ideal candidate:
+
+Intellectually curious and self-driven
+
+Conscientious, detail-oriented, and a critical thinker
+
+Interested in a variety of policy issues and social problems
+
+Has a strong desire to collaborate
+
+Comfortable sharing early work to refine ideas and approaches; comfortable seeking out help when in doubt
+
+Enjoys working cross-functionally - including with PMs, engineers, and qualitative researchers
+
+Enjoys learning from and teaching others
+
+Practical and focused on maximizing work that can help our users
+
+Manages time well, prefers getting to "good enough" on a few projects rather than "perfect" on a single project
+
+Doesn't hesitate to seek out new data or methods when doing so might improve user experiences or outcomes
+
+Comfortable managing a portfolio of projects
+
+Capable of quickly scoping and designing new research projects
+
+Extra Credit:
+
+Personal experience with the justice system, social safety net, workforce training, or other mission-relevant government services.
+
+Familiar with at least one area of academic research on criminal justice
+
+Benefits
+
+Code for America offers full health and dental benefits, a 401k plan with matching funds and a culture that is collaborative, hardworking and fun.
+
+About Code for America
+
+Code for America is a startup non-profit with a great culture and a huge opportunity to make a difference. We work in cross-functional teams, collaboratively and agilely and value high-quality, user-friendly work product. We strive to learn from everything we do and regularly host talks from leaders in the civic technology movement. We respect each other, work hard, and have a great time together. We're looking for individuals who share our vision, our values, and our willingness to do what it takes to achieve an ambitious mission over the next few years.
+
+Equal Employment Opportunity
+
+Code for America values a diverse workplace and strongly encourages women, people of color, LGBT individuals, people with disabilities, members of ethnic minorities, foreign-born residents, and veterans to apply. Code for America is an equal opportunity employer. Applicants will not be discriminated against because of race, color, creed, sex, sexual orientation, gender identity or expression, age, religion, national origin, citizenship status, disability, ancestry, marital status, veteran status, medical condition or any protected category prohibited by local, state or federal laws.

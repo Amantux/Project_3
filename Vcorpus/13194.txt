@@ -1,0 +1,51 @@
+Location: Novi, MI- United States
+Job ID: 20WD40470
+
+Position Overview
+Do you thrive in an environment where you can work on engaging and challenging projects? Do you have a start-up mentality? Every year Autodesk hires talented engineers to join our global teams and benefit from unlimited access to our technology and industry mentors. If this sounds like you… let's talk.
+
+We are growing our Business Platform Services team within the Enterprise IT organization to enhance the company’s IT systems, applications, and processes. Our engineering culture will empower you to make effective decisions, work collaboratively, and take accountability for engineering projects at the core of the company. The team is seeking an experienced DevOps Engineer and technologist to help guide this team in their journey towards becoming a world-class engineering team.
+
+The Enterprise Logging and Analytics team manages state-of-the-art logging platforms like Splunk and Elastic. We empower teams with data discoverability, analytics, and actionable insights enabling the delivery of secure, compliant, and resilient systems. We are looking for a self-motivated engineer who is proficient and passionate about Data and Logging technologies who can work with
+
+Responsibilities
+Design, develop and deliver scalable and automated services architecture
+Develop APIs to simplify service consumption by end-users and engineers
+Write software delivery pipelines for various enterprise customers and services
+Enable resilience and high availability for numerous platforms, from bleeding-edge cloud applications to residual legacy environments
+Ensure full-stack software solutions are architected and delivered using industry-leading DevOps best practices and technologies
+Collaborate to define best practices and standards around DevOps and Service Resilience
+Create reusable automation libraries that can be applied across the enterprise
+Determine HA/DR, Security, Capacity, and Compliance strategies for existing and new applications
+Develop Usage Standards, User Self-Service designs, and reporting on application KPIs
+Write programs to generate metrics to facilitate a deep understanding of the service
+Help to ensure the engineering team successfully delivers on critical projects and initiatives
+Optimize and support our existing public cloud or data center based solutions and workloads
+Minimum Qualifications
+4 Yrs of Experience in Splunk and/or Elastic
+3 Yrs Experience with Windows and *nix systems
+Hands-on experience in AWS
+Hands-on experience in Dev Ops build and/or environment automation
+Software engineering and development experience
+Experience with version control systems, like Git
+Hands-on experience with AWS (EC2, Lambda, S3, RDS, VPC, Route 53, CloudWatch, CloudTrail, and IAM)
+Hands-on experience with Orchestration tools (Jenkins, Docker, Ansible, Chef/Puppet, etc.)
+Deep understanding of security best practices and standards around cloud computing and access management
+Proficiency with at least one of these scripting languages: Python, JavaScript, Java
+Experience with various database technologies (NoSQL, SQL)
+Preferred Qualifications
+Graphana, Kinesis, Hadoop
+Data Engineering
+Machine Learning
+Bachelor's degree, preferably in Computer Science, Computer Engineering, or related quantitative field
+The Ideal Candidate
+Deals well with ambiguous or undefined problems; ability to think abstractly and guide others
+Comfortable performing requirements analysis, interfacing with stakeholders of various levels and documenting solutions
+Excellent interpersonal skills
+Ability to articulate technical topics to non-technical audiences both in writing, in diagrams and person
+Demonstrable IT knowledge commensurate with DevOps in an Enterprise, both on-premise, off-premise and public cloud (AWS)
+Strong leadership acumen
+Willing to flex your behavioral style to meet the needs of the team or work at hand
+Confident of your skills, abilities and willing to share what you know, while learning from others
+Join us in Novi, Michigan!
+Novi continues to be one of the fastest-growing cities in Michigan and ranks among the top of its neighboring county communities for research, technology, and service companies. The city is located approximately 25 miles northwest of the center of Detroit and 25 miles from the center of Ann Arbor.

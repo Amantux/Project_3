@@ -1,0 +1,37 @@
+Sema4 is a health information company founded on the idea that more information, deeper analysis, and increased engagement will improve the diagnosis, treatment, and prevention of disease. A Mount Sinai Health System venture based in Stamford, Conn., Sema4 is enabling physicians and consumers to more seamlessly engage the digital universe of data, from genetic test results and clinical records to wearable sensor metrics and more. The company currently offers advanced genome-based diagnostics for reproductive health, oncology, and pharmacogenomics, and is building predictive models of disease biology. Sema4 believes that patients should be treated as partners, and that data should be shared for the benefit of all.
+
+Sema4, is seeking a Data Scientist to join Clinical Informatics team to develop and study novel approaches in translational medicine, or the application of analytic and interpretive methods to optimize the transformation of integration of EMR and multi-omics data of many types into proactive, predictive, preventative, and wellness. Our goal will be advancing novel diagnostics, therapeutics, and insights into both diseases and wellness; with the aim to deliver clinical applications into practice and help clinicians work more efficiently and bring impact to improve patient outcomes. We are developing innovative new features within and alongside the frameworks and clinical applications utilized in the comprehensive big data domain. The right candidate will work with software engineers and other data scientists in the Clinical Informatics team, and others in R&D including bioinformatics and product teams in a multidisciplinary environment.
+
+RESPONSIBILITIES
+
+Develop and apply topological analysis method for disease subtypes stratification and deep phenotyping profile for patients.
+
+Build machine learning and deep learning pipelines for disease risks by integrated big data analytics using various database sources, including multi-omics data, EMR, behavioral, environmental, and imaging data.
+
+Build drug risk models for advancing medication indication or new side effects identification as cost-effective regimen.
+
+Collaborate with team members and other scientists on analyzing EMR and genomic data for eMERGE algorithm development.
+
+Work with business development team for collaborating with pharmaceutical / payer to identify patient cohorts for drug repurposing and observational studies and to deliver clinical utilities.
+
+Bring experience in machine learning with a proven track record of developing and applying advanced computational techniques to solve complex disease problems.
+
+Experience working with high-performance computing clusters, especially ones designed for AI/machine learning applications.
+
+REQUIREMENTS
+
+PhD in Computer Science, Computer Engineering, Bioinformatics, or Computational Biology related field.
+
+2+ years’ experience in post-graduate or healthcare/biotech/pharma experience in analyzing large data sets with advanced analytics approaches.
+
+Deep knowledge of advanced machine learning methodologies such as deep learning, deep imaging learning on radiology or pathology images, and natural language processing.
+
+Strong background in developing new algorithms and implementing algorithms from the scientific literature.
+
+Solid experience with programming and scripting (R, Python, Java, etc.)
+
+Experience with SQL, Oracle databases
+
+High-performance AWS computing experience preferred
+
+Excellent written and oral communication skills and ability to build strong relationships.

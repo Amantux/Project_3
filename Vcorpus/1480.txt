@@ -1,0 +1,61 @@
+Why choose between doing meaningful work and having a fulfilling life? At MITRE, you can have both. That's because MITRE people are committed to tackling our nation's toughest challenges—and we're committed to the long-term well-being of our employees. MITRE is different from most technology companies. We are a not-for-profit corporation chartered to work for the public interest, with no commercial conflicts to influence what we do. The R&D centers we operate for the government create lasting impact in fields as diverse as cybersecurity, healthcare, aviation, defense, and enterprise transformation. We're making a difference every day—working for a safer, healthier, and more secure nation and world. Our workplace reflects our values. We offer competitive benefits, exceptional professional development opportunities, and a culture of innovation that embraces diversity, inclusion, flexibility, collaboration, and career growth. If this sounds like the choice you want to make, then choose MITRE—and make a difference with us.
+
+MITRE’s Communications Network Engineering and Analysis Department, T861, which is part of MITRE’s Infrastructure and Networking Technical Center, has as its mission to provide premier communications network engineering services for our customers at all classification levels. Our core competencies are as follows:
+Information Technology (IT) & Operational Technology (OT) Enterprise Networks
+Commercial and Tactical Wireless Networks
+Secure and High Availability Networking
+Network Protocol Design & Development
+Prototyping and Proof-of-Concept Implementations
+Network Performance Monitoring and Management
+Network Performance Analysis, Modeling, and Simulation
+Our engineers have expertise in research, design, analysis, modeling and simulation, lab experimentation, field testing, and implementation of networks across a diverse set of networked communication environments including virtual, wired, and wireless. We are adept at combining networking research and innovation with practical hands-on experience to provide risk reduction and deployable solutions for our customers.
+
+Our lab facilities in McLean, VA are equipped to meet the requirements of projects at any scale. The lab is furnished with state-of-the-art carrier grade LTE infrastructure, commercial routers and switches, accelerators, cryptographic devices, networking test equipment (e.g. Ixia, BreakingPoint), virtualization environments, network and data center management tools, IoT and ICS devices, military radios, modeling and simulation software and custom network emulation and wireless network planning products. There is an additional lab facility at the MITRE San Diego site with targeted capabilities and connectivity to the lab in McLean and other MITRE locations.
+
+We are seeking a driven and experienced lead networking engineer with an applied research mindset and a balance of hands-on technical, project management and business development skills. The ideal candidate will have deep subject matter expertise in networking protocols and technologies with insights to understand and translate customer challenges into actionable, impactful outcomes in support of the customer’s mission. Once hired, the candidate will be expected to lead one or more large-scale, complex networking-related projects.
+
+Key Functions:
+
+Specific duties will vary by project but will generally include a combination of research, design, analysis, testing, experimentation, and/or modeling and simulation of to address complex questions regarding security, design, and performance of communications networks that are faced by MITRE’s customers.
+
+As the government’s not-for-profit, trusted, unbiased advisor, MITRE performs advanced networking research that is very different from operational networking support. Our work does not involve administering, operating, troubleshooting, or otherwise maintaining a production network.
+
+Example functions of technical leaders in our organization are below:
+Perform systems engineering, design, analysis, and experimentation of networks.
+Serve as a thought leader in advanced networking concepts through publication in technical journals, conferences, external exhibitions, standards bodies, panels, patent applications, etc.
+Willingness to mentor early career staff, contributing to their development technically and professionally.
+Develop technical research ideas and craft proposals for research initiatives.
+Engage with customers to analyze operational requirements, address networking challenges, apply sound technology solutions, and advance the state of networking to benefit the sponsor mission.
+Design and analyze complex networks to align with requirements.
+Evaluate, validate, integrate, and design new protocols and technologies to meet sponsors missions.
+Lead red-team efforts to uncover the root cause of performance issues in complex operational environments.
+Rapid lab prototyping, field testing, technical benchmarking, and modeling and simulation.
+Develop additional project opportunities to expand the technical work portfolio of the organization.
+Minimum Qualifications:
+Bachelor’s Degree and 8+ years of experience in network research and engineering.
+Applicants selected for this position will be subject to a government security investigation and must meet eligibility requirements for access to classified information.
+Required Qualifications:
+Obtain and maintain a Secret level security clearance.
+Deep understanding in the theory and implementation of network routing and transport protocols, systems, and standards with the ability to derive operational implications (implementation, interoperability, performance, security).
+Knowledge of network security standards and architectures, including Multi-Level Security issues and solutions.
+Demonstrated hands-on skills in a lab environment for rapid prototyping and testing.
+Familiarity with network performance testing, measurement, and analysis techniques and tools.
+Demonstrated thought leadership and customer engagement skills.
+Excellent written and verbal communication and presentation skills.
+Desire to grow and foster relationships and collaborative opportunities with academia and industry.
+Passionate about staying up-to-date with emerging technologies through continued learning, active engagement with academia and industry, and a desire to remain hands-on.
+Willingness to mentor early career staff, contributing to their development technically and professionally.
+Preferred Qualifications:
+MS or PhD in Computer Science or Electrical Engineering and 15+ years of experience in network research and engineering.
+Active TS/SCI Clearance.
+Experience in one or more of the following areas:
+Tactical or commercial wireless protocols, networks, systems, and standards derivation of operational implications (implementation, interoperability, performance, security)
+Industrial control systems (ICS) design, deployment, and operations, with emphasis in ICS communication protocols, architecture design, data management, and security.
+Network time synchronization protocols, time-dependent applications, and precise measurement of time intervals.
+Global Positioning System (GPS) fundamentals, synchronous networks, frequency standards, and counters.
+Embedded system programming, including Linux kernel/module development, IP packet processing, or TCP/UDP/IP sockets programming.
+MITRE is proud to be an equal opportunity employer. MITRE recruits, employs, trains, compensates, and promotes regardless of race, religion, color, national origin, gender, gender expression, sexual identity, disability, age, veteran status, and other protected status.
+
+MITRE intends to maintain a website that is fully accessible to all individuals. If you are unable to search or apply for jobs and would like to request a reasonable accommodation for any part of MITRE’s employment process, please contact MITRE’s Recruiting Help Line at 703-983-8226 or email at recruitinghelp@mitre.org.
+
+Copyright © 1997-2020, The MITRE Corporation. All rights reserved. MITRE is a registered trademark of The MITRE Corporation. Material on this site may be copied and distributed with permission only.

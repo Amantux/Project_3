@@ -1,0 +1,40 @@
+Data EngineerData Engineer
+
+You will support the engineering team's data endeavors, diving in to fix issues, optimize processes, and automate what you do more than once. You'll use the best tools for the job, whether modern and revolutionary or time tested and proven, to deliver elegant, scalable solutions that meet business and technical needs.
+
+• Work with internal stakeholders to load data into the data warehouse
+• Troubleshoot and resolve issues relating to data integrity
+• Help establish procedures and best practices for transforming and storing data
+• Lead requirements gathering around data pipeline automation improvements
+• Work with some of the most exciting open-source tools like Spark, Hadoop, Docker, Airflow, Zeppelin
+• Leverage distributed computing and serverless architecture such as AWS EMR & AWS Lambda, to develop pipelines for transforming data
+• Enjoy the peace that comes with working in a mature software development environment
+• Marvel at the speed with which your creation makes it into production
+• Research and implement new technologies with a team of developers to execute strategies and implement solutions
+• Produce peer reviewed quality software
+• Solve complex problems related to the real-time discovery of large data
+
+• Experienced in writing scalable applications on distributed architectures
+• Data driven, testing and measuring as much as you can
+• Eager to both review peer code and have your code reviewed
+• Comfortable on the command line and consider it an essential tool
+• Confident in SQL, you know it, write smart queries
+
+Required skills and experience
+
+• 5+ years of work experience
+• 3+ years of experience with Python
+• 3+ years of experience with PySpark and Spark-SQL (writing, testing, debugging spark routines)
+• 1+ years of experience with AWS EMR, AWS S3 service. Comfortable using AWS CLI and boto3
+• Comfortable working in remote environments
+• Comfortable using *nix command line (shell scripting, AWK, SED)
+• Experience with MySQL and Postgres
+Desired experience
+
+• Experience with Apache Airflow
+• Experience with Apache Zeppelin
+• Experience with healthcare data
+
+Interested candidates please send resume in Word format Please reference job code 528434 when responding to this ad.
+
+Job Requirements:

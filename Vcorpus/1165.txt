@@ -1,0 +1,65 @@
+Site Name: USA - Pennsylvania - Upper Providence, UK - Hertfordshire - Stevenage
+Posted Date: Jun 23 2020
+
+We are seeking a genomic data scientist with a track record of supporting innovative, high quality research by managing and analyzing large volumes of genetic and genomic data and results in a distributed database and analytical environment.
+
+GSK aims to improve the number of successful late stage clinical trials for innovative medicines, by both identifying and advancing drug targets that have strong evidence of a causal role in disease biology. The Human Genetics team leverages major scientific and technological advances, including investment in biobanks linked to large-scale human health databases, cutting-edge informatics platforms, breakthrough understanding of biological pathways, functional genomics capabilities built upon rapid progress in gene editing, and leading industry-academia partnerships, in order to identify the best targets and to continue evaluation of targets through their life in the pipeline.
+
+The successful candidate will work in a multidisciplinary, collaborative and scientifically driven environment, interacting with GSK scientists and key academic collaborators to advance drug discovery and clinical development in multiple disease areas. This research will leverage industry-leading data and compute resources, to address important drug discovery and development challenges, to directly impact GSKs R&D pipeline, and to publish in top scientific journals.
+
+The selected Genomic Data Scientist(s) will:
+Develop and implement robust software platforms to efficiently ingest, curate, query and analyze, human genetic, genomic, and clinical/phenotypic data, to inform target selection and validation decisions across a range of disease areas.
+Leverage the opportunities and efficiencies afforded by access to hybrid cloud-based, distributed ecosystem of technologies
+Participate in project teams of GSK scientists and external collaborators to develop novel genetic data analyses, providing and following best practices of efficiently work with large volumes of data on modern storage and computational platforms.
+Guide creative solutions to challenging scientific questions from early proof-of-concept stages to production deployments
+Develop analytics tools and applications to enhance the productivity of scientists within Human Genetics and across the Research organization.
+Why you?
+Basic Qualifications:
+
+
+We are looking for professionals with these required skills to achieve our goals:
+Masters or equivalent experience in genetics, bioinformatics, or related life sciences applications.
+Enterprise, industry experience in SQL and either R or Python software development, with track record of developing production quality software pipelines, applications, or packages/libraries.
+Experience working in a distributed data and compute environment (e.g. Apache Hadoop ecosystem). Experience with Apache SparkTM is a significant advantage.
+Proficient in management and analysis of large volumes of genetic/genomic data and results
+Excellent communication and influencing skills and developing leadership skills for working with multidisciplinary teams and with international colleagues.
+Preferred Qualifications:
+
+
+If you have the following characteristics, it would be a plus:
+Ability to discuss genomic data types and analyses used in early target discovery.
+Experience with data and/or results from large scale genetic association studies (e.g. GWAS or PheWAS) or large scale functional genomic data.
+Experience with complex longitudinal human clinical/phenotype data, e.g. from electronic health records, epidemiological cohorts, or clinical trials.
+Why GSK?
+
+
+Our values and expectations are at the heart of everything we do and form an important part of our culture.
+
+These include Patient focus, Transparency, Respect, Integrity along with Courage, Accountability, Development, and Teamwork. As GSK focuses on our values and expectations and a culture of innovation, performance, and trust, the successful candidate will demonstrate the following capabilities:
+Agile and distributed decision-making using evidence and applying judgement to balance pace, rigour and risk.
+Managing individual and team performance.
+Committed to delivering high quality results, overcoming challenges, focusing on what matters, execution.
+Implementing change initiatives and leading change.
+Sustaining energy and well-being, building resilience in teams.
+Continuously looking for opportunities to learn, build skills and share learning both internally and externally.
+Developing people and building a talent pipeline.
+Translating strategy into action - a compelling narrative, motivating others, setting objectives and delegation.
+Building strong relationships and collaboration, managing trusted stakeholder relationships internally and externally.
+Budgeting and forecasting, commercial and financial acumen.
+GSKGenetics
+
+As a company driven by our values of Patient focus, Transparency, Respect and Integrity, we know inclusion and diversity are essential for us to be able to succeed. We want all our colleagues to thrive at GSK bringing their unique experiences, ensuring they feel good and to keep growing their careers. As a candidate for a role, we want you to feel the same way.
+
+As an Equal Opportunity Employer, we are open to all talent. In the US, we also adhere to Affirmative Action principles. This ensures that all qualified applicants will receive equal consideration for employment without regard to race/ethnicity, colour, national origin, religion, gender, pregnancy, marital status, sexual orientation, gender identity/expression, age, disability, genetic information, military service, covered/protected veteran status or any other federal, state or local protected class*(*US only).
+
+We believe in an agile working culture for all our roles. If flexibility is important to you, we encourage you to explore with our hiring team what the opportunities are.
+
+Please dont hesitate to contact us if youd like to discuss any adjustments to our process which might help you demonstrate your strengths and capabilities. You can either call us on 0808 234 4391, or send an email ukdiversity.recruitment@gsk.com
+
+As you apply, we will ask you to share some personal information which is entirely voluntary. We want to have an opportunity to consider a diverse pool of qualified candidates and this information will assist us in meeting that objective and in understanding how well we are doing against our inclusion and diversity ambitions. We would really appreciate it if you could take a few moments to complete it. Rest assured, Hiring Managers do not have access to this information and we will treat your information confidentially.
+
+Important notice to Employment businesses/ Agencies
+
+GSK does not accept referrals from employment businesses and/or employment agencies in respect of the vacancies posted on this site. All employment businesses/agencies are required to contact GSK's commercial and general procurement/human resources department to obtain prior written authorization before referring any candidates to GSK. The obtaining of prior written authorization is a condition precedent to any agreement (verbal or written) between the employment business/ agency and GSK. In the absence of such written authorization being obtained any actions undertaken by the employment business/agency shall be deemed to have been performed without the consent or contractual agreement of GSK. GSK shall therefore not be liable for any fees arising from such actions or any fees arising from any referrals by employment businesses/agencies in respect of the vacancies posted on this site.
+
+Please note that if you are a US Licensed Healthcare Professional or Healthcare Professional as defined by the laws of the state issuing your license, GSK may be required to capture and report expenses GSK incurs, on your behalf, in the event you are afforded an interview for employment. This capture of applicable transfers of value is necessary to ensure GSKs compliance to all federal and state US Transparency requirements. For more information, please visit GSKs Transparency Reporting For the Record site.

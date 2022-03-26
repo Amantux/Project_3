@@ -1,0 +1,33 @@
+Integrate is a rapidly growing, venture-backed enterprise SaaS business that helps B2B marketers grow revenue and reduce costs. We unify demand marketing channels into a single, powerful platform that help organizations achieve quantifiable business outcomes.
+
+We have a top-tier client list that includes Dell, Cisco, Salesforce, VMWare, Rackspace, Microsoft and more. Our name defines our purpose. We believe in a better and more efficient world for B2B marketers.
+Quick Hits:
+- 9+ Years Old
+- 275 Employees
+- $80M in Funding
+
+The Senior Data Analyst is essential to drive data integrity, accuracy, completeness, and value of our business information. The role will own the creation of data measures and there associated dimensional attributes that are distributed to stakeholders. In addition, this role will help to integrate/define enterprise data and distribute their definitions to ensure that stakeholders understand how to use the data for their specific purposes.
+What You'll Do:
+Develop strong partnerships with stakeholders to gather, understand and define data and reporting requirements, including development of multiple iterations to arrive at best solution to meet current/future needs
+Collaborate with system and business owners to understand and define the underlying data and meaning to the associated business and system processes
+Create SSAS in-memory databases in Visual Studio, along with the associated measures, definitions, relationships, and reprocessing routines
+Be the custodian of enterprise data definitions. Document, distribute, and continually improve the overall use of data terminology
+Manage enhancement/project list to establish a roadmap and meet critical deadlines essential to the business
+Develop Power BI and Excel solutions that will provide answers to business leadership questions
+Consistently researching and learning new abilities in the Power BI ecosystem to enhance current and future solution development
+Improve database performance through review of tables, partitions, and its indexing to support standard data loads and queries
+Create custom data integrations with various business SaaS purchases (like Workfront and Zuora) through Azure Data Factory where data can be pulled from SaaS APIs via Python, etc. and moved into SQL Server
+What You Offer:
+2+ years of experience working with Microsoft SQL Server Analysis Services and Power BI
+Understanding of how to use a Data Warehouse to obtain data for Power BI/Excel solutions through Analysis Services
+Strong experience with Visual Studio to develop Analysis Services solutions and deployment of SSAS models into Azure
+Data gathering, reporting, and analytical thinking skills
+Ability to work independently or within a team environment
+Drive and desire to learn and grow quickly with the pace of Microsoft product improvements
+Strong interpersonal skills
+Integrate In The News:
+Integrate Named Top Tech Startup in Phoenix
+Integrate Acquires Akkroo
+Integrate Acquires ListenLoop
+Why Four MarTech CEO's Bet Big on Integrate
+Typical Office Environment: Requires extensive sitting with periodic standing and walking. May be required to lift up to 35 pounds unassisted. May be required to lift over 35 pounds using assistive device and/or team lift. Requires significant use of personal computer, phone and general office equipment. Needs adequate visual acuity, ability to grasp and handle objects. Needs ability to communicate effectively through reading, writing, and speaking in person or on telephone.

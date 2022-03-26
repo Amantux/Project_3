@@ -1,0 +1,14 @@
+In this role you will
+Design and implement distributed scalable services from ground-up. These services will form the building blocks of our cloud-native SaaS platform. These include (but are not limited to) data processing pipeline, encryption service, telemetry and metrics collection, distributed logging etc.
+Work on operational readiness of these services.
+Debug and solve fault-tolerance and high availability issues related to these services.
+Work together in a highly motivated team of engineers.
+Requirements
+Highly motivated self-starter with a builder's mindset
+3+ years industry experience designing, implementing and supporting distributed components of a large-scale system in production.
+Deep expertise in one or more languages such as golang, Java, C++ etc. (but not limited to these).
+Preferred: experience in public cloud technologies (AWS, Azure, GCP etc.).
+We hire at various levels of experience.
+Clumio provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.

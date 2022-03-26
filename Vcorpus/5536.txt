@@ -1,0 +1,235 @@
+Read what people are saying about working here. Job Description:
+
+H2M Group is seeking a Senior Data Scientist to join our
+
+team!
+
+Data Scientists develop and apply methods to identify,
+
+collect, process, and analyze large volumes of data to
+
+build and enhance GEOINT products, processes, and
+
+systems. They conduct data mining and retrieval and
+
+apply statistical and mathematical analyses to identify
+
+trends, solve analytical problems, optimize performance,
+
+and gather intelligence. They visualize information
+
+using a range of tools (e.g., GIS, R), develop scripts
+
+and algorithms, create explanatory and predictive
+
+models, and conduct comparative analyses to address
+
+complex military and intelligence problems. The
+
+Contractor shall provide data science services within
+
+the support of GEOINT analysis. Knowledge of data
+
+science, methodologies, and processing techniques shall
+
+be employed on behalf of GEOINT analysts and community
+
+customers while providing operational support.
+
+Individual data scientists shall have applied knowledge
+
+in three distinct areas depending on mission
+
+requirements. These services include, but are not
+
+limited to:
+
+Develop methods for querying, visualizing,
+
+aggregating, and correlating big data across
+
+intelligence disciplines.
+
+Optimize existing databases to speed up the query,
+
+input, export, and visualization of data.
+
+Work with AOS and AOB team to develop strategies for
+
+exposing new datasets and create migration plans for
+
+legacy datasets.
+
+Build custom solutions (tools, processes, etc.) to
+
+automate or assist analytic endeavors as submitted
+
+by AOS and AOB leadership and analytic units.
+
+Write scripts in Visual Basic, R, Python or other
+
+software for statistical models using large datasets
+
+to extract patterns, relationships, and anticipatory
+
+behaviors that are repeatable, efficient, hypotheses
+
+testing, and knowledge capture.
+
+Use mathematical concepts and techniques to solve
+
+complex GEOINT analysis problems sets; understand
+
+concepts associated with structured data and
+
+relational databases.
+
+Use tools, such as Arc GIS, Excel, SPSS, SAS,
+
+MatLab, R, or other statistical packages, to analyze
+
+and visualize operational data; visualize data both
+
+temporally and spatially to assist in data integrity
+
+checks, prepare for follow-on analysis, ask the next
+
+question, and display analytical assessments.
+
+Maintain, move and manipulate data between
+
+applications, using appropriate software; SQL
+
+databases, ArcServer, table data, relational/NoSQL
+
+DBMS, Microsoft EXCEL spreadsheets, ACCESS database
+
+management system, Tableau, Insights, ORACLE, and
+
+analyst provided data for ingest and cleaning.
+
+Be available for troubleshooting access and
+
+performance issues.
+
+Develop tradecraft techniques and training solutions
+
+for discovery, preparation, manipulation and
+
+normalization of big data so that methods are
+
+repeatable and can be explained to users.
+
+Requirements:
+
+Active TS/SCI
+
+11+ years of relevant experience
+
+A bachelor's degree in a field related to the
+
+support services may count for up to four years of
+
+this experience. A master's degree in a field
+
+related to the support services may count for up to
+
+two additional years of this experience.
+
+Experience applying multidisciplinary mathematical
+
+and statistical models via programming language to
+
+large datasets to extract patterns, relationships
+
+and anticipatory behavioral likelihoods that may not
+
+be apparent using traditional single discipline
+
+means.
+
+Experience in developing tradecraft techniques and
+
+training solutions for discovery, preparation,
+
+manipulation and normalization of big data so that
+
+methods are repeatable and can be explained to
+
+analysts.
+
+Experience using mathematical concepts and
+
+techniques to solve complex GEOINT analysis problem
+
+sets; understand concepts associated with structured
+
+data and relational databases.
+
+Experience understanding and explaining the
+
+relationship between the data collected for a
+
+real-world problem and the required structure of a
+
+relational database to help solve that problem.
+
+Experience conceptualizing the relationship between
+
+a database structure and the requirements for
+
+analyzing and visualizing those data both temporally
+
+and spatially.
+
+Experience writing scripts in Visual Basic, R,
+
+Python, Java, Javascript, C++ or other software for
+
+modeling processes, with a focus on repeatability,
+
+efficiency, knowledge capture, and hypothesis
+
+testing.
+
+Experience using tools, such as ArcGIS, Excel,
+
+Python, SPSS, R, or other statistical packages, to
+
+analyze and visualize data; visualize data both
+
+temporally and spatially to assist in data integrity
+
+checks, ask the next question, and display
+
+analytical assessments.
+
+Experience maintaining, moving and manipulating data
+
+between application, using appropriate software
+
+and/or Extract-Transform-Load (ELT) procedures:
+
+Microsoft EXCEL spreadsheets, ACCESS database
+
+management system and/or ORACLE, Postgresql, or SQL
+
+Server and importing and cleaning analyst-provided
+
+datasets (Excel, geospatial data, etc.).
+
+Experience using statistical software (SPSS, SAS,
+
+MatLab etc.), desktop software (MS Office and
+
+Access), and the Windows operating environment. Of
+
+particular importance is software packages used for
+
+advanced statistical analysis of operational data.
+
+Desired Skills:
+
+Bachelors or graduate level degree in Data Science or a
+
+related field.

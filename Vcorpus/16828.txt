@@ -1,0 +1,22 @@
+At SpringML, we are all about empowering the doers in companies to make smarter decisions with their data. Our predictive analytics products and solutions apply machine learning to todays most pressing business problems so customers get insights they can trust to drive business growth. We are a tight knit, friendly team of passionate and driven people who are dedicated to learning, get excited to solve tough problems and like seeing results, fast.
+
+Your primary role will be to design and build data pipelines. You will be focused on designing and implementing solutions on Hadoop, Spark, Pig, Hive. In this role you will be exposed to Google Cloud Platform including Dataflow, BigQuery and Kubernetes so the ideal candidate will have a strong big data technology foundation and bring a passion to learn new technologies. If you believe you have these skills please email your resume to info@springml.com.
+
+Required Skills:
+4-7 years Python and Java programming
+3-5 years knowledge of Java/J2EE
+3-5 years Hadoop, Big Data ecosystem experience
+3-5 years of Unix experience
+Bachelors in Computer Science (or equivalent)
+Duties and Responsibilities:
+Design and develop applications utilizing the Spark and Hadoop Frameworks or GCP components.
+Read, extract, transform, stage and load data to multiple targets, including Hadoop, Hive, BigQuery.
+Migrate existing data processing from standalone or legacy technology scripts to Hadoop framework processing.
+Should have experience working with gigabytes/terabytes of data and must understand the challenges of transforming and enriching such large datasets.
+Additional Skills that are a plus:
+C, Perl, Javascript or other programming skills and experience a plus
+Production support/troubleshooting experience
+Data cleaning/wrangling
+Data visualization and reporting
+Devops, Kubernetes, Docker containers
+Powered by JazzHR

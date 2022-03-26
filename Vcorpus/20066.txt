@@ -1,0 +1,61 @@
+Job ID
+762540BR
+
+Location
+
+New York, New York, United States
+
+Business
+Disney Streaming Services
+
+Date posted
+Jun. 22, 2020
+Job Summary:
+Comprised of Disney’s international media businesses and the Company’s various streaming services, the Direct-to-Consumer and International (DTCI) segment aligns technology, content and distribution platforms to expand the Company’s global footprint and deliver world-class, personalized entertainment experiences to consumers around the world.
+
+The Walt Disney Company’s Direct-to-Consumer and International segment (DTCI) is a global, multiplatform media, technology and distribution organization for high-quality content created by Disney’s Studio Entertainment and Media Networks groups.
+
+DTCI includes Disney’s international media operations and the Company’s direct-to-consumer businesses globally, including the upcoming Disney-branded direct-to-consumer streaming service, the Company’s ownership stake in Hulu, and the ESPN+ sports streaming service, programmed in partnership with ESPN. BAMTECH Media, developer of the ESPN+ and Disney-branded streaming platforms, oversees all consumer-facing digital technology and products across the Company as part of the Direct-to-Consumer and International segment.
+
+We are looking for an experienced Senior Analyst to join our Data Instrumentation & Quality team. This role requires acute attention to detail, a strong sense of accountability, collaboration skills, and extensive hands-on experience with data quality processes and specification writing. This role will be tasked with creating high quality datasets by writing detailed tracking specifications and performing ongoing data quality testing for our clickstream tracking solution, working directly with product and our front-end development teams for consumer facing product features.
+
+At DSS, data is central to measuring all aspects of the business, and critical to its operations and growth. As a part of Data Governance, Data Instrumentation & Quality works closely with data stakeholders, front-end technology teams, data engineering, and back-end services for consistent collection and usage of business critical KPIs and data points.
+Responsibilities:
+
+Create high quality data instrumentation requirements via actionable JIRA specifications for critical business use cases
+Perform cross system data validation and investigations to discover data inconsistencies, raising bug tickets outlining path to remediation for development teams
+Serve as a point of contact for front-end engineering teams for any questions or issues resulting with specifications, requirements or bugs
+Perform data quality testing and assurance as a part of the front-end engineering’s continuous delivery and deployment lifecycle via device testing and automation
+Serve as a SME on product interface and capabilities for select front-end devices
+Perform data quality audits, identify data instrumentation issues, suggest improvements and help implement fixes
+Provide support to escalate and triage data quality issues across the data and engineering organizations, outlining path to remediation and raising required engineering work
+Understand business requirements, translating them into actionable JIRA specifications including how data should be tracked, tested and measured for analysis, reporting and data quality assurance
+Basic Qualifications:
+
+Strong experience in documenting requirements from a product and data perspective for engineering consumption
+Data quality automation and testing experience as a part of a continuous delivery and deployment engineering process
+High familiarity with JIRA oriented product ticketing practices, agile engineering principles and theory for backlog and project management
+Exceptional interpersonal skills and written communication skills
+Excellent written and verbal communication skills. Able to communicate anywhere from the team level to C-level executives.
+Knowledge of services oriented architecture and development practices, including implementation of analytics and clickstream tracking
+2+ years of either Python, Pyspark or SQL
+Preferred Qualifications:
+
+Minimum 3 years of experience in the technology industry, knowledge of clickstream datasets a plus.
+High familiarity with data platforms and applications such as Databricks, Jupyter, Snowflake, Redshift, Airflow
+Familiarity with client oriented development in languages such as Swift or Objective C
+Experience working across marketing platforms such as Kochava, Adobe Analytics, Adobe Tag Manager, Flashtalking, Google Ads, Campaign Manager, DV360, Bing Ads, Facebook, Datorama, Segment, Alooma, BlueKai and Salesforce Marketing Cloud
+Preferred Education
+BA or BS in a quantitative field (Business, Math/Statistics, Economics, CS, Engineering, or similar) is desired
+About Disney Streaming Services:
+
+
+Disney Streaming Services is responsible for developing and operating The Walt Disney Company’s direct-to-consumer video businesses globally, including the ESPN+ premium sports streaming service; Disney+, the dedicated streaming home for entertainment from Disney, Pixar, Marvel, Star Wars, National Geographic and BAMTECH Media, a global leader in direct-to-consumer video streaming products and solutions. Our core mission is to deliver global audiences the freedom to access content on their terms across any connected device, time or location. We serve consumers by bringing the world’s most beloved characters, timeless stories, legendary athletes, and epic sporting events to global audiences through best-in-class direct-to-consumer video services. We strive daily to imaginatively challenge convention with innovative technology that gives consumers the freedom to access content on their terms across any connected device, time or location.
+
+About The Walt Disney Company:
+
+
+The Walt Disney Company, together with its subsidiaries and affiliates, is a leading diversified international family entertainment and media enterprise with the following business segments: media networks, parks and resorts, studio entertainment, consumer products and interactive media. From humble beginnings as a cartoon studio in the 1920s to its preeminent name in the entertainment industry today, Disney proudly continues its legacy of creating world-class stories and experiences for every member of the family. Disney’s stories, characters and experiences reach consumers and guests from every corner of the globe. With operations in more than 40 countries, our employees and cast members work together to create entertainment experiences that are both universally and locally cherished.
+This position is with Disney Streaming Services LLC, which is part of a business segment we call Disney Streaming Services.
+
+Disney Streaming Services LLC is an equal opportunity employer. Applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status. Disney fosters a business culture where ideas and decisions from all people help us grow, innovate, create the best stories and be relevant in a rapidly changing world.

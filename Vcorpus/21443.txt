@@ -1,0 +1,21 @@
+Charlotte, NC
+Long Term Contract
+W2 Ony
+
+The role entails supporting the reporting team in the fullfiment of the system data requests received through the intake process. Potential candidate will write SQL queries in order to complete the reporting requests, and must be able to clearly communicate requirements and capabilities.
+
+Responsibilities:
+Review and monitor incoming requests which are assigned in the technician’s queue
+Ensure that the critical priority requests are prioritized accordingly before any high or standard request is picked for development
+Provide Estimated Development Date and Request Status during development workflow and ensures that our reporting SLAs are being met
+Ensure correct data is pulled as per the requirement provided and that it is done in a timely fashion
+Report any data discrepancy to the analyst assigned on the request so that the analyst can review the potential issue and if needed raise the ticket with the concerned platform team
+In case of a release it is technician’s responsibility to understand the changes (for e.g. data, table structure) and reach out to business analysts in case of any clarification is needed
+
+Requirements:
+Must be technically profound in PL/SQL and MS Office
+Prior knowledge of AML/KYC reporting strongly preferred
+Should be a quick learner in a fast paced environment
+Strong communication is critical and must be clear and detailed
+Must be flexible and available on some occasions to work late if needed
+Prior knowledge of PEGA system is desired

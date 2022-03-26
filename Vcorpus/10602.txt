@@ -1,0 +1,65 @@
+Comcast brings together the best in media and technology. We drive innovation to create the world's best entertainment and online experiences. As a Fortune 50 leader, we set the pace in a variety of innovative and fascinating businesses and create career opportunities across a wide range of locations and disciplines. We are at the forefront of change and move at an amazing pace, thanks to our remarkable people, who bring cutting-edge products and services to life for millions of customers every day. If you share in our passion for teamwork, our vision to revolutionize industries and our goal to lead the future in media and technology, we want you to fast-forward your career at Comcast.   
+
+ Job Summary: 
+The Data Science Platform Labs team builds the end-to-end systems and tools that democratizes machine learning to meet the needs of business and to enable data scientists to build and deploy machine learning solutions at scale. Principal Data Scientists/Engineers within the team are responsible for leveraging internal and external data to provide insights and information which supports a facts-based decision making process. Provides input into strategy, analysis methods, and tool selection. May work independently or as part of a team on more complex projects. Provides mentoring and guidance to more junior team members. May be responsible for leading a team, but does not directly manage people.
+ 
+ Role Description: 
+The team is composed of experts in deep learning, data-structures, algorithms, distributed systems, and system performance and analysis. The systems that the team builds get used across the multitude of Comcast data science based services and deployments. The software that the team writes are horizontally scalable, fault-tolerant, well monitored, and easy to debug. This group is perfect for those scientists/engineers looking to tackle the types of deep learning at scale / distributed systems programming challenges that are critical to Comcast’s continued success. We hire people with a solid computer science / engineering background who love putting their ideas into working code.
+ 
+ Responsibilities: 
+- Develop data science platform designed to cover the end-to-end ML workflow: manage data, train, evaluate, and deploy models, make predictions, and monitor predictions. 
+- Develop system that supports traditional ML models, time series forecasting, and deep learning.
+- Developing platform systems and software to help data science scale at EBI and Comcast at large.
+- Driving execution from start to finish of strategic deep learning projects at all levels.
+- Researching and implementing algorithms and data-structures for our platform.
+- Develop load scripts and support development of data pipelines. Proactively problem solve and identify areas of improvement to guide development of industry leading tools.
+- Own the ingestion and scoring process from data receipt through storage, deployment and mapping. 
+- Comfort and experience with the art and science of extruding insight from massive, unstructured data sets.
+- Strong understanding of database structure, design, of large distributed systems, and statistical concepts.
+- Creativity to go beyond current tools to deliver best solution to the problem.
+- Lead complex interdepartmental data science programs that designs solutions across one or more technologies to ensure proper implementation and usage of algorithms.
+- Review and evaluate data scientist programs enterprise level to determine appropriate use of algorithm-driven products and solutions. 
+- Educate other departments on data science methodologies, concepts and algorithmic advancements. 
+- Lead a small group of less experienced team members on analytical projects or on cross-functional teams. Frequently serves as team lead on multiple projects, mentor and train junior team members.
+- Lead development and implementation of scalable big-data driven solutions for accurate targeting of users with relevant business treatments and efficient algorithmic inventory. Manage challenges associated with investigating and understanding large datasets, and building models based on Big Data solutions.
+- Define enterprise data strategy and data monetization processes through analysis of rich streams of unstructured data to find correlations between events and identify opportunities to optimize defined desired outcomes.
+ 
+ Competences: 
+- Architecture-you should have opinions on constructing software systems and good knowledge of the principles of fault-tolerance, reliability and durability. Solid experience building systems for scale.
+- Operating systems-you’d have good systems knowledge and a deep understanding of what makes these modern computing machines tick.
+- You should be a really good programmer-Python / Scala / Spark / C / C++ / Golang.
+- Computer Science-heavy on data-structures and algorithms.
+- Deep Learning: Tensor flow, Caffe, Torch, etc.
+- Ability to lead data science teams and choreograph delivery.
+- Ability to communicate complex concepts in easy-to-understand terminology.
+- Team player with a “can-do” attitude.
+- Lean-forward bias to find opportunities and drive results.
+- Ability to work effectively across functions, disciplines, and levels.
+ 
+ Preferred Education Level:  
+- Master’s degree in Computer Science, Engineering, Operations Research or other quantitative field.
+ 
+ Experience:  
+- 11+ years relevant working experience.
+- Experience in tech, communications, internet. 
+
+  Comcast is an EOE/Veterans/Disabled/LGBT employer   
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Philadelphia, PA 19103 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         202687-E3859D90

@@ -1,0 +1,55 @@
+Staff II SRE Data Engineer - Data Scientist
+
+Are you interested in solving complex technical challenges? Do you like working with new technology? We are looking for a Senior Data Engineer - Data Scientist to drive the overall data engineering architecture, data and analytics road map, and tool integration with the SRE platforms and tools for the VMC on AWS service. As a successful Senior Data Engineer - Data Scientist you will be a creative and seasoned engineering leader with 10+ years architecting, implementing, and delivering complex data technologies. You should have experience leading strategic architecture development, and are able to make bold recommendations on key product innovations and investments in the context of a rapidly evolving technology sector. You will provide guidance and roadmaps for the SRE monitoring, automation, service optics, and service health platforms by providing a data and analytics strategy and implementation . You will develop data models and analytics for Reliability engineering across the VMC service and SRE services.
+
+You will possess the following experience:
+
+Architecture design, and development experience around SaaS and platform software.
+
+Routine involvement in high level architectural and design discussions providing authoritative technical guidance.
+
+Experience delivering technical collateral including architecture and design documents, technical case studies, conference papers and whitepapers.
+
+Demonstrated track record of successful customer and external engagement driving influence through deep technical product and industry knowledge.
+
+Seasoned working with fellow senior engineers, architects, product management, senior management, and other partners to define the technical roadmap for the product in response to requirements.
+
+Ability and willingness to become a hands-on engineer as necessary.
+
+Qualifications and Experience:
+
+Extensive experience in software development with expertise in architecting and delivering new technologies and product features at scale in highly reliable cloud services.
+
+Experience developing scalable SaaS monitoring, automation, and logging solutions for highly reliable service offerings.
+
+Prior technical paper publications and public speaking engagements.
+
+Extensive software development experience in one or more of the following C, JAVA, C++, and Python. Experience doing so across Windows and Linux is a plus.
+
+Strong algorithmic and problem solving skills
+
+Distributed systems experience
+
+Ability to see and present "the big picture" and offer solutions to make it better.
+
+An extraordinarily intelligent, rigorous thinker who can operate successfully among very bright and charismatic people.
+
+Strong customer facing and relationship building skills
+
+You are effective in working both independently and in a team setting
+
+Ability to uncover business challenges and develop custom solutions to solve those challenges
+
+15+ years of work experience in technology industry
+
+Excellent communication skills, both written and oral are required
+
+Education:
+
+Technical undergraduate Computer Science and/or Electrical Engineering degree required and an advanced degree would be highly desirable.
+
+Position Summary
+
+VMware Cloud on AWS is an on-demand service that enables you to run applications across vSphere-based cloud environments with access to a broad range of AWS services. Powered by VMware Cloud Foundation, this service integrates vSphere, vSAN and NSX along with VMware vCenter management, and is optimized to run on dedicated, elastic, bare-metal AWS infrastructure. With this service, IT teams can manage their cloud-based resources with familiar VMware tools. The VMC SRE organization provides the platforms and services that enables the monitoring, automation, and service optics for the engineering, PM, and CSM teams.For more information: https://cloud.vmware.com/vmc-aws
+
+This position is eligible for the DiversifyCPBU referral campaign

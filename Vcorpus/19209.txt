@@ -1,0 +1,41 @@
+The Data Engineering team at Albertsons Companies is looking for an experienced Data Engineer to work for the most transformational food and drug retailers in the United States. Albertsons operates over 2,300 stores under 19 well-known banners including Albertsons, Safeway, Vons, Jewel-Osco, Shaw's, Acme, Tom Thumb, Randalls, United Supermarkets, Pavilions, Star Market, Haggen and Carrs. The company reported revenue of over $60billion from over 34 million weekly shoppers and is the third largest private company in the country.
+
+The Information Technology Department has an opening for a Data Engineer. This position is located in Pleasanton, California.
+
+Position Purpose
+
+Data Engineering at Albertsons is inspired to build best in class customer experience and revolutionize the food and drug retail industry. We are looking for people who are excited in re-imagining the grocery experience by harnessing the power of data and digital technologies. The Data Engineering team uses the Big Data paradigm to make data available for data scientist and multitude of other business users to draw insights to delight our customers, to improve store operations, to optimize supply chain and to proactively improve product lifecycle. You will enjoy working with one of the richest data sets in the world, cutting edge technology, and the ability to see your insights turned into business impacts on regular basis.
+
+The candidate will have a background in computer science or a related technical field with experiences working with large data sets, analytical platforms, and a passion towards enabling data-driven decision making. A successful candidate will be both technically strong and business savvy, with a passion to make an impact through creative storytelling and timely actions. You are a self-starter, smart yet humble, with a bias for action.
+
+Key Responsibilities include, but are not limited to:
+Design and build highly scalable data pipelines and analytical platforms using new generation tools and technologies like Spark, Kafka, and other cloud technologies to ingest and process real time and near real time data from various systems
+Build and optimize data pipelines using SQL and other programming languages to process and store data following complex business requirements
+Show strong understanding of analytics needs and proactive-ness to build generic solutions to improve the efficiency
+Implement, communicate, and enforce best practices and standards
+Work with cross functional teams across the organization in varying roles
+Provide production support as needed
+Qualifications:
+BS in Computer Science, Information Systems, Engineering or Mathematics
+5+ years of experience in developing, tuning, and supporting data pipelines in a big data environment, preferably in the Cloud; Azure and Snowflake experience is a plus
+5+ years of experience in creating scalable pipelines for both real time and near real time data for analytical and operational use cases
+5+ years of experience with Spark, Spark Streaming, Kafka, or related technologies
+5+ years of experience with at least one programming language like Python or Java
+Experience with Azure Databricks, Datafactory or related technologies
+Experience in working with - flat files, XML, JSON, Avro files and databases
+Experience with workflow management and scheduling tools like Airflow
+Experience in handling exceptions and automated re-processing and reconciling
+Passion for Data Quality with an ability to integrate these capabilities
+Knowledge of Jenkins for continuous integration and End-to-End automation
+Proven capabilities for strong written and oral communication skills
+Ability to integrate into a project team and contribute to project planning activities
+Experience in developing implementation plans and schedules and preparing documentation for the jobs according to the business requirements
+How to Apply: Interested candidates are encouraged to submit a resume by visiting https://www.albertsonscompanies.com/careers.html
+
+Diversity is fundamental at Albertsons Companies. We foster an inclusive working environment where the different strengths and perspectives of each employee is both recognized and valued. We believe that building successful relationships with our customers and our communities is only possible through the diversity of our people. A diverse workforce leads to better teamwork and creative thinking, as well as mutual understanding and respect.
+
+The Albertsons Companies policy is to provide employment, training, compensation, promotion and other conditions of employment without regard to race, color, religion, sexual orientation, gender identity, national origin, sex, age, disability, veteran status, medical condition, marital status or any other legally protected status.
+
+We support a drug-free workplace -- all applicants offered a position are required to pass a pre-employment drug test before they are hired.
+
+AN EQUAL OPPORTUNITY EMPLOYER

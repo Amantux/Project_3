@@ -1,0 +1,51 @@
+Overview
+
+Position: Data Modeler
+
+Location: Austin, TX
+
+Duration: 336 Hours
+
+W2 only.
+
+The Data Modeler performs complex (senior-level) data analysis, data modeling and data administration work. Work involves building data models that describe data and its relationship in a consistent way to support business and technical objectives and maintaining data assets and logical models for database systems, data warehouses, and data analytics.
+Develop and maintain enterprise and system/application-level conceptual, logical, and physical data models and dictionaries.
+Support the development of integrated data models and artifacts identifying as-is, planned, and to-be mission data and supporting metadata.
+Employ data modeling tools and associated graphical methods to depict and analyze current and proposed conceptual, logical, and physical data schema.
+Creates reusable error-free DDL scripts for the promotion of structural changes to multiple RDBMSs (SQL Server, DB2, Oracle, Sybase) and environments (development, test, production).
+Designs and develops data mapping and transformation scripts to support data warehouse development and data analytics efforts.
+Designs and develops extract, transform and load (ETL) logic and code in support of data warehouse and analytics operations and maintains related data pipelines.
+Coordinates and approves corresponding database changes to support new and modified applications, and ensures new designs conform to data standards and guidelines are consistent, normalized, perform as required, and are secure from unauthorized access or update.
+Reviews measures to chart progress related to the completeness and quality of metadata for enterprise information to support reduction of data redundancy and fragmentation and elimination of unnecessary movement of data, to improve data quality.
+Performs data analysis using SQL queries.
+Assists In selection of data management tools and develops standards, usage guidelines and procedures for those tools.
+Performs related work as assigned.
+II. Worker Skills And Qualifications
+
+Minimum Requirements:
+Years
+
+Skills/Experience
+6
+
+Experience with database administration in Oracle, SQL Server, Sybase or DB2
+4
+
+Experience with data modeling and design and/or information architecture
+4
+
+Experience with techniques to create, manipulate, and customize DDL scripts for multiple platforms
+
+Preferences:
+Years
+
+Skills/Experience
+4
+
+Unix / Linux
+4
+
+Experience using ERStudio, Erwin or related data modeling software
+4
+
+Shell script development / maintenance

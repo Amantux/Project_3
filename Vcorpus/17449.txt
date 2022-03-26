@@ -1,0 +1,21 @@
+Posted: Jun 18, 2020
+Weekly Hours: 40
+Role Number:
+200166439
+This team is more than a group of engineers — it’s a group of music lovers. That passion has made Apple Music the world’s most complete music experience, with over 60 million songs, thousands of playlists, and daily selections from music experts for 115 countries.
+The team’s data-driven engineers focus relentlessly on the customer experience by running worldwide experiments and analyzing usage and latency, while collaborating with Apple’s product groups. As a result, someone can use the Shazam app to identify an intriguing song in a café in the morning, add it to their playlist from Apple Watch, listen to it through their AirPods on their commute, and share it with their family on HomePod at dinnertime. And there’s more where that came from, because personalization powered by machine learning and music science helps listeners discover more of what they love. Apple Music is a big part of Apple’s business because it’s a big part of people’s lives. Areas of work: macOS/iOS Engineering, Full-Stack Engineering, Front-End Engineering, Back-End Engineering, Quality Engineering, Machine Learning Engineering, Data Science, Data Engineering, Site Reliability Engineering, Commerce Engineering, and Engineering Project Management.
+Key Qualifications
+Experience in designing, implementing and supporting highly scalable data systems and services in Java and/or Scala
+Experience with Hadoop-ecosystem technologies in particular MapReduce, Spark / Spark-SQL / Spark Streaming, Hive, YARN/MR2
+Experience building and running large-scale data pipelines, including distributed messaging such as Kafka, data ingest to/from multiple sources to feed batch and near-realtime/streaming compute components
+Experience in data-modeling and data-architecture optimized for big data patterns, ie. warehousing concepts; efficient storage and query on HDFS; data security and privacy techniques)
+Knowledgable about distributed storage and network resources, at the level of hosts, clusters and DCs, to troubleshoot and prevent performance issues
+Experience with low-latency NoSQL datastores and traditional relational databases is desired
+Description
+Our Data Engineering team is seeking a hardworking, performance-savvy, engineer to build out the big data platform and services, which power many of these customer features — existing and new. You will be responsible for designing and implementing features that rely on processing and serving very large datasets with an awareness of scalability. This will include crafting systems to model, ingest, process and compute large-scale, mission-critical data across Apple Music. High-throughput and reliability are essential.
+
+This is your opportunity to help engineer highly visible global-scale systems with petabytes of data, supporting hundreds of millions of users!
+Education & Experience
+Bachelors degree in Computer Science, or equivalent experience.
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

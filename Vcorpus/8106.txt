@@ -1,0 +1,61 @@
+Statistics, Applied Mathematics, Operation Research, Economics or a related quantitative bachelors' or masters' degree
+
+At least 3 years of experience with data querying languages (e.g. SQL), scripting languages (e.g. Python), or statistical/mathematical software (e.g. R, Weka, SAS, Matlab)
+
+Experience articulating business questions and using quantitative techniques to arrive at a solution using available data
+
+Do you want a unique, exciting opportunity to help build something from the ground up? We are looking for builders who are passionate about data science to join the Marketing Science team within Amazon Advertising.
+
+Amazon is investing heavily in building a world class advertising business, and we are responsible for defining and delivering a collection of advertising products that drive discovery and sales. Our products are strategically important to our Retail and Marketplace businesses driving long term growth. We deliver billions of ad impressions and millions of clicks daily and are breaking fresh ground to create world-class products. We are highly motivated, collaborative and fun-loving with an entrepreneurial spirit and bias for action. With a broad mandate to experiment and innovate, we are growing at an unprecedented rate with a seemingly endless range of new opportunities.
+
+As a successful data scientist on the Amazon Advertising team, you need to understand performance advertising domain knowledge and the meanings of data. You will expose and measure current Amazon Advertising performance. You will identify specific and actionable opportunities to solve existing business problems, and collaborate with engineering, research, and business teams for future innovation. You need to be a sophisticated user of advanced quantitative techniques for answering specific business questions, and an expert at synthesizing and communicating insights and recommendations to audiences of varying levels of technical sophistication.
+
+Major responsibilities include:
+
+Translate / Interpret
+
+Translate business questions and concerns into specific quantitative questions that can be answered with available data using sound methodologies. In cases where questions cannot be answered with available data, work with engineers to produce the required data.
+
+Measure/Quantify/Expand
+
+Retrieve, synthesize, and present critical data in a format that is immediately useful to answering specific questions or improving system performance.
+
+Analyze historical data to identify trends and support decision making.
+
+Improve upon existing methodologies by developing new data sources, testing model enhancements, and fine-tuning model parameters.
+
+Provide requirements to develop analytic capabilities, platforms, and pipelines.
+
+Apply statistical or machine learning knowledge to specific business problems and data.
+
+Explore/Enlighten
+
+Formalize assumptions, create statistical definition of the outlier, and develop methods to systematically identify these outliers. Work out why such examples are outliers and define if any actions needed.
+
+Given anecdotes about anomalies or generate automatic scripts to define anomalies, deep dive to explain why they happen, and identify fixes.
+
+Make Decisions or Recommendations
+
+Build decision-making models and propose solution for the business problem you defined
+
+Conduct written and verbal presentation to share insights and recommendations to audiences of varying levels of technical sophistication.
+
+Depth and breadth in quantitative knowledge. Excellent quantitative modeling, statistical analysis skills and problem-solving skills. Sophisticated user of statistical tools.
+
+Experience processing, filtering, and presenting large quantities (Millions to Billions of rows) of data
+
+Combination of deep technical skills and business savvy enough to interface with all levels and disciplines within our customer’s organization
+
+Demonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment
+
+Excellent verbal and written communication skills with the ability to effectively advocate technical solutions to research scientists, engineering teams and business audiences
+
+Ability to develop experimental and analytic plans for data modeling processes, use of strong baselines, ability to accurately determine cause and effect relations
+
+Demonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment
+
+Experience in digital advertising is a plus
+
+Amazon.com is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age
+
+#adsto

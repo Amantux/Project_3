@@ -1,0 +1,20 @@
+Amazon's Advertising Technology team builds the technology infrastructure and ad serving systems to manage billions of advertising queries every day. The result is better quality advertising for publishers and more relevant ads for customers. In this organization you'll experience the benefits of working in a dynamic, entrepreneurial environment, while leveraging the resources of Amazon.com (AMZN), one of the world's leading companies.
+
+Amazon Publisher Services (APS) helps digital publishers around the world build and grow thriving businesses. We utilize Amazon's Advertising technology to provide services to web, mobile app and OTT (streaming video) publishers of all sizes, including many of comScore's global top 100, to help them monetize their content with advertising from Amazon and other programmatic buyers. APS server-side header bidding solutions are fast and reliable across devices, handling billions of queries per day, delivering ads in milliseconds. The result is more profitable advertising for publishers and more relevant ads for customers.
+
+We are seeking a Software Engineer for the Audio Ads team in Amazon Publisher Services. In this role, you will develop scalable, audio advertising services for use by large media companies and independent publishers. Using AWS technologies, you will design advertising workflows and data-intensive applications that help advertisers reach audiences in novel ways. You will also work closely with internal, audio focused teams to build products that will shape the future of advertising on connected devices.
+
+
+Basic Qualifications
+
+· 2+ years of non-internship professional software development experience
+· Programming experience with at least one modern language such as Java, C++, or C# including object-oriented design
+· 1+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems.
+
+Preferred Qualifications
+
+· Master's degree in Computer Science or related discipline
+· At least 3 years of programming experience in Java designing large-scale, distributed software services
+· Strong knowledge of data structures, algorithms, and designing for performance and availability
+· Working knowledge of online advertising/ad-tech concepts (DSPs, SSPs, RTB protocol etc.)
+· Strong verbal and written communication skills

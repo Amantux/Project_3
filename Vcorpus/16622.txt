@@ -1,0 +1,25 @@
+Reliability is at the core of Electric Adventure Vehicles. As a Staff Reliability Data Scientist, you will play a key role in using data to predict and improve reliability performance of Rivian products.
+This is what you will do:
+Use big data to systematically characterize a broad set of damage metrics for vehicles, utilizing simple or rainflow counts to aggregate cumulative damage over time. Create methods to easily summarize damage in representative aggregates that allows further analysis with faster processing speeds.
+Lead the utilization of parametric data coming from the vehicle for physics-of-failure based reliability models.
+Explore machine learning methods to identify non-obvious reliability predictions by utilizing rich log data sets and connecting various data sources together (service center data, manufacturing, supplier etc). Drive meaningful actions and new feature implementation based on results.
+Collaborate with the reliability diagnostics team and all design teams to create the data acquisition strategy in terms of frequency, granularity and retention in order to support identified reliability models based on aggregation of signals.
+Extract useful statistics and usage profiles from the existing fielded fleet in order to drive accurate design requirements for next generation vehicles.
+Create visualization methods to communicate data in a meaningful and actionable manner.
+Work cross functionally with Service, IT, the cloud team and other data stakeholders to drive implementation of meaningful data interfaces to support science for reliability.
+Architect the big data dashboards and visualizations for reliability engineering.
+Partner with the rest of the reliability functions (Design-for-Reliability, Manufacturing and Supplier Reliability, Failure Analysis, Reliability Testing, Reliability Diagnostics, Functional Safety) to seamlessly connect data generated across different processes, systems and platforms
+
+This is what you’ll need:
+
+Experience in architecting and visualizing field reliability big data for an OEM, preferably in an automotive setting
+Experience working with large datasets
+Expert in SQL
+Expert in Python with Pandas
+Software engineering experience and understanding of software development is a plus
+
+This is where you’ll work:
+
+Department: Reliability
+Location: Palo Alto, CA
+Rivian is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind: Rivian is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Rivian are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Rivian will not tolerate discrimination or harassment based on any of these characteristics. Rivian encourages applicants of all ages.

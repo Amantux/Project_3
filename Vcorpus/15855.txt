@@ -1,0 +1,28 @@
+Job Role: Machine Learning EngineerWork Location: San Diego, CA
+Duration: 12+ Months
+
+Primary Skill Set:
+Knowledge of validated approaches for scale-ability, productionalizing AI/ML models and implementing machine learning applied to expansive and diverse datasets (storage GPUs/TPUs, techniques for deep learning at scale)
+Deployment of Machine Learning and Deep Learning algorithms on cloud based services (AWS Sage maker, GCP MLE, Digital Ocean, etc.)
+Expertise in configuration management systems CI/CD (Docker, Kubernetes, etc.)
+Programming experience with Python (and ML packages) and either Javascript, C/C++ or related
+Version control (Git, Jenkins), Unix Shell scripting
+Experience or familiar with serverless architecture/ paradigm in cloud stack
+
+Preferred Skill Set:
+Experience with Image Analysis/Computer Vision is a plus
+Experience with Swift, Objective-C, Cocoa, Cocoa Touch, and/or CoreML
+Networking concepts and protocols, e.g.: TCP/IP, HTTP, etc.
+Knowledge or familiarity of ML algorithms (deep learning, classification, TensorFlow etc.)
+Preferred knowledge of Python libraries such as Scikit-learn, SciPy, Spacy, and NLTK
+
+Roles and Responsibilities:
+Deploy scalable Machine Learning and CNN based Computer Vision algorithms on local and multi cloud-based inferencing platforms.
+Designing and deploying models at scale using automated pipelines.
+Convert Python based ML scripts to production quality level applications.
+Test applications for stability, resilience, HA and scale them to serve thousands of inferences on a daily basis.
+Work closely with data Engineers, developers and Machine Learning engineering peers to integrate ML/AI models and applications with existing suite of APD smart products.
+Be approachable, a team player and ready to assist SRE & DevOps to build pipelines that need minimal operational maintenance.
+If needed, be ready to independently learn new technologies.
+Be able to prioritize tasks and take ownership.
+Ability to communicate and meaningfully present results of analyses in a clear and impactful manner.

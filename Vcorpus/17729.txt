@@ -1,0 +1,76 @@
+Job Details
+
+Job ID: 12072
+
+New ideas are all around us, but only a few will change the world. That’s our focus at JPL. We ask the biggest questions, then search the universe for answers—literally. We build upon ideas that have guided generations, then share our discoveries to inspire generations to come. Your mission—your opportunity—is to seek out the answers that bring us one step closer. If you’re driven to discover, create, and inspire something that lasts a lifetime and beyond, you’re ready for JPL.
+
+Located in Pasadena, California, JPL has a campus-like environment situated on 177 acres in the foothills of the San Gabriel Mountains and offers a work environment unlike any other: we inspire passion, foster innovation, build collaboration, and reward excellence.
+
+Responsibilities
+
+Do you excel in an environment that values exploration and discovery?
+
+Our multidisciplinary engineering teams build and operate high performance data processing, management and analysis systems capable of handling petabyte scale datasets in support of science discovery, research, operations and applications.
+
+Our research and technology development teams create new onboard and ground-based technologies for data processing, analysis, modeling, reasoning, visualization, management, access and analytics that are infused into our data systems.
+
+As the Cloud Data Platform Engineer, you will be a member of the Data Product Generation Software Group and your contribution will make an impact across our institution and NASA.
+
+Will be a member of the Cloud Data Platform teams at the Advanced Multi-mission Operations System (AMMOS)’s Instrument Data System (IDS) and the Planetary Data System’s Engineering Node and report directly to the Product Delivery Managers (PDMs) and the Cognizant Engineers.
+
+Responsibilities include:
+Contribute to the ongoing architectural design and modernization of our planetary data services and systems
+Identify and recommend cloud-based solutions according to performance and operation requirements, and budget
+Work directly with the project architect to ensure production infusion of the large-scale data platform into a Cloud environment
+Develop efficient and high-performance software solutions
+Design and develop web services to simplify search, discovery, access, and analytics capabilities
+Design and develop high availability, load balancing and auto-scaling architecture
+Perform highly complex software system verification and validation
+
+Qualifications
+
+Bachelor’s degree with a minimum of 6 years of experience in Computer Science, Computer Engineering, Data Science or Mathematics; or a Master's with 4+ years of related experience, or PhD with 2+ years of related experience
+Strong development skill with Python and Java
+5+ years’ experience working with Amazon Web Services (AWS) and solutions
+Extensive experience in Application migrations to Cloud with Cloud Native Patterns and provide support for Applications running in Cloud
+Experience in troubleshooting IAM Policies, Resource permissions issues during migrations of Applications
+Experience working with AWS Services Technologies EC2, ALB/ELB, Elastic BeanStalk, RDS, S3, EBS, EFS, Glacier, LAMBDA, Step Functions, API Gateway, CloudFront, SNS, SQS, DynamoDB, CloudWatch, ECS, CloudFormation, ElastiCache, and Application Runtimes
+Experience with ETL, Data Modeling, and Data Architecture.
+Deploying and working with various relational or NoSQL databases
+Experience deploying and working with index search solutions such as (Apache Solr and ElasticSearch)
+Experience in Jupyter Notebooks and JupyterHub
+Docker container and container orchestration with Kubernetes experience
+Agile development process (Git, JIRA, Artifactory, CI/CD tools)
+Understanding of modern software architecture and patterns
+Strong critical thinking and problem-solving abilities
+Excellent communication skills
+Willingness to learn new technologies and concepts
+Preferred Qualifications:
+Experience with deployment technologies (infrastructure-as-code)
+Familiarly with NASA Planetary and Earth Science data and metadata standards
+
+Work Authorization
+
+U.S. Citizen or Permanent Resident
+
+Connect with Us
+
+Not ready to apply? Connect with us for general consideration.
+
+JPL is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to sex, race, color, religion, national origin, citizenship, ancestry, age, marital status, physical or mental disability, medical condition, genetic information, pregnancy or perceived pregnancy, gender, gender identity, gender expression, sexual orientation, protected military or veteran status or any other characteristic or condition protected by Federal, state or local law.
+
+In addition, JPL is a VEVRAA Federal Contractor.
+
+EEO is the Law
+EEO is the Law Supplement
+Pay Transparency Nondiscrimination Provision
+
+The Jet Propulsion Laboratory is a federal facility. Due to rules imposed by NASA, JPL will not accept applications from citizens of designated countries or those born in a designated country unless they are Legal Permanent Residents of the U.S or have other protected status under 8 U.S.C. 1324b(a)(3). The Designated Countries List is available here.
+
+Print
+Share
+Facebook
+Twitter
+LinkedIn
+
+APPLY

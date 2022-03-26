@@ -1,0 +1,17 @@
+Derives business value and actionable insight from diverse datasets related to private passenger automobile claims. Conducts data analytics, including querying data, munging data, feature generation, problem formulation, error/success metric choice, machine learning, signal processing, predictive model building, and translation of results into production-ready code. Applies natural language processing to raw text data and uses statistical inference to detect fraudulent consumer activity with supervised and unsupervised modeling. Uses deep convolutional neural networks and applies novel signal processing and filtering techniques for identifying driving behaviors and patterns from telematics sensor data. Leverages sensor data and geospatial data sources such as road networks, speed limits, other road features, and historical weather/traffic data and translates claim-related information into predictions of prospective loss ratio. Codes in R or Python. Builds machine learning models. Applies advanced probability, statistics, linear algebra and physics concepts. Leverages big data tools such as Hadoop/Spark and designs experiments.
+
+Requirements
+
+Must have a Ph.D. in Physics or Electrical Engineering.
+
+Must have one (1) year of experience in the job offered or as a Research Assistant, including:
+
+1) Machine learning and signal processing; and
+
+2) Statistical inference.
+
+Get in touch
+
+Finding the right people to help us build Root is a top priority. Whether you would like to explore the possibility of working together or simply learn more about the position, we’d love to hear from you!
+
+To apply, send Cover Letter and 2 Resumes to: REF# 8948.007, Attn: Clara Kridler,Root, Inc., 80 East Rich Street, Suite 500, Columbus, Ohio 43215.

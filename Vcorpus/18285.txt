@@ -1,0 +1,34 @@
+Make Next Happen Now. For over 30 years, Silicon Valley Bank (SVB) has helped innovative companies and their investors move bold ideas forward, fast. SVB provides targeted banking services to companies of all sizes in innovation centers around the world.
+
+The Information Management team at Silicon Valley Bank is responsible for delivering data solutions that support all lines of business across the organization. This includes providing data integration services for all batch data movement; managing and enhancing the data warehouse, Data Lake and dependent data marts; and providing support for analytics and business intelligence consumers.
+
+SVB is seeking an experienced IDQ Professional who will partner with business leaders to help lead complex, multi-disciplinary projects. The incumbent will participate in design and lead development of technology solutions to address Enterprise Data quality business needs. The successful candidate will help develop the next generation solutions using Informatica IDQ products. The position requires in-depth experience and understanding of Enterprise data quality, Informatica Data quality, Enterprise Data quality tools, data warehousing and data integration skillsets. This position requires close interaction and collaboration with Project Managers, Lead Business Analysts, application and enterprise architects, application technical leads, vendor partners (both onsite and offshore), SVB offshore developments teams and other data and application development teams.
+
+Responsibilities include, but are not limited to:
+
+• Architect and design secure, robust, fault-tolerant and highly scalable Informatica Data quality frameworks for Cloud and on premise environments.
+• Develop and deliver MDM/IDQ components as specified in the design, functional and non-functional requirements, within established budget, time and quality standards.
+• Quality and completeness of detailed technical specifications, solution designs, including architecture, design, code development and code reviews as well as adherence to the non-functional requirements.
+• Performing hands-on development work with Informatica IDQ for Data quality and Data transformations for MDM on the cloud and on premise environments.
+• Recommend data governance processes, organizational models, and Informatica IDQ technology platform.
+• Responsible for estimating the effort for work activities and assisting peers and matrix team for successful execution of work activities.
+• Identify, document and communicate technical risks, issues and alternative solutions discovered during project.
+• Develop and unit test data solutions, data integrations, data services.
+• Use agile engineering practices and various data development technologies to rapidly develop creative and efficient data products.
+• Align and integrate well with architects, data analysts, data modelers and other stakeholders.
+• Communicate with other developers across teams, both as ad hoc problem solving, and check-ins and discussions with other initiatives.
+• Mentor and provide direction to data engineers and quality engineers, both on-site and offshore.
+
+Core Technical Requirements of the role
+• Minimum 8 years of data engineering experience, with hands-on experience implementing Informatica IDQ on cloud and on premise environments.
+• Minimum of 5 years is must with implementing Informatica IDQ products suite. Completed at least two Informatica IDQ implementations from the scratch.
+• Strong understanding of IDQ Process & Procedures such as Define, Discovery, Profiling, Remediation, and Monitoring.
+• Experience in using IDQ tool for source data profiling, creating and applying rules.
+• Expertise in implementing data quality processes including transliteration, parsing, analysis, standardization and data enrichment using IDQ transformations.
+• Experience in Design and execute a Data Quality Audit/Assessment and data quality mappings that will cleanse, de-duplicate.
+• Expertise on data profiling to identify data anomalies.
+• Experience in developing human task workflow scenarios and IDQ scorecards to support data remediation.
+• Related work experience in the areas of Master Data Management, Data Governance, deep experience in data warehousing and analysis.
+• Hands-on implementation experience in Big Data technologies is preferred
+• Expertise to ensure data quality and reliability and provide feedback to businesses and IT team on how to improve the quality of the data.
+• Experience in financial domain is a plus

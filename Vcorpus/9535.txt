@@ -1,0 +1,49 @@
+Redhorse has an immediate opening for a Lead Data Scientist who will join our National Security Services Practice Area’s digital services team and co-lead in the development of a specialized software solution to help accelerate the adoption of AI within the DoD. This solution will incorporate Machine Learning of custom models, micro services, containerization, RESTful Web components, NoSQL and SQL data frameworks, and large–scale distributed systems to derive insights from vast amounts of structured mission data. The lead data scientist will engage with multiple functional groups (client stakeholder, users, mission experts, solution designers, solution architects, UI/UX designers and agile developers) to comprehend client challenges, incorporate new ideas, approaches and technologies, and help create solutions to increase mission effectiveness and meaningfully contribute to the national security.
+
+Minimum Basic Requirements for Skills, Experience, Education and Credentials include:
+
+Bachelor’s Degree in Engineering, Mathematics, Operations Research, or Computer Science or similar disciplines
+
+A minimum of 8 years of data science, machine learning, and/or deep learning experience
+
+US Citizen with current and active SECRET security clearance (TS/SCI preferred)
+
+Demonstrable experience applying statistical analysis to complex, real-world problems reflected in massive data sets
+
+Experience with supervised and unsupervised machine learning approaches
+
+Experience with model development and deployment in Apache Spark, Tensorflow, scikit-learn or other Python libraries
+
+Experience using notebooks (e.g. Jupyter, Python, Zeppelin, Databricks)
+
+Demonstrable coding skills in Node/JavaScript, Python, SQL/NoSQL in a Windows or Linux desktop operating environment
+
+Must possess the ability to communicate clearly, concisely, and with technical accuracy in both oral and written modes.
+
+Must be able to work effectively under time constraints and potentially changing priorities, while maintaining a high level of attention to detail.
+
+Must be able to work in a collaborative, team environment, including on government site where availability of advanced development/database tools may be limited
+
+Additional Preferred Qualifications:
+
+Master’s Degree, preferably in Engineering, Mathematics, Operations Research, or Computer Science
+
+Experience with using containers in cloud-based services such as Docker or Kubernetes to package and deploy an application to multiple target environments (e.g. private or on prem solution)
+
+Experience with identifying and gathering operational and military data from DOD organizations and systems
+
+Experience with Databricks MLFlow
+
+Experience with national or military capabilities and their use
+
+ETL (Extract, Transform, Load) development, including merging and normalizing related data sources
+
+Data visualization skills using Tableau, JavaScript, D3, and other tools/languages
+
+Amazon Cloud / AWS experience (or C2S cloud development)
+
+Redhorse Corporation shall, in its discretion, modify or adjust the position to meet Redhorse’s changing needs.
+
+This job description is not a contract and may be adjusted as deemed appropriate in Redhorse’s sole discretion.
+
+EOE/M/F/Vet/Disabled

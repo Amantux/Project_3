@@ -1,0 +1,42 @@
+Company Summary
+
+Crown Castle works around the country to build and maintain the infrastructure behind the world’s most revolutionary technologies. Crown Castle owns, operates and leases more than 40,000 cell towers and over 80,000 route miles of fiber supporting small cells and fiber solutions across every major US market. This nationwide portfolio of communications infrastructure connects cities and communities to essential data, technology and wireless service– bringing information, ideas and innovations to the people and businesses that need them. Crown Castle is an S&P 500 company and one of the largest Real Estate Investment Trusts in the United States with an enterprise value of more than $80 billion.
+
+Position Title: Principal Data Scientist - 8E
+
+Position Summary
+
+Crown Castle's data and analytics team is growing! The data scientist collaborates cross-functionally with business and technology partners, developing data products that leverage advanced machine learning techniques, answering top-priority data questions across the enterprise. They explore and consult on the business value of external datasets in collaboration with domain experts. They are curious by nature and possess a versatile array of skills needed to tackle data wrangling, exploratory analysis, feature engineering, model prototyping, and production deployment.
+
+Essential Job Functions
+Develop advanced machine learning models to produce insights, predictions, and forecasts, in collaboration with domain experts across a variety of disciplines (e.g. sales, operations, RF engineering, real estate acquisitions, finance, IT)
+Rapidly conduct exploratory data analysis& model prototyping leveraging big data environments
+Domain expert in statistics and machine learning
+Integrate external and internal data as needed
+Work with data engineers to design and construct data pipelines for reproducible analysis
+Conduct multivariate statistical analyses such as linear or logistic regression, segmentation/cluster analysis, discrete choice/conjoint, decision trees, factor analysis, and database/data mining in order to identify significant differences in relationships among sources of information
+Develop models utilizing advanced techniques as needed, e.g. ensemble methods and deep learning
+Identify and advise on relationships and trends in data, and any factors that could affect research results
+Create analytical workflows to process large amounts of data for statistical modeling and graphic analysis, adapting statistical methods as necessary in order to solve specific problems.
+Present results of analyses, including design of client-friendly graphs, charts, tables and other data visualizations
+Ability to explain models to business partners in non-technical language
+Education/Certifications
+M.S. or Ph.D. degree in mathematics, computer science, or related quantitative discipline
+
+
+Experience/Minimum Requirements
+A minimum of three (7) years of work experience in a related quantitative position
+Experience with common data science libraries (e.g. scikit-learn, caret, MLlib)
+Experience with deep learning libraries (e.g. TensorFlow, Keras, Caffe)
+Experience with data analysis& manipulation tools (e.g. NumPy, Pandas, dplyr)
+Experience with data visualization tools (e.g. ggplot2, matplotlib, plotly, PowerBI, Tableau)
+Experience with distributed data& computing platforms to solve big-data challenges (e.g. Apache Spark)
+Experience on cloud platforms (e.g. GCP, AWS, Azure)
+
+
+Other Skills/Abilities
+Strong communication skills, including the ability to present analytical insights to a non-technical audience
+Mentor junior technical staff
+Strong attention to detail, organizational skills and interpersonal skills
+Domain experience a plus
+Working Conditions: Works in a normal office setting with no exposure to adverse environmental conditions.

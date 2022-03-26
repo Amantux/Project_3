@@ -1,0 +1,55 @@
+The Job
+
+Warner Bros. Entertainment Inc. seeks a Sr. Data Scientist for the DOPE: Neurotechnology team. The Data Scientist will be responsible for developing and maintaining machine learning algorithms which correlate neurological states with audio visual content for a consumer facing ML based Neurotechnology platform. This position will be responsible for the integrity and effectiveness of the ML algorithms and databases that power this platform.
+
+The Daily
+Hands-on design and ML development work to identify multi-channel sentic modulation across various biometric device types.
+Determine/refine approaches to create a machine learning model to classify biometric sentic modulation into neurological states.
+Determine/refine approaches and methods to identify noise patterns and false positives across biometric device types.
+Determine/refine approaches to create a machine learning model to identify characters and objects within audio video content.
+Design ML model to identify objects/characters within audio visual content.
+Identify & classify biometric noise types.
+Document parts of the current and future processing framework.
+Work closely with other groups to onboard new biometric device types. This includes collaborating with Television, Digital Networks, Theatrical, Business Intelligence, Talent, Content Ops, Biz Ops, Distribution, et al.
+Participate in development/system/database operations as needed (devops, sysops, and DBA work).
+The Essentials
+10+ years developing complex algorithms for ML based systems and/or biometrics.
+10+ years Digital Signal Processing experience.
+10+ years Computer Vision knowledge.
+10+ years Biometric device and data processing knowledge.
+5+ years Python development and Bash scripting.
+5+ years SQL on 1 or 2 DBMS, e.g. PostgreSQL, MySQL, Redshift, Snowflake, or other mainstream DBMS.
+Background in Video Platforms is very helpful, e.g. NETFLIX, Google, YouTube, Amazon, Pluto TV, Facebook, Twitter, Instagram, as well as Salesforce, NetSuite, SAP NetWeaver, Omniture clickstream.
+Big Data related experience, e.g. Redshift, Vertica, Presto, Spark SQL, Kafka, Kinesis, Hadoop, AWS Lambda, Glue.
+Cloud experience, ideally AWS -- or alternate, e.g. Azure or Google Cloud Compute.
+Business platform API development experience with Google/YouTube & Facebook.
+Background in other sw development languages, e.g. Ruby, Java, JavaScript, Scala.
+Experience w/ gaming, entertainment, and Internet monetization business models.
+Basic understanding of electrical circuits.
+Experience with acquiring and analyzing data from electrical measurements.
+Some experience with MLs image processing.
+Requisition #
+177544BR
+
+Area of Interest
+Technology/Information Technology
+
+Industry
+Film Production and Distribution
+
+Location
+United States - California - Burbank
+
+Position Type
+Full Time
+
+Business Unit
+WB Technology
+
+Business Unit Overview
+WB Technology combines Warner Bros.’ industry-leading technologists and disciplines to ensure global alignment with business strategy and accelerated delivery of innovative technology solutions studio- and industry-wide. From pre-production through archiving, the WBT organization will provide critical business and technology intelligence and services to all Studio business units. WBT manages the Studio’s enterprise systems and solutions, emerging platforms, information security, consumer intelligence, content mastering and delivery, and more.
+
+Company Overview
+WarnerMedia is a leading media and entertainment company that creates and distributes premium and popular content from a diverse array of talented storytellers and journalists to global audiences through its consumer brands including: HBO, HBO Now, HBO Max, Warner Bros., TNT, TBS, truTV, CNN, DC Entertainment, New Line, Cartoon Network, Adult Swim, Turner Classic Movies and others.
+
+Warner Media, LLC and its subsidiaries are equal opportunity employers. Qualified candidates will receive consideration for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity or expression, age, mental or physical disability, and genetic information, marital status, citizenship status, military status, protected veteran status or any other category protected by law.

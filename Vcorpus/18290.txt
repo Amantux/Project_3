@@ -1,0 +1,28 @@
+Company Description
+
+Semiconductor
+
+Job Description
+
+Description:
+
+Job Description:
+You will architect and implement a Greenplum Massively Parallel Processing Big Data cluster that is scalable for ingesting, transforming , persistence and query of peta bytes of data from heterogenous structured data sources where storage is separate from compute and capable of performant and multi-tenant data analytics including machine learning. The platform should provide ability to manage big data with attributes of Volume, Velocity, Variety and Veracity
+
+Responsibilities:
+You will be responsible for defining the Greenplum big data architectural blueprint for the cluster including hardware, software, storage and networking needs under the supervision of senior leaders of the organization
+You will be responsible for setting up the infrastructure, defining big data pipelines for data ingestion, data transformation and data analytics
+You will be responsible for building reference implementations on the platform based on real world use cases
+
+Qualifications
+
+Essential Skills:
+Detailed knowledge of key ingredients of a Greenplum architecture with hands on experience in setting up such platforms in large corporations following industry standard patterns and practices using both on premise and public cloud infrastructures
+
+Desirable Skills:
+Hands on experience using a Greenplum big data platform for predictive modeling, statistics, Machine Learning, Data Mining, and other data analysis techniques to collect, explore, and extract insights from structured data
+Hands on experience integrating Hadoop HDFS with a Greenplum infrastructure.
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.

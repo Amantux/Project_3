@@ -1,0 +1,47 @@
+Company Overview:
+Age of Learning is a leading education technology innovator based in Glendale, California, with a talented team of 500+ individuals comprised of nationally-renowned educators, curriculum experts, designers, animators, engineers, and more. We develop engaging, effective digital learning technology and content to help children build a strong academic foundation for lifelong success.
+Our flagship product ABCmouse.com Early Learning Academy® is a comprehensive online curriculum and the #1 digital learning product for young children. To-date, more than 20 million children worldwide have completed over 5 billion Learning Activities on ABCmouse. We recently launched Adventure Academy, the first massively multiplayer online (MMO) game designed specifically to help elementary- and middle-school-aged children learn. It features thousands of engaging Learning Activities—including minigames, books, original animated and live action series, and more—in a fun and safe virtual world. Other Age of Learning programs include immersive English language learning products for children in China and Japan; ReadingIQ, a digital library and literacy platform; and a groundbreaking personalized, adaptive digital learning system that individualizes math instruction for every child through AI-driven technology.
+We are committed to helping all children succeed. Through the Age of Learning Foundation, we make our research-proven educational products available at no cost to millions of children in need through schools, libraries, Head Start programs, community centers, and other governmental and non-governmental organizations. This work has served communities on 5 continents and continues to grow today.
+As we expand our global reach and increase the educational impact of our programs, we’re looking for passionate, ambitious, and collaborative leaders to become a part of our growing team.
+
+
+Summary:
+We are seeking a full-time, in-house Senior Data Engineer to join our development team. This person will be helping us develop high performance, high-throughput services using modern technologies and techniques.
+Responsibilities:
+Design, develop, test, implement and support applications using custom ETL (Extract Transform Load) or open source tools such as Talend
+Prepare high-level component architecture; design documents, data flow diagrams, detail design documents, data schema and modeling combined with test plan documents
+Design, develop and test highly available and scalable data pipelines and relevant data storage systems to enable business success across a multi-product functionality
+Proactively identify operational and systemic issues within the data supply value chain (from collection to processing to reporting) and work with production operations (DevOps) team to implement monitoring solutions
+Ensure testing and validation best practices are followed across the team so that accuracy of data transformations and data verification are complete and documented
+Execute in a fast-paced matrix organization across product and engineering teams to identify best data-driven solutions for the underlying data infrastructure and platform
+Ensure high operational efficiency and quality of your solutions to meet SLA (Service Level Agreement) and support commitment to stakeholders (both internal and external)
+Be an active participant and advocate of agile/scrum practice to ensure health and process improvements for your team
+Required Qualifications:
+Experience designing and building large, scalable data systems, preferably across a multi-product portfolio
+Strong SQL skills with proven ability to write complex data queries across large data sets.
+Exposure to software development, preferably in an Agile/Scrum/Kanban environment across multiple products
+Experience analyzing and manipulating data across diverse data sources (Python, Scala)
+Experience working across AWS (Amazon Web Services) cloud environment (EC2, S3, RDS, Sagemaker)
+Strong exposure to Big Data technology, preferably across a containerized environment (Hadoop, Spark, Hive, Presto)
+Experience with sourcing and modeling data from Restful API (Application Programming Interface)
+Strong attention to detail with excellent analytical, problem-solving, and communication skills
+Bachelor’s degree in Computer Science, Computer Engineering, or Information Technology or a related field, or an equivalent combination of education and experience
+Exemplary communication skills (both written and verbal), with experience producing technical and design documentation of complex processes
+Good time management and ability to work on concurrent assignments with different priorities
+Ability to work in a fast paced, iterative development environment with short turnaround times
+Preferred Qualifications:
+Experience with A/B Testing and related optimization across desktop and mobile in a digital environment a plus (examples include: Optimizely, Leanplum, deltaDNA)
+Experience analyzing and manipulating data across several data formats (JSON, Avro, Parquet, ORC)
+Experience building and architecting data warehouse workflows in large cloud-based production environments (Snowflake is an example)
+Understanding of columnar data warehouse solutions (Redshift, Vertica)
+Experience migrating on-prem data solutions to the cloud with a strong data operational hygiene
+Experience developing and maintaining metadata catalogue APIs across a variety of data sources (AWS Glue, Metacat)
+Prior experience working in educational technology companies or a related competitive landscape is a plus
+We Provide:
+Medical, Dental, Vision + 401k
+Highly competitive PTO policy
+Casual Dress Code
+Snacks + Drinks (Coca Cola Freestyle Machine)
+Gaming room including an Arcade (2,000+ games)
+Frequent team and company outings
+Limitless opportunities for professional growth!

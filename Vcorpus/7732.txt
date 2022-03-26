@@ -1,0 +1,81 @@
+Job Description
+
+Do you enjoy building models, creating efficient scoring code and deploying this code at scale?
+
+We are seeking a passionate and innovative data scientist and Apache Spark expert to collaborate with our modeling and technology teams to create and deploy production scoring code. Reporting to the VP of Models for Credit and Data Products, in this role you will join a team of data scientists whose mission is to create predictive models which form the foundation for many of Visa’s Data Products.
+
+This product development role requires organization, discipline, attention to detail and the ability to create scoring code at scale (scoring 2 billion+ records per month). We are therefore looking for a data scientist that is as comfortable building ML/DL models as they are coding for production in Scala or PySpark.
+
+The preferred location for the successful candidate is based at Visa's headquarters in the San Francisco Bay Area (Foster City, CA). For exceptional candidates and circumstances our office in the Washington, DC Metro Area (Ashburn, VA) would also be considered.
+
+Essential Functions
+
+Collaborate with product managers to solve a variety of predictive modeling problems to support data products for marketing, credit risk and operational efficiency.
+
+Rapidly prototype proof of concept solutions that can demonstrate utility, value and lead to scalable solution
+
+Build production scoring code that must run efficiently and reliably at scale
+
+Contribute to re-usable data assets that may be leveraged across projects
+
+Provide guidance and coaching to other team members on best practices for code creation and deployment.
+
+Ensure all models are following the established rules for data privacy and governance of production models
+
+Stay up-to-date on developments in the field of scalable scoring solutions and propose long term capability buildup
+
+Qualifications
+
+Basic Qualifications
+
+4 years of work experience with a Master’s Degree or at least 2 years of work experience with PhD
+
+Minimum 6 years of experience in a predictive modeling or data engineering function
+
+Master’s degree in a quantitative discipline with a focus on Computer Science or Software Engineering
+
+Strong background in two or more of the following areas: machine learning/AI algorithms, computations/statistical learning theory, scalable systems (e.g. Spark, Hadoop), large scale data analysis, optimization, functional analysis and deep learning.
+
+Preferred Qualifications
+
+6 years of work experience with a Master’s Degree or 3 years of experience with a PhD.
+
+PhD in a quantitative field would be preferred.
+
+2 years of experience in the creation of scalable Apache Spark Code for production applications would be strongly preferred.
+
+Experience with a range advanced techniques and emerging approaches to big data and data science (python, spark, tensorflow, H2O, Dask, etc)
+
+Apache Spark expert. Preference for Scala coding expert, but PySpark is acceptable.
+
+Ability to structure production code in a modular format that promotes flexibility, efficiency and reusability.
+
+Strong organizational skills, superior attention to detail and a disciplined approach to code development and deployment
+
+Previous experience with Jenkins and Artifactory is preferred.
+
+Well versed with agile execution methodologies
+
+Experience with advanced predictive modeling methods
+
+Ability to manage multiple simultaneous projects
+
+Ability to communicate with both business and technology leaders, and make technical concepts accessible to non-technical audiences
+
+Experience working as part of a small and nimble modeling team in a fast-paced environment. Familiarity with agile execution methodologies.
+
+Visa and financial/payment industry knowledge is a plus, but not required
+
+Additional Information
+
+Travel Requirement
+
+This position requires the incumbent to travel for work 5% of the time.
+
+Physical Requirements
+
+This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers, reach with hands and arms, and bend or lift up to 25 pounds.
+
+Visa will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of Article 49 of the San Francisco Police Code.
+
+All your information will be kept confidential according to EEO guidelines.

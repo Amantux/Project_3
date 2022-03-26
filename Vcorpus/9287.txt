@@ -1,0 +1,41 @@
+We seek an outstanding Sr. Data Scientist to join our Forecasting team in New York. This individual will be responsible for developing enterprise-grade predictive models to estimate Spotify’s future user retention, content consumption and lifetime value. You will study user behavior to better understand the long-term outcomes associated with early signals in a user’s lifecycle while also owning part of the development roadmap for our forecasting tools for topline user metrics. The output of these models will serve as the basis for the company’s public guidance as well as provide context for business performance to both internal stakeholders.
+
+You will work closely with talented data scientists, software engineers, and business groups to build enhance existing models and build new models that solve challenging problems. You will work with the engineers to drive implementation of the proposed models and establish testing strategies to validate the models before and after they are put into production. Above all, you will be at the nexus of data science and business at one of the most innovative companies in the world.
+
+The ideal candidate is analytical problem solver who enjoys diving into data, gets excited about investigating and developing algorithms, and can influence technical teams and business stakeholders to solve real-world problems. We also have a strong preference for candidates with experience predicting user churn at a mature, subscription-based business. Accompanying this broad set of responsibilities is exposure to many functional areas, as well as senior management, across Spotify.
+
+What you will do
+
+Support the production of Spotify’s public guidance on a quarterly basis.
+
+Improve upon existing forecasting methodologies by developing new data sources, testing model enhancements, running computational experiments, and fine-tuning model parameters.
+
+Support decision making by providing requirements to develop analytical capabilities, platforms, pipelines and metrics then using them to analyze trends and find the root causes of forecast inaccuracy.
+
+Formalize and document assumptions about how forecasts are expected to behave, creating definitions of outliers, developing methods to systematically identify these outliers, and explaining why they are reasonable or identifying fixes for them.
+
+Translate forecasting business requirements into specific analytical questions that can be answered using statistical and machine learning methods; work with engineers to produce the required data when it is not available.
+
+Communicate verbally and in writing to business customers with various levels of technical knowledge, educating them about our products and systems as well as sharing insights and recommendations
+
+Support leadership with research on key business initiatives and challenges
+
+Who you are
+
+Degree in Computer Science/Engineering, Mathematics, Statistics, Economics, or another quantitative field.
+
+8+ years of relevant experience, preferably including time at a large technology firm.
+
+Extensive experience manipulating and analyzing complex data with SQL, Python and/or R. Knowledge of Google BigQuery and Java/Scala is a plus.
+
+Comfort operating in a fast-paced work environment, occasionally under time pressure.
+
+Experience processing, filtering, and presenting large quantities of data (millions to billions of rows)
+
+Superior verbal and written communication skills with the ability to effectively advocate technical solutions to scientists, engineering teams and business audiences
+
+Proven ability to convey rigorous technical concepts and considerations to non-experts
+
+Deep and broad skills in quantitative modeling, statistical analysis, and problem-solving.
+
+Experience in time series forecasting and analysis

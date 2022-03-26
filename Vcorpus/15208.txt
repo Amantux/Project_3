@@ -1,0 +1,57 @@
+Job Description
+
+Important Note: During the application process, ensure your contact information (email and phone number) is up to date and upload your current resume when submitting your application for consideration. To participate in some selection activities you will need to respond to an invitation. The invitation can be sent by both email and text message. In order to receive text message invitations, your profile must include a mobile phone number designated as Personal Cell or Cellular in the contact information of your application.
+
+At Wells Fargo, we want to satisfy our customers financial needs and help them succeed financially. Were looking for talented people who will put our customers at the center of everything we do. Join our diverse and inclusive team where youll feel valued and inspired to contribute your unique skills and experience.
+
+Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.
+
+Wells Fargo Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure footprint; provides information security; and enables continuous banking access through in-store, online, ATM, and other channels to Wells Fargos more than 70 million global customers.
+
+At Wells Fargo, the Chief Technology Office (CTO) organization is leading technology transformation in a multi-cloud technology landscape by developing and delivering innovative products that delight our customers and speed to market banking products to our customers. As part of the CTO Operations and Site Reliability Engineering (SRE) group, the Enterprise Observability Team is responsible for delivering innovative, scalable, stable, and secure products that provide deep business insight, operational insight, and predictive analysis. As a member of the team, you will be a key contributor to the development of products that provide full stack observability including application monitoring, logging, alerting, and visualization.
+
+As part of the Enterprise Observability team, the Senior Data Engineer will design, develop, and implement near real-time data streams, ingesting and enriching business and operational data from various sources across the organization as part of a new enterprise observability platform.
+
+Duties/responsibilities include the following:
+Determine the most appropriate data collection and methodologies
+Identify, retrieve, manipulate, relate, and exploit multiple structured data and unstructured data sets from various sources, including building or generating new data sets as appropriate
+Develop enterprise level data APIs and data pipelines using object-oriented languages (Java, C#.NET), scripting (Python, PowerShell, etc.), and data formats (XML, JSON)
+Leverage subject matter expertise in Enterprise Messaging/Services, APIs, Microservices architecture, and enterprise application event-streaming and logging technologies
+Integrate operational data platforms and tools including Kafka, MongoDB, ElasticSearch (Elastic Search, Logstash, Kibana, Beats), Splunk, etc.
+Work with complex databases, conduct in-depth research to identify data issues, propose solutions to improve data integrity, and perform other database-related analyses and projects as requested
+Partner with internal customers, architects, engineers, and other technical partners to gather requirements, understand existing systems, and develop products to maximize secure and compliant application observability
+Collaborate through the Agile Scrum methodology to deliver products and key features, including the use of Agile tools like Jira and Confluence
+Required Qualifications
+7+ years of application development and implementation experience
+5+ years of SQL experience
+3+ years of Python experience
+Desired Qualifications
+Good verbal, written, and interpersonal communication skills
+2 + years of experience with Elasticsearch development, integration or support
+Experience delivering ETL, data warehouse and data analytics capabilities on big-data architecture such as Hadoop
+3+ years of Linux experience
+Experience Hadoop ecosystem tools relevant for real-time and batch data ingestion, processing and provisioning using tools such as Apache Flume, Apache Kafka, Apache Sqoop, Apache Flink, Apache Hive or Apache Storm
+Advanced scripting skills specifically around automation, log rotation, data collection, error collection and alerting
+Knowledge and understanding of data warehouse or data mart environment development and enhancement
+Knowledge and understanding of data visualization
+Experience developing data processing or analytics solutions on Cloud platforms such as AWS
+Knowledge and understanding of technology performance: requirements and designing highly scalable solutions
+Outstanding problem solving and decision making skills
+Strong analytical skills with high attention to detail and accuracy
+Other Desired Qualifications
+Experience with Apache Airflow
+Experience building data pipelines and automating Big Data platform applications/services
+Experience configuring and/or integrating with monitoring and logging solutions such as syslog, ELK (Elastic, Logstash, Kibana) and Kafka
+3+ years of experience with Data Modeling and tuning of relational and NoSQL data stores (Athena, MongoDB, MySQL, Red-shift, etc.)
+Experience building-operating highly scalable, fault tolerant, distributed systems for extraction, ingestion, and processing of large data sets
+Experience with Data Visualization Tools like Kibana and/or Grafana ,Tableau, PowerBi, Qlikview
+Build-deploy automation and configuration experience within the Linux and Unix environment
+Experience with Software engineering best-practices including, but not limited to CICD (Git, Jenkins, TFS, Maven, Nexus), Version Control (Git, Subversion, etc.), and automated unit testing
+Job Expectations
+Ability to travel up to 5% of the time
+Disclaimer
+
+All offers for employment with Wells Fargo are contingent upon the candidate having successfully completed a criminal background check. Wells Fargo will consider qualified candidates with criminal histories in a manner consistent with the requirements of applicable local, state and Federal law, including Section 19 of the Federal Deposit Insurance Act.
+
+Relevant military experience is considered for veterans and transitioning service men and women.
+Wells Fargo is an Affirmative Action and Equal Opportunity Employer, Minority/Female/Disabled/Veteran/Gender Identity/Sexual Orientation.

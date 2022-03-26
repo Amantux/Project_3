@@ -1,0 +1,30 @@
+Overview
+
+The GBS Group, an engineering and technical consulting firm, is seeking a Modeling and Simulation / MBSE Tools Data Scientist at our Philadelphia, PA location. The GBS Group designs and delivers high technology services and solutions to most advanced naval and maritime ships, as well as to special purpose platforms and assets. Our office is located at the Philadelphia Navy Yard, which is a dynamic urban development, offering the Philadelphia region a unique and centrally-located waterfront business campus committed to smart energy innovation and sustainability. The Navy Yard has over 20 acres of parks, one mile of waterfront trail and is located less than one-half mile from the Wells Fargo Center, Lincoln Financial Field, Citizens Bank Park, as well as the retail/entertainment center Xfinity Live!
+
+Responsibilities include but are not limited to:
+Provide software life cycle support following System Engineering Process (SEP) with applicable Capability Maturity Model Integrated (CMMI) and Institute of Electrical and Electronics Engineers (IEEE) standards and specifications.
+Develop and/or modify control system cybersecurity software and hardware solutions.
+Develop and/or modify computer code in the following languages: C/C++, C#, Java, Visual Basic, MATLAB, and Labview as well as other related high-level programming languages along with a range of Integrated Development Environments (IDEs) including but not limited to Visual Studio and Eclipse.
+Establish methodologies for capturing and managing data associated with complex integrated HM&E, Combat, Navigation, and C4I systems.
+Develop and/or modify logical data models enabling and enforcing concordance and mapping between system, subsystem, interface, mission thread, process, and other data sets.
+Develop and/or modify logical data models that store data elements to support data call responses, information flow analyses, operations analysis, performance evaluations, mission thread analysis, cybersecurity assessments, and engineering change evaluations.
+Develop and/or modify data models and/or simulations to capture the attributes of adversarial and non-adversarial threats targeting critical systems.
+Work with stakeholders as required to conduct systems and data research in support of development and sustainment of data models and/or simulations.
+Research the application of M&S techniques as applicable to critical systems and/or cybersecurity, as well as specific data models, to acquisition, engineering, and logistics support applications and develop associated data management and reporting capabilities.
+Support development of requirements for and support the application of a collaborative data modeling environment for both stand-alone users and remote access users at multiple classifications.
+Utilize Knowledge Representation & Reasoning (KR&R) tools and techniques to support development, modification, and application of data models linking critical systems concepts to critical cybersecurity data elements and mission concepts
+Modify and use databases
+Qualifications
+
+Candidates for this position must possess the following professional experience and qualifications:
+Bachelors Degree in Electrical, Mechanical or Computer Engineering from an ABET accredited college/university
+Seven (7) years of professional experience within industry as a systems engineer, electrical, computer and /or electronics engineer.
+Two (2) years of experience in MATLAB, SIMULINK, R, Python or other analytical programming language.
+One (1) year of experience developing or applying Machine Learning and/or Knowledge Representation & Reasoning (KR&R) tools, techniques, and/or algorithms
+One (1) or more years of experience developing or applying Semantic Web technologies including but not limited to: Web Ontology Language (WOL) and Resource Description Framework (RDF)
+Two (2) years of professional experience developing software using one or more high-level languages such as C/C++ or Java.
+Ability to obtain and maintain a secret clearance
+EEO Statement
+
+The GBS Group is proud to be an equal opportunity employer. We pledge equal access to employment, facilities, and programs, regardless of race, color, religion, sex/gender, sexual orientation, national origin, age, disability, marital or familial status, pregnancy, veteran status, genetic information, or any other characteristic protected by law.

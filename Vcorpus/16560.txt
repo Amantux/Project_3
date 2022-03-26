@@ -1,0 +1,40 @@
+Founded by Dr. Priscilla Chan and Mark Zuckerberg in 2015, the Chan Zuckerberg Initiative (CZI) is a new kind of philanthropy that's leveraging technology to help solve some of the world's toughest challenges – from eradicating disease, to improving education, to reforming the criminal justice system. Across three core Initiative focus areas of Science, Education and Justice and Opportunity, we're pairing engineering with grantmaking, impact investing, policy work, and movement building, to help build an inclusive, just and healthy future for everyone.
+
+Our Values
+
+
+We believe we can help build a future for everyone.
+We aim to be daring, but humble: We look for bold ideas — regardless of structure and stage — and help them scale by pairing engineers with subject matter experts to build tools that accelerate the pace of social progress.
+We want to learn fast, but build for the long-term: We want to iterate fast and help bring new solutions to the table, but we also realize that important breakthroughs often take decades, or even centuries.
+Stay close to the real problems: We engage directly in the communities we serve because no one understands our society's challenges like those who live them every day.
+Our success is dependent on building teams that include people from different backgrounds and experiences who can challenge each other's assumptions with fresh perspectives. To that end, we look for a diverse pool of applicants including those from historically marginalized groups — women, people with disabilities, people of color, formerly incarcerated people, people who are lesbian, gay, bisexual, transgender, and/or gender nonconforming, first and second generation immigrants, veterans, and people from different socioeconomic backgrounds.
+
+The Opportunity
+
+
+Our mission is to support science and technology that will help make it possible to cure, prevent, or manage all diseases by the end of the century. Interdisciplinary teams of physicians, biologists, computational scientists, and engineers can expand our understanding of the human body and illness — the science behind medicine. In the science initiative, CZI fosters collaboration between scientists and engineers, develops tools and technologies, and builds support for basic scientific research.
+
+Our team is seeking an interactive and interdisciplinary Community Data Manager that is eager to learn and work with the single-cell biology community. You will bring familiarity with data analysis, computational biology and sit at the interface of our grantee communities and internal initiatives to build single-cell biology tools and technologies. Your primary function will be to engage with the single-cell biology community, including CZI grantees and non-grantees, to help identify, transform and curate community generated datasets.
+
+The Community Data Manager will involve working within our program team and an international network of grantees. Responsibilities may include hands-on work such as data analysis, helping data generators transform data into standard formats, supporting grantees that require support with data transfers and engaging with the community to support data needs during early collaborations and publication. You will have a critical role executing our strategy to connecting the scientific community and the data that they generate to tools and technology that supports their use and accelerates community adoption.
+
+You will also have a role in informing our internal software projects to advance these areas.
+
+You will
+Join the Single-Cell Biology program, which currently supports over 200 grantees around the world. These groups are pushing the field forward and represent one of one of the most exciting and rapidly progressing fields in modern biomedical research.
+Engage with grantees and other members of the single-cell biology community that are actively generating data that may benefit from use of CZI open source tools and technology. This may include providing tutorials on current tools (e.g. cellxgene, starfish etc.), collecting contributing data and maintaining up-to-date on the literature to identify other groups to engage with.
+Maintain an internal "data roadmap" that tracks assay development and data generation in the field and among CZI grantees, with an eye to ensuring data comes from diverse groups of representative research participants. This work is important to understand macro-trends in the field and ensure that our strategy supports current and future work in the field.
+Contribute to single-cell open science goals and support grantees in fulfilling these requirements, such as sharing of data sets, code and resources
+Interact with grantees and other collaborators through meetings (e.g. workshops, hackathons), community surveys, analysis and visualization software, and data sharing infrastructure
+Partner flexibly and responsively with other CZI Science staff — people such as program officers, product managers, software engineers, and user experience researchers — and work toward aligned goals to maintain and deliver datasets and a corresponding roadmap
+Engage intellectually with the scientific community and identify new opportunities for CZI by attending conferences, establishing working relationships with leading external scientists, and support their work by connecting them with relevant CZI Technology
+Build bridges among grantees and internal CZI efforts by providing scientific feedback to the members of the CZI Tech team
+Contribute to a collaborative, inclusive, and intellectually rigorous team culture
+You have
+2+ years of experience in roles related to computational or quantitative biology and familiarity with academic research. A PhD is beneficial but not required.
+Direct experience in a discipline related to genomics, single-cell biology or neurodegeneration will be important. Deep expertise in these areas is not required but familiarity with them to help facilitate community engagement is
+Excellent written and verbal communication skills
+Experience and desire to work with, translating between, and learn more about software and scientific teams
+Exposure to and interest in work on racial bias and impact on data analysis, and population genetics of admixed populations
+Demonstrated ability to use and understand modern computational and statistical software tools (e.g. Python, R, Jupyter)
+Exposure to the core mathematical and statistical techniques commonly used in biology is a plus (including classical statistics, bioinformatics, machine learning, dimensionality reduction, etc.)

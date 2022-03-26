@@ -1,0 +1,28 @@
+It's a Perfect Day to change the world! At Perfect Day, we're doing just that.
+
+Perfect Day was founded in 2014 to create delicious, nutritious dairy products that everyone can love. We’re using fermentation (not animals) to make dairy proteins that are the foundation for foods like ice cream, cheese and yogurt – all with the distinctive taste and textures that consumers demand, but without lactose or environmental downsides. Through partnerships with respected brands, we’re working to launch a whole range of dairy products that will help shape a humane, sustainable food system for future generations.
+
+We seek to fill a cross-functional data management role which will empower multiple teams through data organization, sharing, and analysis. The company has both R&D and commercial manufacturing operations in the animal-free diary protein space. The Data Science & Engineering department at Perfect Day is currently looking for an enthusiastic Data Management Engineer to join the team. This role will fill the substantial need to structure disparate data streams, link functional teams via data sharing, and generally derive organization value through data integration. The ideal candidate will be comfortable working with scientists and engineers in cross-functional projects with the goal of make their data findable, accessible, interoperable and reusable (FAIR). This may be an opportunity to learn new areas or apply your considerable domain-specific knowledge and skills in a more senior role. Initial work might be as liaison to the food science, downstream processing, and/or fermentation teams.
+YOUR CONTRIBUTIONS
+Drive and implement structuring and ingestion of new and existing data sources in cooperation with disparate functional teams on various R&D departments
+Interface with DevOps engineers, data engineers and application developers to continuously improve data infrastructure and data analysis and ETL pipelines
+Advise functional team members on value extraction from data via integration and analysis, liaise with data scientists
+REQUIREMENTS
+Data Modeling: ability to translate complex/messy data types and streams into storable, linkable, and interpretable datasets
+Project Management: ability to influence and motivate individuals across teams to achieve data-centric goals
+Analysis: basic abilities in data munging, statistics, and/or machine learning
+Science/Engineering Background: ability to understand/learn and link biological, operations, and process engineering concepts
+DESIRED SKILLS AND EXPERIENCE
+Knowledge of one or more of the following disciplines: food science, protein biochemistry, microbial strain engineering, fermentation, process engineering and other disciplines related to our animal-free diary business and data types
+Demonstrated experience in a similar or related role
+Experience maintaining or creating a knowledge base for a similar organization
+Basic SQL skills, basic pandas/R data munging experience
+Familiarity with advantages/disadvantages of various database flavors
+Experience working in or managing software development: JIRA, git, python, javascript, AWS, software testing, documentation
+Statistics and Machine Learning Skills: basic tests, model training concepts, power analysis, model interpretation, Bayesian Inference
+Image processing and storage
+Natural Language Processing and applications
+
+
+
+It's a Perfect Day to change the world. The day when delicious dairy goodness is something everyone can love. The day we say goodbye to the downsides of factory farming. The day we throw a big party with luscious, animal-free milk, cheese, yogurt, and ice cream, all made with Perfect Day! We hope you join us!

@@ -1,0 +1,43 @@
+ABOUT US
+
+We are looking for a Data Scientist that will help us discover the insight hidden in vast amounts of clinical, biological, environmental, socio-economic, operations, and business data, and help us make smarter decisions to deliver even better health for our patients and population. Your primary focus will be in applying your mathematics and statistics skills and data mining techniques to build high quality analytics integrated with our delivery of care process and operational systems. This will include (but will not be limited to) developing big-data analytics solutions for “automated scoring using machine learning techniques”, “recommendation systems”, “improve and extend our existing platforms for machine learning and predictive modeling”, and developing “internal QA and validation procedures”.
+
+POSITION RESPONSIBILITIES
+
+Responsibilities:
+
+The Data Scientist will utilize their skills and competencies in big-data analytics and high performance computing and will collaborate with Montefiore Enterprise Data and Information Management teams to 1) build scalable, dynamic and enterprise analytics solutions for healthcare and population health management, 2) expand Montefiore data architecture with third party sources and linked open data when needed, 3) Enhancing Montefiore big-data collection procedures to include information that is relevant for building analytic systems, 4) develop automated and scalable data quality assurance processes for detecting anomalies, cleansing, and verifying the integrity of data used for analysis, 5) Move products through the full development process from research and validation through operational launch.
+
+The Data Scientist will utilize their strong statistical and mathematical background and foundational competencies and skills in big-data environments to develop accurate and scalable analytics functions and methodologies for
+
+Classification and Regression, Deep Learning, Decision Trees and Ensembles (Random Forest, XGBoost, and more), Bayes and Probabilistic classifiers and learners, Case Based Reasoning, Topological Data Analysis, Advanced Visualization, Natural Language Processing, and more.
+
+Contribute to our intellectual property portfolio
+
+Drive the rigorous data analysis effort and support group efforts toward high quality documentation.
+
+Will work routinely and extensively with data analysis packages such as Pandas and scikit-learn.
+
+QUALIFICATIONS
+
+Required Qualifications:
+
+Ph.D. in Data Science, Applied Math, Statistics, Computer Science, or other quantitative discipline
+
+Outstanding quantitative modeling and statistical analysis skills (3+ years academic and/or industry experience)
+
+Adept with at least one of the following data analysis software: Python, R, MATLAB
+
+Excellent verbal and written communication skills with the ability to effectively advocate technical solutions to research scientists, engineering teams and hospital stakeholders
+
+Preferred but not required:
+
+Experienced with the python scientific ecosystem (pandas, scikit-learn, matplotlib, numpy, scipy)
+
+Worked on software projects using a language such as Python, Java, C++, or Javascript
+
+Proficiency with databases, both distributed and single, and using a query language such as SQL, HIVE, or SPARQL
+
+Experience with distributed analytical frameworks such as Spark, H20 or Dask
+
+Experience with deep learning machine learning frameworks, like PyTorch or Keras

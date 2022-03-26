@@ -1,0 +1,33 @@
+We’re looking for intelligent, creative individuals to join our data science team. We’re looking to hire both junior and senior data scientists, so all levels from the recently minted PhD to the ML specialist are encouraged to apply. The ideal candidate has extensive experience gathering, cleaning, and analyzing data: time-series, text, and images. The candidate should have familiarity with Machine Learning or parameter fitting and a solid understanding of statistical methods. Experience with deep learning is preferred. The candidate must be “conversational” in a data analysis language, preferably python, and be able to prototype in at least one language. Familiarity with web languages is a plus.
+
+Data scientists at 4th-IR will work as part of a team to build and test data-driven solutions to challenges in healthcare. This can involve anything from creating statistical summaries of data sets, to building regression, decision tree, and/or deep neural network classifiers. The goal of the 4th-IR data scientist is to use their unique skills and intuition to architect solutions that demonstrate the power of data and Machine Learning to healthcare professionals and to go from zero to working prototype as quickly and efficiently as possible.
+
+At 4th-IR, we believe very strongly in our mission and we work to foster the successful careers of our employees. As we are a relatively new and small company, each employee has a significant impact on the direction and success of the company. If you’re interested in making an impact in healthcare using Al/ML, apply to join the team!
+
+Minimum requirements:
+
+Strong programming in at least one data-analysis language (Python, Matlab, R). Masters degree in a quantitative field or B.S. with two years industry experience applying ML.
+
+Familiarity working with diverse data types: csv, txt, xml, xlsx, relational databases, images. Experience with cluster or cloud computing (HPC cluster, Amazon EC2, etc.)
+
+Preferred skills:
+
+PhD in quantitative field
+
+Strong python skills, especially numpy, matplotlib, sklearn, pandas, flask, requests
+
+Deep learning libraries: keras, tensorflow, PyTorch, Caffe, or similar
+
+Web dev familiarity: html, css, JavaScript, Node, React, d3
+
+Familiarity with the Jupyter tools, particularly notebooks Familiarity with medical data and EHR
+
+Image processing and computer vision
+
+GPU programming
+
+Location:
+
+4th-IR has operations in New York City; Bay City, MI; and Lucerne, Switzerland; however, remote work with occasional travel is also fine.
+
+If you’d like to apply, please send a resume and a brief cover letter to careers@4th-ir.com.

@@ -1,0 +1,57 @@
+We are looking for a Principal Data Scientist who's interested in solving one of the world's largest problems: financial inclusion. Our team is doing cutting edge work in the field of Data Science and Machine Learning, using unique data to give people in emerging markets access to something that they’ve never had before - credit. Our Data Scientists work directly with Credit, Engineering, and Data Analytics teams to develop and iterate models that promote our vision of financial access for a billion people in emerging markets around the world.
+
+We leverage a unique, diverse, and deep data set, including text, network analysis, and image recognition. You’ll be surprised by the connections between our different data sources! Our Data Scientists are tasked with finding and communicating these connections to the team while integrating them into various models. If you are motivated to change the world through financial freedom and love working with people and data to achieve this mission, we want you here at Tala.
+
+You Will:
+
+Develop and codify best practices for modeling, testing, and analysis across the team
+
+Lead collaboration with cross functional teams to set a vision for data science and support data driven decision making with analyses and algorithm development
+
+Translate highly technical concepts into solutions and deliverables for stakeholders and senior management
+
+Continue to grow our Data Science team by recruiting junior data scientists to support the rapid growth of our core business and help deepen the integration of data science across the company
+
+Leverage a unique, diverse, and deep data set to find connections across these data sources. Communicate findings to the team and integrate them into models
+
+Own the full-cycle development of a model from ideation and training through deployment into our production environment. This might be a credit model, fraud model, marketing model, or an iteration of an existing model.
+
+Lead monitoring framework for model performance once deployed and iterate rapidly if necessary
+
+Contribute and share your findings and knowledge of data science and other modeling with all appropriate cross-functional teams
+
+Partner with the Engineering to develop, test, and deploy models
+
+You Have:
+
+7+ years of experience in a data science role
+
+Masters or PhD in a quantitative field
+
+Expert knowledge of modern machine learning algorithms and statistical inference
+
+Strong programming skills specifically in Python
+
+Proven ability to tackle business problems with data science solutions in production
+
+Bonus: Expertise in NLP, network analysis, or geospatial analysis
+
+Bonus: Experience in building fraud, credit, or risk models
+
+You are:
+
+Problem Solver: You thrive on finding novel solutions to hard problems. These problems may have ranged from extracting a new dataset from an unexpected source, to building cohorts for customer retention analysis, or the NY Times Saturday crossword.
+
+Communicator and Listener: You know your stuff is complicated, but can you communicate complex ideas to others in a manner that is easily understood and digestible? Can you collaborate well with your peers in growth/portfolio/customer experience? There is a large research component to the job, and this research needs to be effectively shared with the rest of the company.
+
+Curious: You aren’t content until you understand why the features you have built have the explanatory power they do, and why they aren’t just a spurious correlation.
+
+Opinionated (but Open-Minded): We are looking for someone to add diversity of thought to our current ensemble of data scientists.
+
+Teammate/Partner: Trust in your team and putting the team and mission above individual highlights (with an understanding that the collection of individual highlights and performance makes the teamwork).
+
+We strongly believe that inclusion fosters innovation and we’re proud to have a diverse team with a wide variety of backgrounds and experiences. We focus on hiring talented people regardless of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+About Tala:
+
+Tala is the leading mobile technology and data science company committed to financial inclusion globally. Millions of people have borrowed through Tala's smartphone app, which provides instant, personalized credit to underserved customers in East Africa, Southeast Asia, and Latin America. Tala is backed by leading venture and impact investors including PayPal, Revolution Growth, IVP, and Lowercase Capital. Tala is headquartered in Santa Monica with additional offices in Nairobi, Manila, Dar Es Salaam, Mexico City, and Bangalore.

@@ -1,0 +1,25 @@
+Title: Data Scientist/AI developer (DTJP00006737)
+Duration: 0-9 months
+Location: Austin, TX 78753 (All candidates must be W2 and they can sit remote)
+Pay rate: Up to $60-78/hr on W2 ***If candidates have more of a developer background they will need to be submitted more towards the minimum rate. If candidates have data scientist background they can be submitted up to the max rate***
+Job Description:
+Purpose: The Data Scientist/AI developer will lead the design efforts for Dell EMC to create industry-leading, turnkey AI systems and solutions for the rapidly growing intelligent data analytics needs of the industry. Responsibilities:
+The Data Scientist/AI developer will help design and implement Deep Learning (DL) systems for a wide variety of use cases and applications. This position will work with other Dell AI, Big Data and HPC architects, engineers, developers, and product managers to ensure that new DL solutions are best-in-class matched to customer needs, cost-effective, supportable, and have potential for significant impact and revenue. Data Scientist/AI developer will be involved in developing and implementing DL algorithms and models for various use cases. They will reviews and analyze software specifications for DL systems, aid in the review and analysis of design, functional, technical and user documentation. This position is also expected to help in the development, testing and integration of software stack, consisting of new or existing software components from Dell Technologies and ecosystem partners, on top of the architected infrastructure.
+Provides technical and consultative support on solutions opportunities. Participates as needed in pre-sales qualifications and delivery of technical architectural design, strategies and plans for engagements; works on single workstream within broader project; support and instruct less experienced co-workers through formal training or on-the-job mentoring; trains customer personnel. Supports Sr. Consultant/PM for project related items and advises on effort required
+Requirements:
+o M.S. (or BSc + additional experience) in Electrical Engineering, Computer Science, Mathematics or Statistics o 2+ year experience with proven record in the DL and data analytics domain o Programming experience in C/C++, Python or Scala o Experience in Neutral network. Require experience in at least one NN frameworks such as TensorFlow or Caffe o Strong programming foundation with a good understanding of data structures and programming concepts o Must have good language and communication skills. Must be able to clearly articulate advanced concepts. For a given project candidate must be able to clearly explain the objective, methodology used, and results obtained.
+Desired skills:
+o Experience in Spark programming. Understanding of RDDs and Dataframes. o Experience with data processing using packages like panda, numpy, Scikit-learn o Understand of data processing, including building complex data pipelines Notes: • Open to candidates working remotely. (We understand the new requirements with OPT) • We are open to hiring new college graduates (Masters) or candidates with just a couple of years of experience. Foundational knowledge is as important as the number of years of experience in desired field. • The candidates must be prepared for a technical interview. They should have access to a computer connected to the internet and be ready to write sample codes. • For candidates with more development background, we would like to make decisions in one round. For candidates with more data scientist background and higher rate, we might go to two rounds.
+Notes from PMO:
+All candidates must be W2 and they can sit remote
+***If candidates have more of a developer background they will need to be submitted more towards the minimum rate. If candidates have data scientist background they can be submitted up to the max rate***
+THESE QUESTIONS/ANSWERS MUST BE PROVIDED AT THE TOP OF THE RESUME UPON SUBMITTALS OR CANDIDATES WILL BE REJECTED.
+1. Provide an example project you worked on that used neural network
+2. Did you build the Neural Network from scratch or was there an existing ecosystem or internally build setup that you leveraged instead?
+3. What is your role on the project? How many people were in your team?
+4. Why did you choose this specific model against others?
+5. Can you elaborate on a couple of challenges you faced and how did you solve them?
+Top Skills:
+• 2+ year experience with proven record in the DL and data analytics domain
+• Programming experience in C/C++, Python or Scala
+• Experience in Neutral network. Require experience in at least one NN frameworks such as TensorFlow or Caffe

@@ -1,0 +1,60 @@
+Your Role
+
+
+The role of the Data Engineer is to work on end-to-end integration of new data sources coming in across different projects into the Innovaccer data platform.
+Data Acquisition: Analyse data from varied sources like databases, CSVs, XMLs and other formats and write SQL commands/scripts/code to transform them
+Data Management: Handle incoming data, validate it to ensure usability, map it to platform specifications and perform verification on the same
+Platform ingestion: Get trained on and then build pipelines to import incoming data onto the platform
+Issue analysis and resolution: Own the process end-to-end, identify issues & resolve the same
+A Day in the Life
+Design and build interfaces to facilitate workflows between client third party systems and the Data Activation Platform
+Define and document best practices along with thorough message specifications
+Understand Innovaccer data warehousing concepts and implement best practices
+Assemble large, complex data sets that meet functional / non-functional business requirements.
+Work with stakeholders including the Executive, Product, Data and Design teams to assist with data-related technical issues and support their data infrastructure needs
+Create data marts for analytics and data scientist team members that assist them in building and optimizing our product into an innovative industry leader
+Work with data and analytics experts to strive for greater functionality in our data systems
+What You Need
+3+ years of experience in a Data Engineer role, Graduate degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field.
+Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement.
+A successful history of manipulating, processing and extracting value from large disconnected datasets.
+Experience with relational SQL and NoSQL databases, including Postgres and MongoDB
+Experience with data pipeline and workflow management tools: Azkaban
+Experience with AWS cloud services: EC2, EMR, RDS, Redshift
+Experience with object-oriented/object function scripting languages: Python, Scala etc.
+Experience in Healthcare Data Analytics with a focus on the understanding of healthcare data formats (CCDA, HL7, etc.)
+Preferred Skills
+Healthcare Data experience
+Data Analytics and Visualization (PowerBI , Sisense)
+Presentation and documentation skills
+Value-Based Care knowledge
+What We Offer
+Industry-focused Certifications: We want you to be a subject matter expert in what you do. So, whether it’s our product or our domain, you will dive straight in and be certified by the best in the world.
+Quarterly Rewards and Recognition Programs: We foster learning and encourage people to take moonshots. When you achieve your goals, we recognize and reward your hard work.
+Health Benefits: We cover health insurance for you and your loved ones.
+Sabbatical Policy: We encourage people to take time off and rejuvenate, upskill and pursue their interests so that they can generate new ideas for innovating at Innovaccer.
+Pet-friendly office and open floor plan. No mundane cubicles.
+
+
+Apply Here
+
+
+Job Title
+
+Data Engineer
+
+
+Department
+
+Customer Engineering
+
+
+Employment Type
+
+Full Time
+
+
+Location
+
+Dallas, TX

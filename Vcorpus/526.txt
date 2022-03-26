@@ -1,0 +1,39 @@
+About Scoop
+
+Scoop brings co-workers and neighbors together to enjoy a smooth carpooling experience—unlocking new opportunities to create friendships, improve their well-being, and make the most of their valuable time.
+
+Learn more in Crunchbase: https://news.crunchbase.com/news/scoop-raises-60m-for-corporate-carpooling-as-gridlock-ruins-america/
+
+Engineering @ Scoop
+
+Few companies get to face such diverse technical challenges as Scoop, and we’ve built a team of people excited to face these challenges together while investing in each others’ growth.
+
+Scoop’s engineering team may move bits and pixels, but we also put real, live human beings in cars together. We’re touching problems academics have written about for years, and have data that no other company has ever collected.
+
+But Scoop knows engineering is not a lone discipline. We’re a small team with varied backgrounds: big companies, VC-backed startups, bootcamps, academia. We like to build together, and we like to learn together. Our entire team and process are built around helping you grow and be successful. And we’d love to tell you more about the impact you could have at Scoop.
+In this role, you will:
+Architect, develop, and deploy infrastructure for large scale ETL pipelines with data processing frameworks
+Productionizing machine learning - from research into fault-tolerant, production-scale deployments
+Manage data workflows
+Work closely with the Data Science, Analytics, Product and Platform teams to understand business needs and create a data platform that serves business needs
+Tech Lead projects and mentor team members
+Potential growth into Management
+You should:
+5+ years or equivalent experience
+Be proficient in Python and/or Scala (Scala preferred)
+Experience designing and operating distributed systems
+Emphasis in high code quality, high code clarity, automated testing, and engineering best practices
+Be able to clearly communicate complex technical concepts
+
+Preferred Qualifications:
+Mobility/Transportation domain knowledge
+Worked with open sourced projects like Spark, Kafka or Airflow
+Life @ Scoop
+
+Founded in 2015 and based in downtown SF, our team mixes technology and elbow grease every day, with one statistic in our crosshairs: 80% of Americans drive alone to work. At Scoop, we envision a world where commuters feel empowered — starting with a choice to make their commute a meaningful part of their day. We embody that same spirit within our own culture, empowering every team member to make this the most meaningful experience of their career.
+
+Walk into Scoop and you’ll find a furry, tail-wagging welcoming committee. In many ways these fluffy faces exemplify the energy that flows through our office. They are a reminder that while we’re focused and driven, we shouldn’t take ourselves too seriously. They also help bridge the gap between our homes and our workplace, just like a Scoop carpool.
+
+The atmosphere overall is dynamic and unique. It’s influenced by our backgrounds at successful startups, big tech companies, and premier consulting firms — blended and crafted into what feels natural and right for this company. It plays out in our balance of scrappy and strategic, frameworks and fast thinking.
+
+At Scoop, we’re all united by our desire to change the way people get to work — and committed to enjoying the journey together along the way.

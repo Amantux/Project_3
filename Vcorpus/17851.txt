@@ -1,0 +1,14 @@
+Data Engineer
+
+US-IL-Chicago
+
+Job Description
+
+Chicago, IL
+
+Full Time Perm
+
+Do you love working in a collaborative environment with free breakfast, coffee/tea/soda, social events and much more? Then read on because Omnitracs is looking for the best and brightest to help us disrupt the freight and logistics industry! What sets us apart from other logistics technology companies is our rich history in data! In 1988, Omnitracs (then Qualcomm) fundamentally changed the way fleets operate and we’re doing it again today. With over a million assets in over 70 countries, Omnitracs has a lot of data. Omnitracs’ newly formed Innovation Lab is innovating on this data to create new products - helping our customers not just survive, but thrive, in today’s complex transportation ecosystem. We are looking for you, Data Engineer, to join our fast-paced Agile team in Chicago. Who You Are As a Data Engineer, you will be responsible for data management tasks including design, development, and technical administration in an AWS environment. You will also provide technical leadership to the team and be responsible for maintaining technical specifications. As a Data Engineer, you will have a heavy focus on designing the solutions to deliver data products. To be successful in this role you will need a solid understanding of data management concepts and how cloud technology can solve data issues.
+
+Responsibilities and Duties As the Cloud Data Architect, your responsibilities will include, but are not limited to:
+• Oversight of the design and standards of AWS (S3, Redshift/Snowflake/SQL Server, Glue,) data applications • Train and coach data team developers • Oversee and implement security features, access and standards around data management • Assist in capacity and budgeting for data systems • Provide estimates and oversight within a Scrum environment • Strong SQL skills in data warehouse environment • Spark, Python and/or Scala experience • Lead code reviews Qualifications and Skills • At least 3 years IT experience in AWS data services • Hands on experience working with complex Data Warehouses and or customer linking systems • Data Lake experience using Spark, Scala, EMR and/or Glue • Data Modeling experience • Proficient with SQL • Solid S3 understanding • Experience with AWS Aurora, Oracle and/or SQL Server developer experience • Hands on experience using AWS RDS Nice to Have • Experience with Redshift or Snowflake using Matillion or other ETL tools • Identity & Access Management (Security Provisioning) understanding and knowledge

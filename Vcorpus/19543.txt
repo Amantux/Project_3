@@ -1,0 +1,112 @@
+Job Description
+JOB SUMMARY:
+
+IT Testing Specialists create test deliverables and perform hands-on testing for internally developed or externally purchased products. Types of testing may include system, integration, regression or end-to-end testing. IT Testing Specialists deploy or execute job streams for creating testbeds, design test scenarios, author test scripts, execute tests and track defects to certify that applications meet the approved system requirements. Working collaboratively with other IT staff to review and understand system requirements, and to design and review test strategies identifying resolutions for defects.
+
+IT Testing Specialist are expected to demonstrate strong analytical, organizational, problem-solving, and written communication skills to satisfy the main duties of this profession. Successful Testers are detail-oriented, self-motivated individuals who can work closely with teams of designers, engineers, and other related personnel while also being able to work independently as needed. They should display good judgment and be able decision-makers capable of exercising strong time management skills.
+
+Essential functions:
+
+• Creates a test approach, identifying the scope of testing with a risk-based approach for each feature or scope of work in a project effort identifying test environments, dependencies, constraints, prioritizing test cases and scheduling time for the testing.
+
+• Responsible for ensuring the end to end testing methodology including all appropriate documentation and requirements.
+
+• Sets up software and hardware in the test lab, per specs.
+
+• Ensures test results are accurate, thorough and appropriately documented.
+
+• Communicates results and coordinates logistics to the Systems Analysts, Developers, and other key IT staff and leadership as appropriate.
+
+• Documents problems or results inconsistent with expected results.
+
+• Performs quality assurance tests on all work and performs detailed analysis on test results.
+
+• Certifies application for release to the next testing stage or to the production environment. Generates and distributes periodic status reports for testing.
+
+• Sets up and executes complex scripts independently.
+
+• Sets up test data beds based on data matching specific test conditions.
+
+• Creates and executes moderately complex SQL queries.
+
+• Executes automated test scripts.
+
+• Writes/coordinates resolution of system defects. Ensures appropriate hand-offs and re-testing
+
+• May provide technical guidance to other IT Testing Specialists.
+
+• Participates in requirements gathering sessions or solicits information on incomplete requirements.
+
+• Participates in facilitation and coordination of user acceptance testing.
+
+• Design tests to aid learning and mitigate risks.
+
+• Work with developers to create automated tests.
+
+• Work with business analysts and business stakeholders to undertake exploratory testing.
+
+• Ensures stories contain specific acceptance test conditions which communicate objectives to both technical and non-technical stakeholders.
+
+• Knowledge of performance and security vulnerability testing is a plus.
+
+• Assist the product owner in coming up with the acceptance criteria for user stories.
+
+REQUIREMENTS:
+
+Strong experience Testing API’s, back end testing, strong database querying, REST, SOAP, Test/Plan/Creation Knowledge demonstrated. Manual AND Automation testing experience is preferred.
+
+• Must have strong knowledge of SDLC
+
+• Must have strong knowledge of STLC
+
+• Must have strong knowledge of Testing concepts
+
+• Must be able to create and execute test cases
+
+• Thorough understanding of the business process(s) and flows involved in the system capabilities being tested
+
+• Thoroughly understands As-Is and To-Be business processes to understand what's changing
+
+• Ability to communicate with the business in business language and with developers in technical language
+
+• Must have strong PC skills and demonstrated proficiency in the MS Office Suite products
+
+• Experience with testing management tools:
+
+o Automated; Selenium, Robotium, TestComplete, QTP, SoapUI, Visual Studio Test Pro, etc
+
+o Manual; Selenium, Appium, JMeter, Jenkins, TestLink, Mantis, Postman, Firebug, etc
+
+• Must have the ability to extract data utilizing moderately complex SQL queries
+
+• Ability to read logical and physical data models and understand the relationship between various tables
+
+• Ability to clearly identify data needs and requirements for the respective test efforts
+
+• Ability to execute automated test scripts as needed
+
+• Ability to read various system input/output files; XML, Flat, 834, 835, etc
+
+• Must have the ability to create unique test scenarios
+
+PREFERRED QUALIFICATIONS:
+
+The preferred qualifications listed below reflect the desired knowledge, skill, and/or experience.
+
+Additional Preferred Qualifications:
+
+• Various Domain experience; Health Care, Financial, etc
+
+• Experience using Agile, Waterfall, or hybrid methodology
+
+• Specific tools, languages and speciality skills may vary
+
+Required Experience:
+
+5-8 years of professional experience in an IT-related field preferably in a development or testing environment
+
+REQUIRED EDUCATION:
+
+Bachelor’s Degree in a Computer related field or relevant work experience
+
+CTFL Certification

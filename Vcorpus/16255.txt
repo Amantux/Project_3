@@ -1,0 +1,25 @@
+Overview
+
+Role: Big Data Engineer with HL7 Healthcare/Python
+
+Location: Dallas, TX
+
+Duration: 9 Months
+
+Top Three Skills:
+
+1) Big Data Solutions in Cloudera Environment (Act as a technical expert addressing problems related to system and application design, performance, integration, Automation, etc.)
+2) Enterprise Data Lake App. Development(Hive, Kafka, Flume, Sqoop, oozie, Spark, Shell Scripting, Python, SQL.all a must)
+3) Data Warehousing (experience with relational database management systems like Oracle, Microsoft SQL Server, etc. )
+4) Healthcare Domain Knowledge (HL 7, Health care exchange data, population health, claims data etc)
+
+Job Description:
+
+The Big Data Engineer is responsible for designing and building big data platforms, tools, and solutions that help manage, secure, and generate value from data. The person in this role creates scalable and reusable solutions for gathering, collecting, storing, processing, and serving data at scales.
+
+As a member of the Big Data team at Ascension, this person will specialize in Big Data technologies and solutions, helping to support teams in response to deliverables, ownership and pro-activeness to drive positive customer experience.
+
+Ascension Health (Ascension Information Systems) is in the process of constructing a large enterprise data warehouse (data lake, etc. ). Construction of structured data segments within the enterprise data warehouse is imperative to segmenting the provider healthcare data being pulled from the different Ministries (hospital networks) within the Ascension Health Network. The developers within this task will have expert understanding of design patterns and have strong analytical skills. The organization craves forward thinking, resourceful developers with experience in Big Data solutions for enterprise businesses. Proficiency in gathering requirements, analysis and validation of business requirements, specifications; along with functional specifications for schema creations and table creations.
+Extensive experience in all phases of Software development life cycle (SDLC) is a must.
+Excellent skills in analyzing system architecture usage, defining and implementing procedures.
+Hands on experience in programming and implementation of Java, Scala and Python codes with strong knowledge in Object Oriented Concepts.

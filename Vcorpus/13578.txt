@@ -1,0 +1,35 @@
+Job Description
+What does WITHIN do?
+
+We are Performance Branding experts. WITHIN works with some of the coolest brands and hottest startups, including Nike, AB InBev, Spanx and Shake Shack. We leverage digital channels and inspiring creative to fuel clients' growth using data every step of the way to drive our decision making.
+
+What you will build as a Data Scientist at WITHIN...
+You will cross-functionally collaborate with the Performance and Creative teams to understand our business then build machine-learning models to uncover trends and optimize performance
+You will build scalable clustering, customer lifetime value, and churn models to help clients maximize long-term profitability
+You will build and maintain data pipelines internal and external teams rely on for making key decisions
+You will build and improve our underlying data infrastructure (we currently use Fivetran, GCP/BigQuery, and dbt as our analytics stack)
+Requirements
+
+You might be a fit for this role if...
+You have professional SQL experience and understand the benefits of columnar storage
+You have familiarity with git and the command line
+You know how to write object-oriented Python
+You have experience building machine learning models for both structured (decision-trees, linear regression, etc) and unstructured data (Computer Vision, NLP)
+You understand the benefits of dbt for data transformations
+You have the desire to learn Microservice Architecture (Docker and Kubernetes)
+You are naturally curious and embrace failure as you learn new technologies
+You have an obsession with accuracy
+You have excellent listening and collaboration skills
+Benefits
+
+We offer competitive salary and benefits based on ability level including:
+Competitive salary dependent on experience
+Unlimited vacation policy
+Anniversary vacation bonus
+401k with match
+Fully paid health insurance premiums
+Monthly transportation and phone stipends
+In-house massages, manicures, and haircuts
+Daily lunch
+Fully stocked kitchen
+Dog-friendly office

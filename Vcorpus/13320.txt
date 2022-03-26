@@ -1,0 +1,24 @@
+Our mission is to create technologies that unlock the power of affordable precision medicine. If that
+inspires you, lets talk. We are a startup company with a plan to disrupt the clinical testing market. Our focus is on building NGS diagnostic and software solutions from the ground up, leveraging experiences in genomics, data analytics, clinical testing and patient focus to quickly innovate and penetrate the market. If you thrive in a brilliant, fast-paced, and mission-driven environment, this is the place for you!
+
+Job Purpose
+We are seeking a data scientist who is interested in helping to build and scale genome technology software
+products with application to clinical diagnostics driven by statistical data discovery. The applicant will be
+responsible for developing new algorithms for data analysis, and providing computational support for our core technology and product development. This exceptional opportunity offers the chance to support research and development efforts at the forefront of genomic and cellular understanding of cancer, as well as statistical analysis, big data and cloud development. The successful candidate will have the opportunity to innovate and build new bioinformatic products from basic data scaling to big data discovery. Many of the algorithm developments require novel use of data by applying current and emerging machine learning techniques.
+
+Responsibilities
+Understand and explore data patterns.
+Discover new statistical ways to interpret data.
+Deep understanding of statistical methods including but not limited to Bayes' theorem, Hidden Markov Model, etc.
+Translate product ideas into defined data science challenges and solve them.
+Design and deploy algorithms and machine learning systems backing product development.
+Assist with big data analysis implementation and cluster computation including but not limited to Celery, Hadoop, Spark, etc.
+Help optimize software performance and improve algorithm accuracy.
+Qualifications.
+PhD or Masters in Data Science, Computer Science, Engineering, Physics, Mathematics or other scientific field of study. (PhD preferred)
+Proven relevant experience in data analytics (does not need to be in bioinformatic field).
+Proficiency in Python for numerical/statistical programming including Numpy, Pandas and standard machine learning libraries.
+Possess strong analytical and problem solving skills.
+Willingness to work hard and be creative in a fast-paced environment.
+Able to work both independently and collaboratively with colleagues.
+Capable of working in a team environment with good communication.

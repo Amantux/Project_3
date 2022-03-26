@@ -1,0 +1,37 @@
+Grubhub is dedicated to connecting hungry diners with our wide network of restaurants across the country. Our innovative technology, easy-to-use platforms and streamlined delivery capabilities make us an industry leader today, and in the future of online food ordering.
+We strive to create a workplace that reflects the diversity of our customers and the communities we serve. When you join our team, you become part of a community that works together to innovate, solve problems, take risks, grow, work hard and have a ton of fun in the process!
+Why Work For Us
+We have a fast-paced environment and that is what our teams thrive on. Grubhub believes in empowering people and offering opportunities for development, as well as professional growth. We value strong, positive relationships in all areas: with each other, our customers and our greater community. Want to be a part of a team of diverse collaborators in an authentically fun culture? If so, we want to talk to you - and hear what’s your favorite restaurant for food delivery!
+Grubhub is looking for an innately curious, business-minded, results-oriented Data Scientist to work on our Logistics Data Science team. As part of our Delivery initiative, this team is focused on developing models, algorithms, simulations, and experiments to accelerate and perfect our delivery systems. As a member of this highly collaborative team, you will get to partner with stakeholders all across the business to solve diverse, novel and highly challenging problems. The team’s responsibilities are uniquely broad; they encompass topics such as delivery timing estimation, driver payment strategies, dynamic market balancing and smarter driver dispatching.
+A successful candidate is a motivated individual with strong model, algorithm, and software development, and communication skills. They should hold themselves to a high standard for coding best practices and a passion for pushing their team to new heights by designing new tools and evangelizing durable and efficient solutions for deploying large scale machine learning models and algorithms. Ideally, the candidate would strive to remain abreast with related science technologies, show leadership in charting new avenues for automation through data science and the rare ability to appropriately balance short term gains with long term goals.
+
+Build and deploy models and algorithms that intelligently automate a diverse array of services and operations that make Grubhub food delivery possible.
+You will constantly pivot between the daily tasks of analysis, model building and programming to architecting a strategic vision for how our team can automate and optimize Grubhub’s delivery operations.
+You will develop and maintain strong relationships with software engineering teams consuming your algorithm and model outputs.
+Apply robust and maintainable coding practices to ensure high-quality outputs at all times to our model consumers.
+
+You should have:
+Master’s degree in a quantitative or technical field such as Statistics, Mathematics, Physics, Computer Science or Computer Engineering
+4 years of industry experience in a data science role or adjacent position
+Expert knowledge with Python scripting language and SQL.
+Experience with the entire pipeline of deploying machine-learning algorithms including their development, validation, implementation, and production launch.
+Demonstrable proficiency in basic statistics, linear algebra, and calculus as they relate to machine learning concepts.
+Interest in coding best practices, both in acquiring them, developing them, and evangelizing them to teammates and others.
+Strong ability to distill and communicate complex technical concepts and solutions at a level appropriate for the intended audience.
+Got These? Even Better:
+Ph.D. in aforementioned quantitative or technical field or 6 years of industry directly relevant industry experience.
+Past successes processing, analyzing, and modeling GPS data or geotraces.
+Experience with big data: extraction, processing, filtering, and presenting large data quantities using cloud technologies like AWS.
+Familiarity with utilizing a clustered distributed-data processing tool such as Spark, Dask or Hive.
+Expert level knowledge of experimental statistics, analysis and best practices.
+
+Flexible PTO. Grubhub employees are provided a generous amount of time to recharge their batteries.
+Health and Wellness. We provide programs that support your overall well-being such as generous medical benefits, employee network groups, company-wide fitness challenges, and a comfortable and casual workplace! We also support our parents by offering 8 weeks of paid parent bonding time, a 4-week returnship program, and 6-8 weeks paid medical leave.
+Learning and Career Growth. Your personal and professional development is a priority at Grubhub. From day one, we empower you to lead and be an active participant in your career growth. We provide continuous learning opportunities, training, and coaching and mentorship programs.
+MealPerks. Who’s ready for some lunch? We provide our employees with a weekly Grubhub credit to enjoy and support local restaurants. We also offer company-wide meals several times a year to bring our Grubhub family together.
+Fun. Every Grubhub office has an employee-led Culture Crew that connects people through fun, meaningful events and initiatives. Some of our popular past events include: Wing-eating contests, Grubtoberfest, 5k Runs, Bring Your Child to Work Day, regular happy hours, and more!
+Social Impact. We believe in the importance of serving the communities that support our business. In addition, employees are given paid time off each year to support the causes that are important to them.
+
+Grubhub is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics. The EEO is the Law poster is available here: DOL Poster. If you are applying for a job in the U.S. and need a reasonable accommodation for any part of the employment process, please send an e-mail to TalentAcquisition@grubhub.com and let us know the nature of your request and contact information. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this email address.
+
+CA Privacy Notice: If you are a resident of the State of California and would like a copy of our CA privacy notice, please email privacy@grubhub.com.

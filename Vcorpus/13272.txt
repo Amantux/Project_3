@@ -1,0 +1,30 @@
+#TeamNextdoor
+
+
+Nextdoor is the neighborhood hub for trusted connections and the exchange of helpful information, goods, and services.
+
+Building connections in the real world is a universal human need. That truth, and the reality that neighborhoods are one of the most important and useful communities in our lives have been guiding principles for Nextdoor. Today, neighbors rely on Nextdoor in neighborhoods around the world in the United States, the United Kingdom, Germany, France, the Netherlands, Italy, Spain, Sweden, Denmark, Australia and Canada, with many more to come.
+
+Meet your Future Neighbors
+
+
+At Nextdoor, machine learning is starting to transform our product through personalization, driving major impact across different parts of our platform including our newsfeed, our notifications, and our ads relevance. Our machine learning team is lean but hungry to drive even more impact and make Nextdoor the neighborhood hub for local exchange. We are scrappy and believe that ML will be an integral part of making Nextdoor valuable to our members. We also believe that ML should be ethical and encourage healthy habits and interaction, not addictive behavior. We are looking for great engineers who believe in the power of local community to empower our members to make their communities great places to live.
+
+The Impact You'll Make
+
+
+You will be part of a scrappy and impactful team building data-intensive products, working with data and features, building machine learning models, and sharing insights around data and experiments. Some of the current products / projects you could work on include the newsfeed, ad relevance, search, notifications, trust and safety, and neighborhood vitality. You will build critical decision-making models for the product, enhancing the relevance and value of our products. Finally, you will help build the foundational patterns that ML engineers will use for years to come as we ramp up our effort to introduce machine learning into our platform.
+Collect and gather datasets to build machine learning (ML) models that make real-time decisions for the Nextdoor platform
+Analyze datasets and and use important features to build low-latency models for decisions that need to be made quickly
+Deploy ML models into production environments and integrate them into the product
+Run and analyze live user-facing experiments to iterate on model quality by measuring impact on business metrics
+Collaborate with other engineers and data scientists to create optimal experiences on the platform
+What You'll Bring to The House
+B.S. in Computer Science, Applied Math, Statistics, Computational Biology or a related field
+5+ years of industry/academic experience applying machine learning at scale.
+Proven engineering skills. Experience writing and maintaining high-quality production code. Python experience a plus.
+Ability to work with and analyze large amounts of data.
+Ability to succeed in a dynamic startup environment.
+Bonus Points
+Experience building ML products at large consumer-facing companies
+Experience building ML products related to ads relevance or newsfeed products

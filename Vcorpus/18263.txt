@@ -1,0 +1,38 @@
+At Deepgram, we’re on a mission to be the speech company — starting with providing the world’s best automatic speech recognition for business. We’re backed by Y Combinator (W16) and recently raised a Series A funding round to push the deep learning state of the art in speech. As a Software Engineer, you’ll build high-performance, scalable backend products and services.In conjunction with our ML team, you’ll build across a challenging mix of low-level system optimizations and high-level distributed systems.
+We’ve scrapped traditional speech recognition methods for patented end-to-end deep learning speech models built specifically for the needs of each customer. This allows enterprise data science and product teams to confidently tackle initiatives like building voice assistants for doctors, using AI to assist call center agents, automatically detecting good candidates to hire, and more.
+
+Because we serve a diverse range of customers, our team prides itself on our willingness to learn and our tenacity to keep improving.
+
+The Opportunity
+
+Deepgram is the leader in high performance computing (HPC) solutions for next-generation speech analytics. Our software works closely with GPU hardware to provide a low-latency, high-throughput, scalable speech API that our customers engage with. At Deepgram, you will design products powered by the latest deep learning technologies; implementing secure, robust, and scalable customer-facing services; and working with customers to ensure they are fully leveraging Deepgram’s product offerings. Ideal candidates would thrive on a faced-paced, impact-driven environment where learning new skills on-the-fly is encouraged.
+
+You will get to:
+Improve Deepgram’s core services
+Work with customers to identify new product features
+Design and implement new services, features, and/or products
+You are a good fit if you have:
+Expert competence in C, C++, or Rust (preferably Rust), with competence in Python
+Competence with UNIX-style systems
+Competence working with distributed systems
+3+ years of professional development experience
+Benefits include:
+Unlimited PTO
+Flexible schedule
+Comprehensive Medical, Dental, Vision
+Meals and snacks covered when working from the office
+Formalities
+This is a full time, permanent remote position. Wherever you are is great! We also have an office in San Francisco, if you’re into that sort of thing.
+We work US-based timezones. You’ll need at least 4 working hours of overlap with a 9am-5pm US Central time zone.
+No visa sponsorship is available
+No recruiters, please
+Job Type: Full-time
+
+Work Location:
+Fully Remote
+Visa Sponsorship Potentially Available:
+No: Not providing sponsorship for this job
+Company's website:
+www.deepgram.com
+Work Remotely:
+Yes

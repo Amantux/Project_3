@@ -1,0 +1,46 @@
+About Ro
+Founded in 2017, Ro is a patient-driven telehealth company that puts you in control of your health. We’re patients, just like you, building technology to make healthcare accessible, affordable, and maybe even enjoyable. Ro powers three digital health clinics -- Roman for men’s health, Rory for women’s health, and Zero for fighting smoking addiction -- as well as Ro Pharmacy, a simple and affordable online pharmacy where every medication is $5 per month. The company’s nationwide networking of physicians and pharmacies provides a personalized, end-to-end healthcare experience from online treatment to the delivery of medication and ongoing care. Ro was named #2 in Wellness on Fast Company’s 2019 list of the World’s Most Innovative Companies, and listed by Inc. Magazine as a Best Place to Work in 2020.
+
+We’re looking for a Senior/Staff Data Infrastructure Engineer who is motivated to strive for technical excellence, working on unique high impact problems to empower teams across Ro’s business. You’re a data-savvy engineer with strong technical and communication aptitude, bringing knowledge around infrastructure (including high availability, CI/CD, and deployment strategies), databases, and data pipelines. You’ll own and lead projects from start to finish, working closely with internal teams to deliver optimized, scalable solutions. You’ll regularly bring technical stakeholders, non-technical stakeholders, and fellow engineers together to build sustainable solutions that are good for everyone.
+What You’ll Do:
+Build, automate, and manage the life-cycle of the systems and platforms that collect, process, and surface our data (production side and analytics side)
+Develop sophisticated custom tooling to enhance the workflows of Data Analysts and Data Scientists
+Own new initiatives by collaborating with other infrastructure engineers, software engineers, data analysts, ML experts, and stakeholders throughout the company
+Be an excellent systems engineer, with reliability and scalability always top of mind
+Work with stakeholders in Data and on other teams to assist with data-related technical issues and support their data infrastructure needs
+Keep our data secure, including via appropriate access control mechanisms, a stringent secure-by-design mindset, and following industry best practices or forging new ones where needed
+Provide visibility into the health of our data infrastructure
+Manage the Data team’s infrastructure, including databases, computing resources, and orchestration
+Build large-scale batch and real-time data pipelines with data processing frameworks (ex: Scio, Storm, Spark, EMR, etc)
+Help drive optimization, testing, and tooling to improve data quality
+Implement ETL processes and data pipelines to load data from a variety of first- and third-party applications
+What you’ll bring:
+Experience building, deploying, monitoring, and optimizing production data collection systems at scale
+Strong analytical intuition; experience working with data analytics groups
+A track record of project ownership for projects that involve many contributors and stakeholders, technical and non-technical alike
+A track record of implementing and also developing industry best practices
+Excellent communication skills, from written/verbal to documentation to presentations
+Experience building libraries and tooling that provide beautiful abstractions to users
+A track record of promoting best practices by example and of mentoring other enginee
+Bonus points:
+Experience developing CI/CD workflows
+Experience building in a microservices architecture
+Experience scaling/maintaining production databases
+Experience with the Python and Go programming languages
+Experience build large-scale batch and real-time data pipelines with data processing frameworks like Scio, Storm, or Spark
+Experience with machine learning deployment
+Experience leveraging best practices for a services architecture with CI/CD, including building out testing suites for developers working in a CI/CD deployment environment
+Benefits + Perks:
+Full medical, dental, and vision insurance + OneMedical membership
+Healthcare and Dependent Care FSA
+Commuter benefits
+401(k)
+Unlimited PTO
+Fitness reimbursement
+Paid maternity/parental leave
+The cutest office dog you’ve ever seen
+
+
+We welcome qualified candidates of all races, creeds, genders, and sexuality to apply.
+
+See our California Privacy Policy here.

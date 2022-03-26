@@ -1,0 +1,39 @@
+COMPANY OVERVIEW
+
+For over a century, Neiman Marcus Group has served the unique needs of our discerning customers by staying true to the principles of our founders: to be the premier omni-channel retailer of luxury and fashion merchandise dedicated to providing superior service and a distinctive shopping experience in our stores and on our websites. Neiman Marcus Group is comprised of the Specialty Retail Stores division, which includes Neiman Marcus and Bergdorf Goodman, and our international brand, mytheresa.com. Our portfolio of brands offers the finest luxury and fashion apparel, accessories, jewelry, beauty, and home décor. The Company operates more than 40 Neiman Marcus full-line stores in the most affluent markets across the United States, including U.S. gateway cities that draw an international clientele. In addition, we operate 2 Bergdorf Goodman stores in landmark locations on Fifth Avenue in New York City. We also operate more than 20 Last Call by Neiman Marcus off-price stores that cater to a value oriented, yet fashion minded customer. Our upscale eCommerce and direct-to-consumer division includes NeimanMarcus.com, BergdorfGoodman.com Horchow.com and LastCall.com. Every day each of our 15,000 NMG associates work towards the goal of enabling our customers to shop any of our brands "anytime, anywhere, and on any device." Whether the merchandise we sell, the customer service we offer, or our investments in technology, everything we do is to enhance the customer experience across all channels and brands.
+
+Principal Data Scientist-- Ensemble Algorithms and Architecture
+
+Job Summary
+
+A Principal Data Scientist in Neiman Marcus Group (NMG) enhances customers’ magical luxury shopping experience and increases NMG’s NPV by applying algorithms. The Data Scientist performs statistical and econometric analysis, AI/ML modeling, and optimization. The Data Scientist solves use cases related to personalization, marketing promotions, merchandise planning, supply chain, pricing, and cost. This position will lead data science needs across all Neiman Marcus Group brands, divisions and selling channels.
+The major job responsibility for this position is to develop ensemble algorithms in cascaded orchestration platform for multi-service use cases for NMG. The Principal Data Scientist will develop expandable and rapidly deployable algorithm and models for use cases such as Next Best Action (NBA). The position requires expert level skills in neural network and graph theory in building time-sensitive and association-based next best action and next best complete the look product recommendation system. Modular algorithm and models developed by the Principal Data Scientist can be cascaded to be used for many use cases for various use cases in personalization, marketing promotions, merchandise planning, supply chain, and pricing optimization.
+
+Job Duties
+The position will report to the Director of Data Science and will have a dotted-line leadership responsibility to mentor and train at least three junior- or senior-level data scientists.
+Collaborate with cross-organization to ideate and prioritize use cases, business problems, and user stories that can enhance customers experience and increase NMG ROI.
+Lead data science projects independently while collaborating with team members and multi-organizational stakeholders.
+Perform hands-on advanced analysis in personalization, marketing science, retail analytics, business analytics, and supply-chain analytics using big data in cloud environment to improve customer satisfaction and promote growth.
+Leverage state-of-the-art data science tools, methodologies, and algorithms to drive improved decisions
+Collaborate in the development and implementation of predictive models, segmentation strategies, optimization algorithms, and data mining analyses with a targeted result of increasing revenue.
+Research, innovate, and design algorithms and techniques to contribute in optimization and automation.
+
+Job Requirements
+At least a quant-based graduate degree such as Computer Science, Electrical Engineering, Math, Statistics, Physics, Economics, or other related fields from a reputed university with course work that includes analytics, coding, statistics, math, and algorithm development. Ph.D. is Preferred
+Strong in Math, Statistic, Finance, and Econometric
+Expert Level skills in one or many of the followings:
+Graph/Network Theory
+Personalized Recommendation Engine for Next Best Action and Next Best Choice
+5 years of hands on experience in Data Science.
+Experience in processing and performing multi-faceted analysis with on-line browsing, sales transaction, product, and inventory data.
+Experience in working in retail space will be a plus.
+Experience in developing or enhancing models applying machine learning and neural network algorithms, graph/network theory, statistical analysis, and optimization theories.
+Experience in using Keras, Tensorflow, and scikit-learn
+Strong coding skills in SQL, Python.
+Experience in working with distributed computing i.e. Hive, Apache Spark
+Experience in working on AWS SageMaker, S3, and SnowFlake will be a plus
+Knowledge of descriptive analytics and data visualization
+Experience with full lifecycle agile and experimental design methods.
+Exceptional standards for quality and strong attention to detail
+Ability to manage multiple projects and on-demand business requests simultaneously
+Able to work in a fast-paced core team environment with team members from diverse areas such as marketing, creative, strategy, and product.

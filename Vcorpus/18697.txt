@@ -1,0 +1,32 @@
+ForeSee Medical is a tech start-up with a legacy management team focusing on improving the patient care landscape. Are you a seasoned senior developer looking for a greenfield project? Do you want to work on a revolutionary platform to help improve healthcare efficiency? If so, keep reading.
+
+ForeSee engineers develop the next-generation open platform, cognitive processing software solutions that place data in the hands of providers and care teams to empower them to positively influence health outcomes.
+
+We’re looking for engineers who bring fresh, progressive ideas and the spirit of innovation as we embark on our journey. As a key member of a small and versatile team, you will design, test, deploy and maintain the ForeSee solutions.
+
+As an engineer, you will work on projects critical to helping healthcare providers and patients as they navigate an ever-changing healthcare industry. We are seeking software engineers that want to be part of the creative process as well as versatile, display leadership qualities and passionate about working on revolutionary solutions to the problems facing the industry.
+
+WHAT YOU WILL BE DOING
+
+Design, implement and maintain libraries, and develop new algorithms and services for:
+Named Entity Extraction, Language Detection
+Emotion/Sentiment Prediction
+Keyword and Topic Extraction
+Deep-learning Chatbots and dialog modeling
+Intent detection, Query Parsing, Semantic mapping
+WHO YOU ARE
+You’ll hold a PhD or Master’s Degree in Machine Learning, NLP, Statistics or Computational Linguistics.
+You’ll have extensive experience in building and implementing NLP systems
+Strong coding skills in Python
+You are a seasoned developer.
+You care about quality and you know what it means to ship high quality code. You practice TDD daily.
+You enjoy experimentation and new ideas.
+You enjoy learning and always improving yourself and the team around you.
+You have a deep understanding of system design, data structures, and algorithms.
+You are familiar with OOAD, SQL and NoSQL Concepts, Relational Data Modeling, REST and HTTP, MVC Architecture.
+Your past projects include having worked in a team to develop large scale enterprise web applications dealing with millions of users serving a large user population which is currently in production.
+REQUIREMENTS
+4+ years of professional experience developing large scale enterprise application.
+3+ years of experience with use of backend languages like Python, Java
+Expert with use of SQL for data discovery
+2+ years of Relational database experience

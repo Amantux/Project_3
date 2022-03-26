@@ -1,0 +1,35 @@
+About TelTech
+
+A member of the IAC family, TelTech builds innovative communication apps that help people better enjoy their mobile-connected lives. From RoboKiller, an app that stops and gets even with telemarketers, to TapeACall, which records iPhone conversations, we build apps that protect our customers every day. We are looking to expand our team with creative, talented, and passionate people who are committed to the growth of our existing products as well as new products we intend to launch. TelTech's sister companies in Mosaic Group include iTranslate (Apple Design Award Winner 2018), Daily Burn (top-rated health and fitness company), and Apalon.
+
+Position Summary
+
+This position will serve as the primary data engineer for TelTech. A successful data engineer at Teltech will have significant data warehousing experience, Python development experience, and mastery of SQL. The data engineer will also be proactive in maintaining relationships with product, marketing, and analytics to ensure all data-related business needs are met.
+
+Responsibilities
+Gather requirements from business stakeholders (product, marketing, analytics) and effectively translate them into a data environment that supports business needs
+Design and maintain data warehouse (PostgreSQL and BigQuery) and data lake (GCS)
+Build batch and real-time data pipelines to ingest and process data from various sources such as product backends, third party platforms, etc.
+Build internal tools and services to support data analytics and engineering
+Help product, marketing, analytics, and engineering with diagnosing data-related issues
+Document, profile, and manage data across multiple products and platforms for data governance (consistent naming conventions, data validation, data retention)
+Maintain a line of communication between developers and data team to ensure all stakeholders are up to speed on changes to source database schema for analytics purposes
+Work closely with other data engineering teams across Mosaic to ensure alignment of methodologies and best practices
+Qualifications
+2 - 4 years experience programming and scripting in Python within a production environment
+Hands-on experience with relational databases (MySQL and PostgreSQL)
+Familiarity with creating ETL processes for large-scale data warehouses
+Must have familiarity with GCP and its offered services (BigQuery, CloudSQL, Dataprep, etc)
+Knowledge of PubSub, or relevant messaging queue like Kafka, is a must
+Distributed file systems (GCS, HDFS) knowledge is a must
+Familiarity with Java, JavaScript, Airflow, Docker, Scala, and Spark are preferred
+Familiarity with NoSQL is a plus
+Prior experience with CI/CD is a plus
+Why TelTech?
+An amazing working environment with a lot of perks including but not limited to:
+Unlimited PTO!
+Matching 401k!
+Company Contribution towards Commuter Benefits!
+Fully stocked kitchen!
+Environment where you can mentor and learn from others.
+PRIVACY STATEMENT

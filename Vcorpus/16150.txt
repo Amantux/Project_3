@@ -1,0 +1,45 @@
+Nokia is a global leader in the technologies that connect people and things. With state-of-the-art software, hardware and services for any type of network, Nokia is uniquely positioned to help communication service providers, governments, and large enterprises deliver on the promise of 5G, the Cloud and the Internet of Things.
+
+Serving customers in over 100 countries, our research scientists and engineers continue to invent and accelerate new technologies that will increasingly transform the way people and things communicate and connect.
+
+Nokia is an equal opportunity employer that is committed to diversity and inclusion.
+
+At Nokia, employment decisions are made regardless of race, color, national or ethnic origin, religion, gender, sexual orientation, gender identity or expression, age, marital status, disability, protected veteran status or other characteristics protected by law.
+
+Our Nokia Information Technology organization is looking for an CMDB & Service Catalog Data Specialist.
+
+Role:
+
+
+
+The CMDB & Service Catalog Data Specialist is accountable and responsible for the maintenance and day to day operations of Nokia IT ServiceNOW based CMDB and UPM-X derived Service Catalog. He/She will ensure information from across the IT ecosystem is represented in a cohesive a complete CMDB that supports Nokia’s IT Service Management operations impact assessment and decision-making ability.
+
+He/she, together with the Configuration & Service Catalog Manager, CMDB & Service Catalog Data Analyst, and IT Service Owners, will support maintaining Nokia’s IT CMDB for use in the end-to-end solution, program/project delivery, and ongoing service management operations. This responsibility includes modification and addition to the CI data as well as implementing CI relationship changes to the CMDB repositories directly.
+
+The CMDB & Service Catalog Data Specialist may also assist the Configuration Manager and CMDB & Service Catalog Data Analyst in their day-to-day configuration management change activities.
+
+Main Responsibilities:
+Maintain and build a coherent and accurate CMDB and Service Catalog.
+Has a good understanding of IT Service Management and can interpret the requirements and requests raised by Service Owners that then get incorporated into CMDB and the Service Catalog.
+Analyzes and interprets complex digital data, its relationship to other data sets, and draws conclusions that can then be shared to both technical and non-technical teams to support data-based decisions.
+Maintains CMDB data integrity by working to eliminate redundancy
+Supports Data Security and Nokia Enterprise Data governance measures/policies where needed
+Supports Configuration Manager in day-to-day activities to implement changes to the CMDB as well as supporting assurance on quality of CMDB content.
+Actively participates in the Continual Service Improvement (CSI) for Configuration Management.
+Key Competencies:
+Familiarity of ServiceNOW CMDB storage and transformation concepts and mechanisms.
+Familiarity with how DBMS operate and the ability to manipulate and create data within.
+Good understanding of complex IT environments with factual and theoretical knowledge to identify and retrieve information.
+Experience in ITIL process management
+Strong fundamentals in data analytics.
+Bachelor’s degree in engineering, Computer Science or related field from recognized university or equivalent
+Highly independent and self-directed individual capable of working with minimal supervision
+Show a dedication to learning, taking initiative, and welcome feedback.
+Fluent in written and spoken English
+Nice to Have:
+ITIL V3 foundation certification
+Knowledgeable of IT tools such as UPM-X, Power BI
+Familiarity with cloud computing/edge clouds as we hope to populate our CMDB with Nokia IT Cloud environments.
+Working knowledge of IT asset management.
+Software programming languages. Javascript. Experience with ServiceNOW Glide API a plus.
+Database Administration Certification

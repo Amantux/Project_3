@@ -1,0 +1,49 @@
+Job Title: Data Base Programmer/Analyst
+Location: Denver, CO-80203
+Duration: 4 Months
+Job Description:
+Database Programmer for SEEs (Grant Management) Pipeline Implementation
+The existing SEEs application is used by the Drop-out Prevention and Student Re-engagement unit to track grants.
+As part of this project, the new SEEs application will be incorporated into the Online Data Pipeline System (ODS).
+The Online Data Pipeline System is a standardized system, based on best practices.
+It is used for data collections from the districts and schools.
+This provides all the best practices for data storage, back-up and recovery, data security, etc.
+This includes using tables, views and PL/SQL (stored procedures and user defined functions).
+Java is used to manage web application control logic and to implement the web user interface.
+Optimize processing and run time.
+Explore integration of Cognos and/or Tableau BI reporting as part of the resulting new application.
+Additional enhancements to the SEEs application that need attention that have not been identified at this time.
+Roles & Responsibilities:
+Analyze, develop, test and implement an enhanced SEEs application.
+Migrating applications to the Online Data Pipeline System since its inception.
+Actively performing business analysis functions to elicit business rules and requirements, as well as technical requirements from the organization(s) currently using the existing SEEs application.
+Review and analyze the resulting documentation, subsequently design, develop, test, document, and implement the new application.
+Incorporating the SEEs application into the data pipeline tool will also include storage of the collected data into the data warehouse.
+Modernize the existing SEEs application to take advantage of the new features available in current Oracle database version, 11g R2 running on the Oracle EXADATA platform.
+Required Experience:
+Experience in application coding and in creating computer applications and/or databases
+5+ years' experience using Oracle database
+5+ years of PL/SQL development experience
+5+ years Java application development
+At least three (5) years of current, professional IT experience in full life cycle development of custom web applications which must include Java/J2EE development experience; Oracle SQL development experience; and a strong understanding and experience with XML.
+Preferred Experience:
+Oracle EXADATA.
+Oracle built in DBMS packages.
+3+ years of Unix scripting
+Experience with Toad.
+Spring Framework, and Struts 2.
+JDeveloper as an Integrated Development Environment (IDE).
+Experience with WebLogic application server.
+Experience with Cognos BI Reporting.
+Experience with Tableau Reporting.
+Subversion (SVN) as a source control platform.
+Web services.
+Experience with UI technologies such as AJAX, JSTL, JSP, HTML, DHTML, JavaScript, and CSS.
+Experience with k-12 data/systems.
+Required Skills:
+Ability to work independently to research and problem solve issues
+Ability to work with end users to troubleshoot production issues
+Ability to document solutions/processes as needed
+About our Company:
+22nd Century Technologies is a business enterprise that supports demanding staffing programs for Corporations and State and Local Government Agencies. Its journey began in 1997 by supporting large Federal contracts which nudged us in the direction of creating large candidate pools across the country. Over the last 20 years, we have built a strong business model that is carefully constructed to deliver on multiple facets. We have proven past performance of providing services that exceed our clients' expectations. Today 22nd Century technologies supports clients in all 50 states and has grown to be a company that is trusted and sought for providing a complex mix of workforce solutions. With a firm grip on the entire spectrum of staffing solutions, we have placed more than 500,000 skilled resources and delivered 15 million+ man-hours.
+“22nd Century Technologies is an Equal Opportunity Employer" and “US Citizens & all other parties authorized to work in the US are encouraged to apply."

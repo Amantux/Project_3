@@ -1,0 +1,77 @@
+Position Summary
+
+Texas Oncology is searching for a Precision Medicine Data Scientist in Dallas. The Precision Medicine Data Scientist will be responsible for performing statistical data analytics building, maintaining and organizing patient data in our central data warehouse, analyzing, reviewing and improving workflows to gain project efficiencies through minimizing manual data entry, and improving extraction of patient data/PDF reports out of the LIS, EMR, and/or patient portals. The Laboratory Data Scientist must be familiar with data storage and standardization, database design and implementation, longitudinal data analysis, and carrying out statistical analysis to investigate data patterns. The Laboratory Data Scientist must have a depth of knowledge regarding molecular testing, especially next-generation sequencing, as well as working within an EMR/LIS.
+
+Texas Oncology delivers high-quality, high-touch care to help cancer patients achieve “More breakthroughs. More victories.” ® in their fight against cancer. We are an independent, physician-led practice delivering leading-edge technology and treatment options and conducting innovative research. Founders of the practice pioneered community-based care to enable more cancer patients to receive high-quality care while staying close to the critical support of family and friends.
+
+Texas Oncology has more than 150 sites of service throughout Texas, with more than 350 physicians dedicated to serving our patients. On average, we treat more than 50,000 new cancer patients each year, with documented growth year over year. Texas Oncology pioneered the concept of community-based, outpatient, multidisciplinary cancer centers. We give local communities access to leading-edge technology that was previously only available in larger metropolitan areas. Texas Breast Specialists and Texas Urology Specialists are a part of Texas Oncology. Texas Oncology is an affiliate of The U.S. Oncology Network, which is owned by McKesson Specialty Health, a division of McKesson Corporation.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES:
+
+Build, maintain and organize the central data warehouse, composed of patients’ molecular profiling test results, to required project data standards.
+
+Results will come from multiple sources (sFTP, Amazon s3 bucket, HL7, email) in different structured formats (excel, .csv, .xml) and will need to be merged into one standardized format within the CDW.
+
+BAM files will need to be collected for each report and stored on data server.
+
+Must be able to identify and understand testing nomenclature from a full clinical compendium.
+
+Must have in-depth knowledge of various components of molecular profile test results, including genetic alterations and proteomics, and being able to identify them.
+
+Broad statiscal analysis on data, including running queries, reviewing data, understanding trends, determining and communication recommendations based on data.
+
+Partnering with team members on projects to determine data needs and extraction of that patient data from EHR/LIS/CVP and into clinical data repository.
+
+ Pushing historical HL7 messages from legacy LIS into clinical data repository.
+
+Pulling patient reports out of LIS, EMR, and/or patient portals.
+
+Identifying process improvement, gaining buy-in and effectively implementing new data science workflows that minimize manual/ad-hoc data analysis.
+
+Utilizing Natural Language Processing to transform unstructured data from PDF reports into structured data.
+
+Familiarity with other LISs for use by precision medicine department for orders/results (other than Harvest/COPIA).
+
+Other responsibilities as assigned relative to the development of project Initiative.
+
+MINIMUM QUALIFICATIONS:
+
+Education/Training:
+
+Bachelor’s degree in science/health care with 5 years of experience.
+
+Other preferred Experience:
+
+Experience writing code, ideally in SQL, Python
+
+Experience working within an EMR/LIS, and have knowledge about precision medicine, molecular profile testing, and proteomics
+
+Proficient in Microsoft Excel, Access
+
+Experience working in data visualization software, like Tableau
+
+Possess strong verbal and written communication skills
+
+Specialized Knowledge/Skills:
+
+Highly motivated and willing to proactively identify productive areas to work in (rather than waiting to be told what to do)
+
+About Texas Oncology:
+
+The vision of Texas Oncology is to be the first choice for cancer care. We have high standards for patient satisfaction and offer exceptional value in cancer care. We also strive to advance clinical research and develop innovative approaches to treatment of oncology and hematology disorders.
+
+The mission of Texas Oncology is to provide excellent, evidence-based care for each patient we serve, while advancing cancer care for tomorrow. To this end, we give patients access to the highest quality cancer care available today within their own local communities. Our cutting-edge technologies, treatments and research are offered in welcoming and comfortable environments. We maintain comprehensive quality oversight and responsible financial management. At all times, we pride ourselves in being moral, ethical and efficient as a medical practice and employer.
+
+We extend an extremely competitive offering of benefits to employees, including Medical Health Care, Dental Care, Vision Plan, 401-k with a matching component, Life Insurance, Short-term and Long-term disability and Wellness & Perks Programs.
+
+Come join our growing organization and enjoy knowing that you work for an organization dedicated to making the lives of others better.
+
+The US Oncology Network is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.
+
+Category: Clinical
+
+Post to:
+
+M
+
+The US Oncology Network is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability or protected veteran status.

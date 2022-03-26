@@ -1,0 +1,65 @@
+Requisition Id 1758
+
+Who are we looking for?
+
+The Geographic Data Science Group in the National Security Emerging Technology (NSET) Division at Oak Ridge National Laboratory (ORNL) seeks to hire talented data scientists to support pioneering research (e.g. machine learning, image science, spatial statistics) in the exploitation of geospatial imagery data.
+
+Who are we?
+
+Born in secrecy under the Manhattan project of World War II, ORNL has emerged as the U.S. Department of Energy’s largest open science and energy laboratory. Innovation at ORNL is powered by literally thousands of top tier scientists, engineers, and technicians with access to world class facilities including the world’s fastest supercomputer (Summit). We are engaging in open, peer reviewed, interdisciplinary research cross cutting multiple application domains from neutrons to biology, from nuclear to manufacturing, and nanophase to national security.
+
+What will you be doing?
+
+As a data scientist in the Geographic Data Science Group, you will have the opportunity to work on challenging, multi-disciplinary projects that advance data science methods, workflows, and systems under problems motivated by national security challenges. You will have the opportunity to work with a talented team, expand your skills, publish your findings, and leverage the expertise of a wide network of scientists.
+
+This particular position focuses on geospatial imagery analytics which includes the development of machine learning and computer vision algorithms for large scale object detection, image segmentation, and high-performance computing with remote sensing imagery. Applications range from detecting the built environment (e.g. segmentation of neighborhoods for land use land cover classification) at unprecedented spatial scales to developing advanced machine learning workflows as part of geocomputation at scale. These methods are rolled out as solutions that directly impact capabilities in national defense, emergency management, agricultural and urban resiliency, infrastructure security, and human dynamics.
+
+What sets this opportunity apart from many data science career opportunities is the sheer scale of analysis. ORNL is developing massive, advanced workflows that process and analyze planet-scale geographic data on platforms with astonishing computational power such as the new Summit supercomputer. You will also have an opportunity to develop solutions on commodity cloud computing platforms. All these offer you a unique opportunity to advance your HPC skills and scale your own solutions under the guidance of renowned scientists and engineers who are seeking to push the limit of modern computational capabilities.
+
+Working at ORNL
+
+ORNL has an innovative and fast paced culture that rewards open source software development, has a flexible work schedule, and very competitive pay with industry. On any given day, after listening to a talk from a Nobel Laureate, you can eat at two full-service cafés’, go to spin class, or visit the full-service primary care clinic, all without leaving our campus.
+
+Living in East Tennessee
+
+It’s easy to overlook everything East Tennessee has to offer if you haven’t had the opportunity to spend time here. From spending your weekends downtown at Knoxville’s farmers market, the Rhythm n’ Blooms Music Festival, or the Dogwood Arts Festival, to some of the best hiking, kayaking, and camping in the U.S., not only in Great Smoky Mountains National Park but all over the greater area, East Tennessee has something to offer everyone.
+
+Job Activities
+
+Contribute to the conceptualization and design of new algorithms for performing object and semantic segmentation with satellite imagery.
+
+Provide coding support to implement new deep learning algorithms as proof of concept or prototype to test effectiveness and scalability of remote sensing imagery data workflows.
+
+Support machine learning algorithmic design for advanced training data sampling strategies.
+
+Support software engineering needs to optimize deep learning solutions for production and model deployment.
+
+Contribute to post-processing support for delivery of large-scale imagery derived products.
+
+Promote your own career visibility by contributing to team publications in leading journals, and presentation at top-tier conferences.
+
+Basic Requirements:
+
+M.S. or higher in geographic information science, computer engineering, computer science, computer vision, statistics, data science, or equivalent field with 1-2 years of research and development experience.
+
+Demonstrated written and oral scientific communication skills including peer-reviewed publications and presentations.
+
+Technical knowledge of community geospatial imagery products.
+
+Substantial programming experience in Python, Java.
+
+Experience in AI tools such as Tensorflow, Pytorch, etc
+
+Experience in design of visual analytic interfaces, JavaScript, D3.
+
+Experience with deep learning algorithmic development for satellite imagery analytics.
+
+Familiarity with ArcGIS suite of geospatial processing programs.
+
+This position will remain open for a minimum of 5 days after which it will close when a qualified candidate is identified and/or hired.
+
+We accept Word (.doc, .docx), Adobe (unsecured .pdf), Rich Text Format (.rtf), and HTML (.htm, .html) up to 5MB in size. Resumes from third party vendors will not be accepted; these resumes will be deleted and the candidates submitted will not be considered for employment.
+
+If you have trouble applying for a position, please email ORNLRecruiting@ornl.gov.
+
+ORNL is an equal opportunity employer. All qualified applicants, including individuals with disabilities and protected veterans, are encouraged to apply. UT-Battelle is an E-Verify employer.

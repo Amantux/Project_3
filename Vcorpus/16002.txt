@@ -1,0 +1,53 @@
+Thursday, July 2, 2020
+
+Data Integration and Standardization Specialist
+
+The Peters Lab at the La Jolla Institute for Immunology is a multidisciplinary team of scientists working towards understanding, preventing and curing immune-related diseases by accurately translating immunological questions into a computable form. The group is currently looking for a data specialist with an eye for detail to join their team. This new position will be remote for now, with the aim of bringing the role on-site when normal working conditions resume.
+
+The Peters Lab is generating and analyzing data that needs to be annotated in a consistent manner to allow for cross-dataset integration across multiple projects. These projects include several that are dealing with infectious disease research, namely:
+
+● Human Immunology Project Consortium (HIPC)
+
+● Immune Epitope Database (IEDB)
+
+● CoVIC-DB
+
+● IMPACC
+
+● Computational Modeling of Immunity - Pertussis Boost (CMI-PB) (NEW, website in development)
+
+For each of these projects, we want to utilize a consistent vocabulary to represent the data within the project and beyond. To ensure these vocabularies meet our needs, we have contributed to the development of community-based ontologies developed under the OBO umbrella, such as OBI, the Cell Ontology, Disease Ontology, and so on. Each of these provides a hierarchical, logically defined set of terms that can be used to annotate data in a semantic-web format that allows for graph-based queries, consistency checking, and inference.
+
+The tasks for this position are to:
+
+● Join the project team meetings and identify needs for term requests and modifications
+
+● Submit and shepherd term requests to OBO ontologies using GitHub issue trackers that require reading and condensing biomedical literature
+
+● Familiarize and master existing tools for ontology engineering, such as ROBOT, to perform advanced ontology manipulation, quality control, and inconsistency detection
+
+● Use the annotated datasets to perform cross-dataset queries and advanced analysis to derive new biological hypothesis
+
+Requirements:
+
+● Joy in paying attention to detail and scientific exactness
+
+● Background in biomedical research, and the ability to read and grasp literature from a new knowledge domain quickly
+
+● Comfortable with creating, running and modifying python and R scripts to perform data analysis
+
+● Comfortable with running scripts in a Linux, command line environment
+
+How to apply:
+
+Interested candidates, please upload your cover letter and resume in a single document. Applications without a cover letter will not be considered.
+
+Related Principle Investigator Publications: Dr. Bjoern Peters & IEDB on Google Scholar
+
+LJI provides Equal Employment Opportunity (EEO) to all employees and applicants regardless of race, national origin, religion, sex, marital status, age, mental or physical disability, medical condition, veteran status, sexual orientation, or pregnancy. This applies to all personnel practices, including recruitment, hiring, training, promotion, compensation, benefits, transfers, educational assistance, and social and recreational programs.
+
+Other details
+Job Function
+RA
+Pay Type
+Salary

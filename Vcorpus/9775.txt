@@ -1,0 +1,99 @@
+UNICEF works in some of the world’s toughest places, to reach the world’s most disadvantaged children. To save their lives. To defend their rights. To help them fulfill their potential.
+
+Across 190 countries and territories, we work for every child, everywhere, every day, to build a better world for everyone.
+
+And we never give up.
+
+For every child, innovate...
+
+UNICEF has a 70-year history of innovating for children. We believe that new approaches, partnerships and technologies that support realizing children’s rights are critical to improving their lives.
+
+The Office of Innovation is a creative, interactive, and agile team in UNICEF. We sit at a unique intersection, where an organization that works on huge global issues meets the startup thinking, the technology, and the partners that turn this energy into scalable solutions.
+
+UNICEF's Office of Innovation creates opportunities for the world's children by focusing on where new markets can meet their vital needs. We do this by:
+
+Connecting youth communities (or more broadly - anyone disconnected or under-served) to decision-makers, and to each other, to deliver informed, relevant and sustained programmes that build better, stronger futures for children.
+
+Provoking change for children through an entrepreneurial approach - in a traditionally risk-averse field - to harness rapidly moving innovations and apply them to serve the needs of all children.
+
+Creating new models of partnership that leverage core business values across the public, private and academic sectors in order to deliver fast, and lasting results for children.
+
+The Office of Innovation specifically looks to form partnerships around frontier technologies (like drones and UAVs, AI, blockchain, 21st century skills, urban technologies, new banking tools, wearables and sensors, or 3D-Printing) that exist at the intersection of $100 billion business markets and 1 billion person needs – and to identify how they can grow and scale profitably and inclusively.
+
+To support these efforts, we are looking for a data scientist. Candidates should have work experience with building, running, and fitting epidemiological models from human mobility data, collected by non-conventional means such as mobile phones, and be comfortable working with data science languages (Python, R, etc.). The candidate must have knowledge of debiasing mobility data with respect to socio-economic status, and other biases.
+
+How can you make a difference?
+
+You will be part of the Science team, a team that does research and support product development with non-traditional data (aka Big Data) and methods (aka Computer Science). It does so by combining several disciplines such as network science, complex systems, natural language processing, data mining, machine learning, remote sensing and artificial intelligence looking into programmatic problems such as epidemiology, sudden onsets, urbanization, migration, human dynamics, vulnerabilities, poverty, inequalities and bias. You will build open source models that will be made available globally under the digital public goods initiative.
+
+The Science Team interacts with world class scientists, on the ground responders, private sector data holders and tech leaders to push the Data Science and AI agenda towards the problems that affect the most vulnerable children. It is a key part of the MagicBox project, working together with Software developers, project managers and country offices and divisions looking forward to streamlining breakthroughs and working methodologies into operational tools that can make a real impact. More info at https://www.unicef.org/innovation/Magicbox
+
+Your main responsibilities will be:
+
+Model epidemic spread in urban and rural contexts, and operationalize models that can be implemented within our big data platform and packaged under the digital public goods umbrella.
+
+Develop methodologies and pipelines to generate insights from human mobility data.
+
+Support the team in getting a deeper understanding of the available data, e.g. representativeness, bias, etc.
+
+Supporting the team in building models to: estimate population density, debias mobility flows, forecast the risk of spread of infectious diseases, etc.
+
+Support the team in exploring new human mobility datasets.
+
+Support the team in understanding the role of connectivity (especially of schools) in regards to Ebola preparedness and response.
+
+Visualize, interpret, and communicate findings to the team, UNICEF country offices, and the broader public.
+
+To qualify as an advocate for every child you will have…
+
+An advanced university degree (Master’s or higher) in physics, computer science, applied mathematics, or other related field. A first University Degree in a relevant field combined with 5 additional years of professional experience may be accepted in lieu of an Advanced University Degree.
+
+A minimum of 2 years of relevant professional experience in data science, network science, complex systems and/or machine learning.
+
+Have experience modeling epidemics using human mobility data
+
+Have excellent programming skills: Python, R, or any comparable language.
+
+Experience working with large amounts of data and databases.
+
+Have experience with geospatial data analysis and visualization (including shapefile/raster mapping)
+
+Developing country work experience and/or familiarity with emergency is considered an asset.
+
+Fluency in English is required. Knowledge of another official UN language (Arabic, Chinese, French, Russian or Spanish) or a local language is an asset.
+
+Payment details and further considerations
+
+Monthly payment, based on monthly tasks and progress reports, approved upon monthly review with supervisor.
+
+Consultant is responsible for his/her own health and travel insurance
+
+Consultant is eligible for standard DSA for all work-related travel
+
+For every Child, you demonstrate…
+
+UNICEF’s core values of Commitment, Diversity and Integrity and core competencies in Communication, Working with People and Drive for Results.
+
+The competencies required for this post are:
+
+Applying Technical Expertise (Level II)
+
+Creating and Innovating (Level II)
+
+Deciding and Initiating Action (Level I)
+
+View our competency framework at
+
+http://www.unicef.org/about/employ/files/UNICEF_Competencies.pdf
+
+UNICEF is committed to diversity and inclusion within its workforce, and encourages all candidates, irrespective of gender, nationality, religious and ethnic backgrounds, including persons living with disabilities, to apply to become a part of the organization.
+
+UNICEF has a zero-tolerance policy on conduct that is incompatible with the aims and objectives of the United Nations and UNICEF, including sexual exploitation and abuse, sexual harassment, abuse of authority and discrimination. UNICEF also adheres to strict child safeguarding principles. All selected candidates will, therefore, undergo rigorous reference and background checks, and will be expected to adhere to these standards and principles.
+
+Remarks:
+
+Only shortlisted candidates will be contacted and advance to the next stage of the selection process.
+
+Opening Date Fri Aug 09 2019 08:00:00 GMT-0500 (Central Daylight Time) Eastern Daylight Time
+
+Closing Date Fri Aug 16 2019 22:55:00 GMT-0500 (Central Daylight Time)

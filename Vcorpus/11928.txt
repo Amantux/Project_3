@@ -1,0 +1,83 @@
+Position Overview:
+
+The Climate Corporation’s mission is to help the world’s farmers sustainably increase their productivity with digital tools. The Climate Corporation leads the industry in connected acres, and the rapidly growing volume of on-farm data, in combination with other large data resources, are opening new opportunities to deploy advanced computational and machine learning methods to help farmers increase their productivity and improve the sustainability of their practices.
+
+In order to take advantage of increasing amounts of agricultural and genetic data, the Climate Corporation is seeking an experienced, self-motivated and hands-on computational geneticist to join Genetics Modeling Team. You will focus on identifying appropriate datasets and developing machine
+
+learning models by integrating genetic and pedigree data into crop modeling frameworks to understand key drivers of yield performance for various cropping systems.
+
+Basic Qualifications:
+
+Ph.D. in Computational Genetics, Crop Genetics, Plant Science or other related life science discipline
+
+Expertise in the field of crop genetics and statistical genetics (QTL, GWAS, GWS, GBLUP and MAS) with very strong computational skills
+
+Minimum of 2 years industrial work experience in building machine learning models with crop genomic data, pedigree information, complex phenotype and other agronomic data
+
+Fully proficiency with Python, R, SQL, C/C++, Linux/Unix
+
+Experience with database, data wrangling, statistical models, quantitative genetic methods, machine learning algorithms and their proper application to different genomic data
+
+Passionate about extracting quantitative insights from genomic data and apply them to crop modeling frameworks
+
+Preferred Qualifications:
+
+Extensive experience in crop disease and other key agronomic traits
+
+Experience with cloud platforms such as AWS, Domino
+
+Experience in Deep Learning algorithms and framework
+
+Strong analytical, effective and creative problem-solving ability to develop quick yet sound solutions to resolve complex issues
+
+Strong organizational skills and inclination to work in multi-disciplinary environments, and desire to see ideas realized in practice
+
+Good interpersonal and communication skills
+
+What You Will Do:
+
+Develop innovative computational approaches to various types of genomic data by integrating the other data and interpret analytical results
+
+Apply machine learning techniques to automate a large genotype-phenotype dataset analysis
+
+Develop code to implement analysis workflows in a robust and reproducible fashion
+
+Work with data scientists and engineers to build real time models and maintain the datasets from which models are created
+
+Partner with scientists in Climate teams and R&D organization to support crop models
+
+Explore new technologies in genomic research and apply them in projects
+
+Assist with high-level analysis, design, and code reviews
+
+What We Offer:
+
+Our teams are composed of industry experts, top scientists, and talented engineers. The environment is extremely engaging and fast-paced, with dozens of specialties coming together to provide the best possible products and experiences for our customers.
+
+We provide competitive salaries and some of the best perks in the industry, including:
+
+Superb medical, dental, vision, life, disability benefits, and a 401k matching program
+
+A stocked kitchen with a large assortment of snacks & drinks to get you through the day
+
+Encouragement to get out of the office and into the field with agents and farmers to see first-hand how our products are being used
+
+We take part and offer various workshops, conferences, meet-up groups, tech-talks, and hackathons to encourage participation and growth in both community involvement and career development
+
+We also hinge our cultural DNA on these five values:
+
+Inspire one another
+
+Innovate in all we do
+
+Leave a mark on the world
+
+Find the possible in the impossible
+
+Be direct and transparent
+
+Learn more about our team and our mission:
+
+The Climate Corporation - The Technology Behind Making A Difference
+
+https://youtu.be/c5TgbpE9UBI or visit https://climate.com/careers

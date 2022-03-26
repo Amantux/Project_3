@@ -1,0 +1,49 @@
+Mettre en place une architecture de base de données unique capable de :
+
+· Récupérer des informations hétérogènes depuis plusieurs supports et canaux
+
+· Structurer / Normaliser / Exploiter les données
+
+· S’interfacer avec des applications/requêtes
+
+· Documenter et communiquer envers des équipes de développement
+
+Vous avez une vraie passion pour la Data Science et l’environnement des bases de données, les applications intensives, le fullstack et les graphes
+
+Mindset orienté objectif, vous êtes force de proposition pour les problèmes posés
+
+Savoir expliquer en termes simples les solutions et les process
+
+Vous avez une réelle habileté à travailler en équipe et en respectant les deadlines
+
+Outils
+
+Modélisation : Utilisation de standards (type UML) pour la création de modèles objets et ERD
+
+Bases de données : NoSQL, Principalement MongoDB et Neo4j
+
+Langages : Python, GO, Java, Typescript
+
+Opensource : Spark, React
+
+Tooling : Github, Bitbucket
+
+Formation / Expérience
+
+Master Bac+5 ou équivalent
+
+Expérience minimum de 3 ans dans un environnement data
+
+Expérience confirmée en scripting/coding
+
+Bon niveau d’anglais
+
+Statut : Cadre
+
+Type d'emploi : Temps plein, CDI
+
+Expérience:
+scripting / coding: 3 ans (Souhaité)
+data scientist h/f ou similaire: 3 ans (Souhaité)
+Langue:
+Anglais (Souhaité)

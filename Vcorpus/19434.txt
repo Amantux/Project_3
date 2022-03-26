@@ -1,0 +1,25 @@
+Open and Ready to Go: Python Engineer (WFH + On-site)
+Physical Location: Austin, TX
+
+About the Job
+
+Our client believes in shared success for their employees. Their success is driven by exceptional people working together as a team with a passion for the mission and common values. Our client is global commodities trading firm and risk manager, a leader in renewable energy with a team consisting of some of the brightest minds in Science, Technology, Math, Engineering and of course Finance.
+
+Their simple formula: "Knowledge + Ambition + Attitude = Success"
+
+Their Commitment: They'll teach you everything you need to know for success, you just need to bring ambition and attitude.
+
+As a Python Backend Engineer you will be working on developing best in class microservices for our renewables trading platform. Currently we are in a strong growth phase and are working on building a world class product to help us scale and bring renewables to many more power markets in the world, while trading many more smaller electricity assets. If you are interested in contributing to the success of this platform keep on reading!
+
+Tasks
+Design, develop and maintain microservices, ETL jobs and system components for our serverless Python-based data integration, processing and analytics platform
+Work in a cross-functional team with engineers, business analysts, traders and data scientists
+Stay up to date with the latest trends in technology and continuously improve our platform
+Mentor junior members in the team by relentlessly guarding code quality through pull requests and code reviews
+Skills
+Willingness to challenge the status quo
+Oject-oriented, functional and asynchronous programming and design patterns in a modern programming language (preferable Python)
+A passion for delivering clean code and working with a test-driven mindset
+Ideally knowledgeable about parts of the following tech stack: Flask, Pandas, Airflow, PySpark, Fargate, Docker, S3, Aurora, TimescaleDB, InfluxDB, RabbitMQ
+DevOps mindset with appreciation to work in a cloud-native and container-driven architecture (partly on-premise and partly AWS)
+"Ideally” has domain knowledge in the energy sector

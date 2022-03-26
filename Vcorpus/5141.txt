@@ -1,0 +1,70 @@
+Job Description 
+ Job Title: Senior Data Scientist  
+ Location: Madison, WI  
+    
+ About This Role:  
+    
+Data Scientists address the challenges of modern big data, organizing massive disparate data sets using statistics, machine learning and optimization. The Comscore Madison data science team is responsible for detection of invalid and anomalous data, organization of foundational data assets that track users across the internet, and research and development of new products that allow our clients to better understand how the world consumes digital content. 
+  
+ What You’ll Do:    
+Design and implement statistical, optimization and machine learning algorithms at scale using PySpark, Apache Pig, and SQL based languages  
+Validate, analyze and visualize results  
+Interpret and present findings to management and business decision makers  
+Work with enormous datasets, including graph structured data with billions of nodes and unstructured data with trillions of rows  
+Author technical and academic publications showcasing capabilities of Comscore’s data assets to solve real world problems  
+Deal with highly distributed data sources, cope with sampling biases and heterogeneity, and work with different data formats and structures  
+Develop algorithms that exploit parallel and distributed architectures  
+Ensure data integrity and security  
+Develop methods for visualizing massive data  
+Develop scalable and incremental algorithms, and cope with the need for real-time analysis and decision-making  
+  
+ What You’ll Need:    
+MS or PhD in Computer Science, Statistics, Engineering, Mathematics, or related field required; Strong candidates at the BS level will be considered  
+3+ years of experience in the analytical field  
+Experience in Python, Apache Spark, MATLAB, C/C++, Java, Perl, Apache Pig, Hadoop and MapReduce or related language  
+Sound understanding of statistics  
+Experience with statistical software or scientific computation software (e.g.,R, Matlab) is preferred  
+Hadoop or other comparable MapReduce experience is preferred  
+Experience with hands-on coding from scratch is preferred  
+Ability to apply critical thinking to quickly identify and resolve data issues  
+Experience in data analysis and problem solving with big data  
+Ability to think creatively and solve complex problems  
+Ability to autonomously manage simultaneous projects in a fast-paced business environment  
+Knowledge of relational databases and methods for efficient data retrieval  
+Experience with SQL or knowledge of relational databases and methods for efficiently retrieving data  
+Strong verbal and written communication skills  
+Exposure to Internet measurement data is a plus  
+Online advertising industry experience is a plus  
+ About Comscore : At Comscore, we’re pioneering the future of cross-platform media measurement, arming organizations with the insights they need to make decisions with confidence. Central to this aim are our people who work together to simplify the complex on behalf of our clients & partners. Though our roles and skills are varied, we’re united by our commitment to five underlying values: Integrity, Velocity, Accountability, Teamwork, and Servant Leadership. If you’re motivated by big challenges and interested in helping some of the largest and most important media properties and brands navigate the future of media, we’d love to hear from you. 
+  
+Comscore (NASDAQ: SCOR) is a trusted partner for planning, transacting and evaluating media across platforms. With a data footprint that combines digital, linear TV, over-the-top and theatrical viewership intelligence with advanced audience insights, Comscore allows media buyers and sellers to quantify their multiscreen behavior and make business decisions with confidence. A proven leader in measuring digital and set-top box audiences and advertising at scale, Comscore is the industry’s emerging, third-party source for reliable and comprehensive cross-platform measurement. To learn more about Comscore, please visit Comscore.com. 
+    
+ EEO Statement : We are an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, national origin, sex, disability status, sexual orientation, gender identity, age, protected veteran status or any other characteristic protected by law. 
+  
+To comply with federal law, Comscore participates in E-Verify. Successful candidates must pass the E-Verify process after hire. 
+  
+At this time, Comscore will not sponsor a new applicant for employment authorization for this position. 
+  
+*LI-BM1  
+  
+*MSJA 
+  
+
+Job Summary
+
+                             
+                     
+                         Location 
+                             Madison, WI 
+                     
+                 
+                             
+                     
+                         Posted 
+                         +30 Days ago 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         3841

@@ -1,0 +1,26 @@
+The Role
+
+Wpromote is looking for a Cloud Infrastructure Engineer that will build tools and automation to eliminate manual operations and craft repeatable processes. This candidate will help maintain a highly available and secure server infrastructure for deploying instances, containerization, applying operating system updates, managing configuration changes, securing environment, and system tuning. The candidate will participate in assessing existing platforms and designing future state in coordination with the product team.
+
+You Will Be
+Building, designing, deploying, and maintaining the implementation of Cloud solutions across multiple public cloud offerings, AWS and GCP
+Ensuring cloud product development adheres to security program and data privacy regulations
+Participating in new cloud service evaluation to provide more efficient and secure best practices.
+Establishing documented best practice processes for IT Operations team to support company requests
+Understanding cloud best practices around architecture, security and storage to meet company needs
+Collaborating with Product Development team to provide support for application performance and infrastructure issues
+Developing, enhancing, and maintaining automation of cloud enablement tools
+Performing ongoing performance tuning, upgrades, and resource optimization as required.
+You Must Have
+Bachelors Degree
+5+ years of relevant IT experience
+3+ years working with cloud platform infrastructure AWS & GCP
+Experience architecting secure cloud infrastructures on AWS and/or GCP for small and medium scale level applications
+Experience using cloud infrastructure security platforms ex. AWS Security Hub, GCP Security Command Center
+Knowledge of Linux based systems in a cloud environment
+Specific experience with Amazon Web Services, including VPC, EC2, Network, ELB, EBS, ECS, RDS, IAM, CloudFormation, Lambda
+Specific experience with GCP, including Compute, Networking, BigQuery
+Specific experience with cloud agnostic deployment tools including Terraform and Packer
+Broad experience with the following items in cloud environments: security, evaluating new services, instituting best practices, and performance monitoring
+Experience with working in an Agile environment
+Powered by JazzHR

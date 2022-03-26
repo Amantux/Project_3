@@ -1,0 +1,43 @@
+Return To Job Search
+
+Job Title:
+Senior Data Scientist
+
+State/Area: California
+Regional Area
+San Diego Metro Area
+Primary Background
+Applications - Developer – Technology
+Secondary Background
+
+Job Number: JN -052020-4267
+JOB TITLE: Sr. Data Scientist
+DURATION: 9-12 months, possible contract to hire
+LOCATION: Local to San Diego candidates, but they will primarily work remotely in 2020.
+
+Position Summary
+
+We are focused on finding a Data Scientist who is a quick and voracious learner, open minded, curious, and loves the process of collecting; processing; augmenting; statistically modeling; and organizing data. Candidates should have advanced skills in Python.
+This position is responsible for helping define our dataset creation, working on data ingestion pipeline, cleaning, augmentation, database development such that subsets associated with specific metadata can be accessed, statistical modeling of the data, and ultimately assisting in the model development/testing, and visualizations. As our dataset includes video/audio data, a background in image/audio processing is key.
+
+You should be able to work alone comfortably without close oversight, collaborate with distributed team members, and to document and report on your achievements/progress in meetings. You should enjoy researching information and digging deep to solve problems.
+
+Minimum Qualifications
+• BS or MS in Data Science, Statistics, Computer Science w/Machine Learning, or a related quantitative field
+• You have 3+ years of related experience as a Data Scientist, with a proven record of analysis and research that positively impacts your team
+• Solid background in at least one area of machine learning and/or AI research
+• Experienced in developing tools to ingest, merge, and clean data sets
+
+• Experienced using scripting languages on a daily basis (SQL, Python, etc.)
+• Proficient with common data science toolkits, such as Pandas, TensorFlow, NumPy.
+• Proficient with visualization software/tools such as Python, R, D3.js, Spotfire, Tableau, etc. and creating strategy recommendations
+• Experienced building data science models (Regression, Decision Trees, K-Means, Segmentations, etc.)
+• Experienced dealing with large data sets (especially visual data)
+
+• Knowledge of traditional NLP applications such as: entity extraction, document classification, TFIDF, tokenization, and topic modeling.
+• Knowledge of modern NLP techniques such as Word2Vec, RNNs, CNNs, LSTMs, and Transformers.
+• Knowledge and experience with ontologies, taxonomies, semantic meaning representation frameworks and other relations between concepts.
+• Experience with machine learning algorithms, including: random forest, SVM, boosting, neural networks, etc. and/or Natural Language.
+
+• Experience with source code control (Git)
+• You possess excellent communication skills and the ability to clearly communicate technical concepts to a non-technical audience.

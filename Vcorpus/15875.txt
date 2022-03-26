@@ -1,0 +1,25 @@
+You are highly motivated with skills in the application of computational methods and development of novel algorithms toward the design of novel molecular diagnostic signatures in the treatment of cancer and other disorders. You will develop novel analytic methods and computational pipelines for the analysis of epigenetically derived nucleic acid sequence data from patient samples. The analytic methods will be employed to answer specific clinical questions that contribute to the care of disease through the design and implementation of novel molecular diagnostic assays.
+
+You are familiar with leading edge genomics technology platforms, inclusive of next generation sequencing, and have proven experience in the direct development of new bioinformatics methods and production pipelines for clinical studies. You have the necessary technical skills to analyze genomic data from large scale clinical data to enable the discovery of statistical association, error measurement and feature detection.
+
+Responsibilities will include:
+Analysis of genomic data from clinical studies to enable feature detection. A comprehensive understand of genome alignment issues and sequence error detection and modelling.
+Generation of statistical models that cover data representation and building of simple and complex classifiers for diagnostics score development.
+Building prototype pipelines to enable large scale data analysis and ultimately production level pipelines.
+Evaluating and supporting software tools for sequencing, statistical and data analysis.
+Communicating hypotheses, data and experimental design directions for the benefit of stakeholders including colleagues, collaborators, and advisors.
+Model our core values: visionary; pioneering; truth seeking; driven; honest and considerate communication; embraces diversity. You are experienced as someone who exemplifies our culture and you operate with transparency and integrity.
+Requirements
+PhD in Genetics, Genomics, Biochemistry and Molecular Biology or related discipline and at least 3 years of related work experience, or a Bachelor/Master’s Degree (Biological discipline) with 10 years of work experience.
+It is expected that you have an established record of publication of genomic and genetic studies in leading peer-reviewed journals.
+Programming languages (Python, Java and R), pipeline development and workflow management systems.
+Network and cloud-based Unix/Linux environments to enable the development of production ready remote computational pipelines. Inclusive of but not limited to AWS, Docker and Kubernetes.
+Studies and datasets found in public domain databases at NCBI, TCGA and SRA of potential value toward company goals
+Familiarity with a variety of machine learning techniques
+Benefits
+
+Come join us in addressing large healthcare needs through precision epigenomic medicine!
+
+Bluestar Genomics is an exciting early stage life science company that is reinventing non-invasive molecular diagnostic testing using next generation epigenomic technologies. We are passionate and dedicated to discovering and developing medicines that will make a significant difference in cancer and other epigenomic-driven diseases. Our technologies provide novel insight and quantitation of human health and disease, with our focus on precision medicine applications improving both clinical and health system outcomes. Our company was founded based on pioneering work in the Stanford laboratory of Stephen Quake, with advisors from Stanford and UCSF. We are building a world-class company, based in San Diego and San Francisco.
+
+We provide generous benefits to all employees, including stock options and a fully-stocked kitchen! We value your physical presence in our office in building our cohesive team. We look for extraordinary lifelong learners with a passion and growth mindset for these areas, and for combining biological ingenuity with AI and data analysis. Led by a team with decades of experience bringing products from concept to market, we are an equal opportunity employer and value diversity at our company.

@@ -1,0 +1,31 @@
+Data Analyst SAS ProgrammerDescription:
+
+TA-Oncology
+Must have clinical programming experience-no exceptions
+
+The Clinical Programming team at GSK has a strong focus on innovative ways of working and we are leading the way to implement these innovations and embracing an evolution for increased data science skills; this is already resulting in the introduction of new programming languages, technology and software. Some of these initiatives include the pathway for adoption of R and Python open source coding into day to day programming tasks, exploring machine learning to drive efficiencies for clinical reporting, developing desktop visualisation capabilities and we even have an annual challenge for Programmers who are rewarded for bringing new innovations into the department. But its not just about the tech! We also encourage involvement in other initiatives too and we focus on your personal development path, building your project and leadership skills, your inter-departmental liaison and collaboration skills and we provide you with opportunities to get closer to the science and decision making.
+Within the Oncology clinical programming team Study Biomarker Programmers and Principal Biomarker Programmers support, guide, or make a major contribution to the planning and execution of multiple Biomarker-related programming activities for Company's clinical trials while in close collaboration with Biomarker Statisticians. They are accountable for creating, verifying, and documenting analyses of clinical data while adhering to study protocols, analysis plans & industry standards.
+
+Key Responsibilities:
+•Creation of biomarker analysis datasets from a variety of file and formats from either internal or external labs/vendors. The candidate should be comfortable working with a diverse collection of data files in terms of the type (depending on the assays/platform used to generate the data), data format and size.
+•Creation of graphs and tables related to biomarker data primarily for exploratory investigations (hypothesis generation or evaluation) with analysis requirements that may change throughout the life of the project.
+•Automation of data creation, graphs, tables and certain Statistical analyses using R scripts and developing R-Shiny apps for delivering automated analysis solutions for end users.
+•Act as a subject matter expert and work as a guide within own discipline to investigate new technology as directed.
+•Provide technical contribution to complex tasks.
+•Ensure the collection of programs/outputs and issues are adequately managed for programming activities to achieve business outcomes.
+•Apply learning from previous activities to result in quicker and more efficient completion of the current task.
+•Share learnings with peers and contribute to internal technical discussions/forums.
+•Initiate new directions and novel strategies to achieve department goals.
+
+Basic qualifications:
+• BS or higher in mathematics, statistics, data science, computer science or related discipline.
+• Clinical Programming experience, with a thorough understanding of the end to end clinical trial process.
+• Recognized expertise in R, SAS programming, and script/macro code development.
+• Understanding of other products such as R-Shiny, Python, JMP, SAS/GRAPH, SAS Output Delivery System.
+• Excellent communication skills with a demonstrated ability to collaborate across functions.
+• A solid level of understanding of the pharmaceutical regulatory and publishing processes (e.g. 21 CFR Part 11).
+• Demonstrated knowledge of and experience in the application of CDISC data and standards, primarily the creation and use of ADaM datasets.
+
+SRG is an Equal Opportunity Employer - All qualified applicants will receive consideration without regard to race, color, religion, gender, national origin, age, disability, veteran status, or any other factor determined to be unlawful under applicable law.
+
+Job Requirements:

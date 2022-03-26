@@ -1,0 +1,49 @@
+WHO WE ARE:
+
+Talend, a leader in data integration and data integrity, enables every company to find clarity amidst the chaos.
+
+Talend is the only company to bring together in a single platform all the necessary capabilities that ensure enterprise data is complete, clean, compliant, and readily available to everyone who needs it throughout the organization. With Talend, organizations are able to deliver exceptional customer experiences, make smarter decisions in the moment, drive innovation, and improve operations.
+
+From Domino’s to L’Oréal, over 4,250 organizations across the globe rely on Talend to deliver exceptional customer experiences, make smarter decisions in the moment, drive innovation, and improve operations. Talend has been recognized as a leader in its field by leading analyst firms and industry publications including Forbes, InfoWorld and SD Times.
+Talend is Nasdaq listed (TLND) and headquartered in Redwood City, California.
+
+Talend’s Philadelphia office opened in 2018 with the acquisition of Stitch, a cloud data integration service, which is now part of Talend Cloud.
+
+What You’ll Do
+
+We work on a variety of products and projects in the Talend Cloud ecosystem, with a focus on Stitch and Smart Services. The Smart Services project aims to build features and enhancements that make users more productive across Talend Cloud. We build systems that capture and anonymize usage data and then build recommendation, forecasting, and automation features on top of that data.
+As a Software Engineer, you’ll be responsible for software design, implementation, testing, and operation. You’ll collaborate with other software engineers, quality assurance engineers, product managers, and product designers to participate in the full software development lifecycle – from product requirements, to software design, to testing and release.
+
+The team uses Clojure, Java, Python, ES6 and React. We run on AWS. Experience with these technologies is not required but is considered a plus.
+
+Most of our code is written through pair programming, and you should expect to spend most of your time collaborating closely with other engineers on our team.
+In the next year, we expect to:
+· Continue to rapidly expand our universe of source and destination integrations
+· Integrate tightly with the Talend Cloud platform
+· Launch our product in new AWS regions
+· Scale our data processing infrastructure to handle rapid growth in customers and data volume
+· Add powerful new features to give users even more control over their data
+
+What You’ll Need
+To be eligible for this opening, you should have:
+· Familiarity with basic data structures and algorithms
+· Knowledge of web applications, databases, Linux and cloud environments
+· Significant technical academic course work or equivalent work experience
+· Excellent communication and interpersonal skills
+· While it’s not required, it would be a plus to have recent experience with Java, Clojure, or Python.
+
+#LI-ES1
+
+AND NOW, A LITTLE ABOUT US:
+
+Talend has received some pretty impressive accolades along the way:
+- "2018 Best Public Cloud Computing Companies To Work For" by Glassdoor
+- Named a Leader for Data Integration Tools in the Gartner Magic Quadrant
+- Named Leader in The Forrester Wave™: Enterprise Data Fabric
+- Ranked in the DBTA “100 Companies that Matter Most in Data”
+- Listed in the CRN Big Data 100 Companies
+
+We are passionate about helping companies become more data driven; and, if we can be honest, we are all geeks at heart who pride ourselves on the vibrant company culture that we have built.
+
+
+As a global employer, at Talend, we believe our success depends on diversity, inclusion and mutual respect among our team members. We seek to recruit, develop and retain the most talented people from a diverse candidate pool. We are committed to making all employment decisions on the basis of business need, merit, capability and equality of opportunity. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.

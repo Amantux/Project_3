@@ -1,0 +1,87 @@
+Requisition ID # 25268
+
+Job Category : Accounting / Finance
+
+Job Level : Individual Contributor
+
+Business Unit: Law, Strategy & Policy
+
+Job Location : San Francisco
+
+Company
+
+Based in San Francisco, Pacific Gas and Electric Company, a subsidiary of PG&E Corporation (NYSE:PCG), is one of the largest combined natural gas and electric utilities in the United States.And we deliver some of the nation's cleanest energy to our customers in Northern and Central California. For PG&E, Together, Building a Better California is not just a slogan.It's the very core of our mission and the scale by which we measure our success. We know that the nearly 16 million people who do business with our company count on our more than 24,000 employees for far more than the delivery of utility services.They, along with every citizen of the state we call home, also expect PG&E to help improve their quality of life, the economic vitality of their communities, and the prospect for a better future fueled by clean, safe, reliable and affordable energy.
+
+Pacific Gas and Electric Company is an Affirmative Action and Equal Employment Opportunity employer that actively pursues and hires a diverse workforce. All qualified applicants will receive consideration for employment without regard to race, color,national origin, ancestry, sex, age, religion, physical or mental disability status, medical condition, protected veteran status, marital status, pregnancy, sexual orientation, gender, gender identity, gender expression, genetic informationor any other factor that is not related to the job.
+
+Department Overview
+
+The Strategic Data Science team utilizes advanced modeling and data science to drive PG&E’s transition to the sustainable grid of the future through quantitative decision-making. This work moves beyond descriptive reporting and is focused on driving the business forward through applied statistics, predictive and prescriptive analytics, and insightful tool design. The cornerstone of these high value analytics is one of the largest smart meter usage databases in the industry, that when combined with billing, program engagement, customer demographic, grid, and other data sources has unprecedented potential.
+
+Current and past projects include:
+
+Development of computer vision models aimed at accelerating and automating asset inspections processes
+
+Optimizing non-wires alternative resource portfolios, including location and resource adequacy considerations
+
+Predicting electric distribution equipment failure before it occurs allowing for proactive maintenance
+
+Analyzing customer demographic, program participation, and SmartMeter interval data to build program targeted propensity models
+
+Assessing the impact and viability of grid edge technologies and distributed energy resources
+
+Supervised and unsupervised machine learning models using Python and Spark, executed on AWS
+
+Position Summary
+
+We are looking for a full time data scientist to work on one or more of the areas mentioned above. The Strategic Data Science team is looking to expand on its data science capabilities - you will have a unique opportunity to be at the forefront of utility industry analytics. In this role you will work as part of cross functional teams, including other data scientists, technology experts, and subject matter experts to develop data driven solutions. It is the perfect role for someone who would like to continue to build upon their professional experience and gain a comprehensive view of the nation’s most advance smart grid.
+
+Job Responsibilities
+
+Analytics and Modeling
+
+Gather, prepare, and analyze data from disparate sources to produce user-friendly models and actionable insights
+
+Work closely with domain experts. Develop a working knowledge of rate structures and elements, load shapes, distributed energy resource technologies and policy options
+
+Develop expertise with grid data, customer demographic information and other structured data sets
+
+Understand and apply statistical and analytical modeling methods such as classification, regression, clustering, anomaly detection, neural networks, etc. to identify opportunities for operational improvements and develop strategic insights
+
+Communication, Summary Presentation and Visualization
+
+Appropriately document data sources, methodology, and model evaluation metrics
+
+Develop and present summary presentations for senior management
+
+Create streamlined visual tools for end-users
+
+Work with business partners to advance business processes, based on analytical findings
+
+Work with team leadership to continually improve analytics at PG&E via demonstrations, mentoring, disseminating best practices, etc.
+
+Qualifications
+
+Minimum:
+
+Bachelor’s Degree in Econometrics, Economics, Engineering, Mathematics, Applied Sciences, Statistics or job-related discipline or equivalent experience
+
+Minimum of 2 years of relevant experience in data science or advanced analytics, OR Master’s Degree OR Doctorate
+
+Desired:
+
+Excellent oral and written communication skills
+
+Demonstrated collaboration or paired development work history
+
+SQL proficiency and experience working with relational databases
+
+Track record of writing clear and well documented code, preferably in Python
+
+Strong understanding of statistics and experience developing supervised & unsupervised learning models
+
+Demonstrated experience with data science best practices, such as version control via Git or similar
+
+Demonstrated experience with data visualization tools such as Tableau, D3, Plotly, etc.
+
+Demonstrated experience with model development for decision analysis, forecasting, or other complex quantitative modeling

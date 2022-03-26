@@ -1,0 +1,41 @@
+Introduction to Shield AI
+
+Shield AI’s mission is to protect service members and civilians with artificially intelligent systems. For our world-class team, no idea is too ambitious, and we never stop working to make possible what looks out of reach today. We are backed by Silicon Valley venture capital firms including Andreessen Horowitz, have been shipping product since 2018, and are growing rapidly.
+
+Job Description
+Are you a passionate and innovative Senior Cloud Data Architect/Engineer with real world experience architecting big data pipelines? Are you eager to make a positive difference in the world? Do you want to work alongside mission-driven and values-focused teammates? Shield AI is just the place for you!
+
+As a Senior Cloud Data Architect/Engineer on the Fleet team in the Nova Systems Business Unit, you’ll have the opportunity to work on data infrastructure at Shield AI and play a critical role in the success of our company!
+
+What you'll do:
+
+You will be responsible for driving the architecture and creation of a scalable cloud data pipeline platform
+You will design and build scalable infrastructure platforms to collect and process large amounts of structured and unstructured data that will be consumed in real-time
+You will work on automating data pipelines, creating data models, and monitoring and ensuring performance
+You will conduct root cause analyses of performance and instability of systems with respect to accuracy and performance
+You will be responsible for making decisions regarding data storage, technology selection, organization, and solution design in conjunction with software engineering and product management teams
+You will be tasked with identifying and executing on best practices
+
+Projects that you might work on:
+
+Collection and management of data for training and evaluation models and scaled data analysis for Hivemind
+People we're looking for have the following required education and experience:
+5+ years of demonstrated technical expertise with the following technologies:
+Cloud platforms (Azure, GCP, or AWS)
+Data processing frameworks (Spark/MapReduce, Kafka, etc)
+Distributed data stores (Hadoop, BigQuery/BigTable, Redshift, S3, etc)
+Expert programming skills (Python, Go, Kotlin, etc)
+Containerization technologies (Docker, Kubernetes)
+Relational and NoSQL databases
+You have real-world experience architecting big data pipelines.
+You have demonstrated knowledge of cloud computing technologies and current computing trends.
+You have hands-on, professional experience designing and implementing large scale data pipelines.
+
+Competencies:
+
+You have a demonstrated record of working hard, being a trustworthy teammate, holding yourself and others to high standards, and being kind to others
+If you're interested in being part of an engineering team that works hard, loves to have fun, and is working on some truly meaningful, challenging work; apply now and we can chat further!
+
+Shield AI is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, marital status, disability, gender identity, or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you have a disability or special need that requires accommodation, please let us know.
+
+To conform to U.S. Government regulations, applicant must be a U.S. citizen, lawful permanent resident of the U.S., protected individual as defined by 8 U.S.C. 1324b(a)(3), or eligible to obtain the required authorizations from the U.S. Department of State.

@@ -1,0 +1,67 @@
+Based in San Francisco, we are a team with a passion for great design, user experience, hardware, software, and sports. Together we share the commitment to create products that connect the human body with technology in a magical way. We're working to become the most empowering consumer company of the 21st century.     
+Shape is backed by renowned investors such as Y Combinator and Stanford StartX. 
+Our first product, ShapeScale, is the first photorealistic 3D body scanner that shows you how your body shape changes over time. It’s not only a game changer for fitness but also an enabler for a number of fashion, healthcare, and AR / VR applications. We have recently started to take pre-orders for ShapeScale and have thus far received thousands of pre-orders. 
+Shape is looking for a talented Senior Data Scientist/ Geometric Deep Learning with an entrepreneurial spirit to join our team and help us achieve our technology goals. In this role you will work on on the acquisition, processing, and analysis of the data captured by ShapeScale and develop state-of-the-art 3D deep learning and machine learning methods. This role is perfect for driven individuals who are excited to take on large responsibilities and solve unique technical challenges. 
+Recent PhD-graduates and experienced candidates are welcome to apply for this role. The candidate of choice will be hired into the level that is commensurate with their educational background and experience.   WHAT YOU’LL DO   
+Develop existing and new body shape parameterization, segmentation, correspondence, registration, posture estimation and analysis methods and algorithms. 
+Design, build, train and optimize 3D deep learning and computer vision algorithms with a focus on high performance and efficient implementation. 
+Working with founding team members to define technology stack, understanding the business needs and choosing the right languages, tools, libraries, platforms, and partners for the job. 
+Lead the efforts on designing, building, and labeling Shape’s dataset of 3D human body scans. 
+Find the best solutions to computer vision problems, innovating new network architectures when necessary, and knowing when to use existing ones. 
+Analyze and prototype key 3D deep learning and data analytics algorithms and applications. 
+Define Deep/Machine Learning architecture best practices and keep up to date with the evolving deep learning frameworks. 
+Develop or modify tools for visual data analysis and verification. 
+Utilize 3D deep learning frameworks such as TensorFlow, Caffe, Torch, PointNet,  ShapeNet, etc, and implement substantial portions of production code in C / C++ and Python. 
+Conceive proof-of-concept prototypes that establish overall system performance. 
+Participate in defining product requirements. 
+Evaluate technical trade-offs. 
+Help to recruit and lead a team of data scientists.    REQUIREMENTS    Minimum   
+MS in Computer Science, Applied Mathematics, Physics or Computer Vision. 
+Fundamental understanding of 3D deep learning, 3D semantic scene understanding, and 3D point cloud analysis. 
+Hands-on experience in geometric/3D deep learning frameworks and libraries  e.g., Tensorflow, Pytorch, Caffe, Keras, PointNet, ShapeNet, etc.. 
+Experience in training and evaluation of computer vision algorithms on large datasets. 
+Outstanding skills in Python, C & C++ with experience in writing robust and maintainable production code. 
+Experience in developing computer vision/imaging and machine learning algorithms for embedded and non embedded platforms. 
+Knowledge of object classification, template matching, or other machine learning methods for computer vision. 
+Comfortable with 3D computational geometry, linear algebra, statistics, numerical methods and error analysis 
+Experience with 3D reconstruction from camera images and depth sensors.    Preferred   
+Ph.D. in Computer Science, Applied Mathematics, Physics or Computer Vision. 
+Complete mastery of 3D deep neural networks; you have created 3D deep neural networks and seen them through to high performance and/or have published papers at the top conferences. 
+Prior experience involving 3D scanning or measurement of the human body is a big plus. 
+Completion and deployment of significant computer vision projects in a commercial environment. 
+Experience with existing computer vision libraries such as OpenCV, PCL, CGAL, Eigen, etc. 
+Experience with Texture projection, generation, completion using patch match algorithms. 
+Experience with 2D and 3D tracking algorithms such as SLAM. 
+Knowledge of WebGL / OpenGL / OpenCV/ video codec / video processing. 
+Proven publication track record at conferences such as SIGGRAPH, CVPR, NIPS, ECCV, ICCV, ISMAR, ICML, ICPR, etc. 
+Experience with computational imaging / photography. 
+Experience with embedded Linux / Linux Kernel / Drivers 
+Experience with imaging sensors and camera module packaging / manufacturing / calibration / testing 
+Has experience with Agile methods, Scrum / Kanban / etc. 
+Knowledge of scripting language, e.g. Python, Bash, etc. 
+Camera and/or video pipeline knowledge and experience.    BENEFITS   
+Competitive salary and equity 
+Flexible work schedule, unlimited holidays with a mandatory 15 days / year off. 
+Great, comprehensive health insurance : low deductible - 100% covered (incl. dependents) 
+Visa sponsorship if necessary 
+Catered lunches with healthy eating options suitable for all diets and allergies and healthy snacks 
+Top of the line Apple and Windows equipment of choice that you think you need to work comfortably and efficiently 
+Motorized sit / standing desk with Herman Miller or Steelcase chairs. 
+Fitness discounts and fun, action-inspired company-wide events and outings, gaming evenings 
+Commuter benefits or subsidies 
+Office located at the heart of San Francisco (SoMa) 
+A fun, creative and collaborative environment of a young startup company with a driven, agile and adept international team 
+The opportunity to have an impact on millions of people and make them happier and healthier   
+
+Job Summary
+
+                             
+                     
+                         Location 
+                             San Francisco, CA 
+                     
+                 
+                             
+                     
+                         Posted 
+                         1 Days ago

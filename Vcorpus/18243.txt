@@ -1,0 +1,38 @@
+Our mission is to protect life.
+We’re out to make the world a safer place by solving big problems and taking on the public safety challenges of our time. From our company's inception building the TASER device to a full suite of hardware and software solutions, we are focused on providing police agencies with the state-of-the-art devices and services they need to successfully serve and protect us. In the next few years, we're going to eliminate the burden of paperwork in policing, so officers can increase the time they spend building relationships and serving in their communities. We’ll put video at the heart of the police record so our justice system can get to the truth faster. And we won't stop innovating until the bullet is rendered obsolete.
+
+It’s a big mission, but it’s one we’ll pursue relentlessly every single day.
+
+Your Impact
+Axon’s Data and Integrations team is looking for a senior data engineer to build scalable, durable, and extensible data models and pipelines—optimizing ingestion and management of data from multiple sources to help public safety agencies protect life and truth.
+
+As one of the founding engineers on the team, you will make key design decisions that will shape a series of data products and services. You’ll create and maintain data ingestion, management, and business intelligence tools alongside Axon’s newest public safety technology products.
+
+You will join our team to work on complex data engineering problems. We’ll look to you to help us design, create, and maintain low-latency, near-real time data systems that are mission critical for public safety. You will be responsible for creating scalable ETL and streaming processes, efficient data pipelines, and a data warehouse that delivers value to technical users in public safety agencies.
+
+Your Day-to-Day
+Design, develop, and maintain data pipelines, warehouses, and reporting systems to support Axon’s public safety products.
+Build the data products that technical users will depend on for business intelligence and ad-hoc access.
+Partner with internal teams and agencies to make public safety data accessible and actionable.
+Influence peers, advise senior leaders, coach and mentor junior team members.
+Facilitate cross-team collaboration among engineers and contribute to the broader community of senior engineers.
+Basic Qualifications
+Bachelor’s degree in CS, engineering, or other quantitative field
+5+ years of industry experience in data warehousing and modeling on highly available SQL and non-relational (NoSQL and distributed database management systems)
+Fluent in writing and optimizing SQL with demonstrated strength in writing complex, high-optimized queries across large data sets
+Proficiency in at least one scripting language, Python, R, or similar
+Demonstrated strength in design, development, and optimization of low latency pipelines for both stream and batch data in Apache Spark or similar
+Ability to make tough technical decisions based on requirements, constraints, and trade-offs
+Preferred Qualifications
+Experience with big data technologies like Hadoop, Spark, Cascading, Hive, PrestoDB, Zookeeper, etc.
+Knowledge of distributed systems and resource optimization for data storage and processing
+Backend engineering experience (Java, Scala, C++, or similar)
+Experience with BI tools like Tableau, PowerBI, etc.
+Compensation and Benefits
+Competitive salary and 401K with employer match
+Discretionary paid time off
+An encouraging parental leave policy
+An award-winning office/working environment
+Ride along with real police officers in real life situations, see them use technology, get inspired
+And more...
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

@@ -1,0 +1,19 @@
+Who we are...
+
+
+Verra Mobility is a global leader in smart mobility. We develop technology-enabled solutions that help the world move safely and easily. We are fostering the development of Smart Cities, working with municipalities, counties and school districts to install over 5,000 red-light, speed, and school bus stop arm safety cameras across North America that leverage computer vision analytics to deliver unprecedented outcomes. We are also creating smart roadways, serving the world's largest commercial fleets and rental car companies to manage tolling transactions and violations for over 8.5 million vehicles. And we are a leading provider of connected payment systems, processing nearly 200 million transactions each year.
+
+Position Overview
+
+
+Software Engineer for VM Consolidated Inc., d/b/a Verra Mobility (Mesa, AZ)
+
+Essential Responsibilities
+
+
+Software Engineer for VM Consolidated Inc., d/b/a Verra Mobility (Mesa, AZ) - Work with scrum team to ensure that all functionality is properly designed, developed, tested, and delivered per the requirements documented by product team. Develop low-level design document to be used by team members for development. Actively participate in code reviews to ensure coding standards are enforced and adequate code coverage is maintained. Develop and document test plans, automated test cases, regression tests, integration tests, and end-to-end tests. Integrate automated testing into Azure Pipelines to ensure quality at build and deployment. Utilize Azure templates and Coded Infrastructure to create and update environments on demand. Work with product teams, scrum teams, and internal groups to ensure customer requirements are being developed and adequately tested. Create and follow design documentation to develop and enhance applications. Create, update, and enhance Stored Procedures, SSRS reports, and SSIS packages. Diagnose and resolve issues in our dev, test, and production environments. Provide technical assistance to end users by responding to inquiries regarding errors, problems, or technical questions. Develop and maintain technical documentation. Provide mentoring and leadership to associate level team members.
+
+Qualifications
+
+
+Requirements include Bachelor’s degree in Computer Science, Computer Engineering, or related; and 3 years of experience (or 5 years with NO Bachelor’s degree) as a Technology Analyst, or related software engineering occupation, which must include some experience with .Net development, SDLC, testing and implementation of web-based business solutions using OOPS, SOA based applications, N-tier applications, Test-Driven Development and Agile Methodologies.; C#, ASP.Net, MVC, Web-API, IIS, Ajax, XML Web Services, WCF, HTML, XML, SOAP, Angular, JavaScript and jQuery; Object Oriented Design/Development, MVC/Unity design pattern, Threading, Parallel and Asynchronous programming; Entity Framework, Data Adapter, Data Reader and Dataset in ADO.NET and LINQ providers for data manipulation and CRUD operations; Database Design, Normalization, T-SQL, PL-SQL, DML & DDL Queries, Stored Procedures, Views and Functions; Data extraction, cleansing/data integration and loading from different data sources by creating complex SSIS packages; and Windows Azure Cloud hosting platform, Azure DevOps, version control tools (Git, TFS, Azure DevOps, Perforce and SVN).

@@ -1,0 +1,79 @@
+Why Drift Net Securities?
+At Drift Net Securities, our mission is to create and provide the most innovative technical solutions to keep communities safe— disrupting not only the world security but also of artificial intelligence based technology. We are a fast paced start-up that is growing quickly and we are looking for the best talent to help us achieve our mission!
+As an engineer at Drift Net, you should love creating simple solutions to build world-class solutions. Designing life saving systems in an agile environment to withstand hyper growth and owning quality from end to end is a rewarding challenge and one of the reasons Drift Net is such an exciting place to work.
+Role description:
+You will be part of the DriftNet Securities engineering development team working on development of FPGAs that are part of Embedded Systems for edge computing (including AI) used in security surveillance.
+This is a full time position in the companys Chicago office.
+Responsibilities:
+FPGA design and development
+Select FPGA parts (includes power analysis and package selection)
+Produce FPGA architecture
+Produce FPGA design documentation (FPGA Design Document, Software Interface Document, Verification Documents)
+Unit-level and chip-level design and verification (design and testbench code, perform chip-level and unit-level verification)
+Support system integration and verification
+Plan the development work (work breakdown, schedule, tools, equipment, tasks)
+Lead the FPGA development work of small team of engineers
+Required Skills:
+Ability to produce FPGA architecture and design documentation based on system-level specifications
+FPGA design and development
+VHDL or Verilog
+Development tools (Vivado - Xilinx or Quartus - Intel; digital simulators)
+Design constraints, performance analysis and optimization techniques (timing, area)
+On-chip instrumentation (ChipScope, Signal Tap)
+Using the embedded DSP and memory resources
+Desirable Skills:
+Familiarity with AI and implementation in FPGA
+Embedded Processing Systems based on the SOC devices from Xilinx and Intel
+Image processing implementation in FPGA
+Signal encoding techniques
+Image / video / data compression
+Geospatial processing
+Multi-gigabit transceivers (serdes)
+System Verilog (UVM)
+Digital filters
+High-Level Synthesis (HLS)
+Connectivity - Ethernet, TCP/IP, I2C, SPI, CSI, DSI, PCIe, UART, AXI, CSI, DSI
+Memory - DRAM, Flash
+Storage devices - SSD (NVMe)
+Education:
+BS in EE or CE is required. MS is desirable.
+Salary is generous and commiserate with experience.
+Job Type: Full-time
+Pay: $100,000.00 - $170,000.00 per year
+Benefits:
+Dental Insurance
+Paid Time Off
+Relocation Assistance
+Vision Insurance
+Schedule:
+Monday to Friday
+Experience:
+FPGA: 5 years (Preferred)
+Education:
+Bachelor's (Required)
+Location:
+Chicago, IL 60606 (Required)
+Language:
+English (Required)
+Work authorization:
+United States (Required)
+Application Question:
+Will you (now or in the future) require sponsorship to work in the USA?
+Additional Compensation:
+Bonuses
+Work Location:
+One location
+Visa Sponsorship Potentially Available:
+No: Not providing sponsorship for this job
+This Job Is Ideal for Someone Who Is:
+Adaptable/flexible -- enjoys doing work that requires frequent shifts in direction
+Achievement-oriented -- enjoys taking on challenges, even if they might fail
+Innovative -- prefers working in unconventional ways or on tasks that require creativity
+This Company Describes Its Culture as:
+Innovative -- innovative and risk-taking
+Aggressive -- competitive and growth-oriented
+Outcome-oriented -- results-focused with strong performance culture
+Company's website:
+www.driftnetsecurities.com
+Work Remotely:
+No

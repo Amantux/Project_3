@@ -1,0 +1,42 @@
+Duo Security, now part of Cisco, is the leading multi-factor authentication (MFA) and Zero Trust for the Workforce provider.
+
+Duo’s mission is to make security simple for everyone. We were born from a hacker ethos and a desire to make the Internet a secure place. We believe in empowering people to follow their passions inside and outside of the office and enable every employee to bring their whole self to work.
+
+Our team is our secret weapon. We run the spectrum from artists to analysts, low-key to high energy, and bring together a diversity of skill sets, experiences, and perspectives to solve what we consider to be the world's most pressing geopolitical challenge — transforming the security industry as we know it. Together we build solutions that are easy, effective, trustworthy, and enduring. And that’s why we are the most loved and trusted company in security.
+
+What You’ll Do
+
+As a Sr. Software Engineer on the Data Infrastructure Team, you will be part of the team responsible for the data backbones that power Duo’s product and business. You will create and improve paved paths for using modern logging infrastructure such as Kafka and Elasticsearch. That infrastructure serves our customers directly through in-product reports and APIs, as well as by supplying data to machine learning features like Duo Trust Monitor. You will also work on other related infrastructure for customer, product R&D, and business intelligence use cases.
+
+A recent transformation of our authentication logs used modern data infrastructure to unlock value for our customers. Transforming our data systems further will unlock this value across all of Duo. We are looking for a collaborative senior engineer to help us harness this momentum, and work with the rest of the team to build the next generation of data infrastructure that enables us to democratize security.
+
+Our engineers at all levels lead projects and initiatives and bring our teams along with them. We value inclusion, empower autonomy, and emphasize software craftsmanship. You embody our values and development culture of collaboration, democracy, testing, CI/CD, data-driven decisions, and mentorship.
+
+You should have:
+Experience with NoSQL, data pipelines, or distributed message queues
+Developed server-side web applications, REST APIs, and/or microservices
+Knowledge and love for programming in Python, or languages like Go or Ruby
+A commitment to quality and an eye for details
+
+
+Even better if you have:
+A passion for software security
+Familiarity with Python 3 and Twisted
+Experience running deployments at-scale in AWS or similar IaaS services
+Experience with internal-facing infrastructure or tooling teams
+Experience with high-availability SaaS environments
+Experience with automated configuration tools like Ansible, Puppet, Chef, etc
+Experience deploying cloud services, monitoring, and alerting
+Experience with Kafka, Elasticsearch, Spark, and AWS
+Demonstrated success as part of a distributed team
+
+
+Why you should apply:
+You love collaborating with, teaching, and learning from high-performing peers on software projects
+You work best in teams of high-performers rallying around achieving a common goal
+You love to solve complex problems revolving around data
+
+
+Why Cisco:
+
+We connect everything: people, processes, data, and things. We innovate everywhere, taking bold risks to shape the technologies that give us smart cities, connected cars, and handheld hospitals. And we do it in style with unique personalities who aren't afraid to change the way the world works, lives, plays and learns. We are leaders with vision, tech geeks, pop culture aficionados, and we even have a few purple haired rock stars. We celebrate the creativity and diversity that fuels our innovation. We are dreamers and we are doers. We Are Cisco.

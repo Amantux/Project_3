@@ -1,0 +1,44 @@
+Get in on the ground floor at one of Boston's top startups and help us solve a huge challenge for developers and product teams: understanding the customer experience. LogRocket is the first system that gives these teams complete visibility into their customer's experience through pixel-perfect replays of user sessions and clear insight into logs, errors, and network activity. We've already attracted an elite roster of customers such as Reddit, Bloomberg, and NBC and recently raised a $15M Series B to continue building a world-class product and team.
+
+If you’d like to join in on our mission of making every experience on the web as perfect as possible — all while taking ownership over your work and helping scale LogRocket to be a pillar in the Boston tech community — we’d love to speak with you!
+
+About the role
+
+We’re looking to bring aboard our first Data Scientist to develop next-generation features in the LogRocket platform. LogRocket tracks millions of events across our customers’ web applications to help product teams quickly identify and squash any bugs or errors that arise. We want to leverage that data to uncover new aspects of the user experience and provide proactive, actionable insights to help our partners build the best experience possible for their users. You will have millions of data points to explore and play around with on a daily basis while you build the foundation for LogRocket’s Data Science team and function for years to come.
+You will...
+Own the analysis, modeling, system design, and development of LogRocket’s initial data science products
+Build the data science elements of LogRocket’s products that will help improve the user experience for thousands of web applications
+Initiate the design, development, and implementation of scientific analysis projects or deliverables
+Work directly with product and engineering leadership to help drive the design and architecture of the product
+Help promote broader analytics initiatives across the organization
+Brainstorm and test new data product ideas with the product organization
+Work with fellow engineers to build out other parts of the infrastructure, effectively communicating your needs and understanding theirs
+Meet with external customers to gain an understanding of their business and how LogRocket can provide data-driven solutions to their challenges
+Build intelligence into our services to make them smarter
+Qualifications
+5+ years of practical experience with a BS, MS or PhD in Mathematics, Economics, Computer Science, Information Management, or Statistics
+Experience designing and implementing machine learning pipelines in production environments
+Experience with one or more general-purpose programming languages, including but not limited to: Java, Scala, and Python
+Excellent understanding of machine learning techniques and algorithms such as logistic regression, linear regression, k-NN, naive Bayes, SVM, random forest, etc.
+Proven ability to perform statistical analysis and experience with tools such as SAS, R, and equivalent
+Experience with cloud computing services such as AWS
+Ability to collaborate effectively and work as part of a team
+Experience presenting insights to executives and nontechnical audiences about product analytics data
+Ability to keep up to date with cutting-edge machine learning/big data methods and techniques
+Ability to thrive in team environments using agile methodology and interacting with product leaders, scientists, and engineers to solve technology’s greatest challenges
+Ability to learn and adapt quickly in a fast-paced, dynamic startup environment
+Benefits and perks
+Catered lunch throughout the week and a fully stocked kitchen with all your favorite snacks (healthy AND nonhealthy)
+Open vacation policy — we all work hard and take time for ourselves when we need it, no strings attached
+Extensive health, dental, and vision benefits, along with 401k and commuter benefits
+Generous stock options (we all get to own a piece of what we’re building)
+Regular team outings and activities (craft nights, boat cruises, excursions out of the city, and many more)
+Flexible working hours and location
+Ample opportunities to learn and take on new responsibilities in a fast-paced, growth-mode startup
+About LogRocket
+
+LogRocket was founded in 2016 by Matthew Arbesfeld and Ben Edelstein, a computer science duo who have been building products together since the third grade. Frustrated by how difficult it was to understand their customers' experiences, Arbesfeld and Edelstein set out toward an audacious goal: to make every experience on the web as perfect as possible.
+
+Our team is a diverse group that brings an eclectic set of experiences from Google, Meteor, Drift, HubSpot, MIT, and Columbia. We enjoy eating lunch together every day in our airy downtown Boston office, learning more about each other at our show-and-tell sessions, and hosting our friends during #logrocketeer events. We focus on building our software with care and craftsmanship — our engineering blog posts offer a taste of that — and we welcome talented people from all backgrounds. Many of us have important spaces in our lives, whether it be family, social organizations, schools, or former companies, and we're doing all we can to make LogRocket another one.
+
+LogRocket is an equal-opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees.

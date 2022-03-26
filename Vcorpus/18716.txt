@@ -1,0 +1,52 @@
+Basic Qualifications
+
+
+Bachelor’s degree in systems engineering, a related specialized area or field is required (or equivalent experience) plus a minimum of 5 years of relevant experience; or Master's degree plus a minimum of 3 years of relevant experience. Agile experience preferred.
+
+CLEARANCE REQUIREMENTS:
+
+This position requires a minimum of an active TS/SCI clearance. Must be willing and able to obtain a polygraph within a reasonable amount of time after hire, with acceptable timing determined by manager. Applicants selected will be subject to a U.S. Government security investigation and must meet eligibility requirements for access to classified information. Due to the nature of work performed within our facilities, U.S. citizenship is required.
+
+Responsibilities for this Position
+
+
+Do you want to be a part of a systems engineering team supporting our Nation's Cybersecurity initiatives? Do you want to challenge your systems engineering skills? If so, General Dynamics Mission Systems has an immediate opening for an Integration Lab Systems Engineer in the San Antonio area. This position provides an excellent opportunity to further advance the cutting-edge technology that supports some of our nation’s core defense/intelligence services and systems. General Dynamics Mission Systems employees work closely with esteemed customers to develop solutions that allow them to carry out high-stakes national security missions.
+
+Highlights of Duties and Responsibilities:
+Perform integration of new capability (software, hardware, etc) following an iterative agile approach (such as Scrum)
+Support continuous ATO activities related to each iterative change/capability
+Develops and coordinates functional, environmental, operational, security and/or performance tests on hardware, software, and systems
+Assists with the design, development and implementation of cost-effective methods of testing and troubleshooting of hardware, software and systems
+Prepares test and diagnostic programs, designs test fixtures and equipment including models and simulations
+Isolates and documents issues and defects
+Implement and configure baseline test automation processes using third party tools, i.e.,
+Supports the generation of technical engineering products by applying the appropriate government standards, processes, procedures, and tools throughout the system development life cycle
+Guides the successful completion of major programs and projects - be familiar with the Special Access Programs operational support activities; key to the successful deployment, integration, and troubleshooting with operations personnel in the deployment of the new integration developed lab solution into the Cybersecurity operational enclave
+Monitor and test application performance for potential bottlenecks, identify possible solutions and work with developers to implement fix
+Liaison with vendors and other IT personnel for problem resolution
+The Integration Lab Systems Engineer must have:
+Applicants must meet DoD 8570.1 certification requirements for IAT-II or higher
+Other certifications related to Linux+, RHCE, RHSA, MCSE are desirable, however, are not mandatory for hiring consideration
+Effective experience with test engineering concepts, principles, and theories
+Proven working experience with installing, configuring, testing and troubleshooting Red Hat Enterprise Linux (RHEL) and Microsoft (MS) Windows within a lab and operational environment
+Familiar with MS Windows Server 2008, 2012 services; configuration, management and troubleshooting MS Windows services like exchange server, RDP services, Active Directory management, Key Management Service as a minimum
+Experience with the maintenance and update of relevant system process documentation and develop ad-hoc reports as needed
+Experience with system processes and scripting languages in a RHEL environment
+Expert working technical knowledge of RHEL and MS Windows operating systems commands and utilities
+Expert knowledge of implementing patch management for Red Hat Enterprise Linux and MS Windows based systems from a centralized management solution
+Familiar with configuration, provisioning, management and troubleshooting ESXi VM Ware, Amazon Web Services (AWS), or DoD Fences cloud solution
+Solid scripting skills; developing, maintaining custom shell scripts, able to troubleshoot scripts related to Bourne, C shell, Korn or Perl
+Experience with Red Hat Ansible and developing Playbooks configured for use on both Linux and MS Windows system configurations
+Experience with Deep Content Inspection (DCI) and Data Loss Protection (DLP) solutions like Clearswift product suite and Fidelis offerings; familiarity with TNE PitBull products i.e., Multilevel Security (MLS) Web Services is a plus but not mandatory for consideration for the position
+Proven experience with Splunk architecture i.e., Forwarders, Indexers, Indexer Clustering & Load Balancing, Search Heads, DB Connect and Deployment server
+Task oriented person and able to adjust priorities as needed
+General knowledge in IT government security accreditations and certification i.e., Risk Management Framework (RMF) and other approved government IT security standards, policies and directives
+Demonstrate good communication skills, written and spoken and be capable of presenting technical concepts to audiences of various technical abilities
+#CJ3
+
+Company Overview
+
+
+General Dynamics Mission Systems (GDMS) engineers a diverse portfolio of high technology solutions, products and services that enable customers to successfully execute missions across all domains of operation. With a global team of 13,000+ top professionals, we partner with the best in industry to expand the bounds of innovation in the defense and scientific arenas. Given the nature of our work and who we are, we value trust, honesty, alignment and transparency. We offer highly competitive benefits and pride ourselves in being a great place to work with a shared sense of purpose. You will also enjoy a flexible work environment where contributions are recognized and rewarded. If who we are and what we do resonates with you, we invite you to join our high performance team!
+
+General Dynamics is an Equal Opportunity/Affirmative Action Employer that is committed to hiring a diverse and talented workforce. EOE/Disability/Veteran

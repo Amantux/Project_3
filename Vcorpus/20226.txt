@@ -1,0 +1,40 @@
+Senior Data Management Analyst (SDMA)
+
+The Senior Data Management Analyst will:
+
+Contribute to an effective enterprise data strategy, including applying foundational knowledge of data management and data architecture to analyzing data and identifying bottlenecks, design flaws, and surface opportunities for data optimization.
+Prioritize, deconflict, and craft backlog requirements while coordinating data task requirements with personnel conducting data quality management.
+Seek, identify, and suggest solutions to fill potential gaps in data feeds across the scope of sources available.
+Demonstrate comprehension of data structures to identify structural deficiencies or opportunities for enhanced delivery and report potential data quality issues.
+Leverage comprehension of Navy ship depot maintenance related data source content to apply contextual expertise when submitting or prioritizing backlog requirements to contribute relevant perspective to data tasks.
+Prepare and communicate to stakeholders with verbal and written presentations.
+Responsibilities:
+
+Assist in the development data controls, policies, standards and best practices to ensure the accuracy, integrity and quality of ship maintenance corporate data in both corporate systems and newly established warehouse.
+Work with SEA 04I and SMPG industry partners to develop a warehouse architecture that integrates data from corporate applications and databases
+Provide direct data quality control and governance assistance to Ship Maintenance warehouse data, and recommended corrective actions to other corporate database/application systems
+Align data ownership and accountability with the appropriate business or subject matter experts
+Assist in enterprise data quality management and data governance initiatives
+Assist in the development of data governance strategies to effectively manage information assets
+Measure and monitor adherence to standards and quality principles
+Define, capture, integrate, and share (as appropriate) master data
+Continuously monitor and improve data quality
+Assist in the establishment enterprise standards for data operations and lifecycle management
+Assist in the implementation a cost-effective data warehousing strategy to provide consistent, clean, and integrated data
+Model enterprise data using high-level conceptual models that align to core business objectives
+Develop strategies for the capture and management of metadata
+Develop data quality measurements and key performance metrics
+Develop recommendations to drive improvements to data standards, processes, and tools
+Develop strategies for the storage and format of unstructured data and big data
+Meet internal and Navy data security requirements
+Qualifications:
+
+Masters degree (preferred), or BS/BA with additional experience, in computer science, data science, or computational science
+Proficient in a broad range of data tools and technologies (e.g., Oracle, SAP BusinessObjects), and scripting languages (e.g., Python, R/RStudio)
+Experience with monitoring data flows to note any discrepancies or latency in data
+Experience with translating data ingestion requirements from external consumers into data ingestion tasks
+An ability to draw connections between data metrics and potential business drivers
+Proven experience in data quality discipline, analytics skills, and meticulous problem-solving Strong interpersonal skills
+Detail oriented with strong organizational skills
+Ability to work with little or no supervision, while highly collaborative with the Senior Data Strategy Analyst (SDSA)
+U.S. citizenship and Secret clearance (with an ability to obtain a Top Secret clearance)

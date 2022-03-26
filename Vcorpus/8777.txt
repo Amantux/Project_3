@@ -1,0 +1,47 @@
+As a Senior Data Scientist at Stem, you’ll be working at the forefront of the storage revolution. Your duties will include improving Stem’s forecasting and optimization algorithms, driving improvements in operational efficiencies, and doing exploratory analysis and reporting on the results to different groups within the company. The Data Science team at Stem is responsible for not only development of our algorithms but also deploying the algorithms in production. So, if you are passionate about big data, software development and applying machine learning to help reduce the carbon intensity of the grid, then we’d like to hear from you!
+
+Our offices are located in Millbrae, CA, and Downtown Oakland. Both locations have very easy access to BART, and this position can be based in either location.
+
+Required Skills
+
+>5 years’ demonstrated ability to work with time-series forecasting techniques including machine learning, deep learning and probabilistic techniques.
+
+Prior experience with machine learning algorithms like random forests, gradient boosting, extra trees etc.
+
+Prior experience with auto regressive models
+
+Prior experience with recursive neural networks
+
+Prior experience with one or more of electricity price forecasting, load forecasting and solar forecasting.
+
+Prior experience with model scoring and selection for maximizing business outcomes.
+
+Highly proficient in software development in Python.
+
+Demonstrated ability to develop and deploy Machine Learning algorithms to a production environment using the Python scientific stack (TensorFlow, numpy, pandas, scipy, scikit-learn)
+
+Experience working in a test-driven development environment
+
+Excellent written, verbal, and collaboration skills
+
+Ability to work in a fast-paced, dynamic environment
+
+Familiarity with the Linux environment
+
+Required Experience
+
+Advanced degree (Masters or Ph.D) in Computer Science, Physics, Electrical or Mechanical Engineering, Statistics, Operational Research or related field
+
+Experience working in the Energy Sector, or relevant academic experience
+
+Demonstrated history and interest in mentoring junior Data Scientists
+
+Stem is the global leader in AI-driven energy storage. With more than 800 systems on-line or being installed in 75 jurisdictions across six states and three countries, and a groundbreaking contract with Southern California Edison to deliver 85MW of grid stabilizing capacity and customer-sited energy storage, Stem has more experience installing and operating advanced energy storage systems than every other provider combined.
+
+By pairing energy storage with Artificial Intelligence (AI), Stem helps building operators and energy managers lower energy costs automatically while supporting a modernized, sustainable electric grid. Stem’s Athena, the first AI for energy storage, lets you buy electricity when it’s affordable and use it later when it’s suddenly more expensive. Athena links facilities into a powerful network that can instantly form virtual power plants that allow you to earn demand response revenue and participate in other grid modernization opportunities as soon as they arise.
+
+With Stem’s energy services agreement, customers receive guaranteed savings immediately without having to pay anything upfront. Stem manages the installation, operation, remote monitoring and maintenance. Systems are designed for safe, seamless integration into a facility.
+
+Headquartered in Millbrae, California, Stem is funded by a consortium of leading investors including the Ontario Teachers’ Pension Plan, Activate Capital, Temesek, Iberdrola, GE Ventures, Constellation Technology Ventures, Angeleno Group, RWE, Total Energy Ventures, Mithril, and Mitsui & Co., Ltd. The breadth and depth of Stem’s resources and capabilities are unmatched in the industry.
+
+Stem, Inc. is an equal opportunity employer committed to diversity in the workplace and does not discriminate against any employee or applicant for employment because of race, color, sex, pregnancy, religion, national origin, ethnicity, citizenship, sexual orientation, gender identity, age, marital status, disability, genetic information, military status, protected veteran status or any other factor protected by applicable federal, state or local laws. Stem, Inc. complies with all applicable state, federal and local laws, regulations and ordinances prohibiting discrimination in places where we operate.

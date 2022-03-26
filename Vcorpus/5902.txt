@@ -1,0 +1,39 @@
+Read what people are saying about working here. 
+
+Are you interested in building a state-of-art fraud detection system that protects Microsoft’s billions of dollars eCommerce transactions each year? Are you excited about working with talented engineers and scientists on highly scalable and exceptionally reliable online services as well as offline big data analytics? How about fighting ever changing fraud patterns on daily basis? If so, please read on.
+
+The Business Application Group is building the foundations to drive business results with next-generation, multi-channel applications that infuse artificial intelligence (AI), mixed reality, social, and mobile capabilities for rapid innovation and enable people to do their best work by unifying relationships, processes, and data with comprehensive business applications connected through a common Microsoft cloud platform.
+
+We are the Risk Data Science Team under Business Application Group. Our anti-fraud platform leverages the newest technology from advanced Microsoft ML platforms such as Azure ML, CNTK, TLC, Spark etc. It's a unique combination of best in class data science and cutting-edge technology running in the modern cloud.
+
+Responsibilities
+
+We are looking for a strong data scientist who is self-motivated and an excellent team player. Working on the Risk Data Science Team means continuous learning. We are always in search for new ways to process data, create comprehensive features and build advanced ML models to identify frauds. We evaluate and experiment with new technology every day. As such, candidates being passionate about technology overall, deep understanding of fundamentals and embracing continuous learning can sometimes be more important than prior experience with prior technology.
+
+Qualifications
+
+Basic Qualifications:
+
+2+ years in transaction analytic data scientist roles with experience of building machine learning models, preferred for fraud detection modeling experience.
+
+2+ years’ coding experience in any modern data science languages, python, spark, perl, sql, R, etc.
+
+Exceptional coding skills in one of the following C++, C# or Java required;
+
+Preferred Qualifications:
+
+Familiar with the whole life cycle for fraud model or transaction analytic modeling building
+
+Advanced ML models, such neural network, GBDT, DNN etc
+
+Preferred MS or Ph.D in Computer Science, Electrical Engineer, Statistics, Mathematics, Economics (Relevant work experience can substitute)
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:
+
+Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+
+ Microsoft Corporation (NASDAQ: MSFT) is an American public multinational corporation headquartered in Redmond, Washington, USA that devel...

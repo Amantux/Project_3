@@ -1,0 +1,31 @@
+RxDataScience, Inc is a premier data science company based on analytics as a software service model and provides Artificial Intelligence (AI) based advanced analytics solutions and services. Our goal is to solve complex challenges for life sciences and healthcare clients and enable insights at both strategic and operational levels. We provide the talent, tools, and technology to accelerate business growth for our clients.
+In this role, we are seeking a Senior Machine Learning & AI Engineer / Data Scientist.
+The three most important skills that are required for the role are:
+Deep Learning experience, thorough quantitative understanding of AI & MLAdvanced Experience in NLPExperience in deploying enterprise/production applications in the Cloud (eg., AWS) for AI & ML
+Experience in NLP, including topic modelling, information extraction, Parts-of-Speech Tagging, Syntactic Parsing, Compositional Semantics, Summarization and other common as well as more advanced experience is an essential requirement for the role.
+In terms of Deep Learning, the individual should have preferably had experience developing in a C/C++/CUDA environment working with one or more Deep Learning frameworks such as TensorFlow, Keras, PyTorch, Caffe and/or others.
+Alternatively, Python experience leveraging Deep Learning packages would be also considered.
+The selected candidate will work out of our NJ/NY location(s). The individual will work in a high-performance computing environment that involves enterprise-grade ML deployments involving thousands of cores and advanced use of mathematics and statistics for simulations, optimisations and numerical computing.
+
+Essential Requirements:• Machine Learning in the field of Natural Language Processing• Deep Learning with advanced computational frameworks• Hands-on experience in deploying large-scale distributed ML architectures• Strong experience in any of Python, R, Lua, C or C++. CUDA preferred, but not mandatory• Advanced understanding of neural networks and more generally ML Algorithms
+Please note:If possible please send links to your code repositories.
+Nice to have:• Experience working in a Pharmaceutical / Healthcare R&D /Biotech groups• Prior experience in the Pharmaceutical / Life Sciences industry
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Princeton, NJ 08540 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         7484_1493944349

@@ -1,0 +1,41 @@
+Reference #:
+
+ 19-2681
+
+Open Date:
+
+ 8/12/2019
+
+Location:
+
+ Hampton, VA
+
+US Citizenship Required:
+
+ Yes
+
+Job Description: SSAI has an exciting opportunity for an Associate Data Scientist who has experience in the earth sciences or related field to support the Atmospheric Science Data Center (ASDC) at NASA Langley Research Center in Hampton, VA. Ideally, this candidate has a strong science background that will assist in preparation of plans, reports, and documentation for atmospheric/earth science efforts. You will spend time writing and editing documentation (micro-articles, Jupyter notebooks, storymaps, etc.); researching information; populating metadata records, and performing metadata quality assessments for Earth Science data records. The candidate will work with science teams providing data to the ASDC as well as the users of those data to improve metadata for discovery and accessibility to ASDC data holdings. Required Qualifications:
+
+BS degree in Computer Science, Atmospheric Science, or closely related field
+
+General science knowledge/familiarity with NASA Earth Science data and how they relate to each other and the science community
+
+Experience addressing science community needs for accessing and using data, including geospatial representations, science discipline-based ontology and faceted based searching, and advanced data analysis tools
+
+Experience working with the following data formats: ICARTT, HDF4/HDF5/HDF-EOS/NetCDF
+
+Capable of understanding and commonly used GIS servers/clients (GeoServer, ARCServer, QGIS, ArcGIS)
+
+Capable of working both independently and with small teams
+
+Excellent verbal and written communication skills
+
+Desired Qualifications:
+
+Knowledge of SVN or Git code management practices
+
+Experience with analysis of earth science data
+
+Understands the implementation of technology related to exploiting earth science data
+
+Familiarity with Agile Methodologies

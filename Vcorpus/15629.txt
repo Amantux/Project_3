@@ -1,0 +1,34 @@
+Who we’re looking for
+Earth Class Mail is searching for a skilled analyst who has experience across the Business Intelligence (BI) stack, including data pipelining, modeling, visualization, and reporting to key stakeholders. The ideal candidate is ambitious, naturally curious, and has sharp critical thinking skills that are complemented by a broad analytical toolset and strong business acumen. The successful candidate will become a subject matter expert of our data systems, leverage data to inform business decisions, and effectively communicate analysis and findings to all levels of the organization. This is an exciting and unique opportunity to influence senior leadership and impact business outcomes while learning all aspects of the business.
+Responsibilities
+Lead design, development, and implementation of new BI solutions and reports
+Lead research projects, business, and market analysis
+Use automation and intelligent methodologies to design and improve processes
+Serve as subject matter expert for revenue-centric data systems
+Co-administer our reporting database using Azure SQL Server
+Develop and maintain data pipelines using Azure Data Factory
+Document processes, methods, research, and analysis
+Communicate and present research and analysis to all levels in the organization
+Advise management on key business decisions and processes
+
+Required Experience
+Bachelor's Degree in one of the following fields:
+Data Analytics, Computer Science, Business, Finance, Science, or Mathematics
+3+ years professional experience as a data or business analyst
+Advanced proficiency with SQL in a major relational database system
+Advanced proficiency with Microsoft Excel and/or Google Sheets
+Proficiency with a data visualization tool(s)
+Power BI, Tableau, Looker, etc.
+Experience building data pipeline/ETL processes
+Understanding of data warehousing, data modeling, and data management principles
+Excellent written and verbal communication skills
+Strong analytical and problem-solving skills
+
+Preferred Experience
+Experience working as a team or project lead
+Knowledge of basic Accounting and/or Finance principles
+Experience with Financial reporting
+Working experience with Python, specifically Pandas
+Proficiency with Microsoft SQL Server
+Exposure to NoSQL database technologies like MongoDB or ElasticSearch
+Exposure to a data integration or ETL platform like Azure Data Factory

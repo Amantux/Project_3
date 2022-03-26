@@ -1,0 +1,29 @@
+Pluto TV is the leading free streaming television service in America, delivering 100+ live and original channels and thousands of on-demand movies in partnership with major TV networks, movie studios, publishers, and digital media companies. Pluto TV is available on all mobile, web and connected TV streaming devices and millions of viewers tune in each month to watch premium news, TV shows, movies, sports, lifestyle, and trending digital series. Headquartered in Los Angeles, Pluto TV has offices in New York, Silicon Valley, Chicago and Berlin. Pluto is a subsidiary of ViacomCBS (NASDAQ: VIAB, VIA), a global content company with premier television, film and digital entertainment brands.
+As a Data Engineer, you have a solid understanding of both the business and the technical aspects of BI in relation to digital media business. You will drive the completion of projects within the established scope, while simultaneously planning for and leading unknown future BI requirements in a dynamic environment.
+Design, model and develop data sets to support reporting and analytics in a cloud environment.
+ETL development: cover all aspects of programming assignments and assist with systems design.
+Develop and maintain a technical metadata framework and repository of data events and ETL operations.
+Lead and administer Analytics tools and tag management systems.
+Help plan and maintain the technical infrastructure, its configuration, performance, and storage requirements, with consideration of tiered data and data archiving.
+Generate ad-hoc queries and reports based on business requirements.
+Provide ongoing evaluations of technology solutions and capabilities to ensure alignment with business objectives, identify areas of risk, while monitoring the current environment and potential improvement areas.
+Work with business partners to gather, analyze, and translate requirements in BI reporting area – either recommending an existing solution, developing a solution, or synthesizing delivery requirements to engineering teams for development.
+Actively question and challenge customers to understand their requirements and reach the best solutions, near and long term.
+Understand and adhere to development and documentation standards, database design and storage.
+Successfully execute process improvements impacting own work and work of others.
+On-call application support is required.
+
+3+ years of premier Data engineering experience; at least 2 years on cloud Infrastructure.
+Working knowledge of digital media ecosystem, including how digital video streaming, ad servers, DSPs, SSPs work.
+Experience with a mix of Cloud and Enterprise data environments with real world implementation of data collection and processing on AWS environment.
+Knowledge of web technologies and online advertising systems.
+Experience with real-time Big Data analytics.
+Experience with Hadoop, MapReduce, Spark, Flink and/or other Big Data processing platforms.
+Excellent knowledge of OLAP concepts.
+Familiarity with columnar databases like Redshift, Vertica etc.
+Programming language such as Java, and scripting languages like python, ruby and Unix shell scripts.
+Experienced working in a fast-paced, high-tech environment (preferably software development) and comfortable navigating conflicting priorities and ambiguous problems.
+Experience with data visualization tools such as Looker, Tableau.
+
+Great communication and collaboration skills across technical and non-technical partners.
+A Bachelor’s degree in Computer Science or equivalent preferred.

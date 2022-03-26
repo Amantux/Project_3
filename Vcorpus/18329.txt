@@ -1,0 +1,45 @@
+The cloud infrastructure engineer is responsible for automating and managing the technology processes around the development, testing, release, and deployment ofTahzoo. Working closely with developers, quality assurance, support and the product manager, thecloud infrastructureengineer uses continuous integration tools, scripts and manual processes to ensure that all teams are able to perform their jobs at all times.
+
+What You'll Be Doing:
+Implementation and adoption of DevOps using strategies such as Fast Feedback, Continuous Improvement, and other LEAN / Agile methodologies
+Deployment, provision and maintenance of the server infrastructure as well as research and development to ensure continual innovation
+Implementation and deployment of new, as well as the management of existing server infrastructure and services
+Design and implement availability, security and performance monitoring
+Research, recommend and develop innovative, and where possible automated approaches for daily administrative tasks; identify approaches that leverage our resources and provide economies of scale
+Requirements:
+At least3-5 years of experience inLinux,Windows, and AWS
+Prior experience is a nice-to-have in the following tools and technologies:
+AWS: EC2, S3, EFS, RDS, Dynamo DB, Lambda, CloudFormation, Docker
+Jenkins
+Git
+RESTful web services
+Shell scripting
+Apache
+MySQL
+C#
+SOLR
+IIS
+Help Desk ticketing systems, such as JIRA
+Deep knowledge of Linux system administration and shell scripting experience
+Experience with Chef / Ansible and Automation tools (Rundeck, Puppet, Spacewalk)
+DevOps experience working with source control systems, designing and troubleshooting build pipelines using tools such as Git, TFSVC, Jenkins and VSTS
+Working with containers and orchestration such as Docker or Kubernetes.
+Scripting automation with tools such asPowerShell, Bash, Python.
+Support workloads on Windows and Linux.
+At least 2 years' experience supporting applications and systems in a production environment, preferably for a SaaS software organization
+Prior experience with Amazon Web Services (AWS) and Microsoft Azure building tools and applications is highly desirable
+Some experience with unit testing andtest-drivendevelopment (TDD)
+Solution oriented, constructive approach to problem-solving
+
+
+About Tahzoo:
+
+Experiences matter.
+
+As the architects for the experience age, Tahzoo crafts memorable moments for our clients' customers. We're in the relationship business solving customer experience problems for Fortune 500 companies around the globe. With deep technology chops and all the marketing, data, design and content skills you can imagine, we help our clients grow closer to their customers every day.
+
+We want your career at Tahzoo to be equally inspiring transformative, even. We're not only committed to client success; a company worth caring about comes from an equal commitment to caring for employees. We believe that the strength and quality of those relationships propel us forward, as a team, and as individuals. You're invited to work alongside other 'smart and happy' professionals as you serve as a change agent at one of the fastest growing companies in the US.
+
+Join us in changing the world, one experience at a time.
+
+Tahzoois an equal employment opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, national origin, disability status, sexual orientation, or any other characteristic protected by law.

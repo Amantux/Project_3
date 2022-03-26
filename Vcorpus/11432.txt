@@ -1,0 +1,41 @@
+Masters with two years of experience or a Bachelors with five years of experience.
+
+Experience in SQL, R, Python, or another scripting language; command line usage; experience in Java
+
+Track record of diving into data to discover hidden patterns and of conducting error/deviation analysis
+
+Knowledge of various machine learning techniques and key parameters that affect their performance
+
+Evidence of using of relevant statistical measures such as confidence intervals, significance of error measurements, development and evaluation data sets, etc. in data analysis projects
+
+Excellent written and verbal communication skills for both technical and non-technical audiences
+
+Preferred qualifications
+
+Experience applying machine learning concepts
+
+Knowledge of optimization and supply chain / inventory management concepts
+
+Experience building complex data visualization
+
+Fluency in a scripting or computing language (e.g. Python, Scala, C++, Java, etc.)
+
+Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, Amazon’s Supply Chain Optimization Technologies (SCOT) team is for you. We build systems to peer into the future and estimate the distribution of tens of millions of products every week to Amazon’s warehouses in the most cost-effective way. When customers place orders, our systems use real-time, large scale optimization techniques to optimally choose where to ship from and how to consolidate multiple orders so that customers get their shipments on time or faster with the lowest possible transportation costs. This team is focused on saving hundreds of millions of dollars using cutting edge science, machine learning, and scalable distributed software on the Cloud that automates and optimizes inventory and shipments to customers under the uncertainty of demand, pricing and supply.
+
+SCOT has a new team called FBA Inventory Optimization (FIO) and we are hiring! FIO is a cross-functional team of data and research scientists, engineers, economists, and product managers focused on driving growth and reducing costs for the fast-growing Fulfillment-By-Amazon business by optimizing our third-party supply chain. Our team tackles problems facing the worldwide FBA business such as: 1) improving FBA growth and efficiency through new systems, policies and incentives, 2) balancing the supply and demand of FBA capacity, 3) enabling profitable global selling opportunities, and 4) driving out costs across the FBA supply chain to spin the flywheel. This is a unique space where we innovate using optimization, econometrics, market/contract design, and machine learning to solve novel problems at scale. Come join us in this journey and help solve these problems from the ground up!
+
+As a Data Scientist, you will solve real world problems by analyzing large amounts of business data, defining new metrics and business cases, designing simulations and experiments, creating models, and collaborating with teammates in business, software, and research. The successful candidate will have a strong quantitative background and can thrive in an environment that leverages statistics, machine learning, operations research, econometrics, and business analysis.
+
+Experience processing, filtering, and presenting large quantities (Millions to Billions of rows) of data
+
+Experience applying machine learning concepts
+
+Knowledge of optimization and supply chain / inventory management concepts
+
+Experience building complex data visualization
+
+Fluency in a scripting or computing language (e.g. Python, Scala, C++, Java, etc.)
+
+Track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment
+
+Amazon.com is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age

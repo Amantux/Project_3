@@ -1,0 +1,33 @@
+The Company: Root is a car insurance company founded on the simple idea that people who drive well are less likely to get in accidents, and that means they should pay less for insurance. With a small initial venture capital investment, Root was faced with the challenge of building the entirety of the technology necessary to run a car insurance carrier from scratch. Through applying techniques to gain significant engineering leverage in the short-term without compromising long-term velocity, the engineering team at Root was able to deliver successfully, creating one of the fastest venture-backed companies to ever reach a billion dollar valuation.
+
+Our Progress: We’ve been in business now for four years. In those four years, we have become the fastest growing auto insurance company, on a % growth in premium basis. Our most recent round of funding valued us at $3.65 billion and brought our total VC funding to $527.5 million. In the last two years, we have grown our team from 60 to 800.
+
+The Team: Our Data Warehouse has become a central part of the analytics process. We gather data from across the organization and from third party vendors to help answer critical business questions. Our team prides itself on being able to blend software engineering with fundamental Data Warehousing concepts. We often take advantage of tools that aren’t typically found in Root’s software stack, but we approach these tools with the same solid engineering principals. Our goals include simplifying complex data, offering high performance, and ensuring that we deliver data on time to our analysts.
+
+Our tech stack includes:
+AWS Redshift
+AWS S3
+AWS Glue
+AWS DMS
+Ruby/Rails
+Python
+Spark
+Fivetran
+Terraform
+
+For more information on engineering at Root see https://eng.joinroot.com/
+Responsibilities
+Work with product, actuarial, and engineering teams to understand and scope new features for our environment
+Design & develop data structures that support downstream analysis
+Design & develop sustainable, fast ETL processes using SQL
+Provide peer review for teammates on their change requests
+Create processes to identify, prioritize, and illustrate data quality issues and remediation efforts.
+Design solutions which help us to reach our overall goals
+Help to ensure data quality and meet data delivery SLA’s
+Qualifications
+At least 3 years of experience in the insurance industry is strongly preferred
+Experience using technologies listed above is preferred
+Solid SQL skills. Ability to transform data without the use of an ETL tool.
+Experience using version control tools like GIT
+Familiarity with programming languages like Ruby or Python
+Familiarity with DevOps & Agile processes

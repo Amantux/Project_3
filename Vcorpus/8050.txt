@@ -1,0 +1,75 @@
+General Motors Data Scientist
+
+Who weare
+
+At General Motors, weembrace the opportunity to think bigger and aim higher. It’s the confidence inknowing our ideas produce exceptional vehicles and mobility solutions that movethe world in exciting new ways. With strong leadership and bold vision, we’redirecting the future of transportation—and enriching people’s lives along theway.
+
+Whatwe do
+
+Breakthroughs happen everyday here—from advances in vehicle electrification and fuel cell technology toautomation and connected car platforms. The knowledge and perspectives of ourdiverse workforce offer insight into the changing needs of our customers, sparkinventive ways to improve our vehicles and elevate our business. And we’redeveloping more sustainable methods along the way that maximize our planet’s resourcesand benefit our surrounding communities.
+
+Whywork with us
+
+We combine the passion of astartup with the influence of a global powerhouse. We offer careers that arebuilt on a strong foundation and are motivated by discovery. We encourage youto explore few of the many reasons to unleash your talent with GeneralMotors.
+
+GM has led the automobileindustry for years with its connected cars, OnStar service, 4G Wifi invirtually every automobile, and most recently its venture into autonomouscars. The prevalence of these data across literally millions of carstranslates into massive amounts of data ranging from car performance (tirepressure, gas consumption, radio utilization, etc.) to driver behavior (speeding,sudden stops, location, and the like).
+
+Simultaneously, over thepast 5 years, Information Technology has created a best-in-class Hadoopenvironment to house these and other data about the customer including digitalbehavior, third-party demographics, service and warranty transactions, and manymore.
+
+To-date, most of these datahave gone untapped and the Chairman and CEO believes there is opportunity tocreate better customer experiences, maximize safety, drive incremental revenue,and monetize the data externally through marketplaces and newproducts. To solve for this, the company recently hired its firstChief Data & Analytics Officer, who will shepherd a cross-enterpriseendeavor to maximize the ROI of its Data and Analytics efforts.
+
+TheFunction & Role
+
+Data Scientist applies Data Science and Modeling techniquesto solve complex business problems within General Motors. They must be able toBuild predictive models and machine-learning algorithms,
+
+analyze large amounts of information to discover trends andpatterns, undertake preprocessing of structured and unstructured data as wellas monitor and sustain model effectiveness. They will need to be able tocombine models through ensemble modeling, present complex information usingdata visualization techniques and propose solutions and strategies to businesschallenges that drive business impact.
+
+Key partners
+
+Line of Business and Function leaders (client)
+
+Information Technology (for data and tools)
+
+Skills
+
+Proficient in one or more core analytical tools / suites / languages such as SAS, Python, R, Spark Scala, Mathematica and understand their limitations
+
+Proficient in one or more analytical methodologies such as numerical optimization, econometric modeling and forecasting, Statistical modeling, machine learning, optimization, simulation methods and text analytics.
+
+Ability to present results to the business client and analytic peers.
+
+Experience ( Entry Level)
+
+4 Year College Degree/Master's degree in Mathematics, Statistics, Computer Science, Economics, MIS, Data Analytics, or Science with emphasis in at least one of the following areas of concentration:
+
+econometric modeling
+
+forecasting
+
+statistical modeling
+
+machine learning
+
+text analytics and/or
+
+optimization/simulation methods
+
+And At least 5 years of demonstrated hands-on experience on 4-6 projects utilizing the tools disciplines outlined above.
+
+Experience ( Mid Level)
+
+Master's degree in Mathematics, Statistics, Computer Science, Economics, MIS, Data Analytics, or Science with emphasis in at least one of the following areas of concentration:
+
+econometric modeling
+
+forecasting
+
+statistical modeling
+
+machine learning
+
+text analytics and/or
+
+optimization/simulation methods
+
+And At least 7 years of demonstrated hands-on experience on 6-8 projects utilizing the tools disciplines outlined above.

@@ -1,0 +1,40 @@
+The Opportunity 
+In an effort to better serve our 95+ million registered hourly workers and over 470,000 employer locations, Snag is looking for a Senior Data Scientist to collaborate with key business stakeholders throughout the organization to help fulfill our mission of helping people find their best fit job. The Data Science role at Snag includes a heavy emphasis on search, information retrieval, matching, and recommendation, as well as experimental design and measurement of data science impact in the customer-facing product. This role provides an excellent opportunity to make a direct impact in a customer facing product! 
+Our tech stack includes Python (pandas, numpy, sklearn, pytorch, flask), AWS (EC2/ECS, S3, EMR), Elasticsearch, Mongo, CircleCi, Docker, Terraform, and other technologies. You might not have experience in every area but if you have a drive to learn and grow, we encourage you to apply. 
+This role will be based in our Richmond, VA office.  What Snag Can Promise You 
+When you join the Snag Engineering team, you ll be working on a high-volume, high-traffic site that gets over 50 million visits a month! But that s just the start of it. You get to contribute more than just code; we get together every two weeks to present ideas, so you ll influence what we build and how we build it. Expand your skills with our weekly tech talks and book clubs. Learn about, and experiment with, new technologies/ideas in our monthly hack days and chapter meetings. Engineering at Snag isn t just about keeping the lights on and the site running. It s a place for you to learn and grow in a supportive team environment.  What You Get to Do  
+Develop high-performance algorithms for information retrieval, recommendation, and a variety of content processing and enrichment, and customer behavior modeling tasks 
+Test and implement algorithms in scalable, product-ready code 
+Collaborate with project managers, developers, and business staff to develop data-driven products 
+Research and investigate academic and industrial machine learning, natural language processing and modeling techniques to apply to our specific business cases   What You'll Bring  
+Experience working in advanced analytics or machine learning 
+Experience building and deploying models using common machine learning frameworks such as scikit-learn, pytorch 
+Experience working with relational and/or NoSQL data stores 
+Familiarity working in Linux-based systems and/or cloud computing resources 
+Experience with natural language processing, recommendation engines, graph analytics, or online experimentation frameworks 
+ The ability to live by Snag s core values - solidarity, candor, unconvention, fire - by being an ally, speaking hard truths, questioning the status quo, and always doing whatever it takes to meet our mission of putting people in the right-fit positions so they can maximize their potential and live more fulfilling lives    Bonus Points  
+Experience with A/B testing and analysis of engagement with online marketplaces 
+Experience working with search and information retrieval systems such as SolR/Elasticsearch, as well as experience with information retrieval success metrics 
+Experience with scalable data processing such as Hadoop and Spark  
+At Snag, we celebrate our differences in an inclusive workplace designed to support the things that make us individuals. Snag is proud to be an equal opportunity employer and we strongly encourage candidates from all different backgrounds and identities to apply. Each new hire gives us the opportunity to bring in a fresh new perspective to further diversify our company for the benefit of our employees, products and our community.  Why Snag 
+Snag offers a highly competitive compensation and benefits package including medical, dental, vision, life insurance, a 401k plan, health and fitness incentives, PTO, paid community service time, and a casual fun work environment with an award-winning culture. What Snaggers love most is our commitment to work-life blend and the amazing leaders who are dedicated to helping their teams grow personally and professionally. Snag promotes a culture of community and support, so once a Snagger, always a Snagger. We pride ourselves on keeping it real and not being afraid to challenge the status quo.  About Snag 
+Snag, the country s largest and fastest-growing platform for hourly work, connects more than 95 million registered job seekers with employment opportunities at 470,000 employer locations in the US and Canada. Snag s mission is to put people in the right fit positions so they can maximize their potential and live more fulfilling lives. Through Snag, workers gain the flexibility of working when and where they choose while employers are assured every shift stays filled. For more information, visit www. snag. co or connect with us on LinkedIn, Instagram, Facebook and Twitter.  
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Richmond, VA 23214 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         2365_0ee50013459b5fc49a0f296dfb43d737

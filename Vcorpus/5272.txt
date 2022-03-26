@@ -1,0 +1,55 @@
+Overview
+
+Acuity, Inc. seeks dynamic, self-motivated individuals with experience as a Data Scientist who can clean, organize and visualize streamlined processes with customer data. We are looking for experienced Data Scientists that can work closely with customers and be a liaison with the team. This Data Scientist will have a background with experience with Apache Spark, Kafka, Hadoop, etc., with big data analytics.
+
+Acuity, Inc. is a leading management and technology consulting firm that specializes in serving the federal government. Our innovative, collaborative and rewarding work environment has earned repeat honors from the Washington Business Journal’s Best Places to Work and SmartCEO Corporate Culture awards.
+
+Responsibilities
+
+What you’ll be doing:
+
+Work within a team of like-minded professionals to design, build and deploy critical business and mission applications in a production environment
+
+Assess the data architecture of a “legacy” application and re-design it for a highly scalable cloud application built in conformance with a microservices architecture
+
+Develop data design elements (model, schema, dictionary, taxonomies, and related artifacts) for the to-be cloud application that will provide services to a global base of customers
+
+Assist in the creation of guidance and recommendations supporting the development, implementation, and management of data analytic capabilities to include data discovery, data access, and visualization
+
+Create executive level reports and briefings on data architecture, data management/policies, and data analytics
+
+Assist in the development of enterprise data governance policies and procedures, ensure the appropriate use of datasets across the enterprise
+
+Work in support of an advanced technical team to serve as the technical lead for matters relating to data
+
+Design and implement appropriate data environments for those applications, engineer suitable data management and governance procedures and provide production support
+
+Develop data solutions in development and staging environments to exercise the design and ensure it will meet the requirements for availability and ongoing sustainment
+
+Qualifications
+
+BS in Computer Science, Statistics, Math, or other engineering-related discipline
+
+At least 5 years of experience working in big data environments performing analytics, machine learning, and visualization dashboards
+
+Strong understanding of Spark APIs, best practices, optimizations, deployments, and tuning
+
+Hands-on experience and understanding of data structures and algorithms
+
+Experience with Databricks platform is a plus
+
+Programming experience with Scala, Python and/or R for purposes of big data analysis
+
+Present and Share Data Science methods and approaches to external clients and partners. Help mature organizational Data Science capabilities.
+
+Participate in internal and external knowledge exchanges (conferences, workshops, webinars).
+
+Experience with Agile Delivery methodologies
+
+Desired Technical Skills and Competencies:
+
+Amazon AWS or Microsoft Azure Cloud Certification or equivalent
+
+Clearance Requirements:
+
+Must be US Citizen and be able to obtain and maintain DHS Suitability

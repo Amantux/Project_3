@@ -1,0 +1,4 @@
+"0","```r
+sandy_call_breakdown <- sandy_data_by_year %>% pivot_longer(!date, names_to = \"Department\", values_to = \"Call_Count\", values_drop_na = TRUE)
+head(sandy_call_breakdown)
+```"

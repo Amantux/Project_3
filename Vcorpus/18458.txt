@@ -1,0 +1,29 @@
+As The Meet Group engineers, we believe Engineering Serendipity is more than a kick-ass statement; we believe it’s our goal. From conceptualization through completion, every product and feature we build is designed to improve the friendship-making experience of our members.
+
+The Meet Group is seeking a Senior Backend Software Engineer to help architect, build, iterate, and scale our backend application server software. As a Software Engineer you will have to be excellent in core Java to implement our application server code that scales to tens of millions of social connections per day, and be familiar with the rest of the stack up to the presentation layer including HTML, JavaScript, and Web Services.
+Key responsibilities
+Contribute best-in- class programming skills to develop highly innovative, horizontal & vertically scalable backend code in a clustered server environment
+Continually offer thought-leadership and dependable execution ability in a high-paced environment characterized by ongoing iteration and product pushes
+Play a key role in backend development, troubleshoot and help shape the architecture of new features
+Requirements
+Strong Java experience including design, implementation, debugging
+BS or MS in Computer Science or related field preferred, top-tier schools preferred, or equivalent experience
+3+ years experience building products for fast growing web or mobile products
+Solid understanding of data structures and algorithms (i.e., understanding the tradeoffs of performance, complexity, etc.)
+Solid understanding of multithreading
+Comfortable in a small, intense and high-growth start-up environment that utilizes agile development practices such as SCRUM, unit testing, continuous integration, etc.
+Experience developing backend production code to be deployed in a high load linux environment
+Experience profiling memory and performance in a distributed environment
+Comfortable with web services, Tomcat, SQL, Strong analytical skills, good judgment, and passion for your work
+Desired Skills
+Rest/JSON, SOAP web services
+Experience with horizontal scaling
+Experience with geospatial search
+Experience with security best practices
+Knowledge of design patterns
+Ability to work with other programming languages (polyglot engineer), especially scripting
+Helpful if experienced with Node.JS, AWS, and building distributed services
+About us:
+The Meet Group (NASDAQ: MEET) is a portfolio of mobile social entertainment apps designed to meet the universal need for human connection. We leverage a powerful live-streaming video platform, empowering our global community to forge meaningful connections. Our primary apps, MeetMe®, LOVOO®, Skout®, Tagged® and Growlr®, keep millions of mobile daily active users entertained and engaged and originate untold numbers of casual chats, friendships, dates, and marriages. Our apps, available on iPhone, iPad, and Android in multiple languages, use innovative products and sophisticated data science to let our users stream live video, send gifts, chat, and share photos. The Meet Group has a diversified revenue mix consisting of in-app purchases, subscription, and advertising, and we have offices in New Hope, Philadelphia, San Francisco, Dresden, and Berlin. For more information, visit themeetgroup.com, and follow us on Facebook, Twitter or LinkedIn.
+The Meet Group is an equal opportunity employer and a participating employer of Everify. We value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, or marital, veteran, or disability status.
+#v061219 ifwe meetme skout tagged hi5

@@ -1,0 +1,15 @@
+RESPONSIBILITIES:
+
+Kforce has a client in search of an AWS Data Platform Engineer in San Antonio, TX.
+
+REQUIREMENTS:
+Must be able to effectively work within a team environment interacting with peers and leadership
+Must be able to produce clear-thinking/understandable developer documentation
+Must be proficient with a variety of Data Platform technologies and techniques including:
+Must be proficient with AWS Cloud generally and be able to proficiently use the AWS Cloud Console/CLI/etc. tools in order to configure Bigdata PaaS/IaaS environments
+Must be proficient with Bigdata Ingestion technologies generally and associated AWS technologies specifically; Targeted AWS Ingestion technologies include: Glue, Kenesis, etc.
+Must be proficient with Bigdata Processing/Transformation technologies generally and associated AWS technologies specifically. Targeted AWS Processing/Transformation technologies include: EMR, Spark, Hadoop, Hive, Pig, Java/Scala/Python, etc.
+Must be proficient with Bigdata Storage technologies generally and associated AWS technologies specifically. Targeted AWS Bigdata Storage technologies include: S3, Datawarehouse, Data Lake, etc.
+Must be proficient with Bigdata Access technologies generally and associated Azure technologies specifically; Targeted AWS Access technologies include: Hive, SQL, JDBC, etc.
+Must be proficient with Bigdata Notebook technologies generally and associated Azure technologies specifically; Targeted AWS Notebook technologies include: Jupyter Notebook
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.

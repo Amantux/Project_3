@@ -1,0 +1,57 @@
+This candidate will serve as Data Scientist in NYC DOT’s Bike Share Program, which is responsible for planning and oversight of the Citi Bike system, dockless bike share services, and advance planning for other potential shared micromobility services. Citi Bike is a public transportation service and a public-private partnership that is among the largest and most successful bike sharing system in the world. It currently consists of 13,000 bicycles at over 750 rental stations in Manhattan, Brooklyn, and Queens. It will expand into new neighborhoods and boroughs over the next five years, ultimately doubling the size of its existing service area and tripling its number of bikes. Dockless bike share is a newer service model that was piloted at a small scale in 2018 and will be piloted at a larger scale—including a full-borough demonstration project in Staten Island—in 2019 and beyond.
+
+Under the direction of the Executive Director and senior Program staff, this candidate will perform research and analysis activities related to bike share program data that will inform current and future planning; conduct economic research and studies involving estimates and forecasts regarding bike share transportation services; analyze data, develop predictive models to answer complex and nuanced questions about the programs and anticipate future needs and behavior of the systems; collect, classify, evaluate, and analyze data, develop statistical models, and use programming language to examine complex and nuanced questions about bike share services; prepare reports and briefing materials based on databases that underlie the bike share systems and DOTs management of same; monitor vendor compliance with governmental regulations, DOT policies, and contract terms; establish and monitor best practices, policies, procedures and documentation around bike share data; plan, design, maintain, and support unit internal databases; communicate technical issues to technical and non-technical audiences; and perform related duties.
+
+Candidate should be proficient in Python, SQL, and GIS, and possess advanced statistical analysis abilities and data visualization skills. Candidate should have proven experience working with geospatial and time-series data.
+
+Minimum Qual Requirements
+
+1. For Assignment Level I (only physical, biological and environmental sciences and public health) A master's degree from an accredited college or university with a specialization in an appropriate field of physical, biological or environmental science or in public health.
+
+To be appointed to Assignment Level II and above, candidates must have:
+
+1. A doctorate degree from an accredited college or university with specialization in an appropriate field of physical, biological, environmental or social science and one year of full-time experience in a responsible supervisory, administrative or research capacity in the appropriate field of specialization; or
+
+2. A master's degree from an accredited college or university with specialization in an appropriate field of physical, biological, environmental or social science and three years of responsible full-time research experience in the appropriate field of specialization; or
+
+3. Education and/or experience which is equivalent to "1" or "2" above. However, all candidates must have at least a master's degree in an appropriate field of specialization and at least two years of experience described in "2" above. Two years as a City Research Scientist Level I can be substituted for the experience required in "1" and "2" above.
+
+NOTE:
+
+Probationary Period
+
+Appointments to this position are subject to a minimum probationary period of one year.
+
+Preferred Skills
+
+Experience working with distributed computing paradigms, experience in front end development with Javascript, and fluency in other programming languages, such as Scala, R, etc., are highly desirable. Very strong preference given to candidates demonstrating strong creative and analytical problem-solving skills and having experience or demonstrated interest in transportation dynamics, transportation policy, bike share, micromobility, and/or cycling. Experience working with the public, community groups, and New York City agencies, and strong verbal and written communication skills all desired.
+
+To Apply
+
+All resumes are to be submitted electronically.
+
+Current City Employees:
+
+Please log into Employee Self Service (ESS) at https://hrb.nycaps.nycnet, follow the Careers link and search for Job ID number 408892.
+
+All other applicants:
+
+Please go to www.nyc.gov/careers/search and search for Job ID Number 408892.
+
+If you do not have access to a personal computer:
+
+Please visit your local public library. Most public libraries have computers available for use.
+
+No phone calls, faxes or personal inquiries permitted.
+
+Only those applicants under consideration will be contacted.
+
+For more information about DOT, visit us at: www.nyc.gov/dot.
+
+Work Location
+
+55 Water St Ny Ny
+
+Residency Requirement
+
+New York City residency is generally required within 90 days of appointment. However, City Employees in certain titles who have worked for the City for 2 continuous years may also be eligible to reside in Nassau, Suffolk, Putnam, Westchester, Rockland, or Orange County. To determine if the residency requirement applies to you, please discuss with the agency representative at the time of interview.

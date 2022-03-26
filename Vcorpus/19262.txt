@@ -1,0 +1,53 @@
+Description
+
+Senior Software Engineer (MS +3 years experience) that shares our enthusiasm for providing test infrastructure that enables reliable software and hardware testing.
+
+At Xilinx, we are leading the industry transformation to build an adaptable, intelligent world. ARE YOU bold, collaborative, and creative? At Xilinx, we hire and develop leaders and innovators who want to revolutionize the world of technology. We believe that by embracing diverse ideas, pushing boundaries, and working together as ONEXILINX, anything is possible.
+
+Our culture of innovation began with the invention of the Field Programmable Gate Array (FPGA), and with the 2018 introduction of our Adaptive Compute Acceleration Platform (ACAP), has made a quantum leap in capability, solidifying our role as the adaptable platform supplier of choice. From the start, we have always believed in providing inventors with products and platforms that are infinitely adaptable. From self-driving cars, to world-record genome processing, to AI and big data, to the world's first 5G networks, we empower the world's builders and visionaries whose ideas solve every day problems and enhance people's lives.
+
+If you are PASSIONATE, ADAPTABLE, and INNOVATIVE, Xilinx is the right place for you! At Xilinx we care deeply about creating meaningful development experiences while building a strong sense of belonging and connection. We foster an environment of empowered learning, wellness, community engagement, and recognition, so you can focus on work that matters - world class technology that improves the way we live and work. We are ONEXILINX.
+Senior Software Engineer
+We are looking for an experienced software engineer that shares our enthusiasm for providing test infrastructure that enables reliable software and hardware testing. Our mission is to enable high quality software production through solid test infrastructure and best practices.
+
+We are primarily a python shop but incorporate other technologies required to achieve our mission.
+
+The ideal candidate will have the following attributes:
+Experienced in the Python programming language
+Fully self-sufficient in software development concepts and methods, coding, and debugging
+Proactively engages with users to identify and deliver against new automation opportunities
+Proactively identifies and delivers solutions that reduce development and support costs
+Capable of developing a single project in its entirety
+Demonstrates flexible adaptability in working with still maturing, generation-dependent software development and testing methods
+Critically assesses product requirements in assigned area of responsibility with respect to feasibility and schedule and engages with stakeholders to iterate and refine
+Executes independently to develop mock-ups or requirement prototypes for features of moderate to high complexity. Can effectively articulate these to relevant stakeholders
+Enjoys working with users to educate and provide guidance in helping them to achieve their goals and to improve their productivity
+
+Education / Experience:
+BS with 5+ years
+of experience or MS 3+ years of experience or PhD in Computer Science, Computer
+Engineering, Electrical Engineering or related equivalent
+
+Alternate Requirements:
+Will also accept
+Bachelor’s or foreign equivalent in Computer Science, Computer Engineering,
+Electrical Engineering or related field and six (6) years of progressively
+responsible experience in the job offered
+
+Job Skills Requirements:
+Must have work experience, coursework, project background experience in the
+following:
+Python Programming
+Object Oriented Design
+Linux Operating System / Command Line Interface
+Bash Scripting
+Windows Operating System
+Testing Methodologies
+Job Skills Desired:
+ElasticSearch
+Web Technologies
+Mosquito/MQTT
+Docker
+Openstack/KVM
+
+]]>

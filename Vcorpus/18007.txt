@@ -1,0 +1,24 @@
+As a technology company, our long-term success is dependent on the skill and alignment of our engineering team. We develop new software and rely on our engineers to bring the company's vision to fruition. Every engineer has the opportunity to make huge product contributions and has a responsibility to promote internal collaboration and adherence to best practices.
+Tachyus services are delivered off of complex and diverse source data from our customers, transformed into beautiful databases that enables our world class Artificial Intelligence platform to extract value. The Extract, Transform and Load (ETL) process is crucial to our success and as such, we are seeking a self-motivated ETL Engineer with the right balance of ETL and database experience to join the team who has ideally had exposure to the complexities of O&G data. Our ETL Engineer is expected to provide programming solutions using ETL Tools and Databases for data integration, standardization and synchronization projects. To enable this, the core of our software platform is built with F#, a functional-first, multi-paradigm, compiled language we think you’ll love.
+
+This open position is located in Houston however remote would be considered.
+Responsibilities
+Rapidly understand new data schemas and build mapping (custom ETL) to the Tachyus schemaMake and communicate architectural decisions in areas of expertise
+Rapidly iterate in the cycle of code writing, testing and maintenance
+Collaborate with Customer Success teams and Customers during project startups to establish data integration solutions
+Contribute to various client and server code-bases as needs evolve
+Requirements
+2+ years experience as a professional software developer
+Experience with SQL on any RDBMS
+Experience in working with upstream Oil & Gas data sets preferred
+Commitment to programming with data: querying, validating, transforming, reporting, etc
+Commitment to mastering functional programming in F#
+Intense intellectual curiosity demonstrated by past projects and experiences
+Desire to work with a rapidly growing, values-driven start-up
+Comp. Sci., Math, Physics, Engineering, or Petroleum Engineering degree(s)
+Extras
+Experience with SQL Server on premise and/or Azure SQL Server
+Experience with F#, OCaml, or other functional-first languages
+Experience with Windows Azure
+Domain knowledge in the upstream oil and gas industry
+Demonstrated technical leadership skills

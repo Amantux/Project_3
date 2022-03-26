@@ -1,0 +1,22 @@
+Our team is part of Amazons Supply Chain Optimization Technology (SCOT) group and we design and build systems to optimize Amazons supplier network, and manage the flow of inbound products across our global fulfillment network. We do this for millions of SKUs, for hundreds of product lines worth billions of dollars of inventory procured world-wide. We strive for constantly delivering game changing features that help fuel Amazons business. We use cutting edge science, machine learning, and scalable distributed software on the Cloud and our systems automate and optimize supply chain under the uncertainty of demand, pricing and supply. Our systems are built entirely in-house and provide ability for automated large scale supply chain planning, optimization, and simulation. We are unique in that were simultaneously developing the science of supply chain planning and solving some of the toughest computational challenges at Amazon.
+
+We are building the next generation of software systems for managing the entire Inbound Supply Chain. As part of this initiative, we are building a real time visibility platform that tracks each and every truck and shipment in our supply network w.r.t. their position, content, route along with a prediction engine for arrival at destination. This is a large scale distributed system which will need to process billions of signals and scale for large datagrams. Using this visibility, the system automatically schedules work and guides labor plan at each node in our inbound supply chain. Every shipment is automatically prioritized in the network for the best customer experience. This is done through a large scale optimization module which complies with physical and mechanical constraints while trading off the limited resources to minimize cost for Amazon and maximize the experience for our customers. We drive hands-off-the-wheel automation with no human intervention. We also collaborate with our suppliers upstream and help them improve their supply chain efficiency using our technology and research capabilities.
+
+We are looking for passionate, talented and innovative Software Engineers who love solving hard problems and can deliver high-performance, high-availability and extremely scalable systems. Our engineers are top-notch software developers who love working as a team and proactively take the lead whenever necessary. In addition to being able to work with the senior engineers in the team, you will also work with one of the brightest Research Scientists and Product Managers in the industry and will have a unique opportunity to both create and see the direct impact of your work on billions of dollars worth of inventory in one of the worlds most largest supply chains. Successful candidates will thrive in fast-paced environments that leverage agile planning techniques, encourage and reward creative design, intelligent risk taking, and find innovative ways to leverage cutting edge technology.
+
+We are a key part of Supply Chain Optimization Technologies (SCOT): https://www.youtube.com/watch?v=ncwsr1Of6Cw&feature=youtu.be
+
+
+Basic Qualifications
+
+· BS in Computer Science, Computer Engineering, or equivalent industry experience
+· Strong, object-oriented design and coding skills (preferably on a UNIX or Linux platform)
+· String sense of ownership, urgency and drive
+· 2+ years of professional experience developing software
+Experience designing, developing, and deploying distributed systems
+
+Preferred Qualifications
+
+· MS or PhD in Computer Science
+· Good understanding of Unix/Linux platform
+· Experience with data mining software and techniques

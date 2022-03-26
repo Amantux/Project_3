@@ -1,0 +1,37 @@
+New York University: NYU - Domestic: Faculty of Arts and Science (FAS): Politics Department
+
+Location
+
+New York
+
+Open Date
+
+Jul 17, 2019
+
+Description
+
+The SMaPP lab at NYU is looking for a full-time software engineer to help build software and tools for collecting, processing, analyzing, and understanding large social media data sets. You will use modern programming tools to manage multi-terabyte databases, build data collection and analysis pipelines, and produce meaningful data visualizations. We require candidates to have either experience programming in relevant environments OR a degree in CS. Significant skills working with Python and SQL/NoSQL databases are mandatory. Experience working with semi-structured data, Spark/Hadoop/EMR, Lucene/ElasticSearch, REST APIs, machine learning toolkits like scikit-learn, and linux/unix systems are also highly valued. Interest in politics or social science combined with these programming skills is a plus.
+
+You will be given the opportunity to participate fully in the research environment, including authoring papers and open source software, attending conferences and seminars, and working closely with a broad group of researchers associated with the lab.
+
+The New York University Social Media and Political Participation (SMaPP) laboratory (https://smappnyu.org/about/) is an interdisciplinary lab bringing new collaborative computationally-driven research models to the study of politics. Established in the fall of 2012, the lab’s goals are threefold: (1) to pursue research on the relationship between social media and politics; (2) to pursue research featuring the innovative use of social media data to study politics and political phenomena; and (3) to develop open source tools that facilitate the use of social media data for the study of politics.
+
+For more information about our goals, methods, and recent publications see: https://smappnyu.org
+
+For links to additional SMaPP lab papers see: https://smappnyu.org/journal-articles/
+
+For examples of SMaPP lab research and researchers being discussed in the media, see: https://smappnyu.org/mediaevents/media/
+
+Qualifications
+
+Required education: An undergraduate degree in computer science.
+
+Required experience: Significant knowledge of and experience with programming in Python
+
+Preferred education: Master’s in computer science, data science, or an analytical social science.
+
+Preferred experience: 1+ years programming in a relevant environment, either in research or industry; experience working with semi-structured data, Spark/Hadoop/EMR, Lucene/ElasticSearch, REST APIs, machine learning toolkits, and linux/unix systems; experience with natural language processing, machine learning models, and network analysis is a plus.
+
+Application Instructions
+
+Please send a CV and links to any relevant coding projects, websites, or projects. A brief cover letter describing relevant experience and explaining your interest in the position is optional, but it would be helpful if you can highlight specific skills or experiences that you believe would be valuable for success in this position.

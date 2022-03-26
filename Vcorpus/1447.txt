@@ -1,0 +1,66 @@
+Do you want your voice heard and your actions to count?
+Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), the 5th largest financial group in the world (as ranked by S&P Global, April 2018). In the Americas, were 14,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, developing positive relationships built on integrity and respect. Its part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. Were a team that accepts responsibility for the future by asking the tough questions and owning the solutions. Join MUFG and be empowered to make your voice heard and your actions count.
+
+Job Summary:
+
+MUFG Americas is embarking on a business and technology transformation to effectively deliver five key business imperatives: Growth, Business Agility, Client Experience, Effective Controls, and Collaboration. To accomplish these imperatives, MUFG has launched a Transformation Program built upon the following foundation pillars:
+Core Banking Transformation Program
+Data Governance, Infrastructure & Reporting Program
+Technology Modernization Program
+This position supports the Core Banking Transformation (CBT) Program. CBT is a multi-year effort to modernize our deposits platform with a world-class digitally-led and simplified ecosystem for consumer, small business, commercial and transaction banking to deliver exceptional customer experience and provide the bank a competitive advantage in the market. Our customers will benefit from streamlined and automated processes that simultaneously will provide the bank business process efficiencies and operational cost savings.
+
+Role Summary:
+
+The Core Banking Transformation technology team seeks a dynamic technologist to be a Senior Systems Engineer for the development efforts to integrate MUBs current application ecosystem with the new Core Deposits platform that will provide the foundation for transforming deposit services at MUFG Americas. While transitioning the bank from a traditional, batch-oriented ecosystem to a real time deposit services platform by redesigning or replacing monolithic legacy systems with cloud-native architectures, the Senior Systems Engineer is responsible for design, build, implementation, monitoring, and management of the MUFG enterprise cloud infrastructure and services that provide the foundations for the technology modernization and digital transformation. This key role will be operating across both traditional areas of infrastructure including compute, storage, networking and IaaS ensuring continuous and seamless delivery and automation of technology services.
+He/she will be responsible for the design, development, delivery and lifecycle management of the solutions / services with a balanced approach to quality, risk, and cost, while driving efficiency and effectiveness of the cloud platform, thus to empower and enable the modernization and transformation of MUFG.
+Major Responsibilities
+Embrace Infrastructure-as-Code, and leverage Continuous Integration / Continuous Delivery Pipelines to manage the full cloud service lifecycle from release of cloud service offerings into production through the retirement thereof
+Work closely with Enterprise Architecture to select, design, develop and implement optimized solutions and practices
+Partner with Risk Management and Security teams to identify the standards, best practices and required controls, and lead the design, build, and rollout secured and compliant cloud infrastructure and services to support MUFG mission critical business applications and workload
+Partner with application teams to experiment, design, develop and deliver cloud native solutions and services, and power the digital transformations across business units
+Lead the migration, refactor and transformation of existing applications and infrastructure services from physical data centers to AWS
+Responsible for production readiness and all operational aspects of the new cloud AWS infrastructure and services that will support mission critical MUFG applications
+Build and maintain cloud operations tools for monitoring, notifications, trending, and analysis, to achieve high efficiency in cloud operations through automation tools and self-repair utilities
+Relentless drive the standardization, simplification and automation of operational workflows, enable self-service for positive customer impact
+Partner with Cloud Operation teams to define, create, test, and execute cloud operations procedures
+Participate in software and system performance analysis and tuning, service capacity planning and demand forecasting
+Provide Level 3 support for troubleshooting and services restoration in Production
+
+Required Education & Certifications:
+Bachelor's degree in computer science or related field, or equivalent professional experience
+Required Knowledge, Skills, and Experience:
+Minimum 10 years of experience in supporting mission critical infrastructure services and applications in large complex IT environments, poses 4 or more of the following skills / experiences:
+Linux and/or Windows system administration experiences
+Solid working knowledge of Network LAN/WAN, DNS, DHCP, Load Balancing, Firewall
+Backup / Restore, Disaster Recovery plan and design experiences for data systems
+Solid working knowledge of Identity & Access Management, LDAP / Single-Sign-On, SSL/TLS and Certificate
+Scripting with python, bash, powershell or related technology
+Virtualized and/or hyper converged environments
+AWS configuration, deployment and support experiences in Production environment, poses 5 or more of the following skills and experiences:
+Fluently utilizing AWS CLI, Boto3, Terraform and/or CloudFormation
+EC2, AMI, EBS, S3 (and S3 bucket policy), CloudWatch, CloudTrail,
+Event and Messaging: SNS, SQS, CloudWatch Events, JMS and/or AMQP
+ALB/NLB, AWS Certificate Manager, Route53
+API Gateway, CloudFront
+Design and define IAM Roles & Policies for users and AWS services, to comply with segregation of duties and least privileged mandates
+Develop Lambda with Python or NodeJs; or Application development with one of the AWS SDK
+Docker, and at least one of Docker based solutions ECS, EKS, or K8S / OpenShift on AWS
+Familiar with DevOps toolchain, i.e. BitBucket, JIRA, Jenkins Pipeline, Artifactory or Nexus, and experienced in automate and deploy n-tier application stack in AWS
+Demonstrate good understanding of modern, cloud-native application models and patterns
+End to end automation and mentoring how to automate for others
+Excellent collaboration skills and a passion for problem solving, with the ability to work alternative coverage schedules
+Strong verbal and written communication skills required due to the dynamic nature of collaboration with leadership, customers, and other engineering teams
+Bachelors degree in Computer Science, or a related field
+AWS professional level certifications is preferred but not required
+Desired Knowledge, Skills, and Experience:
+Experience within a high integrity, and/or regulated environment (government, healthcare, financial sectors, etc.)
+Able to travel out of state
+Experience with Apache Kafka, Flink, NiFi, Hadoop, Cassandra, JanusGraph, etc
+Experience converting from monolithic to microservices
+Demonstrate good understanding of modern, cloud-native application models and patterns
+Integrations between multitudes of systems together
+The above statements are intended to describe the general nature and level of the work being performed. They are not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified.
+
+We are proud to be an Equal Opportunity / Affirmative Action Employer and committed to leveraging the diverse backgrounds, perspectives, and experience of our workforce to create opportunities for our colleagues and our business. We do not discriminate in employment decisions based on any protected category.
+
+A conviction is not an absolute bar to employment. Factors such as the age of the offense, evidence of rehabilitation, seriousness of violation, and job relatedness are considered in all employment decisions. Additionally, its the banks policy to only inquire into a candidates criminal history after an offer has been made. Federal law prohibits banks from employing individuals who have been convicted of, or received a pretrial diversion for, certain offenses.

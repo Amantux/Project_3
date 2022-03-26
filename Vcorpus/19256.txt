@@ -1,0 +1,55 @@
+Job Description
+--------------
+We
+
+are looking for a data engineer responsible for the development
+and maintenance
+
+of critical data processing and classification pipelines. Your
+primary focus
+
+will be developing new systems and services while leveraging
+cutting edge data
+
+science and machine learning technologies. You will be working
+alongside other
+
+engineers and developers working on different layers of the
+infrastructure.
+
+Therefore, a commitment to collaborative problem solving,
+sophisticated design,
+
+and the creation of quality products is essential.
+
+Responsibilities
+---------------
+Design and build data processing systems and APIs
+Ensure the performance, quality, and responsiveness of
+applications
+Collaborate with a team to define, design, and ship new
+features
+Identify and correct bottlenecks and fix bugs
+Help maintain code quality, organization, and
+automation
+
+Skills
+-----
+Works with Python on a daily basis
+Experience working with distributed systems
+Working knowledge of database technologies like SQL or
+MongoDB
+Experience developing and scaling RESTful APIs
+Familiarity with best practices for functional and unit
+testing
+Knack for benchmarking and optimization
+Experience with source control using Git
+Ability to review and identify issues in other developers
+code
+Familiarity with continuous integration
+Knowledge of queueing and messaging systems such as Celery or
+Kafka
+Experience building web applications with Flask, Django, or
+other
+
+Python web server frameworks

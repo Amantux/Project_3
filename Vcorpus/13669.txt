@@ -1,0 +1,38 @@
+Who You Are
+
+
+You are a full-stack data scientist, an experienced quantitative thinker who wants to develop further as both a data scientist and an engineer. You are skilled at finding the precise mathematical kernels of real-world problems and want to bring that talent to bear on the business questions facing the world's leading companies. You are excited to apply your existing expertise in fields such as statistics and computer science on Quantifind's state-of-the-art infrastructure. You are excited to work at a startup where you will have a chance to expand your scientific and engineering skills to new areas. You share Quantifind's commitment to winning together, and are eager to see your coworkers build on the technical foundations you will be creating. You are passionate about maintaining the high scientific and engineering standards required to enable your peers. Above all, you are a curious and independent problem solver who is motivated to find a place where your skills can have real impact.
+
+Who We Are
+
+
+Quantifind is a uniquely positioned data science and human insights company. In our primary application, we offer marketing decision-makers Explanatory Analytics that help them better understand their customers' interests and priorities. We are currently building out a new vertical aimed at financial crimes risk management including anti-money laundering (AML) and fraud detection. Our advantage is existing science, engineering, and SaaS product capabilities that align very well with the technology needs.
+
+To help you succeed, we provide a supportive environment that fosters collaboration between teams and team members, where learning and professional growth is considered a key part of your success, and of ours. We offer a flexible work environment with a family-friendly work-life balance, catered lunches three times a week, and fun team activities to keep you healthy, happy, and stress-free.
+
+What A Great Candidate Looks Like:
+MS or higher in the following areas: Statistics and Mathematics
+At least 2 years of professional industry experience, in addition to your academic experience
+Outstanding quantitative analytical ability
+Able to take less than precise business requirements and translate them into statistical problems which you enjoy solving
+Independent and creative approach to problem solving
+Excellent written and verbal communication skills, with prior experience explaining assumptions, conclusions and methodology to both internal and external customers
+In-depth knowledge of Statistics/Probability/Machine Learning
+General Statistical concepts such as hypothesis testing, estimation, inference
+Supervised and unsupervised statistical techniques such as regression (linear / logistic), time series analysis, clustering
+Machine Learning foundations such as bias/variance trade-off, regularization, dimension reduction
+Real world experience with popular machine Learning algorithms such as Random Forest, Boosting, SVMs
+Experience with unstructured text data using NLP methods such as Latent Dirichlet Allocation (LDA), Latent Semantic Analysis (LSA), Sentiment Models, Word Embeddings, Text Similarity, Entity extraction is a strong plus
+Strong programming experience in two or more of the following: Scala/Java, R, Python
+Understanding of algorithm complexity and performance implications
+Knowledge of data structures and algorithms
+Experience with SQL
+Familiarity with R Shiny framework is a plus
+The Opportunity We Offer
+
+
+Quantifind is seeking to fill a Full-Stack Data Scientist position in Menlo Park, CA on our Data Science team. We work closely with the Product Management team and Platform engineers to anticipate company needs and quickly put state-of-the-art mathematical tools into the hands of end users. Members of the Data Science team translate real world problems into quantitative language, find or create algorithms to solve those problems, and implement them in code. Our team values a creative and empathetic approach to problem solving and strives to maintain rigorous scientific and engineering standards. We will give you the opportunity to work on the full data science pipeline, bringing solutions from basic research all the way to production.
+
+We are an equal opportunity employer. We pride ourselves on living our values. We are curious. We respect each other. We are proactively transparent. We relentlessly solve problems. We win together.
+
+Will you join us? Apply now!

@@ -1,0 +1,31 @@
+We know that what you say (and how you say it) matters, which is why we've built the most advanced online editor for job descriptions there is. Our customers (hiring teams at BuzzFeed, Earnest, Levi's, and many more) use our editor to write job descriptions that are welcoming to all qualified candidates. The result is a more fair and representative hiring process for candidates across the globe. Check it out: TapRecruit.co/smart-editor
+
+The Role:
+You will join our platform engineering team. We are distributed and we are open to you being based anywhere in the US.
+
+You are a mid-level or senior engineer with 5+ years of professional experience developing and deploying production web applications and services. Our products are data-rich so while this is not a data-engineering role, this could be great for an engineer who wants exposure to data science and NLP. You'll report to our CTO but also collaborate with our R&D / Data science team.
+
+You Will:
+Use and improve our custom NLP modules in building rich data-driven tools that can improve our existing products and empower our teams
+Build services and data processing capabilities as robust APIs
+Build connections to 3rd party APIs to ingest and process data in a secure, and scalable way
+Help build and harden our engineering infrastructure
+Mentor other engineers and help frame best practices for the engineering team
+
+You Have:
+5+ years of professional experience building Python-based backend services
+Experience with Python frameworks (like Flask or Django) and serverless architectures
+Experience deploying production-ready code in AWS with containerization and CI/CD
+Experience with Elasticsearch preferred
+Experience and comfort coding / debugging in other languages (we use PHP in some parts of our app) is preferred
+
+Our Benefits:
+Health, dental and vision coverage
+Flexible vacation policy
+Commuter benefits
+Remote-friendly team and open to flexible work arrangements
+
+About TapRecruit:
+TapRecruit is a small but mighty team with a big mission of democratizing opportunity for all qualified candidates. Our founders are located in New York but we're building a team of experienced engineers, linguists and scientists from across the USA.
+
+We care deeply about fairness (it's our company mission) so you can be ensured that your application will never be judged based on your religious belief, age, color, race, creed, marital status, gender, sexual orientation, political affiliation, ethnic origin, family status or disability.

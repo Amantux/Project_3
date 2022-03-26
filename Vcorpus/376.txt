@@ -1,0 +1,19 @@
+Intro
+
+Why this job?
+
+1. Work on a product people love that solves real problems: Your friends and family can use Notion to take notes, display photos, collect recipes — while Fortune 500 companies use it to run huge teams (and some non-profits use it to conserve wildlife).
+2. Help define what data means at Notion: As the first hire working full-time on data at Notion, you'll have outsized influence on what data infrastructure, data analysis, and data team structure look like as we grow the business.
+3. Join us at a magical time: We've hit profitability and product-market fit, which gives us a huge green field to work with. You'd join at the perfect time to shape what we build and how we grow.
+So, what will you do as a Data Scientist at Notion?
+You'll build models to predict things like conversion and likelihood of churn.
+You'll build and maintain KPI dashboards that teams rely on for making key decisions.
+You'll collaborate with team leads across the business to understand and support their data needs.
+You'll build and improve our underlying data infrastructure and tooling. (We currently use DBT, Snowflake, Mode Analytics, Fivetran, Census, Amplitude, Segment, and more).
+You might be a fit for this role if...
+You've spent meaningful time as a senior data scientist — or even better, you've previously managed a team (there's opportunity to do that here).
+You have experience building predictive statistical and machine learning models, and you can build reproducible backtests for proposed models to demonstrate their effectiveness.
+You have experience building out data infrastructure which facilitates speed, reliability, and scalability.
+You are a SQL expert. You have no problem regularly leveraging window functions, UDFs, self-joins, and other complex SQL functions to accomplish your data analysis goals.
+You have a bias for using the right tools to get a job done with maximum efficiency. You are an expert at making tradeoffs between speed and accuracy.
+You have strong product sense and user intuition which inform the questions you ask of the data you are analyzing.

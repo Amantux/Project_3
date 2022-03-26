@@ -1,0 +1,46 @@
+Tokio Marine HCC is a leading specialty insurance group with offices in the United States, the United Kingdom and Continental Europe, transacting business in approximately 180 countries and underwriting more than 100 classes of specialty insurance. Tokio Marine HCC products and capabilities set the standard for the industry, and many of the Company’s almost 3,000 employees are industry-leading experts.
+
+Position Summary:
+
+The Senior Data Engineer is an important member of our organization that is responsible for developing and supporting best-in-class Actuarial data capabilities and a high-quality analytics environment for Tokio Marine HCC. This includes the creation of analytical databases and tools, provisioning datasets to be used for advanced analytics, implementation of information security best practices & policies, and building out automated data visualization and reporting tools.
+
+The Senior Data Engineer will have an eye for building and optimizing data systems and will work closely with various stakeholders such as actuaries, underwriters, IT, and data scientists to develop data pipelines and ensure consistency and compatibility of data development across multiple projects. The Senior Data Engineer will support our group companies in developing new insights that leverage data assets.
+
+Performance Objectives:
+Create actuarial data and analytics roadmap based on best of breed technology aligned to business needs and priorities - including but not limited to:
+Data Visualization
+Predictive Modeling
+Public Cloud Computing & Storage
+AI & Machine-Learning
+Help design data flows, reporting, and visualization tools to support actuarial pricing, reserving, and modeling processes.
+Collaborate with corporate IT and company management on the development of a corporate-wide data hub
+Define requirements for sourcing, analysis, and standardization of data required for Actuarial analysis and work with individual business units to enhance underlying data systems and feeds
+Collect big data to be used in pricing, underwriting, and reserving from external data sources (such as websites) to be shared and utilized on a group wide basis
+Develop data assets that support organizational decision making and create pilot cases for actual usage of big data. Some examples include:
+Text mining to utilize unstructured data in predictive models
+Provide expert advice in cutting edge modeling tools and techniques
+A common mapping/geocoding solution
+Interface with Corporate IT management on end user hardware, software, and support requirements
+Implementation of TMHCC information security best practices & policies, including data protection and data privacy standards
+Ensure data quality and compliance with data governance standards
+Qualifications:
+
+Minimum 5-10 years’ real project experience as a data engineer or similar role, including background and experience in the insurance industry (property/casualty preferable)
+Experience and understanding of modern data technologies and analytical tools (HIVE/ Impala/R/Python/Scala) as well as experience with cloud computing services (Azure and/or AWS), and business reporting tools such as Power BI and Microstrategy.
+Experience working closely with actuaries and data scientists in designing datasets and analytical and visualization tools and processes
+Strong interpersonal skills and ability to project manage and work with cross-functional teams
+Flexible and responsive with ability to adapt to rapid change in direction or business priority
+Ability to work independently with limited supervision as well as contribute to team efforts is required
+Ability and desire to communicate technical matters in order to train others and lead adoption of new tools and technologies
+Demonstrated experience in working on development processes and agile methodologies
+Sound analytical skills, as well as strong problem-solving aptitude. Able to proactively respond to a changing diverse business environment
+Skilled at optimizing of work processes. Knows the most effective and efficient processes to get things done, with a focus on continuous improvement
+Excellent oral and written communication skills
+Ability to innovate and apply new ideas
+Some domestic and international travel is possible
+Bachelor's Degree or higher (desired majors include, but are not limited to: Computer Science/Engineering, Management Information Systems, or Data Analytics)
+The Tokio Marine HCC Group of Companies offer a competitive salary and employee benefit package. We are a successful, dynamic organization experiencing rapid growth and are seeking an energetic and confident individual to join our team of professionals. The Tokio Marine HCC Group of Companies are equal-opportunity employers. Please visit www.tmhcc.com for more information about our companies.
+
+#LI
+#GD
+#CB

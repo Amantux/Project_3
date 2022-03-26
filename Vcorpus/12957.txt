@@ -1,0 +1,19 @@
+Data Scientist
+
+ReliaQuest is looking for passionate Data Science professionals to join our team. This role will drive the creation, testing and deployment of cutting edge security technology to enterprise customers across the globe. You will lead in building and designing tools to mature and advance the information security field. It is a great opportunity to advance your career in a fast-growing organization by creating new services/capabilities that do not exist today in the Cyber Security industry.
+
+Responsibilities:
+Select and engineer features from a wide variety of data sets
+Build and optimize classifiers using machine learning techniques
+Processing, cleaning, and verifying the integrity of the data used for analysis
+Creating anomaly detection systems and tracking their performance
+Integrate model inference into multiple diverse data pipelines
+Perform code reviews and mentor peers
+Qualifications:
+Understanding of machine learning techniques and algorithms
+Experience with common data science toolkits
+Knowledge of Apache Spark, Tensorflow, Pandas, NumPy, Jupyter Notebooks, Keras
+Proficiency in creation of dashboards and visualizations
+Knowledge of one of the following scripting and programming languages: Java, C, C++, C#, Python, Javascript, R, Julia
+Preferred experience with Elasticsearch or Hadoop
+Bachelor’s in Computer Science/Engineering, Mathematics, Physics (or Equivalent Experience

@@ -1,0 +1,49 @@
+Redhorse has an immediate opening for a Data Scientist – Mid Level who will join our National Security Services Practice Area’s digital services team and co-lead in the development of a specialized software solution to help accelerate the adoption of AI within the DoD. This solution will incorporate Machine Learning of custom models, micro services, containerization, RESTful Web components, NoSQL and SQL data frameworks, and large–scale distributed systems to derive insights from vast amounts of structured mission data. The data scientist will engage with multiple functional groups (client stakeholder, users, mission experts, solution designers, solution architects, UI/UX designers and agile developers) to comprehend client challenges, incorporate new ideas, approaches and technologies, and help create solutions to increase mission effectiveness and meaningfully contribute to the national security.
+
+Minimum Basic Requirements for Skills, Experience, Education and Credentials include:
+
+Bachelor’s degree in data science, mathematics, statistics, economics, computer science, engineering, or other related business or quantitative discipline.
+
+A minimum of 4 years of data science, machine learning, and/or deep learning experience
+
+US Citizen with current and active SECRET security clearance (TS/SCI preferred)
+
+Experience working with tools including object-oriented programming (Python, Java), computational analysis tools (R, MATLAB), and associated data science libraries (scikit-learn, Pandas, NumPy).
+
+Knowledge of the fundamentals of deep learning and experience working with deep learning libraries (TensorFlow, Caffe, Keras, PyTorch).
+
+Experience using notebooks (e.g. Jupyter, Python, Databricks)
+
+Experience creating meaningful data visualizations and/or interactive dashboards that communicate findings and relate them back to how determined insights create business impact using platforms such as Tableau, plotly, Highcharts, Google Charts, and d3.js.
+
+Working knowledge of SQL and NoSQL databases to include linking analytic and data visualization products to database connections.
+
+Experience with data science methods related to data architecture, data mining and feature engineering, as well as predictive analytics.
+
+A demonstrable ability to work in teams and independently with superior oral and written communication skills.
+
+Additional Preferred Requirements:
+
+Demonstrate the ability to frame and scale data problems to effectively analyze, visualize and find data solutions.
+
+Possess the ability to work with and manipulate common data formats, including comma-delimited, text files, and JSON.
+
+Analyst must be able to transform data and analysis into informative data visualizations and/or interactive dashboards using open source and commercially available visualization and dashboard tools.
+
+Experience developing software and web applications using the MERN stack.
+
+Demonstrate the ability to derive insights and analytic narratives from data and visualizations for effective storytelling and clear communication in response to specific research questions.
+
+Ability to work in a fast-paced, solutions-oriented environment focused on client deliverables, analysis and reporting.
+
+Ability to learn technical concepts quickly and communicate with multiple functional groups.
+
+Master’s degree in data science, mathematics, statistics, economics, computer science, engineering, or other related business or quantitative discipline.
+
+Leadership experience in previous professional/academic positions.
+
+Redhorse Corporation shall, in its discretion, modify or adjust the position to meet Redhorse’s changing needs.
+
+This job description is not a contract and may be adjusted as deemed appropriate in Redhorse’s sole discretion.
+
+EOE/M/F/Vet/Disabled

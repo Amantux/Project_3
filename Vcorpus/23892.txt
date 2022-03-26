@@ -1,0 +1,47 @@
+LMI is a government consulting firm, dedicated to advancing the management of government. We operate free of political and commercial bias, and we gauge our success by the mission outcomes we enable our government clients to achieve. Our clients value our objectivity, deep government IQ, and expertise in logistics, analytics, information technology, and management consulting. We seek talented, hardworking people who share our passion for public service and want to join us in solving the most pressing challenges in government management.
+LMI is currently seeking an innovative, experienced, and highly-skilled Data Analyst to join our growing Advanced Analytics team in San Antonio, TX. In this role, you will create and develop custom solutions for our users in a collaborative, fast-paced, state-of-the art environment. To be successful in this role, you will be thorough, creative, and exceptionally well-skilled in all phases of the development lifecycle, with a passion for continued learning and collaboration.
+*This position is located in San Antonio, TX and requires an active TS with SCI eligibility clearance*
+*Also looking for candidates in these locations: Charlottesville, Fort Bragg (NC), Fort Gordon (GA), Ft. Meade, Hawaii, San Antonio, Germany, Italy, South Korea
+
+Perform statistics, machine learning and analytic approaches to answer key intelligence questions, producing results and re-usable products that provide real value to Intelligence Analysts.
+Work with analysts to interpret analytic results and refine analysis as needed.
+Apply machine learning techniques to identify and transform data features, find hidden patterns and trends, build and optimize classifiers, create automated anomaly detection systems, and automate steps of the intelligence process.
+Evaluate statistical models to determine the validity of analyses, implement evaluated models into production by collaborating with software developers, periodically re-evaluate and refine machine learning models being used in production.
+Coordinate between Intelligence Analysts and Data Scientists to refine and implement models and monitor outcomes.
+Collaborate with Data Scientists to develop processes and tools to monitor and analyze model performance and data accuracy.
+Effectively communicate results and ideas to key decision makers, analysts and other stakeholders and shall provide information regarding dataset applicability to the stakeholder’s mission and for the intelligence community.
+Collaborate with Intelligence Analysts to understand needs and devise possible solutions.
+Perform documentation of all processes, models and activities by developing, documents, and implement a configuration management plan for data sets. This plan shall be used to control changes due to stakeholder’s intelligence functional requirements.
+Research latest data science tradecraft and technology.
+Curate and collect the data from a variety of traditional and non-traditional sources: extract data from sources, transform and integrate data in line with existing data, and load data into data stores for access by others.
+Languages, Tools, and Techniques
+Demonstrated proficiency with R or Python, and SQL to manipulate data and draw insights from large and small data sets.
+Demonstrated experience implementing a variety of supervised and unsupervised machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and knowledge of their real-world advantages/drawbacks.
+Demonstrated experience implementing statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and applications.
+Demonstrated experience visualizing/presenting data for stakeholders.
+Demonstrated experience with MS Office tools including Excel, PowerPoint, and Word.
+Demonstrated experience with AWS, in particular products related to: analytics, compute, database, developer tools, and machine learning.
+Skilled with data retrieval and storage, visualization and warehousing, and extract-transform-load (ETL) processes.
+Knowledge of database solutions including SQL, NoSQL (e.g. MongoDB) and graph (e.g. Neo4j)
+Knowledge of data visualization tools, such as D3.js, ggplot, Bokeh, etc.
+Leadership, communications, and professional traits.
+Ability to translate an intelligence problem into a Data Science problem, and to work with the Intelligence Analysts and ACE Chief to refine understanding of the problem.
+
+Active TS/SCI clearance
+BS in Data Science, Statistics, Applied Math, or related discipline or AA in Data Science, Statistics, Applied Math, or related discipline with 5 years of experience.
+2 years of developing quantitative analysis products is desired.
+5 years of intelligence analysis experience is desired.
+Experience working with platforms such as Scala, Python, Java, R preferred
+3+ years of related experience required
+Advanced data analysis experience required
+Significant experience with databases
+Experience and familiarity with Agile-Scrum software development
+Experience gathering and decomposing requirements
+Proven record of solution development and deployment
+Familiarity with web-based application development
+Experience with testing, use case, and user stories
+Outstanding communication skills, written and verbal
+Highly-organized and able to manage multiple projects simultaneously
+Team-player mentality with a positive attitude
+Keen attention to detail and solid analytical skills
+Able to articulate complex, abstract concepts concisely and effectively

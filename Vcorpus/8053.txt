@@ -1,0 +1,63 @@
+What you will do:
+
+Work closely with business stakeholders to identify value and business needs and translate them into concrete problem statements that you and your team can deliver on.
+
+Source, wrangle, cleanse and analyze large amounts of data in our cloud-based development and production environment
+
+Rapidly prototype and iterate to build production ready solutions that scale with epsilon cost, building on existing internal services or developing new ones
+
+Tune your models / architecture efficiently
+
+Embed your ML workflows as part of existing or new Equinor ML products, refactor your code to meet our deployment standards
+
+Improve and develop machine learning models using state-of-the-art techniques within deep learning
+
+Monitor and follow-up your models when in production to ensure good performance & value creation
+
+Automate as much as possible your and your team’s ML workflows to enable low cost scaling
+
+Identify and build the right user experience so that the output of your ML workflows is easily interpretable for and actionable by the business users
+
+Qualifications
+
+PhD or Master in Computer Science, Statistics, Applied Mathematics, Engineering or equivalent fields
+
+Experience developing and productizing real-world AI/ML applications such as prediction, personalization, recommendation, optimization and content understanding
+
+Experience within Deep Learning is a plus
+
+Experience working with large data sets using open source technologies such as Spark, Hadoop, and Neo4j
+
+Experience working with the following machine learning frameworks / libraries: sklearn, tensorflow, keras,
+
+Experience in ML/AI product development and iterative work: from data generation/collection to visualization and explainability
+
+Advanced coding skills in Python, experience with containerization and micro-services development
+
+Excellent communication skills
+
+Personal Qualities
+
+Ability to live by our safety and security expectations
+
+You are outcome driven and can handle uncertainty
+
+You are ferociously curious, driven to ensure that you fully understand the business context of your solution
+
+You believe in fast prototyping and have intuition and the ability to stop and evaluate when you feel that you are going down a dead end
+
+You have curiosity beyond ML modeling. You are excited about end-to-end aspects of deploying ML models
+
+You are innovative, analytical and base your judgments on data
+
+We Offer
+
+Equinor offers a competitive salary and a comprehensive benefit package. Equinor is an equal opportunity employer.
+
+General Information
+
+Our values are to be courageous, open, collaborative and caring. We believe in these qualities, which are essential for building an even stronger Equinor. If you can identify with them, you could be the one to strengthen our team. Candidates are expected to openly offer all relevant information about themselves during the recruitment process.
+
+All permanent and temporary hires will be screened against relevant sanctions lists to ensure compliance with sanctions law and increase security.
+
+We are an Equal Opportunity Employer and do not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class.

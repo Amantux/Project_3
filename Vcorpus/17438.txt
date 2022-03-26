@@ -1,0 +1,20 @@
+At Clear Street, we are disrupting the institutional brokerage and clearing market by modernizing archaic industry segments with brand new technology. We're changing the way institutional investors interact with the markets; offering an alternative to working with big banks. Our cloud-based API technology will empower clients to clear, settle, and finance trading activity while accessing real-time risk and position information. Our platform is built on an incredibly modern tech-stack, by pragmatic engineers focused on building intuitive and frictionless user experiences. Our tech-infused suite of customer experience-oriented prime service offerings will increase our clients' efficiency and provide real-time insights they've never previously experienced.
+
+As a Data Engineer, you will play a critical role in the Data Ops team's expansion as our business continues to grow. You will collaborate with a team of engineers, data specialists, and business analysts to build scalable and performant data pipelines. You've turned your passion for all things data (file formats, storage, databases, and DAGs) into your calling by combining it with deep computer science fundamentals. You will architect data pipelines that ingest, process, store, cleanse, transform, and route massive amounts of financial data to support multiple business initiatives. This is a unique opportunity to join a growing team of passionate engineers and data specialists who are delivering the future of Clear Street's data platform and analytics.
+
+Data Engineer Characteristics:
+You have ~5 years of data engineering experience focused on delivering highly scalable data pipelines. Your code has handled the full ETL process used for large scale analytics across huge datasets. Your pipelines have ingested data from multiple data sources (proprietary and vendor datasets).
+You have a strong command over object-oriented design patterns, data structures, and algorithms.
+You communicate technical ideas with ease and always look to collaborate to deliver high quality products.
+Your experience will help you mentor team members and accelerate the development of both our system and our team's growth.
+You grasp product specifications and effectively map them to technical requirements. You thoughtfully and successfully incorporate these requirements into your system design and implementation.
+You are a collaborator by nature who works effectively with product teams to understand the scope, cost, and requirements of new product feature development.
+
+DataOps Team Stack: Python, PostgreSQL , Snowflake, Airflow, Redis, Celery/Dask, Kubernetes, Apache Arrow, Pandas, Sklearn, Kafka, Docker
+
+We offer:
+The opportunity to join a small and growing team of good people, where you can make a difference
+A new, high-quality code base with little technical debt and room to build new services and features
+An environment that embraces the utility of a DevOps oriented culture and combines it with a focus on CI/CD methodology
+A meritocratic philosophy that champions collaboration
+Competitive compensation, benefits, and perks

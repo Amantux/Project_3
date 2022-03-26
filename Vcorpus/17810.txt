@@ -1,0 +1,65 @@
+Job Description
+What We Do
+Kalderos delivers technology that solves the challenges facing the US healthcare system. At Kalderos, we develop technology solutions with a focus on simplifying the complex coordination of drug discount programs from exhaustive data services to intelligent reporting to issue resolution.
+
+To learn more: https://www.kalderos.com/company/about
+
+What Data Engineers Do
+
+The Data team’s mission at Kalderos is to provide data modeling expertise to internal teams, and build data storage and processing platforms that can scale as Kalderos scales. They can work within the Ledger and Master Data team, the Data Science team, or others as needs arise. Below are some possible day to day tasks for a data engineer at Kalderos.
+Work with product teams to understand and develop data models that can meet requirements and operationalize well
+Build out automated ETL jobs that reliably process large amounts of data, and ensure these jobs runs consistently and well
+Build tools that enable other data engineers to work more efficiently
+Try out new data storage and processing technologies in proof of concepts and make recommendations to the broader team
+Tune existing implementations to run more efficiently as they become bottlenecks, or migrate existing implementations to new paradigms as needed
+Learn and apply knowledge about the drug discount space, and become a subject matter expert for internal teams to draw upon
+What We Are Looking For
+4+ years work experience as a Data Engineer in a full-time role
+Candidates must be authorized to work in the US and be able to work in Chicago/Milwaukee
+Excellent project managements skills, and familiarity working in an agile environment
+Some ways you may demonstrate this are:
+Describing a time in which you had a large project you needed to manage
+Relevant work experience on a Agile team
+Proven data engineering experience that involved creating, and maintaining a database and implementing data processing pipelines
+Some ways you may demonstrate this are:
+Professional experience described on your resume
+Open source implementations of data intensive applications
+A personal side project that involved maintaining a database like a website
+Online course completion in relevant areas
+Vendor certification in a relevant field
+Programming experience with a modern computing language that supports data engineering work (Python, C#, JVM-languages like Scala)
+Some ways you may demonstrate this are:
+Professional project descriptions on your resume
+GitHub repositories that have working code that you created
+Sending a code snippet that exemplifies your work
+Advanced SQL skills and understanding performance trade-offs of various SQL implementations
+Some ways you may demonstrate this are:
+Professional project descriptions on your resume
+SQL Certifications you have earned
+Answering SQL questions in a phone interview
+Advanced SQL queries you wrote in your Github repository
+What May Set You Apart
+Experience with SQL databases like MS SQL Server
+Experience with Azure cloud computing such as hosted databases
+Experience with streaming technologies such as Kafka or Event Hubs
+Experience with orchestration frameworks like Azure Data Factory or Airflow
+Experience with NoSQL data stores such as MongoDB and CosmosDB
+Experience in the healthcare or pharmaceutical industries
+Experience with large scale migrations of databases
+Experience creating RESTful APIs to service data needs for web applications
+Experience with implementing Software Development Lifecycle approaches to database work, such as Testing, CI/CD and other automation
+
+If you think you meet some of the list of the above, but not everything, that’s perfectly fine! We encourage you to apply regardless. At Kalderos, we know talent comes in many forms, and we’re willing to look beyond a set of rigid criteria to find the right teammate.
+
+Company Perks
+401K plan with matching
+Healthcare benefits
+Flexible schedule and a fair PTO system that allows for a healthy work-life balance
+Opportunity to work on new technologies and learn new skills
+Celebration, and education stipends
+
+To learn more: https://www.kalderos.com/company/culture
+
+Kalderos is an equal opportunity workplace. We are committed to equal opportunity regardless of race, color, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or veteran status.
+
+Due to the circumstances of the COVID-19 pandemic, Kalderos has decided to protect our current and future employees by shifting to an entirely remote workforce. We will continue to operate, interview, onboard, and work remotely. Please be aware that some of our roles will not be remote long-term and will return to an office setting once we're safe to do so following the guidance of local health authorities and the CDC.

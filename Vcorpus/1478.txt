@@ -1,0 +1,80 @@
+Introduction
+ASML is one of the world’s leading manufacturers of lithography systems that help enable Moore’s Law and the creation of increasingly powerful and capable electronic devices. Our San Diego-based light source division, Cymer, is renowned for developing both deep ultraviolet (DUV) lithography light sources and next generation extreme ultraviolet (EUV) light sources.As the world’s leading semiconductor equipment manufacturer, ASML enables chipmakers to produce cheaper, speedier chips – and to produce them faster – thereby enabling all the technology you use today. The systems we produce integrate several large and sophisticated machines, themselves each a feat of engineering innovation, precision, and speed.
+
+We are a multinational company with over 70 locations in 16 countries, headquartered in Veldhoven, the Netherlands. We have 18 office locations around the United States including main offices in Wilton, CT, Chandler, AZ, San Jose, CA and San Diego, CA (EUV laser source creation).
+
+In the Cymer Light Source (CLS) division in San Diego, we design and manufacture Deep Ultraviolet (DUV) lasers, used directly in the chipmaking process. Far from a basic “consumer” laser, these machines are complex, powerful, and flexible. The lasers we make require: durable and high-speed precise motion-controlled optics to maintain wavelength to femtometer accuracy under high laser powers; advanced materials to endure the harsh Fluorine-rich environments and high powers; clever mechanical designs to allow high performance and fit all the parts within a confined space, but still allow easy manufacturing and servicing.
+
+If you have a passion for technology and innovation you’ll want to check us out. Be a part of progress.
+
+One Company, One Goal, Limitless Innovation. It's our people that make the difference.
+
+Job Mission
+
+
+As a Controls Engineer at Cymer Light Source, you will be responsible for developing and improving critical controllers and other algorithms for the Deep Ultraviolet (DUV) lasers used in the manufacture of microchips, to enhance performance, increase reliability, and increase automation (lower cost). You will work on systems involving excimer lasers and their optical features (such as energy, wavelength, and spectral bandwidth), high-speed mechatronics, gas properties and handling, and ultra-precise signal timing. You will need to consider system modeling and physics, signal properties (noise, filtering, frequency content), actuator and sensor behaviors and limitations, nonlinear coupled and time-varying plant dynamics, and very large data sets. You will use a range of techniques and methodologies starting with classical and modern feedback control methods, and including advanced controls, signal processing, estimation, optimization, frequency-domain analysis, stochastics, data science, and clear logical thinking.
+
+You will collaborate with systems engineers, software and firmware developers, electrical engineers, hardware designers, Marketing, and project management to develop concepts, perform engineering analysis and design, build and test prototypes, generate detailed requirements, and guide the final algorithms through implementation, into testing, and out to field production.
+
+Solving these challenges requires expertise in system engineering, optics, physics, controls, mechanical engineering, electrical engineering, test engineering, embedded software and firmware, manufacturing, industrialization, and more. If you like extreme challenges, and passion for technology and innovation, and want to help bring the next generation of technology to the world, then come join ASML.
+
+Job Description
+
+
+The Cymer Light Source team in San Diego operates in a fast-paced, innovative, and challenging environment to develop DUV lasers and support technologies to enable both current and future lithography generations. Our technological solutions deliver both new-to-industry products and important enhancements that improve performance and reliability and reduce costs. The projects are characterized by rapid productization to support an aggressive deployment plan for the DUV technology within ASML.The Algorithms Team is responsible for the development and engineering of the control loops and automation for the laser system.The DUV source is complex, dynamic, high-precision, and powerful; it demands the control engineers on the Algorithms Team to engage in the design and development of sophisticated feedback controllers, algorithms, signal processing, and data analysis.
+Serve as a technical expert for one or more control subsystems or features, capable of independent decision making for critical technical issues.
+Applies broad knowledge in sensors, actuators, control algorithms, automation, software, signal processing, and data analysis methods and tools to drive control system improvements to enable improved laser light properties and higher system availability.
+Leads the development and integration of innovative control system solutions to enable stable, efficient, and reliable production of DUV light.
+Leads the design and building of tools that allow debugging, analysis, and evaluation of control system performance.Leads the root cause analysis for control system failures in products for integration and fielded units during escalations.
+Performs integration activities including troubleshooting the control system, designing and executing test plans and test automation, to ensure the algorithms functions as designed.
+Documents work results with requirements, design specifications, procedures, and training materials.
+Mentors junior engineers.
+Education
+Requires minimum of a PhD degree in Engineering or Physics. Specialization in control systems strongly preferred.
+Experience
+0 – 2 years relevant educational or work related experience.
+Linear systems, feedback control, discrete-time control, signal processing, filtering and estimation, system identification, and non-linear systems postgraduate courses and experience will be highly regarded.
+Good MATLAB skills and experience.
+Experience designing practical discrete-time feedback control systems of significant complexity.
+Ability to design and analyze feedback control and estimation systems using classical, modern or nonlinear techniques and theories.
+Ability to quickly process and analyze large data sets from variable sources, including data translation, statistical analysis, and effective reporting through written and/or graphical formats.
+Some background in data science is a plus.
+Working knowledge of C/C++ desirable.
+Understanding of embedded software systems desirable.
+Good written and verbal communication skills.
+Has led a successfully completed project.
+Ability to carry a product design from conception into production.
+Project Engineering experience including leading small technical teams is a plus
+Ability to cross functional boundaries to build relationships with all areas in the company, to understand and reconcile higher level company and customer needs.
+Ability to use MS Word, Excel, PowerPoint, and electronic e-mail systems.
+Personal skills
+Ability to communicate effectively, both verbally and written.
+Comfortable working in a fast-paced, dynamic environment.
+Being flexible, and adaptable to change.
+Ability to interact with customers as a technical expert, understand customer needs, and incorporate these into your work.
+Ability to solve problems and implement solutions to complex problems with available resources.
+Excellent organizational, reasoning, planning and motivational skills.
+Self-starter, self-motivator; willing to do what it takes to get the job done.
+Strong interpersonal and teamwork skills with the ability to influence, motivate, mentor and lead team resources.
+Other information
+
+
+PHYSICAL DEMANDS AND WORK ENVIRONMENT
+The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. While performing the duties of this job, the employee routinely is required to sit; walk; talk; hear; use hands to keyboard, finger, handle, and feel; stoop, kneel, crouch, twist, reach, and stretch.
+The employee is occasionally required to move around the campus.
+The employee may occasionally lift and/or move up to 20 pounds.
+Will require occasional travel dependent on business needs.
+Specific vision abilities required by this job include close vision, color vision, peripheral vision, depth perception, and ability to adjust focus.
+Can work under deadlines.
+The environment generally is moderate in temperature and noise level.
+Must be able to read and interpret data, information, and documents.
+Can observe and respond to people and situations and interact with others encountered in the course of work.
+Can learn and apply new information or skills.
+Requires working with a firing laser (which is noisy) on a frequent basis.
+Requires occasionally working in a manufacturing clean room environment.
+
+We offer competitive salaries and benefits including medical, dental, vision, 401(K), and FSAs.
+
+We are committed to leveraging the diverse backgrounds, perspectives, and experiences of our workforce to create opportunities for our people and the business.
+
+EOE AA M/F/Veteran/Disability

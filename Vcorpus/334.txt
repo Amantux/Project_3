@@ -1,0 +1,42 @@
+OPPORTUNITY:
+
+GetWellNetwork is searching for a Data Engineer with 4+ years of experience in implementing modern data architectures and, ideally, 2+ years of a Data Streaming. We are building a net new data streaming platform to unify and govern reporting and data access across the 4 product lines. Our products currently service 10M patients visits annually with deep integration into backend medical systems. Think 30-1800 data points per medical encounter. While our primary business is domestic, we are rapidly growing in Europe, Canada, the Middle East, and Australia - each with their own cloud and unique governance needs.
+
+This role can be based remotely. US citizenship or permanent residency required
+
+WHAT WE NEED YOU TO DO:
+Partner on the design the next implementation of our secure, global data architecture
+Own medium-to-large size data engineering projects
+Mentor junior staff by providing opportunities to execute on your engineering agenda
+Partner on setting standards and create documentation for self-serve data pipeline services supporting core engineering and professional services use cases.
+Work with existing product engineering teams to become data producers
+Work with business intelligence engineers, analysts and Data Scientists to design and automate smart reports
+WHAT WE ARE LOOKING FOR:
+4+ years of experience in a Data Engineering role, with a focus on data warehouse technologies, data pipelines, BI tooling and/or data apps development
+Strong experience with event streaming such as Kafka or Amazon Kinesis
+Desire to show ownership of problems you identify and proven ability to empower others to get more done
+Proficient in Python or JAVA and SQL
+Proficient with tuning and optimizing data models and pipelines
+Experience in developing data apps with Python, Javascript, high charts etc
+The ability to communicate cross-functionally, derive requirements and architect shared datasets; ability to synthesize, simplify and explain complex problems to different types of audiences, including executives
+WHAT GIVES YOU AN EDGE:
+Experience with Confluent Kafka
+Experience with enterprise apps data: Salesforce, Marketo, Zendesk, etc
+Experience in developing data apps with Python, Javascript, high charts, etc
+Scala, Clojure, R
+IOT streaming
+Previous work with protected or classified data
+ABOUT GETWELLNETWORK:
+
+GetWellNetwork® is the Precision Engagement™ healthcare company. Our solutions engage patients and families, empower clinicians and deliver outcomes that matter. From inpatient to outpatient, to physician practices and urgent care clinics, to patients on the go, GetWellNetwork offers the only cross-continuum platform that performs across every care setting.
+
+With more than 300+ employees across the U.S., GetWellNetwork is dedicated to changing the lives of millions of patients and families every year. If you're passionate about working in a high-growth, dynamic and innovative environment that is changing an industry, then we want to hear from you!
+
+GetWellNetwork is an Equal Opportunity Employer. Check out our employer reviews on Glassdoor.com!
+
+Required Skills
+
+Required Experience
+
+Job Location
+Remote,

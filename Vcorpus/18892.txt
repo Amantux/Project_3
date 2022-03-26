@@ -1,0 +1,27 @@
+Preserving Trust in Amazon with every customer, every transaction, every second is our mission. We do this by identifying and removing bad actors from the platform, while supporting a best-in-class customer experience. Amazon has hundreds of millions of customers, sellers, and developers all over the world that rely on Amazon products and services. Our success comes from preventing bad actors from abusing these products and undermining the trust customers have in them. We are handling massive scale. Amazon's scale means that you'll be designing and developing custom distributed systems more advanced than those used in standard industry practices. They need to be highly available, low latency, high quality systems. Amazon is one of a kind in the number of customers served, transactions processed, and products handled.
+Amazon.com's Buyer Risk Prevention (or BRP) protects the Amazon bottom line by preventing the bad guys like fraudsters, identity thieves and such elements from entering our front door. We've got the latest in machine learning algorithms, statistical modeling techniques and investigation tools but we need your help to keep Amazon.com safe. Youll be part of a team working to protect Amazons most important asset, its customers, from targeted attacks from humans and bots.
+About the role...
+Were looking for software engineers with an interest in fraud prevention to help outwit the bad guys without impacting customer experience. We use the most recent advances in machine learning and data collection to make real-time decisions to eliminate payment fraud at Amazon scale.
+The ideal candidate for our team is passionate about creative solutions to our technical problems. You have technical curiosity, drive for results, but at the same time you embody ownership at the business level and contribute to product development.
+
+Basic Qualifications
+
+· 4 or more years experience in software development
+· Bachelors degree in Computer Science/related field or equivalent work experience
+· Experience with object oriented programming including Java, Python, C++, C#, Golang or Scala.
+
+Preferred Qualifications
+
+· Experience building complex software systems that have been successfully delivered to customers.
+· Experience in communicating with users, other technical teams, and senior management to collect requirements, describe software product features, technical designs, and product strategy.
+· Multi-factor authentication
+· Experience with distributed (multi-tiered) systems, algorithms, and relational databases
+· Experience in dealing with Machine Learning Models, optimization mathematics (linear programming, nonlinear optimization)
+· Ability to effectively articulate technical challenges and solutions
+· Deal well with ambiguous/undefined problems; ability to think abstractly
+· Strong, object-oriented design and coding skills (C/C++ and/or Java preferably on a UNIX or Linux platform)
+· Graduate degree a plus
+· Strong written/spoken communication skills
+· Experience with system architecture/design
+· Experience with distributed systems operating in a scalable/high volume environment
+Amazon is an Equal Opportunity-Affirmative Action Employer Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation

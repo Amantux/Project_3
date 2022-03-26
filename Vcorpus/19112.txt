@@ -1,0 +1,35 @@
+Team Overview
+
+
+Luminar Technologies is seeking a Senior Data Engineer to contribute to the development efforts of our end-to-end data pipeline and corresponding web applications. Our vision is to make autonomous transportation safe and ubiquitous. Far too many lives are lost in vehicle accidents each year. Because when real people’s lives are at stake, driving safely 99% of the time isn't good enough. We just launched Hydra, and it’s capabilities are unmatched: road tracking out to 80m, lanes to 150m, and objects to 250m.
+
+Responsibilities
+Contribute to the development of automotive-grade software for perception and self-driving applications based on Luminar’s industry leading LiDAR platform
+Implementation of BigData infrastructure and services
+Quality control of data infrastructure and data service development
+Automation of data infrastructure
+Implementation of data transformation and streaming services
+24/7 operation and site reliability of data services
+Minimum Qualifications
+MS in Computer Science or a related field
+4+ years of relevant industry experience
+Already shipped and operated Big Data systems in production environments
+Experience in scalability of data systems
+Hands-on Big Data software and infrastructure development skills
+Expert knowledge in technologies like Kafka, Kibana/Elastic, Spark, Airflow
+Hands-on experience of data storage and schemes like Avro, Parquet
+Preferred Qualifications
+Expert knowledge in rational, no-sql and distributed data stores
+Operational experience with on-prem and cloud data systems
+Very strong coding skills in Java, Python, Scala
+Experience with large-scale ingestion architectures
+Hands-on experience in data streaming technologies
+Experience in cloud and on-premises data systems
+Benefits & Perks
+Location: HQ near Stanford University in the beautiful city of Palo Alto, California
+Timing: A start-up backed by industry leaders, at a critical stage of growth
+Compensation: Competitive salaries and meaningful equity
+Benefits: Comprehensive package (medical, dental, vision, and more)
+PTO: Take it when you need it, we are a results-oriented team (not just 9-5 job)
+Other: Paid lunch and dinner, team fitness, and fun team off-sites
+Luminar is an equal opportunity employer. All applicants will be considered for employment without regard to race, color, ancestry, national origin, sex, gender, sexual orientation, marital status, religion, age, disability, gender identity, results of genetic testing, service in the military, or any other characteristic protected by applicable federal, state or local laws. We will make a reasonable accommodation for any qualified applicant with a disability, provided that the individual is otherwise qualified to safely perform the essential functions of the job with or without accommodation and that the accommodation would not impose an undue hardship on the operation of our business. Please let us know if you believe you require reasonable accommodation, or if you would like assistance to complete an application or to participate in an interview at the company.

@@ -1,0 +1,18 @@
+Provides IT support for research activities and serve as a liaison between EVMS Medical Group IT and Research conducted by Eastern Virginia Medical School (EVMS). This includes writing scripts of data extracts/queries/reports, extracting data from Allscripts, mapping/integration of extracted data into secure databases and working with EVMS to accomplish approved research objectives as well as long-term research goals. Performs audits and monitors compliance with approved research activities to ensure HIPAA requirements are followed. Ability to work independently and manage multiple priorities with minimal supervision.
+
+Review data requests for compliance, including IRB approval/waiver when required.
+Develop data extracts/queries from Allscripts for de-identified data or data in accordance with IRB approved research requests.
+Mapping, merging and/or integrating data from Allscripts and disparate data sources into secure repositories and searchable research data structures such as TriNeTX and REDcap platforms.
+Coordinate with the EVMS Research Office data manager / REDcap administrator and HADSI to curate approved research data and ensure successful completion of project within projected timelines.
+Participate in any Honest Broker review process established by EVMS.
+Provide technical expertise at a variety of levels in healthcare and research data management
+Ensures databases and data extracts reflect specifications; proactively seeks specification clarification as needed to ensure data quality.
+Assess the quality of data captured in electronic medical record databases and identifies inconsistencies.
+Monitor and audit research activities to ensure compliance with HIPAA requirements related to IRB approved protocols.
+Performs other duties as assigned
+
+Bachelor’s degree in Computer Science, Information Technology or related field OR eight (8) years of equivalent experience in lieu of the Bachelor’s degree. Plus four (4) years of experience extracting and integrating complex data structures to serve data warehousing and business intelligence needs required. Proficiency in SQL-based software programming and maintenance. Experience working with Microsoft SQL*Server, Oracle or other large-scale RDBMS. Experience with procedural programming constructs using a SQL-based script writer (SSMS preferred). Experience designing and documenting logical and physical data models. Experience applying structured testing methods to ensure data quality and consistency.
+Preferred:
+Expertise extracting and integrating medical EMR patient-level data (Allscripts preferred). Experience working with clinical research projects. Expertise in database and query performance tuning advanced methodologies and techniques. Experience supporting multi-disciplinary teams including physicians, management, and technical peers and other end-users. Experience applying state-of-the-art data warehousing techniques to create extensible and sustainable solutions. Experience designing and delivering star-based schemas preferred. Knowledgeable with ETL technologies such as SSIS, Python or Data Integrator. Experience supporting end-users consuming delivered DataMart’s and reports (Excel and SAS preferred.
+
+US-VA-Norfolk

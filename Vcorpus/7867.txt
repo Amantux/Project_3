@@ -1,0 +1,95 @@
+Job Overview:
+
+Responsible for applied use of machine learning, data mining, and predictive modeling techniques to optimize call center customer experiences and other business outcomes. Develop effective and efficient predictive models for global operations and forecasting of the call centers. Must be able to work independently with stakeholders to identify opportunities for the application of business data, and coordinate independently with different functional teams to develop, fit, and monitor model performance and accuracy over time. Candidate should be able to independently develop custom data models and algorithms as necessary to apply to datasets of varying size and structure.
+
+Responsible for connecting to and designing queries from data sources, including, but not limited to, MS Azure PaaS technologies, IBM Big SQL, Hortonworks Hadoop, Apache Hive, HDFS, IBM DB2, MS SQL Server, Oracle SQL Server, Teradata SQL Server; Linux and Windows environments as needed; working with technology partners for data discovery and analyses of new data sources; requesting new data, and prototyping new data views in pre-production environments; interviewing, hiring, training, directing, managing, coaching, developing, coordinating, evaluating, and disciplining direct and indirect reports; performing other duties as assigned.
+
+Essential Functions:
+
+Knowledge and experience in statistical and machine learning techniques not limited to GLM/Regression, Gradient Boosting, Random Forest, Decision Trees, boosting and ensembling
+
+Connect to data in RDBMS and Hadoop environments using SQL/HQL and complex functions.
+
+Develop and tune machine learning models in R, Python, Spark
+
+Work with stakeholders, partners, and other development teams to create/express appropriate features from the raw data to hit model target objectives and accuracy
+
+Assess the accuracy and effectiveness of new data sources and data gathering techniques
+
+Be able to effectively visualize and present data to stakeholders and leadership
+
+Design queries with SQL/HQL to extract data from data stores and bring into analytics products such as Aqua Data Studio, Alteryx Designer, Tableau, R, Spark for additional analysis.
+
+Work with data in virtual environments and be prepared to transform it to fit the analytics purpose - OLAP, data pivoting, etc.
+
+Perform initial discovery and analysis of newly identified data sources to determine how to integrate them with other data lake components.
+
+Design and engineer systems that can move large quantities of data and produce results within required near-real-time timeframes.
+
+Be flexible in a dynamic environment that pushes the boundaries of data capabilities at Macy’s.
+
+Interview, hire, train, direct, manage, coach, develop, coordinate, evaluate, and discipline direct and indirect reports; provide developmental opportunities; plan, assign, direct, and manage work; establish strategy for work; provide insight and decision support; direct and manage team to meet or exceed performance and behavioral expectations; address complaints and resolve problems from employees.
+
+Regular, dependable attendance and punctuality.
+
+Qualifications:
+
+Education/Experience:
+
+Bachelor’s degree from four-year college or university required.
+
+Master’s Degree preferred.
+
+One to two years related experience and/or training preferred, or equivalent combination of education and experience.
+
+Communication Skills:
+
+Ability to read, analyze, and interpret general business periodicals, professional journals, technical procedures, and governmental regulations;
+
+Write reports, business correspondence, and procedure manuals;
+
+Effectively present information and respond to questions from groups of managers, clients, customers, and the general public.
+
+Mathematical Skills:
+
+Ability to work with mathematical concepts such as probability and statistical inference;
+
+Apply concepts such as fractions, percentages, ratios, and proportions to practical situations.
+
+Reasoning Ability:
+
+Ability to define problems, collect data, establish facts, and draw valid conclusions;
+
+Interpret an extensive variety of technical instructions in mathematical or diagram form;
+
+Work with several abstract and concrete variables.
+
+Physical Demands:
+
+Regularly required to walk, stand, hear, and talk;
+
+Frequently required to reach with hands and arms;
+
+Occasionally required to stoop, kneel, crouch, and crawl;
+
+Requires close vision.
+
+Other Skills:
+
+Advanced understanding of SQL/HQL; familiarity with one or more: Apache Hive, Hortonworks Hadoop, IBM Big SQL, IBM DB2, HP Vertica, Oracle SQL, Microsoft SQL Server, Teradata SQL, Alteryx Designer, Tableau Desktop;
+
+Advanced knowledge of Microsoft Office products (Word, Excel, PowerPoint, Access);
+
+Knowledge of R, Spark/Scala, or equivalent statistical modeling language preferred;
+
+Ability to multitask and manage multiple ongoing projects;
+
+Driven to learn and apply new techniques; knowledge and experience with Data Visualization, Statistical Analysis, Predictive Analytics, Mathematics, Elementary Statistics a plus;
+
+Ability to provide outstanding customer service to external and internal customers on a consistent basis; supervisory experience.
+
+Work Hours:
+
+Ability to work a flexible schedule based on department and company needs.
+
+This job description is not all inclusive. Macy’s Inc. reserves the right to amend this job description at any time. Macy's Inc. is an Equal Opportunity Employer, committed to a diverse and inclusive work environment.

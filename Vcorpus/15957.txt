@@ -1,0 +1,31 @@
+At Housecall Pro, we're focused on making the everyday lives of home services professionals better by helping them to incorporate mobile software into their workflow...freeing them to focus on what they do best. The home services industry remains vast ($700b+) but untouched by technology and unencumbered by a dominant competitor. The 3M+ mobile businesses in home services are facing dramatic change as the world shifts from offline to online. Along this journey, we are quickly becoming the backbone operating system for service labor across the US and Canada. We have rocketed from MVP to the #1 ranked SaaS software platform in just over 2 years...which has made us the fastest-growing tech startup in San Diego!
+
+Our vision is to revolutionize the home services experience.
+
+Our mission is to unlock the potential of every Pro.
+
+The role:
+As a Lead Data Architect/Engineer, you will lead a technical team that architects, builds, maintains, scales, monitors, administrates and secures Housecall Pro's Analytics infrastructure. You will actively work in a multi-disciplinary fast-paced environment, drive innovation and satisfy the analytics needs of your stakeholder. Your ultimate goal is to enable Housecall Pro and it's customers to be data-driven and go from good to great; and you will do so by creating a scalable data system that enables us to deliver best-in-class analytics products to HCP and HCP Pros in the face of massive growth.
+
+This role requires a broad range of skills and abilities; you will be the functional lead, drive innovation, manage staff and do the work. Your primary responsibility is to enable data access, build data governance, data infrastructure and data products by architecting, maintaining, scaling, monitoring & securing Housecall Pro's
+We ML production system (AWS, Airflow, Python, Github, Gitlab)
+Data Warehouse (Snowflake)
+ETL system & data pipelines (Segment, Stitchdata, Airflow, Python)
+BI system (Tableau Online, Amplitude)
+(Current analytics stack in parentheses)
+
+Skills:
+You have planned, built & managed data infrastructures in a public cloud.
+You have 6+ years of experience as a Data Engineer/Data Architect and have architected distributed data platforms.
+You can estimate, design, build and own a business initiative end to end.
+You have in-depth experience with MySQL databases and Snowflake's data warehouse
+You have managed a business intelligence system
+You are proficient in at least one programming languages like Python, Scala and Java
+You have familiarity with big data technologies like Hadoop, Spark, Hive
+You are comfortable with setting and meeting SLAs for data availability and quality
+You have an understanding of Machine Learning / AI principles in data engineering
+You have consistently engaged in mentoring, training and reviewing other data engineers on the team.
+You've worked in an Agile environment. You thrive on scrum. You make opportunities to bring value sooner rather than later.
+You value data-driven decisions. You are always looking for opportunities to quickly produce the right data to make decisions quickly. You keep cool under pressure.
+You are a self-driven, highly motivated technologist who works with a high degree of autonomy, is able to prioritize effectively and shape a company's data engineering roadmap.
+Our Analytics team is extraordinary. We are empathetic, hard working and focused on easy data and information access. Housecall Pro is a data-driven company, and we are the "insights engine" of the organization We help HCP and our HCP service professionals optimize and grow their businesses. Join us!

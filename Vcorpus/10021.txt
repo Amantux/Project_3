@@ -1,0 +1,53 @@
+About Us
+
+ShareThis is a big data company that owns online behavior data of 1Bn+ users globally and 18Bn+ monthly events. We are developing an audience intelligence platform with cutting edge data science technologies. We are looking for innovative experienced data scientists to join our exciting projects.
+
+What you will do:
+
+You will work with a highly capable team of scientists to develop, test and deploy new features and top notch Machine Learning (ML) models. Your NLP and ML efforts will range from quick prototypes to massive scalable solutions that can be reliably optimized and productionalized.
+
+Qualifications:
+
+MS (PhD preferred) in STEM field
+
+5+ years of experience in building/deploying ML algorithms and working with NLP
+
+Solid understanding of ML algorithms, such as linear and logistic regressions, random forest, GBM,
+
+kMeans, kNN, SVM, PCA, SVD, boosting/bagging, HMM, deep learning (DL)
+
+Solid NLP experience, including working with TF-IDF, text pre-processing, word2vec, fastText, BERT,
+
+various contextual embeddings, etc.
+
+Solid experience in feature generation/selection, and model tuning and measuring model
+
+performance
+
+Solid experience with Python and numerous NLP/ML packages, such as Scikit Learn (SKL), GloVe,
+
+Gensim, NLTK, flair, pandas, numpy, multiprocessing, and alike
+
+Solid coding ability and understanding of computer science algorithms, including numerous graph
+
+algorithms
+
+Solid experience in parallelizing your code on CPU/GPU and in the cloud (AWS/CGP)
+
+Solid experience with ETL with SQL
+
+Solid understanding of calculus, linear algebra, statistics and probability
+
+Excellent communication skills, cultural fit and natural curiosity in learning the ML developments
+
+and domain expertise
+
+Nice to Have
+
+Programming experience in distributed environment with Scala, Spark, Java
+
+Experience with deep ML frameworks: Keras, TensorFlow, PyTorch
+
+Impressive ranking on Kaggle (please include URLs for us to view your Kaggle performance)
+
+Scientific publications (please include URL for us to access these)

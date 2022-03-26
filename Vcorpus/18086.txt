@@ -1,0 +1,42 @@
+Job Description
+Come help us build the next generation of mobility solutions for the transit industry!
+
+GMV Syncromatics is a leading provider of Intelligent Transportation Systems (ITS) serving transit agencies, universities and private operators across the country. We collect GPS and other sensor data from buses, shuttles, trolleys and other moving vehicles and then transport it via cellular networks to our back-end systems for real-time aggregation, analytics, alerting and reporting. All of this information is used by dispatchers, transit planners and the riding public to make transit systems more accessible to riders, and run more efficiently for operators.
+
+The Role:
+
+We’re looking for a strong Full-Stack Software Engineer to join our recently launched team in Houston. Someone who’s eager to work in an environment with a diverse ecosystem of applications: web apps and services, native mobile apps, high-level embedded apps, network programming, Actor model (Akka.net), messaging systems, streaming data (Kafka), relational databases, etc. We don't expect incoming engineers to have experience/expertise in all of these areas but we seek those who are looking to learn new things and have confidence in their own ability to get up to speed quickly.
+
+Problems you will tackle:
+Build real-time, web-socket based user interfaces. Think air-traffic control for city bus fleets.
+Deliver intuitive user interfaces used by millions of bus riders annually
+Report on large amounts of event, log and time-series data
+Build out scalable RESTful APIs for both internal and external consumption
+Our Engineering Culture:
+We pride ourselves on being connected with the growing open-source community in the .NET world
+TDD, Continuous Integration
+Continuous observability and monitoring as a team (Prometheus, Grafana)
+Think like startup, scale like Enterprise
+ChatOps - in addition to being the control center for deploying apps, our chat rooms give us insight into our system health, Agile process and where people are eating lunch
+We believe in work-life balance and career development
+Benefits:
+
+Generous Health and Dental benefits, 401k plan w/match, bonus plan, transportation stipend, beverages, snacks, you know, standard issue stuff…
+
+Required Qualifications
+4+ years of software development experience
+Deep experience building production software using open-source technologies and projects
+Professional coding experience in one or more of the following languages: C#, Python, Go, Java or C/C++
+Experience with one or more open source databases such as PostgreSQL, MongoDB, Redis, Timescale
+Passion for and professional experience with one of the following: React, Angular, Backbone
+Experience with .NET framework and MSSQL
+Good understanding of technologies such as virtualization, containerization, load balancing, networking, microservices, cloud native
+Preferred Qualifications
+Big bonus for experience with or understanding of enterprise messaging systems, queues, real-time streaming data and applications, one of Apache Kafka, RabbitMQ or Akka.net
+.Net Core experience with Docker containers in Kubernetes clusters
+Experience building mobile applications with one of the following: Xamarin, native iOS or Android, React Native
+
+Company Description
+GMV Syncromatics has been voted one of the Best Places to Work in Los Angeles and was a 2015 selection to the Inc. 5000 list of America's fastest growing companies, and has recently opened a new office in Houston, TX. GMV Syncromatics is a cloud-based provider of Transportation and Mobility technology solutions.
+
+Founded in 2006 and acquired by GMV Innovating Solutions, SL in 2015, GMV Syncromatics serves over 100 transit properties nationwide including the City of Los Angeles (LADOT), Los Angeles Metro, Houston Metro, and Greenlink (Greenville, SC). www.gmvsyncromatics.com

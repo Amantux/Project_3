@@ -1,0 +1,51 @@
+LOC_ROBERTS-Roberts Ctr Pediatric Research Req ID: 67961
+
+Shift: Days
+
+Employment Status: Regular - Full Time
+Job Summary
+The Tsui Laboratory at the Children’s Hospital of Philadelphia is seeking a data scientist to conduct research on natural language processing (NLP) and machine learning (ML). The Tsui Laboratory studies methods of biomedical informatics, predictive modeling, machine learning, natural language processing, signal processing, mobile Heath (mHealth), and real-time learning production decision-support systems. We translate research to practice by applying our models to domains of clinical informatics, population informatics and precision medicine through comprehensive data-driven approach using electronic health record (EHR) data, including structured (e.g., diagnosis, meds, etc.), unstructured (narrative notes), high-frequency waveform data (e.g., ECG, EEG), time-series data, genomic data, and environmental/community data. The mission at Tsui Lab is to integrate various data types and develop end-to-end real-time clinical decision support for direct impact to hospital staff, patients and public health by decreasing costs, mortality and morbidity and increasing efficiency and quality of care.
+
+The position of Data Scientist 1 will be responsible for developing innovative NLP methods (e.g., deep neural networks) applied to narrative clinical notes, social media, and published articles, and for conducting independent research. The Data Scientist 1 will report to Dr. Rich Tsui who is the Director of Tsui Lab.
+Job Responsibilities
+1. Implement/Develop NLP and/ML algorithms
+Retrieve clinical data from Epic EHR system and relevant databases
+Identify clinical findings and social factors through NLP and ML
+Attend routine lab meetings and ad-hoc hospital IT meetings
+Provide code and corresponding documents on a regular basis
+Required Education and Experience
+Required Education: Bachelors in Analytics, Data Science, Statistics, Mathematics, Computer Science or a related field.
+Preferred Education, Experience & Cert/Lic
+Preferred Education: Masters in Analytics, Data Science, Statistics, Mathematics, Computer Science or a related field. Non-degree graduate coursework such as a graduate certificate in Analytics, Statistics, or Data Science preferred.
+
+Preferred Experience: At least one (1) year of experience with progressively more complex data science, applied statistics, machine learning, or mathematical modeling projects
+Additional Technical Requirements
+• Innovative thinking • Strong communication and organizational skills
+• Experience with relational SQL (and NoSQL) databases: Oracle, Postgres (and/or MongoDB).
+• Experience with open-sourced tools.
+• Experience with programming languages: Java, Python, R, etc.
+
+Preferred:
+
+o Experience database management and queries
+o Experience developing NLP and/or ML tools.
+
+All CHOP employees who work in a patient building or who provide patient care are required to receive an annual influenza vaccine unless they are granted a medical or religious exemption.
+
+Children's Hospital of Philadelphia is committed to providing a safe and healthy environment for its patients, family members, visitors and employees. In an effort to achieve this goal, employment at Children's Hospital of Philadelphia, other than for positions with regularly scheduled hours in New Jersey, is contingent upon an attestation that the job applicant does not use tobacco products or nicotine in any form and a negative nicotine screen (the latter occurs after a job offer).
+
+Children's Hospital of Philadelphia is an equal opportunity employer. We do not discriminate on the basis of race, color, gender, gender identity, sexual orientation, age, religion, national or ethnic origin, disability or protected veteran status.
+
+VEVRAA Federal Contractor/Seeking priority referrals for protected veterans. Please contact our hiring official with any referrals or questions.
+
+CHOP Careers Contact
+
+Talent Acquisition
+
+2716 South Street, 6th Floor
+
+Philadelphia, PA 19146
+
+Phone: 866-820-9288
+
+Email:TalentAcquisition@email.chop.edu

@@ -1,0 +1,72 @@
+*Cybersecurity Host Based Analyst Specialist**
+*Description**
+* Tuvli, LLC an Akima Company, ** isdedicated to providing our customers with superior, integrated technology and program support services and solutions\. Our systems engineering, information technology, information assurance, program support and project management staff work closely with customers to ensure that our solutions are directly aligned with their business processes and desired program outcomes\. We emphasize affordability, and delivering the best value for technology investments\. Our personnel enjoy competitive benefits packages and challenging roles in work environments committed to innovation, diversity and opportunity for career growth\. As an Alaska Native Corporation \(ANC\), 100% of our company's profits go back to our 14,300 Iñupiat shareholders that have resided near and above the Arctic Circle for more than 10,000 years\. Our business helps support their way of life and contributes to the survival of a culture that has thrived in a challenging environment\.
+Tuvli seeks a Cybersecurity Host Based Analyst \(HBA\) Specialist to become a part of the organizational/coordination member within the team\. You will posses and apply a comprehensive knowledge across key tasks and high impact assignments\. Plans and leads major technology assignments\. Evaluates performance results and recommends major changes affecting short\-term project growth and success\. Functions as technical expert across multiple project assignments\.
+*Responsibilities:**
++ Manage investigation status, progress reporting, risks/issues, scheduling, quality, and continual improvement documentation\.
+
++ Assist in managing stakeholder relationships; coordinate with other contractors\.
+
++ Documentation and Reporting\.
+
++ Provide accurate, concise reporting Identify and document host\-based tactics, techniques, and procedures used by an attacker to gain unauthorized system access\.
+
++ Track and document CND incidents from initial detection through final resolution\.
+
++ Deployment and Data Collection Collect intrusion artifacts \(e\.g\., domains, Uniform Resource Identifiers \(URIs\), certificates, etc\.\) and use discovered data to enable mitigation of potential CND hunts and incidents\.
+
++ Understanding of network architecture/engineering standards and methods of securing networks and strong background of network administration/system administration\.
+
++ Aide in the scoping and hypothesis gathering process pre\-deployment\.
+
++ Hunt and Discovery; Investigating targeted threat actors of various categories such as Nation State Actors, hacktivist groups, commodity malware, script kiddies, more\.
+
++ Perform analysis of log files from a variety of host sources to identify threats Host forensics to include performing endpoint detection and response/hunt\.
+
++ Ability to recognize malicious TTPs and IOCs in pursuit of a threat adversary on network using endpoint agent based solutions\.
+
++ Post Discovery Analysis, Reverse Engineering/Malware Analysis using industry standard tools Digital Forensics utilizing industry standard tools; Artifact Analysis \- the analysis of files that may or may not be binary's used for in depth analysis but the general analysis of files from various operating systems to determine relation to threat actor activity \(target files, residual changes, etc\) Lateral Movement Analysis via a knowledge of network and authentication and other log types\.
+
++ Perform forensically sound collection of images and inspect to discern possible mitigation/ remediation on enterprise systems\.
+*Qualifications**
+*Minimum Requirements:**
++ Must have a TS with SCI eligibility clearance \(TS/SCI preferred\)\.
+
++ Must have Security certification\.
+
++ Must be able to obtain:
+IAM Level 2 or 3 \(Information Assurance Management\) or
+IAT Level 2 or 3 \(Information Assurance Technical\) IAW DoD 8570\.01M \(now DoD 8140 Cyberspace Workforce Management\)\.
++ Bachelor degree from accredited school \(in Computer Information Systems preferred\)\.
+
++ Minimum of three \(3\) years of experience using IC IT security policies and procedures\.
+
++ Experience with performing real\-time CND Incident Handling \(e\.g\., forensic collections, intrusion correlation and tracking, threat analysis, and direct system remediation\) tasks to support deployable incident response teams\.
+
++ Programming and or Scripting Skills to include Python, Ruby, Perl, C, C\#, \.NET, etc\.
+
++ Automation and data normalization skills\.
+
++ Familiarity with virtual environment, on premise and public cloud environments, hybrid environments, etc\.
+
++ Proficient in malicious activity detection, including automatic detection and characterization; reactive countermeasures; proactive defenses; threat assessment; damage assessment; reverse engineering, IDS; malware and anti\-virus support; and RDBMS admin, query, and reports\.
+
++ **Possess at least one** active certification from the following:
+GCFE, GCFA, GCED, GREM, GNFA, EnCE, GCIA, GNFA, GCIH, or CSIH\.
++ **Possess more than one** active certification from the following:
+CISSP, GCFE, GCFA, GCED, GREM, GNFA, EnCE, GCIA, GNFA, GCIH, CEH, CSIH, OSCP, or OSCE\.
+The duties and responsibilities listed in this job description generally cover the nature and level of work being performed by individuals assigned to this position\. This is not intended to be a complete list of all duties, responsibilities, and skills required\. Subject to the terms of an applicable collective bargaining agreement, the company management reserves the right to modify, add, or remove duties and to assign other duties as may be necessary\. We wish to thank all applicants for their interest and effort in applying for the position; however, only candidates selected for interviews will be contacted\.
+
+We are an equal opportunity employer\. All applicants will receive consideration for employment, without regard to race, color, religion, creed, national origin, gender or gender\-identity, age, marital status, sexual orientation, veteran status, disability, pregnancy or parental status, or any other basis prohibited by law\.
+
+We are committed to Equal Employment Opportunity and providing reasonable accommodations to applicants with physical and/or mental disabilities\. If you have a physical and/or mental disability and are interested in applying for employment and need special accommodations to use our website to apply for a position please contact, Recruiting Services at job\-assist@akima\.com or 571\-353\-7053\. Reasonable accommodation requests are considered on a case\-by\-case basis\.
+
+The dedicated email and telephonic options above are reserved only for individuals with disabilities needing accessibility assistance to apply to an open position using our website\.
+
+Please do not use the dedicated email or phone number above to inquire on the status of your job application\.
+
+_I_ _n order for our company to stay compliant with government regulations, please apply on line\. Please DO NOT email resumes or call in lieu of applying online unless you have a physical and/or mental disability and need assistance with the online application\._
+*Job:** Information Technology
+*Primary Location:** US\-TX\-San Antonio
+*Shift:** Day Job
+*Req ID:** TUV01420

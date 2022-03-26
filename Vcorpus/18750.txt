@@ -1,0 +1,28 @@
+SmartDrive Systems gives fleets and drivers unprecedented driving performance insight and analysis, helping save fuel, expenses and lives. Its video analysis, predictive analytics and personalized performance program help fleets improve driving skills, lower operating costs, and deliver significant ROI. With an easy-to-use managed service, fleets and drivers can access and self-manage driving performance anytime, anywhere. The Company has compiled the world's largest storehouse of nearly 200 million analyzed risky-driving events, including video and comprehensive sensor data. SmartDrive Systems is based in San Diego, CA, Shenzhen, China, and Hyderabad, India, and employs over 600 people worldwide.
+
+We are looking for an experienced data-focused engineers to join our team, leading the design, development, and delivery of our high-performance analytics engines for solving computer vision, machine learning, sensor fusion problems running in vehicle and in the cloud at high throughput and high accuracy vehicle event analysis engines (in vehicle and in the cloud), and robust and flexible coaching workflow, reporting, and alert management engines.
+
+Our business is nearly doubling every year, and our people and our platforms are the foundation and enabler of that growth. We are significantly expanding our team, and are looking for technologists with a passion for high performance software development, and a drive to deliver software products that make a meaningful difference in the lives of others.
+
+Responsibilities:
+Data Engineering to the core - analysis, modelling, transformation and visualization of datasets for online products and backend data platform.
+Implement data engineering codebase using server-side languages Java/Scala or scripting using Python and Javascript
+Design and develop apis for data pipelining frameworks on data collection, processing and storage across data stores.
+Understand noSQL and stream programming apis for building data pipelines and micro-service based architecture across products
+Design and development of data solutions for fast datastores, large scale data warehousing, machine learning and computer vision analytics.
+Minimum Qualifications:
+Bachelor's Degree in Computer Science or related discipline
+5+ years of software development experience
+2+ years of experience as a Data Engineer
+Preferred Qualifications
+Extensive knowledge of RDBMS (Microsoft SQL Server, Mysql, Postgres or similar)
+Proven experience with NoSQL stores (one or more of Cassandra, MongoDB, InfluxDB, HBase/HDFS, ElasticSearch)
+Experience in a distributed microservices and/or serverless (Lambda) cloud software architecture
+In-Depth knowledge of ETL commercial software products (any of Informatica, Talend, Nifi or SSIS) with hands-on experience designing, implementing, and delivering solutions
+Expertise with integration of complex and large data from multiple data sources, data and sensor fusion, and migration to newer methodologies
+Prior experience as part of a large group working on massive data engineering pipelines and analytics for machine learning, computer vision
+An aggressive problem solver who can provide creative solutions to complex situations and obtain buy-in from those affected
+An independent worker who can take the initiative to define and prioritize specific goals and objectives, and to do the same for others
+Strong people skills - able to communicate with colleagues while building credibility and rapport, modifying behavioral style to respond to the needs of others while maintaining objectives
+An organized individual who is very detail oriented and can document and develop plans necessary for deliverables towards specific product or platform goals.
+A team player that works hard, admits his/her strengths and weaknesses, and has the flexibility to improve by learning new things

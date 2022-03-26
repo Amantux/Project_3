@@ -1,0 +1,25 @@
+At Corbins Electric, we believe people are first! Our teammates, our partners, and our customers can expect that we genuinely care to serve them and look out for their best interests. Our culture is built on the cornerstone of our Core Values – Passion, Relationships, Innovation, Development and Excellence! They set our expectation of each and every employee and are integrated in everything we do. As one of the largest electrical contractors in the Southwest and an industry leader in virtual construction, fabrication, electrical construction, and electrical service, we continually look for people who share in our Core Values to better themselves and contribute to our mission of changing the construction industry as empowered thought leaders.
+As the SQL Developer/Data Analyst you will be providing cutting edge analysis of financial and construction data. You will work with key stakeholders to design processes and present data in a meaningful way to help drive business decisions. You will design the database structure and basic workflows for reimagined processes while ensuring data integrity. You will get the opportunity to drive the entire process from start to finish: inception to finished product that we put in our users hands.
+
+Build databases and write database transactions
+Develop database structures to accurately and efficiently store data from new or existing processes
+Develop the front end for basic CRUD apps to map these in a platform called Xalt (rapid app development platform) using the database structures created
+Build Basic UI components to display data and processes in Xalt
+Develop SQL stored procedures that produce and manipulate data in a useful way
+Utilize different data sources to provide connected data analysis
+Develop SQL analysis queries to produce insights about the company
+Continuously work with key stakeholders to clean up data and streamline data analysis
+
+Advanced skill in T-SQL, stored procedures, and common table expressions (CTE)
+Ability to develop appropriate relational database structures given requirements
+Ability to work with different data sources and consolidate the information
+Understanding of object oriented design concepts
+Understanding of programming paradigms and best practices
+Basic UX/UI understanding
+Passionate to understand business environments and translate business needs into technical requirements to provide technical solutions for the business.
+Enjoys working with key stakeholders and business leaders to develop requirements and adept at communicating technical ideas to non-technical audiences”
+Ability to handle multiple tasks in a detailed efficient manner
+Enjoys working in a team environment
+PowerBI or other data visualization experience is preferred, but not required
+Education/Certifications
+Bachelor’s degree in Computer Science or related field

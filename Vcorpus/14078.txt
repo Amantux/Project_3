@@ -1,0 +1,41 @@
+Responsibilities
+
+About Our Team:
+
+The Data Science Team provides advanced analytical support across VNSNYs family of corporations. We leverage big data to develop insights and to support strategic decisions for the agency. Meaningful, appropriate use of data is central to the success of our organization. We are looking for an ambitious data scientist to join our team.
+
+About the Role:
+
+The Data Scientist will join a core group of analysts who play an important role in generating strategic insights across the VNSNY organization in these four applications of data science:
+Clinical - Who is going to get sick? What can we do to prevent or mitigate these health events? When is the best time to implement these actions? This application of data science examines the drivers of clinical outcomes; analyzes opportunities for managing risk-based populations; evaluates programs and interventions that aim to improve patient outcomes.
+Quality How is quality of care measured and how is it related to patient outcomes? Where are opportunities to improve the quality of care to our patients and members? Our data scientists serve as subject matter experts on healthcare quality measurement and risk adjustment; use predictive modeling to identify patient populations in need of clinical interventions; identify opportunities for improvement in clinical processes that can lead to improved quality of care.
+Operational How can we optimize our business operations in order to be more efficient? How do we deliver our services in order to improve the coordination of care for our patients and members? This application of data science focuses on efficiency and optimization of business practices in order to improve patient care; uses techniques including time series forecasting and geospatial analysis to address business problems such as staffing and scheduling; analyzes opportunities for business growth within the organization and predicts and forecasts expenses.
+Policy What is the impact of health care policy on our patient population? On our most vulnerable patients and members? How will changes in reimbursement policy affect the way we deliver patient care? What partnerships can we develop in order to ensure that our patients and members continue receiving optimal care? Our data scientists are well-versed in healthcare policy; analyze areas for meaningful value investments that focus on improving health outcomes while saving money; use predictive modeling to identify high cost and high need patient populations who may be impacted most by changes in health policy.
+You Are:
+Looking for an opportunity to perform hands-on data analysis and modeling to solve a wide variety of business problems while working alongside clinical/business stakeholders
+Driven by curiosity and a passion to learn, you thrive in situations where you can bring clarity to ambiguous and multi-faceted problems
+A logical thinker who is comfortable learning new programming languages and computing applications independently
+Obsessive about streamlining data and modeling processes; if you find you or your colleagues doing something several times, you create a standard reproducible workflow
+Love the challenge of exploring new data sources while practicing a healthy skepticism about data; when you find data that looks wrong, you are emotionally compelled to figure out why
+Have a desire to use your analytical skills to make measurable impacts on the lives of patients
+Requirements:
+MS in statistics, biostatistics, mathematics, econometrics, epidemiology, computer science, or other quantitative field
+2+ years of professional experience in applied data analysis, interpretation, and prediction
+Experience with statistical/mathematical software (e.g. R, SAS, Matlab) and data querying languages (e.g. SQL, PLSQL) with demonstrated ability to learn and wield multiple analytical tools
+Solid understanding of relational databases
+Expertise in supervised and unsupervised data mining and predictive modeling techniques
+Demonstrated experience executing reproducible and rigorous analyses in a timely manner
+Strong written and verbal communication and presentation skills, with experience communicating results of complex data analyses to non-technical stakeholders
+Expertise in translating business needs into relevant data-driven deliverables and analyses
+Experience managing multiple projects independently, sometimes on tight deadlines
+Excellent interpersonal communication skills and ability to work collaboratively across different teams
+Nice to Have:
+Experience with building and deploying predictive models, especially via API, and building tools and processes to track and monitor the performance of models
+Solid understanding of data structures, algorithms, software architecture, functional coding
+Software engineering experience (e.g. Java, C++, Python) and knowledge of best practices across the development lifecycle (e.g. coding standards, testing)
+Experience with version control, shell scripting, and the Unix filesystem
+Experience with operational analytics and applying operational research techniques to support strategic and operational decisions
+Experience in quasi-experimental methods such as propensity score matching or instrumental variable analysis
+Experience with medical claims, electronic medical records, and health assessment data (e.g. OASIS, UAS-NY)
+Knowledge of Medicare and Medicaid payment policy and alternative payment models (e.g. PDGM, Value Based Payment, dual-risk models, Hospice Final Rule)
+Knowledge of risk adjustment strategies and application of risk adjustment to quality measurement programs such as CMS Home Health Quality Measures, CMS Home Health Value-Based Purchasing Model, CMS Hospice Quality Reporting Program, New York State MLTC Quality Incentive, HEDIS

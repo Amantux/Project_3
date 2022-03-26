@@ -1,0 +1,40 @@
+At CliniComp, Intl. we create cool products, in a pleasant place with people we like. We design, develop, and implement software and hardware solutions for Healthcare IT. Our state-of-the-art technology has contributed to fundamental advancements in computer science. We are proud of our artificial intelligence initiatives that are adding significant depth to products that will further improve healthcare outcomes for patients. The foundation of all we do is to create things that really matter.
+
+Position Summary
+
+The Data Scientist will actively research and implement approaches to model complex physiological, tabular, and/or imaging data and discover insights using statistical, algorithmic, mining, and visualization techniques. You will collaborate with other Data Scientists, Analysts and Engineers to improve existing models, workflows, and databases using quantitative methods.
+
+Responsibilities
+Select, design, develop and apply machine learning algorithms in a tested and reproducible manner.
+Clearly communicate the design and operation of implemented algorithms (short reports, diagrams).
+Work expertly with intermediate data structures (e.g., SQL databases, flat files).
+Use relevant packages (e.g., PyTorch, TensorFlow, Theano, Lasagne) for running neural networks
+Rapid prototyping of code in Python and/or R (numpy, pandas, matplotlib, wfdb / glmnet, data. table, ggplot2, survival, etc).
+Maintain breadth of knowledge in latest developments in AI/machine learning and industry best practices.
+Optimize algorithm parameters, and work with data engineers to ensure the usage of high-quality data and correct application of statistical methods and assumptions.
+Use internal ticketing system tools (Softzilla and Service Direct) to report and document work according to CCI standards and protocols.
+Perform, visualize, and validate statistical analyses.
+Requirements
+
+Required
+Bachelor’s degree in Computer Science, Data Science, Statistics, Applied Mathematics, or related technical field.
+At least 1+ years database experience with solid understanding of SQL query development (in MySQL, SQLite, and/or Postgres).
+At least 1+ years Python experience
+Possesses a strong quantitative approach to analyzing data and fundamental knowledge in statistics and statistical software with large datasets.
+Preferred
+Master’s Degree in Computer Science, Data Science, Statistics, Applied Mathematics, or related technical field.
+2-5 years of relevant quantitative and qualitative research and analytics experience.
+Deep understanding of statistical and predictive/dynamical modeling concepts, machine-learning approaches, and clustering and classification techniques.
+Proficiency with large datasets.
+Comfortable installing and configuring software, as well as conducting analysis in Unix/Linux environments (RHEL7).
+Working knowledge of high performance distributed computing or code-optimization through parallelization (GPU, clusters); git, or other method of version control
+Security Clearance: The start of the security clearance process is up to the discretion of the company and may begin no later than the successful completion of the first 90 days of employment, and commensurate with job requirements and the needs of the business. Successful completion of the security clearance process may not be required for every position but all candidates must be willing to submit to the process if requested by their manager according to the requirements of the position and business needs.
+
+Benefits
+100% covered Medical and Dental coverage for you & your family
+Generous 401(k) plan and contribution
+Events and weekly lunches
+Engaging wellness activities
+Corporate Social Responsibility Program
+So many more to list…
+CCI complies with the Americans with Disabilities Act and considers reasonable accommodation measures that may be necessary for eligible applicants/employees to perform primary responsibilities. EEO/AA/M/F/Veteran/Disabled

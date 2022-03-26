@@ -1,0 +1,53 @@
+Status: Full-time, non-exempt
+
+Location: Palo Alto, CA; remote will be considered
+
+Salary: Commensurate with experience; plus equity; health, dental, and vision insurance; flexible PTO plan and company holidays
+
+You've been seething since Nov. 8, 2016. You've been calling your member of Congress and pleaded with your friends to do the same, even though deep down you're not sure it makes that much of a difference. You'll vote for the forward-thinking candidate this year, but you just wish there was something else you could do. There is.
+
+In early 2017, we were in your shoes. But then we figured out how we could quickly, affordably, and accurately measure public opinion online - and we knew we could bring it to forward-thinking candidates and causes and help them win.
+
+We're working on some really interesting problems with data, social science, and politics. And by solving them, we hope to make our democracy better.
+
+We are currently accepting applications for a Data Scientist with expertise in Natural Language Processing. We encourage all qualified applicants, including people of color, gays and lesbians, women, transgender people, veterans, and people with disabilities. We particularly encourage people who are underrepresented in politics and startups to apply. We prioritize equity and inclusion. We recognize that diversity of perspectives and experiences makes our work better.
+
+About the Role:
+
+As a Data Scientist with expertise in Natural Language Processing, you’ll be involved in all aspects of our analytics, research, model development, and data pipeline. We’re a small but growing company and each team member contributes in a meaningful way. We interview millions of voters through our platform - a novel dataset with tremendous utility for political campaigns. Your role will be focused on turning unstructured public opinion into empirical conclusions.
+
+In your first weeks:
+
+Expected skills: best-in-class facility with Python (preferably) and/or R (acceptable) as well as SQL; team-based experience with Github; experience applying Natural Language Processing models in an industrial setting.
+
+Example project: classifying topics within a sample of open-ended survey responses
+
+What you’ll learn: the technology we’ve developed to help campaigns win
+
+By the end of the year, as campaigns are just gearing up for 2020:
+
+Expected skills: complete familiarity with our codebase and tech stack, so that you can commit production-ready code
+
+Example project: create automatic features from open-ended text to be used in other models
+
+What you’ll learn: how campaigns use (or don’t yet use) data; an intimate knowledge of our amassed polling data, including political attitudes across the country
+
+In 2020 and Beyond:
+
+Expected skills: solve novel problems, and formulate your own product ideas that anticipate problems before they come up. Write code that rivals that of a senior engineer, and introduce new modeling techniques to the team.
+
+Example project: design an ensemble of models that can process a broad range of answers to open-ended questions like “What do you think of your Congresswoman?” or “What is the biggest issue unaddressed by your local government”?
+
+What you’ll learn: How to be part of a growing data science team, contributing both ideas and technical prowess. Become an integral part of our data science operation and help the company grow its impact in Democratic politics
+
+A successful member of our team will demonstrate the curiosity to try new things, but the self-discipline to prize results over technique. We’re open to hiring for a range of levels. The specific job will be commensurate with a candidate’s work experience and potential. Political experience is not required, but if you don’t have a passion for it you might burn out.
+
+Compensation and work environment:
+
+Ensuring a diverse and inclusive workplace where we learn from each other is core to our values. We invite folks with different backgrounds, experiences, abilities, and perspectives. Our workplace is both casual and professional, and we are committed to learning, fun, and excellence. We are an equal opportunity employer. This full-time position includes equity, health, dental and vision insurance, commuter benefits, flexible PTO, and company holidays.
+
+How to apply:
+
+Please send us a note and link to your LinkedIn profile and/or your resume to jobs@changeresearch.com with the subject line "[Your Name] - Data Scientist - NLP". No phone calls, please.
+
+All qualified applicants are encouraged to apply, including women, people of color, gays and lesbians, transgender people, veterans and people with disabilities.

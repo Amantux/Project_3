@@ -1,0 +1,17 @@
+IntePros is looking to hire a Sr. Data Engineer for a premier client in Philadelphia, PA
+suggest, prototype and deploy machine learning solutions.
+expose your models as service interfaces for the application integration.
+build data pipelines for sourcing data from disparate sources which later can be analyzed, cleaned and transformed for building intelligent systems.
+Primary Requirements:
+• Strong and proven software development skills
+• Proficient in Python programming language
+• Should be able to build interfaces for collecting data, data extraction, transformations through Python
+• Should be able to work with data through SQL - Preparing data, cleanup, Aggregating, Slicing/Dicing Data
+• Should have worked in Python Stats, Machine learning packages - Pandas, Data frames, Scipy, NumPy, StatsModel, Scikit packages. Familiarity with frameworks such as MLlib, H2O, TensorFlow or similar.
+• Should have experience in working with Kafka using Python or Java API
+• Should have worked with a NoSQL database. Should be able to build interfaces for serving data-in/data-out of the database through API.
+• Preferred Telecom and Billing
+• Experience working in an Agile organization and understanding of Agile fundamentals, JIRA with CI/CD
+• Excellence at formulating, understanding, and solving complex, non-routine problems
+• Exposure in working with Big Data; experience with Hadoop, Kafka, and Spark preferred
+• Familiarity with managed cloud-based options for building machine learning models

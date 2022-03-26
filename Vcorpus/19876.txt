@@ -1,0 +1,29 @@
+The Child Mind Institute is seeking a Data Analyst to join the Center for the Developing Brain (CDB) research team. CDB is a research group focused on the development and deployment of sophisticated statistical techniques to understand brain maturation and clinical neuroscience. The Data Analyst will be an integral part of multi-center effort based at the Child Mind Institute to understand the development of the brain’s corticostriatal thalamocortical circuits. These circuits are critical to driving learning, and mapping their development from childhood through adolescence will improve our understanding of how atypical brain development contributes to the emergence of psychiatric symptoms.
+
+The Data Analyst will gain familiarity in running data-intensive methods for neuroimaging data, including multi-site harmonization, quality control, and preprocessing, as well as a suite of cutting edge, data-intensive multivariate and machine learning techniques for analysis of neuroimaging data. An ideal candidate will have a strong work ethic, can work well independently and as part of a team, and has the ambition to deepen an already existing set of strong technical skills.
+
+Reporting to one of our Research Scientists of the Center for the Developing Brain, this is a full-time position, located at the midtown headquarters.
+
+The Child Mind Institute is proud to be named aGreat Place to Work-Certified company! Our competitive compensation and benefits include medical insurance, 401(k) with match, flexible work schedules, paid parental leave, dependent care and discounted tickets and entertainment perks program.
+
+Responsibilities:
+Multi-site MRI and behavioral data harmonization, cleaning, and preprocessing
+Learning and implementing new statistical methods for intensive analysis of neuroimaging data
+Implementation, execution, and maintenance of fMRI imaging analysis pipelines
+Perform basic and advanced univariate and multivariate statistical analyses for projects and reports
+Develop graphs, reports, and presentations of project results
+Assist in preparing data to be shared with research collaborators
+Assist with data analysis for research projects and publications
+Independent and self-directed learning and skill improvement
+Qualifications:
+Bachelors or Master’s degree in computer science, neuroscience, engineering, mathematics, statistics or related areas is preferred
+Extensive programming experience in one or more open source languages (e.g., Python, R)
+Experience with neuroimaging analysis and proficiency with one or more packages (e.g. FreeSurfer, AFNI, FSL, Workbench or SPM) is a plus, but not required.
+A passion for the applying computational methods to understand clinical conditions.
+Strong interpersonal skills, as well as strong written and oral communication
+Ability to work in a fast-paced environment
+Ability to work as a member of a team as well as independently
+Passion for CMI mission
+Please upload your resume, Github profile and writing sample during the application process.
+
+The Child Mind Institute is an equal opportunity employer and does not discriminate in employment based on race, religion (including religious dress and grooming practices), color, sex/gender (including pregnancy, childbirth, breastfeeding or related medical conditions), sex stereotype, gender identity/gender expression/transgender (including whether or not you are transitioning or have transitioned) and sexual orientation; national origin (including language use restrictions and possession of a driver's license issued to persons unable to prove their presence in the united states is authorized under federal law [Vehicle Code section 12801.9]); ancestry, physical or mental disability, medical condition, genetic information/characteristics, marital status/registered domestic partner status, age (40 and over), sexual orientation, military or veteran status, or any other basis protected by federal, state or local law or ordinance or regulation.

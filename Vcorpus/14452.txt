@@ -1,0 +1,28 @@
+Hello,
+
+Â
+
+Position:ÂData Modeler
+
+Location:ÂChicago, ILÂ
+
+Duration:Â12+months
+
+Â
+
+REQUIRED SKILLS:
+5+ years of Data Modeling Experience
+Familiarity with modeling XML messages.
+Previous experience in a Capital Markets, FX, Trading environment is highly preferred
+Additional Skills & Qualifications:
+Specific knowledge of SWIFT messages would also be ideal. They should have knowledge around Oracle Database Management System (DMS), SQL, etc.
+ÂJob Description:
+Brad Frost is looking to add a Data Modeler to his team that is working on how Northern Trust is passing a new regulatory penalty that they have to roll out across their business trading, securities, and stock transactions through a vended software - publish, subscribe, & messaging.Â
+This person will also need to coordinate with the DBAs at Northern Trust who actually create the databases as our project team will not have direct access to all environments. In our setup, our Data Modeler provides instruction and communication to another DBA (who is part of the infrastructure group), and they are the one at the keyboard.
+They also must be familiar with modeling XML messages. If they have specific knowledge of SWIFT messages, that would be ideal.
+Performs data modeling, logical and physical database design based on a thorough knowledge of modeling techniques, the modeling tools available on the project, and the business functions of the subject system.
+Plans execute and maintain database capacity, backup and recovery, and disaster recovery plans.Â
+Plans execute backup-and-recovery tests and disaster-recovery tests.
+Thorough knowledge of the subject DBMS, DML (SQL), DDL, utilities, services, troubleshooting, architecture, syntax, etc.
+Oracle is our DBMS.
+Sufficient expertise with the host operating and network environments to completely provide all required functions and services including estimating and monitoring of all required hardware, coding, and execution of administration jobs, and monitoring and archiving backup files

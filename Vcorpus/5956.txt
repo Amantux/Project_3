@@ -1,0 +1,9 @@
+Coherent's Integrated Optical Systems business unit manufactures precision optics and optical assemblies for research, electronics manufacturing, and aerospace markets. We develop and employ unique process control software and data representation and processing algorithms in the fabrication, test and alignment of these complex optical components and assemblies. We are seeking a technical contributor to advance our capabilities in these domains. Examples of projects this role will address: 1) improve the ability of our existing software to fit multiple parameters describing corner case aspherics (x-ray imaging optics e.g.), 2) develop sensitivity analysis methods for novel surface types (Zernike polynomials, Q polynomials, etc), 3) analyze wavefront optimization schemes for freeform telescopes with multiple reflective and/or refractive optical elements, 4) develop data reduction schemes for new metrology instruments, 5) development non-piecewise linear polishing paths for CNC polishing methods in order to optimize polishing results, and 6) develop improved data stitching methods, to name a few. The role also spends some time doing manufacturing support
+
+through the setup of new data reduction data paths, and other occasional analysis and process configuration needs.
+
+Education and Work Experience:
+
+Masters or PhD in physics, optical engineering, applied mathematics, or a related field. Experience with C, C++, and/or C Sharp. Experience with matlab. Experience with optical metrology methods and cnc machine control is highly desirable.
+
+ Coherent, Inc is a company with headquarters located in Santa Clara, California, USA, with other sites located in the US, Europe, and Asi...

@@ -1,0 +1,61 @@
+Lead Data Scientist - Mohawk Group Inc.
+
+Location: New York, NY
+
+Full time permanent
+
+Mohawk (NASDAQ: MWK) is a rapidly growing, technology-enabled, consumer products company founded on the premise that if a company selling products was founded today, it would be created based on artificial intelligence and machine learning.
+
+We are reinventing how to rapidly and successfully identify new product opportunities by leveraging our proprietary software technology platform, AIMEE.
+
+As a Fullstack Team Lead you will be leading teams of developers to deliver a first-of-a-kind product utilizing the latest technologies. We use .NET Core on Azure and have a heavily distributed architecture using Functions, Kubernetes, Spark, Kafka and Hyperscale. We work in the rapidly changing space of eCommerce, stretching the limitations of technology on a daily-basis. We're a global group with talented teams working in New York, Seattle, Krakow, Lviv, Montreal and Tel Aviv.
+
+Responsibilities:
+
+Oversee machine learning and algorithmic development for an e-commerce engine that automates product identification, financial analysis, feature product feature analysis, inventory management, marketing ad spend, and sales for 23 incubated brands and 10 external SaaS clients
+
+Work with a team of 28 developers, data scientists, dev ops, and QA across 3 countries in an Agile development environment utilizing .Net, Python, SQL, XUnit, VSTS, Azure, AWS, and GCP
+
+Work with brand managers, and external stakeholders to create and enhance algorithmic e-commerce strategies
+
+Design and implement algorithms to tackle a wide variety of datasets using open source libraries, third party API's and in house developed algorithms
+
+Design the machine learning process to work in the context of a highly scalable cloud based distributed microservice architecture
+
+One current project is a contextual bandit approach using ML.Net to manage product prices and advertising
+
+Secondary current project is a retail product image identifier using TensorFlow and social media images
+
+Create a retail product feature analyzer that generates a list of desired product features using a custom NLP engine, Sharp NLP, and neural network implementation built on Microsoft CNTK
+
+Implement a product idea generator that combines web data with internal algorithms to identify retail product opportunities
+
+Create and deploy a GAAP compliant comparative income statement tool for human and bot-based brand managers to model and compare potential product cash flows
+
+Oversee the prototype, design and implementation of a massive web crawling framework
+
+Design algorithmic risk management engine to facilitate the rapid deployment of strategies while limiting capital and infrastructure risk
+
+Create interactive financial risk models based on various capital deployments
+
+Preferred Qualifications
+
+At least 7 years of proven experience as a Data Scientist, similar role or career progression.
+
+Solid Understanding of machine learning
+
+Knowledge of data management and visualization techniques
+
+A knack for statistical analysis and predictive modeling
+
+Experience working on forecasting
+
+Experience with signal processing and time series analysis
+
+Good knowledge of Python or R
+
+Knowledge and experience with SQL databases
+
+Excellent communication skills
+
+Degree in Computer Science, Math, Neuroscience or any related field.

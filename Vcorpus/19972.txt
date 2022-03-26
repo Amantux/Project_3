@@ -1,0 +1,15 @@
+Business Analyst-Market Data
+
+Our client, one of the largest financial services firms, is seeking a Business Analyst-Market Data
+
+Location: Jersey City, NJ
+
+Position Type: Contract
+
+Position Overview:
+
+The Olympus Markets Data Strategy team is building a next generation Data Fabric to solve the evolving Business, Analytical and Regulatory needs of Institutional Clients Group (ICG). The Fabric will bring together disparate data sources for the Global Markets & Institutional Clients organization and enable industry-leading analytics, client reporting, regulatory, surveillance, supervisory reporting(s) and data science solutions. One of the data sources - Market data will support Transaction Monitoring capability within the 1st Line of Defense (1LOD) to ensure appropriate risk-based global coverage of market manipulation and abuse behavior’s, complementing the 2nd Line of Defense (2LOD) Trade Surveillance function.
+
+Job Summary:
+
+The ideal candidate will have 10+ years of Financial Services experience as well as a deep background in dealing with Market data across asset classes like Equities, Rates, and FX etc. Experience implementing of Market data solutions and working with known Market Data vendors like Reuters, Bloomberg etc. is required. Kafka and Hadoop knowledge is a huge plus. The candidate will work closely with the product owner, other Business Analysts, Internal technology teams, and core developers. Strong analytical and stakeholder management skills are essential in order to be successful in this role.

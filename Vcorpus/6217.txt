@@ -1,0 +1,110 @@
+Read what people are saying about working here. 
+
+Job Description
+
+As a Data Scientist at Optimizely, you’ll be in charge of Stats Engine, the core statistics methodology behind all our experiments. You will be a member of the Machine Learning/Statistics team and work on the cutting edge of statistics, helping answer questions like:
+
+How can we safely employ multi-armed bandits in an A/B testing context?
+
+Are approximate counting methods compatible with conventional hypothesis testing methods?
+
+You’ll work with our product and engineering teams to build new statistics features for all of Optimizely’s products. You will get on customer calls to articulate how we maintain accuracy in our products as well as triage questions around statistical inference. You will educate internal and external stakeholders about core statistics concepts via webinars, speaking engagements, blog posts, and white papers. You will conduct original research and publish results in academic and industry conferences.
+
+Some of our public work:
+
+Papers
+
+Stats Engine White Paper
+
+Stats Engine Academic Paper
+
+Epoch Stats Engine White Paper
+
+Blog Posts
+
+Bayesian vs Frequentist Statistics
+
+Optimizely’s Stats Engine
+
+Stats Accelerator-Acceleration Under Time-Varying Signals
+
+Approximate Counting and Statistical Significance
+
+Conference Talks
+
+CODE @ MIT 2018: Acceleration of A/B/n Testing Under Time-Varying Signals
+
+CODE @ MIT 2016: A/B Testing in a Changing World
+
+INFORMS 2015: Can I Take a Peek? Continuous Monitoring of A/B Tests
+
+CODE @ MIT 2014: Can I Take a Peek? Continuous Monitoring of A/B Tests
+
+Qualifications
+
+PhD in Statistics or a closely related field, or 5+ years of equivalent industry experience in A/B testing and digital experimentation
+
+Strong research interest and experience with statistical inference. Especially: design of experiments, randomized controlled trials, sequential testing, robustness, and bayesian inference.
+
+Experience with Python and/or Java preferred.
+
+Some experience in math education such as teaching, teaching assistantships, consulting, or conference talks.
+
+Additional Information
+
+At Optimizely, we embody inclusion and embrace diversity. Optimizely is an equal opportunity employer and makes employment decisions on the basis of merit. Optimizely prohibits discrimination based on race, color, religion, sex, sexual identity, gender identity, marital status, veteran status, nationality, citizenship, age, disability, medical condition, pregnancy, or any other unlawful consideration. All your information will be kept confidential according to EEO guidelines.
+
+ 
+Job Description
+
+As a Data Scientist at Optimizely, you’ll be in charge of Stats Engine, the core statistics methodology behind all our experiments. You will be a member of the Machine Learning/Statistics team and work on the cutting edge of statistics, helping answer questions like:
+
+How can we safely employ multi-armed bandits in an A/B testing context?
+
+Are approximate counting methods compatible with conventional hypothesis testing methods?
+
+You’ll work with our product and engineering teams to build new statistics features for all of Optimizely’s products. You will get on customer calls to articulate how we maintain accuracy in our products as well as triage questions around statistical inference. You will educate internal and external stakeholders about core statistics concepts via webinars, speaking engagements, blog posts, and white papers. You will conduct original research and publish results in academic and industry conferences.
+
+Some of our public work:
+
+Papers
+
+Stats Engine White Paper
+
+Stats Engine Academic Paper
+
+Epoch Stats Engine White Paper
+
+Blog Posts
+
+Bayesian vs Frequentist Statistics
+
+Optimizely’s Stats Engine
+
+Stats Accelerator-Acceleration Under Time-Varying Signals
+
+Approximate Counting and Statistical Significance
+
+Conference Talks
+
+CODE @ MIT 2018: Acceleration of A/B/n Testing Under Time-Varying Signals
+
+CODE @ MIT 2016: A/B Testing in a Changing World
+
+INFORMS 2015: Can I Take a Peek? Continuous Monitoring of A/B Tests
+
+CODE @ MIT 2014: Can I Take a Peek? Continuous Monitoring of A/B Tests
+
+Qualifications
+
+PhD in Statistics or a closely related field, or 5+ years of equivalent industry experience in A/B testing and digital experimentation
+
+Strong research interest and experience with statistical inference. Especially: design of experiments, randomized controlled trials, sequential testing, robustness, and bayesian inference.
+
+Experience with Python and/or Java preferred.
+
+Some experience in math education such as teaching, teaching assistantships, consulting, or conference talks.
+
+Additional Information
+
+At Optimizely, we embody inclusion and embrace diversity. Optimizely is an equal opportunity employer and makes employment decisions on the basis of merit. Optimizely prohibits discrimination based on race, color, religion, sex, sexual identity, gender identity, marital status, veteran status, nationality, citizenship, age, disability, medical condition, pregnancy, or any other unlawful consideration. All your information will be kept confidential according to EEO guidelines.

@@ -1,0 +1,68 @@
+As the Technical Analyst, you will help transform our applications and build best-in-class digital capabilities for our customers. We are looking for bright, curious, tenacious, collaborative, customer obsessed leaders that enjoy working in a fast paced environment. Major responsibilities include collaborating with key stakeholders in the ideation process, elicitation of business and technical requirements, incident management, contributing to future direction and roadmaps, escalated support and product consulting, and creation and maintenance of documentation and supporting artifacts.
+
+While weve been named a best place to work, our proudest accomplishment comes from serving nearly 17 million AAA members. Through our commitment to service, growth and our people, CSAA Insurance Group will create AAA members for life by fulfilling our promise to be there when they need us.
+
+Why join us?
+Impact. Join us in reinventing CSAA Insurance Group, a AAA Insurer and deliver solutions across 23 states and the District of Columbia. Work and learn alongside your Team Members at start-up speed and agility to create real and meaningful change.
+Recognition. We offer a competitive total compensation package including base salary, both annual and long-term lucrative performance bonuses, benefits, and 401(k) Company match with additional discretionary contribution potential.
+Lifestyle. We do honorable work, and we practice our values: respect, integrity, teamwork, and service.
+What youve done:
+Performed research and elicited technical requirements for high to very high-complexity / substantial changes to capabilities.
+Helped drive backlog grooming, building of acceptance criteria, spring planning events, and release planning events.
+Drive and facilitate architecture and design meetings, grooming, and planning events.
+Effectively manage priorities, deliverables and timelines with little need for escalation.
+Develop and maintain strong working relationships and partnerships with key business systems stakeholders.
+Support development and delivery of features, fixes and releases.
+Communicate status and details of items to relevant stakeholders.
+Perform impact analysis for proposed changes and/or incidents impacting systems and/or business processes and supports identification of interim procedures if required.
+Researches and articulates expected behavior to stakeholders, peers and partners to facilitate incident management, feature development and/or process changes.
+Create and/or maintain reference materials, communication content, product specifications/business rules, business process diagrams and similar artifacts.
+Plan for and perform ad-hoc and structured testing activities as needed to support feature development, incident resolution, business inquiries and deployment activities.
+Perform data extracts and data analysis and is able to write SQL scripts (including UPDATE, INSERT, DELETE) and analyze queries.
+Act as SME to support business activities as needed.
+Possess deep technical knowledge of one or more key aspects of assigned application(s) and broad technical knowledge of other aspects, including overall system landscape, interfacing applications and functional capabilities.
+May craft and/or support creation of user stories and other artifacts to support delivery of a work item.
+What youll need to succeed:
+Effective decision-making skills, even under pressure and while lacking all of the desired information detail.
+Ability to communicate your ideas and solutions in simple language tailored to audience.
+Ability to adapt quickly to changing priorities, assignments, and roles.
+Experience working with applications in a hybrid environment of On-Premise, Cloud, and SaaS.
+Experience with highly transactional account and payment related websites.
+Experience supporting complex systems with significant integration points and external Third Party systems through APIs.
+Ability to work within shifting priorities and tight timelines.
+2+ years of analyst experience.
+Experience performing impact analysis.
+Experience working in an Agile environment.
+Job Tasks and Description:
+Receive/Solicit event and property tracking requests from business and product stakeholders
+Information can be provided in the form of wireframes, screenshots, or descriptions of new functionality
+Work with developers on implementation of requirements for event tracking plans
+Validation in test environments, and occasionally during deployments
+Work with product stakeholders to standardize reporting, create definitions, automate, provide more visibility for reporting, creation of JIRA intake process
+Create hard reports and satisfy ad-hoc requests for Club, product, and event metrics for stakeholder analysis
+Automating reports and creation of self-service reporting capability for ad-hoc requests across multiple platforms
+Identity management in Segment and Mixpanel
+Working to join the anonymous ID to the UserID in order to prevent double-counting
+Query Splunk reports for specific customer issues (or anomalous events)
+Build queries for dashboards in Databox, Tableau, MixPanel, Google Analytics, Microsoft Power BI
+Create JQL reporting in Mixpanel for custom data requests.
+Manage Amazon Redshift platform as the data repository for event tracking
+Manage Snowflake platform as the data repository for event tracking
+Responsible for SSO integration of all data and analytics platforms within Digital Hub
+Tools/Languages/Platforms used:
+GitHub, Segment, Jenkins, Mixpanel, Databox, Python, JQL (Mixpanels Javascript Query Language), Confluence/Jira, Postman, PostgreSQL, Splunk, Amazon Redshift, Snowflake, Google Analytics, Microsoft Power BI and Tableau
+CSAA Insurance Group offers many benefits, including:
+Medical, dental, vision, disability and life insurance coverage including benefits coverage for domestic partners. Company contributions into a Health Savings Account (HSA).
+401(k) plus company matching dollar for dollar up to 6% and a cash balance retirement program.
+Company paid employee assistance plan and health support programs.
+Award-winning wellness programs including free onsite fitness classes.
+Paid bonding leave for birthing and non-birthing parent and paid adoption leave.
+Two weeks paid military leave.
+Paid time off, plus ten paid holidays and 24 hours of paid time off to volunteer.
+Tuition reimbursement, self-service training, career development and mentorship opportunities.
+Be part of a community that works:
+At CSAA Insurance Group, we take pride in our values-based culture. Helping our employees lead enriched lives and satisfying careers is how we work. Our employees appreciate the integrity and inclusion that is evident throughout our everyday interactions. We respect the diverse range of perspectives, backgrounds and cultures of our teams, and join together when it comes to helping our members, community or one another.
+Headquartered in Walnut Creek, California, our community also works in Arizona, Colorado, Nevada, New Jersey and Oklahoma.
+Lets work together:
+
+We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

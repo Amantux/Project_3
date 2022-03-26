@@ -1,0 +1,24 @@
+DeepMap is a fast-growing startup company located in Palo Alto, California, in the heart of silicon valley. Our mission is to build revolutionary high definition mapping and localization services for self-driving cars. We have top-notch engineers from the most prominent universities and software companies and are well funded by top-ranked VCs. Business Insider ranked DeepMap as one of the top 17 startups launched in 2017 and one of the top 50 startups that will boom in 2018! You may read more details below:
+http://deepmap.ai
+http://www.businessinsider.com/top-hot-startups-to-launch-in-2017-7/#deepmap-wants-to-help-self-driving-cars-see-the-road-6
+http://www.businessinsider.com/50-startups-to-boom-in-2018-according-to-vcs-2017-11/#deepmap-special-maps-for-self-driving-cars-14
+Our backend and infrastructure team is looking for full-time software engineers at all experience levels. If you are an independent problem solver, have a strong drive to excel, and are looking for opportunities to make a big splash in the booming autonomous driving industry, this is the right place for you.
+
+Responsibilities:
+
+Design and develop internet service infrastructure software.
+Design and develop complex data processing pipelines in cloud.
+Improve infrastructure performance, scalability, and availability.
+Help automate and streamline operations and processes.
+Troubleshoot and resolve issues in both development and production environments.
+Requirements:
+B.S. in computer science or equivalent.
+Minimum 3 years of industry experience preferred.
+Good programming skills with Java, C++, Python, shell script, etc.
+Experience with big data technologies: Hadoop MapReduce, Spark, Kafka, Flink, NoSQL, relational database, etc.
+Experience with cloud platforms is plus: AWS, Microsoft Azure, Google Cloud, etc.
+Experience with building internet service automation pipeline is plus. Familiar with service build, deploy, and release process.
+Experience with GIS or map related technologies is plus.
+Experience with machine learning or computer vision algorithms is plus.
+Good communication skills and team player.
+At DeepMap, we cherish and celebrate every individual's difference. We are proud to be an equal opportunity employer and we are committed to equal employment opportunity regardless of race, color, religion, national origin, sex, sexual orientation, age, marital status, gender identity, veteran status, and disability, or another legally protected status. DeepMap will provide reasonable accommodation to employees who have protected disabilities consistent with local law. We will also consider qualified candidates regardless of criminal histories consistent with legal requirements. If you are unable to submit an application because of incompatible assistive technology or a disability, please let us know and we will make every effort to respond to your request for assistance as soon as possible.

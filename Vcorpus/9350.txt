@@ -1,0 +1,53 @@
+Who We Are
+
+Tonal – the world’s most intelligent fitness system – enables you to be your strongest by providing an effective fitness program tailored to you, your goals, and your schedule. Combining cutting-edge, all-in-one equipment and personalized video guidance, it’s like having a personal trainer, on demand, in the convenience of your home.
+
+At Tonal, we are applying our collective knowledge and creativity to reimagine fitness. We know firsthand that too many hurdles stand between each of us and our fitness goals. Drawing on decades of research and a diverse team of experts, we have created the most advanced strength training system available that makes working out more efficient, effective, and engaging.
+
+We're passionate about building products that transform people's lives.
+
+What You Will Do
+
+Provide expert input on architecture of Tonal's data collection, analytics, infrastructure, and learning systems
+
+Architect and build our AI and machine learning systems
+
+Identify innovative opportunities for data-driven features
+
+Improve real-time rep and set detection from time-series data
+
+Develop algorithm to recommended weights to users over time
+
+Use accelerometers and gyroscopes to detect users' weightlifting form
+
+Analyze user behavior and engagement to inform feature roadmap and marketing
+
+Implement algorithms in conjunction with embedded, front-end, and back-end teams
+
+Who You Are
+
+Advanced degree in mathematical field or equivalent experience
+
+5+ years data science experience
+
+Passion for health, fitness, and/or strength training
+
+Knowledge of machine learning, filtering, and cleansing techniques
+
+Strong knowledge of Python and one of Java, C/C++, Kotlin, or Go
+
+Working knowledge of backend software development, including RESTful APIs and databases
+
+Team player with high integrity
+
+Open to feedback and constantly striving to improve
+
+High degree of self awareness
+
+Extra Credit
+
+Experience with gyros and accelerometers
+
+Experience with computer vision
+
+Experience as a software engineer

@@ -1,0 +1,39 @@
+Homesite Insurance was founded in 1997 and was one of the first companies to enable customers to purchase home insurance directly online, during a single visit. Since then, we've continued to innovate rapidly to meet the needs of our customers and their changing expectations.
+
+One thing that's stayed the same since our founding: our commitment to our customers, partners and employees.
+
+Join us on our journey as we continue to grow into a powerful contender in the field of insurance.
+
+We’re looking for a Cloud Data Engineer to help us transform our data systems and architecture on Public Cloud infrastructure, to deliver more analytical and business value from a wide range of data sources. You will work with the team to design and develop high-performance, resilient, automated data pipelines, and data transformation applications, adapting technologies for ingesting, transforming, classifying, cleansing and exposing data using creative design to meet objectives. Your broad experience with data management technologies will enable you to match the right technologies to the required schemas and workloads. We rely heavily on Spark, PySpark and related technologies, and our stack makes use of Graph DB, NoSQL and columnar formats, and will continue to evolve. We expect you to lead by learning.
+
+Responsibilities:
+
+We’re looking for an experienced data engineer to help us:
+Build and Maintain serverless data ingestion and refresh pipelines in terabyte scale using AWS cloud services – Amazon Glue, PySpark and Python, Amazon Redshift, Amazon S3, Amazon Athena, DynamoDB, and others
+Incorporate new data sources from external vendors using streams, flat files, APIs and databases.
+Maintain and provide support for the existing data pipelines using Python, Glue, Spark, and SQL
+Work to develop and enhance the database architecture of the new analytic data environment that includes recommending optimal choices between relational, graph, columnar, and document databases based on requirement
+Identify and deploy appropriate file formats for data ingestion into various storage and/or compute services via Glue for multiple use cases
+Develop real-time/near real-time data ingestion from web and web service logs from Splunk
+Implement and use machine learning based data wrangling tools like Trifacta to cleanse and reshape 3rd party data to make suitable for use.
+Develop and implement tests to ensure data quality across all integrated data sources.
+Serve as internal subject matter expert and coach to train team members in the use of distributed computing frameworks for data analysis and modeling including AWS services and Apache projects
+Required Experience and Skills:
+All experience is expected to be hands-on. Please do not include exposure via team engagement.
+Master’s degree in Computer Science, Engineering, or equivalent work experience
+Four years working with datasets with hundreds of millions of records or objects
+Expert level programming experience in Python and SQL
+Two years working with Spark or other distributed computing frameworks (e.g.: Hadoop, Cloudera)
+Four years with relational databases (e.g.: PostgreSQL Microsoft SQL Server, MySQL, Oracle)
+Two years with AWS services including S3, Lambda, Redshift, S3
+Some knowledge of AWS services: DynamoDB, StepFunctions, CloudFormation
+Experience with contemporary data file formats like Apache Parquet, Avro
+Experience analyzing data for data quality and supporting the use of data in an enterprise setting.
+Desired Experience:
+Streaming technologies (e.g.: Amazon Kinesis, Kafka)
+Google Cloud
+Columnar databases (e.g.: RedShift)
+Graph Database experience (e.g.: Neo4j, Neptune)
+Distributed SQL query engines (e.g.: Athena, Redshift Spectrum, Presto)
+Experience with caching and search engines (e.g.: ElasticSearch, Redis)
+ML experience, especially with Amazon Sagemaker

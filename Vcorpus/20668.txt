@@ -1,0 +1,52 @@
+Description
+
+
+Do you want your voice heard and your actions to count?
+
+Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), the 5th largest financial group in the world (as ranked by S&P Global, April 2018). In the Americas, were 14,000 colleagues, striving to make a difference for every client, organization, and community we serve. We stand for our values, developing positive relationships built on integrity and respect. Its part of our culture to put people first, listen to new and diverse ideas and collaborate toward greater innovation, speed and agility. Were a team that accepts responsibility for the future by asking the tough questions and owning the solutions. Join MUFG and be empowered to make your voice heard and your actions count.
+
+Job Summary
+
+We're seeking a Data Engineer to support the Core Banking Transformation (CBT) Program. This is a multi-year effort to modernize our deposits platform with a digitally-led and simplified ecosystem for consumer, small business, commercial, and transaction banking to deliver exceptional customer experience.
+
+As the Data Engineer, you need to be collaborative and passionate about solving complex data engineering problems. You will be responsible for the design, build, implementation, monitoring, and management of the MUFG Core Banking data services gateway that provides the foundations for the technology modernization and digital transformation.
+
+You will focus on building the firms next-generation data environment and be a key player in creating a data services platform that drives real-time decision-making in service of our customers. You will develop, build, and operate the platform using DevSecOps and System Reliability Engineering (SRE) methods.
+
+Major Responsibilities:
+Gather and process large, complex, raw data sets at scale.
+Build processes to support data transformation, data structures, metadata, dependency, and workload management.
+Build the infrastructure required for optimal extraction, transformation, and loading of data.
+Partner with risk management and security teams to identify the standards and lead the design, build, and rollout of secured and compliant data services.
+Embrace Infrastructure-as-Code, and use Continuous Integration / Continuous Delivery Pipelines to handle the full data service lifecycle.
+Write infrastructure, application, and data automated test cases and participate in code review sessions.
+Provide Level 3 support for troubleshooting and services restoration in Production.
+
+Qualifications
+
+
+The right candidate will have:
+8+ years of technical experience with data services solution design and implementation in a cloud-native environment, possessing expert-level skills in four or more of the following areas:
+Data field encryption, tokenization and metadata management
+SQL and NoSQL databases, including Postgres, DynamoDB etc.
+Experience with data pipeline and workflow tools: Wherescape Streaming, Wherescape RED, StreamSets Data Collector etc.
+Experience with stream-processing systems: Kafka, AWS Kinesis, Apache Storm, Spark-Streaming, etc.
+History of manipulating, processing and extracting value from large disconnected datasets with ETL and Data engineering
+Know-how of SQL, Informatica PowerCenter or similar.
+Experience with secure cloud services for data management and integration
+Developing automation with python, bash, java, powershell or similar languages
+Familiar with DevOps toolchain, i.e. BitBucket, JIRA, Jenkins Pipeline, Artifactory or Nexus, and experienced in deploying n-tier application stacks in AWS
+Excellent data and system analysis, data mapping, and data profiling skills
+Good understanding of cloud-native application models and patterns
+Able to work alternative coverage schedules when necessary
+Ability to find a solution with limited guidance
+Bachelor's degree in computer science or related field, or equivalent professional experience
+Desired Knowledge, Skills, and Experience:
+
+Experience with container orchestration technologies such as Docker, Kubernetes, Openshift
+AWS professional level certifications is preferred but not required
+The above statements are intended to describe the general nature and level of the work being performed. They are not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified.
+
+We are proud to be an Equal Opportunity / Affirmative Action Employer and committed to leveraging the diverse backgrounds, perspectives, and experience of our workforce to create opportunities for our colleagues and our business. We do not discriminate in employment decisions on the basis of any protected category.
+
+A conviction is not an absolute bar to employment. Factors such as the age of the offense, evidence of rehabilitation, seriousness of violation, and job relatedness are considered in all employment decisions. Additionally, its the banks policy to only inquire into a candidates criminal history after an offer has been made. Federal law prohibits banks from employing individuals who have been convicted of, or received a pretrial diversion for, certain offenses.

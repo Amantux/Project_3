@@ -1,0 +1,121 @@
+Read what people are saying about working here. 
+
+Do you want to be at the leading edge of the big data transformation of a billion dollar media company? Do you want to help cultivate a petabyte-scale data platform and develop innovative new data services that will lead in the new era of publishing?
+
+Hearst Magazine Media is seeking a Data Science Lead to join our Pattern & Shape initiative, a new, innovative B2B insights project that will leverage Hearst first party data, 3rd party partner data and client data to generate disruptive insights for our advertising clients, initially serving the fashion and luxury verticals. With leading U.S. print and digital brands like Harper’s BAZAAR, Elle, Esquire and Marie Claire, we benefit from a global leadership position in fashion and luxury, which we will leverage to provide a disruptive data and insights to better inform the media and marketing efforts of our advertising partners.
+
+The Hearst Corporation is one of the nation's largest diversified media and information companies. Its major interests include magazine, newspaper and business publishing, cable networks, television and radio broadcasting, Internet businesses, TV production and distribution, newspaper features distribution, business information and real estate.
+
+As a member of the Pattern & Shape team, this role will be responsible for the development of scalable machine learning and predictive models . The Associate will be working with AWS (S3, Kinesis, EC2, Redshift, Machine Learning Suite, Spark ML, etc.).
+
+Key Responsibilities:
+
+ Development of Machine Learning/Statistical Models and Algorithms
+
+ Working with business units to translate business problems to actionable tools, insights and models
+
+ Understanding ETL process and working with it to transform data to a form that is usable by models leveraging Relational databases, Document Databases, Key-Value DBs, Timeseries databases, etc.
+
+ Build automated analytics reporting in response to needs from stakeholders across the Hearst businesses
+
+ Experiment with emerging technologies related to Big Data initiatives for the Hearst Data Warehouse platform
+
+ Ownership of the various components of Data Science Life cycle: Data Wrangling, Feature Engineering, Data Visualization (discovery), Model Generation
+
+Qualifications and Experience:
+
+ Experience solving problems using statistical and quantitative tools
+
+ Masters, PhD, or equivalent experience in a quantitative field (e.g. Computer Science, Statistics, Economics, Physics, Mathematics, Operations Research or other quantitative discipline), or equivalent
+
+ Prior exposure to big data platforms a plus e.g. AWS cloud (S3, EC2, EMR, Redshift,etc.) or Cloudera/Hadoop, or Massively Parallelized DB and/or implemented machine learning / modeling in real world situation
+
+ Expertise with one or more of: Python, Python ML Libraries, R, Spark, Scala, Mallet, VW, Weka, GraphLab, Scalable ML, TensorFlow, Deep Learning or other ML libraries and tools
+
+ Machine Learning or Modelling Experience in one or more of the following: NLP, Topic Modelling, Image Recognition, Deep Learning, Time Series, Logistic Regression, Random Forest, Neural Nets (RNN, CNN), AE, Probabilistic Models: GMM, Bayes NP, RBM, Ensemble Models, Decision Trees, Boosting, Reinforcement Learning, Optimization
+
+ Team player who wants to both teach others and learn from others
+
+ Passionate about Data, Machine Learning and Engineering
+
+ Strong interest in solving business problems
+
+ Experience architecting and supporting highly available and highly scalable infrastructure
+
+ Experience using relational databases (postgres, mysql and/or Redshift)
+
+Desired Skills:
+
+ Ability to troubleshoot and debug production issues under pressure
+
+ Experience with running Python applications at scale
+
+ Experience with PostgreSQL, Redshift
+
+ Experience with Big Data tech such as Hadoop, Pig, Spark, Scala, etc.
+
+ Self-¬starter who is excited about technology
+
+ Team player who wants to both teach others and learn from others
+
+ 
+
+Do you want to be at the leading edge of the big data transformation of a billion dollar media company? Do you want to help cultivate a petabyte-scale data platform and develop innovative new data services that will lead in the new era of publishing?
+
+Hearst Magazine Media is seeking a Data Science Lead to join our Pattern & Shape initiative, a new, innovative B2B insights project that will leverage Hearst first party data, 3rd party partner data and client data to generate disruptive insights for our advertising clients, initially serving the fashion and luxury verticals. With leading U.S. print and digital brands like Harper’s BAZAAR, Elle, Esquire and Marie Claire, we benefit from a global leadership position in fashion and luxury, which we will leverage to provide a disruptive data and insights to better inform the media and marketing efforts of our advertising partners.
+
+The Hearst Corporation is one of the nation's largest diversified media and information companies. Its major interests include magazine, newspaper and business publishing, cable networks, television and radio broadcasting, Internet businesses, TV production and distribution, newspaper features distribution, business information and real estate.
+
+As a member of the Pattern & Shape team, this role will be responsible for the development of scalable machine learning and predictive models . The Associate will be working with AWS (S3, Kinesis, EC2, Redshift, Machine Learning Suite, Spark ML, etc.).
+
+Key Responsibilities:
+
+ Development of Machine Learning/Statistical Models and Algorithms
+
+ Working with business units to translate business problems to actionable tools, insights and models
+
+ Understanding ETL process and working with it to transform data to a form that is usable by models leveraging Relational databases, Document Databases, Key-Value DBs, Timeseries databases, etc.
+
+ Build automated analytics reporting in response to needs from stakeholders across the Hearst businesses
+
+ Experiment with emerging technologies related to Big Data initiatives for the Hearst Data Warehouse platform
+
+ Ownership of the various components of Data Science Life cycle: Data Wrangling, Feature Engineering, Data Visualization (discovery), Model Generation
+
+Qualifications and Experience:
+
+ Experience solving problems using statistical and quantitative tools
+
+ Masters, PhD, or equivalent experience in a quantitative field (e.g. Computer Science, Statistics, Economics, Physics, Mathematics, Operations Research or other quantitative discipline), or equivalent
+
+ Prior exposure to big data platforms a plus e.g. AWS cloud (S3, EC2, EMR, Redshift,etc.) or Cloudera/Hadoop, or Massively Parallelized DB and/or implemented machine learning / modeling in real world situation
+
+ Expertise with one or more of: Python, Python ML Libraries, R, Spark, Scala, Mallet, VW, Weka, GraphLab, Scalable ML, TensorFlow, Deep Learning or other ML libraries and tools
+
+ Machine Learning or Modelling Experience in one or more of the following: NLP, Topic Modelling, Image Recognition, Deep Learning, Time Series, Logistic Regression, Random Forest, Neural Nets (RNN, CNN), AE, Probabilistic Models: GMM, Bayes NP, RBM, Ensemble Models, Decision Trees, Boosting, Reinforcement Learning, Optimization
+
+ Team player who wants to both teach others and learn from others
+
+ Passionate about Data, Machine Learning and Engineering
+
+ Strong interest in solving business problems
+
+ Experience architecting and supporting highly available and highly scalable infrastructure
+
+ Experience using relational databases (postgres, mysql and/or Redshift)
+
+Desired Skills:
+
+ Ability to troubleshoot and debug production issues under pressure
+
+ Experience with running Python applications at scale
+
+ Experience with PostgreSQL, Redshift
+
+ Experience with Big Data tech such as Hadoop, Pig, Spark, Scala, etc.
+
+ Self-¬starter who is excited about technology
+
+ Team player who wants to both teach others and learn from others
+
+ Like founder William Randolph Hearst's castle, The Hearst Corporation is sprawling. Through  Hearst Newspapers, the company owns some 15 ...

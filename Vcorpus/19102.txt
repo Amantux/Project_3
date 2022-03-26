@@ -1,0 +1,54 @@
+Sensor Product Engineer / Senior Engineer
+
+Location: Sunnyvale CA
+
+Position Summary
+
+NextNav is launching a groundbreaking location service for smartphones, IOT, and other devices – an ability to determine floor level altitude service across the country – a capability that does not exist at scale anywhere today! No longer constrained by legacy “flat earth” technologies, applications and users will be able to determine floor-level altitude, which is essential for navigation, user context and relevancy and many other applications that are used indoors. NextNav’s is the highest precision Z-Axis solution proven in the marketplace today and a person joining this team will have the ability to define the space.
+
+This position will consist of defining the guidelines for OEMs and developers to test the quality and reliability of sensors to be used as part of the NextNav Z-axis solution. This position involves validating vendor specifications with performance data, developing metrics to measure stability, and interacting with sensor manufacturers regarding their product line.
+
+Responsibilities
+
+·Work with systems engineering team to define guidelines and specifications for sensor manufacturers and OEMs to achieve high accuracy Z-solution.
+
+·Work closely and provide feedback with OEMs and sensor manufacturers to ensure quality metrics are being met.
+
+·Process and analyze sensor data on a variety of platforms, including IOT devices, smartphones, evaluation kits, etc.
+
+·Develop algorithms to improve accuracy of altitude system.
+
+·Develop strong domain expertise with current and next-generation sensor product lines and their performances under a wide range of conditions.
+
+Desired Skills& Experience
+
+Required:
+
+·Bachelor's degree with 2-3 years’ experience, orMaster's/PhDin engineering disciplines such as mechanical engineering, electrical engineering, or sciences such as mathematics, statistics, computer science, physics, or another closely related field.
+
+·Hands-on experience in a lab/field environment with data collection.
+
+·Proficiency in one or more of the following languages: Python, R, MatLab, SQL, etc.
+
+·Strong analytical skills, with a solid foundation in statistics and data processing, including data reduction, regression, automation, and visualization.
+
+·Ability to work independently and collaboratively across multiple departments, including hardware and software.
+
+·Strong written and oral communication skills, with the ability to communicate clearly and effectively across teams.
+
+Preferred:
+
+·Strong scientific coding skills, including expertise in one or more of the following: Python, R, MatLab, SQL, etc. Expertise with object-oriented languages such as Java or C++ a bonus.
+Some experience in previous product engineering role, with track record of proven results.
+Familiarity with technology standards such as 3GPP and scientific standards bodies such as NIST.
+·Experience with ceramic and MEMS-based sensors, including interfacing, conditioning, calibration, and data collection.
+
+·Ability to collaborate with and support external customers/partners.
+
+Physical Demands
+
+·Long periods of sitting.
+
+Work Environment
+
+·Office environment, some minor travel to visit business customers/partners.

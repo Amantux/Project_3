@@ -1,0 +1,56 @@
+Principal Machine Learning Engineer
+
+Cloud Solutions | US Austin Office
+
+About the company:
+
+In today's highly connected digital world, understanding, managing and securing the identity of individuals and things is essential to safety and success of both businesses and their customers. Billions of people connect from anywhere, use a wide variety of devices and expect a seamless yet secure experience.
+
+The ForgeRock mission is to provide the most simple and comprehensive Identity and Access Management Platform to help our customers deepen their relationships with their consumers and improve the productivity and connectivity of their employees and partners. Our identity solution enables great digital experiences and is embedded with a rich set of security, privacy and consent features. We deliver our platform through both cloud services and on-premises software.
+
+Our customers are some of the biggest companies, organizations, and even countries in the world. On any given day, it's likely that the ForgeRock Identity Platform helped keep your data safe, gave you access to stuff, and supported trusted relationships between you, companies and the devices you were using.
+
+ForgeRock is headquartered in San Francisco, but we are a global company with offices in the following cities: Vancouver, WA; Austin, TX; Munich, Germany; London & Bristol, UK; Grenoble & Paris, FR; Oslo, NO; Singapore and Sydney, Australia. Please read more about us at forgerock.com or follow ForgeRock on Twitter at http://www.twitter.com/forgerock.
+
+The Role:
+
+We are looking for a highly motivated,Principal Machine Learning Engineer to build out the next generation Identity platform. This role requires someone to develop the technology and platform for data processing, feature engineering and analysis to propel company transformation into a data insight driven organization. Work with peers in cloud engineering, SRE to drive data driven insight through the enterprise. Work on complex, high scale machine learning models in production and develop cutting edge algorithms that are deployed directly to customers in real-time. If you are self-driven, passionate about learning, work well in a collaborative environment and have effective communication skills, then we'd love to hear from you!
+
+Responsibilities:
+Provide architectural leadership; conduct regular reviews of project work and peer review.
+Help in development and scaling of data pipelines, feature pipelines and data lakes to support large scale processing of millions of data events.
+Develop an industry view of analytics and design-driven problem solving. Use academic and competitor research to understand recent advances and best practices and inform our approach to developing solutions.
+Required Skills and Qualifications:
+Masters or PhD degree in computer science, mathematics, statistics, physics, or related quantitative field
+Ten years of progressive experience in a data engineering or quantitative role.
+Business acumen to work with business partners and understand their domains, processes, and issues to identify strategies to optimize and innovate
+Ability to leverage data visualizations to highlight insights to business partners and make a business case for a recommended action or innovation opportunity
+Proficient in the language of statistics with an advanced understanding of mathematical statistics, including combinatorics, probability, common discrete and continuous distributions, univariate and multivariate distributions, conditional probability, random variables, expectation, variance, convergence, estimation (bias, MSE, consistency, sufficiency, maximum likelihood, moments, etc.), hypothesis testing, and confidence intervals.
+Ability to collaborate effectively with Data Scientists, product management, engineering, UI/UX
+Theoretical and practical understanding of a range of machine learning techniques including unsupervised learning (e.g. clustering, outlier detection, PCA, ICA, NNMF, SVD, etc.), supervised learning (e.g., regression techniques, naive bayes, support vector machines, LDA, decision trees, neural networks, etc.), reinforcement learning (e.g., Q-learning, neural networks, etc.), and meta-methods (e.g., boosting, bagging)
+Written communication skills to engage partners, document methodology and results, and publish research
+Organizational and project management skills for overall project planning and task management
+Solid understanding of (1) data structures, (2) sequential algorithms, (3) distributed algorithms, (4) runtime and space complexity
+Knowledge of information technology integration and deployment patterns to design and implement solutions
+Advanced proficiency in one of the programming languages like Java, Scala or Python.
+Advanced proficiency in data processing frameworks like Pandas.
+Advanced proficiency in TensorFlow, Keras, Cloud based ML frameworks, external ML libraries and NLP libraries.
+Nice to haves:
+Project and/or program management experience.
+Experience in representing company in International ML conferences.
+Proficiency in cloud and ML deployment strategies.
+Docker, Kubernetes and VM experience
+Life at ForgeRock:
+
+We believe in and facilitate a flexible, collaborative work environment. We've grown enormously, but remain true to the innovative, can-do startup values that got us here. Most important of all, we keep hiring talented, smart, fun, and genuinely nice people because that's who we want to succeed with every day. Below are just a few of the great things we have to offer at ForgeRock:
+A great team of smart, fun and genuinely nice individuals.
+Awesome company culture focused around providing a flexible and collaborative work environment
+Regular office bonding events, from lunches and happy hours to group offsites and hack-days
+Well-stocked fridges, whether you're hungry or thirsty
+Competitive benefits and perks
+We're Mac-friendly!
+Generous employee referral bonus program
+Amazing offices across the globe San Francisco HQ; Vancouver, WA; Austin, TX; Munich, Germany; London & Bristol, UK; Grenoble & Paris, FR; Oslo, NO; Singapore, Australia & counting!
+ForgeRock is the collective sum of all our individual experiences, backgrounds and influences and we pride ourselves in growing and learning together. We are committed to building an inclusive and diverse environment where everyone's individuality is respected and everyone has an Identity. In recruiting for new colleagues, we welcome the unique contributions you can bring and encourage you to be your best self.
+
+ForgeRock is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex including sexual orientation and gender identity, national origin, disability, protected Veteran Status, or any other characteristic protected by applicable federal, state, or local law.

@@ -1,0 +1,38 @@
+Data Engineer
+9920
+Scottsdale,
+3/27/2019 1:46:38 PM
+
+Application Development
+Contractor - W2
+
+Job Description
+Data Engineer / Lead
+
+4-5 years of experience in ETL, SQL, Python, Data Management and Spark and strong fundamentals in distributed environments
+
+Real project implementations with Big Data technologies based on Spark
+
+Experience working on Serverless technologies
+
+Experience implementing NoSQL technologies – Mongo or Cassandra
+
+Experience with AWS cloud services: Lambda, S3, Glue, Redshift, and Athena, or their open source equivalent (Zeppelin, Presto, etc)
+
+Data storage formats – Parquet, JSON, AVRO etc.
+
+Experience with real-time data sources and message ingestion for processing by filtering, aggregating, and preparing the data for analysis using technologies such as Spark Streaming and Kafka, AWS Kinesis, Firehose etc.
+
+Experience with data pipelining
+
+Understanding of best practices within the development process
+
+Build processes supporting data transformation, data structures, metadata, dependency and workload management
+
+CI/CD and DevOps tools such as BitBucket/Git, Bamboo, and Maven
+
+AWS technologies – Cloudwatch, CloudFormation, Security (IAM)
+
+AWS certification
+
+Job Requirements

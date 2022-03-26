@@ -1,0 +1,89 @@
+Job Description:
+
+Summary:
+
+The Sr. Analytics Engineer is responsible for delivery of software modeling and data science solutions. This role will lead the design, development and operationalization of state-of-the-art machine learning based solutions. Assist or conduct problem studies leading to recommendations for upgrading/improving existing equipment in field or lab environment. Performs product-testing functions in a test lab facility and/or field location.
+
+Job Duties/Responsibilities
+
+Serve as chief architect for data analytics and machine learning
+
+Perform architecture design and implementation of IoT and Big Data
+
+Develop highly scalable and extensible Big Data platforms which enable collection, storage, modeling, and analysis of massive data sets including those from IoT and streaming data
+
+Effectively communicate complex technical concepts to non-technical business and executive leaders
+
+Assist with scoping, pricing, architecting, and selling large project engagements
+
+Responsibility for coordinating engineering work assignments and making recommendations on technical application developed by other professional personnel or consultants.
+
+Provides guidance and training to less experienced staff.
+
+As a specialist, conducts special, complex and advanced level studies
+
+Job Requirements:
+
+Skills/Knowledge
+
+Advanced expertise in data analytics and machine learning
+
+Experience in Matlab Simulink
+
+Experience in physics modeling
+
+Demonstrated experience of architecting and implementing IoT architecture and analytical systems in various project scenarios
+
+Hands-on experience with cloud platform technologies: Microsoft Azure IoT / Analytics Suite
+
+Streaming data tools and techniques such as Kafka, Azure Streaming Analytics, AWS Kinesis
+
+Experience with cloud gateways, queues, messaging hubs such as Azure Event Hub, Azure IoT Hub, MQTT, XMPP, CoAP
+
+Engineering and/or software development experience and demonstrable architecture experience at enterprise scale
+
+Prior technology consulting experience desired
+
+Experience in architecture and implementation of large and highly complex projects
+
+History of working successfully with cross-functional engineering teams
+
+Experience with Big Data platforms e.g. Azure DW, SQL PDW, Cloudera, Hortonworks
+
+Visualization experience: PowerBI, Tableau
+
+Big Data Analytic frameworks and query tools such as: HDINsight, Spark, Storm, Hive, Impala
+
+ETL (Extract-Transform-Load) tools such as Microscoft SSIS, Azure Data Factory, Pentaho PDI or Talend or Informatica; also experience with ELT
+
+Continuous delivery and deployment using Agile Methodologies.
+
+Data Warehouse and DataMart design and implementation
+
+NoSQL environments such as Cosmos, MongoDB, Cassandra & Blob Storage
+
+Data modeling of relational and dimensional databases
+
+Metadata management, data lineage, data governance, especially as related to Big Data
+
+Structured, Unstructured, Semi-Structured Data techniques and processes
+
+Machine Learning (R, Scala, Python)
+
+Education
+
+Bachelor's degree in a technical field such as Computer Science, Mathematics, Physics, Engineering. Master's degree or higher preferred
+
+Experience
+
+10+ years with engineering discipline
+
+5+ years with reliability analytics
+
+FMECA / FMEA
+
+Reliability, availability and maintainability (RAM) analysis
+
+Life data analysis
+
+Reliability predictions

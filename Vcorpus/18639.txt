@@ -1,0 +1,65 @@
+Current employees and contingent workers click here to apply and search by the Job Posting Title.
+iHeartMedia
+
+Job Summary:
+
+iHeartMedia is the number one audio company in the United States, reaching nine out of 10 Americans every month – and with its quarter of a billion monthly listeners, has a greater reach than any other media company in the U.S. The company’s leadership position in audio extends across multiple platforms including 850 live broadcast stations; streaming music, radio and on demand via its iHeartRadio digital service available across more than 250 platforms and 2,000 devices including smart speakers, digital auto dashes, tablets, wearables, smartphones, virtual assistants, TVs and gaming consoles; through its influencers; social; branded iconic live music events; and podcasts as the #1 commercial podcast publisher globally. iHeartMedia also leads the audio industry in analytics and attribution technology for its marketing partners, using data from its massive consumer base.
+
+The Software Engineer, AdTech Traffic Tools will design, develop, test and maintain software tools, applications, APIs, processes and solution architectures to support the implementation of the next generation advertising platform. The successful execution of this role will combine passion for technical innovation, quick prototyping skills, rapid iteration and delivery and full accountability for the quality, availability and performance of applications.
+
+Responsibilities:
+Support the implementation and contribute to the global enterprise vision for our advertising systems as well as related systems and third-party services
+Build and Maintain microservices for functionality such as radio content management, inventory and scheduling, and billing
+Contribute to make/buy decisions and vendor selection activities
+Manage the end to end lifecycle of a product / service (Development, Test, Deploy, Support)
+Collaborate with technical and operational peers across iHeartMedia to ensure that our technical direction and approach aligns vertically throughout the technology stack
+Keep abreast of industry standards and ensure we are driving those that are important to us and aligned with others as appropriate
+Ensure high levels of operational discipline and high availability for advertising systems
+Perpetuate a data-driven culture with high standards of operational excellence and continuous improvement
+Decompose and modernize existing iHeart applications into microservices in cloud-based environments
+Build solutions with the following characteristics:
+Microservices design
+Real-time, API driven communications
+Exposing production-grade metrics
+Using Reactive Manifesto principles
+12-Factor app principles
+Continuous Delivery principles
+Test Driven Development / Behavior Driven Development principles
+Qualifications:
+Able to work individually and with a distributed team
+Experience in an agile development environment (Scrum or Kanban)
+Required experience with one or more of the following sets of technologies:
+Java 8 / Spring / Spring Boot, JUnit / TestNG
+Python / Flask / Celery, Unittest
+Ruby / Hanami / Rails, test/unit / Rspec
+NodeJS / Express, Jasmine
+JavaScript / Typescript / AngularJS, Jasmine / Karma / Protractor
+MySQL / MariaDB / Postgres
+Jira / Rally / Pivotal Tracker / Trello
+AWS / Google Cloud / Azure / OpenStack
+Git
+Cassandra / MongoDB
+Chef / Ansible, Jenkins, Elasticsearch / Splunk
+Consul, Vault, Vagrant
+RabbitMQ, Kafka
+Swagger / REST Docs / RAML
+Serverless / Lambda / Funktion
+Education and Experience:
+Bachelor’s in Computer Science or a related technical field required
+3+ years experience delivering software in an agile software organization
+3+ years using cloud IaaS or PaaS products
+3+ years coding and delivering high quality software as a developer
+Demonstrated experience building distributed systems, with intuitive web-based UI, and ability to design rules-based business logic using NoSQL databases
+Location
+
+San Antonio, TX: 20880 Stone Oak Parkway, 78258
+
+Position Type
+
+Regular
+
+The Company is an equal opportunity employer and will not tolerate discrimination in employment on the basis of race, color, age, sex, sexual orientation, gender identity or expression, religion, disability, ethnicity, national origin, marital status, protected veteran status, genetic information, or any other legally protected classification or status.
+
+Our organization participates in E-Verify. Click here to learn about E-Verify.
+
+Current employees and contingent workers click here to apply and search by the Job Posting Title.

@@ -1,0 +1,71 @@
+Read what people are saying about working here. 
+
+At Operations strategy and Analytics, we are studying, simulating, and modeling to enable data as a key driver toward better understanding and improving overall customer experience through better servicing and lowering cost to serve.
+
+We are looking for a Data Scientist to join our team who is technically proficient in Speech and Natural Language Processing (NLP). In this role, he/she will lead a range of data analytics efforts related to intelligent call routing, speech to text analytics and deriving insights from customer interactions with emphasis on improving customer experience and driving adoption of self-service.
+
+This position will perform deep dive analysis utilizing machine learning techniques discovering patterns and root causes. He /She will analyze and evaluate the quality of structured and unstructured data used for model training and testing paying attention to details.
+
+The position is a motivated self-starter with a passion for supervised and unsupervised learning techniques that will mine unstructured data . ex- reviews, chats, customer calls transformed to text etc. The role requires a thorough understanding of R and python packages on sentiment evaluation and will be responsible for model development from start to finish including deployment and monitoring.
+
+The Data Scientist will collaborate with team members and communicate model insights to a diverse audience with effective presentation and visualizations.
+
+Key Responsibilities:
+
+80% - Model Development, Validation and Documentation
+
+Develop supervised and unsupervised learning models from start to finish including data gathering, scrubbing and mining.
+
+Validate models, evaluate stability and test alternative approaches to increase prediction. Write up detailed validation reports which shows the effective challenge of algorithm design, assumptions made, theory used
+
+Establish test and learn processes to increase model performance over time.
+
+Document model in detail in accordance with Model Risk Management Policies and Procedures
+
+Work with internal and external parties to have model validated and approved by the Model Risk management committee
+
+Present model results to senior management.
+
+Perform on-going model monitoring and model testing and update the developed model as required
+
+20% - Adhoc analysis
+
+Respond to requests for data and analytics needed by senior management team
+
+Develop presentations and analysis for the support of operational changes and requests from cross functional teams.
+
+Maintain dashboard to show key impacts from strategies proposed
+
+Required Qualifications:
+
+Education:
+
+MS or PhD in Computer Science, Statistics, Physics, Engineering, or related quantitative field
+
+Experience:
+
+-5 years of experience in machine learning with structured and unstructured data.
+
+3-5 years of experience with several supervised and unsupervised learning algorithms such as Random forests, Logistic Regressions, Regularized Linear Regression, Deep Neural Networks, Support Vector Machines, Extreme Gradient Boosting, Decision Trees, K-means, Hierarchical models.
+
+3-5 years of experience in Natural Language Processing (NLP)
+
+Experience with analyzing and quantifying data collected through speech analytics software
+
+3 years of coding experience in Python or R. Solid experience with SQL. SAS experience preferred.
+
+Knowledge, Skills, and Abilities:
+
+Team player with excellent communication and organizational skills with significant attention to detail
+
+What You'll Get at Sallie Mae:
+
+Comprehensive Compensation and Healthcare Benefits (Medical, Dental, Vision plans)
+
+Financial Well-being: 401(k) company match, employee stock purchase plan, and basic life insurance and short-term disability are provided to employees at no cost
+
+Work/Life Balance: Paid time off, time off to volunteer, and tuition reimbursement. In addition, after 6 months of employment, primary caregivers receive 12 weeks of 100% fully paid time off and secondary caregivers are eligible for 4 weeks of 100% fully paid time off, for birth or adoption
+
+Wellness: Fitness centers/gym subsidies, free Fitbits with step challenges, and wellness education
+
+ Nearly one quarter of student loans issued every year originate with Sallie Mae. Additionally, Sallie Mae works with its customers to hel...

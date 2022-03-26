@@ -1,0 +1,109 @@
+Read what people are saying about working here. 
+
+Position Description
+
+A Data Scientist is responsible for analyzing large data sets to develop custom models and algorithms to drive business solutions. Data Scientists work on project teams in order to provide analytical support to projects (for example, email targeting, business optimization, consumer recommendations) for Walmart eCommerce. Data Scientists are responsible for building large data sets from multiple sources in order to build algorithms for predicting future data characteristics. Those algorithms will be tested, validated, and applied to large data sets. Data Scientists are responsible for training the algorithms so they can be applied to future data sets and provide the appropriate search results. Data Scientists are responsible for researching new trends in the industry and utilizing up-to-date technology (for example, HBase, MapReduce, LAPack, Gurobi) and analytical skills to support their assigned project.
+
+Build complex data sets from multiple data sources, both internally and externally.
+
+Build learning systems to analyze and filter continuous data flows and offline data analysis.
+
+Combine data features to determine search models.
+
+Conduct advanced statistical analysis to determine trends and significant data relationships.
+
+Demonstrates up-to-date expertise and applies this to the development, execution, and improvement of action plans
+
+Develop custom data models to drive innovative business solutions.
+
+Develop models of current state in order to determine needed improvements
+
+Models compliance with company policies and procedures and supports company mission, values, and standards of ethics and integrity
+
+Provides and supports the implementation of business solutions
+
+Research new techniques and best practices within the industry.
+
+Scale new algorithms to large data sets.
+
+Train algorithms to apply models to new data sets.
+
+Utilize system tools including (MySQL, Hadoop, Weka, R, Matlab,ILog).
+
+Validate models and algorithmic techniques.
+
+Work with cross-functional partners across the business.
+
+Minimum Qualifications
+
+Bachelor of Science and 5 years data science experience OR Master of Science and 2 years data science experience.
+
+1-3 years’ experience in building ML based models
+
+Strong CS fundamentals in algorithms, data structures, OOPS, functional programming.
+
+Strong Experience with Big Data processing (Bigquery / Hive/ Hadoop/ HDFS/ Spark)
+
+Productionize the developed Machine Learning solutions
+
+Hands on Experience with GCP Cloud ( Dataflow, Dataproc, ML Engine, Datalabs, Kubeflows)
+
+Strong background in ML algorithms for time series datasets.
+
+Strong background in Statistics.
+
+Familiarity with Deep Learning algorithms.
+
+Strong knowledge and experience with Databases (Relational Maria/Mysql and NoSQL Cassandra/Hbase/Bigtable)
+
+Expert knowledge and experience with Java/Scala/Python
+
+String grasp of principles and approaches used in Data-driven systems, processes and algorithms
+
+Scripting skills in at least one of the following: Shell, Perl, Python, Bash, or Ruby
+
+Experience with Performance Engineering including testing, tuning and monitoring tools.
+
+Additional Preferred Qualifications
+
+Company Summary
+
+The Walmart eCommerce team is rapidly innovating to evolve and define the future state of shopping. As the world’s largest retailer, we are on a mission to help people save money and live better. With the help of some of the brightest minds in technology, merchandising, marketing, supply chain, talent and more, we are reimagining the intersection of digital and physical shopping to help achieve that mission.
+
+Position Summary
+
+A Data Scientist is responsible for analyzing large data sets to develop custom models and algorithms to drive business solutions. Data Scientists work on project teams in order to provide analytical support to projects (for example, email targeting, business optimization, consumer recommendations) for Walmart eCommerce. Data Scientists are responsible for building large data sets from multiple sources in order to build algorithms for predicting future data characteristics. Those algorithms will be tested, validated, and applied to large data sets. Data Scientists are responsible for training the algorithms so they can be applied to future data sets and provide the appropriate search results. Data Scientists are responsible for researching new trends in the industry and utilizing up-to-date technology (for example, HBase, MapReduce, LAPack, Gurobi) and analytical skills to support their assigned project.
+
+Build complex data sets from multiple data sources, both internally and externally.
+
+Build learning systems to analyze and filter continuous data flows and offline data analysis.
+
+Combine data features to determine search models.
+
+Conduct advanced statistical analysis to determine trends and significant data relationships.
+
+Demonstrates up-to-date expertise and applies this to the development, execution, and improvement of action plans
+
+Develop custom data models to drive innovative business solutions.
+
+Develop models of current state in order to determine needed improvements
+
+Models compliance with company policies and procedures and supports company mission, values, and standards of ethics and integrity
+
+Provides and supports the implementation of business solutions
+
+Research new techniques and best practices within the industry.
+
+Scale new algorithms to large data sets.
+
+Train algorithms to apply models to new data sets.
+
+Utilize system tools including (MySQL, Hadoop, Weka, R, Matlab,ILog).
+
+Validate models and algorithmic techniques.
+
+Work with cross-functional partners across the business.
+
+ Walmart Global eCommerce is made up of Walmart.com, VUDU, and SamsClub.com and is powered by @Walmartlabs!
+
+Our business experts, front...

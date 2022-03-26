@@ -1,0 +1,34 @@
+Have you ever ordered a product on Amazon and when that box with the smile arrives you wonder how it got to you so fast? Wondered where it came from and how much it would have cost Amazon? If so, the Amazon Global Supply Chain Optimization team (SCOT) is for you.
+
+We build systems to peer into the future and estimate the distribution of tens of millions of products every week to Amazons warehouses in the most cost-effective way. On this team, the forecasts we generate and historical data we gather and transform drive automated downstream systems to make critical buying, labor planning, and inventory routing decisions world-wide. The forecasting and analytics platforms we are creating are being sought after by diverse business planning use cases, including unintegrated Amazon subsidiaries.
+
+Amazon seeks a passionate, results-oriented, inventive software engineer to be part of a team of developers building large scale, high availability software systems using mathematical modeling, simulations and data analysis. We are looking for software engineers who thrive on complex problems and relish the challenge of operating complex and mission critical systems. We strive to solve complex supply chain optimization problems that no one else has solved yet. Do you think you are up to the challenge? Would you like to learn more and stretch your skills and career?
+Amazon is an Equal Opportunity-Affirmative Action Employer Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation
+
+
+
+
+Basic Qualifications
+
+· 4+ years of professional software development experience
+· 3+ years of programming experience with at least one modern language such as Java, C++, or C# including object-oriented design
+· 2+ years of experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems
+· Bachelor's degree in Computer Science or 8+ years of equivalent professional or military experience
+
+· BS in Software Engineering or equivalent work experience.
+· 6+ years of experience in software development.
+· Excellent problem solving skills.
+· Possess a sound understanding of computer science algorithms, data structures, object oriented design and databases.
+· Proficiency in, at least, one modern programming language such as C, C++, Java, or Python.
+· Good written and oral communication skills
+· Able to work in a diverse team
+
+
+
+Preferred Qualifications
+
+· Basic working knowledge of building machine learning solutions to solve real world business problems.
+· Experience being the tech lead for research-oriented software development teams.
+· Understanding of system architecture and experience with large distributed systems.
+· Experience in forecasting, machine learning, or operations research.
+· Be a fast learner and have the ability to adapt quickly to a fast-paced development environment.

@@ -1,0 +1,58 @@
+Data Scientist 
+Location: Mountain View, CA
+Duration: 1 year
+ Description:  
+The Data Scientist will work with large, complex data sets. Solve difficult, non-routine analysis problems, applying advanced analytical methods as needed. Conduct end-to-end analysis that includes data gathering and requirements specification, processing, analysis, ongoing deliverables, and presentations.  Build and prototype analysis pipelines iteratively to provide insights at scale. Develop comprehensive understanding of client data structures and metrics, advocating for changes where needed for both products development and sales activity.
+Interact cross-functionally with a wide variety of people and teams. Work closely with engineers to identify opportunities for, design, and assess improvements to google products.
+Research and develop analysis, and optimization methods to improve the quality of client's user facing products; example application areas include app abuse modeling, developer abuse modeling, end-user behavioral modeling, and live experiments.
+ Skill/Experience/Education: 
+Mandatory 
+2-3 years of professional experience in: Coding (e. g., C/C++, Python, Java), Databases and querying (e. g., SQL, MySQL, MapReduce, Hadoop), Statistical analysis (e. g., R, Stata, SPSS, SAS.) 
+4 years of relevant work experience (e. g., as a statistician / computational biologist / bioinformatician / data scientist), including deep expertise and experience with statistical data analysis such as linear models, multivariate analysis, stochastic models, sampling methods. Analytical engagements outside class work while at school can be included. 
+Applied experience with machine learning on large datasets. 
+Experience with fraud, security and threat analysis in the context of Internet-related products/activities. 
+Work proficiency in Machine Learning (e. g. tools, prepare training sets, train classifiers etc.). 
+Demonstrated skills in selecting the right statistical tools given a data analysis problem. 
+- Demonstrated effective written and verbal communication skills.   Skill Matrix 
+Skill Name: Coding
+Level: 5
+Years: 0-3 Years
+Mandatory (Yes/No): Yes
+Description: 2-3 years of professional experience in: Coding (e. g., C/C++, Python, Java), Databases and querying (e. g., SQL, MySQL, MapReduce, Hadoop), Statistical analysis (e. g., R, Stata, SPSS, SAS.)
+Skill Name: Data Scientist / Statistician / computational biologist / bioinformatician
+Level: 5
+Years: 4-5 Years
+Mandatory (Yes/No): No
+Description: Deep expertise and experience with statistical data analysis such as linear models, multivariate analysis, stochastic models, sampling methods. Analytical engagements outside class work while at school can be included.
+Skill Name: Machine Learning
+Level: 5
+Years: 0-3 Years
+Mandatory (Yes/No): No
+Description: Applied experience with - machine learning on large datasets. Work proficiency in Machine Learning (e. g. tools, prepare training sets, train classifiers etc.)
+Skill Name: Fraud, security and threat analysis
+Level: 3
+Years: 0-3 Years
+Mandatory (Yes/No): No
+Description: Experience with fraud, security and threat analysis in the context of Internet-related products/activities
+As an equal opportunity employer, ICONMA prides itself on creating an employment environment that supports and encourages the abilities of all persons regardless of race, color, gender, age, sexual orientation, citizenship, or disability.
+   
+
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Mountain View, CA 94039 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         2365_9a0bdd963a239ecaf31649b99238bb7c

@@ -1,0 +1,24 @@
+Our Data Engineer will be an integral part of the Orion team that not only helps the company take advantage of emerging trends but helps drive and define the trend. As part of the team you will help ideate, investigate, and prove new techniques which can be used to improve both current and future ZeniMax titles and services. You will be asked to not only write significant portions of new code bases but maintain and integrate that code into existing code bases as well. Our team is results driven and we are looking for people who want to actualize real world technologies that impact the industry in a profound way. Expect your abilities and scope of work to expand in a fast paced and highly innovative environment. Be curious and willing to learn.
+
+As a Data Engineer, you will work with product owners to evaluate both high-level requirements, and user stories. Working with the team, to build and maintain our real-time data analytics pipeline.
+We are always exploring ways to improve our scale, reliability, and efficiency, and engineers are expected to learn and support new technologies, as well as propose new solutions that solve observed problems.
+3+ years of experience in a data warehousing, data engineering, or data architect role
+Experience with full life cycle development, architecture and implementation, of an enterprise data warehouse.
+Experience working with AWS data technologies such as S3, Redshift Spectrum, Athena, Data Pipeline, Glue, EMR, RDS, and Kinesis
+Expert level SQL skills
+Data modeling experience for both transactional and data warehousing environments.
+Experience working with a variety of data sources such as MySQL, Oracle, SQL Server, PostgreSQL, S3, HDFS, and MongoDB
+Strong interpersonal skills and problem-solving ability
+
+Build new and extend existing data structures to support real-time analytics for Orion services
+Maintain large, multi-terabyte data warehouse which includes performance tuning and data retention/purge processes
+Research and troubleshoot data quality issues, providing fixes and proposing both short- and long-term solutions
+Prepare designs for database systems and recommend improvements for performance.
+Maintain and develop various database scripts and tools to facilitate automation process
+Provide support to all data warehouse initiatives.
+
+Experience with infrastructure as code to support systems developed
+Experience with Python and Linux shell scripting
+Experience using source control systems (Git, Perforce, SVN, etc.)
+
+CCPA Applicant Privacy Notice

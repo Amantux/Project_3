@@ -1,0 +1,39 @@
+Read what people are saying about working here. 
+
+Internship
+
+Who we are
+
+At Criteo, we connect 1.5 billion active shoppers with the things they need and love. Our technology takes an algorithmic approach to predict what user we show an ad to, when, and for what products. Our dataset is about 50 petabytes in Hadoop (more than 120 TB extra per day) and we take less than 10ms to respond to an ad request. This is truly big data and machine learning without the buzzwords. If scale and complexity excite you, join us.
+
+What you'll do
+
+You will contribute to building and improving the precision of our prediction models (such as CTR/CR prediction or user engagement scoring), gather and analyze data to extract valuable information.
+
+In a team of 3-5, you will be working closely with your mentor to drive your project, design and ensure best practices are applied.
+
+You will participate in all knowledge sharing sessions/ workshops.
+
+You will gain a better understanding of the development cycle and work on real and impactful projects that are used by leading retailers and brands.
+
+You are encouraged to actively voice your ideas whilst learning how to build and ship quality prediction models into production which will likely affect millions of users instantly.
+
+You will work with and learn from talented engineers, with a diverse set of backgrounds.
+
+You will be working with Python, C#, java and/or Scala
+
+What you'll bring
+
+You are in your final year of study in Software Engineering or related field.
+
+You are looking for a 6 month internship.
+
+You have experience in statistical analysis or feature engineering.
+
+You possess good knowledge of at least one programming language.
+
+You have a strong sense of ownership and a dislike for passing the buck.
+
+You are a problem solver, a fixer, and a creative technologist. We believe being an engineer is a talent and a passion, not just a skill.
+
+You are a strong communicator and a team player who can work efficiently with others.

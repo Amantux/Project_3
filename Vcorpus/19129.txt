@@ -1,0 +1,34 @@
+Note: By applying to this position your application is automatically submitted to the following locations: Mountain View, CA, USA; Boulder, CO, USA
+
+Minimum qualifications:
+Bachelor's degree in Computer Science, related technical field or equivalent practical experience.
+Experience with one general purpose programming language (e.g., Java, C/C++, Python).
+Experience in data processing using traditional and distributed systems (e.g., Hadoop, Spark, Dataflow, Airflow).
+Experience designing data models and data warehouses and using SQL and NoSQL database management systems.
+Preferred qualifications:
+Advanced degree in engineering or technical/scientific field of study.
+Experience designing data models and data warehouses and with non-relational data storage systems (NoSQL and distributed database management systems).
+Experience writing and maintaining ETLs which operate on a variety of structured and unstructured sources.
+Experience in large scale distributed data processing.
+Experience with Unix or GNU/Linux systems.
+Excellent communication, organizational, and analytical skills.
+About the job
+
+
+At gTech’s Users and Products team (gUP), our mission is to help users get the most out of Google. We represent the voice of Google's users and many of our partners globally, sharing insights with the larger Google organization to enable exceptional customer and product experiences.
+
+gUP builds innovative solutions that take user experience and engagement with Google to the next level, supporting users across products, countries, cultures, incomes, and identities. We advocate for users through partnerships with product areas at Google (and some Alphabet businesses), supporting Google’s consumer products ecosystem and enabling numerous launches for Google’s consumer products each year.
+
+As a Data Engineer, you’ll design and develop data systems and reporting tools to ensure that the Users and Products team members have the product, support, and operations data they need to make crucial business decisions. You’ll have the opportunity to design innovative data solutions and solve challenging problems using Google’s large-scale production data infrastructure.
+
+Google creates products and services that make the world a better place, and gTech’s role is to help bring them to life. Our teams of trusted advisors support customers globally. Our solutions are rooted in our technical skill, product expertise, and a thorough understanding of our customers’ complex needs. Whether the answer is a bespoke solution to solve a unique problem, or a new tool that can scale across Google, everything we do aims to ensure our customers benefit from the full potential of Google products.
+
+To learn more about gTech, check out our video.
+Responsibilities
+Design, develop and support data pipelines, warehouses and reporting systems to solve business operations, users and product problems.
+Create extract, transform, and load (ETLs) and reporting systems for new data using a variety of traditional as well as large-scale distributed data systems.
+Collaborate and influence Users and Products stakeholders and support engineers to ensure our data infrastructure meets constantly evolving requirements.
+Work closely with analysts to productionize various statistical and machine learning models using data processing pipelines.
+Write and review technical documents, including design, development, and revision documents.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form.

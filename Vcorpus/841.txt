@@ -1,0 +1,91 @@
+Come ride above the rest! Net Direct Dealer Solutions is an independently owned and operated, automotive dealership ERP software development company. At Net Direct we pride ourselves on fostering a culture of innovation and continuous improvement and are changing the experience for the automotive industry.
+
+We are passionately dedicated to our customer’s experience and to our company goals by daily applying a spirit of continual improvement in all areas. This should be apparent to anyone who works here or comes in contact with us. Always focusing on teamwork, quality, integrity, accountability, dedication, and transparency is how we bring The Net Direct Way to life every day. If this sounds like the type of culture you would thrive in and you meet the qualifications below then we encourage you to apply to be part of our incredible team!
+
+This role is responsible for modeling complex decision problems, discovering actionable insights and identifying opportunities through the use of analytical, statistical, algorithmic, data-mining and visualization techniques. In addition to advanced analytic skills, this role is expected to be proficient at integrating and preparing large, varied datasets, architecting specialized database and computing environments, and communicating results.
+
+Data Scientist will work closely with business leads, data stewards, project/program managers, and other IT teams to turn data into critical information and actionable knowledge that can be used to prescribe sound organizational/business decisions. Data Scientist is expected to be creative thinker that can analyze data within the information domain boundaries by applying machine learning, data mining & statistical techniques (the process of discovering new patterns from large datasets) and propose model hypotheses for making new/innovative business decisions. This individual is expected to be proficient in programming/scripting in order to model data in a way to visualize it by shaping/re-shaping data attributes from multiple viewpoints and to validate their hypotheses/findings using an experimental and iterative approach.
+
+Data Scientist will present hypothesis/findings to business leads by exposing their assumptions and validations in a clear & structured manner that can be easily understood by business counterparts. A combination of business focus, strong analytical and problem solving skills coupled with programming knowledge to be able to quickly cycle through hypotheses during the discovery phase of the project are mandatory.
+
+Required Qualifications:
+
+Masters in mathematics, statistics, computer science, operations research or related engineering/STEM field; PHD degree preferred
+
+Relevant quantitative and qualitative research and analytics experience
+
+Good proficiency in statistical analysis, quantitative analytics, forecasting/predictive analytics, multivariate testing, and optimization algorithms
+
+Experience of using several decision algorithms such as Random Forest, AdaBoost & other ensembles, Classification & Clustering, Decision trees, SVM, Neural Nets, Optimization (Linear, Non-linear, Dynamic programming etc.), Operations Research techniques, Graphs & Networks, Natural Language Processing, Event Streams & Temporal processing, Business Rules or any other machine learning/AI types of algorithms
+
+Ability to come up with solutions/hypotheses to loosely defined business problems by leveraging pattern detection over potentially large datasets
+
+Familiarity with one or more quantitative data analysis languages such as R, MATLAB, Octave, SAS, SPSS, SciPy, NumPy, SQL
+
+Familiarity with distributed Computing platforms such as Hadoop and Spark, NoSQL databases, Distributed Real-time Systems
+
+Familiarity with large-scale Software Architectures & Enterprise Systems
+
+Good programming skills (such as Hadoop MapReduce or other big data frameworks, Java). Familiarity with functional programming languages such as Erlang, Scala or Python is a plus
+
+Good communication and interpersonal skills; a team player with strong empathy for our internal and external customers. Ability to effectively collaborate with R&D team members as well as across teams
+
+Willing to do deep dives into new research areas to solve tough problems
+
+Responsibilities:
+
+1. Discovery Phase:
+
+Works with business stakeholders to identify the business requirements, expectations and the overall business problem domain to derive prescriptive decision outcomes
+
+Works collaboratively with business analysts to understand client's current business processes and current business decision touch points. Consequently, understands client's expected business process changes & impacts after new business decision models are implemented
+
+Models and frames suggested business decision scenarios that are meaningful and which impact on critical business processes and/or decisions
+
+Synthesizes facts, theories, trends, inferences, and key issues and/or themes in complex and variable situations. Recognizes abstract patterns and relationships between apparently unrelated entities or situations and applies appropriate concepts and theories in formulating decision model hypotheses
+
+Identifies what data is available & used by current business processes and corresponding relevant data sources, including internal and external sources
+
+Suggests what additional data would be needed for the decision model to work and potentially identifies new sources of data such as smart meters, geo-location or social media
+
+Collaborates with client subject matter experts to select the relevant sources of data
+
+2. Analysis Phase:
+
+Works in iterative processes with the client subject matter experts while developing decision model hypotheses and validating such findings
+
+Defines the validity of the data, how much data/information is meaningful & pertinent, and what other information is related & required
+
+Works with the data stewards to ensure that the information used is in compliance with the regulatory and security policies in place and in the same context, qualifies where information can be stored or what information, external to the organization, may be used in support of the use case
+
+Identifies and analyzes patterns in the volume of data supporting the initiative, the type of data (e.g. images, text, clickstream or metering data) and the speed or sudden variations in data collection and volatility & business significance of such changes. Utilizes such patterns for enriching predictive power of decision models
+
+Develops 2 to 3 decision hypotheses that discover potentially new decision patterns/insights. Employs appropriate algorithms (Machine Learning, Correlations, Optimization, AI or a combination therein)
+
+Ingests, and ETL data into formats for modeling and analysis
+
+Incorporates appropriate approaches to employ feature dimensionality reductions/transformations by applying techniques such as Principal Component Analysis (PCA), Markov blankets, entropy/gini-impurity, variance/deviations, Bayesian networks etc.
+
+Incorporates techniques such as feature/attribute value normalizations, discretizations, missing value data imputations etc.
+
+Develops experimental approaches to validate hypotheses. Compares & contrasts results by reporting accuracy of each hypothesis in the form of easy to understand metrics such as F1-Scores, Precision-Recall curves, ROC curves, Bias-Variance tradeoffs (learning curves), Confidence Intervals of accuracy etc.
+
+Helps client personnel both from IT and the business, on approaches, such as testing hypotheses and statistical validation of results by making them understand the principles and the math behind decision model hypothesis
+
+Identifies & recommends ongoing improvements to methods and algorithms that can potentially lead to new model hypothesis or enhancements to current model hypothesis
+
+Recommends on-going tracking and monitoring of performance of decision and statistical models
+
+3. Implementation Phase:
+
+Helps in evaluating Non-Functional Requirements such as memory foot-prints of decision models in terms of volumes of data streams being consumed per second, performance & expected processing times for model decisions, runtime throughputs, client’s expected transactions per second and consequently the number of deployable node instances required etc.
+
+Works with IT teams to support data sources integration, ingestion of data in both real-time & batch, identification of target systems that will consume model decisions & system integrations therein, data retention requirements
+
+Helps assess Quality of Service attributes (Service Levels) in terms of decision model performance & impacts therein, in conjunction with typical Recovery Point & Recovery Time objectives when data sources and/or critical systems become unavailable
+
+Troubleshoots and implements enhancements and fixes to decision models as needed
+
+Required Education and Certs:
+
+Bachelors degree

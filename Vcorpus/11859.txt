@@ -1,0 +1,54 @@
+77 West Wacker Dr (35012), United States of America, Chicago, Illinois 
+At Capital One, we re building a leading information-based technology company. Still founder-led by Chairman and Chief Executive Officer Richard Fairbank, Capital One is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. We measure our efforts by the success our customers enjoy and the advocacy they exhibit. We are succeeding because they are succeeding. Guided by our shared values, we thrive in an environment where collaboration and openness are valued. We believe that innovation is powered by perspective and that teamwork and respect for each other lead to superior results. We elevate each other and obsess about doing the right thing. Our associates serve with humility and a deep respect for their responsibility in helping our customers achieve their goals and realize their dreams. Together, we are on a quest to change banking for good. Manager, Data Scientist
+At Capital One, data is at the center of everything we do. When we launched as a startup we disrupted the credit card industry by individually personalizing every credit card offer using statistical modeling and the relational database, cutting edge technology in 1988! Fast-forward a few years, and this little innovation and our passion for data has skyrocketed us to a Fortune 200 company and a leader in the world of data-driven decision-making. 
+In Capital One s Model Risk Office, we defend the company against the failure of models that are the foundation of our multi-billion dollar business and meet the needs of tens of millions of customers every day. Model failures happen in a fascinating nexus of people, management and incentive structures, processes, technology, feedback loops, and unexpected external events... and it is our job to learn from past mistakes and develop techniques to avoid their repetition. Today, Capital One is transforming its data infrastructure and modeling methodologies to build on its competitive advantage as a  Machine Learning company. This gives us an unprecedented opportunity to cultivate best practices and project them throughout the company. 
+As a Data Scientist in a model validator role, you will have broad exposure to machine learning and predictive modeling projects across the company. We deal with an incredibly diverse array of modeling applications from Cybersecurity to Chatbots to Credit Risk. 
+On any given day, you might find yourself: 
+-Building benchmark and challenger models to stress test critical modeling decisions 
+-Developing and defending techniques for evaluating model performance 
+-Reading up on a new modeling algorithm that the business is starting to use 
+-Using modern computing tools (e. g. , Spark, H2O, AWS) to perform an analysis of bias in a model s training data 
+-Evaluating deployment architecture and code quality for a new machine learning system 
+-Writing blog posts or presentations to introduce our modeling community to emerging best practices 
+-Developing software tools that support well-managed model development and maintenance 
+The ideal candidate will be 
+-A strong communicator. Able to respectfully explain complex ideas and project influence to a diverse, collaborative audience. 
+-A constructive skeptic. Able to internalize the wisdom of the community, but also can see where changing facts require new ideas and is not afraid to say so. 
+-A quick learner. Able to master new tools and modeling techniques in order to effectively challenge decisions made by fast-moving partners 
+-A data wrangler. You know how to programmatically extract data from a database and an API, bring it through a transformation or two, and model it into human-readable form (ROC curve, map, d3 visualization, Tableau, etc.). 
+-A results-focused modeler. You understand and love Statistics and Machine Learning theory, but you also know that a model s value emerges from a complex interaction of theory, people, data, and processes. 
+Basic Qualifications: 
+-Bachelor s Degree plus 4 years of experience in data analytics, or Master s Degree plus 2 years of experience in data analytics, or PhD 
+-At least 2 years  experience in open source programming languages for large scale data analysis 
+-At least 2 years  experience with machine learning 
+-At least 2 years  experience with relational databases 
+Preferred Qualifications: 
+-Master s Degree plus 2 years of experience in data analytics, or PhD in  STEM  field (Science, Technology, Engineering, or Mathematics) 
+-At least 1 year experience working with AWS 
+-At least 4 years  experience in Python, Scala, R, or other modern programming language 
+-At least 4 years  experience with statistics or machine learning 
+-At least 4 years  experience with SQL 
+Capital One will consider sponsoring a new qualified applicant for employment authorization for this position. No agencies please.  Capital One is an Equal Opportunity Employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex, race, color, age, national origin, religion, physical and mental disability, genetic information, marital status, sexual orientation, gender identity/assignment, citizenship, pregnancy or maternity, protected veteran status, or any other status prohibited by applicable national, federal, state or local law. Capital One promotes a drug-free workplace.  Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City s Fair Chance Act; Philadelphia s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at. All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations. 
+For technical support or questions about Capital One's recruiting process, please send an email to 
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site. 
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC). 
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Chicago, IL 60290 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         2365_c4f18db696dbe5c7630cd043a02a4be5

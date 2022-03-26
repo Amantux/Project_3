@@ -1,0 +1,64 @@
+SunIRef:Manu:title
+
+Sandbox Banking is looking for an exceptional software engineer who wants to reshape how innovative software is integrated in the financial services industry. We have rapidly growing revenue, are backed by Y Combinator (W17), and have raised seed capital. We are a remote team with employees across the continental US.
+
+Sandbox is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all employees. Product
+
+Sandbox is a universal adapter for banks. It provides financial institutions (FIs) a better way to integrate fintech software with their existing systems.
+
+US regional/community banks and credit unions are looking to overhaul the digital experiences they deliver to customers. Increasingly, they solve this challenge by sourcing software from fintechs new companies that specialize in building and operating financial services software. Unfortunately, distributing new software to FIs has historically been a long and painful process because of data security and system integration hurdles.
+
+Sandbox empowers FIs and vendors to quickly and safely build new integrations our Glyue application lets anyone who can use Excel formulas connect banking systems. Furthermore, the platform's fine-grained authentication and permissions model provides FIs with strict control over which people/software can access particular banking data and operations.
+
+FIs and fintechs love the platform. FIs are able to quickly and cost-effectively leverage cutting-edge solutions without compromising on integration; fintechs don't need to spend time and money on activities outside of core product development and distribution. Why Work at Sandbox?
+Small team your impact will be meaningful
+Teammates who are smart, curious, and driven to succeed. You will always be learning.
+Ownership of problems from start to finish
+Significant customer interaction
+Your ideas and opinions about the product will matter. Everyone in our company contributes to our product roadmap.
+You'll use a variety of technologies across our entire software stack
+Remote-first organization that provides geographic flexibility (although all employees must live in the US)
+Salary and stock option compensation
+Your work will transform an entire industryResponsibilities
+
+Our engineer will need to handle a variety of tasks:
+Build, maintain, and extend our Glyue integration platform
+Provide feedback about Glyue so it can be improved for internal and external users
+Construct unit and integration tests to help maintain our organization's high software delivery throughput
+Use JIRA to track development tasks, convey customer project statuses, highlight blockers, and communicate with teammates
+Write high quality documentation for both customer and internal use
+Perform basic AWS-based and on premise sysadmin work
+Identify and vocalize problems as they arise, especially in regards to data security
+Help solve a multitude of early-stage startup tasks
+Behave in a manner aligned with our high ethical standardsQualifications
+
+Talented developers learn new technologies quickly, so we're not obsessed with each candidate's knowledge of particular technologies. That said, we do require applicants to possess a few specific skills and attributes:
+Proficiency with Python. Prior experience with the language is required, although our definition of experience is broad and would include undergraduate/graduate assignments, demonstrable project work, and coding bootcamps. Our hiring process involves technical interviews for which knowledge of Python is necessary.
+Proficiency with both Windows and Linux
+Understanding of basic software design patterns, unit testing, object-oriented language principles, functional language principles, and networking
+Strong verbal and written communication skills in English
+Strong deductive and inductive reasoning abilities
+Highly organized and capable of tracking current status, blockers, and next steps across multiple projects
+Willingness to live and work in the US
+
+There are additional requirements related to logistics and behavior:
+Ability to work from our office in downtown Boston, MA for at least two weeks at start of employment. Sandbox will cover travel expense for employee during this period.
+Legal authorization to work for Sandbox Banking. NOTE: We are unable to sponsor work visas at this time.
+Willingness and ability to proactively collaborate with our customers and project managers. To succeed, this individual will need to constantly discuss/record/broadcast business processes and requirements. There are times when acquiring a single piece of critical information requires two or three conversations with different project stakeholders; this engineer must be unrelenting in such scenarios.
+Fanatical passion for delivering the best possible experience to users
+Willingness to re-prioritize work as product hypotheses and requirements change
+Obsession with code quality, design patterns, documentation, testing, and other aspects of software engineering that empower teams to maintain high productivity over time
+Team-first attitude coupled with an unrelenting desire to win
+
+Experience in the following areas will be considered a bonus:
+Financial services programming (especially for banks or vendors)
+Early-stage startups
+Software integration projects
+Consulting
+SaaS product development
+Information security and regulatory compliance
+JavaScript, C#, Java, Django, Postgres, HTML, CSS, front-end JS frameworks (e.g. React, Angular, Vue), and AWSCompensation
+
+Salary will be competitive for our stage of company, and the role includes a stock option package that provides significant upside. It's important to us that our early employees win if the company succeeds. Next Steps
+
+Please email resumes, CVs, and other relevant materials to along with a brief description of why you're interested in the role.

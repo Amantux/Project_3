@@ -1,0 +1,30 @@
+Who we are
+Albert is a new type of financial service that uses powerful technology to automate your finances, with a team of human experts to guide you. Albert saves and invests automatically for you, helps you avoid overdrafts, finds savings you’re missing, identifies bills you’re overpaying, and much more. Text Albert a financial question, and we’ll not only offer guidance; we’ll help you make it happen.
+We’re an LA-based startup with a proven business model, backed by top-tier institutional investors, with over 2 million users who have trusted Albert to help them achieve their financial goals. We’re on a mission to improve the financial lives of millions of people with a beautifully-designed, simple product, and we’re looking for thoughtful, talented people to join us on our journey.
+
+About the role
+Managing, transforming, and accessing data efficiently is critical to every business process at Albert, from backend and mobile development to growth and business analytics. We are looking for a talented engineer to own our data analytics pipelines and systems as well as help us evolve our data architecture to support our growth as we scale.
+Things you're good at
+Shipping: Delivering great products that you're proud of on a regular basis.
+Architecture: Getting it done is important. Getting it done in way that will scale is equally important.
+Diving in: Taking ownership of the data stack.
+Collaboration: We bring the best out of each other. We're looking for people who will bring the best out of all of us.
+Responsibilities
+Take over existing data pipelines, ETL and task running processes, starting with our ETL processes for BI analytics
+Partner closely with VP of Analytics to make data accessible to the entire company so we can make timely decisions backed by data
+Monitor our analytics data pipelines to ensure data quality and timeliness
+Continuously improve our BI tooling, platforms and monitoring to help the team create dynamic tools and reporting
+Drive optimization, testing, and tooling to improve data quality
+Write clean, maintainable and well-documented code to support our data processes. Help improve and evolve out data architecture over time by planning, developing, and deploying infrastructure using state of the art tools and practices appropriate for our needs
+Concisely and effectively communicate the benefits and implications of adding new data technologies and techniques to our infrastructure
+Requirements
+4+ years of experience in a Data Engineering role, with a focus on building data pipelines
+BI tooling and/or data app development
+4 year bachelor degree in Computer Science or other technical or science degree
+Proficiency in Python
+Experience with some or all of the following: Postgres, Redshift, Celery, Elasticsearch, Kafka, and Airflow.
+Benefits
+Competitive salary and meaningful equity
+401k Match
+Health, vision and dental insurance
+Free lunch

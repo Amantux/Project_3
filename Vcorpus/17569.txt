@@ -1,0 +1,58 @@
+About Better.com:
+
+We're one of the fastest growing homeownership companies in America. Why? Because we're making homeownership simpler, faster - and most importantly, more accessible for all Americans.
+
+By combining smarter technology with a desire to not just change one piece of the journey but the entire makeup of what it's like to buy and own a home in this country, we're building things that don't exist yet.
+
+Better.com by the numbers:
+We fund $600 million in home loans per month
+Nearly $5 billion in loans funded since our inception in 2016
+2 years running, we're one of Crain's "Best Places to work"
+We're #11 on Fortune's Best Places to Work in NYC
+And #964 on Inc.'s 2019 "5000 Fastest-Growing Companies"
+We've secured over $254 million from our investors to date
+...and counting
+We continue to outpace the industry at every turn. Our backers have helped build some of the most transformative tech and finance companies in history. Kleiner Perkins, Goldman Sachs, IA Ventures, Ally Bank, American Express, Citigroup, Activant Capital, and others have all invested in our vision of redefining the entire homebuying journey.
+
+A Better opportunity:
+
+Help us hack a thirteen trillion dollar industry by building a product that will allow more people than ever before to own a home and build wealth rather than rent for life. Our tech team is small but growing, and you will be a big part of defining the technical direction and culture. We encourage proposals for projects off the beaten path, experimentation with different frameworks and libraries, and doing as you see fit to solve problems.
+
+We also offer above-market compensation and equity, as well as great benefits.
+
+Better people:
+Open source authors of popular projects like Annoy and Holder
+Engineers who are not afraid to get their hands dirty with product
+Mortgage subject matter experts eager to teach and reinvent the mortgage industry
+A Head of Engineering who writes a fun blog
+Better technology:
+We continuously ship code to production 50-100 times every day
+Node.js, Python (3.6) and Scala for services
+React, webpack 4, SCSS, Ember.js on the frontend
+TypeScript / ES7 across the stack
+Postgres for our relational databases, ActiveMQ for our message broker, Redis for caching, Redshift for analytics
+Kubernetes, Docker, and Terraform for deployment and devops
+AWS infrastructure, leveraging EC2, S3, CloudFront, Route53, and much more
+Better Team:
+The tech team is currently 70+ engineers and our goal is to double in size by September
+The data team is 6 people but with the plan to grow it to 25 by the end of this year
+Erik Bernhardsson (CTO) used to run the data team and the music recommendation team at Spotify. He is the open source author of a few popular projects like Annoy and Luigi and writes a blog about (mostly) data
+Better projects you could own:
+Build a system to evaluate thousands of rules and do a combinatorial search to find out what's the best loan and how much can you afford
+Build a way to match borrowers to programs to calculate and surface eligible discounts to them
+Work on our Kubernetes cluster that helps us deploy 50-100 times/day with no downtime
+Improve our CI pipelines that run thousands of tests across hundreds of thousands of lines of code in a few minutes (with about 85% coverage)
+Build a seamless customer facing experience which brings borrowers through the most complicated financial transaction of their life with confidence and ease
+Integrate with email, text messages, and phone calls to unify all inbound/outbound communication and deliver real time updates to borrowers
+Automate and augment the flow of data from our data stores so it can be used to drive decision making in our company
+Work on integrating our loan management system with third party tools to bring us closer to automating the loan underwriting process
+If you're interested in solving complex problems that have a real world impact, get in touch!
+
+Things we value:
+Curiosity. Why? How? Repeat.
+Relentlessness. No one here gives up. We try. We fail. We try again.
+Smarts: book and street. We use all the tools at our disposal to build Better.
+Empathy and Compassion. You understand that people's biggest dreams are in your hands.
+Communication. Can you communicate well with your fellow engineers and project managers as well as work across the organization with our internal users?
+Intellectual Honesty . Can you ask for help or put your hand up when you don't understand?
+Building. Doing. Making. Yes, we have to do a lot of thinking and talking to figure this stuff out, but you can't wait to leave the conversation and build it.

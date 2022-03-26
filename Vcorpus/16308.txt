@@ -1,0 +1,22 @@
+Duration: 6+ months
+Compensation: up to $80/hr
+
+*** U.S. Citizens and those authorized to work in the U.S. are encouraged to apply. We are unable to sponsor at this time. ***
+
+Responsibilities/Requirements:
+Must have a minimum of 6+ years of Big Data experience to join the Data lake team.
+You will support Software Developers, Database Architects, Data Analysts and Data Scientists on data initiatives and will ensure the data platform runs smoothly and without issue 24/7.
+Responsible for installing and configuring Hadoop clusters, Sqoop, Python and Spark packages.
+Must have administration experience in Hive, Kafka, Python, Hbase, Spark and Sqoop.
+Should have experienc managing Hadoop, Kafka, hbase, Sqoop, Hive and Spark cluster environments.
+Plan and execute major platform software and operating system upgrades and maintenance across physical environments.
+Develop and automate maintenance processes as well as design and implement a toolset that simplifies provisioning and support of a large cluster environment.
+Implement security measures for all aspects of the cluster (SSL, disk encryption, role-based access).
+Review performance stats and query execution/explain plans; recommend changes for tuning.
+Create and maintain detailed, up-to-date technical documentation.
+Ability to shell script with Linux integration to other Hadoop platforms.
+Should have experience with RDBMS relational databases like Oracle, Teradata, HANA and/or SQL Server.
+Should have experience coordinating/scheduling projects within Data Center.
+Must be very detail oriented.
+Nice to have skills: Red Hat Enterprise Linux administration, Kerberos and Kerberos encryption, TLS & SSL encryption.
+Must have a Bachelors degree.

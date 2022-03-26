@@ -1,0 +1,26 @@
+Note: By applying to this position your application is automatically submitted to the following locations: Austin, TX, USA; Sunnyvale, CA, USA
+
+Minimum qualifications:
+Bachelor's degree in Computer Science, Mathematics, Statistics, Engineering, or related field, or equivalent practical experience.
+8 years of experience in system implementation projects (e.g. requirements documentation, systems configuration, test documentation/execution, issue identification and resolution).
+Experience with integration/development on SAP Business Warehouse, SAP Business Intelligence, and Native HANA.
+Preferred qualifications:
+Master's degree in Computer Science or a related technical field.
+Experience in integration/development of data models including: creation, deployment and maintenance of BW Artifacts such as (Data sources, Transformations, custom business logic, DTP, ADSOs, Composite providers, BW queries).
+Experience moving data from SAP BW/4HANA to non-SAP solutions (i.e. Google BigQuery).
+About the job
+
+
+At Google, we work at lightning speed. So when things get in the way of progress, the Business Systems Integration team steps in to remove those roadblocks. The team identifies time-consuming internal processes and then builds solutions that are reliable and scalable enough to work within the size and scope of the company. You listen to and translate Googler needs into high-level technical specifications, design and develop recommended systems and consult with Google executives to ensure smooth implementation. Whether battling large system processes or leveraging our homegrown suite of Google products for Googlers themselves, you help Googlers work faster and more efficiently.
+
+As a Business Systems Analyst for SAP Business Intelligence (BI) Business Warehouse (BW) Development, you will help drive projects to improve financial decision making through the Business Intelligence applications the company builds and uses. In this role, you will showcase your experience in integrating end-to-end BW4/HANA solutions.
+
+Behind everything our users see online is the architecture built by the Technical Infrastructure team to keep it running. From developing and maintaining our data centers to building the next generation of Google platforms, we make Google's product portfolio possible. We're proud to be our engineers' engineers and love voiding warranties by taking things apart so we can rebuild them. We keep our networks up and running, ensuring our users have the best and fastest experience possible.
+Responsibilities
+Participate in system implementation projects (i.e. requirements documentation, systems configuration, test documentation/execution, issue identification and resolution).
+Design, implement, and support robust data modeling solutions in SAP BW/4HANA, requiring integration of data from multiple SAP solutions like SAP S/4HANA, SAP Ariba, and non-SAP datasource like Google BigQuery.
+Design and deploy standard financial reporting using reporting tools like SAP Analysis for office, SAP BOBJ, SAP Analytics Cloud.
+Architect and lead end-to-end BW4/HANA, performance tuning, testing, and support deployment of BPC and PaPM applications on SAP BW/4HANA.
+Partner with internal business teams in developing delivery roadmaps, defining business processes/associated system requirements, and technical design documents.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form.

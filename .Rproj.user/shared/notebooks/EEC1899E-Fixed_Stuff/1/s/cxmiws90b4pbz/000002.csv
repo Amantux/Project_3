@@ -1,0 +1,13 @@
+"0","```r
+color_map<-tibble(type= c('2012', '2013', '2014','2015', '2016', '2017'), 
+                  color = c('#154360', '#2980b9', '#5aa8dc', 
+                            '#a9cce3', '#aed6f1',  '#ebf5fb' ))
+
+all_top5 %>% ggplot() +
+    geom_col(mapping = aes(x=Department, y=Call_percentage, fill=date)) + 
+    scale_fill_manual(values=color_map$color) +
+    coord_flip() +
+    ggtitle(\"Top 5 Agencies involved in 311 calls about Huricane Sandy by Year\") + 
+    ylab('% total calls made in a year')+
+    xlab(\"Agency\")
+```"

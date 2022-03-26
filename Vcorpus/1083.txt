@@ -1,0 +1,76 @@
+LiveRamp is the trusted platform that makes data accessible and meaningful. Our services power people-based customer experiences that improve the relevance of marketing and allow consumers to better connect with the brands and products they love. We thrive on solving the toughest technical and customer challenges, and we're always looking for smart, compassionate people to help us blaze a trail.
+
+Mission: LiveRamp makes it safe and easy for businesses to use data effectively.
+
+LiveRamp is currently ramping up its Safe Haven business in the U.S. and is in need of an experienced data science leader who can help our customers tell a story with their data and craft a broader data science support strategy. Your team will work directly with our largest and most complex clients' datasets and data teams to help them derive value from the newly unlocked potential that Safe Haven provides them. In this capacity your team will work with vast amounts of data ranging from retail transaction data to online exposure data and you'll help our customers see the trends and paint a picture of what it all means. Further, you will continue to work on building out the appropriate team structure, developing the right interaction models, and strategizing for the long-term success of our customers.
+
+You will:
+Work efficiently with client data and analytics partners to define, configure, extract, aggregate, package, synthesize, and share data, results, and actionable insight to support client campaigns, products, or business decisions
+Act as an advertising and retail measurement data subject matter expert (SME)
+Bring a strong understanding and expert knowledge of the various data sources and methodologies for retail and brand marketing analysis in order to perform analyses and make expert recommendations – retail transaction data, 1st-party CRM data, ad exposure and response data, and 3rd-party data provider attributes (demographics, psychographics, lifestyle segments)
+Collaborate with client and capability teams on how to creatively leverage this rich data asset for their respective insight, segmentation, measurement, and activation needs
+Identify data gaps and advocate for additional data sources to meet unmet marketplace need(s)
+Build and foster positive reputation with client-facing delivery teams and Product & Engineering teams to successfully collaborate on designing, building, and launching analytical solutions
+Be an analytical approach artisan
+Outline pragmatic solutions to answering insight needs with an eye toward balancing quantitative rigor, data incompleteness, and timelines conducive to rudimentary vs. sophisticated methods
+Provide input to Product and Engineering teams on cross-format planning & measurement analysis requirements and possible solution paths
+Showcase to our clients the full potential of Safe Haven including walking their teams through setting up models, testing, and data sourcing
+Prepare and present compelling analytical presentations and effectively communicate (both in writing and verbally) complex concepts to marketing and business audiences
+Regularly work with the internal data science teams in engineering to provide input to the data science product roadmap and bring the knowledge of upcoming advances in our identity and products into data science
+Be part of the community of customer-facing data science consultants located internationally to share knowledge and ensure consistency across LiveRamp in our data science related services
+Provide mentorship and guidance to other data analysts/scientists
+Develop a team strategy for providing our customers with world-class support in a scalable manner
+Your team will:
+
+
+Help customers make sense of datasets from across the ecosystem and find meaningful value in sharing data with Safe Haven.
+
+About you:
+Critical thinking – capable of generating consistently accurate, useful reports as well as enthusiasm for translating data into actionable insight relevant to marketing program objectives
+Strong quantitative and research skills with proven ability to demonstrate data interpretation capabilities in terms of reporting and dashboards
+Balances desire for quantitative rigor with realities of inconsistent business data
+Attention to detail and time management - delivering high quality, client-ready work for multiple projects across several client engagements while meeting deadlines
+Hands-on fluency in data extraction, manipulation, and visualization tools such as SQL, Hive/ Impala/ Redshift/ BigQuery, Excel, Tableau, and/or others with minimal supervision
+Technical familiarity with scripting languages like Perl, Python, Spark, and/ or R
+Familiarity with cloud computing services, especially GCP
+Proficient in integrating multiple data sources (1st-party, 3rd-party, media activity) and utilizing creative analytical approaches to answer client audience insight or performance questions
+Solid understanding of current data science best practices and technology stacks
+Familiarity with statistical modeling, marketing test design, and audience segmentation
+Comfortable presenting and interfacing directly with customers
+Bachelor's degree in Business, Marketing, Math, Statistics, Economics, Computer Science or other quantitative discipline (Master's Preferred)
+8+ years of work experience in an analytical role in a professional services environment: digital advertising, database marketing, or interactive/ technology consulting
+2+ years of experience leading/growing a team
+Bonus Points:
+
+
+Knowledgeable of the media planning, measurement, and optimization process and acumen (both online and offline)
+Experience within the retail and/or CPG sector and a deep understanding of how data science models are built and used within them
+Proficient with the application of analytic methods in digital and mobile channels
+Proficient with direct and/or interactive marketing test design
+Demonstrated history of innovation with emerging ad platforms, data, measurement, or analysis techniques
+Product development and/or extensive client service experience with omni-channel campaign measurement systems
+Understanding of LiveRamp's role in the market and the broader AdTech/MarTech space
+Data privacy/security and related governance processes (Privacy Impact Assessment, CCPA, GDPR, etc)
+Benefits:
+
+
+People: work with talented, collaborative, and friendly people who love what they do.
+Food: enjoy catered meals, boundless snacks, and the occasional food truck.
+Fun: we host in-person and virtual events such as game nights, happy hours, camping trips, and sports leagues.
+Work/Life Harmony: flexible paid time off, remote work opportunities, and paid parental leave.
+Stock: every employee is a stakeholder in our future.
+Whole Health Package: medical, dental, vision, and disability insurance. Plus mental health support (via Talkspace) and fitness reimbursement up to $100 per month.
+Savings: our 401K matching plan helps you plan ahead.
+Commuter Subsidy: $75 per month to be used toward commuter cards, monthly parking, rideshare pools, or metro/bus passes.
+Location: work in the heart of Chicago
+More about us:
+
+
+LiveRamp's mission is to connect data in ways that matter, and doing so starts with our people. We know that inspired teams enlist people from a blend of backgrounds and experiences. And we know that individuals do their best when they not only bring their full selves to work but feel like they truly belong. Connecting LiveRampers to new ideas and one another is one of our guiding principles—one that informs how we hire, train, and grow our global team across eight countries and four continents.
+
+LiveRamp is an affirmative action and equal opportunity employer (AA/EOE/W/M/Vet/Disabled) and does not discriminate in recruiting, hiring, training, promotion or other employment of associates or the awarding of subcontracts because of a person's race, color, sex, age, religion, national origin, protected veteran, disability, sexual orientation, gender identity, genetics or other protected status. Qualified applicants with arrest and conviction records will be considered for the position in accordance with the San Francisco Fair Chance Ordinance.
+
+California residents: Please see our California Personnel Privacy Policy for more information regarding how we collect, use, and disclose the personal information you provide during the job application process.
+
+
+To all recruitment agencies: LiveRamp does not accept agency resumes. Please do not forward resumes to our jobs alias, LiveRamp employees or any other company location. LiveRamp is not responsible for any fees related to unsolicited resumes.

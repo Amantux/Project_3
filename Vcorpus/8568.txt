@@ -1,0 +1,107 @@
+The USC School of Pharmacy Center for Quantitative Drug and Disease Modeling is seeking applications for a Junior Data Scientist. The Junior Data Scientist is responsible for supporting the management and processing of data used for scientific research purposes for the USC’s School of Pharmacy, while supporting the implementation of clinical/preclinical CDISC-compliant data standards. This position will work extensively with the data analysis team and support efforts that generate clinical and preclinical data in their projects. The Junior Data Scientist will assist with the design and implementation of databases, and utilize vendor and internally-developed tools to review data quality, remap data per existing data standards and support the development of data sub-sets required by research plans.
+
+Essential Job Duties and Responsibilities:
+
+Develop database design and architecture documentation for the Center
+
+Provide insight into the changing database storage and utilization requirements for the Center and offer suggestions for solutions
+
+Analyze database implementation methods to make sure they are in line with the Center policies and any external regulations that may apply
+
+Help maintain the integrity and security of the databases
+
+Create data monitoring models for each project and work with our analysis team to create models ahead of new releases
+
+Work with other data scientists and data analysts to implement descriptive, forecasting and predictive algorithms and models using the latest technologies
+
+Support and collaborate with internal and external collaborations to ensure data delivery architecture is consistent throughout ongoing projects
+
+Continuously improve or re-design data architecture to support the next generation of products and initiatives
+
+Perform complex ad hoc analysis using R, Python and/or SQL as required, working with large datasets including loading them to a database and analyzing them
+
+Experience in clinical/preclinical data management, specifically protocol assessment, case report form (CRF), including annotated CRF, clinical data management system (CDMS), study start up, edit check creation, data validation, database lock, reviewing source data
+
+Work effectively with team members via in-person, teleconference and web meetings
+
+Other duties and responsibilities may be assigned
+
+Minimum Requirements:
+
+Master’s degree in Life Sciences, Data/Computer Science, Management Information Systems or Medical Technology, Business Analytics or related fields
+
+Or Bachelor’s degree with 3+ years’ hands-on experience in the related position
+
+Strong programming skills in R, Python or SAS
+
+Fluency with SQL and Relational Databases
+
+Experience in structured & unstructured data expertise
+
+Knowledge or experience in Cloud based solution or Cloud environment development, e.g. Amazon Web Services (AWS) Cloud and Google Cloud Platform (GCP)
+
+Experience as Data Architect building tables, columns and data warehouse elements
+
+Excellent verbal and written communications
+
+Preferred Experiences:
+
+Master’s degree in Life Sciences, Data/Computer Science, Management Information Systems or Medical Technology, Business Analytics or related fields
+
+Experience with R, Python or SAS coding.
+
+1+ years' experience in industry (pharmaceutical, CRO, biotechnology, healthcare) preferred
+
+Experience in use and manipulation of clinical data sets preferred
+
+Experience designing data pipelines or ETL processes to move data from various internal and external sources into the platform
+
+Experience in development of the Data Management Plan (DMP)
+
+Knowledge or expertise in CDISC standards preferred
+
+Knowledge or expertise in machine learning model for predictive analysis preferred
+
+Knowledge/Skills/Abilities:
+
+Excellent interpersonal skills and problem solving/decision making skills
+
+Excellent organizational skills
+
+Demonstrated negotiation skills
+
+Strong data management skills in R, Python or SAS
+
+Strong programming skills in SQL
+
+Good understanding of data infrastructure and distributed computing principles
+
+Works well independently and in a team-oriented, collaborative environment
+
+Knowledge of clinical/preclinical research industry and familiarity with the clinical drug development process
+
+Ability to effectively manage time, prepare for meetings, and prioritize project work
+
+Travel on occasion for out of town meetings (max 3%)
+
+Math Ability: Commensurate with Bachelor's degree with emphasis on review and analysis of data.
+
+Reasoning Ability:
+
+Exercise sound technical judgment when making decisions and adhere to external and internal policies and regulations
+
+Ability to proactively address issues or challenges without being specifically directed
+
+Use sound judgment when working with critical or confidential information
+
+Minimum Education: Master's degree or combined experience/education as substitute for minimum education
+
+Minimum Experience: 1 year or combined education/experience as substitute for minimum experience
+
+Preferred Education: Master's degree
+
+Preferred Experience: 2 years
+
+Minimum Field of Expertise: Experience in Data Architect, Database Management, Statistics or related field. Experience with R, Python or SAS
+
+Minimum Education: Master's degree Combined experience/education as substitute for minimum education Minimum Experience: 1 year Combined education/experience as substitute for minimum experience Preferred Education: Master's degree Preferred Experience: 2 years Minimum Field of Expertise: Experience in Biostatistics, Statistics or related field. Experience with SAS, R or STATA.

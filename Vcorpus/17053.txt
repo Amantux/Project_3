@@ -1,0 +1,55 @@
+About GLOBALFOUNDRIES
+
+GLOBALFOUNDRIES is the world's first full-service semiconductor foundry with a truly global footprint. Launched in March 2009, the company has quickly achieved scale as one of the largest foundries in the world, providing a unique combination of advanced technology and manufacturing to more than 250 customers. With operations in Singapore, Germany and the United States, GLOBALFOUNDRIES is the only foundry that offers the flexibility and security of manufacturing centers spanning three continents. The company's 300mm fabs and 200mm fabs provide the full range of process technologies from mainstream to the leading edge. This global manufacturing footprint is supported by major facilities for research, development and design enablement located near hubs of semiconductor activity in the United States, Europe and Asia. GLOBALFOUNDRIES is owned by Mubadala Development Company. For more information, visit http://www.globalfoundries.com.
+
+Summary of Role:
+This requirement is for the 'Staff Data Custodian - Onshore' role.
+Working as a Data Custodian, you will be responsible for owning the overall data (between systems), maintains accuracy and currency of the assigned data, and determines the security classification level of the data, help business teams begin to own their data in source systems by helping them review, clean, maintain, and then hand off for maintenance.
+Essential Responsibilities:
+Own the end to end master data attributes and make the respective Business owners accountable for Source system data integrity.
+Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the IT/Other business teams to improve the data collection and quality.
+Understand data landscape i.e tooling, tech stack, source systems etc. and work closely with the IT/Other business teams to improve the data collection and quality.
+Access to the data is authorized and controlled
+Technical processes sustain data integrity
+Processes exist for data quality issue resolution in partnership with Stewards & Analysts
+Technical controls safeguard data
+Data added to data sets are consistent with the common data model
+Versions of Master Data are maintained along with the history of changes
+Change management practices are applied in maintenance of the datasets
+Data content and changes documentation ownership for audits
+Work with various stakeholder groups, ensuring that business requirements are captured and met
+Maintaining and executing SQL against both structured and unstructured data sets
+Track work and provide updates in project management tools
+Directly work with the ETL Engineers and Data Analysts to communicate and define reporting requirements
+Perform all activities in a safe & responsible manner and support all Environmental, Health, Safety & Security requirements and programs.
+Required Qualifications:
+Bachelor's degree in data analytics or Computer Science or Information Technology or a related field
+5 years of data scientist experience with proven industry experience in a large scale environment
+Strong data & modeling background
+Ability to comprehend and debug complex systems integrations spanning toolchains and teams
+Practical experience with and theoretical understanding of algorithms for classification, regression, clustering, and anomaly detection
+Ability to implement data science pipelines and applications in a general programming language such as Python, R any other industry standard
+Ability to extract meaningful business insights from data and identify the stories behind the patterns
+Investigate adversarial trends, identify behavior patterns, and respond with agile logic changes
+Proven track record of applying data insights and machine learning in order to address business needs and drive revenue.
+Familiarity with Big Data tools like Spark, Hive etc.
+Predictive Modeling techniques, Machine Learning, Model creation and deployment, Storytelling and Visualization
+Past experience working as an Analyst at a Staff or equivalent level
+Good communication skills (includes oral & written)
+Language Fluency - English
+Good analytical skills are a MUST required qualification for this role.
+Strong knowledge of SQL (or any query language)
+Experience visualizing data with Power BI (or similar software)
+Ability to quickly build relationships with department and other stakeholders
+Aptitude for meaningful interpretation and application of data for the purpose of process improvement
+Must have a proactive, collaborative approach to problem solving
+Ability to work autonomously and apply problem-solving skills
+Ability to work with a sense of urgency and prioritize in a deadline driven environment
+Act with integrity in all ways and at all times, remaining honest, transparent, and respectful in all relationships
+If you need a reasonable accommodation for any part of the employment process, please contact us by email at usaccommodations@globalfoundries.com and let us know the nature of your request and your contact information. Requests for accommodation will be considered on a case-by-case basis. Please note that only inquiries concerning a request for reasonable accommodation will be responded to from this email address.
+
+An offer of employment with GLOBALFOUNDRIES is conditioned upon the successful completion of a background check and drug screen, as applicable and subject to applicable laws and regulations.
+
+GLOBALFOUNDRIES is fully committed to equal opportunity in the workplace and believes that cultural diversity within the company enhances its business potential. GLOBALFOUNDRIES goal of excellence in business necessitates the attraction and retention of highly qualified people. Artificial barriers and stereotypic biases detract from this objective and may be illegally discriminatory.
+
+All policies and processes which pertain to employees including recruitment, selection, training, utilization, promotion, compensation, benefits, extracurricular programs, and termination are created and implemented without regard to age, ethnicity, ancestry, color, marital status, medical condition, mental or physical disability, national origin, race, religion, political and/or third-party affiliation, sex, sexual orientation, gender identity or expression, veteran status, or any other characteristic or category specified by local, state or federal law.

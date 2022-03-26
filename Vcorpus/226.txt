@@ -1,0 +1,36 @@
+We love programming and the excitement that comes with building something people use. We are the kind of people that love talking to users and can find the balance between solving a problem quickly and thinking about how your code will work in the future. We love to move fast, keep learning and get stuff done.
+
+Our data science team is still in its early days and you'll have a big impact on our direction and how we operate. You'll be central to researching, developing and shipping products that help our customers learn and grow from their data. For this role, we're looking for people who have developed split brains--software engineers who have become great at writing machine learning code or data scientists who have become great software developers.
+
+Technologies we use (not comprehensive!):
+Python
+
+Numpy, Scipy, Pandas
+
+Aurora, Cassandra, Kafka
+
+HTML, JavaScript, React
+
+SageMaker
+
+How you will make a difference:
+
+
+Analyze large data sets (we're collecting billions of individual actions every month).
+Build products that enable our customers to grow faster and communicate more effectively with their customers.
+Develop machine learning models and pipelines for research and production.
+
+Who You Are:
+
+
+Have experience implementing machine learning models, data pipelines and testing frameworks for research and production use.
+Have demonstrated a measurable impact based on the models you've created. It's not always easy getting a model correct, we love talking about places we got stuck and work as a team to think through ideas that could unblock us.
+Have experience processing cloud-scale data using parallel, elastic, streaming and similar techniques.
+Enjoy tuning and validating machine learning models and take a rigorous approach.
+Understand how to profile code and optimize performance.
+Aspire to correctness (e.g. in your code, in drawing conclusions from data)
+Have a bachelor's or advanced degree in computer science, applied math, statistics or other relevant quantitative discipline, or equivalent industry experience.
+
+Get to know Klaviyo
+
+Klaviyo is the world's leading owned marketing platform known for accelerating revenue for online businesses using the channels they own like email, web, and mobile. Enabling companies to leverage these owned marketing channels, Klaviyo makes it easy to store, access, analyze and use transactional and behavioral data to power highly-targeted customer and prospect communications. And unlike other marketing platforms, Klaviyo doesn't force companies to compromise between advanced functionality or ease of use - so companies of all sizes are able to maximize their sales quickly. That's why over 28,000+ innovative companies like Unilever, Custom Ink and Eventbrite sell more with Klaviyo.

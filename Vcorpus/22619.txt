@@ -1,0 +1,43 @@
+Company Description:
+
+divvyDOSE is a healthcare startup located in Chicago’s River North neighborhood. Our vision is a life where medicine does what it's supposed to, and people get the attention and care they deserve. We strive to improve the quality of life through innovative design and compassionate customer service that allows medicine to get out of the way of our customers’ lives.
+
+Our company is professional but fun, dedicated yet quirky. We are fast-paced, highly-motivated individuals who focus on health and wellness (and if we’re being honest, sometimes pizza) and most of us have slight obsessions with our pets. We want to make a difference in the lives of our customers by treating them like friends and family.
+
+** Open to remote employees **
+
+Requirements
+
+BI Developers at divvyDOSE help transform data from our services into consumable published data Explores and Dashboards in our Looker platform. Working on focused, prioritized deliverables, they build and maintain the LookML layer, SQL queries, dashboard standards, and general health of our Looker infrastructure.
+
+Responsibilities
+Develop and update clear, high-performing Explores and dashboards for business stakeholders such as Finance, Operations, or Technology
+Create new Explores to enable non-technical analysts to access data, build dashboards, and solve critical business challenges
+Create new complex dimensions and measures for analysts to meet their business needs
+Help create and maintain coding standards (style guides, etc.) and perform code reviews for other BI developers or technical analysts
+Update production explores and dashboards to ensure consistent and accurate data as underlying data warehouse changes
+Promote and ensure the use of a common semantic layer, dimension definitions, and metric calculations across all business areas.
+Maintain Looker infrastructure
+Write SQL, build derived tables, and work with data engineering to ensure queries are performant and maintainable
+Ensure project:model:view structure is optimized and re-architect as needed for growing business use cases
+Build and maintain monitoring dashboards for the Looker platform
+Optimize performance through re-architecting as needed
+Partner with data engineering on larger projects to optimize the data warehouse layer for Looker performance
+Required Skillset
+minimum of 2+ years of experience in similar role
+Excellent SQL skills and advanced proficiency in LookML
+Previous experience building scalable BI platforms, including the use of code review processes, automated testing, staging and production environments, and release schedules is preferred
+Knowledge of software development processes and best practices (code style guides, linting, PR reviews, Github branch/merge processes, etc.)
+Working or advanced knowledge of data warehouse best practices
+Understanding of how to write readable code and documentation
+Working knowledge of agile development processes
+Experience with python or other languages is a plus
+Benefits
+
+In addition to a competitive salary our company offers comprehensive medical, dental, and vision plans and contributes to an HSA annually.
+
+Our Engineering Culture:
+
+We are a very collaborative, close knit group that is inclusive, fun and hard working. Our number one priority after producing a great product is keeping that spirit alive. We have a firm, non-negotiable no jerk policy. We have a generous time off and work from home policy and strive to create an environment where you can do your best work.
+
+divvyDOSE provides equal employment opportunity to all qualified applicants regardless of race, color, religion, national origin, sex, sexual orientation, gender identity, age, disability, pregnancy, genetic information, or veteran status, or other legally protected classification in the state in which a person is seeking employment. divvyDOSE is a drug-free and tobacco-free work environment.

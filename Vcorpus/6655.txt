@@ -1,0 +1,77 @@
+Are you motivated to work in an environment that will challenge you, force you to continuously innovate, and work on solutions that make a difference for our customers? Do you want to be part of a transformation that leverages the cloud to build and deliver new capabilities? If so, there is a future for you to support a portfolio of highly visible and strategic programs at Northrop Grumman.  
+
+Northrop Grumman Mission Systems is seeking a Software Data Scientist 3/4to join our team of qualified, diverse individuals located at Laurel, MD. 
+
+ Roles and Responsibilities:  
+The ideal candidate should be an experienced data scientist that can automate scoring using machine learning techniques, build recommendation systems, and select the correct data points for analysis from the existing KPIs or recommend new KPIs to improve efficiency of the algorithm. 
+
+The candidate will engage in two main projects: 
+
+1) Analyze current data feed usage on GM clusters (development through production) to produce reports about data feed usage by date. I.E., first X days of data fed are used by 90% of analytics (accessed XX times/day), the remaining X2 days of Y data feed are used by 1% of analytics, etc. 
+2) Analyze efficiency of production map/reduce analytics to produce an efficiency score for the usage of corporate resources. Identify slow points or chokepoints in the system infrastructure through analytic models.  
+
+This position can be filled with either a level 3 or a level 4 depending on qualifications. 
+
+ MSCYBERMD  
+ 
+ This position can be filled with either a level 3 or a level 4 depending on qualifications.  
+   
+ Basic Qualifications for a Level 3:  
+ Shall have at least five (5) years experience in software development/engineering, including requirements analysis, software development, installation, integration, evaluation, enhancement, maintenance, testing, and problem diagnosis/resolution. 
+ Shall have at least four (4) years of experience developing software with high level languages such as Java, C, C++. 
+ Shall have demonstrated experience working with OpenSource (NoSQL) products that support highly distributed, massively parallel computation needs such as Hbase, CloudBase/Acumulo, Big Table, etc. 
+ Shall have demonstrated work experience with the Map Reduce programming model and technologies such as Hadoop, Hive, Pig, etc. 
+ Shall have demonstrated work experience with the Hadoop Distributed File System (HDFS). 
+ Shall have demonstrated work experience with serialization such as JSON and/or BSON. 
+ Shall have demonstrated work experience developing Restful services 
+ Shall have demonstrated work experience in the requirements analysis and design of at least one Object Oriented system. 
+ Shall have demonstrated work experience developing solutions integrating and extending FOSS/COTS products. 
+ Shall have at least three (3) years experience in software integration and software testing, to include developing and implementing test plans and test scripts 
+ Shall have demonstrated technical writing skills and shall have generated technical documents in support of a software development project. 
+ Shall have at least three (3) years experience developing software for Windows (2000, 2003, XP, VISTA) or UNIX/Linux (Redhat versions 3-5) operating systems. 
+ Extensive experience with data analytics 
+ Hadoop 
+ Linux 
+
+ Basic Qualifications for a Level 4:  
+
+ Shall have at least nine (9) years experience in software development/engineering, including requirements analysis, software development, installation, integration, evaluation, enhancement, maintenance, testing, and problem diagnosis/resolution. 
+ Shall have at least four (6) years of experience developing software with high level languages such as Java, C, C++. 
+ Shall have demonstrated experience working with OpenSource (NoSQL) products that support highly distributed, massively parallel computation needs such as Hbase, CloudBase/Acumulo, Big Table, etc. 
+ Shall have demonstrated work experience with the Map Reduce programming model and technologies such as Hadoop, Hive, Pig, etc. 
+ Shall have demonstrated work experience with the Hadoop Distributed File System (HDFS). 
+ Shall have demonstrated work experience with serialization such as JSON and/or BSON. 
+ Shall have demonstrated work experience developing Restful services 
+ Shall have demonstrated work experience in the requirements analysis and design of at least one Object Oriented system. 
+ Shall have demonstrated work experience developing solutions integrating and extending FOSS/COTS products. 
+ Shall have at least three (3) years experience in software integration and software testing, to include developing and implementing test plans and test scripts 
+ Shall have demonstrated technical writing skills and shall have generated technical documents in support of a software development project. 
+ Shall have at least five (5) years experience developing software for Windows (2000, 2003, XP, VISTA) or UNIX/Linux (Redhat versions 3-5) operating systems. 
+ Extensive experience with data analytics 
+ Hadoop 
+ Linux 
+ 
+ Education:  Bachelor's Degree in Computer Science or related discipline from an accredited college or university is required; Four (4) years of additional Data Scientist and/or Software Engineering experience on projects with similar software processes may be substituted for a bachelor's degree. 
+
+ Security Clearance:  Active TS/SCI with FS Polygraph is required. 
+
+Northrop Grumman is committed to hiring and retaining a diverse workforce. We are proud to be an Equal Opportunity/Affirmative Action Employer, making decisions without regard to race, color, religion, creed, sex, sexual orientation, gender identity, marital status, national origin, age, veteran status, disability, or any other protected class. For our complete EEO/AA and Pay Transparency statement, please visit  www.northropgrumman.com/EEO . U.S. Citizenship is required for most positions. 
+
+Job Summary
+
+                             
+                     
+                         Location 
+                             Annapolis Junction, MD 20701 
+                     
+                 
+                             
+                     
+                         Posted 
+                         6 Days ago 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         18023417

@@ -1,0 +1,38 @@
+At Veeva, we build enterprise cloud technology that powers the biggest names in the pharmaceutical, biotech, consumer goods, chemical & cosmetics industries. Our customers make vaccines, life-saving medicines, and life-enhancing products that make a difference in everyday lives. Our technology has transformed these industries; enabling them to get critical products and services to market faster. Our core values, Do the Right Thing, Customer Success, Employee Success, and Speed, guide us as we make our customers more efficient and effective in everything they do.
+
+The Role
+
+As a Front-End (UI) Engineer on the Veeva Data Cloud team, you will build user interfaces to support data visualizations, application management and internal devops tools for Crossix’ data insights products, using modern frameworks. You’ll be a part of a small team focused on building Veeva Data Cloud from the ground up. You’ll be building the user interfaces that allow our customers to configure core settings, check the status of various jobs, understand insights, and drill into insights to learn more. You'll integrate with the backend REST services and will work directly with the backend team to ensure the API design is correct.
+What You’ll Do
+Work with a UX Designers and PM team to review feature designs and determine how best to implement them
+Design and build the user interfaces in an agile environment using react, redux and other modern web development tools and patterns
+Work with the other developers on the team on the design of the REST APIs used by the UI
+Integrate your UIs with other systems (building web component-based products)
+Work in a small team environment within a highly successful company that is growing fast
+Play with the latest technology and keep your skills current
+Requirements
+10+ years of overall software development experience, with an emphasis on front end engineering
+Experience developing cloud based web services
+Proficient in JavaScript
+Proficient in Node.js, JavaScript build tools, and JavaScript frameworks such as React, Redux, Ractive, Ember, or Angular, knowledge of when to use them
+Experienced in use Data visualization libraries (chart.js, highcharts, D3, etc)
+Had a focus on creating high performing, scalable products and capability to make decisions on trade-offs between innovative UX and implementation complexity
+Creativity and a self-starting willingness to explore new technologies
+Extensive experience in hiring and developing high-performing engineers
+College degree in math, computer science, systems engineering or a similar technical field
+Nice to Have
+Proficient in Linux, SQL, relational databases
+Proficient in Apache/Tomcat
+Proficient in Python
+Worked using an agile sprint-based methodology
+Developed test methodology for web applications
+Experience building enterprise web applications which specifically facilitate data analysis
+Perks & Benefits
+Office conveniently located in midtown Manhattan and close to several major transportation hubs
+Fully stocked kitchen with snacks and beverages
+Fitness/wellness reimbursement
+Allocation for continuous learning and development
+Weekly happy hours and other social activities
+Veeva’s headquarters is located in the San Francisco Bay Area with offices in more than 15 countries around the world.
+
+Veeva is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity or expression, religion, national origin or ancestry, age, disability, marital status, pregnancy, protected veteran status, protected genetic information, political affiliation, or any other characteristics protected by local laws, regulations, or ordinances.

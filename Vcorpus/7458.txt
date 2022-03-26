@@ -1,0 +1,53 @@
+We are looking for a Data Scientist interested in solving one of the world's largest problems: financial inclusion. Our team is doing cutting edge work in the field of Data Science and Machine Learning, using unique data to give people in emerging markets access to something that they’ve never had before - credit. Our Data Scientists work directly with Credit, Engineering, and Data Analytics teams to develop and iterate models that promote our vision of financial access for a billion people in emerging markets around the world.
+
+We leverage a unique, diverse, and deep data set, including text, network analysis, and image recognition. You’ll be surprised by the connections between our different data sources! Our Data Scientist are tasked with finding and communicating these connections to the team while integrating them into various models. If you are motivated to change the world through financial freedom and love working with people and data to achieve this mission, we want you here at Tala.
+
+Responsibilities:
+
+Leverage a unique, diverse, and deep data set to find connections across these data sources. Communicate findings to the team and integrate them into models.
+
+Own the full-cycle of a model from ideation and training through deployment into our production environment. This might be a credit model, fraud model, marketing model, or an iteration of an existing model.
+
+Monitor model performance once deployed and iterate rapidly if necessary.
+
+Contribute and share your findings and knowledge of data science and other modeling with all appropriate cross-functional teams.
+
+Partner with the Engineering team to develop, test and deploy models.
+
+Pull data from MySQL or other data stores, handling all the ETL from the DB to running the model to obtaining a decision.
+
+Requirements:
+
+4+ years of experience in a data science role.
+
+Masters or PhD in a quantitative field.
+
+Fluent in Python and packages related to machine learning.
+
+Experience with deploying data science models in a production environment.
+
+Preferred Skills & Experience:
+
+Experience in building fraud, credit, or risk models
+
+Expertise in NLP, network analysis, or geospatial analysis
+
+A Successful Candidate is (a/an):
+
+Problem Solver: You thrive on finding novel solutions to hard problems. These problems may have ranged from extracting a new dataset from an unexpected source, to building cohorts for customer retention analysis, or the NY Times Saturday crossword.
+
+Communicator and Listener: You thrive on finding novel solutions to hard problems. These problems may have ranged from extracting a new dataset from an unexpected source, to building cohorts for customer retention analysis, or the NY Times Saturday crossword.You know your stuff is complicated, but can you communicate complex ideas to others in a manner that is easily understood and digestible? Can you collaborate well with your peers in growth/portfolio/customer experience? There is a large research component to the job, and this research needs to be effectively shared with the rest of the company.
+
+Independent Learner: We encounter new problems that aren’t in textbooks. You have the ability to learn on your own about new concepts and techniques.
+
+Curious: You aren’t content until you understand why the features you have built have the explanatory power they do, and why they aren’t just a spurious correlation.
+
+Opinionated (but Open-Minded): We are looking for someone to add diversity of thought to our current ensemble of data scientists.
+
+Teammate/Partner: Trust in your team and putting the team and mission above individual highlights (with an understanding that the collection of individual highlights and performance makes the team work).
+
+We strongly believe that inclusion fosters innovation and we’re proud to have a diverse team with a wide variety of backgrounds and experiences. We focus on hiring talented people regardless of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+
+About Tala:
+
+Tala is the leading mobile technology and data science company committed to financial inclusion globally. Millions of people have borrowed through Tala's smartphone app, which provides instant, personalized credit to underserved customers in East Africa, Southeast Asia, and Latin America. Tala is backed by leading venture and impact investors including PayPal, Revolution Growth, IVP, and Lowercase Capital. Tala is headquartered in Santa Monica with additional offices in Nairobi, Manila, Dar Es Salaam, Mexico City, and Bangalore.

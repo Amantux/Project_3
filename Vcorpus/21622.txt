@@ -1,0 +1,23 @@
+Upstart is looking for a Data Analyst to own and scale data reporting and analytics for our investors. You will be a critical member of Upstart’s analytics team to own credit performance data analysis and reporting by developing reports and building repeatable and scalable data quality audits. Through your efforts, we’ll be able to ensure reporting accuracy and consistency across company to monitor and report loan performance. You are Upstart’s data ambassador to our current and future investors. If you are naturally curious, have good SQL skills, love data, and can communicate complex concepts with technical and non-technical people, this could be a great opportunity for you.
+Here is more about what you’ll be doing:
+Partner with Investor Operations, Business Development, Data Science and Engineering teams to collect and analyze loan performance data and contribute to credit analytics and deliver insights.
+Formulate and apply mathematical modeling and other optimizing methods to develop and interpret business information and the key metrics that measure loan performance.
+Own data reporting process for securitization and investor reporting. Proactively identify data quality and integrity issues that affect the accuracy of reporting. Run recurring data audits to ensure accuracy of data systems and business processes. Report on test execution, defect tracking and regression for project releases. Write clear, actionable test plans and reports. Create some level of automation using framework.
+Create reports and dashboards in BI tools such as Looker. Monitor trends in relevant metrics and report on key insights on daily basis.
+Work with various big data platforms, databases and systems such as AWS, Redshift and other big data technologies.
+Participate in data modeling and architecture discussion, influence data products roadmap, and take ownership and responsibility of new projects.
+Work closely with engineering teams to ensure quick turnaround on fixes. Take ownership of communicating changes to the appropriate end-users.
+Work with data service providers to explore APIs, analyze and forecast impact of integrating new data sets. Work with Engineering throughout the entire process of onboarding new data sets.
+Here is what we're looking for:
+BS/MS Degree in Engineering, Computer Science, Statistics, Economics, Finance, or other highly quantitative/analytical field
+3+ years of professional experience in SQL querying and proven ability to work with large and complex data set
+3+ years of professional experience performing data analytics that influence business decision making
+Knowledge to translate business requirements to Data Warehousing and ETL
+Experience in data analytics tools such as Python, Pandas or R
+Strong communication and client-facing data presentation skills
+Proven ability to learn quickly, work independently, and adapt to change in a fast-paced environment
+Organized and able to juggle multiple tasks while still meeting deadlines
+Bonus points
+Experience with Amazon Redshift
+Experience with BI/reporting tools such as Looker or Tableau
+Previous consumer marketplace lending industry experience on capital market, finance or compliance is not required but a plus

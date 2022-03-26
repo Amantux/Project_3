@@ -1,0 +1,49 @@
+Bachelor's degree in Statistics, Applied Math, Operations Research, Economics, or a related quantitative field with 5 years of working experience as a Data Scientist
+
+Proficient with data analysis and modeling software such as Spark, R etc.
+
+Proficient with using scripting language such as Python and data manipulation/analysis libraries such as Scikit-learn and Pandas for analyzing and modeling data.
+
+Experienced in using multiple data science methodologies to solve complex business problems.
+
+Experienced in handling large data sets using SQL and databases in a business environment.
+
+Excellent verbal and written communication.
+
+Strong troubleshooting and problem solving skills.
+
+Thrive in a fast-paced, innovative environment.
+
+The AWS Demand Forecasting and Planning team is responsible for growing the world's largest Cloud. We forecast customer demand, build ML systems that understand customer needs, and drive utilization improvement for all AWS services.
+
+What we own:
+
+Building a world-class forecasting platform that scales to handling billions of time series data in real time.
+
+Expanding inventory replenishment models and systems for each AWS service in the fast-growing AWS product portfolio.
+
+Finding out the optimal tradeoff between AWS service availability and fleet utilization.
+
+Driving fleet utilization improvement where each 1% means tens of millions of additional free cash flow.
+
+Automating tactical and strategic capacity planning tools to optimize for service availability and infrastructure cost.
+
+What you will learn:
+
+State of the art forecasting methodologies.
+
+Application of machine learning to large-scale customer analytics.
+
+Inventory management and supply chain management for the Cloud.
+
+Resource management and admission control for the Cloud.
+
+The internals of all AWS services.
+
+Keywords:
+
+Forecasting, Statistics, Machine Learning, Optimization, Inventory Management, Supply Chain Management, AWS, Cloud, Cloud Computing, EC2, S3, EBS, DynamoDB, CloudFront, Java, C++, Object Oriented, R, Distributed Systems, High Availability, Scalability, Concurrent
+
+Master's degree in Statistics, Applied Math, Operations Research, Economics, or a related quantitative field with at least 2 years of working experience as a Data Scientist.
+
+Experienced in writing academic-styled papers for presenting both the methodologies used and results for data science projects.

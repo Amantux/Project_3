@@ -1,0 +1,27 @@
+Are you interested in helping people become better drivers and saving lives? Cambridge Mobile Telematics (CMT) makes roads safer by helping drivers improve.
+
+At CMT, a Data Scientist has the opportunity to work on an extremely wide variety of technical areas. We collect high-volume, high-velocity data generated from smartphone and IoT sensors in vehicles. We clean, normalize and fuse multiple data sources using time series signal processing techniques, handing noise, censoring, and non-uniform sampling. Next, we determine which behaviors might indicate risky driving, using robust statistical analyses and feature engineering. We produce an estimate of aggregate driving risk using GLMs and ML regressors. Finally, given the risk estimate, we determine how we can most effectively help drivers modify and improve their driving by performing experiments and mining data.
+
+Our Data Scientists are expected to read, write and test high quality Python code that will run in a production environment. Familiarity with standard Python libraries (scipy/numpy/pandas) is essential.
+
+Basic qualifications:
+
+BA/BS in Computer Science, Engineering, Mathematics or related technical discipline
+
+3+ years of work experience, involving statistical modeling and significant software development
+
+Strong programming skills for constructing and understanding data pipelines
+
+Preferred qualifications:
+
+MS / PhD plus several years of relevant experience
+
+Experience with AWS or similar cloud computing environment
+
+Expertise machine learning, data mining, and (robust) statistics
+
+Experience in designing data pipelines and products for real world applications
+
+Experience with modern/emerging scalable computing platforms and languages (e.g. Spark)
+
+Cambridge Mobile Telematics provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, sexual orientation, protected veteran status or genetics. In addition to federal law requirements, Cambridge Mobile Telematics complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.

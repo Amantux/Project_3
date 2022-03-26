@@ -1,0 +1,148 @@
+Read what people are saying about working here. 
+
+Senior NLP Data Scientist
+
+Position Summary:
+
+At eHealth, we are passionate about solving our nation's toughest problems to bring more suitable, accessible, and affordable health insurance to Americans. We are seeking an exceptional Senior NLP Data Scientist to join our growing team, which is developing cutting-edge analytic tools to drive better and faster decision making within our company and to better understand and serve our customers.
+
+At eHealth, our call centers handle on average 5,000 calls a day ranging from health insurance enrollment calls to customer service calls. These calls have a wealth of customer information which can be leveraged to improve customer satisfaction and call center efficiency. As a Senior NLP Data Scientist, you’ll get to dive head first into this massive corpus to uncover the insights that would lead to a significant business impact. You will help us understand and improve customer experiences using advanced text analytics, machine learning models, and deep learning models.
+
+Areas we are exploring:
+
+NLP/NLU/NLG
+
+Conversational UI, Chatbots
+
+Intent Classification
+
+Information Retrieval, Knowledge Graphs
+
+Document Understanding
+
+Responsibilities:
+
+Implement NLU/NLP solutions to extract value from our historical customer calls data.
+
+Deconstruct customer-agent conversations to programmatically extract concepts and relationships between concepts in various conversation scenarios.
+
+Design, build, develop, validate, productionize, monitor, and maintain NLP machine learning and deep learning models.
+
+Work with various business lines like sales and marketing to identify opportunities for NLP and translate them into actionable data science projects.
+
+Assist in incorporating text data as features to existing models in production.
+
+Be the in-house NLP expert, lead NLP initiatives, and help cultivate company-wide best practices for NLP.
+
+Work with data engineers to design data pipelines to effectively store, normalize and access text data.
+
+Basic Qualifications:
+
+M.S. or Ph.D. in Computational Linguistics, Data Science, Engineering, Statistics, Computer Science, or a related quantitative field.
+
+3+ years industry experiences in text mining, information retrieval, knowledge extraction and building knowledge graphs from large text corpora.
+
+3+ years industry experience in building and productionizing NLP machine learning and deep learning models in Python or another programming language.
+
+3+ years industry experience working with SQL (Oracle, MySQL, MSSQL) and NoSQL (Mongo DB, ELK) databases.
+
+Mastery of common NLP techniques and models (tokenization, parts of speech tagging, stemming, lemmatization, named entity recognition, sentiment analysis, TF-IDF, topic modeling, bag of words, word vectors, language modeling, seq2seq, LSTMs, Transformers, etc).
+
+Familiarity with NLP frameworks and toolkits in Python (gensim, spaCy, NLTK, Convokit, AllenNLP, fastText) or Java (Stanford CoreNLP, NLP4J, OpenNLP).
+
+Mastery of data wrangling libraries (Pandas, Numpy), scientific computing libraries (Scipy, Statsmodels), and machine learning libraries (Scikit-learn, h2o.ai, MLlib, Tensorflow, Keras, PyTorch).
+
+Excellent communication skills in written and verbal forms, and an ability to communicate complex technical issues to a range of technical and non-technical audiences (management, peers, clients).
+
+Passion for learning and always improving yourself and the team around you.
+
+Nice to Have:
+
+Experience with AWS ecosystem (AWS Transcribe and AWS Comprehend) or Google Could Natural Language API.
+
+Experience with chatbot frameworks like Rasa NLU, Dialogflow (api.ai), etc.
+
+Familiarity with state-of-the-art NLP research such as ELMo, BERT, GPT-2, etc.
+
+The Company
+
+An industry innovator over the past decade, eHealth, Inc. is a technology company that is transforming the way health insurance is bought and sold in the United States.
+
+Today, eHealthInsurance.com has enrolled over 5 million people in health insurance coverage and is the leading online marketplace for individually and family health insurance products in the nation. Licensed to market and sell health insurance in all 50 states and the District of Columbia, eHealthInsurance was responsible for the nation's first Internet-based sale of a health insurance policy, and we have partnerships with more than 180 health insurance companies, and offer more than 10,000 health insurance products online. Every day we provide thousands of visitors with information about a broad array of health insurance-related topics and plans, including a selection of price and benefit options, complemented by a full-service Customer Care Center of highly trained customer service representatives
+
+eHealth is an Equal Employment Opportunity employer. It is our policy to provide equal opportunity to all employees and applicants and to prohibit any discrimination because of race, color, religion, sex, national origin, age, marital status, sexual orientation, genetic information, disability, protected veteran status, or any other consideration made unlawful by applicable federal, state or local laws. The foundation of these policies is our commitment to treat everyone fairly and equally and to have a bias-free work environment.
+
+ 
+
+Senior NLP Data Scientist
+
+Position Summary:
+
+At eHealth, we are passionate about solving our nation's toughest problems to bring more suitable, accessible, and affordable health insurance to Americans. We are seeking an exceptional Senior NLP Data Scientist to join our growing team, which is developing cutting-edge analytic tools to drive better and faster decision making within our company and to better understand and serve our customers.
+
+At eHealth, our call centers handle on average 5,000 calls a day ranging from health insurance enrollment calls to customer service calls. These calls have a wealth of customer information which can be leveraged to improve customer satisfaction and call center efficiency. As a Senior NLP Data Scientist, you’ll get to dive head first into this massive corpus to uncover the insights that would lead to a significant business impact. You will help us understand and improve customer experiences using advanced text analytics, machine learning models, and deep learning models.
+
+Areas we are exploring:
+
+NLP/NLU/NLG
+
+Conversational UI, Chatbots
+
+Intent Classification
+
+Information Retrieval, Knowledge Graphs
+
+Document Understanding
+
+Responsibilities:
+
+Implement NLU/NLP solutions to extract value from our historical customer calls data.
+
+Deconstruct customer-agent conversations to programmatically extract concepts and relationships between concepts in various conversation scenarios.
+
+Design, build, develop, validate, productionize, monitor, and maintain NLP machine learning and deep learning models.
+
+Work with various business lines like sales and marketing to identify opportunities for NLP and translate them into actionable data science projects.
+
+Assist in incorporating text data as features to existing models in production.
+
+Be the in-house NLP expert, lead NLP initiatives, and help cultivate company-wide best practices for NLP.
+
+Work with data engineers to design data pipelines to effectively store, normalize and access text data.
+
+Basic Qualifications:
+
+M.S. or Ph.D. in Computational Linguistics, Data Science, Engineering, Statistics, Computer Science, or a related quantitative field.
+
+3+ years industry experiences in text mining, information retrieval, knowledge extraction and building knowledge graphs from large text corpora.
+
+3+ years industry experience in building and productionizing NLP machine learning and deep learning models in Python or another programming language.
+
+3+ years industry experience working with SQL (Oracle, MySQL, MSSQL) and NoSQL (Mongo DB, ELK) databases.
+
+Mastery of common NLP techniques and models (tokenization, parts of speech tagging, stemming, lemmatization, named entity recognition, sentiment analysis, TF-IDF, topic modeling, bag of words, word vectors, language modeling, seq2seq, LSTMs, Transformers, etc).
+
+Familiarity with NLP frameworks and toolkits in Python (gensim, spaCy, NLTK, Convokit, AllenNLP, fastText) or Java (Stanford CoreNLP, NLP4J, OpenNLP).
+
+Mastery of data wrangling libraries (Pandas, Numpy), scientific computing libraries (Scipy, Statsmodels), and machine learning libraries (Scikit-learn, h2o.ai, MLlib, Tensorflow, Keras, PyTorch).
+
+Excellent communication skills in written and verbal forms, and an ability to communicate complex technical issues to a range of technical and non-technical audiences (management, peers, clients).
+
+Passion for learning and always improving yourself and the team around you.
+
+Nice to Have:
+
+Experience with AWS ecosystem (AWS Transcribe and AWS Comprehend) or Google Could Natural Language API.
+
+Experience with chatbot frameworks like Rasa NLU, Dialogflow (api.ai), etc.
+
+Familiarity with state-of-the-art NLP research such as ELMo, BERT, GPT-2, etc.
+
+The Company
+
+An industry innovator over the past decade, eHealth, Inc. is a technology company that is transforming the way health insurance is bought and sold in the United States.
+
+Today, eHealthInsurance.com has enrolled over 5 million people in health insurance coverage and is the leading online marketplace for individually and family health insurance products in the nation. Licensed to market and sell health insurance in all 50 states and the District of Columbia, eHealthInsurance was responsible for the nation's first Internet-based sale of a health insurance policy, and we have partnerships with more than 180 health insurance companies, and offer more than 10,000 health insurance products online. Every day we provide thousands of visitors with information about a broad array of health insurance-related topics and plans, including a selection of price and benefit options, complemented by a full-service Customer Care Center of highly trained customer service representatives
+
+eHealth is an Equal Employment Opportunity employer. It is our policy to provide equal opportunity to all employees and applicants and to prohibit any discrimination because of race, color, religion, sex, national origin, age, marital status, sexual orientation, genetic information, disability, protected veteran status, or any other consideration made unlawful by applicable federal, state or local laws. The foundation of these policies is our commitment to treat everyone fairly and equally and to have a bias-free work environment.
+ An industry innovator for over fifteen (15) years eHealth, Inc. is an internet and technology company that is transforming the way health...

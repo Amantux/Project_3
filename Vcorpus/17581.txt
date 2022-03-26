@@ -1,0 +1,21 @@
+SUMMARY
+
+Hulus Data Reliability Engineering team is responsible for maintaining and improving the reliability of Hulus big data platform, which processes hundreds of Terabytes of data and billions of events daily. We are looking for a Reliability Engineer to help us in the ongoing mission of delivering an outstanding service to our users and make Hulu more data-driven. Additionally, you will work closely with the engineering teams on our incident management process including post-mortem, root cause analysis and preventing incident recurrence. Are you passionate about reliability engineering and automation? You will be making an outsized impact in an organization that values data as its top priority. If that is the case, we believe this is the role for you.
+
+WHAT YOU'LL DO
+You will collaborate with engineering teams to improve, maintain, performance tune, and capacity plan for Hulu's data platforms and infrastructure.
+Design business continuity and disaster recovery plans and processes, work with the engineering team in implementation.
+You will drive the incident management process for Hulus data platform working with our partner teams to perform incident post-mortems, root cause analysis and prevent reoccurring incidents.
+You will lead the standard change and release management process, automate and promote related best practices across engineering teams and help Hulu to meet and maintain legal compliance status.
+Build intelligent monitoring over data pipelines and infrastructure, to achieve early and automated anomaly detection!
+You'll work closely with software developers to build end-to-end automated testing framework and system-level testing environment.
+WHAT TO BRING
+Detailed problem-solving approach, coupled with a strong sense of ownership and drive
+A passionate bias to action and passion for delivering high-quality data solutions
+2+ experience working on Linux environment, and proficient with cloud environment (AWS)
+Experience coding in one or more of the following programming language: Python, Java, or Scala
+2+ years of hands-on experience in Reliability Engineering for high-performant, scalable and distributed data systems with a focus on automation
+Deep understanding of CI/CD principles, familiar with source control systems (Git)
+Attention to detail and quality with excellent problem solving and interpersonal skills
+BS/MS in Computer Science, Information Management or related field
+*LI-HF1

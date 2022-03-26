@@ -1,0 +1,29 @@
+What You'll Do
+
+Your role will be as a Software Engineer in SD-WAN NextGen Management plane (vManage) team. You will participate on a project team of highly skilled engineers involved in the software development for vManage, a centralized SD-WAN management controller.
+
+You will define, architect, design, and deliver new software and features in Enterprise networking management systems. Day to day activities will involve crafting new features, understanding features in an ambitious product, and proposing solutions that work for our platform. You will also be writing functional and design specifications, programming, unit and integration testing your code, helping review specifications and code for other software engineers on the team, and helping documentation team with the configuration aspects of your features.
+
+Who You'll Work With
+
+You will be part of an elite Software Engineering team that works on various ground-breaking technologies in Enterprise Switches and Routers connecting to Cloud applications. You will have the opportunity to work with leading-edge networking technologies in the areas of SD-WAN.
+
+Who You Are
+
+You are motivated, driven, and a teammate. You'll be willing to learn and be passionate about working on a wide range of product areas. You work well independently and as part of a team. Strong communication skills are meaningful.
+
+You have a strong background in software development including specification, implementation and testing.
+Extremely motivated, passionate about learning and contributing to the team and the business with "can do" attitude.
+Strong design/programming skills, Knowledge of designing dynamic large-scale, multi-tenant, distributed systems using Java/Cloud (AWS, Azure) environments is required. Working knowledge of virtualization/container technology Docker/Kubernetes is preferred.
+Should have extensive distributed systems experience in one or more of: Kafka, Neo4J, Elasticsearch technologies.
+Own what you build - Ability to ensure and commit to a higher standard of quality in the face of time-to-market pressures.
+Strong OS fundamentals and networking concepts is necessary.
+Hands on experience in VM and Container networking configuration is preferred.
+Strong working knowledge in yang models, configuration management, and operational models is necessary.
+From a technical point of view, you should have some familiarity with at least a few of these areas:
+BSCS + 6 years experience or MSCS + 4 years experience or equivalent degree
+Strong experience working with complex back-end distributed systems
+Experience in building and deploying MicroServices on containers such as Docker, Kubernetes etc
+Work with Production Support to assist with troubleshooting service stability, message topic or delivery issues, perform data related benchmarking, performance analysis, and tuning.
+Hands on with Java/J2EE development experience
+Build tools/systems to monitor and troubleshoot production issues

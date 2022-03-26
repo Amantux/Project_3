@@ -1,0 +1,46 @@
+Company Description
+
+Positioned at Publicis Groupe's core, Epsilon is a leader in interaction management, empowering brands to transform ordinary customer experiences into meaningful, human experiences. Through a connected suite of products and services, Epsilon combines leading-edge identity management, industrial strength data and technology expertise with big brand acumen gained over five decades working with the industry's top brands. Our human-powered, data-led marketing delivers unmatched depth, breadth and scale to help brands turn meaningful human interactions into exceptional business outcomes.
+
+Job Description
+
+Epsilon Auto's Platform QA team is seeking an experienced and versatile Lead Software Developer Engineer in Test, who is passionate about developing innovative, automated testing solutions. The candidate should be self-driven, with a strong background in Java, JavaScript and /or Python programming and test automation frameworks. The primary responsibility of the candidate will be to provide technical leadership, assist and mentor less experienced QA team members, work closely with Product, Development and QA teams to design and create a unified test automation framework to drive validation efforts for a highly complex software project.
+
+Responsibilities
+• Developing innovative approaches, techniques, and solutions in the areas of Automation, Performance Engineering, Continuous Testing, Continuous Delivery, Service Virtualization, Shift Left, BDD, TDD etc.
+• Analyzing how systems are being tested manually and identifying opportunities to reduce that time and effort through Automation.
+• Designing and creating robust automated test scripts to address business and technical use cases.
+• Maintaining, supporting and extending our existing in-house automation framework and automation suite.
+• Collaborating with Software Engineering Leaders, Project Managers, Product Managers, and others to ensure smooth integration of Quality Engineering solutions into the SDLC (Agile)
+• Meets regularly with Engineering leadership to provide metrics on and discuss software automation, quality, CI\CD, and security of our existing applications.
+• Researching and staying up to date on the latest tools, technologies, trends and approaches within the QE space and incorporating the ones that make sense.
+• Diagnose, debug and perform root-cause analysis of issues and defects
+• Actively participate in test planning discussions to assure automation coverage is continuously improving
+• Responsible for creating and maintaining various testing platforms.
+
+Qualifications
+• Bachelor's Degree or higher in Computer science or related field preferred
+• Passion for software development, testing and problem-solving
+• 8+ years' experience in QA role with automation responsibilities.
+• Experience using tools, frameworks and languages like Java, JavaScript, Python, Cucumber, Mocha, Jmeter, Jenkins, GIT, REST Assured, TFS, Azure DevOps, SonarQube, Veracode, New Relic etc.
+• Must have previous hands-on experience implementing an automation framework of front-end, back-end, and REST API services\applications.
+• 3+ Years' experience with CI\CD processes, tools, and platforms.
+• 3+ Years' experience working with globally distributed teams.
+• 3+ Years' experience working with MS SQL and\or Oracle databases and tools.
+• Working knowledge and experience using Agile with Scrum methodology.
+• Excellent communication skills. Ability to explain complex technical issues to both technical and non-technical audiences.
+• Team player as well as self-starter who needs little supervision. Able to use independent judgment to plan, prioritize and organize a diversified workload.
+• Comfortable working in a fast-paced and dynamic environment.
+
+Additional Information
+
+Great People, Deserve Great Benefits
+We know that we have some of the brightest and most talented associates in the world, and we believe in rewarding them accordingly. If you work here, expect competitive pay, comprehensive health coverage, and endless opportunities to advance your career.
+
+Epsilon is an Equal Opportunity Employer. Epsilon's policy is not to discriminate against any applicant or employee based on actual or perceived race, age, sex or gender (including pregnancy), marital status, national origin, ancestry, citizenship status, mental or physical disability, religion, creed, color, sexual orientation, gender identity or expression (including transgender status), veteran status, genetic information, or any other characteristic protected by applicable federal, state or local law. Epsilon also prohibits harassment of applicants and employees based on any of these protected categories.
+
+Epsilon will provide accommodations to applicants needing accommodations to complete the application process.
+
+#LI-JM1
+
+REF16130P

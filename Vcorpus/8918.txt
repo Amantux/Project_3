@@ -1,0 +1,53 @@
+Masters in quantitative field (Computer Science, Mathematics, Machine Learning, AI, Statistics, or equivalent)
+
+7+ years of experience of foundational statistics concepts and ML algorithms: linear/logistic regression, random forest, boosting, GBM, NNs, etc.
+
+3+ years of experience in at least one of Python, Java, Scala, C/C++
+
+2+ years of experience with Unix/Linux systems
+
+1+ years of experience with scikit-learn and pandas (or equivalent tools)
+
+Amazon disrupted many things - the way we shop, the way read books and the way we use computational resources just to name a few. In each case Amazon provided an awesome customer experience in a large part due to effectively using the immense data we have. The Data Center Systems team in AWS is responsible for software development running our data centers. Together with a highly multi-disciplinary team of scientist, engineers, strategic partners, product managers and subject domain experts you will work on building solutions powered by big data. You will work on the world's best cloud computing platform, with cutting edge big data tools at your disposal while having unparalleled access to best software development and machine learning experts.
+
+As a Data Scientist on the Central Analytics Team you will enable data-driven decision making within the Amazon Web Services Data Center Infrastructure Operations organization. The Infrastructure Operations Team is responsible for planning, implementing, monitoring and continuously improving the global Amazon Data Center infrastructure. The team supports all aspects of the Data Center based organizations, including but not limited to : Safety, Security, maintenance, daily operations, logistics, engineering and equipment management.
+
+You should have excellent business and communication skills, and be able to work with business owners to understand their data needs. You will primarily support teams within the Infrastructure environment, but will also have opportunities to support teams in the overall Amazon Web Services community. You will work with business customers and development teams to define analytics requirements and then deliver flexible, scalable, end-to-end solutions. You will have an opportunity to work with big data and emerging technologies while driving business intelligence solutions end-to-end.
+
+RESPONSIBILITIES
+
+Develop scalable data processing pipelines
+
+Perform exploratory data analysis and develop predictive models
+
+Collaborate with other engineers, and scientists to find effective solutions to technical challenges
+
+Analyze data covering a wide range of modalities (transactions, text, image etc)
+
+Communicate findings from complex analysis and modeling in a clear and effective manner
+
+Provide input for product road-maps
+
+· · Ph.D. degree (preferred) in computer science, statistics, or comparable statistically driven sciences field
+
+· · Ability to adapt concepts such as, new problem domains, algorithms, tools for analyzing data
+
+· · Ability to access, manage, transfer, integrate and analyze complex datasets, especially using SQL
+
+Experience with advanced ML models and concepts: HMMs, CRFs, MRFs, deep learning, regularization etc.
+
+5+ years of industry experience in data science or related areas
+
+Experience with working on large data sets, especially with Hadoop and Spark
+
+Experience with distributed databases such as MongoDB, HBase, Cassandra etc
+
+Experience with cloud computing platforms such as AWS
+
+Experience with data visualization tools such as Tableau, D3.js
+
+Meets/exceeds Amazon’s leadership principles requirements for this role
+
+Meets/exceeds Amazon’s functional/technical depth and complexity for this role
+
+Amazon is an Equal Opportunity Employer – Minority / Women / Disability / Veteran / Gender Identity / Sexual Orientation / Age.

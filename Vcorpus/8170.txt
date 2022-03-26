@@ -1,0 +1,57 @@
+Job Description
+
+In an established team based in San Francisco, you will get to influence how we work with data science as you generate insights that are actively put to use.
+
+Be advised
+
+As an intern, the whole audience management team will support you to grow your skills and help you to put your theoretical knowledge into action.
+
+Personalized topic of learning
+
+Within audience management, we are running several research projects on a large scope: social media, CRM, in-game… Pending on your background and your academic requirements, we will adapt the topic.
+
+Full stack scientist
+
+Even if you are an intern, you will be considered as a scientist and so, you will get access to a large panel of tools corresponding to different steps of the analysis. The most commons will be HiveQL for data extraction, Spark and Python for data analysis and Tableau for data visualization.
+
+To summarize: at the end of your VIE (1.5 years), you will be able to run a complete study by yourself.
+
+Daily activities in the Data Science team
+
+To give you an idea of the past and current projects, please find below a non-exhaustive sample of our daily activities.
+
+Contribution to the customer engagement
+
+The CRM data are composed of millions of players, who they are, what they played split in two databases on Hadoop, the other on Teradata. We have built different models which permit to cluster players for emailing campaign, to select players for betas or to improve the queue of the customer service.
+
+Contribution to the brand vision
+
+The brand teams are always eager to know better their players. To do so, we are using the YouTube public data stored into our Hadoop to extract trends based on the available meta-data at user level. We are also using the game tracking data, hundreds of billions of events per game, to know their game behaviors and hence help to shape the Brand vision.
+
+Contribution to the marketing performance
+
+The data science team is building the tools for monitoring the daily user acquisition: cost per acquisition, lifetime value and other measure of the player quality such as the addressability funnel.
+
+Contribution to the executive management topics
+
+The data science team have a close relationship with the executive management and we are often asked to quickly present an analysis about a hot topic.
+
+Qualifications
+
+Master in computer science, mathematics or related fields
+
+Proficiency in at least one programming language, preferably R or Python
+
+Knowledge of SQL
+
+Knowledge of data visualization
+
+Strong interest in the gaming industry
+
+Excellent communication and interpersonal skills
+
+Speak and write English fluently
+
+Additional Information
+
+All your information will be kept confidential according to EEO guidelines.

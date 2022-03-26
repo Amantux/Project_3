@@ -1,0 +1,64 @@
+:
+
+For internal Sandia applicants, this is a backfill position and this position is promotion eligible.
+
+We seek a strong technical contributor to lead our research efforts in neuromorphic computing and hardware accelerators. The successful candidate will be expected to expand our current work portfolio in emerging computing architectures by building up our current research and development efforts in architecture modeling and design. Our researchers are expected to conduct innovative research, publish and present results in refereed journals and conferences, work in multidisciplinary teams, and seek out new and significant problems of national importance. Collaboration with multi-disciplinary teams (in our local Sandia Center in Livermore and across Sandia to our ASC partners at our New Mexico site in Albuquerque) is essential to successfully realizing these objectives. Some travel may be required.
+
+On any given day, you may contribute to and lead activities in one or more of the following:
+Design and model new computing architectures including accelerator architectures that can heterogeneously integrate high performance logic with lower performance, radiation hardened controllers
+Develop fault tolerant architectures
+Develop new simulation tools including new simulation methodologies to propagate device level errors to a system level simulation
+Develop, implement and optimize new interpretable machine learning algorithms
+Apply interpretable machine learning techniques to a variety of problem domains
+Develop and pursue new opportunities and research thrusts in areas that support Sandia Mission activities
+For the interested applicant, opportunities exist to pursue 1) development of novel Model Based Design techniques with our partners in the Electrical Models & Simulation department; 2) consult and contribute with experts across the department in the electrical modeling, simulation, and analysis team or collaborate with the formal methods research and development team on hardware verification
+Required:
+Bachelor's and PhD degrees in Electrical Engineering or Computer Science plus at least four years relevant experience;
+Evidence of relevant and exceptional achievements in neuromorphic computing and hardware accelerator research, as demonstrated in the form of technical publications in refereed journals and conferences, patents, and/or leadership roles in professional organizations;
+Experience leading a collaborative research environment on problems in a variety of domains;
+Active U.S. DOE Q security clearance
+Desired:
+Expertise in one or more of the following areas:
+Neural network algorithms and methods of training them to model devices of all precisions;
+Explainable machine learning algorithms;
+Modeling new architectures based on emerging memories or novel devices;
+Discrete event simulation for computer architectures;
+ASIC and VLSI design;
+Developing algorithms optimized for hardware accelerators;
+Programming languages including python and C\+\+;
+Programming for or developing compilers for heterogenous systems;
+Proficiency with high-performance computing platforms;
+A background in solving practical problems in science and engineering that involve encounters with real-world data
+Department Description:
+
+Our department (Digital Foundations & Mathematics) develops and maintains multiple technical capabilities. We develop and apply tools for the formal verification of digital systems, for electrical modeling and simulation analyses, and we develop computing accelerators for extreme environments. We are always interested in candidates with cross-disciplinary skillsets who can contribute to one or more of our programs.
+
+The formal verification activities include formal methods analysis of hardware and software; modeling and simulation of digital or software systems; synthesis of hardware (digital logic) or software to meet formal specifications; binary analysis (developing a custom lifter capability); and development of specialized software utilizing advanced mathematics to meet customer needs.
+
+The electrical modeling and simulation work includes printed circuit board level analysis of new systems in extreme environments, development of new capabilities in Sandias internal PSPICE solver Xyce, and support for the Sandia device modelling teams.
+
+Our work on computing accelerators includes both modeling and designing novel fault tolerant architectures and new analog neuromorphic in-memory computing accelerators.
+
+Our department (Digital Foundations & Mathematics) consists mostly of PhDs with research backgrounds in computer science, analysis of programming languages and domain specific languages, high-performance computing, physics, electrical engineering, electrical circuit modeling & simulation & analysis, and neuromorphic computing architectures. We collaborate and team closely with organizations across Sandia and a broad spectrum of external partners.
+
+About Sandia:
+
+Sandia National Laboratories is the nations premier science and engineering lab for national security and technology innovation, with teams of specialists focused on cutting-edge work in a broad array of areas. Some of the main reasons we love our jobs:
+Challenging work withamazingimpact that contributes to security, peace, and freedom worldwide
+Extraordinary co-workers
+Some of the best tools, equipment, and research facilities in the world
+Career advancement and enrichment opportunities
+Flexible schedules, generous vacations,strongmedical and other benefits, competitive 401k, learning opportunities, relocation assistance and amenities aimed at creating a solid work/life balance\
+World-changing technologies. Life-changing careers._ Learn more about Sandia at: http://www.sandia.gov
+
+*These benefits vary by job classification.
+
+Security Clearance:
+
+Sandia is required by DOE to conduct a pre-employment drug test and background review that includes checks of personal references, credit, law enforcement records, and employment/education verifications. Applicants for employment need to be able to obtain and maintain a DOE Q-level security clearance, which requires U.S. citizenship. If you hold more than one citizenship (i.e., of the U.S. and another country), your ability to obtain a security clearance may be impacted.
+
+Applicants offered employment with Sandia are subject to a federal background investigation to meet the requirements for access to classified information or matter if the duties of the position require a DOE security clearance. Substance abuse or illegal drug use, falsification of information, criminal activity, serious misconduct or other indicators of untrustworthiness can cause a clearance to be denied or terminated by DOE, resulting in the inability to perform the duties assigned and subsequent termination of employment.
+
+EEO Statement:
+
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or veteran status and any other protected class under state or federal law.

@@ -1,0 +1,67 @@
+Job Description
+
+Important Note: During the application process, ensure your contact information (email and phone number) is up to date and upload your current resume when submitting your application for consideration. To participate in some selection activities you will need to respond to an invitation. The invitation can be sent by both email and text message. In order to receive text message invitations, your profile must include a mobile phone number designated as Personal Cell or Cellular in the contact information of your application.
+
+At Wells Fargo, we want to satisfy our customers financial needs and help them succeed financially. Were looking for talented people who will put our customers at the center of everything we do. Join our diverse and inclusive team where youll feel valued and inspired to contribute your unique skills and experience.
+
+Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.
+
+Wells Fargo Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure footprint; provides information security; and enables continuous banking access through in-store, online, ATM, and other channels to Wells Fargos more than 70 million global customers.
+
+Enterprise Services and Portfolio Management (ESPM) is the CIO organization providing technology strategy and solutions for the tools and data supporting IT Business Process Management, Enterprise API Management, and Enterprise Business Process Management functions. ESPM is also responsible for rationalization of all applications used within Wells Fargo Technology.
+
+ESPMs mandate is to accelerate the transformation and integration of tools, processes and services supporting Wells Fargo Technology and Enterprise Services, with a focus on speed, security, stability, satisfaction, skills and scalability.
+
+Our team ITM APP Application team is part of IT for IT Data Services which is part of Enterprise Services and Portfolio Management (ESPM) which is part of Chief Technology Office which is part of Wells Fargo Technology.
+
+Information Technology (IT) Authorized Provisioning Point (APP) Application team is seeking an Application Systems Engineer. ITM APP Application team is responsible for driving the design and development of the new Authorized Provisioning Point (APP) in collaboration and alignment with the Enterprise Data Blueprint architecture. The intention of the ITM APP is to provide increased consistency, quality, and insight in the information available to manage the business of IT. Through the Enterprise Blueprint architecture, the ITM APP is implementing leading tools and principles in data warehousing to deliver an effective and efficient solution that simplifies the data environment. ITM APP Application team is part of IT for IT Data Services team which is responsible for driving both near-term data to satisfy regulatory requirements while strategically creating the ITM APP. IT for IT Data Services team is part of Enterprise Services and Portfolio Management (ESPM) team.
+
+This position will play a key technical leadership role and responsible for analyzing, designing, and implementing solutions specific to IT data. The person that fills this position will be a vital part of our team and will be responsible for the design and development through a complete System Development Life Cycle (SDLC) of Extract, Transform & load (ETL) processes using Ab Initio as ETL environment. Will work directly with IT Data Solutions Architecture, Enterprise Architecture, and IT business partners to understand the requirements and partner with the development team to implement high performant database solutions of IT data within Wells Fargo.
+
+RESPONSIBILITIES:
+Design and implement highly distributed, scalable and performant ETL processes - Staging, Data Enrichments and Strong data delivery techniques using Ab Initio as ETL environment
+Hands on ETL development (data transformations and data movement) using Ab Initio, Ab Initio Express IT, DQE (Data Quality) and Metadata Portal as key tools
+Effectively work in an ETL framework driven environment
+Identify key business processes and deliver subject specific ETL processes to load physical data models
+Support ongoing ETL efforts for Development, QA and Production environments
+Effectively communicate data design to other members of the team to ensure proper implementation and utilization of the data structures
+Work very closely with business analysts, development teams and project managers for requirements and business rules.
+Partner with source system Subject Matter Experts (SME)s, Architects, Data Analysts and Modelers to build scalable and performant data solutions.
+Work on complex problems where analysis requires evaluation of intangible variance factors
+Plan, perform, and act as the escalation point for the most complex platform designs, coding, and testing
+Additional Responsibilities:
+Acts as a lead in providing application design guidance and consultation, utilizing a thorough understanding of applicable technology, tools and existing designs
+Provides technical consultation and support in the development of computer applications and programs
+Develops original and/or highly complex code and provides coding guidance to less experienced staff.
+Leads and/or performs modeling, simulations and analysis efforts
+Leads projects, manages the technical work and delivery
+Verifies program logic by overseeing the preparation of test data, testing and debugging of programs
+Oversees overall systems testing and the migration of platforms and applications to production
+Develops new documentation, departmental technical procedures and user guides
+Assures quality, security and compliance requirements are met for supported area and oversees creation of or updates to and testing of the business continuation plan
+Required Qualifications
+5+ years of performance tuning experience
+7+ years of Ab Initio experience
+5 + years of experience supporting or designing complex ETL production environments
+7+ years of PL/SQL experience
+7+ years of application development and implementation experience
+Desired Qualifications
+3+ years of Agile experience
+3+ years of Hadoop experience
+5+ years of Big Data experience
+Good verbal, written, and interpersonal communication skills
+Other Desired Qualifications
+Experience applying new technologies to business needs in a technologically innovative, change-driven organization
+Experience deploying and supporting large, complex data warehouse/business intelligence solutions
+Engineering and architecture experience with big data
+Knowledge and understanding of authentication methods or protocols
+Knowledge and understanding of database modeling techniques and theory
+A BS/BA degree or higher in information technology
+Job Expectations
+Ability to travel up to 10% of the time
+Disclaimer
+
+All offers for employment with Wells Fargo are contingent upon the candidate having successfully completed a criminal background check. Wells Fargo will consider qualified candidates with criminal histories in a manner consistent with the requirements of applicable local, state and Federal law, including Section 19 of the Federal Deposit Insurance Act.
+
+Relevant military experience is considered for veterans and transitioning service men and women.
+Wells Fargo is an Affirmative Action and Equal Opportunity Employer, Minority/Female/Disabled/Veteran/Gender Identity/Sexual Orientation.

@@ -1,0 +1,74 @@
+Role: Web Analytics Consultant
+
+Location: Dallas, TX (locals highly preferred)
+
+Duration: 1 year
+
+CONTRACTOR DIGITAL WEB ANALYTICS AND EINSTEIN BUSINESS ANALYST/DEVELOPER
+
+JOB SUMMARY
+
+The Business Analyst Contractor position on the Digital Business Solutions team in the Information Technology department will support the Global clients web analytics systems. This person will be responsible for supporting analytics needs for Digital Web and Mobile Native App Analytics using Google Analytics 360 and Google Tag Manager (GTM) as well as Einstein Analytics on the Salesforce.com Clouds.
+
+JOB DESCRIPTION
+
+Google Analytics/Google Tag Manager (GTM)
+
+Responsibilities will include developing, managing, maintaining, and supporting the web analytics infrastructure, data collection, web site tracking tactics, tools, technical integration, platform administration and reporting. Business Analyst will provide analytics solutions and manage the implementation of marketing tags in Google Tag Manager (GTM) using scripted language (HTML/Javascript). Manage and groom backlog and plan sprints. Analyst will be responsible for creating and maintaining technical specification documents and test cases. Administers global standardization and supports the implementation of Mary Kay web site analytics and Web Data Layer, troubleshoot data validation and sees issues to resolution.
+
+Key Google 360 Projects include:
+Support the transition of our web analytics systems from Adobe Analytics to Google Analytics 360
+Responsible for configuration of GA360 to meet reporting needs (filter management, maintaining segments, etc.)
+Partner with technology teams to recommend and implement changes in GA settings to improve data collection and monitoring data quality using Tag Management tools
+Partner with Salesforce.com Cloud teams to recommend and implement changes to the data layer to improve data collection from the website
+Assist analysts in generating deeper insights using GA360 features (e.g. multi-channel attribution, Big Query, advanced analysis, etc.) and setting up reports and dashboards using visualization tools like DataStudio and Tableau.
+Lead integration of disparate data sources into GA360 to form a cohesive picture around the performance of marketing programs
+Assist in supporting all aspects of our web analytics implementation including UTM standardization, tag implementation documentation, tool configuration, and user administration.
+Own the technical design and development of the Google Analytics 360 SDK in mobile applications.
+Â
+
+Einstein Analytics
+
+Responsibilities include the working with Analytics and Salesforce.com Cloud teams to develop, manage, maintain, and support Einstein Analytics technical integrations, dashboards, data and manage platform administration. Incumbent will work with business users and technical team members regarding the best way to build reports and dashboards. The analyst will become the "dashboard guru" and act as a go to person for all dashboarding questions and Einstein Analytics capabilities. The analyst will maintain in-depth knowledge of the tool and all the new features as they become available. Answers ad-hoc analytic questions and trains users to self-serve with standard reports.
+
+Key Einstein Analytics Projects include:
+Assist with data integration between Google Analytics 360 and various Salesforce Clouds (Commerce, Community, Marketing and Analytics Clouds) as well as business intelligence tools such as Tableau and the Salesforce Analytics Cloud platform (Einstein Analytics, Einstein Discovery, and the Einstein Platform).
+Work with Product Management and Salesforce.com Cloud teams to identify opportunities for leveraging and setting up Einstein Analytics capabilities within individual Clouds.
+Review business requirements and translate into technical reporting and dashboard specifications to create reports, dashboards, data sets, support Wave apps, data recipes and data flow by pulling data from different systems.
+Maintain dashboards to ensure data integrity, accuracy, and scalability and underlying datasets and provide insights to various teams.
+Working knowledge with data modeling and analysis to conduct ad-hoc analysis on large sets of data using various tools like Salesforce Einstein Analytics, R, Python etc. and provide results/findings/insights to the business owners or management team.
+Hands-on configuration of all new and existing Salesforce.com features including user management, security, custom objects, page layouts, validations, workflows, flows, process builders, Einstein Analytics, and other 3rd party applications.
+Must have Hands on Deployment experience & Lightning development experience
+Experience with CRM data and reporting needs
+Â
+
+EDUCATION, EXPERIENCE AND COMPETENCIES
+
+Bachelor's degree in Information Systems/Information Technology and 7 years of experience in business analysis and analytics OR Master of Science in Information Systems/Information Technology with 5 years of experience in business analysis and analytics .
+
+Google experience to include 4+ years of web analytics experience (agency or in-house) preferably within an enterprise consumer-facing web site environment working with a variety of stakeholders (e.g. marketing, UX, content, testing and optimization, IT) translating business requirements into technical requirements and specifications; HTML, Javascript, Flash and AJAX; SQL queries against large-scale relational databases; Agile/Scrum project management methodology; Microsoft TFS 2012 or 2013, incident and release management tools (Service Now); testing tools (Microsoft Test Manager, automation testing tools like Tosca and Tag Monitoring tools). Experience to include 3 years in: Google Analytics 360; Google Tag Manager, Google Optimize; Firebase, Charles Proxy, and Fiddler; Report Builder, Tableau, or Cognos. Requires certification in Google Analytics.
+
+Key Google Skills:
+Significant experience implementing web analytics tools using Google Tag Manager
+Experience administering and working with GA360 in an enterprise or multi-domain environment
+Expert-level knowledge of capabilities of GA360 and GTM
+Deep understanding of the underlying data structures and their implications in GA360
+Strong knowledge of current best practices and standards in web analytics implementation to provide direction to web site developers on tagging and tracking parameter methods
+Experience working with Javascript in a tag management and web analytics context is required
+Experience working with granular clickstream data is a plus
+Experience working with mobile web technologies including JavaScript, HTML, AJAX, CSS, JSON, etc.
+Einstein Analytics Experience to include a 3 years of experience in developing data flows, datasets, and dashboards using Analytics Studio (Einstein Wave Analytics) in Salesforce. Previous experience using Salesforce Einstein Analytics or Einstein Discovery a plus. Proven technical background in BI tools & analytics at a large and/or global organization. Salesforce Einstein Analytics experience is strongly preferred, but will consider other candidates with strong technical (data analytics and reporting) with CRM experience.
+Experience with programming languages and scripting tools like Python, C++, R, JavaSript, JSON etc.
+Experience with databases and writing SQL (Oracle, MySQL, SAQL etc ).
+Design UX background (Prefer experience in XMD UI visualization).
+Experience in connecting with multiple data connectors.
+Experience in working with other data visualization tools such as Tableau.
+Advanced Excel skills
+Desired Certifications: Einstein Analytics and Discovery Consultant, Salesforce Administrator, Platform App Builder , Developer and Admin certification or other equivalent qualification.
+
+Competencies:
+Passion for data, reporting, and visualization and new technologies and tools
+Must be a self-starter and able to research to develop solutions
+A team-player with a positive attitude and flexible working style
+Excellent verbal and written communication skills; ability to communicate with all levels of management
+Ability to ask the right questions to understand the business problem and identify the measurement or business objective

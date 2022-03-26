@@ -1,0 +1,57 @@
+DESCRIPTION
+
+As a Research Scientist on the machine learning team, you will be helping to build the core machine learning building blocks upon which computer vision, speech, and other application specific API’s can be built. In particular, the differentiation of our machine learning approach, and the framework we builtaround it, is that we emphasize computational and numerical efficiency (orders of magnitude over the state of the art). These efficiency gains come from fundamental innovations in machine learning, which are built in the context of a generalized production framework used to ship real product in short timelines. This role is based in Palo Alto, CA.
+
+You should have expertise in machine learning, computational geometry, andcomputational math (additional experience in related fields such as computer graphics and computer vision is a plus), and have worked on developing large scale deployable software projects in C++.
+
+Product over research: We are working at the cutting-edge and make research-level breakthroughs, but our focus is driving value for our customers, not writing research papers.
+
+We work hard: We pride ourselves on delivering product to our customers, on-time and on-spec. To do this, we work smart, and we work hard.
+
+*** Pilot AI is not responsible for any fees related to unsolicited resumes from third party agencies or recruiters not associated with Pilot AI. ***
+
+‍
+
+REQUIREMENTS
+
+• 2+ years of professional experience as a software engineer and have shipped software products
+
+• Strong C++ programming experience
+
+• Expertise in Machine Learning, Computer Vision, Computer Graphics or related field which is heavily computational math-based
+
+• Strong understanding of linear algebra and numerical optimization
+
+• Experience with programming numerical algorithms (in machine learning orother fields) is desired
+
+• Experience developing large scale deployable software products
+
+• Experience working on large, complex codebases
+
+• Familiarity with version control tools such as GIT, CVS, SVN, etc.
+
+• Familiarity with project management tools such as BitBucket, Jira, etc.
+
+• BS in Computer Science/Engineering or related software-based field.
+
+• MS or PhD preferred
+
+‍
+
+BENEFITS
+
+• Health Care Plan (Medical, Dental & Vision)
+
+• Retirement Plan (401k, IRA)
+
+• Stock Option Plan
+
+• Paid Time Off (Vacation, Sick & Public Holidays)
+
+• Training & Development
+
+• Free Food & Snacks
+
+‍
+
+APPLY

@@ -1,0 +1,32 @@
+By applying for this role, you could choose to work in the following locations:
+US - Remote US
+San Francisco
+
+Who we are:
+
+Twitter is looking for a data scientist to join the Capacity Engineering team.
+
+You will work with a team of software engineers and data scientists to build a new capacity management platform to predict demand, track supply, prioritize allocation, and examine utilization across a fleet of hundreds of thousands of physical servers in our private cloud and an expanding footprint in public cloud. You’ll build data pipelines and visualizations to help Engineering understand their capacity usage and plan their future capacity needs. You’ll build prediction models for short and long-term demand projections to drive the necessary supply. Collaborating with business leaders, Finance, and Engineering you’ll deliver deep insights into how budgets are spent and capacity utilized to understand the return on investments. You’ll provide Finance and Supply actionable recommendations about trends to inform long term strategic planning for the business.
+
+What you’ll do:
+Build and manage data pipelines to track supply, demand, and utilization across a large cloud platform.
+Build appropriately complex models for capacity demand on timescales ranging from days to years using historical data, explicit manual input, key traffic drivers, seasonal trends, and special events.
+Build systems to continuously update the capacity demand plan as new information is ingested.
+Determine appropriate capacity headroom sizing to mitigate demand and supply variance.
+Work with UI engineers to provide reports and dashboards to inform stakeholders of key performance metrics.
+Work with UI engineers to design clear, simple data visualizations and intuitive interfaces to support ad-hoc drill downs into large datasets.
+Prepare and deliver regular capacity analysis, commentary, and recommendations to Supply and Finance on long-term trends to inform infrastructure strategy and company budgets.
+Influence technology choices for data analysis tools.
+Who you are:
+You’re passionate to work on large datasets to generate knowledge on behaviors and trends and have a diverse interest and skill set covering data analysis, statistical modeling, machine learning, and visualization.
+You excel at communicating complex insights to both technical and non-technical stakeholders.
+Expertise in time series analysis applied to forecasting is especially desirable.
+Experience with capacity planning and/or supply chain management is beneficial but not required.
+Requirements:
+2+ years of industry experience involving quantitative data analysis to solve real-world problems.
+BS or higher degree in Data Science, Statistics, Applied Math, Operations Research, or a related field.
+Experience with scripting languages (Python preferred), SQL, and a shell.
+Experience with big data analytics tools/libraries such as Spark or Scalding
+We are committed to an inclusive and diverse Twitter. Twitter is an equal opportunity employer. We do not discriminate based on race, ethnicity, color, ancestry, national origin, religion, sex, sexual orientation, gender identity, age, disability, veteran status, genetic information, marital status or any other legally protected status.
+
+San Francisco applicants: Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.

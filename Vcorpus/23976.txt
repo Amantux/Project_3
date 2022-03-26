@@ -1,0 +1,27 @@
+Job Description:
+
+Understand how to operate within CyberArk enterprise password vault
+Use Information Security best practices to manage service account lifecycle including creation, provisioning, and decommissioning
+Use Identity and Access Management experience to follow team processes and procedures for applying security accesses Provisioning/Deprovisioning
+Provide access to service accounts that are requested by customers by verifying security related concerns and the level of access needed
+Create service accounts and manage their passwords within CyberArk for applications that exist within DEV, TEST and PRODUCTION environments on Windows (Active Directory), mainframe (RACF), UNIX/Linux RedHat servers, databases (DB2 z/OS, DB2 UDB, Microsoft SQL Server, Netezza, Snowflake, Oracle, Cassandra, Couchbase)
+Verify service accounts needing elevated and/or privileged access are approved via USAA Information Security standards
+Follow naming standard conventions per team procedures
+Gather resource owner approval for requests
+Use the Service Account Application (SAA) to document linkage between service accounts and TPM applications and ensure service accounts are given a unique CMDB ID
+Use CyberArk and/or Service Account Utility (SAU) to store credentials for service accounts
+Use CyberArk and SAU controls to ensure that only authorized applications can access credentials
+Create/modify groups and roles for applications • Optimizing, Designing, Implementing, Performance Tuning and Supporting on the UNIX/Linux RHEL master servers
+Establish/Validate secure connections from one UNIX/Linux server to another for smooth coordination of application jobs like data gathering and accessing the Databases
+Execute automated scripts through Rundeck against multiple RHEL servers
+Update status of requests/incidents via USAA's approved workflow
+Prioritize the customer requests by working first-in/first-out (FIFO) model
+Review business justification with Platform Security team prior to expediting request
+Collaborate with Business technical teams for issue resolution and mitigation
+Respond to tickets within team defined Service Level Objectives (SLO)
+Attend technical staff meetings with Platform Security to learn about team processes and procedures
+Use ServiceNow request and task flows
+Document actions taken for audit and legal purposes within request or incident ticket and in accordance with team processes
+Implement permissions to share and filesystems following least privilege principles
+
+Troubleshooting • Troubleshoot failed jobs with respect to security concerns like password expiration, lack of access and/or having group privileges Respond to help desk incident tickets and Service Account Help tickets to troubleshoot CyberArk connectivity and password management

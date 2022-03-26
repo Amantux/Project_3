@@ -1,0 +1,9 @@
+"0","```r
+print(str_sub(\"10/22/12\", -2))
+```"
+"1","[1] \"12\"
+"
+"0","```r
+sandy_data$date = paste0(\"20\",str_sub(sandy_data$date, -2))
+head(sandy_data)
+```"

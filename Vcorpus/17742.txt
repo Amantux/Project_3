@@ -1,0 +1,71 @@
+Machines that Move Us.
+People who Inspire Us.
+Stories that Drive Us.
+
+Check us out: http://bit.ly/MotorTrendG Opens in New Window
+
+About Us
+
+We are MotorTrend.
+With a monthly reach of more than 131 million, MTG is the largest automotive media company in the world. With franchises including MotorTrend, Hot Rod, Automobile, Wheeler Dealers, Roadkill, Best Driver's Car, and dozens of other world-class brands, we are reimagining storytelling around mobility. Our portfolio brings together Discovery's #1 TV network for automotive super fans, with our vast automotive digital platform that includes direct-to-consumer products, websites, apps, connected TVs, social, and live events.
+
+Our People
+
+The people who work at MotorTrend embody the passion of our content, and wake up every day intent on embracing, entertaining, and empowering the motoring world.
+
+The Role
+
+Job Summary & Responsibilities:
+
+The Junior Business Intelligence Data Engineer (full-time, salaried, regular) reports into the business intelligence division.
+At Motor Trend Group data is central to measuring all aspects of the business, and critical to its operations and growth. The BI data engineering team is responsible for collecting, analyzing and distributing data using public cloud and open source technologies and offers transparency into customer behavior and business performance
+
+Responsibilities:
+• Collaborate with product teams and data analysts to design and build data-forward solutions
+• Build and deploy streaming and batch data pipelines capable of processing and storing petabytes of data quickly and reliably
+• Integrate with a variety of data metric providers ranging from advertising, web analytics, and consumer devices
+• Build and maintain dimensional data warehouses in support of business intelligence tools
+• Develop data catalogs and data validations to ensure clarity and correctness of key business metrics
+• Drive and maintain a culture of quality, innovation and experimentation
+• Deliver strong Python and SQL development and maintenance techniques surrounding data movement to include technologies
+• Investigate and understand different data sources and ability to connect to a wide variety of 3rd party APIs
+• Design, enhance and implement ETL/data ingestion platform on the cloud
+• Development of ETL source and target mapping design/specifications based on the business requirements. Create ETLs/ELTs to take data from various operational systems and create a unified/enterprise data model for analytics and reporting
+• Develop load and transformation processes in support of the requirements, validate that they meet business and technical specifications, manage ongoing maintenance of the system and data, and make recommendations for process improvements to optimize data movement from source to target
+• Provide production and operational support to existing ETL jobs. Monitor and manage production ETL jobs to verify execution and measure performance to assure ongoing data quality and optimization of the system to manage scalability and performance and identify improvement opportunities for key ETL processes.
+• Strong troubleshooting and problem-solving skills in large data environment
+• Capable of investigating, familiarizing and mastering new data sets quickly
+
+Education/Experience:
+• Bachelor's degree Computer Science or equivalent
+• Strong background in scripting language using Python, Bash, Perl, PHP or any other language to solving data problems
+• Experience with relational SQL and NoSQL databases, including Postgres, ,Neo4j and MongoDb
+• Experience with Big Data tools; Hadoop, Spark, Kafka, Hive etc
+• Proficiency with the AWS cloud services : EC2, EMR, RDS, S3, Redshift (spectrum)
+• Proficiency with data exchange types and protocols (json, xml, soap, rest)
+• Experience with Stream Processing systems: Storm ,Spark-Streaming etc
+• Experience with BI tools like Tableau or any other open source BI tools etc.
+
+Knowledge, Skills, & Abilities:
+• Knowledge of the Python data ecosystem using pandas and numpy
+• Data integration tools
+• Proficiency in SQL, data modeling, and data warehousing
+• Excellent problem solving skills
+• Exposure to cloud platforms (preferably AWS)
+
+Physical Requirements:
+• The ability to sit for prolonged period of time and view computer screen.
+
+Equipment/Software Used:
+• Microsoft Office Suite (Outlook, Word, Excel, PowerPoint)
+• SQL, MySQL or other relational databases
+• Linux, Python, AWS Stack (EC2,EMR S3, Redshift)
+• Tableau or any other data visualization tool
+• SiteCatalyst (Omniture)/Google Analytics or any other web analytics tools experience (Nice to have)
+
+Work Environment:
+• Work is performed in an office environment that is well lit and ventilated.
+
+NOTE: This position description reflects management's assignment of essential functions; it does not prescribe or restrict any other tasks that may be assigned.
+
+We will consider for employment all qualified applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local laws, including but not limited to all local Fair Chance Ordinances.

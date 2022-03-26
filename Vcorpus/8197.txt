@@ -1,0 +1,31 @@
+Traditional debt collection is rife with harassment and fraud, producing more consumer complaints than any sector of consumer finance. Debtsy is serious about driving systemic change in a predatory industry. We provide a data-driven debt resolution platform that’s built with empathy in mind, empowering borrowers to dispute, negotiate, and resolve their debt without stress or embarrassment while providing unparalleled transparency and compliance to financial institution clients.
+
+We are growing rapidly: our team of engineers hail from companies like Fitbit, Uber, and Stripe, we are tripling headcount of the company this year, and have financial institution clients.
+
+As a data scientist, you will be develop models to drive operational automation, optimize user engagement, and assess a borrower’s unique financial situation. These models are critical to scaling our company effectively and effectively servicing contracts with major financial institutions.
+
+At Debtsy, you'll be an early member of a fast-growing company. You'll have a large degree of trust and ownership and have an outsized impact on our path and ultimate success. We foster a culture of collaboration and open feedback, thoughtful problem solving, and continual learning and growth.
+
+What you’ll do:
+
+Refine and develop machine learning models to estimate a borrower’s capacity and willingness to resolve their outstanding balances
+
+Design and implement borrower-facing experiments that improve our user experience and drive user engagement
+
+Improve our effectiveness in resolving outstanding debt by identifying and incorporating proprietary datasets
+
+Collaborate with product and engineering to successfully run models at scale in production
+
+You may be a fit if you:
+
+Have a strong foundation in statistics and theory, possibly from a degree in CS, Math, Economics, Statistics, Data Science or equivalent fields
+
+Have several years of professional experience building and deploying statistical models or machine learning algorithms
+
+Have strong SQL expertise
+
+Have experience with research methodologies, running live experiments, and interpreting test results
+
+Want to be a strong individual contributor and are comfortable taking models from prototype through to production
+
+Debtsy is an equal opportunity employer and does not discriminate on the basis of race, color, creed, ethnicity, sex, gender identity, sexual orientation, religion, disability, age, veteran status, or any other category protected by law.

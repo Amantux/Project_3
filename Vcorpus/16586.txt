@@ -1,0 +1,34 @@
+Who You Are
+
+
+Making sense out of complex data is core to our business at Quantifind and we're looking for talented Data Scientists to join the team. At Quantifind, we look to integrate large amounts of data from diverse data sources (structured financial data or unstructured social data) to drive important business decisions for large brands. We research the latest NLP algorithms to make text searching more efficient and we are able to pinpoint meaningful signals from vast amounts of signals including text, demographics, and interest groups. We algorithmically determine users' demographics based on their language features and interests. And we draw causal conclusions on the financial impact of marketing campaigns from some household known brands. Underneath it all, we have proprietary data infrastructure built in-house where Data Scientists can experiment with new algorithms instantaneously. You are also encouraged to build finished data science products end-to-end: you will develop your own algorithms in our production pipeline!
+
+Who We Are
+
+
+Quantifind is a uniquely positioned data science and human insights company. In our primary application, we offer marketing decision-makers Explanatory Analytics that help them better understand their customers' interests and priorities. We are currently building out a new vertical aimed at financial crimes risk management including anti-money laundering (AML) and fraud detection. Our advantage is existing science, engineering, and SaaS product capabilities that align very well with the technology needs.
+
+To help you succeed, we provide a supportive environment that fosters collaboration between teams and team members, where learning and professional growth is considered a key part of your success, and of ours. We offer a flexible work environment with a family-friendly work-life balance, catered lunches three times a week, and fun team activities to keep you healthy, happy, and stress-free.
+
+What A Great Candidate Looks Like:
+‍Outstanding quantitative analytical ability
+Independent and creative approach to problem solving
+At least 5+ years of professional industry experience, in addition to your academic experience
+MS or higher in the following areas: Statistics and Mathematics
+In-depth knowledge of Statistics/Probability/Machine learning
+General Statistical concepts such as hypothesis testing, estimation, inference
+Supervised and unsupervised statistical models such as regression (linear / logistic), time series models (ARIMA / DLM), clustering, dimension reduction
+Predictive Machine Learning algorithms such as Random Forest, Boosting, SVMs
+Strong programming experience in two or more of the following: R, Python, Scala/Java
+Understanding of algorithm complexity and performance implications
+Knowledge of elementary data structures
+Exposure to NLP models such as Latent Dirichlet Allocation (LDA), Latent Semantic Analysis (LSA), Sentiment models, Named Entity Recognition (NER) is a big plus
+Basic knowledge in SQL
+The Opportunity We Offer
+
+
+Quantifind is seeking to fill a position in Menlo Park, CA on our Data Science team. We work closely with the Product Management team and Platform engineers to anticipate company needs and quickly put state-of-the-art mathematical tools into the hands of end users. Members of the Data Science team translate real world problems into quantitative language, find or create algorithms to solve those problems, and implement them in code. Our team values a creative and empathetic approach to problem solving and strives to maintain rigorous scientific and engineering standards. We will give you the opportunity to work on the full data science pipeline, bringing solutions from basic research all the way to production.
+
+We are an equal opportunity employer; we have a fun place to work and a devotion to succeeding together.
+
+Will you join us? Apply now.

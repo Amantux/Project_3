@@ -1,0 +1,57 @@
+Ibotta is seeking a
+ Sr. Data Scientist / Machine Learning Engineer 
+to build software that helps millions of our shoppers save time and money. We're looking for a world-class machine learning engineer who has a passion for building scalable machine solutions using technologies such as Python, Spark, AWS, Airflow, Sagemaker, TensorFlow, etc. Every member of the team has input into our roadmap and will have a real impact as part of a small, agile team. 
+ Here is what you ll be doing:   
+Design, develop and deploy large scale, big data-driven machine learning models that are integrated with key product features. Some examples of potential projects include:  
+Recommendation system that leverages robust, granular customer data sets and various modeling approaches to ensure the most relevant content is shown to each user 
+Search relevancy engine that leverages machine learning, word embeddings, ranking algorithms, and millions of products to help surface the most relevant content for each search query. 
+Real-time optimization frameworks to ensure that we are deploying marketing dollars and business levers in the most efficient manner possible. 
+Look-alike modeling algorithms that determine a user s propensity to take an action in the future. 
+Multivariate testing framework that empirically evaluates the efficacy of product enhancements as quickly as possible.  
+Collaborate with Engineering, Product, and Analytics leads to establish analytic standards and platforms that scale and can be leveraged in various initiatives throughout the organization 
+Ensure that testing and validation is a pervasive component of data science and machine learning solutions 
+Deliver world class data-driven products in partnership with cross functional teams (Product Managers, Data Engineers, Software Engineers, etc.) 
+Communicate complex machine learning solutions, concepts and the results of analyses in a clear and effective manner to business stakeholders and technology leaders to maximize the effectiveness of machine learning initiatives 
+Mentor a growing team of junior team members who are hungry to learn from experienced machine learning engineers  
+ Here is what we re looking for:   
+5+ years of professional experience as a Machine Learning Engineer, Data Scientist, or equivalent analytics role, focusing on machine learning and/or statistical modeling. 
+Advanced knowledge of a data science toolkit like: Python (sklearn, scipy), Spark ML, TensorFlow 
+Experience working with distributed big-data tools like: Spark, Hive or Presto. 
+Comfort working with data both in structured and unstructured forms. 
+Experience writing production-ready code and implementing machine learning solutions in production environments. 
+The ability to think critically, leverage domain expertise and translate high-level business objectives into tangible machine learning solutions.  
+ Strongly Preferred:   
+Experience with one or more of the following is a big plus: recommendation systems, search relevancy, real-time/streaming data pipelines, statistically-sound marketing attribution, and profiling/optimizing Spark applications.. 
+Deep hands-on experience prototyping, building, releasing, and monitoring mission-critical machine learning models in high traffic applications. 
+Be a leading contributor, voice and thought leader in an growing community of machine learning practitioners. 
+Hands-on experience with agile software development, system reliability, and offline/online experimentation. 
+Experience with product release processes like automated testing and code reviews. 
+Comfort working within a cloud-based infrastructure, ideally AWS.  
+ About Us 
+: 
+Headquartered in Denver, CO, Ibotta ( I bought a... ) is a free app that's transforming the shopping experience by making every purchase rewarding. The company partners with leading brands and retailers to offer real cash back on groceries, travel, electronics, clothing, gifts, home and office supplies, dining out, and much more. Ibotta is the ultimate starting point for savings, and having paid out more than $500 million in cash rewards to its Savers, it's no surprise why Ibotta is one of the most downloaded shopping apps in the United States 
+Learn more about Ibotta here: https://liferewarded. ibotta. com/press-and-media/ 
+To learn more about what our Tech teams are doing day to day, visit Building Ibotta on Medium. com. 
+ Additional Details:   
+This position is located in Denver, CO and includes competitive pay, benefits package (including medical, dental, vision), 401k, commuter stipend, and equity. 
+Ibotta provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, and genetics. 
+Applicants must be currently authorized to work in the United States on a full-time basis.   
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Denver, CO 80285 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         2365_d449fafab1a168ed4350df5eef03e426

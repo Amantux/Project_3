@@ -1,0 +1,57 @@
+Read what people are saying about working here. 
+
+ Project EmpowerMD is an incubation team at Microsoft Healthcare.
+
+ Our mission is to empower physicians by building a voice-enabled intelligent assistant, leveraging the best in speech-to-text, NLP, and other ML technologies.
+
+ We are a fast-moving multi-disciplinary team that is deeply engaged in the healthcare space with ample opportunity to learn directly from clinicians and deliver broad impact.
+
+Responsibilities
+
+WHAT WILL YOU BRING?
+
+ You will be responsible to execute on the team’s Natural Language Understanding (NLU) efforts as we aim to extract intelligence from human-to-human clinical dialogues in order to generate a schematized medical note.
+
+ You will go deep on a range of tasks including data annotation, language processing, language generation, and dialogue management/ranking.
+
+ You will help establish and implement data pipelines.
+
+ You will have ample opportunity for cross group collaboration, technical product definition and applied research.
+
+ You enjoy being part of a collaborative, multidisciplinary team.
+
+ You will mentor graduate student interns.
+
+ You bring curiosity, a strong entrepreneurial spirit, and passion to deliver on the promise of technology in a difficult, competitive, and exciting vertical.
+
+Qualifications
+
+REQUIRED QUALIFICATIONS:
+
+MS or PhD in Computer Science, Statistics, Mathematics or related field
+
+ 3+ years working on production NLP data pipelines
+
+ 3+ years of one or more of: named entity recognition, topic classification, knowledge graphs, dialog state modeling
+
+ Fluency with recent NLP & ML advancements, e.g., word vectors, attention, LSTMs, etc.
+
+ Strong coding skills in one or more of Python, C/C++, Java, Scala, C#
+
+PREFERRED QUALIFICATIONS:
+
+ 2+ years with one or more of: NLTK, Stanford CoreNLP, spaCy, BERT, etc.
+
+ 3+ years with one or more of: PyTorch, TensorFlow, Keras, CNTK, etc.
+
+ 5+ years with one or more of: Spark, HDInsight, Hadoop, MapReduce, etc.
+
+ Participation in Kaggle or similar competitions
+
+ Willingness to be a “learn-it-all” and jump into any problem space
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+
+ Microsoft Corporation (NASDAQ: MSFT) is an American public multinational corporation headquartered in Redmond, Washington, USA that devel...

@@ -1,0 +1,40 @@
+About XSELL
+
+Ready to write the best chapter of your career? XSELL Technologies is an artificial intelligence company focused on increasing sales. Our cloud-based machine learning engine uses predictive analytics and natural language processing to equip sales professionals with the best real-time responses, driving improved conversion rates and customer experiences. We pride ourselves on our high performing, collaborative culture. We are passionate about our product, our clients, and our industry leading results.
+
+XSELL is currently seeking a Data Engineer to serve as a data expert to help structure, manage and optimize our applications data layer. This role will partner with the Engineering team and ensure the data layer powers the model development and reporting for our customers. The XSELL platform using a combination of data science and machine learning to derive the best actions, tactics, and strategies from top customer representatives and make those available to all representatives driven by sales and service outcome data.
+
+The ideal candidate is an experienced data pipeline builder and wrangler who enjoys optimizing data systems. The Data Engineer will support our software developers, data scientists and customer success managers on data initiatives and will be on the ground floor as we scale our data architecture.
+
+Job Description
+Mapping heterogeneous data sources, including descriptions of the business meaning of the data, its uses, its quality, the applications that maintain it and the database technology/schema in which it is stored.
+Managing a task-queue/message broker architected system for data pipelines and interfacing with the infrastructure team
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, data indexing, re-designing infrastructure for greater scalability, etc.
+Document data relationships and translate business rules to data rules.
+Build a scalable infrastructure and tiered persistence that will enable our data scientists to derive insights and build models faster and more efficiently
+Work with stakeholders including the Executive, Product, Data Science, and Client Success teams to assist with data-related technical issues and support their data infrastructure needs.
+Be able to perform manual data quality testing as requested in business requirements.
+Deploy these data flows in modern cloud environments: AWS and Azure.
+Background & Qualifications
+
+In order to be successful, you will need the following:
+2+ years of experience in a Data Engineer/Data Architect role and knowledge of building data pipelines from multiple data sources including third party APIs, flat files or DB queries.
+Advanced working knowledge of SQL and Relational Databases.
+Python with scientific python libraries (numpy, pandas, scikit-learn, etc)
+Be a consummate collaborator, able to establish good relationships with technical, product, and business owners also to work with vendor technical teams
+Experience performing root cause analysis on internal and external data and processes to answer specific business questions and identify opportunities for improvement. Strong analytic skills related to working with unstructured datasets.
+Build processes supporting data transformation, data structures, metadata, dependency and workload management.
+A successful history of manipulating, processing and extracting value from large distributed datasets.
+Preferred:
+Experience supporting and working with cross-functional teams in a dynamic environment.
+Experience in developing and maintaining ETL/ELT data pipelines.
+Having experience in the following software/tools/languages:
+PostGres SQL, Amazon RDS, EC2 and EMR
+Python, Git
+Flask, Redis, Kubernetes
+Sisense Self Hosted instances or other Reporting platforms.
+We provide competitive compensation, generous benefits, and a professional atmosphere. XSELL fosters an entrepreneurial, results driven work environment where you will have the opportunity to be part of a collaborative, inclusive team and be able to grow and develop your professional career.
+
+XSELL Technologies is an Equal Employment Opportunity Employer and all employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by federal, state, or local law.
+
+Powered by JazzHR

@@ -1,0 +1,26 @@
+FanDuel Group is an innovative sports-tech entertainment company that is changing the way consumers engage with their favorite sports, teams, and leagues. The premier gaming destination in the United States, FanDuel Group consists of a portfolio of leading brands across gaming, sports betting, daily fantasy sports, advance-deposit wagering, and TV/media, including FanDuel, Betfair US,and TVG. FanDuel Group has a presence across 45 states and 8 million customers. The company is based in New York with offices in California, New Jersey, Florida, Oregon, and Scotland.
+
+Our competitive edge comes from making decisions based on accurate and timely data. As a Data Engineer, you will help us build scalable systems to provide access to that data across the company.
+
+What we're looking for
+
+We are looking for an experienced Data Engineer, ideally well versed in Python, with a deep understanding of large scale data handling and processing best practices in a cloud environment. You should be comfortable building complex yet performant SQL queries on large data sets. Our current stack is built on AWS with Spark and Hive on Amazon EMR for batch processing and Redshift for the data warehouse. Experience working with and tuning these for large scale workloads would be a plus.
+
+Data is a key component of the business used by almost every facet of the company including product development, marketing, operations and finance. It is vital that we deliver robust solutions that ensure reliable access to data with a focus on quality and availability. We operate a rigorous code review process, so you need to be able to continuously give and take feedback and act on it.
+
+As our data is always growing it is important that we have a cost effective data warehouse with data that is modelled to suit our users needs.
+
+Looking ahead to the next phase of our data platform we are keen to do more more with real time data processing and working with our data scientists to create machine learning pipelines. We would love to hear how you have tackled these before.
+
+What you get in return
+
+Beyond working with such a great team?
+An exciting environment with real growth
+Contribute to exciting products used by a highly passionate user base
+Personal learning and development opportunities
+Flexible holiday allowance
+401K plan with company match
+Attractive health insurance premiums
+There's more, but we don't want to go on and on.
+
+FanDuel is an equal opportunities employer. Diversity and inclusion in FanDuel means that we respect and value everyone as individuals. We don't tolerate bias, judgment or harassment. Our focus is on developing employees so that they reach their full potential.

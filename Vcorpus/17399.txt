@@ -1,0 +1,57 @@
+Key Responsibilities
+
+- Architect, build, and maintain efficient data pipelines, utilizing a variety of data access technologies (REST APIs, FTP, SQL, S3)
+
+- Work with analytics team to help with automating reporting needs leveraging various solutions like REST APIs or BI tools
+
+- End-to-end development, starting from requirements gathering with stakeholders to deployment to production systems
+
+- Lead greenfield development of innovative applications, analysis, and systems
+
+- Contribute to development of a rapidly growing, integrated datawarehouse that will provide a complete vision of the entire healthcare landscape
+
+- Work with large, alternative datasets (100s of millions of data points) to extract insights and proactively monitor trends
+
+Minimum Qualifications
+
+· Advanced SQL Knowledge
+
+· Proficient in object-oriented development (C#, Java, etc)
+
+· Proficient in creating REST Web Services using C#/Python/Node
+
+· Experience working with large data sets (50+ million rows)
+
+· Ability to architect end-to-end ETL pipelines
+
+· Comfortable writing unit/integration tests, implementing logging/monitoring, and maintaining reliability of internal processes
+
+· Familiarity with software development best practices: Dependency Injection, ORMs, Test-Driven Development, Modular design, etc.
+
+Preferred Skills
+
+· Architect-level experience with development using Cloud tools (ideally Azure)
+
+· Experience with distributed datastores such as Databricks, Spark/Hadoop, Snowflake NoSql, etc.
+
+· Web development in a full-stack capacity (ideally Angular)
+
+· Business Intelligence Experience (Power BI, Tableau, etc.)
+
+· Experience working with EMR or Claims data
+
+Benefits
+
+· Top-of-the-line, company sponsored healthcare insurance
+
+· Unlimited meals
+
+· Full-floor, state-of-the-art gym only for employees with showers, protein shakes, etc
+
+· Always-stocked kitchens/resource rooms
+
+· Monthly happy hours
+
+· Great work-life balance
+
+· Data driven culture at all levels of the firm

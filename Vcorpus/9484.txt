@@ -1,0 +1,33 @@
+Please review the job details below.
+
+Maxar is looking for a Data Scientist to help us solve a hard problem for the US Government. You will be part of a multi-disciplined team building prototype machine learning models - to include semi-supervised and unsupervised models - trained on a large dataset, to identify anomalies and activities of interest. You'll evaluate a number of clustering techniques as well as methods from topic modeling. Past work with Apache Spark and familiarity with libraries such as Spark ML and scikit-learn, along with experience using Jupyter Notebooks or other exploratory data analysis tools will be welcome. Some of this work will take place locally, though you'll have access to and will make use of an environment in Amazon Web Services (AWS).
+
+If you work well in a team environment, but can be self-motivated, and is comfortable digging into data, trying innovative approaches, and isn't afraid to fail fast and move on to other techniques/ideas, APPLY TODAY!
+
+This work will be focused on classified data and will be performed at a secure space in Herndon, VA with some opportunity for tele-work using an unclassified/proxy dataset.
+
+Required Qualifications:
+
+Must be a US Citizen and have a current/active TS/SCI and be willing and able to obtain a CI Polygraph
+
+2+ years of experience
+
+BS degree in data science, computer science, or a related field
+
+Experience in at least one of these languages: Python, R, Scala
+
+Experience with Amazon Web Services (AWS)
+
+Desired Skills:
+
+Familiarity with the air or maritime domain
+
+Security+ certification
+
+Apache Spark experience
+
+Familiarity with SIGINT and GIS
+
+Experience working in an Agile environment
+
+MAXAR Technologies offers a generous compensation package including a competitive salary; choice of medical plan; dental, life, and disability insurance; a 401(K) plan with competitive company match; paid holidays and paid time off.

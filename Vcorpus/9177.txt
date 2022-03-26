@@ -1,0 +1,71 @@
+Job Description
+
+The Payment Systems Risk team within Visa Data Product is responsible for building critical risk and fraud prevention applications and services at VISA. This includes idea generation, architecture, design, development, and testing of products, applications, and services that provide Visa clients with solutions to detect, prevent, and mitigate risk for Visa and Visa client payment systems.
+
+The team closely collaborates with other analytic stakeholders to understand the business problem in order to determine the most appropriate analytic approach that provides meaningful results to customers. Responsibilities include delivering projects on time and within scope with an in-depth knowledge of big data and cutting edge data mining techniques as well as the use of predictive, classification, machine learning and alternate analytic algorithms for modeling and segmentation.
+
+Essential Functions
+
+Execute model implantation and performance tracking for risk models; generate performance analysis at the aggregate level, as well as issuer level. Interpret and present performance results to non-technical audience.
+
+Compile complex predictive model packages for production deployment; support model installations, and monitor and calibrate production models
+
+Propel analytic product development via conducting statistical analyses on various data sources; and add values to products by being innovative and applying the analysis
+
+Assist in scoping and designing financial and analytic metrics to measure development and production outcomes and produce performance reports
+
+Find opportunities to create and automate repeatable analyses or build self-service tools for business users
+
+Conduct transaction data analyses with Hadoop/Cloud and big data technologies for internal and external product owners, and develop deeper insights into the products using advanced statistical methods
+
+Ensure project delivery within timelines and meet critical business needs
+
+Work on cross functional teams and collaborate with internal and external stakeholders
+
+Promote big data innovations and analytic education throughout the Visa organization
+
+Qualifications
+
+Basic Qualifications
+
+4 years of work experience with a Bachelor’s Degree or at least 2 years of work experience with an Advanced degree (e.g. Masters, MBA, JD, MD) or 0 years of work experience with a PhD degree
+
+Preferred Qualifications
+
+Minimum of 1 year of experience in developing statistical predictive models
+
+Real world experience using Hadoop and the related query engines (Hive / Impala)
+
+High level of competence in Python, Spark and Unix/Linux scripts
+
+Extensive experience with SAS/SQL/Hive for extracting and aggregating data
+
+Ability to program in one or more scripting languages such as Perl or Python and one or more programming languages such as Java or Scala
+
+Experience with one or more common statistical tools such SAS, R, KNIME, Matlab.
+
+Experience with data visualization and business intelligence tools like Tableau
+
+Modeling experience in bankcard industry or financial service company using for fraud, credit risk, bankruptcy, or marketing is a plus
+
+Proficiency in designing & solving classification/prediction problems using open source libraries such as Scikit learn.
+
+Deep learning experience with TensorFlow is a plus.
+
+Proficiency in data manipulation using Python tools such as Pandas, Numpy etc.
+
+Additional Information
+
+Work Hours
+
+The incumbent must make themselves available during core business hours.
+
+Travel Requirements
+
+The position requires the incumbent to travel for work 5% of the time.
+
+Physical Requirements
+
+This position will be performed in an office setting. The position will require the incumbent to sit and stand at a desk, communicate in person and by telephone, frequently operate standard office equipment, such as telephones and computers, reach with hands and arms, and bend or lift up to 25 pounds.
+
+Visa will consider for employment qualified applicants with criminal histories in a manner consistent with EEOC guidelines and applicable local law.

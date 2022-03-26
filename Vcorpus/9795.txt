@@ -1,0 +1,39 @@
+JPMorgan Chase & Co. (NYSE: JPM) is a leading global financial services firm with operations worldwide. The firm is a leader in investment banking, financial services for consumers and small business, commercial banking, financial transaction processing, and asset management. A component of the Dow Jones Industrial Average, JPMorgan Chase & Co. serves millions of consumers in the United States and many of the world's most prominent corporate, institutional and government clients under its J.P. Morgan and Chase brands. Information about JPMorgan Chase & Co. is available at http://www.jpmorganchase.com/.
+
+Our Firmwide Risk Function is focused on cultivating a stronger, unified culture that embraces a sense of personal accountability for developing the highest corporate standards in governance and controls across the firm. Business priorities are built around the need to strengthen and guard the firm from the many risks we face, financial rigor, risk discipline, fostering a transparent culture and doing the right thing in every situation. We are equally focused on nurturing talent, respecting the diverse experiences that our team of Risk professionals bring and embracing an inclusive environment.
+
+Chase Consumer & Community Banking (CCB) serves consumers and small businesses with a broad range of financial services, including personal banking, small business banking and lending, mortgages, credit cards, payments, auto finance, and investment advice. Consumer & Community Banking Risk Management partners with each CCB sub-line of business to identify, assess, prioritize, and remediate risk. Types of risk that occur in consumer businesses include fraud, reputation, operational, credit, market and regulatory, among others.
+
+The Portfolio Profitability Modeling team is a center of excellence within CCB Card Risk Modeling, responsible for designing and developing machine learning profitability models which will be utilized in core card strategies such as in line management, pricing, transaction authorization, etc. We focus on leveraging advanced machine learning modeling including ensemble methods and deep learning to develop component models and optimal decision engines for revenue growth and loss mitigation.
+
+CCB-Risk-Card Portfolio Machine Learning Data Scientist –Associate
+
+ We are looking for candidates with demonstrated expertise in machine learning to join our talented team. The candidate will be responsible for end-to-end machine learning model design and development. Success in this role requires a strong foundation in machine learning, coupled with experience in big data and distributed computation. In this highly visible role, the successful candidate will be able to think like an analytic leader with business acumen, collaborate in a team environment, and communicate results effectively to senior management.
+
+Design and develop machine learning models and decision support systems to drive impactful decisions for the card business in areas such as credit line and price assignment and ongoing management, transaction authorization, collection, etc.
+
+Utilize cutting-edge machine learning approaches, and construct sophisticated machine learning models including ensemble methods and deep learning architecture on big data platforms
+
+Manage end to end model development process, from data collection, development, validation, to documentation by collaborating with various cross functional partners in marketing, risk, finance, technology, model governance, etc. throughout the entire modeling lifecycle
+
+Partner with cross functional teams in making strategic choices and investment decisions.
+
+Communicate effectively to senior leaders on opportunities, financial and process trade-offs
+
+Qualifications:
+
+PhD or Master’s degree in Computer Science, Statistics, Mathematics, Engineering, Economics or related quantitative fields
+
+Solid understand of advanced machine learning / AI / statistical learning in key areas e.g. gradient boosting, deep neural network, clustering, recommendation algorithms, GLM etc.
+
+Proficiency in advanced analytical languages (e.g., Scala, Python, R, SAS) and familiar with one or more framework of machine learning pipeline such as tensor flow, scikit-learn, spark ml, deeplearning4j, SageMaker, Azure, SAS eMiner etc.
+
+Experience with cloud computing platforms, such as AWS or Hadoop cluster.
+
+Experience with necessary IDEs, Linux command line tools etc.
+
+Comfortable to manipulate complex data flows among Hadoop, Teradata, SAS, S3, data files etc.
+
+Strong analytical, interpretive and problem solving skills, which will require the ability to synthesize / analyze diverse information and develop recommendations from observed outcomes.
+
+Communication skills must be strong, with an ability and demonstrated experience in clearly presented analytical findings

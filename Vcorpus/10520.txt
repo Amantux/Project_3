@@ -1,0 +1,51 @@
+Bachelor’s Degree in Computer Science, Information Systems, Mathematics, Statistics, or related field
+
+2+ years of professional work experience in Machine Learning, Data Science, Computer Science, Artificial Intelligence, Predictive Analytics or similar fields.
+
+Previous experience working in the areas of inferential statistics, machine learning, simulation and predictive modeling.
+
+Fluency in SQL and at least one of the following programming languages: Python, Scala, Julia, R
+
+Amazon is seeking an experienced, self-directed data scientist to support the research and analytical needs of Amazon Web Services' Infrastructure Workforce Development and Outreach team. This is a unique opportunity to invent new ways of leveraging our large, complex data stream. This is a high-visibility role with significant impact potential.
+
+About AWS:
+
+Amazon Web Services (AWS) provides companies of all sizes with an infrastructure web services platform in the cloud (“cloud computing”). With AWS you can requisition compute power, storage, and many other services – gaining access to a suite of elastic IT infrastructure services as your business demands them. AWS is the leading platform for designing and developing applications for the cloud and is growing rapidly with hundreds of thousands of companies in over 190 countries on the platform.
+
+About you:
+
+You, as the right candidate, are adept at executing every stage of the machine learning development life cycle in a business setting; from initial requirements gathering to through final model deployment, including adoption measurement and improvement. You will be working with large volumes of structured and unstructured data spread across multiple databases and can design and implement data pipelines to clean and merge these data for research and modeling.
+
+Beyond mathematical understanding, you have a deep intuition for machine learning algorithms that allows you to insist on defining the problem so that you can anticipate and suggesting appropriate algorithm applications. You’re talented at communicating your results clearly to business owners in concise, non-technical language.
+
+What you will do
+
+§ Work with a team of program and recruiting leaders to define business problems.
+
+§ Deliver quantitative research and develop predictive models in a development environment.
+
+§ Collaborate with recruiting, finance, human resources, and other analytics teams, and business partners (customers) to ensure the most efficient and effective allocation of resources to tackle our team's agenda.
+
+§ Use AWS services like SageMaker to build scalable ML models in the cloud.
+
+§ Examples of project assignments include modeling usage of AWS services to determine recommend optimal planning, quota setting, territory coverage, recruiting needs, headcount planning and more
+
+§ Support the analytical needs of the team inclusive of routine reporting, statistical inference, predictive modeling and simulation
+
+A Masters in statistics, economics, computer science, machine learning, operational research, or another highly quantitative field.
+
+Experience with the Sales, Operations, Marketing, or Autonomous Vehicle domains
+
+Industry experience building/operating highly available, distributed systems for data analytics
+
+Experience with statistical analysis and model prototyping environments (SAS, SPSS, etc.)
+
+Experience with AWS ML and supporting services
+
+Strong communication skills in both technical and non-technical settings.
+
+Meets/exceeds Amazon’s leadership principles requirements for this role
+
+Meets/exceeds Amazon’s functional/technical depth and complexity for this role
+
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation / Age

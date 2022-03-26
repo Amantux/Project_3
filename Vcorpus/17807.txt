@@ -1,0 +1,41 @@
+Job Description
+
+Data Engineers are tasked with building and maintaining our bespoke enterprise data pipelines. They take ownership of our data pipelines, starting with how we ingest data from the outside world, to transforming that information into actionable insights, to ultimately designing the interfaces and APIs that our analysts and quants use to monetize that information. Throughout that process our data engineers work side-by-side with investment professionals and data scientists to design systems that are solving our must challenging problems and answering the most difficult questions in the hedge fund industry.
+
+Key Responsibilities:
+
+
+· Develop solutions that enable internal analysts to efficiently extract insights from data. This includes owning the ingestion (web scrapes, S3/FTP sync, bespoke processes), transformations (Python, Perl) and interface (API, schema design, events, etc.)
+
+· Build tooling and automation around data pipelines that improve the efficiency, quality and resiliency of our data platform
+
+· Partner with internal analysts, quants and data scientists to design, develop, test and deploy solutions that answer fundamental questions about financial markets.
+
+· Take on an entrepreneurial mentality by building and selling your own ideas. We work in an evolving space and we expect you to help design our evolution by challenging the status quo and independently identifying opportunities to improve the entire data organization.
+
+Required Skills
+
+· A deep passion for working with data and developing software to address data processing challenges
+
+· Bachelor’s, Master’s or PhD degree in Computer Science or equivalent experience
+
+·Proficiency within one or more programming languages like Java, Python, Perl or JavaScript.
+
+· Proficiency with RDBMS, or NoSQL
+
+· Experience with some of the following areas: Distributed Computing, Natural Language Processing, Machine Learning or Software Architecture
+
+· Experience with any of the following systems: Apache Airflow, AWS/GCP/Azure, Jupyter, Kafka, Docker, Nomad/Kubernetes
+
+· Strong written and verbal communications skills
+
+· Ability to manage multiple tasks and thrive in a fast-paced team environment
+
+About Citadel
+
+
+Citadel is a global investment firm built around world-class talent, sound risk management, and innovative leading-edge technology. For a quarter of a century, Citadel’s hedge funds have delivered meaningful and measurable results to top-tier investors around the world, including sovereign wealth funds, public institutions, corporate pensions, endowments and foundations.
+
+With an unparalleled ability to identify and execute on great ideas, Citadel’s team of more than 675 investment professionals, operating from offices including Chicago, New York, San Francisco, London, Hong Kong and Shanghai, deploy capital across all major asset classes, in all major financial markets.
+
+Apply Now

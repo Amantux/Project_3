@@ -1,0 +1,69 @@
+Team/Department Description:
+
+The ShippingEasy Engineering team is responsible for developing and maintaining the ShippingEasy Product.
+
+Strategic Imperative:
+
+ShippingEasy is the company’s second largest eCommerce brand and is focused on building an intuitive and accessible product for customers with a simple workflow. The Software Engineer is responsible for implementing new features to improve our merchants’ experience, and maintaining our systems to ensure a consistently excellent experience.
+
+Primary Objectives:
+Develop high quality and maintainable software.
+Solve customer problems based on high level requirements provided by product management.
+Deliver iterative improvements weekly to ensure the product is constantly improving.
+Qualifications - To perform this job successfully, an individual must be able to perform each essential job duty satisfactorily. The requirements listed below are representative of the knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.
+
+Essential Position Duties (typical monthly, weekly, daily tasks which support the primary objectives):
+Write well tested code in both Rails and React.
+Understand customer problems and ensure solutions meet those needs.
+Review code of other team members to ensure consistent quality across the code base.
+Periodically solve bug reports coming through support to ensure our product is stable and usable.
+Maintain our libraries and upgrade them periodically to ensure a stable and maintainable software base.
+Deploy code weekly to production to keep up with business needs.
+Additional Position Duties: (The following is a list of what all employees, except those with medical accommodation, may be regularly required to do.)
+Sit for prolonged periods of time
+Utilize wrist and hands for a prolonged period of time
+Walk short distances
+Stand for short periods
+Speaking and conversing with others
+Lift up to 25lbs without assistance up to chest height
+Required Education and/or Experience:
+Bachelor's degree in Computer Science or related field, or a certificate from a boot camp, or equivalent years’ experience.
+Two or more (2+) years of Ruby on Rails or React development experience.
+Preferred Education and/or Experience:
+A Bachelor’s or Master’s degree in Computer Science or related field.
+There or more (3+) years’ experience in both Ruby on Rails and React development.
+Background or understanding of the Shipping Industry related to ecommerce.
+Skills and Knowledge:
+Able to implement a full model-view-controller feature in Rails.
+Understands API design and can help build an interface from the front or back end perspective.
+Able to write tests in Rspec or React Testing Library + Jest.
+Analyze codebase to find root causes of errors and fix bugs as needed
+Computer/Software/Application Proficiency:
+Ruby on Rails
+React
+Javascript
+Postgresql
+Basic Web Development Understanding
+Travel Requirements:
+None
+Team Member Success Factors: – To succeed at the combined companies, each team member must demonstrate the following:
+
+Communication - Speaks clearly and persuasively, Listens and gets clarification; Responds well to questions; Demonstrates group presentation skills; Participates in meetings; Writes clearly and informatively; Edits work for spelling and grammar; Varies writing style to meet needs; Presents numerical data effectively; Able to read and interpret written information.
+
+Solution-Focused - Views a problem or challenge as an opportunity for learning; actively searches for solutions using all available resources
+
+Teamwork - Balances team and individual responsibilities; Contributes to building a positive team spirit; Puts success of team above own interests; Able to build morale and group commitments to goals and objectives; Supports everyone's efforts to succeed.
+
+Cost Consciousness with Quality Focus - Works within approved budget; Develops and implements cost saving measures; Contributes to profits and revenue; Conserves organizational resources; Understands how to balance cost consciousness with quality focus; Ensures quality of service and product at all levels.
+
+Judgment - Displays willingness to make decisions; Exhibits sound and accurate judgment; Supports and explains reasoning for decisions; Includes appropriate people in decision-making process; Makes timely decisions.
+
+Kaizen - Continually looks for ways to improve process, customer satisfaction, quality of product, personal achievement, team achievement, and company overall; Does not accept “status quo” as a default.
+
+The duties listed above are intended only as illustrations of the various types of work that may be performed. The omission of specific statements of duties does not exclude them from the position if the work is similar, related or a logical assignment to the position.
+
+The job description does not constitute an employment agreement between the employer and employee and is subject to change by the employer as the needs of the employer and requirements of the job change.
+
+ShipStation is an Austin-based software company that has experienced tremendous growth in the past year. We help thousands of customers who sell online using Amazon, eBay, Magento, Volusion, BigCommerce, Shopify, Etsy, and over 45 other online marketplaces. Our web-based shipping applications streamlines the order fulfillment process for anyone selling on the Internet.
+
+If you are passionate about using technology to solve business problems, enjoy helping customers, and have excellent communication skills, then we want you to join us.

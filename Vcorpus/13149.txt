@@ -1,0 +1,31 @@
+At Scanalytics, we power the unimaginable by providing the insights for changing the way our physical spaces serve us. We are the leader in providing insights on human behavior by Implementing our own Thought Leadership in the field of spatial insights.
+
+Scanalytics Inc. is looking for a Data Scientist able to construct physics-based models to process data from our sensor mats. This is not a black-box-algorithm kind of role. Customers want more than data they want insight. And the explanation of how a result was calculated is as important as the result itself. The Data Scientist role helps Scanalytics derive these insights from raw sensor data; essentially extracting information from a high-resolution video of pressure on a floor. This role transforms sensor readings into anonymized insights about activity in a space.
+
+Key Responsibilities:
+Develop and evaluate computational models for people-counting and identifying behaviors on smart mats
+Implement these models in code, so that they are call-able from a Python framework
+Communicate model characteristics and performance to technical and non-technical associates
+Create charts to visualize raw data and model performance
+Provide analytical feedback on IoT hardware iterations such as sensor performance, stability, and consistency
+Qualifications:
+Bachelor's degree in STEM field (post-graduate degree or equivalent experience a plus)
+Demonstrated history of data analysis and model development, e.g. for time-series or IoT data
+Strong background and understanding of statistics; ability to flag statistically significant events especially outliers and anomalies
+Experience building models to consume data from a continuous stream of events
+Strong written and verbal communication skills
+Who you are:
+Interest in understanding human behavior patterns (e.g., why did this group of people enter to the left instead of the right?)
+Independent worker who is a specialist within a small team
+Will run experiments and test algorithm performance in terms of correctly counting occupancy on the mat and perimeter crossings (i.e., entrances and exits)
+Communicate and formally report on results, needed improvements and requirements to hardware team and Chief Scientist, and Dont Be Afraid to Speak Up on setting expectations of algorithm performance and enjoining team to run testing when needed
+Have a Get Shit Done attitude that means you bring algorithms to a state of completion rather than perfection, so that they can be deployed to our customers
+Demonstrate Practical Curiosity to understand how the analytics fit into the rest of the business and how to create even better and more useable sensors
+Perks & Benefits:
+Startup culture: lots of autonomy, mastery and purpose in everything in you do with plentiful opportunities to grow
+No dress code, no layers of management and no rigidity in your role
+Free parking in downtown Milwaukee
+Medical, dental and vision insurance, with a generous employer contribution to your medical
+Financial benefits: 401k plan with low-cost Vanguard funds and company matching contributions
+PTO and company holidays
+Telecommuting options

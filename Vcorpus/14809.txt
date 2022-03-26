@@ -1,0 +1,71 @@
+Country:
+United States
+
+Cities:
+Houston
+
+Area of expertise:
+Analytics
+
+Job Description
+
+Love living in the cloud? So do we.
+
+As an Azure Data Engineer you will collect, aggregate, store, and reconcile data in support of Client business decisions. You will help design and build data pipelines, data streams, reporting tools, information dashboards, data service APIs, data generators and other end-user information portals and insight tools. You will be a critical part of the data supply chain, ensuring that business partners can access and manipulate data for routine and ad hoc analysis to drive business outcomes using Advanced Analytics.
+
+Day-to-day, you will:
+• Translate business requirements to technical solutions using strong business insight.
+• Analyzes current business practices, processes and procedures as well as identifying future business opportunities for demonstrating Microsoft Azure Data & Analytics PaaS Services.
+• Support the planning and implementation of data design services, providing sizing and configuration assistance, and performing needs assessments.
+• Delivery of architectures for transformations and modernizations of enterprise data solutions using Azure cloud data technologies.
+• Design and Build Modern Data Pipelines and Data Streams.
+• Design and Build Data Service APIs.
+• Develop and maintain data warehouse schematics, layouts, architectures and relational/non-relational databases for data access and Advanced Analytics.
+• Expose data to end users using Power BI, Azure API Apps or other modern visualization platform or experience.
+• Implement effective metrics and monitoring processes.
+• Able to travel approximately 80%
+
+Your technical/non-technical skills include:
+• Demonstrable experience of turning business use cases and requirements to technical solutions.
+• Experience in business processing mapping of data and analytics solutions.
+• Ability to conduct data profiling, cataloging, and mapping for technical design and construction of technical data flows.
+• The ability to apply such methods to take on business problems using one or more Azure Data and Analytics services in combination with building data pipelines, data streams, and system integration.
+• T-SQL is required.
+• Knowledge of Azure Data Factory, Azure Data Lake, Azure SQL DW, and Azure SQL, Azure App Service is required.
+• Experience preparing data for Data Science and Machine Learning.
+• Knowledge of Master Data Management (MDM) and Data Quality tools and processes.
+• Strong collaboration ethic and experience working with remote teams.
+• Knowledge of Dev-Ops processes (including CI/CD) and Infrastructure as code fundamentals. (nice to have)
+• Working experience with Visual Studio, PowerShell Scripting, and ARM templates. (nice to have)
+• Knowledge of Lambda and Kappa architecture patterns. (nice to have)
+
+Preferred Education Background:
+You likely possess a Bachelor's degree in Computer Science, Information Technology, Business, or another relevant field. An equivalent combination of education and experience will also suffice.
+
+Preferred Years of Work Experience:
+You likely have about 3-5+ years of relevant professional experience.
+
+Why Avanade?
+• 14-time winner of Microsoft Partner of the Year
+• 24,000+ certifications in Microsoft technology
+• 90+ Microsoft partner awards
+• 17 Gold Competencies
+• 3,500 analytics professionals worldwide
+• 1,000 data engineers
+• Implemented analytics systems for more than 550 clients
+• 400 AI practitioners
+• 300 cognitive service experts
+
+How We Support You:
+We believe in gender equity and an inclusive community. We offer a comprehensive benefits package: generous vacation allowance disability coverage, retirement plans, paid maternity and paternity leave, life insurance, hotel and travel discounts, extended benefits to cover items that support your well-being, health, dental and vision insurance, professional development and paid Microsoft certification opportunities.
+
+Important Note about this Future Opportunity:
+We are actively recruiting and interviewing for this ‘Future Opportunity’ position, however will not be extending offers at the present time.
+
+The outbreak and spread of COVID-19 has created uncertainty for many, and during this period Avanade is focused on the personal safety and well-being of our employees and candidates. The good news is that Avanade is a 38,000-person organization that depends on new ways of working every day and we’ve been relying on our workplace experience to empower our employees – wherever they’re working – for 20 years now. Thanks to our workplace platforms – the likes of Office 365, Microsoft Teams, SharePoint and more – we’ve been able to continue delivering work seamlessly and connecting with talent to explore opportunities for tomorrow.
+
+What does that mean for you? It means you can apply and interview virtually, via video, for a future career opportunity without pressure to make a decision. It means that you will have the chance to connect with leaders and hiring managers at your own pace.
+
+We encourage you to speak candidly with your recruiter about your career aspirations and expectations throughout this recruiting process. In return, we are committed to being transparent with you about our intent and goals around this position.
+
+Apply now

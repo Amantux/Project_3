@@ -1,0 +1,44 @@
+Job Description
+Unizin is looking for a Senior Data Engineer to expand the data architectures and data services that drive its solutions. The ideal candidate is experienced in building data pipelines, data services, and distributed/concurrent systems. The right candidate will be excited by the prospect of building, optimizing, and even re-designing our company’s data architecture to support our next generation of products and data initiatives.
+
+What you'll do
+Build services that extract, transform, and load (ETL) data from a variety of data sources using cloud-based, "big data" technologies (e.g., Spark, Hadoop)
+Building services that leverage queuing and stream processing to deliver near-real-time data services
+Create and maintain optimal data pipeline architecture
+Generate test data sets based on established internal and external schemas
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Build data analytics services that utilize the data pipeline to provide actionable insights into customer acquisition, operational efficiency, and other key business performance metrics
+Make heavy use of Google Cloud offerings to provide timely, accurate, and comprehensive data services to large research universities for analytics and reporting
+Participate in a production support rotation with other engineers
+What makes you a great fit
+You love building automated data pipelines for batch and event data processing
+You love wrangling, processing, and analyzing data in streamlined data systems
+You love building systems from the ground up
+Required skills
+Experience in building concurrent, distributed systems
+Expert-level knowledge of streaming and batch ETL techniques
+Expert-level knowledge of SQL
+Expert-level knowledge of relational and NoSQL databases (e.g. Postgres, BigQuery)
+Experience with distributed query systems (e.g., Hive, Spark SQL, Presto)
+Python, Ansible, Docker, Kubernetes, Git
+Skills that will set you apart
+Experience building catalog and inventory systems
+Experience with RStudio, Jupyter
+Experience in translating analytical models in R to production implementations
+Apache Airflow
+Experience with GitfFlow & GitOps
+Benefits
+Great team
+Cool technology
+Mission of high social value*
+Flexibility to implement new, custom, and better solutions
+Competitive salary
+Excellent medical, dental, and optical plans
+403b with matching
+Open PTO
+Free parking
+Loaded kitchen
+Flexible hours
+Powered by JazzHR
+
+9UZqd62Hza

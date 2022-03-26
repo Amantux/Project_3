@@ -1,0 +1,26 @@
+LMI is currently seeking a data engineer within LMI’s Advanced Analytics service line to support the design and implementation of business critical data management & engineering solutions.
+This position is located in Austin, TX
+
+The ideal candidate will have direct, applied experience with one or more of the following areas:
+- Develop data structures and systems to support the generation of business insights
+- Knowledge and experience in overall ETL processes
+- Maintain data infrastructure and develop scripts for regular processes
+- Define, design, and develop data flow diagrams, data dictionaries, and logical and physical models
+- Define data requirements, document data elements, and capture and maintain metadeta
+- Identify and clean incomplete, incorrect, inaccurate or irrelevant data
+- Identify new opportunities to use data to improve business performance
+- Communicate and present data by developing reports using Tableau or Business Intelligence tools
+- Adhere to compliance and audit requirements for data storage, architecture, cybersecurity, etc.
+
+Bachelor’s degree in a quantitative field (e.g., engineering, statistics, mathematics, information technology, etc.) is preferred.
+Master's degree is desired.
+Must have at least 3 years of experience, preferably with a federal government customer.
+Experience with big data tools: Hadoop, Spark, Kafka
+Experience with relational SQL and NoSQL databases: Postgres, Cassandra, MongoDB
+Experience with data governance tools: Collibra, Immuta
+Experience with AWS cloud services: EC2, EMR, RDS, Redshift
+Experience with object-oriented/object function scripting languages: Python, Java, C++, Scala
+Must possess strong written and verbal communication skills.
+Secret or Top Secret clearance is preferred.
+
+LMI is an Equal Opportunity Employer-all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, or national origin.

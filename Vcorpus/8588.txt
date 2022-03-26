@@ -1,0 +1,35 @@
+We are looking for an experienced Data Scientist to provide data-driven, action-oriented solutions to risk problems through statistical data mining, analytics techniques and a consultative approach, own the end to end risk modeling and response for key metrics of model healthy.
+
+The Risk Management team is responsible for managing diversified risk associated with our products and business flows, ranging from payment risk, fraud risk, credit risk to public safety risk, tracking industry leading technical prevalence, developing innovative and state-of-art methodology to tackle the new challenges emerging from share economy ecosystem, for the purpose to protect sustainable growth and maximize business outcomes.
+
+Responsibilities
+
+Acute business sense, deeply understand the business model, transaction flow, and payment system. Discovery the potential risk point, work closely with product manager, engineer, and operations to design data pipeline and risk strategy framework.
+
+Lay the groundwork – hypothesize as an individual researcher and in collaboration with other team members on how to solve fraud problems. Perform data preparation activities, such as collecting, cleaning, and organizing.
+
+Produce clear, understandable visualizations, dashboard and reports to share with Senior Management and business partners, provide the insightful story from the data perspective to risk policy owners.
+
+Establish a holistic risk modeling framework for addressing the risk of fraud and financial abuse across riders, drivers, merchants, and affiliates
+
+Deep dive into data through systematic and ad hoc analyses and build machine learning models to score the identity, behavior, reputation and other risk characteristics of the customers.
+
+Communicate Results on a regular basis to stakeholders around the world, including executive leadership
+
+Qualifications
+
+Master degree (Ph.D. is a plus) in Statistics, Mathematics, Computer Science, Engineering or a similar Quantitative field, or equivalent practical experience.
+
+Strong modeling skillset, hands on mastery of data manipulation and experience with data analytics tools (SQL, R, Python, Hive, Spark, and other data analysis packages)
+
+Experience working in payments fraud or credit risk modeling is desired but not mandatory
+
+Knowledge of the latest ML techniques like decision tree, random forest is a plus, but not a requirement
+
+Creative problem solving and critical thinking skills
+
+About the company:
+
+At DiDi, Safety of the people who use our products and security of their data is our highest priority. The Security Engineering team is entrusted to develop safety-enhancing products for our drivers/riders, to monitor cyber threats, analyze vulnerabilities & exploits, research new methods & technologies for detecting cybersecurity attacks, and develop innovative software that protects everything from the smallest footprint device to a globally distributed cloud infrastructure.
+
+With petabytes of data, millions of daily transactions, a wide variety of devices, and cutting-edge technologies in hand, we're solving extremely challenging security problems.

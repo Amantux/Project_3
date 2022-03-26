@@ -1,0 +1,83 @@
+Our Fortune 500 company is driving a digital transformation and looking for forward-thinking innovators to disrupt how our industry thinks about and uses technology. As one of the world's leading employee benefits providers, we help millions of people gain affordable access to benefits that help them protect their families, their finances and their futures.
+
+Are you an asker of questions, a solver of problems, and a challenger of the status quo? Our mission is to provide a differentiated customer experience and exceed the expectations people have of technology at any company — not just insurers.
+
+We are seeking individuals to join our team of talented IT professionals who share never-ending passion and an unwavering focus on our customer experience. Team members comfortable working in an agile, fast-paced, and delivery-focused environment thrive in our environment where we value an entrepreneurial spirit and those who challenge the status-quo.
+
+Unum is changing, and we’re excited about what’s next. Join us.
+
+General Summary:
+
+Unum is looking for a Sr. Data Scientist who thinks with the mind of the end customer at all times, ensuring solutions seek to improve the customer experience. You should possess strong experience in developing data mapping specifications, including identification of data rules, & defining transformation rules to immediately help in two very distinct projects. Working closely with Business Analysts, Senior Data Analysts, the business units, and Application development groups you will deliver high quality outcomes through the application of critical thinking skills applied to data analysis in order to advance the delivery of business value.
+
+Qualifications
+
+Bachelors Degree preferred, or equivalent experience
+
+6+ years experience in Data Analysis or equivalent work experience
+
+Proficient in resolving data anomalies, conducting data integration analysis and Data Management discipline
+
+Familiarity with data modeling concepts as well as knowledge of conceptual and logical data modeling practices
+
+Strong SQL skills, data analysis skills and an ability to read XML
+
+Familiarity with both Relational Data and UML Modeling
+
+Familiarity with the concepts of Operational Data Store and Data Warehouse
+
+A strong problem solver with excellent communication, facilitation and negotiation skills
+
+Ability to embrace change, adapt to the unexpected, and focus energies, people, and solutions on practical and positive results
+
+Proven data profiling experience (i.e. single column, table structural, cross-table, etc.)
+
+Knowledge of Big Data/NoSQL platforms (i.e. Hadoop, Cassandra, etc.)
+
+Technical Qualifications
+
+Experience in Python, R, Julia, or other scripting languages to perform analysis
+
+General programming experience in (Java, C#, Python, etc.)
+
+Experience with visualization tools or framework
+
+Experience working with API’s
+
+Experience with AWS & Azure
+
+Principal Duties and Responsibilities
+
+Conduct moderate to complex data profiling and analysis to evaluate data sources to determine the best source for business information.
+
+Complete source to target data mapping specifications (e.g. source to target can be from one DBMS table to another DBMS table, from a DBMS table into a canonical message structure, etc.)
+
+Partner with subject matter experts, architects and engineers to capture and analyze business needs to lead the creation of all data modeling related artifacts.
+
+Translate and transform business requirements into complex data models (conceptual and logical).
+
+Design moderately complex to complex, flexible data models (conceptual and logical) through collaborations with analysts, engineers, and Physical DBA.
+
+Collaborate with the Data Architect and Physical DBA to translate the logical data model into a physical database design.
+
+Create/Capture documentation (metadata) that is up-to-date.
+
+Work with integration teams to ensure that the model design and development is properly communicated.
+
+Contribute to the development of enterprise data management standards and procedures, guidelines, and best practices as well as contribute to the development of data quality requirements, policies, data rules, reporting, and remediation.
+
+Contribute to the refinement and standardization of data modeling practices to align with application paradigm (e.g. Business Intelligence, Transactional Processing, Big Data).
+
+Collaborate with the test engineers to perform data validation and testing activities as appropriate.
+
+#LI-SM1
+
+~IN1
+
+Our company is built on helping individuals and families, and this starts with our employees. We want employees to maintain a positive balance, which is why we provide access to the benefits and resources they need to invest in themselves. From our onsite fitness facilities and generous paid time off to employee professional development programs, we are committed to helping employees live and work their best – both inside and outside the office.
+
+Unum is an equal opportunity employer, considering all qualified applicants and employees for hiring, placement, and advancement, without regard to a person's race, color, religion, national origin, age, genetic information, military status, gender, sexual orientation, gender identity or expression, disability, or protected veteran status.
+
+Company:
+
+Unum

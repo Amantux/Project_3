@@ -1,0 +1,56 @@
+"Data Analyst
+
+The Data Analyst is focused on building the next generation of data systems to support our clients. Our technologists work as a part of our technology delivery and consulting practice. Our developers work on high profile projects with both business analysts and prospective application managers in order to gather requirements, perform implementations and guide production rollouts while creating highly optimized batch & real-time applications and ensure the overall success of their projects.
+
+Responsibilities
+
+•Reverse engineer existing SSIS jobs and document them thoroughly.
+•Prepare detailed workflow charts and diagrams that describe source to target mapping and transformations.
+•Develop, unit test and deploy ETL solutions using Talend modules such as Talend Open Studio for Data Integration, Big Data, ESB, Data Quality etc.
+•Contributes to the technical design documents, use cases, test cases and user manuals for various projects.
+•Conducts bug fixes, code reviews, unit, functional and integration testing.
+•Consult with and assist business and technical leadership to clarify intent, identify problems, and make changes.
+Clearly document business, functional and technical logic
+
+Requirements
+• Proven working experience as a Data Analyst or Business Data Analyst
+• Technical expertise regarding data models, database design development, data mining and segmentation techniques
+• Strong knowledge of and experience with reporting packages (Business Objects etc), databases (SQL etc), programming (XML, JavaScript, or ETL frameworks)
+• Knowledge of statistics and experience using statistical packages for analysing datasets (Excel, SPSS, SAS etc)
+• Strong analytical skills with the ability to collect, organize, analyse, and disseminate significant amounts of information with attention to detail and accuracy
+• Adept at queries, report writing and presenting findings
+
+Required Soft Skills:
+
+• Interpret data, analyze results using statistical techniques and provide ongoing reports
+• Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality
+• Acquire data from primary or secondary data sources and maintain databases/data systems
+• Identify, analyze, and interpret trends or patterns in complex data sets
+• Filter and “clean” data by reviewing computer reports, printouts, and performance indicators to locate and correct code problems
+• Work with management to prioritize business and information needs
+• Locate and define new process improvement opportunities
+?Perform data quality reviews for Plan submitted data based on the NDW documented process within the defined SLA completing (3) reviews per day as assigned ensuring NDW data quality standards are met before data is loaded to NDW
+?Communicate directly with NDW Plan data contacts on various outcomes within certification process, notifies Plan(s) of failures and the specific action needed to the necessity to remediate data quality issues and resubmit files, as applicable.
+?Complete data quality review checklists and documents for process audit purposes and store in appropriate location after completion of review for reference
+?Leverage the following tools to conduct NDW Data Quality reviews to ensure review outcomes meet NDW data quality requirements:
+oData Cleansing and Validation (DCV)
+oCognos Reports
+oTOAD
+oSQL
+oTableau
+oPre-defined Level 2 Certification Thresholds
+
+?Perform data profiling against pre-established NDW data validation requirements, specifications
+?Follow establish process and procedures to triage data anomalies by reviewing and analyzing key data points within the established process to determine quality of data submitted within each of the 17 files submitted within each extract
+oPre-produced Level 2 Certification report
+oPre-produced Level 1 Certification report
+oRejection Reports
+oField Level Transformation Reports
+oField Distributions
+oFinancial Balancing
+oProvider Matching
+oProfiling tables in relational data model to check for anomalies not found in standard reporting (field level relational testing)
+?Track Plan production submissions schedules and perform tracking for escalation to NDW Operations Lead for missing or missed submissions
+
+Location
+This position is based in Chicago . UST will provide relocation assistance."

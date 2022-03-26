@@ -1,0 +1,50 @@
+The Job Details are as follows:
+
+Balyasny is in a period of rapid technology transition. This exciting role within our growing cloud engineering group will provide you with the opportunity to make a lasting impact on the firm’s cloud implementation, strategy, and architecture design. At BAM, you will have the chance to work with some of the smartest and most driven individuals in the industry.
+
+Overview:
+
+We are seeking a talented, energetic self-starter for a Systems Engineer position. Candidate must have a minimum of 5 years systems engineering experience supporting Windows and Linux server environments leveraging DevOps tools and concepts in order to provide exceptional service delivery across the enterprise. The optimal candidate will be process driven and have a diverse technology background with a desire to learn and become the best. A basic understanding of financial markets and trade lifecycles is a plus. The candidate must be an exceptional problem solver and a very strong communicator with the ability to multitask.
+
+As a Systems Engineer at BAM, you will:
+Provide expert level support for highly virtualized Windows and Linux environment focused on scale, availability and security
+Assist in the architecture and administration of Active Directory, Exchange and connected infrastructures
+Deploy automation technologies and processes to support on-premise and cloud based infrastructures
+Play a key role in the migration of on prem resources to Azure public cloud.
+Improve and automate existing repetitive, manual processes and procedures driving support efficiencies
+Collaborate with business leads, engineering and development staff in order to gather requirements that will help drive innovation and efficiencies within infrastructure operations
+Monitor and take corrective action with system performance and availability
+Maintain documentation and enforce secure, system policies
+Core Technical Abilities
+Core MS Stack: AD, GPO, DFS, and Exchange
+OS: Windows and Linux
+Scripting: PowerShell or Python is essential.
+Virtualization technologies: VMWare, Citrix
+Public Cloud: Azure. Experience with Office 365 is essential.
+Configuration Management: SCCM or Puppet
+To be considered a good cultural fit, you must be:
+An ambitious self-starter
+Hungry and driven to learn
+Strong desire to solve with automation and self-service
+A very strong and efficient communicator and collaborator
+Able to multi-task and excel in a fast-paced trading environment
+A problem solver; able to develop quick and sound solutions to complex problems
+To be considered a good technical fit, you must have:
+BS Degree in Computer Engineering, Computer Science or related field/technical experience
+Expert administration skills in MS Windows server platform technologies (AD/DNS/DHCP/GPO/DFS)
+Advanced knowledge in automating Windows platforms leveraging PowerShell, C#, or Python
+Strong knowledge of automation and configuration management systems (SCCM, Puppet, Docker, Terraform, Serverless)
+Strong knowledge of supporting MS Exchange infrastructure and associated archiving / security gateway products
+Strong knowledge of networking (TCP/IP), security and optimization
+Strong knowledge of DFS and data replication services
+Hands on public cloud experience (Azure)
+Bonus points for:
+Previous migration experience to Office 365
+Public Cloud: AWS knowledge
+Experience with modern desktop
+Experience with modern file systems: SharePoint, OneDrive, Azure File Systems, S3 etc.
+Experience with Nutanix/AHV
+Experience administrating Citrix
+Varonis, Okta, Mobile Security, Splunk
+Knowledge in virtualization technologies (VMware 6.5 and up, Citrix)
+Don’t have all of the skills listed above? Have extra skills you think are important that we haven’t thought of? Please, let us know by applying and telling us a bit more about yourself and why you think you’re qualified!

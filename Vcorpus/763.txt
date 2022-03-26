@@ -1,0 +1,123 @@
+Overview 
+ Who we are:  
+Meridian, a WellCare Company, is part of a national network of passionate leaders, achievers, and innovators dedicated to making a difference in the lives of our members, our providers and in the healthcare industry. 
+We provide government-based health plans (Medicare, Medicaid, and the Health Insurance Marketplace) in Michigan, Illinois, Indiana, and Ohio. As a part of the WellCare Family of companies, we deliver healthcare excellence to millions of members nationwide. 
+Our associates work hard, play hard, and give back. Meridian associates enjoy an exceptional experience and culture including special events, company sports teams, potlucks, Bagel Fridays, and volunteer opportunities.  
+  
+ A Day in the Life of a Data Scientist:  
+The Data Scientist is part of a team that researches and investigates business problems through quantitative analysis using healthcare cost, utilization, clinical,  assessment, and external data. This position also conducts the on-going presentation of analysis results and findings to support clinical programs, healthcare business operations, performance and improvement.  Responsibilities 
+ Essential Functions:     
+Gather and prepare analyses based on information from internal and external sources to evaluate and demonstrate program effectiveness and efficiency (10%)      
+Leverage knowledge of programming, mathematics and computer science to transform the way our company does business    
+Translate business opportunities into data-driven big-data and modeling solutions using statistical, econometric or data-mining tools and methods    
+       
+Analyze and extract data from the Enterprise Data Warehouse (EDW) to report to internal and external customers (5%)      
+Working in big data environment with Oracle and Hadoop environment to bring actionable insights with R, SAS, Python or other statistical packages    
+       
+Research complex functional processes and industry standards using a variety of resources (5%)      
+Educate the organization both from IT and the business perspectives on new analytic methods and technologies      
+Develop and prepare highly complex reports and provide and/or interpret information and data across divisions and departments (15%)      
+Communicate complex analysis clearly to all audience through use of data visualization tool such as Tableau    
+Gain an understanding of how data integrates across multiple transaction systems to create complex reporting solutions for actionable insights    
+       
+Assume responsibility for data integrity among various internal groups and/or between internal and external sources (5%)  
+Design integrated and clinically-based engineering, management, medical and environmental solutions aiming at providing person-centered care to members, households and their respective communities with emphasis on health, social, economic and environmental sustainability (15%)      
+Using statistical methods such as linear models (linear regression, generalized linear regression, logistic regression) and nonlinear modeling techniques to build predictive models to help drive better member engagement and impactability    
+Lead the research and development of predictive models and capabilities using machine learning and artificial intelligence    
+Segment target population using supervised (classification) and unsupervised (clustering) learning methods to identify most impactful members    
+       
+Conduct economic/outcomes analyses to quantify savings obtained from integrated solutions.(10%)      
+Evaluate return of investment (ROI), utilization and compare them with pre-defined goals to measure effectiveness of program    
+Develop meaningful data visualizations in form of dashboards to communicate results and empower senior executives’ decision making process    
+       
+Develop systematic and scalable reporting processes and procedures to ensure timely delivery of weekly, monthly, quarterly, annual and ad hoc reporting to management (10%)      
+Develop and improve algorithms like risk stratification methodology, pregnancy identification, etc. that is applied to all member on a monthly basis    
+       
+Recommend and implement new or modified reporting methods and procedures to improve report content and completeness of information (15%)      
+Analyze benchmarking data, reports, processes, and measurements for key managed care indicators to recognize trends and assist in developing population health initiatives      
+Serve as a mentor to junior staff (5%)  
+Perform all other related duties as assigned (5%)   Qualifications 
+ Job Requirements:  
+ Education:    
+Master’s Degree or higher in Data Science, Biostatistics/Statistics, Econometrics or related field  
+    
+ Experience:    
+5+ years of experience in advanced analytics experience, machine learning, statistics, or econometrics role and who has solid analytical skills using, SAS, R, or Python  
+Advanced knowledge of statistical and mathematical principles  
+Experience in Regression Analysis, Predictive Modeling, Data Mining, Machine Learning and Forecasting  
+Experience in Propensity Modeling for control group and treatment group testing  
+Experience in designing research experiments and measuring their effectiveness.  
+Experience with healthcare claims data  
+Experience with peer-reviewed publications  
+Experience with Six Sigma, Triple Aim and/or other relevant Project Management tools  
+Strong SQL Scripting, Statistical Programming, Data Visualization and Communication skills  
+Ability to interpret and communicate statistical results to a non-technical audience  
+Working knowledge of Predictive Modeling and Grouper tools such as John Hopkins ACG System, Optum Symmetry, or related population health platform system(s)  
+    Knowledge :   
+Must be familiar with common database architectures and understand how to extract necessary data  
+Must have strong proficiency in MS Excel (pivot tables, macros, lookups, etc.) and common analytic tools such as SAS, SQL, SPSS (writing queries, troubleshooting queries, extracting data, etc.)  
+Knowledge about Medicare, Medicaid and Commercial Managed Care preferred  
+Working knowledge of Healthcare Effectiveness Data Information Set (HEDIS) specifications and CAHPS survey requirements  
+Knowledge of health care quality improvement processes and documentation  
+  
+ Skills/Tools :   
+At least 2 years of experience with SQL Server or Oracle  
+At least 2 years of experience with SAS or R  
+At least 2 years of experience with MS Excel  
+At least 2 years of experience with Data Visualization in Excel, R or Tableau  
+Experience with Oracle BI Answers a plus, not required  
+Experience with MS Access a plus, not required  
+Excellent written, verbal, presentation skills and inter-personal skills   
+Strong clinical analytical and data interpretation skills  
+Strong project management skills required; must be very organized and detail oriented  
+Strong written and oral communication skills required; must be able to interact with all levels within an organization  
+    
+ Abilities :   
+Must be able to execute complex clinical analyses using sound epidemiological concepts and methodologies  
+Must be able to produce requested analyses on a production schedule  
+Ability to present analytical findings to leadership to enable data-driven decisions  
+Must be able to interact with a variety of clinical operations SMEs to organize analytic plans and requirements for clinical analytic requests   
+Ability to work in a collaborative, virtual team environment and analyze problems using a team approach    
+Must be a team player and someone with ability to work with minimal guidance in fast-paced work environment.    
+Ability to influence and manage a diverse set of stakeholders (clinical and nonclinical), both internally and externally  
+Ability to think creatively to resolve common barriers and issues     
+Ability to deal with ambiguity of ad hoc reporting requests, ask questions to seek clarification, and deliver results  
+  
+#MSTR  
+
+Job Summary
+
+                             
+                     
+                         Location 
+                             Detroit, MI 
+                     
+                 
+                             
+                     
+                         Job type 
+                         Full Time, Employee 
+                     
+                 
+                 
+                     
+                         Posted 
+                         1 Days ago 
+                     
+                 
+                 
+                     
+                         Industries 
+                         Healthcare Services 
+                     
+                 
+                 
+                     
+                         Career level 
+                         Experienced (Non-Manager) 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         8306

@@ -1,0 +1,29 @@
+Note: By applying to this position your application is automatically submitted to the following locations: Austin, TX, USA; Boulder, CO, USA; Chicago, IL, USA
+
+Minimum qualifications:
+Bachelor's degree in Computer Science, related technical field, or equivalent practical experience.
+2 years of relevant experience managing client-facing projects and troubleshooting technical issues.
+Experience with database technologies (such as Teradata, Netezza, Oracle, or SQL Server) and Data Warehousing concepts.
+Experience writing software in Java or Python, and SQL.
+Preferred qualifications:
+Experience working with ETL/ELT, and reporting and analytic tools.
+Experience securing data warehouses in a cloud environment.
+Experience designing data warehouse technical architectures and infrastructure components.
+Experience with non-relational platforms and tools for large-scale data processing (e.g. Hadoop, HBase).
+Experience in technical consulting and working with cross-functional teams and customers.
+About the job
+
+
+The Google Cloud Platform team helps customers transform and evolve their business through the use of Google’s global network, web-scale data centers and software infrastructure. As part of an entrepreneurial team in this rapidly growing business, you will help shape the future of businesses of all sizes use technology to connect with customers, employees and partners.
+
+As a Cloud Data Warehouse Engineer, you will guide customers on how to review, store, process, analyze, and visualize data on the Google Cloud Platform. You will work on data migrations, and you will work closely with Product Management and Product Engineering teams. You will work with customers to design data processing systems, develop data pipelines optimized for scaling, and troubleshoot potential platform issues. You will travel to customer sites to deploy solutions and deliver workshops to educate and empower customers.
+
+Google Cloud provides organizations with leading infrastructure, platform capabilities and industry solutions. We deliver enterprise-grade cloud solutions that leverage Google’s cutting-edge technology to help companies operate more efficiently and adapt to changing needs, giving customers a foundation for the future. Customers in more than 150 countries turn to Google Cloud as their trusted partner to solve their most critical business problems.
+Responsibilities
+Provide technical expertise on Google Cloud Platforms’ suite of Big Data technologies including BigQuery, Looker, Pub/Sub, Dataflow, Cloud Data Fusion, Cloud Storage, Cloud Composer, and Data Catalog.
+Be a trusted technical advisor to customers, and solve data challenges.
+Create and deliver best practices recommendations, tutorials, blog articles, reference code, and technical presentations, adapting to different levels of business and technical stakeholders.
+Identify and build migration accelerators to aid customers in modernizing their existing data warehouse with ease.
+Travel up to 30% of the time in-region for meetings, technical reviews, and onsite delivery activities.
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing this form.

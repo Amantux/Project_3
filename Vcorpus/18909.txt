@@ -1,0 +1,35 @@
+Responsibilities:
+Lead platform test architecture definition by partnering across sub-system design teams to align overlapping design requirements /constraints and drive teams in developing concepts, evaluating risks, and efficiently concluding on a design path.
+Lead planning and execution of design and engineering verification testing
+Design and develop optomechanical test systems to characterize critical parameters, quantify system sensitivities, and determine physics of failure processes over operational environments
+Leverage Experimental Design for efficient coverage of complex parameter spaces and physics of failure analysis to drive deeper insights from experimental findings
+Develop system models that guide test system design. These can include system tolerance budgets, performance, degradation, and physics of failure models.
+Enable design teams through test system development driving complex root-cause and failure analysis activities. This includes optical, mechanical, electrical, fluidic, or thermal components and modules, as well as system-level interactions.
+Support analysis, simulation and test efforts informing including hands on contributions to test system and experiment execution
+Required Skills & Experience:
+Typically requires a minimum of 5 years of related experience with a Bachelor’s degree; or 3 years and a Master’s degree; or a PhD without experience; or equivalent work experience. B.S, M.S. or Ph.D. in Engineering or Physics preferred.
+Direct experience leading instrumentation design and development
+Statistical analysis fundamentals and proven record of producing results to drive decisions.
+Experience designing opto-mechanical test fixtures
+Understands basic design, alignment and assembly practices of optical systems
+Proficient in GD&T per ASME Y14.5
+Experience developing multi-level tolerance stacks
+Experience building BOM’s and assembly work instructions
+Demonstrated track record of rapidly climbing steep learning curves. Enthusiasm for tackling tough problems on aggressive schedules.
+Strong teamwork, communication and presentation skills (ability to distill complex technical information into actionable technical recommendations)
+Experience with definition, setup, characterization and testing of complex systems, including design of experiments, reliability life tests, and root cause analysis.
+Experience and fluency in scientific computing and simulation, such as Matlab, Python or R
+Preferred Skills & Experience:
+Experience and / or curriculum in Optical and Systems Engineering
+Experience developing products in a regulated environment (FDA 510k approval process)
+Technically proficient in disciplines including optics, microfluidics, heat transfer, precision motion, and electronics.
+Experience with Monte Carlo simulation.
+Experience with a wide range of manufacturing technologies including high precision techniques, low cost/high volume techniques, micro-fabrication techniques, design for manufacturing, and design for reliability.
+Fluency in the methods and vocabulary of nucleic acid analytical techniques and molecular biology.
+Specific experience with product development for laboratory instrumentation for biological analysis.
+Understanding of the physics of failure approach to reliability, failure mechanisms, failure analysis techniques, and basic probability concepts.
+Understanding of failure data analysis process, and accelerated testing principles.
+Understanding of health monitoring and electronic prognostics principles.
+Listed responsibilities are an essential, but not exhaustive list, of the usual duties associated with the position. Changes to individual responsibilities may occur due to business needs.
+
+Illumina believes that everyone has the ability to make an impact, and we are proud to be an equal opportunity employer committed to providing employment opportunity regardless of sex, race, creed, color, gender, religion, marital status, domestic partner status, age, national origin or ancestry, physical or mental disability, medical condition, sexual orientation, pregnancy, military or veteran status, citizenship status, and genetic information. If you require accommodation to complete the application or interview process, please contact accommodations@illumina.com. To learn more, visit: https://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf

@@ -1,0 +1,36 @@
+Responsibilities
+
+We find that the most successful candidates for the Data Engineer position are natural and relentless problem solvers who are passionate about working with data to solve business problems. These individuals demonstrate ease with quantitative analysis, can work well as part of small multi-disciplinary teams, have a keen interest in software engineering and are passionate about developing leading edge analytical business applications.
+
+Our Data Engineers are part of the engineering team responsible for data architecture, back-end development and maintenance of our proprietary decision support software applications. They work closely with product management and the front-end development team to ensure that our products are constantly improving and have leading edge functionality.
+
+You can expect the following responsibilities:
+Collaborate with Product Management and other engineers on the team to make product improvements and develop new features
+Hands-on SQL Server development (Stored Procedures, Functions etc)
+Migrate complex data processing from SQL Server to Big Data using Spark, Scala in the near future.
+Create and maintain detailed documentation and functional design specifications
+Perform ongoing backend Database maintenance of existing applications
+Provide technical information to assist in the development of client facing product documentation
+Author and participate in software design and code reviews
+Adhere to change management protocols and version control
+Present demonstrations of new features to internal product teams as well as high level firm leadership and partners
+Desired Skills& Expertise
+
+Aspiring candidates should have the following background, skills and characteristics:
+Bachelor’s degree, preferably in computer science, or engineering field
+3+ years of experience in SQL Server development
+1+ years of ETL experience using flat files and other RDBMS
+Experience in troubleshooting and debugging SQL code
+Familiarity with Tableau
+Familiarity with the design, development and maintenance of best-in-class BI capabilities, including data warehouse data structures and data pipelines spanning Spark/Hadoop and RDBMS worlds
+Expert-level database development experience in SQL Server, preferably for reporting data marts and business intelligence solutions, including writing stored procedures for complex business logic in T-SQL
+Familiarity of architectural design patterns for micro-services leveraging relational and big data technologies is an added plus
+Familiarity with Agile development process, SVN or other change management protocols would be a plus
+Proven track record of academic and/or professional success
+Exceptional analytical thinking ability, ease with quantitative analysis, and excellent problem-solving skills
+Self–discipline and willingness to learn
+Ability to work well with others in a high-pressure environment
+Excellent verbal and written communication skills
+All candidates must possess work authorization which does not (and will not in the future) require work sponsorship by an employer.
+
+We are proud to be an Equal Opportunity Employer. Please visitwww.novantas.com for more information.

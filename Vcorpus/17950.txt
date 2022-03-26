@@ -1,0 +1,21 @@
+This individual will be part of the team involved in developing Jump's next generation post-trade processing platform, based on distributed architecture principles and designed to support complex business pipelines. The system is being designed to support Big Data warehouse capabilities for storing and analyzing billions of historical transactions for regulatory and analytical purposes. The role provides the opportunity to learn various aspects of the financial business functions including risk, regulatory, accounting and compliance.
+
+If you are a tech-savvy individual who enjoys the challenges of solving difficult technical problems in a fast-paced, energetic environment, then this is the role for you.
+
+What you'll do:
+Design and develop a next generation system for post-trade processing
+Work with external systems on transaction enrichment and data normalizations
+Design and develop software components such as trade reconciliations, position calculation, P&L calculations and more
+Develop tools to assist in the review and analysis of trading activity that involves Big Data
+Work directly with business users and the core technology team on requirements gathering and system design
+Use or develop your expertise in custom python-based BPM framework, Kafka messaging, C++ components, data warehouse integration, JavaScript, and Django framework
+Skills you'll need:
+5+ years of involved development experience in Python, Java, or C++
+Strong written and verbal communication skills
+Experience in supporting post-trade processing systems
+Understanding of data architecture, software design and best coding practices
+Strong experience with SQL databases and messaging solutions like Kafka
+Extremely detail-oriented
+Ability to work with the business to capture requirements and implement solutions to meet end-user needs
+Proven independent contributor in a team dynamic
+If you are currently a student or recent graduate, please see our Campus postings which offer both intern and full-time opportunities.

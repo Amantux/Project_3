@@ -1,0 +1,59 @@
+Join SADA as a Data Engineer!
+
+Your Mission
+
+As a Data Engineer at SADA, you will work collaboratively with architects and other engineers to recommend, prototype, build and debug data infrastructures on Google Cloud Platform (GCP). You will have an opportunity to work on real-world data issues facing our customers today. Engagements vary from being purely consultative to requiring heavy hands-on work and cover a diverse array of domain areas, such as data migrations, data archival and disaster recovery, and big data analytics solutions requiring a combination of batch or streaming data pipelines, data lakes and data warehouses.
+
+You will be recognized as an established contributor by your team. You will contribute design and implementation components for multiple projects. You will work mostly independently with limited oversight. You will also participate in client-facing discussions in areas of expertise.
+Pathway to Success
+
+#BeOneStepAhead: At SADA we are in the business of change. We are focused on leading-edge technology that is ever-evolving. We embrace change enthusiastically and encourage adaptability. This means that not only do our engineers understand that change is inevitable, but they embrace this change to continuously broaden their skills, preparing for future customer needs.
+
+Your success comes from your enthusiasm, insight, and positive impact. You will be given direct feedback quarterly with respect to the scope and quality of your contributions, your ability to estimate accurately, customer feedback at the close of projects, your collaboration with your peers, and the consultative skill you demonstrate in customer interactions.
+
+As you continue to execute successfully, we will build a personalized development plan together that leads you through the engineering or management growth tracks.
+
+Expectations
+
+Required Travel - 30% travel to customer sites, conferences, and other related events
+Customer Facing - You will interact with customers on a regular basis, sometimes daily, other times weekly/bi-weekly. Common touchpoints occur when qualifying potential opportunities, at project kickoff, throughout the engagement as progress is communicated, and at project close. You can expect to interact with a range of customer stakeholders, including engineers, technical project managers, and executives.
+Training - Ongoing with a first-week orientation at HQ followed by a 90-day onboarding schedule. Details of the timeline can be shared.
+
+Job Requirements
+
+Required Credentials:
+Google Professional Data Engineer Certified or able to complete within the first 45 days of employment
+
+Required Qualifications:
+Expertise in at least one of the following domain areas:
+Data warehouse modernization: building complete data warehouse solutions, including technical architectures, star/snowflake schema designs, infrastructure components, ETL/ELT pipelines, and reporting/analytic tools. Must have hands-on experience working with batch or streaming data processing software (such as Beam, Airflow, Hadoop, Spark, Hive).
+Data migration: migrating data stores to reliable and scalable cloud-based stores, including strategies for near zero-downtime.
+Backup, restore & disaster recovery: building production-grade data backup and restore, and disaster recovery solutions. Up to petabytes in scale.
+Experience writing software in one or more languages such as Python, Java, Scala, or Go
+Experience building production-grade data solutions (relational and NoSQL)
+Experience with systems monitoring/alerting, capacity planning and performance tuning
+Experience in technical consulting or other customer-facing role
+
+Useful Qualifications:
+Experience working with Google Cloud data products (CloudSQL, Spanner, Cloud Storage, Pub/Sub, Dataflow, Dataproc, Bigtable, BigQuery, Dataprep, Composer, etc)
+Experience with IoT architectures and building real-time data streaming pipelines
+Applied experience operationalizing machine learning models on large datasets
+Knowledge and understanding of industry trends and new technologies and ability to apply trends to architectural needs
+Demonstrated leadership and self-direction -- a willingness to teach others and learn new techniques
+Demonstrated skills in selecting the right statistical tools given a data analysis problem
+
+About SADA
+
+Values: We built our core values on themes that internally compel us to deliver our best to our partners, our customers and to each other. Ensuring a diverse and inclusive workplace where we learn from each other is core to SADA’s values. We welcome people of different backgrounds, experiences, abilities and perspectives. We are an equal opportunity employer.
+
+Make them rave
+Be data driven
+Be one step ahead
+Be a change agent
+Do the right thing
+
+Work with the best: SADA has been the largest partner in North America for GCP since 2016 and has been named the 2019 and 2018 Google Cloud Global Partner of the Year. SADA has also been awarded Best Place to Work by Inc. as well as LA Business Journal!
+
+Benefits: Unlimited PTO, competitive and attractive compensation, performance-based bonuses, paid holidays, rich medical, dental, vision plans, life, short and long-term disability insurance, RRSP, professional development reimbursement program as well as Google Certified training programs.
+
+Business Performance: SADA has been named to the INC 5000 Fastest-Growing Private Companies list for 12 years in a row garnering Honoree status. CRN has also named SADA on the Top 500 Global Solutions Providers for the past 5 years. The overall culture continues to evolve with engineering at its core: 3200+ projects completed, 3000+ customers served, 10K+ workloads and 25M+ users migrated to the cloud.

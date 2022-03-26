@@ -1,0 +1,63 @@
+Job Title: Senior Data Scientist
+
+Job Location: Chicago, IL
+
+Company Overview
+
+We are a fast growing, cyber security company based in Chicago, IL. We gather cyber intelligence from hundreds of places around the world and process billions of records a day to provide data security to our clients who rely on us for next generation cyber threat protection and enterprise data security.
+
+Position Description
+
+The 5thColumn Data Scientist / Data Analyst to support our clients to help deploy Data Lake solutions internally for 5thColumn based in Chicago. This critical role is in support of clients various teams across the company to identify and solve business challenges utilizing large structured, semi-structured, and unstructured data in a distributed processing environment.
+
+The Data Scientist / Data Analyst role will be directly responsible for the successful support and operations of our customers data lake strategy. Communication with customers, vendors and co-workers in a clear and professional manner is an absolute must.
+
+Work will often require direct interaction with team members without direct supervision. You must be able to think on your feet, communicate constantly and professionally, and above all else meet the expectations of our clients.
+
+The ideal candidate will have a passion for technology with good understanding of their applicability to business, a relentless focus on the customer experience and an ability to multitask, assimilate data, make decisions and prioritize complex work while paying attention to the details.
+
+Responsibilities Include:
+Develop statistical models to across multiple industries including medical, insurance, and security data but not limited to. Assist in developing internal tools for data analysis against the data lake.
+Executes on modeling/machine learning projects effectively
+Communicates findings to team and leadership ensure models are well understood and incorporated into business processes
+Leverages research and applies state-of-the-art techniques to inform recommendations and decisions.
+Works across the enterprise to identify and incubate business use cases.
+Manage analytical modeling projects from beginning to end: data selection, cleaning and transformation; model development, implementation and interpretation; and insight application
+Find innovative ways to search for meaningful patterns, trends, and relationships amongst large amounts of data and to identify the success measures, analyses and reporting processes that lead to actionable findings
+Synthesize complex qualitative and quantitative data to form clear, well-supported, data-driven recommendations for non-technical audiences and present results to internal stakeholders
+Work with stakeholders to understand business objectives; translate objectives to define KPIs and goals at the business and campaign level around various products
+Advance analytics maturity within the firm by counseling stakeholders on how to extract value from data and make data-driven decisions to improve marketing activities
+Required Skills:
+5+ years of experience in Information Technology in managing implementing and supporting Data Warehousing as an ETL developer/lead
+3 + years in leading ETL programs handling from the beginning of the design and development for complex projects.
+Experience in applying analytical models for solving business problems in Networking and Security industry
+Ability to work with NoSQL data stores (Cassandra, MongoDB, DynamoDB, etc)
+Proficient in using query languages such as SQL, Hive, Pig etc
+Experience with large scale data storage and processing frameworks (e.g., Hadoop, MySQL, Big Table, MapReduce, SAS, AWS Kinesis, AWS Firehose, but not limited too)
+Large-scale, distributed systems design and development
+Worked on scaling, performance and scheduling and ETL techniques
+Knowing how to develop in the following programing languages: Python, C, C++, Java, Ruby on Rails
+Implemented data warehouse solution which leveraged ETL jobs from multiple data sources.
+Informatica (ETL), and Tableau/Kibana (interactive data visualization) experience is a plus or equivalent tool sets.
+Qualifications:
+Total 7 to 10 years of experience and minimum 5 years of experience as a data scientist, data analyst, business intelligence analyst, or equivalent roles
+University degree in Computer Science, Math, Quantitative Methods, Bayesian statistics, or related fields
+Experience developing machine vision, machine learning, or artificial intelligence algorithms/models with state of the art deep learning frameworks
+A graduate degree in a field such as math, computer science, statistics, engineering or machine learning, or equivalent experience.
+Seasoned Technical Veteran with 5+ years as a data scientist.
+Strong knowledge of data analytics and business intelligence visualization tools (e.g., Kibana,Tableau, Qlikview, PowerBI, Domo); Kibana is preferred
+Demonstrated skills in coding. Software development experience a plus.
+Data mining and data analysis skills with the ability to clearly present complex information in a simple manner, discern business meaning and recommended actions to stakeholders
+Knowledge of the theory and practice of machine vision and deep-learning techniques
+Ability to develop new concepts and stay current with academic research.
+Ability to summarize research and analysis for audiences with varying levels of expertise.
+Bachelors degree or equivalent experience desirable.
+Experience mentoring and developing team members of 10+ people
+Vision beyond horizon to establish frameworks and standard building blocks of a future focused team and to help each team member grow.
+Ability to champion ambiguous scenarios and challenges
+High degree of comfort and ease with ambiguity and uncertainty
+Passion for understanding clients vision and business goals
+Driven to help organizations innovate via digital products
+Natural sense of leadership and ownership - both in project delivery and business development settings
+Problem-solver, curious, hands-on mentality
+Powered by JazzHR

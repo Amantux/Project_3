@@ -1,0 +1,48 @@
+Job Description 
+data scientist, Econometrician-  Marketing Operations- Seattle, WA190006572Starbucks 
+  
+ Data Scientist- Econometrician    
+  
+We are looking for an econometricianto help us understand pricing and portfolio strategy at Starbucks.Additionally, we want to understand how ourcustomers value our product, brand, and experience. Questions might include:What is the optimal balance between menu pricing and discount strategy? Whatare the business tradeoffs across all our delivery channels? How does ourcurrent marketing strategy influence our ability to price products? What arethe factors that influence elasticity of demand? How should stores be groupedwhen applying pricing actions? What would a personalized pricing strategy looklike from a business and customer perspective? Are there additional revenuedrivers that we should be thinking about? What does an optimized productportfolio look like? Etc.      
+Summary of Key Responsibilities       Extract, cleanse, and     analyze data from Azure: data lake storage (ADLS), SQL Server, PostgreSQL,     and Oracle   Apply basic econometric     concepts and descriptive statistics to understand and describe     relationships in data  Under guidance of Lead Economist     build predictive models and complex descriptive analytics, clustering, and     market-based analysis  Participate in     discussions with business partners to define business questions  Contribute to analytic     project proposals  Evangelize value of analytics and     data among peers  Assist in developing theoretical     framework for optimization work across pricing and portfolio management  Assist in current gen model and     tool maintenance as well as incremental upgrades  
+
+ 
+   
+We’dlovetohear from people with:    
+  
+  
+ - MS in Economics,Statistics, Finance, or related field 
+ - 2-5 years of relevantwork experience in econometric modeling and analysis
+- Ability to buildeconometric tools that can be applied in automated systems in collaborationwith engineers
+- Experience articulatingbusiness questions and using quantitative techniques to arrive at a solutionusing available data
+- Experience with R orPython in a production environment
+- Effective verbal andwritten communications skills 
+   
+PreferredQualifications:    
+ -PhD in Economics,Statistics, Finance, or related field 
+ -Strong background ineconometrics (specifically causal inference using panel data) 
+ -Expert in themanagement, manipulation, and analysis of very large datasets 
+ -Expert in predictiveand causal ML methods 
+ -Experience withvarious statistical methods (frequentist, Bayesian, etc. 
+ -Expert in dataquerying languages (e.g. SQL) and scripting languages (e.g. Python) 
+ -Proven ability to workin a fast-paced business environment 
+ false
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Seattle, WA 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         190006572

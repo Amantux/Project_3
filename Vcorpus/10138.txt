@@ -1,0 +1,51 @@
+We are changing the way health care works for the better. That means consulting with our members, partnering with our physicians, and delivering drugs in the most efficient and effective way. Join us and start doing your life's best work.(sm)
+
+The OptumRx IT team is expanding. We are looking for an experienced Director of Data Science to join this growing team. This individual will be responsible for the development and delivery of large and complex predictive modeling projects for healthcare initiatives related to OptumRx. Director of Data Science develops innovative and effective approaches to solve client's analytics problems and communicates results and methodologies. Director of Data Science also provides leadership and guidance to Data Scientists to discover business insights, identifies opportunities, and provides solutions and recommendations to solve business problems through the use of statistical, algorithmic, data mining and visualization techniques. In addition to advanced analytic skills, Director of Data Science is also proficient at integrating and preparing large, varied datasets, architecting specialized database and computing environments, and communicating results.
+
+Primary Responsibilities:
+
+Apply advanced machine learning and predictive modeling techniques to build, maintain, and improve on multiple predictive detection engines in OptumRx
+
+Lead discovery processes for healthcare claims with Data Scientists and partner with OptumRx business and IT management to identify the business requirements and the expected outcome
+
+Create and provide sound data science analyses and frame business scenarios that are meaningful and which impact on critical business processes and/or decisions
+
+Collaborates with the data steward to gather information to be used for analytics and predictive model building purpose and to ensure the data meets the requirements of the analyses
+
+Design sampling methodology, prepare data (including data cleaning, univariate analysis, missing value imputation, etc.), identify appropriate analytic methodology, develop predictive models, and document process and results
+
+Communicate analytics results and predictive models to business partners and clients
+
+Provide on-going tracking and monitoring of performance of statistical models and recommend ongoing improvements to methods and algorithms that improve payment integrity
+
+Required Qualifications:
+
+Master's or Ph.D. degree in machine learning, computer science, (bio) statistics, applied statistics, applied mathematics, economics, or similar quantitative fields of study
+
+7+ years of experience with hands-on modeling skills and strong analytic programming skills using Python and standard libraries, such as scikit-learn, TensorFlow, Keras, or Spark ML
+
+7+ years of experience manipulating large structured datasets, including familiarity with SQL
+
+Knowledge of modeling techniques, such as ensemble modeling, ANN, SVM, Random Forests, Deep Learning
+
+Self-motivated and capable of being effective in a remote position
+
+Demonstrated ability to quickly understand new concepts - all the way down to the theorems - and to generate original solutions to mathematical issues
+
+Ability to balance the needs of both innovation and application within an operational context
+
+Preferred Qualifications:
+
+Experience with healthcare claims data
+
+Experience with PBM business
+
+Experience with machine learning on large data sets (e.g., Spark, Hadoop, MapReduce)
+
+UI design experience for automated and-or end-user-interactive visualizations, displays or reports based on the models’ outcomes (for example using Tableau)
+
+Careers with Optum. Here's the idea. We built an entire organization around one giant objective; make the health system work better for everyone. So when it comes to how we use the world's large accumulation of health-related information, or guide health and lifestyle choices or manage pharmacy benefits for millions, our first goal is to leap beyond the status quo and uncover new ways to serve. Optum, part of the UnitedHealth Group family of businesses, brings together some of the greatest minds and most advanced ideas on where health care has to go in order to reach its fullest potential. For you, that means working on high performance teams against sophisticated challenges that matter. Optum, incredible ideas in one incredible company and a singular opportunity to do your life's best work.(sm)
+
+Diversity creates a healthier atmosphere: UnitedHealth Group is an Equal Employment Opportunity/Affirmative Action employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, age, national origin, protected veteran status, disability status, sexual orientation, gender identity or expression, marital status, genetic information, or any other characteristic protected by law.
+
+UnitedHealth Group is a drug-free workplace. Candidates are required to pass a drug test before beginning employment.

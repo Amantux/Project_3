@@ -1,0 +1,59 @@
+Senior Data Engineer
+
+Senior Spark Engineer - Senior Data Engineer
+
+At Berkadia we are redefining the industry with long-term investments in people and technology that deliver actionable insights and create the best customer experience. From acquisition to disposition, we service all commercial property types including multifamily, retail, office, industrial, affordable housing, seniors housing, hotels, student housing, and manufactured housing.
+
+The Opportunity
+
+As a member of the Data Pipeline team youll be at the center of building our platform that enables us to redefine the Commercial Real Estate industry. Were building a data pipeline that merges the tested design of data warehousing and the latest big data technologies. You will be designing and building data projects while securing core data elements.
+
+Responsibilities
+
+· Research new technology and share knowledge with team and peers
+
+· Design, implement and release data applications in AWS using big data technologies
+
+· Coordinate development efforts across the organization
+
+· Influence team in development standards and processes
+
+· Teach and mentor peers
+
+· Other duties as assigned
+
+Qualifications
+
+· 2-4 years of hands on Apache Spark experience (PySpark preferred)
+
+· 7-10 years of hands on Business Intelligence / Data Warehousing experience
+
+· 1-2 years of experience building high-performance algorithms in scalable languages such as Scala, Python and R
+
+Essential Duties
+Will hold critical role in creating data pipelines using Spark and other technologies
+Work closely with Platform Architects to achieve going from an Event Source data model, into Spark and out to SQL.
+Other tasks as assigned.
+What someone will need to be successful in this role
+Excellent interpersonal, verbal and written communication skills
+Experience mentoring junior engineers and performing code reviews
+Strong logical, analytical, problem solving and reporting skills
+Familiarity with Agile principles and methodologies
+AWS Elastic Map Reduce (EMR) experience
+Able to use version control (git) and other build, packaging & release management tools
+Passionate about developing quality products
+Employee Benefits
+18 PTO days + 2 floating holidays & 10 paid holidays per year
+Generous tuition reimbursement towards a Masters or Bachelors degree
+401K match up to 6%
+12 weeks of 100% paid paternity/maternity leave
+Mentorship with industry professionals
+About us
+
+Berkadia, a joint venture of Berkshire Hathaway and Jefferies Financial Group, is a leader in the commercial real estate industry, offering a robust suite of services to our multifamily and commercial property clients. Powered by deep relationships and industry-changing technology, our people sell, finance, and service commercial real estate, providing support for the entire life cycle of our clients assets. Our unique ownership structure allows us to put the clients interests first and creates a marketplace that delivers a superior experience.
+
+Berkadia is an equal opportunity employer and affords equal opportunity to all applicants and employees for all positions without regard to race, color, religion, gender, national origin, age, disability, veteran status or any other status protected under local, state or federal laws.
+
+Berkadia does not share salary ranges in its job postings. Any salary-related information you see posted externally has not been provided or verified by Berkadia and may not be accurate.
+
+Berkadia does not accept unsolicited resumes from search firms. All resumes submitted by search firms to Berkadia or any of its employees via-email, the internet or direct communication without a valid written Berkadia-approved search agreement will be deemed the sole property of Berkadia, and no fee will be paid in the event the candidate is hired by Berkadia.

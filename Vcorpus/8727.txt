@@ -1,0 +1,51 @@
+SoundHound Inc. turns sound into understanding and actionable meaning.
+
+We believe in enabling humans to interact with the things around them in the same way we interact with each other: by speaking naturally to mobile phones, cars, TVs, music speakers, coffee machines, and every other part of the emerging 'connected' world. Our latest product, Hound, leverages our Speech-to-Meaning technology to showcase a ground-breaking smartphone experience. Our SoundHound product applies our technology to music, enabling people to discover, explore, and share the music around them, and even find the name of that song stuck in their heads by singing or humming. And through the Houndify platform, we empower developers to be part of the speech-to-meaning revolution.
+
+Mission: Houndify everything.
+
+About the Role:
+
+At SoundHound, we view our data and our engineering team as two of our biggest assets. This role lives at the intersection of the two. We have a huge amount of data from hundreds of millions of users of:
+
+SoundHound: music app featuring search, discovery, and play with LiveLyrics
+
+Hound: newly released app featuring unprecedented speech recognition and natural language understanding
+
+Houndify: platform enabling developers to add voice enabled conversational interface to anything
+
+We aspire to leverage this data to make informed decisions to steer product development, marketing and user engagement. We have only scratched the surface of the kind of advanced analytics and insight generation we'd like to do! This is an opportunity to work on the most challenging data science problems, build large scale distributed machine learning systems from the ground up, and use cutting edge technologies like Spark, Kafka, and Tensorflow.
+
+Responsibilities:
+
+Develop high-performance, data-driven systems in a distributed infrastructure
+
+Build machine learning models for analysis of queries using NLP, Deep Learning
+
+Develop scalable components for query intent classification, entity detection, dialog understanding, slot filling and domain detection
+
+Leverage massive datasets for modeling, recommendations, ad targeting and insight generation
+
+Build and maintain knowledge graph of content from diverse data sources, and perform data mining to serve high volume of requests
+
+Requirements:
+
+Background and passion for machine learning, AI, and/or statistical modeling
+
+Experience in one or more of the following areas: classification systems, ranking systems, recommender systems, predictive modeling, and/or artificial intelligence
+
+Strong coding experience preferably in Java, Scala, or Python
+
+A desire to bring data-driven decision-making and analytics to improve our products
+
+BS/MS in Computer Science or equivalent
+
+Nice to Haves:
+
+Prior experience with Natural Language Processing
+
+Understanding of deep learning algorithms and workflows
+
+Experience with Deep Learning / Neural Network frameworks such as Caffe, Tensorflow, PyTorch, etc.
+
+Experience with analytical tools supporting data analysis (eg. Tableau)

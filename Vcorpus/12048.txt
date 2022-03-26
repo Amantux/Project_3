@@ -1,0 +1,70 @@
+Responsibilities:  
+Data Munging  
+Collect data from a wide variety of corporate databases and Excel files. 
+Utilize your toolset in regular expressions to extract information from un-structured text documents and the web. 
+Handle missing data through an algorithmic approach such as multiple imputations to enable insights in sparse and messy data. 
+Use your inner whiz-kid to feature engineer the data to boost model accuracy.  
+Predictive Modeling  
+Utilizing your algorithmic/programming toolkit, build predictive models to drive acquisition, engagement and retention and improve growth and profitability, and other such key performance indicators for our business. 
+More specifically, apply algorithms equal or similar to the following: elastic net regularization for regression, random forests, generalized boosted models, generalized additive models, support vector machines, neural networks, and time-series forecasting. Ability to communicate implications of the level of confidence in each of the models. 
+Implement formal modeling processes from end to end including data gathering, data profiling, numerical model building, calibration, cross-validation, putting product into production, etc. 
+After building the models, pilot  scorecards  to track model performance and calculated improvement to business. 
+Explain complex modeling approaches in layman s terms and discuss modeling results and business case impacts with non-technical business users.  
+Test/Learn Analytics  
+Develop a portfolio of test and learn programs, lead the test design and measurements/goals and manage the day-to-day execution of the corresponding analyses. 
+Establish robust A/B and fractional factorial testing methodologies including sample size requirements for readability and go/no-go criteria for scaling. 
+Lean-out testing processes to cut end-to-end cycles times and accelerate weekly test cadence. 
+Manage testing calendar and minimize test collisions given test objectives and audiences. 
+Establish tracking of value identified, validated in-market, and scaled across marketing channels and eCommerce. 
+Create, maintain, and deliver dashboards and reports for KPI results from test measurements and communicate results to key stakeholders. 
+Monitor and interpret results and suggest next steps for new test and rollout of programs to key stakeholders. 
+Conduct ad hoc analysis for internal partners as requested, including in-depth funnel and conversion analysis 
+Support the maintenance and development of web analytics platforms.  
+Customer Glidepath and Audience Management  
+Develop and maintain comprehensive customer segmentation models and recommendations for key focus segments. 
+Identify targeted audiences to optimize marketing communications for digital media, on-site personalization, and one-to-one marketing (e. g., email, SMS, and direct mail) leveraging transactional data, online-browse behaviors, and 3rd parties. 
+Develop thought leadership on best variables and fields to define key audiences for customer glidepath management efforts. 
+Partner with IT to build, manage, and refresh audiences in relational databases and campaign management platforms to execute segmented marketing programs. 
+Lead deep dives to identify highest performing audiences in digital media, on-site personalization, retargeting, and one-to-one marketing campaigns. 
+Develop audience targeting plans for media buying, on-site personalization, and one to one vehicles. 
+Collaborate with vendors to build audiences in external databases and systems (e. g., DMP, third-party demographic data, etc.). 
+Execute ad-hoc analyses as requested by leadership for development of segmented contact strategies. 
+Create and maintain reports detailing performance of key audiences and communicate results to key stakeholders.  
+Mixed Media Modeling Emphasis  
+Develop and maintain multi-touch attribution models across digital and non-digital marketing channels. 
+Estimate causal impact of marketing activities on financial outcomes in the short and long term. 
+Integrate Marketing ROI models with multi-touch attribution models (e. g., consistent media taxonomy, rationalize ROI estimates). 
+Prepare quarterly media optimization scenarios to inform media plans, financial forecasting, and target areas for efficiency gains. 
+Provide insights to marketing and channel leads on cost to acquire, value of digital engagement, and cross-channel impact of media. 
+Ensure high quality inputs into media mix models including accurate media spend by market, pricing/promotion position, competitor spend, and channel support. 
+Establish and maintain expert knowledge of the latest methodological innovations in marketing mix modeling.    Qualifications  
+Bachelor s degree in mathematics, business, statistics, economics, computer science or equivalent combination of education and experience. 
+2-5 years of directly related experience and strong proficiency of predictive modeling techniques, test/learn, customer segmentation and mixed media modeling. 
+Successful track record of applying complex analytics techniques in a retail company, ecommerce or consumer brand. 
+Strongly motivated to be a player in a team which is constantly working to improve themselves through discovering new analytics techniques and software tools to improve the quality of our work. 
+Superior research, statistical, analytical, processing and mathematical skills with ability to structure and conduct analyses. 
+Knowledge of digital marketing principles such as funnel optimization, UX, SEO & Landing Page optimization & experience in running A/B tests for campaigns and deriving customer insights. 
+Proficiency in Microsoft Office Suite, SQL, and at least one of the following: SAS, R, and/or Python. 
+Strong verbal and written communication skills; ability to present complex information in an easy-to-understand manner with clear recommendations based on data insight. 
+Adaptability and the capability of multi-tasking and strong time management. 
+Thrive in a fast paced, entrepreneurial environment. 
+Drybar follows all applicable federal, state and local laws in regards to background checks.  
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Irvine, CA 92713 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         2365_b6051760b74ac5ebaf31a14095328dfe

@@ -1,0 +1,36 @@
+Responsibilities
+
+Oaktree’s Portfolio Construction and Analysis department (“PCA”) is seeking an individual to join our team, providing quantitative capabilities focused on advanced financial engineering techniques/methodologies and security level analytics. This individual will partner with multiple departments across the company, serving as a thought and change leader supporting the build-out of our Enterprise Analytics platform. Create tools used for portfolio construction and analyses supporting both the investment and risk teams. In partnership with technology, operations and investment professionals, this individual will design specifications for new portfolio and security analytics. Additionally this person will perform quality tests, oversee the development to production system lifecycle, and utilize advanced quantitative theories and methodologies to advance Oaktree’s investment and risk processes.
+
+Responsibilities include:
+Work with PCA senior leaders and IT to drive the ongoing development of Oaktree’s Enterprise Analytics suite;
+Collaborate with the investment teams, IT and other internal partners to draw up formal specifications for portfolio and security analytics needs;
+Leadership role in all aspects of software development including specifications, testing, debugging, roll-out (including user training), documentation, and maintenance;
+Design and implement operational processes to monitor the accuracy and timeliness of data flows, analytics calculators and report outputs;
+Troubleshoot and resolve production related issues arising from missed or problematic data feeds, inaccuracies related to calculations, and report output discrepancies;
+Create portfolio construction tools and analyses to enhance Oaktree’s investment and risk process
+Qualifications
+Minimum of 2-5 years of experience at an asset management company, investment/portfolio analytics software vendor, investment/portfolio analytics consultancy, or other related financial services company working with credit products in an analytical capacity;
+Working knowledge of security analytics for bonds, leveraged loans, convertible securities, derivatives (interest rates, credit and equity) and structured products;
+Foundation in investment finance concepts and familiarity with credit instruments and Fund Accounting;
+Ability to take leadership of assigned projects to resolution, seeking guidance and escalating issues as appropriate;
+Comfortable and capable of working with strategy specialists, vendors, portfolio managers, and senior management to understand and define requirements;
+Expertise in investment platforms, systems, operations, data flows, and processes, as it relates to alternative asset management and the investment lifecycle in general, is a plus;
+Strong working knowledge of SQL is required
+Experience using Python, R, C#, and MS Visual Studio preferred.
+An interest or experience in Big Data, Machine Learning, AI, Deep Learning algorithms and investment financial models a plus
+Personal Attributes
+Outstanding initiative and a strong work ethic
+Ability to operate independently on short and long term goals
+Must be a resourceful, detail-oriented and natural problem solver; have the ability to independently research problems and offer solutions
+Organized and able to manage multiple projects with differing priorities to meet deadlines
+Excellent interpersonal skills with the ability to leverage firm wide resources in an effective and judicious manner
+Team-oriented and must possess strong integrity and professionalism and share Oaktree’s common goal of excellence
+Education
+A Master’s degree in Financial Engineering or equivalent is required
+Preference will be given to CFA/FRM candidates
+Equal Opportunity Employment Policy
+
+Oaktree is committed to diversity and to equal opportunity employment. Oaktree does not make employment decisions on the basis of race, creed, color, ethnicity, national origin, citizenship, religion, sex, sexual orientation, gender identity, gender expression, age, past or present physical or mental disability, HIV status, medical condition as defined by state law (genetic characteristics or cancer), pregnancy, childbirth and related medical conditions, veteran status, military service, marital status, familial status, genetic information, domestic violence victim status or any other classification protected by applicable federal, state and local laws and ordinances. This policy applies to hiring, placement, internal promotions, training, opportunities for advancement, recruitment advertising, transfers, demotions, layoffs, terminations, recruitment advertising, rates of pay and other forms of compensation and all other terms, conditions and privileges of employment.
+
+This policy applies to all Oaktree applicants, employees, clients, and contractors.

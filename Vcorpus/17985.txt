@@ -1,0 +1,39 @@
+Responsibilities for Data Engineer:
+
+â Create and maintain optimal data pipeline.
+
+â Assemble large, complex data sets that meet functional / non-functional business requirements.
+
+â Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, etc.
+
+â Build analytics tools/dashboards that utilize the data pipeline to provide actionable insights into operational efficiency and other key business performance metrics using Tableau.
+
+â Work with stakeholders including the business owners, Data and Design teams to assist with data-related technical issues and support their data needs.
+
+â Create data tools for analytics and data scientist team members that assist them in building and optimizing models/visualizations.
+
+Required Qualifications for Data Engineer
+
+We are looking for a candidate with 2+ years of experience in a Data Engineer role, who has attained a bachelor's degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field. They should also have experience in following:
+
+â Advanced working SQL knowledge and experience working with relational databases, query authoring (SQL).
+
+â Experience building and optimizing 'big data' data pipelines, architectures and data sets.
+
+â knowledge with data visualization best practices.
+
+â Minimum 1-year experience in Tableau development
+
+â Experience with various data prep/pipeline/integration tools like Alteryx, Azure Data Factory etc.
+
+â In-depth knowledge of relational databases (e.g. Oracle and SQL Server), including data warehousing concepts and best practices
+
+â Proficient is SQL
+
+â Experience in at least one the following languages â R, Python, SCALA
+
+â Experience working in an agile or Scrum based environment
+
+â Ability to test and document end-to-end processes.
+
+Experience working with Microsoft Azure or AWS platform will be preferred

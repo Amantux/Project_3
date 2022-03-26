@@ -1,0 +1,48 @@
+Introduction to the team:  
+The members of Wayfair’s Data Science group come from a range of highly quantitative backgrounds (think astrophysics, economics, cognitive science, and operations research, engineering and math) 
+The projects that our teams work on are driven from the ground up – we look for entrepreneurial individuals that want to take ownership over their own agenda and thrive in a collaborative team environment. 
+ Check out some of our work here:    https://tech.wayfair.com/team-data-science/   
+Many of our projects are new and mostly projects that have never been worked on before. The work we do encompasses:  
+ Algorithm design  - develop quantitative models, leveraging machine learning and advanced data analysis techniques 
+ Algorithm platform engineering  - architect and build technical platforms for our algorithmic engines to run at scale 
+ Influencing business decisions  - relentlessly leverage our work and encourage adoption across our business partners, to drive real business value 
+ Data mining  - uncover deep insight hidden in our vast repository of raw data, and provide tactical guidance on how act on findings  
+As part of this role, you will be a creative thinker in how to solve problems, utilizing quantitative/technical skills along with business understanding to devise solutions. You’ll work within Wayfair’s big data technology infrastructure to dive deep into our data sets and develop innovative new capabilities. 
+The Data Science department covers these main topic areas. You will work in one of the following: 
+ Computer Vision:
+   Imagery and style is at the core of Wayfair’s catalog offering. At Computer Vision, we use the latest in the research community to build algorithmic intelligence of Wayfair’s millions of images for our customers, suppliers, and in-house scientists
+  
+ Pricing:
+  Our algorithms dynamically price millions of products everyday. We are constantly automating real-time experiments at scale and running complex statistical models to infer optimal prices via our understanding of customer and competitor behavior. 
+ Marketing:
+   Wayfair invests hundreds of millions of dollars in annual marketing spend, and we optimize the return using attribution, segmenting, and forecasting.  
+ Business to Business (B2B):
+   We use machine learning to understand customer behavior on our B2C site to better identify customers who could be good B2B customers to enroll in our Wayfair Professional Program. Once enrolled, we then use customer signals to help prioritize customers for outreach that would drive incremental value with surgically precise sales engagement.  
+ Qualifications:   
+2+ years of experience in a quantitative or technical work environment or   advanced degree (PhD)   in quantitative field (e.g. mathematics, economics, computer science, physics, neuroscience, operations research etc.) 
+Intuitive sense of how quantitative and technical work aligns closely with business priorities and business value 
+Ability to effectively work with business leads: strong communication skills, ability to synthesize conclusions for non-experts and desire to influence business decisions 
+High comfort level with programming, e.g. languages such as Python, R, Scala, Java, C++, C#, PHP, etc 
+Knowledge of quantitative methods – statistics, machine learning, deep learning, NLP, general data analysis 
+Intense intellectual curiosity – strong desire to always be learning 
+Analytical, creative, and innovative approach to solving open-ended problems 
+Highly collaborative, team-player attitude   
+
+Job Summary
+
+                             
+                     
+                         Location 
+                             Boston, MA 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         ozPn9fwE

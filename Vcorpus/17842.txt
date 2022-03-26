@@ -1,0 +1,46 @@
+Description:
+
+Health Data & Management Solutions, Inc. (HDMS), a subsidiary of CVS/Aetna, is a Software Development Company on the cutting edge of health IT data solutions. Offering data warehouse, management and analysis tools for the healthcare industry, HDMS strives to improve and enhance its product suite for health plans, employers and providers through constant innovation. HDMS' web-based products and services provide flexible, high-value reporting tools that empower users to maximize the value of their health care data and support benefit decisions.
+
+The Software Development Engineer will be responsible for support and development of the ETL process for HDMS's Dart product. A successful candidate will be expected to: Gather and/or understand complex business and technical specifications for new projects, create a comprehensive testing scenario spanning multiple servers and environments, troubleshoot issues for existing features and newly added features, document both existing and new functionality, and collaborate with other developers. Day to day maintenance and support are required for this position
+
+70838
+
+Fundamental Components: Responsibilities include but not limited to:
+Create new functionality in Business Intelligence application (SAS/Dart)
+Develop reusable SAS programs to transform data into a formatted output (ETL, ELT)
+Design and develop solutions for three-tiered web applications
+Implement software design changes quickly and efficiently
+Troubleshoot and resolve complex issues including: SAS processes, Unix/Linux Operating Systems, Data Synchronization, Data Integrity, Application Server Technologies, Browser Compatibility and third-party software
+Modify existing software to work with new versions of third-party software
+Identify, document, refine and improve existing functionality
+Fully identify, explain, and correct issues with existing software
+Assist other developers and other groups in identifying and correcting issues with data and/or programming. Background Experience:
+
+- REQUIRED SKILLS
+3 years professional experience in Software/Business Intelligence Application development
+2 years of SAS Development especially SAS Macro Programming
+Experience with Shell scripting (Perl, Csh, Bash, Korn etc.)
+Strong Linux/Unix skills
+Experience working with Business Intelligence platforms (such as SAS Enterprise Guide, Business Objects, Cognos, Tableau etc.)
+Ability to learn unknown languages and technologies quickly
+Ability to identify opportunities to maximize efficiency
+Meticulous attention to detail
+Ability to communicate with development team as well as technical and non-technical coworkers
+
+- 3 or more years of Healthcare data, epidemiology or pharmaceutical industry analytic experience.
+Strong problem solving, analytical, and project management skills.
+Demonstrated knowledge of health care data, metrics, systems and standards; demonstrated subject matter expert in multiple subject areas.
+Able to make sound decisions and recommendations to drive business solutions
+
+Additional Candidate Information
+Strong healthcare data analytics and business intelligence skills
+Healthcare experience is preferred
+Proficient at writing code in a High-Level Language (C, C++, Java, R, Python, or similar)
+Experience with SAS SCL programming language
+Strong Object-Oriented Background
+Worked with source control systems and familiar with good development methodologies
+The location is Chicago, IL
+
+Additional Job Information: The primary location is Chicago, IL at the HDMS office ; 550 W. Washington Blvd. Clinical Licensure: N/A Potential Telework Position: No Percent of Travel Required: 0 - 10% EEO Statement: Aetna is an Equal Opportunity, Affirmative Action Employer Benefit Eligibility: Benefit eligibility may vary by position. Candidate Privacy Information: Aetna takes our candidate's data privacy seriously. At no time will any Aetna recruiter or employee request any financial or personal information (Social Security Number, Credit card information for direct deposit, etc.) from you via e-mail. Any requests for information will be discussed prior and will be conducted through a secure website provided by the recruiter. Should you be asked for such information, please notify us immediately.
+#LI-DT1

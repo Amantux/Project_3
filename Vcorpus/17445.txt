@@ -1,0 +1,33 @@
+Us and the role
+
+Seated is an app that rewards you for dining out. Users can browse restaurants based on their location, preferences or mood and book either as walk-in or reservation. The seated mobile app, powered by robust microservices architecture, provides a convenient way to upload receipts, verify spend and reward users. The Seated platform further allows users to spend rewards on in-person experiences such as wine tasting & cooking classes or redeem rewards for gift cards from a wide variety of brands such as Uber, Amazon, Target or SoulCycle.
+
+We are fast-paced, innovative & metric-driven, with a team who are passionate about delighting our customers. We are looking for a Data Engineer with proven experience in producing reporting, dashboards, visualizing insights and expertise in data analytics to join this newly data analytics team. The role requires both a broad knowledge of existing data modeling and processing along with the creativity to invent and customize when necessary using programming and technology platforms.
+
+You will work with data scientists, engineers & product managers hand in hand to build insightful and efficient reporting solutions & data analysis. In your role, you will be a key player in a multi-functional team that delivers insights, having direct and measurable impact on Seated's platforms & consumer applications.
+
+What you'll do
+Work with product, engineering & business teams to deliver complex data analysis requests
+Visualize datasets across multiple databases & warehouses using tools such as Tableau, D3, Looker, etc.
+Build financial models & growth projections for new products and business initiatives
+Build ETL pipelines for regular reporting on business and operational KPIs
+Help business understand key trends by executing complex analysis via Tableau or ad-hoc SQL queries
+Coordinate within cross-functional teams such as engineering, product, marketing, customer experience for various data analysis needs
+Proactively build data and event-driven dashboard for real-time business operations and consumer insights
+What you'll bring
+Bachelors in CS, Statistics, Economics or Engineering, Masters preferred
+3+ years of hands-on SQL experience
+2+ years of experience in using data visualization tools such as Tableau, Looker, PowerBI
+2+ years of experience in building financial models, growth projections & ETL data pipelines
+experience either in R or Python and working with data warehousing solution such as AWS Redshift or Google BigQuery
+What you'll get
+Comprehensive Healthcare, Dental, and Vision
+Generous 401(k) Matching
+Stock options
+Unlimited PTO
+Pre-Tax Flexible healthcare spending account (FSA), Dependent Care FSA and Commuter Benefits
+Paid Family Leave
+$100 monthly Seated allowance (dine on us)
+Stocked fridges, coffee, soda, and lots of treats
+Collaborative, dynamic work environment within a fast-paced, mission-driven company
+At Seated we welcome passionate people from all backgrounds, helping us make dining experiences more accessible & rewarding. If you have the curiosity & passion to drive our mission together, we would love to hear from you.

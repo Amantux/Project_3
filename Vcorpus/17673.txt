@@ -1,0 +1,29 @@
+Job Description
+Loot Crate was founded in 2012 around a simple idea: put the awesomeness of Comic-Con in a box. Today, we ship some of the coolest geek, gaming, and pop-culture collectibles and accessories to a subscriber base in the hundreds of thousands of fans around the world. Loot Crate is one of the top subscription box services in the world spanning pop culture, gaming, anime and sports. We’ve assembled an amazing team of passionate, ambitious people who cultivate our ever-growing global community of fans and provide support of the highest caliber. We’re always on the lookout for fun, hard-working new people to join our team and make Loot Crate even better.
+
+As a Sr Data Engineer, you will specialize in data pipelines, large-scale data processing and distributed systems. You will be a member of the Data Engineering team. The role requires close collaboration with teammates and squad members in feature design, sprint planning, task execution, code review and feature deployment. You will also help establish best engineering practices. To thrive in this position, you need to have a deep knowledge of the technologies and systems used. You’ll need to be able to communicate across teams as the situation requires. Local candidates only.
+
+RESPONSIBILITIES:
+Build scalable production data pipelines while improving on existing architecture
+Integrate with our vendor applications to collect and ingest second-party data into our Data Lake
+Design and implement data processing jobs, transformations while improving on existing architecture
+Constantly evaluate storage, performance, reliability and propose new methodologies to enhance the same
+Collaborate with Data Analysts to ensure the integrity and cleanliness of data sources, while also supporting requirements of downstream data consumers
+Manage and maintain data infrastructure
+Collaborate with Infrastructure Engineers to ensure that standards are being met for resource provisioning, network security and continuous deployment
+SUCCESS FACTORS:
+Guaranteed data cleanliness and integrity
+Flexibility to work with different platforms, languages and pipelines. You will work with whichever tools get the job done the best
+Commitment to lifelong learning. Taking online courses, attending conferences, and experimenting with the latest software and platforms are critical to success
+SKILLS & QUALIFICATIONS:
+Bachelor’s degree in Computer Science or related field, or equivalent work experience
+3+ years holding similar responsibilities
+Skills/Technologies
+Languages: Python, SQL, Scala/Java
+Databases: Redshift, Redshift Spectrum, Aurora, BigQuery, Snowflake, MySQL/PostgreSQL
+Technologies: Kubernetes, Docker, Spark, Pandas, Airflow
+Cloud Tools: AWS Glue, EMR, AWS Batch, Dataflow, CloudComposer, PubSub
+Preferred: Familiarity with AWS and GCP’s data tools
+Powered by JazzHR
+
+OUZr0CwE8G

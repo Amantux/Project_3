@@ -1,0 +1,25 @@
+As a technology company, our long-term success is dependent on the skill and alignment of our engineering team. We develop groundbreaking scientific software and rely on our engineers to bring the company's vision to fruition. Every engineer has the opportunity to make huge product contributions and the responsibility to be a Tachyon, i.e. move faster than the speed of light.
+
+Our core physics and data science algorithms are written in Matlab and F# and they integrate closely with our full stack web environment running in F#, a functional-first, multiparadigm language. Our data engineering team bridges the gap between pure research code and production-quality algorithms, often scaling up code to run faster, on more computers, and more reliably. The team is also responsible for building the underlying science test framework, grooming and maintaining physically accurate test data, and ensuring ongoing scientific accuracy of analyses and predictions. We seek engineers who are excited to do product-driven thinking, grounded in hard core physics and statistics.
+Responsibilities
+Bridge gaps between the research team and the platform software engineers.
+Design correctness tests for both physics-based and statistics-based models and predictive systems.
+Build systems to evaluate the quality of input and output data on an ongoing basis, including (especially) data coming from customer systems.
+Make and communicate architectural decisions in areas of expertise.
+Expand and improve scientific test environment, test data, and processes.
+Rapidly iterate in the cycle of code writing, testing, and maintenance.
+Contribute to our various client and server code-bases as our needs evolve.
+Requirements
+3+ years experience as a professional software developer
+Strong scientific computing skills (Matlab, Python, and/or F#), preferably with parallel programming and distributed computing
+Math and science skills, particularly statistics and physics
+Intense intellectual curiosity demonstrated by past projects and experiences
+Personal past experience writing and testing software
+Desire to work with a rapidly growing, values-driven start-up
+Comp. Sci., Math, Physics, Engineering, or Petroleum Engineering degree(s)
+Extras
+Experience with F#, OCaml, or other functional-first languages
+Experience with Google Cloud
+Experience scaling algorithms across many (hundreds) of CPUs
+Domain knowledge in the oil and gas industry
+Demonstrated technical leadership skills

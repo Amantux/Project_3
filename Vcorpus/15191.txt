@@ -1,0 +1,26 @@
+RESPONSIBILITIES:
+
+Kforce has a client seeking an Azure Data Engineer in Tempe, AZ.
+
+Summary:
+As Azure Data Factory (ADF) Developer, this role will be responsible for creating Data orchestration with Azure Data Factory Pipelines & Dataflows. The key role is to understand the business requirements and implement the requirements using Azure Data Factory.
+
+Roles & Responsibilities:
+Understand business requirement and actively provide inputs from Data perspective
+Understand the underlying data and flow of data
+Build simple to complex pipelines & dataflows
+Work with other Azure stack modules like Azure Data Lakes, SQL DW, etc.
+Should be able to implement modules that has security and authorization frameworks
+Recognize and adapt to the changes in processes as the project evolves in size and function
+REQUIREMENTS:
+Bachelor's or Master's degree in Computer Science or Data engineering
+At least 7-8 years of software development experience, and 1 year of experience on Azure Data factory
+Experience working with at least 1 project on Azure Data Factory
+Expert level knowledge on Azure Data Factory
+Expert level knowledge of SQL DB & Datawarehouse
+Should know at least one programming language
+Should be able to analyze and understand complex data
+Knowledge of Azure data lake is required
+Knowledge of other Azure Services like Analysis Service, SQL Databases will be an added advantage
+Excellent interpersonal/communication skills (both oral/written) with the ability to communicate at various levels with clarity & precision
+Kforce is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, pregnancy, sexual orientation, gender identity, national origin, age, protected veteran status, or disability status.

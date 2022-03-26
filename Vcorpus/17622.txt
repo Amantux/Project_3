@@ -1,0 +1,18 @@
+Job Description
+Our client is looking for a Sr. ETL Developer with IICS, DW design and implementation experience with Snowflake, as well as Cloud experience in AWS
+
+• Responsibilities include performing data analysis, defining ETL architecture, data modeling and implementing robust data pipelines in the cloud using AWS, IICS and Snowflake. Requirements:
+
+• 7+ years hands-on experience in BI and Data Warehousing with at least 2 full life cycle implementations. Includes architecture, design, data modeling (Kimball methodology), ETL and reporting.
+
+• 2+ years experience implementing a Cloud DW/Data Lake.
+
+• Demonstrably deep understanding of SQL, relational and analytical databases (Snowflake, Redshift, BigQuery, etc.)
+
+• Hands-on, expert level experience of Informatica Intelligent Cloud Services
+
+• Experience with AWS services (S3, Lambdas, etc.)
+
+• Knowledge of Agile (Scrum) practices required
+
+• Knowledge of ERPs (Oracle EBS, etc.) highly desired

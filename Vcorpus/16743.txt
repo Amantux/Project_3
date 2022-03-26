@@ -1,0 +1,28 @@
+Our RAPIDS team is looking for talent around the globe, in more than 50 offices worldwide or remote!
+
+NVIDIA is searching in our Americas, Asia Pacific, and Europe locations for senior ML/DL data scientists with a proven Kaggle record and a strong background in applied math or machine learning to join our team and help demonstrate the effectiveness of RAPIDS and deep learning for tabular data problems in a range of competitions. As a part of our team, you can sit anywhere in the world (see the locations: https://www.nvidia.com/en-us/contact/ ) where we have offices and collaborate with your peers. The RAPIDS deep learning team develops algorithms to apply neural networks to tabular data, including ranking, recommendation and user prediction tasks, graph neural networks, and the combination of tabular with other modalities. You will collaborate with other expert scientists, as well as engineers who accelerate, scale and open-source algorithms, and demonstrate the effectiveness of deep learning in these problem domains.
+
+What you'll be doing:
+Competing and using RAPIDS on Kaggle and other major ML/DL competitions.
+Sharing your findings and improvements through blogs, articles, and other posts
+Developing libraries and algorithms that improve the RAPIDS ecosystem.
+Developing and training new deep learning architectures for sparse, graph and tabular data problems in a variety of problem domains, while demonstrating that your algorithms perform better than traditional, non-DL based methods.
+Accelerating tabular deep learning on the GPU with the help of NVIDIA’s engineering teams, providing feedback to help improve GPU performance.
+Staying on top of the latest algorithms and model architectures.
+Collaborating globally with DL & AI Researchers in leading universities and industrial research labs.
+What we need to see:
+Demonstrated prowess in ML in public competitions: Kaggle Grandmaster, or top rank at other worldwide competitions, etc
+BS, MS, or PhD in Computer Science, Computer Engineering, Economics, Physics, Mathematics or related field or equivalent work experience
+An ability to share and communicate your ideas clearly through blog posts, kernels, GitHub, etc.
+10+ years of optimization, Machine Learning, or Computational statistics knowledge with several years of applicable competition, work or research experience.
+Strong Python programming skills and an understanding of the Python deep learning ecosystem (PyTorch, Tensorflow, MXNet, etc) for training and ideally for production.
+Previous experience in working with sparse and tabular data.
+Track record of applied research excellence or significant product development.
+Strong communication and interpersonal skills are required, along with the ability to work in a dynamic, product oriented, global team. Your history of mentoring junior engineers and interns is a plus.
+GPU computing is the most productive and pervasive platform for deep learning and AI. It begins with the most advanced GPUs and the systems and software we build on top of them. We integrate and optimize every deep learning framework. We work with most major technology providers and support a broad range of Fortune 500 companies in their machine and deep learning needs.
+
+With deep learning, we can teach AI to do almost anything. New internet services, like Google Assistant, have learned speech from sound and provide a more natural way to access information. Self-driving cars use deep learning to recognize the space the car inhabits, the lanes in which it drives, and the objects to avoid. In healthcare, neural networks trained with millions of medical images can find clues in MRIs that until now could only be found through invasive biopsies. In recommendation systems, we learn how to understand users' desires and serve them what they truly are looking for. These are just a few examples. AI will spur a wave of social progress unmatched since the industrial revolution.
+
+NVIDIA is widely considered to be one of the technology world's most desirable employers. We have some of the most brilliant and talented people in the world working for us. Are you creative and autonomous? Do you love a challenge? If so, we want to hear from you.
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.#deeplearning

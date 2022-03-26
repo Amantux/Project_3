@@ -1,0 +1,23 @@
+The UCSF Digital Health Innovation (CDHI) is seeking an experienced Data Scientist to join our SmarterHealth Initiative team working on developing advanced analytic tools for deployment at the point of care. The ideal candidate applies advanced computational, computer science, data science, and CI software research and development principles, with relevant domain science knowledge where applicable, to perform highly complex research, technology and software development which involve in-depth evaluation of variable factors impacting medium to large projects of broad scope and complexities addressing health care challenges. Designs, develops, and optimizes components / tools for data science / CI projects, research and technology groups and management. Evaluates new hardware and hardware technologies.
+
+The candidate will be utilizing knowledge in existing analytical methods, as well as staying current with emergent data science methodologies, tools and applications to ensure CDHI leverages impactful approaches to our healthcare discovery. Resolves complex research and technology development and integration issues. Gives technical presentations to associated research and technology groups and management. May represent the organization as part of a team at national and international meetings, conferences and committees. Assists in the design, implementation and recommends new hardware and software technologies for advancing complex edge to cloud compute, data science, and CI projects. May lead a team of research and technical staff.
+
+The Data Scientist will collaborate with Principal Investigators (PIs) and Program Directors to use deep learning and machine learning to develop clinical tools that will positively impact on patient care, provider efficiency and healthcare delivery.
+
+Responsible for:
+
+Obtaining, cleaning, and converting secure clinical datasets under the general guidance of a PI or Program Director;
+
+Creating and implementing machine learning algorithms iteratively and assessing their effectiveness;
+
+Creating new de-identified datasets by extracting data from healthcare databases, while safeguarding HIPAA protected data;
+
+Assisting with publication of scientific papers and abstracts; attending team meetings.
+
+CENTER FOR DIGITAL HEALTH INNOVATION
+
+The UCSF Center for Digital Health Innovation (CDHI) partners with leading researchers at UCSF to advance scientific innovation. CDHI’s SmarterHealth Initiative, in partnership with leading industry collaborators, is currently utilizing advanced machine learning including deep learning to uncover new insights from medical and health data to impact productivity and health outcomes at the front of care delivery. A primary goal for UCSF as an institution is to validate and get benefits from computing architectures that enable it to advance precision medicine and develop new knowledge and new knowledge networks. CDHI’s SmarterHealth Initiative works to advance this goal by engaging in partnerships with large industry players in order to develop Artificial Intelligence algorithms, for clinical applications.
+
+ABOUT UCSF
+
+The University of California, San Francisco (UCSF) is a leading university dedicated to promoting health worldwide through advanced biomedical research, graduate-level education in the life sciences and health professions, and excellence in patient care. It is the only campus in the 10-campus UC system dedicated exclusively to the health sciences.

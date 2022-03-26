@@ -1,0 +1,34 @@
+Company Description:
+
+Hawkfish was founded in early 2019 to help Democratic and values-aligned candidates and causes win through the best understanding of voters, built alongside powerful technology and creativity.
+
+Hawkfish uses a data-driven approach to help give our clients the digital advantage that's crucially needed in 2020 and beyond. We're committed to working with Democratic candidates, allies and causes to reach the right voters with the right messages in the right places at the right time. From climate change to gun safety, voter access, women's rights, education, healthcare and more, we're focused on the issues that matter most to our clients.
+
+Hawkfish is a mix of highly experienced people from Silicon Valley and NYC tech companies, top-notch data scientists, and experienced Democratic campaign veterans. We are looking for like-minded infra engineers, account strategists, creatives, project managers, and more to join our cadre of talent.
+
+Position Description:
+
+Hawkfish LLC is seeking candidates for Data Scientist - Voter Data (mid or senior level) to be located in New York, NY. With data sitting at the crux of Hawkfish's mission to empower Democratic candidates and progressive causes, you will be joining our team responsible for building the core voter file, the foundational data offering used to drive our modeling and voter outreach efforts.
+
+Specific Responsibilities/Duties:
+Model voter characteristics, including demographic and behavioral dimensions
+Deliver high quality voter data by using any tools at your disposal, from building models to coding heuristics to driving new data acquisition
+Deploy models and data into our production voter file by using our engineering frameworks
+Communicate your findings with the team, stakeholders and leadership across the firm by authoring documentation, newsletters and presentations.
+Participate in healthy development practices: author quality code, participate in code reviews
+Minimum Qualifications and Requirements:
+Mission-driven and passionate about improving the data ecosystem for progressive causes
+3+ years professional experience building and running software in a team setting
+Fluency with a higher-level language (Python, SQL)
+Experience with building complex data systems a plus: deploying and using workflow systems, large scale batch and stream processing, data warehousing. Experience with Google BigQuery and PySpark preferred.
+Pragmatic with a bias towards action, a sharp thinking cap, and comfortable stretching outside their role
+At least one previous cycle of campaign organizing experience is strongly preferred
+Minimum MS in quantitative field, PhD preferred.
+Seniority Level: Mid level, Senior level
+
+Employment Type: Full-time
+
+
+Hawkfish LLC is an Equal Opportunity Employer
+
+Hawkfish LLC does not discriminate on the basis of race, color, religion, religious affiliation, national origin, alienage or citizenship status, age, sex, sexual and other reproductive health decisions, creed, disability, sexual orientation, gender or gender identity or expression, marital or partnership status, pregnancy, arrest or conviction record, caregiver status, military or veteran status, actual or perceived status as a victim of domestic violence, sexual violence or stalking, unemployment status, credit history or any other basis prohibited by applicable law."

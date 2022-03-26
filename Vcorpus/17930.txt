@@ -1,0 +1,14 @@
+Job Description
+Our client is looking for a long term consultant who will have one goal: transform cloud security into a business enabler. From that initial goal they've built out a unified cloud security platform that protects their sensitive data.
+
+You will:
+• Provide design and operational practices for Azure and AWS. For on-premise, the focus of that guidance should be on network security and server security – both Windows and Linux.
+• Develop automation and supporting infrastructure to enable significantly increased agility and consumption of cloud resources. Including creating and maintaining build scripts, templates and other artifacts for the security stack
+• Establish and maintain operational processes and procedures that improve efficiencies and performance of the Network Security Firewall and infrastructure (50+ Firewalls).
+• Ensure that all appropriate devices are monitored, inventoried, receiving updates, licensed and life cycled.
+• Ensure alignment between security architecture frameworks, standards and overall cloud strategy
+
+Qualifications
+• Deep technical knowledge of network or systems security infrastructure, such as network or host-based firewalls, IDS, IPS, proxy servers, tap, and/or SIEM solutions • Experience with Cloud Security and networking (Azure, AWS) is essential
+• Broad knowledge and understanding of emerging technologies, technology trends and their applicability in a university setting
+• Knowledge of Fortinet Security Suite, NetFlow, WireShark, Bro, WAF, CarbonBlack, RASP, Sandbox and Splunk a plus • Experience designing networks or systems for high availability, security, manageability, and reliability

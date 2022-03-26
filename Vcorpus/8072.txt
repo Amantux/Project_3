@@ -1,0 +1,39 @@
+Under the Image-oriented Creation of Novelty (ICON) project, PAR Government Systems Corporation (PGSC) and the University of Illinois at Chicago (UIC) are building a system to generate novel media and media sets that will provide a range of data to test the capability of open world AI systems. The PAR team is leveraging decades of experience in pattern analysis and recognition across multiple data modalities, including imagery/video and natural language processing (NLP), to develop scientific techniques and measurements that will quantify and characterize novelty in the context of a set of classes.
+
+The successful candidate will lead the data science aspects of this exciting basic research program. They will be responsible for leading key aspects of the design, deployment, and implementation of the data science aspects of the program – focusing on developing techniques to measure data uniqueness and similarity across information classes. The program will advance the state of the art in the training, testing, and evaluation of open world AI systems and the Senior Data Scientist will be working closely with leading researchers in the field. The candidate will work closely with the Principal Investigator, software and data engineers, and data scientists on the following key tasks:
+
+Work on the mathematical basis for the concept of novelty, as well as algorithms that can be used to evaluate the novelty of images using both image and semantic representations
+
+Work with software developers on the project to incorporate developed algorithms into large scale prototypes
+
+Required Skills
+
+Excellent communication and presentation skills, specifically able to convey technical information in a clear and unambiguous manner
+
+Experience in research projects, as well as academic collaborations
+
+Technical development skills to develop proof of concept systems.
+
+Familiarity with machine learning techniques and the mathematics behind them.
+
+Experience with images metrics and semantic representations is strongly preferred.
+
+Required Experience
+
+BS and MS in Computer Science, Mathematics, or related technical field or equivalent experience
+
+15+ years in data science and related disciplines (10+ years with a MS Degree)
+
+Experience in prototyping algorithms
+
+Ability to work well with people from many different disciplines with varying degrees of technical experience
+
+Ability to express complex technical concepts effectively, both verbally and in writing
+
+Active TS security clearance is desired, but not required.
+
+Willing and able to obtain a TS/SCI clearance
+
+It is the policy of PAR to prohibit all forms of discrimination and to affirmatively implement equal opportunity to all qualified employees and applicants for employment without regard to race, color, creed, religion, sex, age, military status, national origin, disability, marital status, predisposing genetic characteristics, sexual orientation, or other legally protected status and positive action shall be taken to insure the fulfillment of this policy.
+
+#PGSC

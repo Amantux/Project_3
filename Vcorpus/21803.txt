@@ -1,0 +1,39 @@
+Working at Century Communities means building a career with a company driven by one simple objective: beautiful homes with lasting value, integrity, quality and service. As part of that mission, it also means support from a team dedicated to providing you with every opportunity for growth and success.
+
+Since our founding in 2002, we’ve become a top 10 U.S. public homebuilder, and in 2018 we were ranked 61st among the Fortune 100 Fastest-Growing Companies. How did we get here? By focusing on our buyers, working side by side with each one to build a home that achieves their goals and fulfills their dreams. To remain an industry leader, we need passionate self-starters, changemakers and thoughtful collaborators. Just as our motto is A Home for Every Dream™, we’re committed to finding the right candidate for every dream job.
+
+Our excellent benefits package includes medical, dental, vision, 401(k) and employer match, paid time off. We also offer competitive salaries with the potential for discretionary bonuses and/or commission structure (depending on the position). If you’re interested in a career with Century Communities, we’d love to hear from you!
+
+Position Summary:
+
+The IT Data Analyst – SQL & Business Intelligence is responsible for design and development of data products, as well as bidirectional data integration utilizing technologies such as APIs and SSIS. A successful candidate must be able to play multiple roles including data architect, report developer, data warehouse developer, metadata modeler, SQL programmer, database administrator and trainer/mentor. Candidate should have the ability to provide high level technical expertise for the planning, analysis, design, implementation, maintenance, and control of complex database and integration environments. Candidate should have strong experience in making recommendations on scalable and repeatable processes, working in a DevOps environment, and implementing tools/technology to proactively monitor the overall environment health.
+
+Essential Functions and Responsibilities:
+Author and modify MS SQL artifacts and SSRS reports.
+Architecture and maintenance of organization DBMS production environment, both on-premises (MS SQL) and cloud (Azure).
+Assist with ongoing database administration standards and policy development.
+Work closely with the Development & Operations teams to provide technical guidance and recommend solutions.
+Assist with ongoing information architecture planning and development efforts, including data marts, models, and warehouses.
+Database administration activities on databases, including but not limited to: backups, query maintenance and optimization, index maintenance, and monitoring.
+Design and implement ETL procedures using SSIS and other tools for bidirectional integration with both internal and external sources.
+Work with third party vendors to develop and/or integrate their applications into company products, ensure applications and application performance are in accordance with company guidelines.
+Provides consultation on the use of re-engineering techniques to improve process performance and data quality.
+Provide senior level discovery, analysis, design, development, and implementation of emerging technologies and platforms, particularly in the data space.
+Develop data products using Power BI, SQL, SSRS, SSIS, SSAS, Excel, Azure and other reporting and development tools.
+Perform other duties as assigned
+Knowledge, Skills and Background;
+Minimum 5 years' experience in database administration, data warehouse architecture development and business intelligence
+2+ years' experience creating advanced reports using Microsoft SSRS and Power BI
+2+ years’ experience working with Visual Studio 2015 or higher, SQL Server Data tools and SQL Server Management studio.
+Expert at developing and testing SSIS packages in SQL Server
+Knowledge of SQL with the ability to write complex SQL queries
+Understanding of Business Intelligence solutions: operational and analytical, strong knowledge of relational and multi-dimensional database architectures
+Strong Power BI application development, including visualization, parameters and report optimization
+Database administration experience for SQL Server
+Experience developing functions and applications in C#.
+Experience developing solutions in source controlled environments such as Azure DevOps and Red Gate SQL Source Control.
+Homebuilder industry experience
+Experience with Newstar ERP, Newstar sales, Hyphen Solutions BuildPro and TM1 Cognos are a plus.
+Educational Requirements:
+
+Bachelor’s degree or commensurate experience

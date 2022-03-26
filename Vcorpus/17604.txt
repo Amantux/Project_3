@@ -1,0 +1,86 @@
+The Data Engineer will be a member of the Media Supply Chain (MSC) team within
+the WarnerMedia Technology (WMTO) organization, the position will be
+responsible for the design and implementation of search and data relationship
+functionality for the WB content platform. The Data Engineer must have
+experience with data modeling, modern database technologies, and API driven
+search design and development. The Data Engineer will make technology and
+design decisions, and partner across the organization in a collaborative manner
+to achieve results for our mission critical content and data management and
+distribution applications.
+
+The Media Supply Chain Who We Are
+Media Supply Chain is tasked to architect, engineer, and program manage a wide
+range of applications, workflows and services for our internal partners who
+operationally manage and distribute WarnerMedia content globally. Our
+applications and technology solutions are responsible for scheduling, image &
+asset metadata management, as well as, content processing and delivery as well
+as content mastering, localization and preservation. We are the team pioneering
+new ways to process and deliver WarnerMedia content to its global customers
+
+The Media Supply Chain Mission
+Our mission is to provide and sustain practical, innovative, agile software and
+technology solutions which are highly reliable, automated, measurable,
+optimized, modern systems capable of distributing high-quality content and
+metadata to our domestic and global platforms & partners.
+
+The Daily
+Develop and provide support for core data relationship, data ingest, data
+transformation services and search capabilities. Creates functional and
+technical specifications. Creates and executes against a plan to launch
+and maintain applications.
+Review project objectives and determine best technology for
+implementation. Implement best practice standards for development, build
+and deployment automation.
+Evaluate software products and vendors for WarnerMedia (WM) Technology
+and other divisions. Recommend action, develop and lead implementation of
+selected products/services.
+Work with internal and external developers to ensure (WM) Technology code
+standards and best practices are performed for development of
+applications.
+
+The Essentials
+B.S. in Computer Science or equivalent experience.
+AWS Developer Certification preferred.
+AWS Database or Data Analytics Certification preferred.
+3+ years data engineering experience.
+Demonstrated proficiency in data modeling and data structures.
+Demonstrated experience implementing database technologies such as NoSQL,
+and Relational. Experience in graph databases a plus.
+Demonstrated expertise and experience in ELK stack (elasticsearch,
+logstash, kibana).
+Demonstrated expertise and experience in modern databases such as Mongo,
+Couchbase, Neptune, Neo4j, or equivalent. Experience in MarkLogic a plus.
+Proficient in one or more modern query languages such as elasticsearch
+query DSL, cypher, gremlin, or graphql. xQuery preferred but not
+required.
+Highly proficient in XML, JSON and YAML data exchange formats. Experience
+in XSDs and triple stores.
+Proficient in API design and development, specifically REST APIs.
+Experience with Swagger 2.0 and AWS API gateway is highly preferred.
+Demonstrated experience in data analytics tools such as Tableau, Kibana
+etc.
+Experience in working with data streaming technologies such as Amazon
+Kinesis, Apache Kafka etc.
+Experience in AWS at scale leveraging services such as elasticsearch,
+RDS, Redshift, Neptune and ec2.
+Highly proficient in at least one modern programming language such
+python, java, or node.js. Bash experience preferred.
+Demonstrated expertise and experience in deploying containerized
+application using Docker, Kubernetes or equivalent.
+Experience with source code and knowledge repositories such as git, jira,
+or equivalent systems.
+Proficient in a Linux environment.
+Proficient in core DevOps principles.
+Proficient in the SDLC in an agile environment.
+Systems design and architecture.
+Ability to work with outside vendors and clients under sometimes adverse
+circumstances and under time critical constraints.
+Must be able communicate effectively and tactfully with all levels of
+personnel (in person, written, telephone).
+Must be able to pay close attention to detail.
+Must be able to handle multiple tasks in a fast-paced environment.
+Must be able to organize and schedule work effectively.
+Must be able to work flexible hours, including overtime, if and when
+necessary.
+Must be able to respond to after-hours pager notifications to provide
+support for applications as necessary.

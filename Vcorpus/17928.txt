@@ -1,0 +1,17 @@
+Our client, a premier investment bank, is looking for a Big Data Engineer to join their growing team in Chicago, IL.
+
+Currently our client spends a lot of time trying to answer client's questions by logging in to several disparate data sources. It is estimated each support analyst spends about an hour every day answering client's questions. The goal of the project is to provide clients access to the data so they can access the data themselves.
+
+Role to be played by the consultant/contractor:
+Work with the business, understand and review technical requirements
+Design and develop end to end solution
+Ability to pick right technology for the execution of project
+Profile
+Hands on experience working with tools in Big Data ecosystem
+Hands on experience in building Kafka streaming application in Java
+Hands on experience in building Spark applications in Java or Scala
+Hands on experience in working with NoSQL databases
+Full stack Java developer
+Hands on experience in building production applications using Node.js and React
+Environment History of Project:
+Cross Asset Query Tool will bring low latency query capabilities to our Cross Asset data

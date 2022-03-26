@@ -1,0 +1,47 @@
+Job Summary
+
+Join a small team, as a Data Scientist, to provide a combination of systems engineering and technical support services including data warehousing, systems administration, security engineering, and technical support services for a data-science, mission-impact focused office. This team will focus its efforts on the following general program functions: supporting the advancing mission systems data storage; obtaining and maintaining authorization to operate of the current systems, designing and implementing the next-gen system to provide additional functionality across the mission center, engineering and support for a data warehouse; identifying opportunities for technical collaboration across the environment and their partner environments; and drafting technical reports, graphics, and summary documents to establish and maintain authorization to operate, collaborates and communicates information about system services in support of the mission.
+
+**Please note: This job requires an existing Top Secret Clearance and Full Scope Polygraph**
+
+Responsibilities and Duties
+
+The team will work closely with the Sponsor on all activities and efforts. In particular, the team will be responsible for carrying-out the following functions and duties across the following core functional areas including: Systems administration of the current mission systems, obtaining authorization to operate for the current mission system(s), maintaining authorization to operate for the current and next-gen systems, engineering the next-gen system, engineering a data warehouse, maintaining a data warehouse, and conducting data science evaluation. The team will provide data science and technical services across the entire data model including the identification, ingestion, preparation, labeling, and establishing a system for the management of data to support the development, testing, validation, management, and reporting on the raw data. The team will launch and maintain state-of-the-art (SOTA) repositories for the housing and storage of relevant open source data, models, algorithms, academic literature, and related materials in support of the mission capabilities. The team will provide services to label data using taggers, tagging tools, and tagging methods to maximize the accuracy, reusability, with the ability to explain labeled datasets.
+
+Experience Needed
+
+Since you will be joining a team you are not required to have all the following skills, but you should be able to contribute to the task.
+
+Proficient in Windows and Linux
+
+Experience with AWS implementations
+
+Proficient using scripting technologies (Powershell, Python, Java, etc.)
+
+Experience in applied data science and technical project planning
+
+Experience communicating initiatives, standards, and best practices of current technologies and opportunities
+
+Proficient with BI tools (Tableau, Power BI, COGNOS, etc) and Database technologies (Oracle, SQL, Postgress, etc)
+
+Proficient in ETL methodology, ability to store unstructured and structured data and allow for external connection to enable data retrieval
+
+Experience in assembling complex datasets and building and implementing metadata
+
+Proficient in support of the ICD503 security requirements
+
+Experience creating and maintaining technical documentation in support of the system security requirements and best practices
+
+Experience in establishing, executing, and managing project plans, tasks, schedules and priorities
+
+Desired Skills
+
+Experience across the Sponsor environment working on various data warehousing projects, and support efforts, with particular experience in standing-up data centric systems within the Sponsor environment and applying data management methods to mission challenge sets
+
+Company Overview
+
+At Dezign Concepts, we are building a collaboration of professionals to help supply the intelligence community with the services they need to excel in current and future endeavors. We are a growing company where providing outstanding solutions and delivering impeccable service is our highest priority. We believe that great people make great companies and every day we strive to provide the type of environment that encourages creativity, growth and satisfaction.
+
+Dezign Concepts provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.

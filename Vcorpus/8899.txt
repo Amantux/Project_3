@@ -1,0 +1,69 @@
+Job Description:
+
+Be part of an exciting startup and help design, implement and deploy new platform functionality to client-facing management, integration, and rendering systems. As a member of Thrive’s growing engineering team, you will be responsible for measurably growing revenue for our clients.
+
+Design and develop new data pipelines for training, evaluating, and testing Thrive’s customer-facing machine learning models
+
+Develop algorithms for ranking promotional content based on consumer browsing history
+
+Maintain and improve on existing consumer tracking architecture
+
+Write and test production-quality code in new and existing services
+
+Implement automation around deployment, testing, and scaling
+
+Keep up to date on best practices for modern machine learning pipelines
+
+Make recommendations to management on technology stack and tooling to support pipeline development
+
+Work in an intensely-paced but flexible startup atmosphere where you’re assessed on results and given the freedom to achieve them
+
+Work hard and smart with us from day one to build a SaaS platform that will forever change eCommerce, and have fun doing it
+
+In addition to the above, the ideal candidate will have excellent communication and interpersonal skills, be able to work independently, and to a deadline.
+
+Desired Skills & Experience:
+
+Our systems are web/mobile applications and RESTful APIs. Our data platform targets the JVM. To ensure you hit the ground running, it’s essential that you have the following skills and experience:
+
+0-3+ years experience with a production SaaS solution
+
+2-5+ years professional software engineering
+
+1-2+ years experience building large-scale machine learning pipelines with AWS (Lambda, SageMaker, Athena, DynamoDB)
+
+Experience building collaborative filtering models with co-occurrence, matrix factorization, etc.
+
+Python, Java, and/or Scala
+
+SQL, preferably MySQL
+
+Test automation tools like RSpec, JUnit, etc.
+
+BS in Computer Science, MS preferred – or equivalent experience
+
+You get bonus points for:
+
+Ruby on Rails
+
+HTML/CSS/JavaScript
+
+Personal programming projects, active in the open-source community
+
+Experience building native mobile applications
+
+Google Analytics, SEO, eCommerce platform (ex. Magento) experience
+
+Understanding of digital coupons, SEM, affiliate marketing, and other online marketing concepts
+
+Location:
+
+Flexible; Philadelphia, PA
+
+Compensation:
+
+Salary + highly leveraged stock options
+
+Contact
+
+Joe Cairns, VP Engineering – joe.cairns@thrivecommerce.com

@@ -1,0 +1,91 @@
+About the Business
+
+DP World is a leading enabler of global trade and an integral part of the supply chain. We operate multiple yet related businesses – from marine and inland terminals, maritime services, logistics and ancillary services to technology-driven trade solutions.
+
+We have a portfolio of 77 operating marine and inland terminals supported by over 50 related businesses in 40 countries across six continents with a significant presence in both high-growth and mature markets. We aim to be essential to the bright future of global trade, ensuring everything we do has long-lasting impact on economies and society and creates a better future for everyone.
+
+Our dedicated team of over 37,000 employees from 110 countries cultivate long-standing relationships with governments, shipping lines importers and exporters, communities, and many other important constituents of the global supply chain, to add value and provide quality services today and tomorrow.
+
+We make sure cargo keeps moving so people have the things they need, when they need them, helping economies grow and nations prosper. It’s an important job, and one that requires smart, proud, passionate people working all across the world – people who are not afraid to innovate and find new ways of driving our business forward. We foster a culture of collaboration, innovation and respect. Our global workforce is made up of 45,000 people with over 110 different nationalities who bring their experience and expertise together, allowing us to be a global leader.
+
+By thinking ahead, foreseeing change and innovation we aim to create the most productive, efficient and safe trade solutions globally.About the Role
+
+The world is changing at an unparalleled pace, and with it so is the trade landscape and the way companies and people work. Disruptive technology and changing behaviors will lead to a seismic shift in the way goods are manufactured, transported, and bought and sold. DP World aims to be at the forefront of this next industrial revolution. We invest in technology and innovation to provide our customers the best experience, build differentiated capabilities, and optimize our operations.
+
+Our Seattle Software Development Center (SSDC) is responsible for building highly available, scalable and real time supply chain solutions that power the current supply chain and its beneficiaries. We are looking for a motivated individual with strong analytical skills and practical experience to work on some of the most challenging and fascinating problems in transport, economics, logistics and the space around. We apply machine learning, simulation, forecasting, scheduling, optimization, and many other advanced techniques to push our business metrics to their bounds, directly and indirectly.
+
+Our Operations Research team is are the key voice and advocate for data-driven decision making. It tasked with designing algorithms and systems for all stages of the digitized logistics process, from long-term order quantity and resources optimization, short-term scheduling and real-time routing, to supplier incentives and growth strategies. We face challenges due to the enormous size and complexity of the network. It is composed of a large number of players, responsibilities and assets. Additionally, we must account for stochastic issues in all planning stages, as well as the difficulty of modeling human behavior, for both customers and agents.
+
+The ideal candidate is curious, creative and open minded. You possess a strong desire to explore, investigate, dig, and generally uncover patterns and puzzles in data while maintaining a strong sense of thoughtful and pragmatic solutions. You have good communication skills and ability to speak at a level appropriate for the audience. You will collaborate effectively with fellow scientists, software development engineers, and product managers, and will deliver business value in close partnership with many stakeholders from Operations, Finance, IT, and Business Leadership.
+
+Key Accountabilities
+
+Identify and integrate disparate data sources, both internal and external, structured and unstructured data.
+
+Architect, build, and launch efficient & reliable new data models, schemas and pipelines to enable analysis and modeling.
+
+Develop creative solutions and build prototypes to business problems using advanced mathematical algorithms such as statistically learning, mixed integer and constraint programming, graph theories, queuing theory, and simulation.
+
+Develop experiments (A/B testing) to and define metrics to measure business performance.
+
+Build tools to automate data science work.
+
+Conduct ad hoc data analysis in a fast-paced agile environment.
+
+Establish best practices for foundational capability, scalability and performance of models on the edge.
+
+Work in an agile, startup-like development environment, where you are always working on the most important stuff.
+
+In this role you will lead a critical and highly-visible function within DP World International Expansion Business.
+
+You will be given the opportunity to autonomously deliver the technical direction of the service, and the feature road map.
+
+You will work with extraordinary talent and have the opportunity to hire and shape the team to best execute on the product.
+
+Other:
+
+Applicable if role has direct reports - responsible for the management and leadership of an engaged team, promoting collaboration and ensuring that each is developed and evaluated against goals and objectives which are aligned, specific, measurable, attainable yet challenging, realistic and time bound.
+
+Act as an ambassador for DP World at all times when working; promoting and demonstrating positive behaviors in harmony with DP World’s Founder’s Principles, values and culture; ensuring the highest level of safety is applied in all activities; understanding and following DP World’s Code of Conduct and Ethics policies.
+
+Perform other related duties as assigned.
+
+Qualifications and Experience
+
+Basic qualifications:
+
+PhD degree in Operations Research, Industrial Engineering, Transportation Engineering, Statistics, Applied Mathematics, Computer Science or related field, or a master’s degree and at least 5 years of relevant work experience.
+
+Experience with the whole data science life cycle; such as formulating problems, identifying metric/objective, choosing data sources, gathering labels, building models meeting requirements (quality/speed/interpretability/supportability), shipping and supporting the models.
+
+Exposure to optimization software and libraries (XPRESS, Gurobi, CPLEX, etc.), scripting languages (Python, R, etc.), SQL and Statistical tools, major object-oriented programming languages (java, C++, etc.), and simulation software.
+
+Excellent communication skills with both technical and non-technical audiences.
+
+Ability to work independently and as part of a diverse team.
+
+Preferred qualifications:
+
+Previous work experience or demonstrated practical experience through industrial internships.
+
+A proven record of innovation and driving research in Applied Optimization in industry, government, or military.
+
+Experience developing system prototypes, and testing and validating the developed design to quantify its value.
+
+Experience in working with large data sets.
+
+Excellent interpersonal skills and a can-do never-give-up attitude.
+
+Experience with scripting languages (Python, Ruby, etc.), SQL, object-oriented programming languages (java, C++, etc.), optimization software and libraries (XPRESS, Gurobi, CPLEX, SAS, R, etc.), and simulation software.
+
+Exposure to relational databases, AWS and Linux.
+
+Familiarity with data visualization (e.g. R, ggplot, ggobi, Tableau).
+
+Additional Requirements:
+
+The ability to think big, manage ambiguity to move quickly and deliver results in an entrepreneurial environment.
+
+Fearless but thoughtful in their pursuit of results.
+
+Flexible, resourceful and easily adaptable to changes in environment and prioritization.

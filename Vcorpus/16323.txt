@@ -1,0 +1,21 @@
+Job Description
+Long term contract with possible conversion to full time
+Primary responsibility is to advance the PHM analysis capability Fleet Analytics Search Tool by implementing solutions utilizing systems engineering principles to design and implement the data life-cycle to; collect, ingest, process, store, persist, access, and deliver data at scale and at speed to enable team members to efficiently conduct analyses and mature PHM performance. The engineer will clearly document and define PHM data available for analysis and maintain standards and best practices to ensure the architecture can efficiently support required data growth.
+The applicant will be responsible for designing, coding, testing and integrating engineering algorithms in Python. The engineer will develop and support efficient methods of sustaining engineering tools and processes to grow data available for analysis.
+Additional tasks include development of visualizations, applications, and job aids to enable the efficient review of isolated events of interest contained within large data sets.
+Position may be remote/virtual
+Skills & Tools:
+Senior Level skills with the following Languages or Tools: SQL & Python
+Database systems (SQL/NO SQL)
+Demonstrated experience with modern enterprise data architectures (i.e. distributed data architecture) and the associated data toolsets (i.e. Hadoop)
+Distributed Data Systems (e.g. Hadoop, HBase, Cassandra, Spark)
+Expertise in Data modeling
+Demonstrated experience with ETL process and data validation tasks
+Comfortable manipulating and analyzing complex, high-volume, high-dimensionality data from varying sources
+Expertise in Extraction, Transformation and Load tools
+Nice to have: Experience with the following: Scripting, Java, Ruby, C++, Perl, SAS, Matlab, Hive, Pig, SPSS, R, XML, Impala, Flume, Oracle, SQL Server
+Education:
+
+Bachelor's degree in Computer Science, Electrical Engineering, Mechanical Engineering, Systems Engineering, or related field.
+Company Description
+the largest independent broker-dealer

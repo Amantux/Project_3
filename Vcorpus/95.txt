@@ -1,0 +1,35 @@
+Chef Software is the industry leader in IT automation and DevOps solutions. We develop the world's best products for managing applications and infrastructure at scale, and we deploy them against real problems in all kinds of industries. We’re writing the rules of the cloud -- rules the world’s top engineers live, breathe and contribute to. Our platform is used to enable hundreds of millions of people around the world to chat, fly, present, bank, game, shop, and learn. Chances are the web applications you use every day have infrastructure built, deployed, secured and ran with our code.
+
+We are a dynamic and rapidly growing software company with a strong sense of dedication to our customers and the Chef community. We work hard but try not to take ourselves too seriously. This is a very collaborative and inclusive work environment. Individuals, strong on aptitude and attitude, will have an opportunity to grow their professional careers through working with some of the most advanced technology and talented developers in the business. We provide competitive compensation, generous benefits, and a professional yet relaxed atmosphere.
+
+We are seeking a highly motivated, results oriented individual with strong data engineering skills and experience in cloud technologies to join our platform architecture team. This person will play a key role in developing advanced analytics products for Chef customers. They will also have a key influence on our future processes and architecture.
+What you'll do:
+Take ownership for designing, developing and maintaining scalable data pipelines and data models.
+Design, construct, install, test and maintain data management systems.
+Develop data ingestion and integrations processes.
+Ensure that all systems meet the business/company requirements as well as industry best practices.
+Integrate up-and-coming data management and software engineering technologies into existing data structures.
+Develop set processes for data mining, data modeling, data ingestion, and data production.
+Contribute to the design of new product offerings based on data analytics.
+Create custom software components and analytics applications.
+Research new uses for existing data; design experiments and analysis to answer key business questions.
+Employ an array of technologies, languages and tools to connect systems together.
+Collaborate with members of your team (eg, architects and engineers) on project goals.
+Recommend different ways to constantly improve data reliability and quality.
+Who you are:
+You have a minimum of a Bachelors’ degree in Computer Science, Data Science, or related field, plus 5 years of experience (or equivalent combination of education and experience). Masters degree in a relevant field is advantageous.
+You have demonstrable software development skills in at least one language such as Rust, Go, C#, C++, Ruby or Java.
+You have expertise in architecting, designing and implementing data solutions in a cloud-native environment (AWS preferred).
+You have experience with a variety of data technologies and structures that includes relational databases, NoSQL and graph.
+You’re well-versed in working with big data.
+You have excellent analytical and problem-solving skills.
+You like to dive in, learn new things, and want to build awesome products.
+You have experience building and operating high-performance data systems.
+Working experience with Containers and Container orchestration tools such as Docker and Kubernetes is a huge plus.
+You’ve had experience working with APIs (graph, specifically).
+You enjoy collaborating closely with product management and internal engineering teams to understand their complex issues, solve their problems and elicit frequent feedback on the solutions you provide
+You believe quality is part of the development process and not an afterthought
+Our platform architecture team is remote and distributed. Allowing us to not only live where we will be most productive, but enables us to create a work environment that celebrates all of our humanity. We celebrate the difference of perspective this brings and the barriers it removes.
+
+Benefits are awesome - a competitive salary, equity for all, solid medical/dental benefits, 401(k), telecommuting, flextime, a variety of interesting projects, and brilliant co-workers.
+At Chef, we celebrate and support our differences. We know employing a team rich in diverse thoughts, experiences, and opinions allows our employees, our products and our community to flourish. Chef is honored to be an equal opportunity workplace. We are dedicated to equal employment opportunities regardless of race, color, ancestry, religion, sex, national orientation, age, citizenship, marital status, disability, gender identity, sexual orientation or Veteran status.

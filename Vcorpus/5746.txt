@@ -1,0 +1,60 @@
+Read what people are saying about working here. 
+
+Data Scientist, Cyber Risk Analytics
+
+Guidewire’s Cyence Risk Analytics products help the property & casualty (P&C) industry to model new and evolving risks such as cyber. By combining internet-scale data listening, adaptive machine learning, and insurance risk modeling, Cyence Risk Analytics provides insights that help P&C customers face new risks, take advantage of new opportunities, and develop new products. To learn more about Cyence Risk Analytics, please visit https://www.guidewire.com/products/cyence
+
+We are seeking a talented data scientist to join our team. Your responsibilities as a data scientist will include:
+
+Data exploration, analysis and feature extraction
+
+Using machine learning to extract information from our diverse set of features
+
+Software engineering and designing data pipelines
+
+Creating visualizations appropriate for various audience levels
+
+Working together with cyber analysts, data engineers, modelers, and product managers
+
+What we are looking for:
+
+Degree in a quantitative field (e.g. CS, Statistics, Sciences, Engineering, Economics)
+
+Understanding of various ML techniques (e.g. clustering, anomaly detection, NLP), and the trade-offs between them
+
+1-3+ years experience in data analysis, including (a) querying, segmenting and visualizing data to evaluate hypotheses, and (b) communicating impact to both technical and non-technical audiences
+
+Experience working different types of datasets (e.g. unstructured, semi-structured, with missing information)
+
+Experience in implementing ML algorithms in Python or R, and SQL
+
+Ability to build a data pipeline from end to end:
+
+Cleaning, evaluating, and visualizing data
+
+Feature engineering
+
+Model exploration and evaluation
+
+Maintenance
+
+Ability to think critically and creatively in a dynamic environment, while picking up new tools and domain knowledge along the way
+
+A positive attitude, and a growth mindset
+
+Bonus:
+
+Insurance, actuarial modeling or financial modeling experience
+
+Understanding of computer network and cybersecurity
+
+Experience with Cloud infrastructure (e.g. AWS), and open source data processing frameworks (e.g. Hadoop, Spark, Mongo and Cassandra)
+
+Graduate level statistics courses such as Generalized Linear Models, Time-Series Analysis, Statistical Learning, Bayesian Statistics
+
+Why Guidewire?
+
+Guidewire exists to deliver the industry platform that P&C insurers rely upon to adapt and succeed in a time of accelerating change—and to ensure that every customer succeeds in the journey. We provide the software, services, and partner ecosystem to enable our customers to run, differentiate, and grow their business.
+
+Guidewire InsurancePlatform is the P&C industry platform that unifies software, services, and partner ecosystem to power our customers’ business. InsurancePlatform provides the standard upon which insurers can engage their customers, optimize their operations, drive smart decisions, and innovate quickly. We are privileged to serve more than 350 P&C insurers in 32 countries. We invest heavily in R&D to build a technology platform that combines three elements—core processing, data and analytics, and digital engagement—to enhance insurers’ ability to engage and empower their customers and employees.
+ Guidewire develops and implements market-leading insurance software solutions. Serving the second-largest financial services industry in ...

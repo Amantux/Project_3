@@ -1,0 +1,53 @@
+Summary
+
+Posted: Jul 23, 2019
+
+Weekly Hours: 40
+
+Role Number: 200081392
+
+Join the CoreMotion team and help develop innovative fitness/activity tracking features in iPhone and Watch that are helping our users live more active, healthier lives. We are looking for a highly motivated data scientist proficient in generating meaningful insights from complex, multi-dimensional data that can inform and validate algorithm design of best-in-class fitness solutions.
+
+Key Qualifications
+
+You have a strong background in Statistical Modeling/Machine Learning and Visualization
+
+Ability to derive insights from data and help create metrics to help quantify such insights.
+
+You have experience translating insights derived from data into algorithm
+
+You have experience with creating data pipelines used to execute the process of large datasets.
+
+Experience with analyzing such datasets using distributed data storage/compute models
+
+Incorporates data processing efficiency concerns in data experiment designs.
+
+Effectively communicates analysis results to executives and multi-functional audiences.
+
+Proficiency in Python and/or Matlab.
+
+Enthusiasm for features in Fitness and Health.
+
+Strong analytical and problem-solving skills
+
+Description
+
+You will be analyzing data, devising and proving hypotheses, and validating algorithms using multiple sensors. You will also be responsible for framing and driving user studies and working with a multi-disciplinary team to help implement algorithms in customer-facing software.`Come work with us and see your work powering the novel user experiences delivered by watchOS/iOS used by millions of users worldwide. We promote innovation and new technology to further improve our creative output. We are seeking a hardworking and passionate person to join this amazing team, if you feel this is you, we'd love to hear from you.
+
+Education & Experience
+
+MS, Ph.D or 5+ years experience in quantitative data science discipline (statistics/biostatistics, epidemiology, computer science).
+
+Additional Requirements
+
+Strong analytical and problem-solving skills.
+
+Prior experience with motion sensors, fitness and health technologies
+
+Excellent technical communication and interpersonal skills
+
+At home in a OSX/Linux environment.
+
+Experience with time series analysis (from inertial sensors) a plus.
+
+C++ programming experience a plus.

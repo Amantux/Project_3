@@ -1,0 +1,43 @@
+Riot's Data Engineers build tools to understand and improve the experience of our players worldwide using petabytes of data and state-of-the-art processing technology. Handling the potential these data offer is a tremendous and complex task. As we continue delivering and scaling content to passionate players, our discipline has challenges and opportunities centered on building data products that support our growth.
+
+The Information Security group at Riot supports teams across the company to develop robust security capabilities which help protect player experiences. At the most fundamental level, our goal is to help deliver value to players and make life harder for troublemakers.
+
+As a Senior Data Engineer on the Security Operations team within the Information Security group, you bring a unique mix of distributed data processing, data warehousing, and software engineering skills to develop scalable data systems that inform our decisions and ensure the safety of Riot's platforms and the players using them. You can translate security requirements into sustainable data architecture and workflows. You will work with Security and Software Engineers to solve current problems and create new opportunities. You will design and promote our technical strategy for how we use data to transform security operations. You will work with engineers across Information Security group to establish and promote standards for collecting, processing, storing, and analyzing data.
+
+Responsibilities:
+Create and promote a technical design and architectural vision for security operations data systems and tooling
+Work with engineers on the team to manage infrastructure for moving and processing large-scale data
+Improve log flows efficiency through data processing to reduce the cost of analysis and storage
+Convert log flows from Logstash to Elastic Common Schema
+Work with Analysts to determine and implement the best practices for data retention and storage
+Design and promote standards for security operations data telemetry and processing
+Help engineers across the team select data technologies for their development needs
+Be the face of data best-practices to engineers on the team around the product by advocating for data considerations early in the product life cycle and educating teammates on how to get the most out of Riot data ecosystem.
+Required Qualifications:
+
+
+2+ years experience working with data systems
+2+ years experience with data warehousing, processing, pipelines, infrastructure, and query patterns
+2+ years experience with Spark or Hadoop
+2+ years experience with open source ETL frameworks such as Airflow, Luigi, or similar
+4+ years experience with Python and SQL
+Bachelor's degree in Computer Science or related field
+Desired Qualifications:
+
+
+Experience with systems for data processing (Spark, Flink, Hadoop, Airflow) and storage (S3, Kafka, ElasticSearch, Dynamo, MySQL, or Postgres)
+Experience with ELK
+Experience reading and optimizing data schema queries for content and performance
+Experience working in agile project management methodologies (Scrum, Kanban)
+For this role, you'll find success through craft expertise, a collaborative spirit, and decision-making that prioritizes the delight of players. We will be looking at your past studies, experience, and your personal relationship with games. If you embody player empathy and care about the experiences of players, this could be the role for you!
+
+Our Perks:
+
+
+We offer medical, dental, and vision plans that cover you, your spouse/domestic partner, and children. Life insurance, parental leave, plus short-term and long-term disability coverage are also available. Riot will support your retirement benefits with a company match, and double down on your donations of time and money to non-profit charitable organizations. Balance between work and personal life is encouraged with open paid time off, and a play fund so you can broaden and deepen your personal relationship with games.
+
+===
+
+It's our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law, including the City of Los Angeles' Fair Chance Initiative for Hiring Ordinance relating to an applicant's criminal history (LAMC 189.00).
+
+Don't forget to include a resume and cover letter. We receive many applications, but we'll notice a fun, well-written intro that shows us you Dare to Dream and Execute with Excellence.

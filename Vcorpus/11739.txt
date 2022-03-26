@@ -1,0 +1,57 @@
+Job Description 
+We are looking for a strong  Data Scientist or  Machine Learning Engineer (MLE) - a proven 'doer' to develop, implement and extend data-intensive ML software for real-time auctioning, ad inventory estimation, and audience segmentations. 
+You will design and implement core components of our algorithms, as well as model and monetize the terabytes of structured data that PubMatic generates daily. 
+Working with our Data Science and Ad Serving teams, you will apply ML to help get things done. 
+ Responsibilities : 
+Development and implementation of data-intensive ML algorithms and software for real-time auctioning, ad inventory estimation, audience segmentations, and related AdTech applications. 
+Working with data scientists, product managers, and software engineers to develop and support the software for new ML products. 
+Ensuring excellence in delivery to internal and external customers  Qualifications 
+MS / PhD in STEM field 
+3+ years of hands-on industry work experience designing and building large-scale ML algorithms and ETL that are well-designed, cleanly coded, well-documented, operationally stable, and timely delivered 
+5+ years total analytical work, including academic research 
+ Solid experience with : 
+Python or R, including ML libraries (SKLearn, NumPy, caret, e1071,  ), including CPU/GPU parallelization, matrix algebra, vectorization, linear programming, lambda programming, OOP,   
+At least one of the DL frameworks (TensorFlow, PyTorch, Caffe, Theano, Keras, or alike) 
+ Solid understanding of : 
+Graduate statistics and probability (inference, hypothesis testing, p-value, ANOVA, CLT, LLN, Bayes  theorem, A/B testing, combinatorics, PDF/CDF, joint/conditional/marginal densities) 
+Vector calculus (gradients, Jacobians, partial derivatives and integrals, optimization) 
+Linear algebra (eigen values/vectors, inverses, decompositions, orthogonality, multi-linear) 
+Time series (ARIMA, GARCH, forecasting, Kalman filter) 
+Shallow ML algorithms: regressions, SVM, kMeans, kNN, NB, HMM, PCA, NMF, SVD, XGBoost, decision trees, ensemble methods (random forest) 
+Deep NN algorithms: MLP, RNN, LSTM, CNN, GRU 
+ML concepts: backprop, hyperparameter tuning (Bayesian optimization, grid/random search), regularization, learning rate, optimization 
+Advanced work with SQL or NoSQL, including nested/join/aggregate queries, stored procedures, over partition by, basic stat functions 
+Cloud compute engines (AWS, Azure, GCP and alike), ML on clusters of GPUs, SageMaker, Jupyter 
+Excellent communication skills, cultural fit and natural curiosity in learning the ML developments and domain expertise 
+ Nice to have:  
+Prior experience with programmatic advertising and RTB 
+Deep reinforcement learning (Bellman equations, MDP, policy optimization, credit assignment, multi-agent) 
+Proficiency with Spark (ML Lib, GraphX), Hadoop, Kafka, and/or Hive 
+Proficiency with Scala, Java, and/or C/C++ 
+Record of STEM publications in top journals or conferences 
+High ranking at Kaggle competitions 
+ What's the first step?  
+Please complete this quick self-ranking of your strengths, and we can get you started! 
+ https://goo. gl/forms/RvkeIC6aXj1xdxU23   Additional Information 
+PubMatic is proud to be an equal opportunity employer; we don t just value diversity, we promote and celebrate it. 
+We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
+All your information will be kept confidential according to EEO guidelines.  Videos To Watch  Job Location I'm interested
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Redwood City, CA 94061 
+                     
+                 
+                             
+                     
+                         Posted 
+                         20 Days ago 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         2365_ce4c9a3318a025ca22e58e64dff4a369

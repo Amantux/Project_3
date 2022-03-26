@@ -1,0 +1,36 @@
+SECURITY INCIDENT RESPONSE TEAM (SIRT) supports and enables a comprehensive technical Cyber Defense program for the firm while increasing awareness of current and potential Cyber Threats. Works across the organization to operate efficiently, provide technical investigative support and mitigate threats to the firm.
+
+Business Unit Overview
+Led by the Chief Information Security Officer (CISO), Technology Risk secures Goldman Sachs against hackers and other cyber threats. We are responsible for detecting and preventing attempted cyber intrusions against the firm, helping the firm develop more secure applications and infrastructure, developing software in support of our efforts, measuring cybersecurity risk, and designing and driving implementation of cybersecurity controls. The team has global presence across the Americas, APAC, India and EMEA. Within Technology Risk, The Security Incident Response Team (SIRT) identifies malicious activity, manages the lifecycle of vulnerabilities within GS technologies, and investigates and manages threats across the firm. We are a team of security, software, and product engineers that allow the firm to respond appropriately to firm risks through the use of detection model, security architecture, and cutting-edge cyber threat analysis to manage internal and external threats against the firm.
+Role
+In this role, you will be responsible for the creation of data science solutions to extract key signals from cyber security data sources. You will work with data science and machine learning technologies to design, test and deliver world class models that decrease cyber security risk. The ideal candidate should have experience in applying statistics, building and testing models and working with big data solutions in a distributed computing environment. Experience with programming languages including Java, Python, R,& SQL. Candidates will be able to convey complicated technical analysis to senior management via investigation synopses, graphical depictions of attacks, and comprehensive presentations.
+
+Job Responsibilities
+• Responsible for the creation of innovative methodologies for extracting key parameters from big data originating from various sensors.
+• Utilize expertise in machine learning, statistical data analytics, and predictive analytics to help implement analytics tied to cyber security and hunting methodologies and applications
+• Design, develop, test and deliver complex analytics in a range of programming environments on large data sets
+• Apply latest technologies in machine learning, data mining, and predictive analytics to correlate the big datasets and events, and derive dynamic cybersecurity rules.
+• Generate highly accurate and near real-time security alerts based on the dynamic rules. Collaborate with a global team to continually operate and improve a world-class cyber program by driving the uplift of sensory tools, detection tuning, and access to data sources to increase detection effectiveness by applying data analytics.
+
+Basic Qualifications
+• Strong English verbal and written communication skills.
+• Ability to multi-task and prioritize work effectively.
+• Highly motivated self-starter who can provide thought leadership in big data analytics.
+• Responsive to challenging tasks
+• Ability to document and explain technical details in a concise and understandable manner.
+• Strong sense of ownership and driven to manage tasks to completion.
+• Minimum 3 years full time work and post graduate work experience
+• 3 - 5 years’ experience with scalable distributed data processing, management, and visualization tools (e.g. Hadoop, Apache Spark, etc.).
+• Proven knowledge of industry leading scripting tools such as Python, Powershell, R and SQL
+
+Preferred Qualifications
+• Bachelor of Science in Computer Science, System/Computer Engineering, Data Science and Machine Learning, Cyber-Security, or Information Security is preferred.
+• Four (4) years of additional work experience may be substituted in lieu of a Bachelor’s Degree. Bachelors of Science/Arts in Forensic Computing, System/Computer Engineering, Data Science, Engineering, Operations Research, or Decision Science will be considered.
+• Strong mathematical background (linear algebra, probability and statistics).
+• Previous work experience in Cyber Security field is a plus.
+• Excellent oral, written, and presentation communication skills required.
+#techriskcybersecurity
+
+The Goldman Sachs Group, Inc. is a leading global investment banking, securities and investment management firm that provides a wide range of financial services to a substantial and diversified client base that includes corporations, financial institutions, governments and individuals. Founded in 1869, the firm is headquartered in New York and maintains offices in all major financial centers around the world.
+
+Â© The Goldman Sachs Group, Inc., 2020. All rights reserved Goldman Sachs is an equal employment/affirmative action employer Female/Minority/Disability/Vet.

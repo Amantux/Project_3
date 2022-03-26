@@ -1,0 +1,43 @@
+Read what people are saying about working here. 
+In 2009, Riot released its debut title League of Legends and over 100 million people now play the game every month. Riot's Data Discipline builds tools to understand Riot and Player data, which may be used to delight our global audience or to inform the business for strategic decisions that drive player value. Whether you are a Data Scientist casting a neural net, a Data Engineer building a hundred node parallelized data pipeline, or a Data Architect crafting data products that are more efficient and dependable, we need you. We use state of the art data processing technology and have access to the latest cloud services available, but handling the potential of all this data is a tremendous and complex task. That's where you come in.
+
+As Data Scientists at Riot, we use all aspects of our technical expertise to inform decisions and develop data-powered products, including data processing, statistical modeling, machine learning, and artificial intelligence. We work to uncover opportunities and deliver player value through data science, choosing the right datasets, algorithms, and tools for each problem. In this role, you can define the data science approach when given a general problem and you will employ a wide range of technical approaches across multiple data processing environments. You help drive team direction and establish relationships with senior partners across disciplines. You help decision makers find new ways to use data science for player value. You influence decisions, design systems, and build solutions at multiple points in the development cycle, from discovery through production.
+
+On our R&D team, you'll be working on an unannounced game. Your responsibilities will be to design development of data/ML pipelines which collect player actions, push it through a machine learning model that will surface desired results via API. You will also lead the building of recommendation systems that take advantage of things like purchases to predict future interests through machine learning models. You will track the performance of individual models to provide the best player experience.
+
+----------------------
+
+Desired Qualifications
+
+----------------------
+
+An MS or PhD in Engineering, Computer Science, Physics, Statistics, or a related field
+
+5+ years data science industry experience
+
+3+ years "productionalizing" code into live systems
+
+2+ years hands on experience with petabyte-processing-capable technologies such as Spark or Hadoop
+
+It's our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law, including the City of Los Angeles' Fair Chance Initiative for Hiring Ordinance relating to an applicant's criminal history (LAMC 189.00).
+ In 2009, Riot released its debut title League of Legends and over 100 million people now play the game every month. Riot's Data Discipline builds tools to understand Riot and Player data, which may be used to delight our global audience or to inform the business for strategic decisions that drive player value. Whether you are a Data Scientist casting a neural net, a Data Engineer building a hundred node parallelized data pipeline, or a Data Architect crafting data products that are more efficient and dependable, we need you. We use state of the art data processing technology and have access to the latest cloud services available, but handling the potential of all this data is a tremendous and complex task. That's where you come in.
+
+As Data Scientists at Riot, we use all aspects of our technical expertise to inform decisions and develop data-powered products, including data processing, statistical modeling, machine learning, and artificial intelligence. We work to uncover opportunities and deliver player value through data science, choosing the right datasets, algorithms, and tools for each problem. In this role, you can define the data science approach when given a general problem and you will employ a wide range of technical approaches across multiple data processing environments. You help drive team direction and establish relationships with senior partners across disciplines. You help decision makers find new ways to use data science for player value. You influence decisions, design systems, and build solutions at multiple points in the development cycle, from discovery through production.
+
+On our R&D team, you'll be working on an unannounced game. Your responsibilities will be to design development of data/ML pipelines which collect player actions, push it through a machine learning model that will surface desired results via API. You will also lead the building of recommendation systems that take advantage of things like purchases to predict future interests through machine learning models. You will track the performance of individual models to provide the best player experience.
+
+----------------------
+
+Desired Qualifications
+
+----------------------
+
+An MS or PhD in Engineering, Computer Science, Physics, Statistics, or a related field
+
+5+ years data science industry experience
+
+3+ years "productionalizing" code into live systems
+
+2+ years hands on experience with petabyte-processing-capable technologies such as Spark or Hadoop
+
+It's our policy to provide equal employment opportunity for all applicants and members of Riot Games, Inc. Riot Games makes reasonable accommodations for handicapped and disabled Rioters and does not unlawfully discriminate on the basis of race, color, religion, sex, sexual orientation, gender identity or expression, national origin, age, handicap, veteran status, marital status, criminal history, or any other category protected by applicable federal and state law, including the City of Los Angeles' Fair Chance Initiative for Hiring Ordinance relating to an applicant's criminal history (LAMC 189.00). Riot was established in 2006 by entrepreneurial gamers who believe that player-focused game development can result in awesome games. In 2...

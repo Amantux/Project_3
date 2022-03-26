@@ -1,0 +1,33 @@
+Posted: Apr 14, 2020
+Role Number:
+200165385
+Imagine what you could do here. At Apple, new ideas have a way of becoming phenomenal products, services, and customer experiences very quickly.
+
+Bring passion and dedication to your job and there's no telling what you could accomplish.
+
+In the growing Apple Media Products Analytics Engineering team you will perform data analysis and dig into rich user experience big data, finding out the root cause of data issues.
+
+You will collaborate with leading data scientists, crafting out data curations and annotations for building data science and machine learning solutions.
+
+Your insights will contribute to the team’s data products and platforms quality improvement for Apple’s growing service sector such as Apple Music, Apple TV and Apple Arcade
+Key Qualifications
+We expect strong working experiences and knowledge about data analytics with proficient SQL language skill
+Understanding the business implication of metrics based on web/app user experience event data such as clickstream, play, commerce transactions.
+Strong sense of initiative and ability to drive projects run by multi-functional team to completion
+Excellent communication skills
+Experience with Hadoop, Spark, Hive or other big data processing technologies desired
+We would love to see programming skills in Python, R, Scala or similar languages
+Description
+We are looking for an individual with a passion for solving complex data problems with attention to detail and logical thinking skills.
+
+You will partner with data engineers and project managers to conduct deep data investigation analysis to contribute data quality innovative improvements for Apple’s growing service products. Based on investigation results and work with data scientists, you will design data pipeline important metric's so that team can monitor and detect anomalies earlier. This is a phenomenal opportunity to work on real big data with the latest technologies and contribute Apple’s data quality and privacy initiatives.
+
+We ideally want someone who can quickly understand the architecture of engineering projects and can explore produced datasets with HDFS command line tool and data querying languages such as Spark SQL.
+
+Based on the understanding of data and engineering architecture, can identify potential areas of risks that could collapse the pipeline or harm a quality of data output.
+
+Has a strong skill of engineering project management. Can facilitate of technical and business discussion to determine what is the right technical resolution to tackle business problems.
+
+Can quickly learn new data analytics tools to keep up with the rapid evolution of big data solutions - from traditional RDB languages (ex. Oracle SQL, MySQL) to the latest big data analytics languages (ex. Spark RDD & Dataframe, Python Pandas/Numpy, R), also being flexible in learning various UI based tools (Splunk, Tableau) as it’s needed.
+Education & Experience
+Bachelor or Master's degree in related field, such as Data Science, Computer Science, Statistics, Business Administration, Business Analytics, or meaningful industry experience preferred

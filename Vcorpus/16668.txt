@@ -1,0 +1,34 @@
+Posted: Apr 21, 2020
+Role Number:
+200166605
+Apple Special Projects Group is seeking software engineers to develop scalable machine learning tooling and infrastructure for autonomous systems. You will directly contribute to large, sophisticated ML systems as you develop tools to improve the scale and efficiency of machine learning development. You will work closely with specialists across high-performance computing, machine learning, and autonomous system development to identify needs and deliver new capabilities. You will share every stage of development from concept to deployment.
+
+JOB SUMMARY:
+Build and integrate end to end lifecycles of large-scale, distributed machine learning systems using the latest open source technologies
+Develop scalable tools and services for handling machine learning workflows
+Implement cloud distributed training approaches for deep learning models
+Collaborate with engineers across functions to solve complex data problems at scale
+Identify and evaluate new patterns and technologies to improve performance, maintainability and elegance of our machine learning systems
+Design software architecture and data flows for scalable machine learning development work
+Lead technical projects to completion and communicate with peers to build requirements and track progress
+Mentor engineers, both junior and senior, in your areas of expertise
+Attribute to a team culture that values effective collaboration, technical perfection, and innovation
+Key Qualifications
+Significant full-time experience building end to end data systems as a Platform Engineer, ML Engineer, or Data Engineer (or equivalent)
+Strong software engineering skills in complex multi-language systems. Fluency in Python. Experience working with cloud computing and database systems.
+Familiarity with data-oriented workflow orchestration frameworks (KubeFlow, Airflow, Conductor, Kafka, etc.)
+Experience developing with containers and Kubernetes in cloud computing environments (AWS, GCloud, Azure, etc.)
+Experience building systems with scalable data processing technologies (Spark, Nvidia CUDA, SQL, ElasticSearch, Presto, etc.)
+Exposure to machine learning methodology and top practices.
+Exposure to deep learning approaches and modeling frameworks (PyTorch, Tensorflow, etc.)
+Ability to serve as a technical lead including translating business to technical requirements, software design and execution, and clear communication with peers across functions
+Strong overall software development approach. You deliver clean, well-tested code.
+Description
+We are a team of hardworking engineers and researchers with deep experience in robotics, machine learning, and software engineering. We work on exciting new technologies and balance exploration of new problems with result-driven project planning and execution. In our daily work, the team stays effective, productive, and fun by sharing some key aspects of our demeanor:
+
+Passion for the mission: We’re here to make something extraordinary. We seek whatever work is right for the product and strive for the best possible results.
+
+Modesty: The right answer is more significant than being right. We search for solutions as a team and value clear-eyed feedback.
+Lean habits: You can’t grow without limits. Time constraints and big goals encourage us to sharpen our focus and learn to make phenomenal decisions.
+Education & Experience
+Bachelors, Masters, or PhD Degree in Computer Science/Machine Learning or equivalent professional experience.

@@ -1,0 +1,47 @@
+Are you a successful data scientist with a passion for modeling and optimization? Do you believe in harnessing big data to power insights and want to leverage your experience in a high-energy, in-house environment at one of the most successful internet companies of all time? If so then read on...
+
+Vistaprint, a growing $1B global ecommerce organization, is adding to its Marketing Measurement Analytics team.
+
+The Role
+
+Vistaprint is seeking a Data Scientist to build advanced marketing analytics solutions. The ideal candidate has worked on complex econometric analysis for an e-commerce brand and has a passion for uncovering insights. You will be responsible for helping to optimize multi-million dollar monthly marketing budgets to meet ROI goals by quantifying the impact of marketing and media activities on sales. Reporting into the Sr Director, Marketing Measurement Analytics, you’ll serve as the subject matter expert on the development of Marketing Mix Models and Multi-Touch Attribution Models (MMM/MTA). As a member of a global community of 50+ data scientists and analysts, you will collaborate cross-functionally with engineering and business teams.
+
+What You Will Do
+
+Marketing Mix Modeling: Serve as the hands-on subject matter expert on the building, implementation, interpretation, and usage of MMM. Estimate the causal impacts of marketing and non-marketing drivers on business outcomes considering multiple geographies, products, channels and audiences.
+
+Multi-Touch Attribution: Collaborate with Marketing and Engineering to onboard marketing technology platforms and utilize these platforms to analyze customers’ digital journeys and path to conversion across channels. Analyze path to conversion (identifying fractional attribution of each touchpoint in the customer journey).
+
+Collaborative Data Ingestion/Curation: Work with Engineering to ingest and curate data yielding a strong foundation for Marketing Analytics. Perform data collection, preparation, and validation necessary for model development and analysis.
+
+Provide Ongoing Insight: Integrate marketing experimentation learnings to measurement and reporting; forecast advertising impact and provide ongoing recommendations for optimization and efficiency. Conduct additional advanced statistical analyses to understand customer behavior and trends.
+
+Project Manage: Develop, communicate, and keep to timelines and deliverable schedules. Translate complex statistical output into meaningful insights and solutions as well as document, visualize and present model results, implications, and key recommendations.
+
+You Have
+
+Comprehensive understanding of statistical techniques with proven experience building Marketing Mix Models for an e-commerce brand (required); experience with Multi-Touch Attribution Models desired.
+
+Solid understanding of traditional media (TV, radio, print), digital media (search, display, social) and CRM (email, push notifications) required.
+
+Strong analytics capabilities in R, Python, and SQL with the ability to translate business objectives into actionable work (data collection, data manipulation, variable creation, and model inclusion) required.
+
+Familiarity with machine learning approaches and experience with Databricks and/or Spark desired.
+
+Experience with campaign performance evaluation, experimental design and A/B testing desired.
+
+Effective communication skills and ability to explain how your insights and recommendations are directly linked to business optimization and opportunity, including presentation of complex analytical concepts to a non-technical audience (up to senior management levels).
+
+Bachelor’s degree or above (ideally in Statistics, Mathematics, Computer Science or similar field)
+
+Let your career take off with us - apply today and get ready for the most exciting challenge of your career!
+
+Competitive compensation & full relocation assistance are provided.
+
+Cimpress N.V. (NASDAQ: CMPR) is the world leader in mass customization. For 20 years, the company has focused on developing software and manufacturing capabilities that transform traditional markets in order to make customized products accessible and affordable to everyone. Cimpress’ portfolio of brands include Vistaprint, Albelli, Drukwerkdeal, Pixartprinting and others serve many customer segments across many applications for mass customization. The company produces more than 80 million unique products a year via its network of computer integrated manufacturing facilities. To learn more, visit http://www.cimpress.com
+
+Equal Opportunity Employer
+
+Vistaprint, a Cimpress company, is an Equal Employment Opportunity Employer. All qualified candidates will receive consideration for employment without regard to race, color, sex, national or ethnic origin, nationality, age, religion, citizenship, disability, medical condition, sexual orientation, gender identity, gender presentation, legal or preferred name, marital status, pregnancy, family structure, veteran status or any other basis protected by human rights laws or regulations. This list is not exhaustive and, in fact, in many cases we strive to do more than the law requires.
+
+#LI-SC2

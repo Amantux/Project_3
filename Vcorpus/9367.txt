@@ -1,0 +1,53 @@
+ABOUT US
+
+Founded in 1955, the Albert Einstein College of Medicine (Einstein) is one of the nation’s premier institutions for medical education, basic research and clinical investigation. A full-time faculty of some 2,000 conducts research, teaches, and delivers health care in every major biomedical specialty. The college has some 730 medical students, 193 Ph.D. students, 106 MD/Ph.D. students and 275 postdoctoral fellows.
+
+Einstein’s major strength, in addition to training physicians and scientists, is its science. During fiscal year 2015, the faculty’s consistently high level of scientific achievement resulted in the awarding of more than $150 million in peer-reviewed grants from the National Institutes of Health (NIH).
+
+Einstein is part of Montefiore Medicine Academic Health System, an integrated academic delivery system comprising seven campuses, including 8 hospitals, a multi-county ambulatory network, a new state-of-the art “hospital without beds”, a skilled nursing facility, school of nursing, home health agency, and the state’s first freestanding emergency department. As the University Hospital for the Albert Einstein College of Medicine, Montefiore is a premier academic health system, employing Einstein’s clinical faculty and training Einstein’s medical students, over 1,300 residents, 420 allied health students, and 1,600 nursing students annually.
+
+We have also been recognized by Forbes as one of the country's best midsize employers in 2019. Forbes ranked Einstein in the top overall nationally among midsize employers. Einstein ranked 3rd within the education category in New York State and 9th nationally among all midsize education employers.
+
+The Albert Einstein College of Medicine is an Equal Opportunity/Affirmative Action Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, protected veteran or disabled status, or genetic information. Einstein seeks candidates whose skills, and personal and professional experience, have prepared them to contribute to our commitment to diversity and excellence, and the communities we serve.
+
+We are looking for a Data Scientist that will help us discover the insight hidden in vast amounts of clinical, biological, environmental, socio-economic, operations, and business data, and help us make smarter decisions to deliver even better health for our patients and population. Your primary focus will be in applying your mathematics and statistics skills and data mining techniques to build high quality analytics integrated with our delivery of care process and operational systems. This will include (but will not be limited to) developing big-data analytics solutions for “automated scoring using machine learning techniques”, “recommendation systems”, “improve and extend our existing platforms for machine learning and predictive modeling”, and developing “internal QA and validation procedures”.
+
+POSITION RESPONSIBILITIES
+
+Responsibilities:
+
+The Data Scientist will utilize their skills and competencies in big-data analytics and high performance computing and will collaborate with Montefiore Enterprise Data and Information Management teams to 1) build scalable, dynamic and enterprise analytics solutions for healthcare and population health management, 2) expand Montefiore data architecture with third party sources and linked open data when needed, 3) Enhancing Montefiore big-data collection procedures to include information that is relevant for building analytic systems, 4) develop automated and scalable data quality assurance processes for detecting anomalies, cleansing, and verifying the integrity of data used for analysis, 5) Move products through the full development process from research and validation through operational launch.
+
+The Data Scientist will utilize their strong statistical and mathematical background and foundational competencies and skills in big-data environments to develop accurate and scalable analytics functions and methodologies for
+
+Classification and Regression, Deep Learning, Decision Trees and Ensembles (Random Forest, XGBoost, and more), Bayes and Probabilistic classifiers and learners, Case Based Reasoning, Topological Data Analysis, Advanced Visualization, Natural Language Processing, and more.
+
+Contribute to our intellectual property portfolio
+
+Drive the rigorous data analysis effort and support group efforts toward high quality documentation.
+
+Will work routinely and extensively with data analysis packages such as Pandas and scikit-learn.
+
+QUALIFICATIONS
+
+Required Qualifications:
+
+Ph.D. in Data Science, Applied Math, Statistics, Computer Science, or other quantitative discipline
+
+Outstanding quantitative modeling and statistical analysis skills (3+ years academic and/or industry experience)
+
+Adept with at least one of the following data analysis software: Python, R, MATLAB
+
+Excellent verbal and written communication skills with the ability to effectively advocate technical solutions to research scientists, engineering teams and hospital stakeholders
+
+Preferred but not required:
+
+Experienced with the python scientific ecosystem (pandas, scikit-learn, matplotlib, numpy, scipy)
+
+Worked on software projects using a language such as Python, Java, C++, or Javascript
+
+Proficiency with databases, both distributed and single, and using a query language such as SQL, HIVE, or SPARQL
+
+Experience with distributed analytical frameworks such as Spark, H20 or Dask
+
+Experience with deep learning machine learning frameworks, like PyTorch or Keras

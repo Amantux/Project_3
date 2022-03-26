@@ -1,0 +1,16 @@
+Role: Data Engineer
+Location: San Antonio/Plano, TX
+
+Contract Position
+
+Skills required:
+Should have ETL/ELT, Snowflake, DBT (Data Build Tool) and Agile experience.
+Role:
+Collaborate with Business team to gather requirement, Identify KPI
+Convert Business requirements , KPIs to data requirement
+Design, Build, Integrate and Lead the development of ETL/ELT to load Snowflake CWH(DL3) and Subject Area Marts(DL4)
+Support Service Enablement Team for API creation by providing required details
+Perform technical code review of deliverables
+Desirable Skills:
+Good to have skills AWS Glue & S3, Kafka, Streamsets
+Diverse Lynx LLC is an Equal Employment Opportunity employer. All qualified applicants will receive due consideration for employment without any discrimination. All applicants will be evaluated solely on the basis of their ability, competence and their proven capability to perform the functions outlined in the corresponding role. We promote and support a diverse workforce across all levels in the company.

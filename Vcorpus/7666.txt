@@ -1,0 +1,43 @@
+Role:
+
+Research, design, implement and evaluate computer vision models for safety applications.
+
+Work closely with back/front end and engineering teams to drive scalable, production-ready implementations
+
+Collaborate with teams across the company and serve as an internal expert on technical issues
+
+Document technical work as part of the product development process.
+
+Support patent application publishing process
+
+Contribute to our evolving cloud infrastructure, data engineering pipeline, and analysis stack
+
+Contribute to our data strategy design and implementation
+
+Identify technical challenges, define requirements and prioritize efforts
+
+Assist with defining requirements and architectures for next-generation computer vision/ machine learning products
+
+Contribute to scientific software engineering efforts, utilizing professional coding standards and participating in reviewing PRs
+
+Contribute data enrichment and data monetization process
+
+Skills & Experience:
+
+Experience in computer vision and demonstrated ability to apply deep learning and convolutional neural network approaches for machine learning problems.
+
+Algorithms, Fundamental data types (stacks, queues, etc.), Sorting algorithms (quicksort, mergesort, etc.), Dynamic programming
+
+Proficiency with programming languages such as Python and capability in writing production level code.
+
+Experience in using Tensorflow or Pytorch or Caffe or Keras are needed.
+
+Familiarity with collaborative software engineering practices, including version control (Git), code reviews, JIRA, Confluence.
+
+Familiarity with cloud computing and developing cloud based APIs
+
+Ability to architect and implement computer vision solutions
+
+Strong foundation in machine learning, mathematics, statistics, with demonstrated professional or academic experience
+
+PhD in Computer Science, Engineering, Computational Physics OR Master's degree (related degree above) and +2 years relevant work experience.

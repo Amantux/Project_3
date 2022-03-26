@@ -1,0 +1,32 @@
+The Opportunity:
+As a member of our Research Team, you will solve real-world problems through a process of prototyping, implementation, measurement, and iteration. You'll determine why the latest academic ideas don't work and invent solutions that do. You'll work closely with members of our Applied Machine Learning team to improve models and bring products to market based on your research. 
+ You help us kick off work in new domains for Clarifai or add new capabilities to existing product lines. We will look to you to apply your past hands-on experience with deep learning. You will continue to learn about advances in the field by reading papers and perhaps attending conferences. Your work and knowledge about the field will directly impact Clarifai's product roadmap. 
+ Important for the job is the ability to work in different modes: skilled in rapid prototyping and quick experimentation ability to write code that others can understand, adopt, and extend 
+ Research scientists are expected to follow the best engineering practices as appropriate for the stage of work, such as tracking work in source control, giving and receiving code reviews, writing tests for your code. 
+ We are looking for someone motivated by having their ideas and creations out in the world in the hands of users and who shares our excitement about the potential of machine learning to positively transform our world. We value a collaborative, inclusive environment and seek those who are skilled at sharing knowledge inside and outside of Clarifai. 
+ Impact:As one of Clarifai's Senior Research Scientists, you will have an impact within the developer community, machine learning field, and on Clarifai's business by using state-of-the-art machine learning tools, assisting with our innovation engine, and transferring your deep learning knowledge to others at Clarifai. 
+ What You Bring:3+ years of hands-on experience crafting and experimenting with neural networks, machine learning techniques, and computer vision Must be eligible to secret or top-secret security clearance  Experience with multiple imaging modalities Fluent with using a neural network framework such as TensorFlow, Keras, Caffe, Torch, or Theano and understanding how back-propagation works Fluent with Python, as well as experience with packages such as NumPy, pandas, and PyCUDA. Experience with CUDA, search infrastructure, or GO language are a bonus Ph.D. in Computer Science or any related field NOTE: This is a full-time permanent position. 
+ Great to Have: Experience with government contracts Security clearance/eligibility for security clearance Published Research papers/patents 
+ Objectives:In your first month, you will start off by learning the ropes. You will... ramp up on our deep learning framework and tech stack and be able to train, and evaluate models implement a model based on a published network architecture in a familiar application domain learn the role of research in Clarifai’s current products and road map 
+ Within 3 months, you will... develop a new model or improve an existing one collaborate with data scientists or machine learning engineers to move research into production 
+ 6 months later, you will... work on multiple projects at a time, some in collaboration with other engineering teams supply improvements to models that are in production and in use by customers lead and contribute to research in new or unfamiliar application domains 
+ After a year, you will also... lead research efforts on rare and open problems that we don’t have good existing solutions for today identify new application domains and learning approaches that will be the next phenomenal offerings from Clarifai represent Clarifai’s research efforts outside of the company and actively pursue speaking opportunities at industry conferences, events, and meet-ups mentor and advise engineers and more junior researchers inside and possibly outside Clarifai
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Arlington, VA 22201 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         7484_1428597824

@@ -1,0 +1,3 @@
+"0","url.data <- ""https://raw.githubusercontent.com/jamhall/programming-languages-csv/master/languages.csv"""
+"0","raw <- read.csv(url(url.data), header = TRUE,)"
+"0","programming_list <- tolower(raw$name)"

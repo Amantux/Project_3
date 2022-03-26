@@ -1,0 +1,55 @@
+PrimeStreet, a division of Dominion Enterprises, is looking for an Experienced Data Scientist to join one of the fastest growing companies in Coastal Virginia. In the past year, PrimeStreet has grown over 500%. Our growth is enabled by our culture, which encourages individual development, embraces an inclusive environment, rewards innovative excellence, and supports our community. PrimeStreet is independently owned by Dominion Enterprises, a company with a rich heritage and a bold entrepreneurial mission.
+
+The ideal candidate has a depth of experience in productionizing solutions to address business problems. The Experienced Data Scientist will serve as a leader on the data science team and report directly to the Director of Data Science.
+
+Responsibilities:
+
+Collaborate with Sales, Strategy, Finance, Technology, and Business Development teams to develop new information services and to identify opportunities to leverage available data and new data sources to solve challenges associated with a growing company.
+
+Extract, integrate, and analyze data from heterogeneous mix of data sources to create insights and recommendations to internal stakeholders.
+
+Create tools to improve access and confidence in data so that internal users can make data-driven decisions.
+
+Use statistical and machine learning modeling (off-the-shelf and custom data models and algorithms) to improve business performance (improved customer satisfaction, increased operational efficiency, improved revenue generation, and other business outcomes).
+
+Deploy data science products to production environments.
+
+Develop processes and tools to monitor and analyze model performance and data quality.
+
+Design and deploy A/B tests and frameworks to test model quality
+
+Perform ad hoc analysis.
+
+Qualifications:
+
+Proficient in using data science tools: Python (scikit-learn), R, Java, MLlib, Apache Spark, AWS Sagemaker
+
+Knowledge and experience in statistical and data mining techniques including model evaluation/validation: clustering, GLM/regression, random forest, classification, text mining, etc.
+
+Experienced in designing, accessing, and maintaining data stores: RDBMS, NoSQL, APIs, AWS Webservices: S3, Batch, Lambda, Redshift, etc.
+
+Proficiency using GitHub, Docker, Luigi/Airflow, Jenkins, (other DevOps tools)
+
+Proven experience deploying machine learning algorithms to production as a Data Scientist, Machine Learning Engineer, or similar role
+
+Enthusiasm for big data, machine learning, statistics and translating data into actionable insights and demonstrable experience with big data technologies
+
+Experience writing high-quality and scalable code and integrating with version control systems
+
+Experience building complex analytical models and presenting results to stakeholders
+
+Ability to work in a complex, fast-paced environment while maintaining a high degree of accuracy and professionalism
+
+Excellent interpersonal, verbal and written communication skills
+
+Agile project development experience is a plus
+
+Experience leading data science and machine learning projects
+
+BS (required, 7+ years of experience) or Master’s degree (preferred, 5+ years of experience) in mathematics, statistics, data science, operations research, or a related field. Work experience
+
+About DE
+
+Dominion Enterprises (DE) is a leading digital marketing and software services company offering client solutions across multiple business verticals. Our customers rely on our B2B cloud SaaS solutions to establish their online and mobile brands, generate leads, and manage customer relationships through our Homes.com, Dominion Dealer Solutions, Dominion Business Solutions / DX1, Travel Media and Franchise and Business Opportunity divisions. Our B2C web and mobile applications include Homes.com, HotelCoupons.com, FranchiseOpportunities.com, FranchiseGator.com, Franchise.com, and BusinessBroker.net.
+
+About 2,000 employees reside and work in our Norfolk, VA home office and in offices across the U.S.Â Our employees will tell you about our collaborative, innovative, team-oriented work environment, excellent career enrichment opportunities, community service opportunities, competitive earnings, and a comprehensive benefits package that includes a generous 401(k). DE is an equal opportunity employer and supports a diverse workforce. DE is a drug-testing employer.

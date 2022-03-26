@@ -1,0 +1,22 @@
+The Job Details are as follows:
+
+OVERVIEW
+
+We are looking for creative and enthusiastic Data Engineers to join our team in building the best Data Platform on the street and enabling our investment teams to monetize data assets. We treat our data systems as software systems and engineer them accordingly. In your role, you will:
+Develop cloud-first data ingestion processes using Python, SQL, and Spark
+Engineer data models and infrastructure for a wide variety of market and alternative datasets
+Design and build services and plugins to enhance our Data Acquisition Platform
+Maintain alerting systems to ensure smooth day-to-day operations for hundreds of datasets
+Author tests to validate data quality and the stability of the platform
+Investigate and defuse time-sensitive data incidents
+Communicate with data providers to onboard new datasets and troubleshoot technical issues
+Evangelize best practices to our partners throughout the firm
+Work directly with Analysts, Quants, and Portfolio Managers to understand requirements and provide end-to-end data solutions
+WHAT YOU’LL BRING
+Bachelors/Masters degree in Computer Science or a related field
+3+ years experience with at least one of Spark, Airflow, data warehousing
+Strong analytical, data and programming skills (Python/SQL/NoSQL/Spark)
+Ability to understand and contribute to our existing data system software
+Experience containerizing workloads with Docker (Kubernetes a plus)
+Aptitude for designing infrastructure, data products, and tools for Data Scientists a plus
+Strong oral and written communication skills, most importantly, must be a team player

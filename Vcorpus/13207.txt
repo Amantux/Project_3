@@ -1,0 +1,19 @@
+As a Data Engineer at BitMEX, you will build and maintain software services that power the internal Bitmex data platform and products. There is a large volume of data being produced within Bitmex and externally. While the current platform does a good enough job of capturing and making internal data available, there is a lot of opportunity to add value than just providing raw data to internal stakeholders. Very little has been done in the way of automating aggregations and analyses that are regularly performed by the Data analytics team and others around the company.
+
+In addition, there is an opportunity to augment our internal data with external sources via publicly available sources, paid subscriptions, and partnerships. There have also been conversations around building a data products platform that could service both internal teams and external customers. Building out this set of services will be a significant engineering effort and require additional headcount.
+
+Finally, there is only one data engineer on the team. In addition to the projects that we would like to accomplish this year and beyond, having redundancy on the team is critical to ensure data services continue to run smoothly.
+
+Responsibilities
+Build out data pipelines that are secure, scalable and reliable. These will include pipelines for both internal and external data sources.
+Contribute to the design and implementation of the data warehouse and data lake
+Build/Maintain tools that allow users to self serve for access to data.
+Work with the team to identify and implement a workflow management framework to deliver data pipelines (i.e. Airflow, Dagster, etc)
+Qualifications
+3+ years of data engineering experience
+Experience writing ETLs with Python
+Worked with batch computing frameworks (i.e. Spark) and workflow managers (Airflow)
+Strong engineering background in data infrastructure, and experience working in large open source projects such as Apache Spark.
+Experience designing and implementing data models to store large volumes of data
+Previous experience developing data pipelines on Kubernetes
+Experience implementing resilient services to ingest data from third parties

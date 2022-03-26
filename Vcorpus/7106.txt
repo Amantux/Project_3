@@ -1,0 +1,46 @@
+Data Scientist (Neurobiology) - NIH - Bethesda, MD 
+Kelly Government Solutions is a strategic supplier and business partner to the federal government and its key suppliers.  Through our partnership with the National Institutes of Health, Kelly Government Solutions offers administrative, IT, engineering, scientific, and healthcare professionals the opportunity to work with one of the most prestigious research organizations in the world.  We are currently seeking a  Data Scientist  to work onsite with the National Institutes of Health in  Bethesda, MD.  
+For this position, we are seeking an individual who is eager to work at the interface of data science and neurobiological research. Capitalizing on recent advances in imaging-related technologies, NIMH researchers are analyzing brain circuits in large 3-dimensional volumes, including entire brains, at the level of individual neurons. Measuring patterns of neuronal activity and gene expression at the single cell level in such large volumes generates complex, multichannel datasets that can exceed 2 TB per experiment. Extracting information from these large datasets presents analytical challenges at multiple levels and requires adapting and optimizing methods for data handling (e.g. merging multiple views, spectral unmixing, spatial deconvolution, and segmentation) and analysis (e.g. correlation and cluster analysis, pattern recognition, etc.). In addition, correlating brain circuit activity with complex patterns of behavior, requires methods for automating behavioral characterization such as machine learning. If you meet the requirements listed below and are passionate about applying the techniques of big data to push science forward, please apply below. 
+ OVERVIEW.  This is a long-term, open-ended contract position which offers:  
+Competitive salary with a comprehensive benefits package. 
+Tremendous room for personal growth and career development. 
+Opportunity to work at the National Institutes of Health (NIH), the world's foremost medical research center.  
+  
+ TASKS/SERVICES.  The contractor shall:  
+Work closely with neuroscientists to develop, write, and optimize programs for image and behavioral analysis. 
+Assist scientists in performing analyses of imaging data on local High Performance Compute cluster ( http://hpc.nih.gov )  
+  
+ REQUIREMENTS.  The contractor must have:  
+Bachelor’s or more advanced degree in a science/engineering discipline or equivalent experience. 
+Experience with programming languages such as Matlab, Python, Java or C++. 
+Familiarity with Linux and Windows Server operating systems and shell scripting. 
+Experience with software for image or signal processing or related scientific research tools. 
+Strong communications skills, both oral and written. 
+Excellent analytical, organizational and time management skills. 
+Knowledge or experience with machine learning would be advantageous  
+
+
+ 
+AboutKelly Services ®   
+
+As a workforce advocate for over 70 years, we are proud to have a role in managing employment opportunities for more than one million workers around the globe. We employ 550,000 of these individuals directly with the remaining workers engaged through our talent supply chain network of supplier partners. Revenue in 2015 was $5.5 billion. Visit   kellyservices.com   and connect with us on   Facebook  ,   LinkedIn   and   Twitter  .  
+Kelly Services is an equal opportunity employer including, but not limited to, Minorities, Females, Individuals with Disabilities, Protected Veterans, Sexual Orientation, Gender Identity and is committed to employing a diverse workforce.   Equal Employment Opportunity is The Law.   
+
+Job Summary
+
+                             
+                     
+                         Location 
+                             Bethesda, MD 
+                     
+                 
+                             
+                     
+                         Posted 
+                         5 Days ago 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         KOCGUS84858

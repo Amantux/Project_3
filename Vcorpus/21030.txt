@@ -1,0 +1,18 @@
+The data integration analyst will be responsible for planning and coordinating the integration of client data into the Apptricity mobile and web-based applications. Tasks will include but are not limited to: collecting, analyzing, transforming and loading data from multiple information lanes into one or more databases; verifying and maintaining the integrity of the data, the databases, and associated database functions; coordinating the extraction of data to support specific project needs. The successful candidate must be able to work with developers and data scientists to recommend system updates as well as new solutions, and must be able to communicate effectively with client teams to ensure the completeness and accuracy of the data stored in and retrieved from client databases. Must be able to play a critical role on the team by acting as a SME (subject-matter-expert) and Go-To person to support business clients, internal team members, and application development teams.
+
+Essential Duties and Responsibilities
+Collects, analyzes, transforms, and loads scientific data into a database using SQL, Excel, and other programs and/or ETL tools
+Prepares reports by analyzing and interpreting data
+Works continuously with developers and clients to ensures the integrity of all incoming data and stored data
+Interacts directly with clients and team members to determine data-related requirements and develops and implements effective data management strategies to meet these needs
+Regularly monitors and evaluates information and data systems that could affect analytical results
+Works with clients and Apptricity team members to gather requirements and suggest solutions for new database or database tool development efforts or upgrades to existing systems, and works with developers and data analysts to implement solutions
+Required Knowledge, Skills, and Abilities
+Experience in data management and analysis
+Ability to decipher and organize large amounts of data from disparate sources
+Experience in methodologies and processes for managing Relational Database Management Systems (SQL Server, Oracle, or Access)
+Ability to analyze existing tools and database systems and provide software solution recommendations
+Ability to develop and communicate solutions to complex problems clearly and in nontechnical terms
+Ability to manage multiple deadlines
+Experience with data analysis tools (e.g., R, Python) preferred
+Scientific background in chemistry, biology or related field preferred

@@ -1,0 +1,61 @@
+Consider solving for large scale supply chain problems in ever changing and rapidly growing cloud environment. Consider working in a fast-paced infrastructure capacity planning team driving process and modeling innovations that span the entire infrastructure planning lifecycle - capacity experience, flow path modeling, inventory modeling, risk modeling and simulations. What do you have? - In a nutshell, you have the best Operations Research role bar none.
+
+We are part of Microsoft Capacity Customer Experience (CCE) team and our vision is to deliver the best capacity customer experience by intelligent and proactive management of all Microsoft cloud capacity.
+
+You will be responsible for coming up with creative capacity experience strategies to optimize capacity to provide the best experience for our customers at the lowest cost. This position will focus on identifying, building and analyzing opportunities to improve inventory models, postponement strategies, capacity availability and assurance models, risk models and simulation methods in order to improve prediction of short and long-term capacity planning needs. The successful candidate will be a person who enjoys and excels at diving into data to analyze root causes and implementing long term solutions in systems or processes. This position offers opportunity for immediate impact through model updates in our systems and creation of effective metrics and functionality.
+
+The successful candidate will be an industry leading, hands-on senior Data scientist/Operations Research practitioner with a proven history of driving critical research and operationalizing cutting edge thinking to realize opportunity. The qualified candidate will have experience implementing numerical optimization methods designed for inventory and supply-chain network optimization.
+
+Responsibilities
+
+Some of the key job responsibilities:
+
+Own the strategic planning and research initiatives involved with capacity experience modeling, risk modeling and process improvement and sizing up opportunities from new initiatives. Build prototypes to demonstrate the benefits from proposed changes to the decision systems and operational processes.
+
+Partner closely with business and engineering groups. Provide analysis using mathematical modeling tools to benchmark existing operations/processes as well as to identify opportunities for improvement. Work closely with engineering teams in enhancing the prototypes and implementing them in our production environment.
+
+Effectively communicate with senior management as well as with colleagues from computer science, operations research and business backgrounds.
+
+Qualifications
+
+Basic Qualifications:
+
+4 years’ experience working with real world supply chain problems
+
+Bachelors degree in Operations Research, Statistics, Applied Mathematics, Computer Science, Industrial Engineering, or related area
+
+Solid knowledge in inventory planning, network modeling, and mathematical optimization such as linear/nonlinear programming and mixed-integer programming
+
+Rich experience to analyze large-scale data by writing SQL queries and scripts (Python, Perl, Ruby, etc.) and the strong ability to conduct statistical analysis, modeling, and prediction
+
+Gathering requirements from business users, translating to functional requirements, and coordinating work between technical and business teams
+
+Business knowledge to be able to make trade-offs between profitability and relevance
+
+Preferred Qualifications:
+
+PhD degree in Operations Research, Statistics, Applied Mathematics, Computer Science, Engineering, or related areas
+
+Knowledge in the following: theories of optimization including linear programming, mixed-integer programming and network modeling.
+
+Publications (or acceptance) in refereed academic journals and invited presentations at preeminent technical conferences in the field.
+
+Experience communicating with both technical and business people. Ability to speak at a level appropriate for the audience. Experience applying these skills in both academic teaching environment and a business setting is a plus.
+
+Demonstrate ability in delivering business value by implementing the optimization models while integrating with IT systems
+
+Experience designing and implementing optimization models for inventory, network design and other characteristics of supply-chain (e.g., staff scheduling, vehicle routing, and facility location). Experience with leveraging such models to provide guidance for strategic and tactical business decision making.
+
+Experience implementing models and analysis tools through the use of high-level modeling languages (e.g. R, Matlab, Cplex).
+
+Experience prototyping and developing software in traditional programming languages (C++/ Java/ Python/Perl ) a plus.
+
+Proficient with SQL and experience with very large-scale data. The ability to manipulate data by writing scripts (Perl, Ruby etc.).
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings:
+
+Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud Background Check every two years.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.

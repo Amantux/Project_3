@@ -1,0 +1,31 @@
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.The Ads Ranking has a mission to make every ad impression meaningful for the 1.5+ billions of people on Facebook each day. The team uses cutting-edge ML algorithms that allows us to use our deep understanding of the users to improve the relevance and quality of advertising at a global scale and is at the heart of the Facebook ads system.We are looking for a Data Scientist who can work closely with Engineering and Product leads, drive the modeling and product strategy to make the company level impact.
+
+Responsibilities:
+
+Build long term vision and scope out the area for the team
+Understand the complex E2E recommendation system and identify the bottlenecks and opportunities
+Identify the gaps and develop the solutions in Machine Learning stack
+Build and validate the hypothesis of modeling product ideas
+Leverage data to inform the right business decision, such as designing how to evaluate model updates and whether they should be launched
+Understand model stability and sources of volatility
+Design and implement data-driven systems to increase the value of modeling, labeling, signal development, ranking and efficiency for all Ads Ranking teams
+Drive understanding and strategy for data and features in Ads systems
+Mininum Qualifications:
+
+BS, MS or PhD Degree in Statistics, Computer Science, Econometrics, or similar domain
+5+ years of experience working in an analytics organization
+Genuine interest in going into the data to build theory and tell story from it
+Proven Machine Learning sense and statistical knowledge
+Experience working independently and as a member of a cross-functional team
+Experience in querying and manipulating large datasets for analysis
+Python and SQL experience
+Experience answering big picture questions by framing the business question into an analytical plan and communicate to stakeholders
+Strategic thinking and can drive the direction of the team
+Preferred Qualifications:
+
+Ads/Advertiser experience
+Experience with large scale Machine Learning systems such as search/recommendation
+Experience in leading large projects
+Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.
+
+Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.

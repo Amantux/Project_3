@@ -1,0 +1,39 @@
+Grubhub is dedicated to connecting hungry diners with our wide network of restaurants across the country. Our innovative technology, easy-to-use platforms and streamlined delivery capabilities make us an industry leader today, and in the future of online food ordering.
+We strive to create a workplace that reflects the diversity of our customers and the communities we serve. When you join our team, you become part of a community that works together to innovate, solve problems, take risks, grow, work hard and have a ton of fun in the process!
+Why Work For Us
+We have a fast-paced environment and that is what our teams thrive on. Grubhub believes in empowering people and offering opportunities for development, as well as professional growth. We value strong, positive relationships in all areas: with each other, our customers and our greater community. Want to be a part of a team of diverse collaborators in an authentically fun culture? If so, we want to talk to you - and hear what’s your favorite restaurant for food delivery!
+More About the Role
+Data Engineer will be responsible for building efficient data pipelines that transform raw data into a format usable by downstream applications that serve both analytical and operational use cases.
+
+This Data Engineer will be working closely with business stakeholders, product managers and engineering teams to meet data requirements of various initiatives in Grubhub.
+
+Working with high volumes of data to efficiently process and expose for analysis
+Collaborating with other engineering teams on strategies for data
+Work with cutting edge data processing technologies
+Understand our stakeholder (Finance, Marketing, Product) requirements and write complex and efficient code to transform raw data into an easy to approach data marts.
+Doing deep dives on business verticals where you become one of the foremost experts on that vertical in the company
+Analyze data to measure impacts of data schemas and use it to iterate on improvements
+Translate from technical to business, and vice versa. You need to be able to speak with the least technically-minded client (internal or external) and make technology make sense to them. Then turn around and do it the other way
+
+Excellent knowledge on SQL, data modelling and patterns.
+5-7 years experience with Python or another general purpose programming language
+Background in writing ETL jobs within a Business Intelligence context
+A bachelor's degree, preferably in a computer-related discipline.
+Enthusiasm for the job. Are you excited about data? Do you love your users? Good, the same goes for us
+Got These? Even Better:
+Experience big data processing with Spark and other big data tools a plus
+Excellent communication skills, including the ability to crystallize and broadly socialize insights
+Problem analysis and problem-solving skills
+Rigorous attention to detail and accuracy
+Exposure to Amazon AWS or another cloud provider
+Adaptability and collaborative skills
+
+Flexible PTO. Grubhub employees are provided a generous amount of time to recharge their batteries.
+Health and Wellness. We provide programs that support your overall well-being such as generous medical benefits, employee network groups, company-wide fitness challenges, and a comfortable and casual workplace! We also support our parents by offering 8 weeks of paid parent bonding time, a 4-week returnship program, and 6-8 weeks paid medical leave.
+Learning and Career Growth. Your personal and professional development is a priority at Grubhub. From day one, we empower you to lead and be an active participant in your career growth. We provide continuous learning opportunities, training, and coaching and mentorship programs.
+MealPerks. Who’s ready for some lunch? We provide our employees with a weekly Grubhub credit to enjoy and support local restaurants. We also offer company-wide meals several times a year to bring our Grubhub family together.
+Fun. Every Grubhub office has an employee-led Culture Crew that connects people through fun, meaningful events and initiatives. Some of our popular past events include: Wing-eating contests, Grubtoberfest, 5k Runs, Bring Your Child to Work Day, regular happy hours, and more!
+Social Impact. We believe in the importance of serving the communities that support our business. In addition, employees are given paid time off each year to support the causes that are important to them.
+
+Grubhub is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics. The EEO is the Law poster is available here: DOL Poster. If you are applying for a job in the U.S. and need a reasonable accommodation for any part of the employment process, please send an e-mail to TalentAcquisition@grubhub.com and let us know the nature of your request and contact information. Please note that only those inquiries concerning a request for reasonable accommodation will be responded to from this email address.
+CA Privacy Notice: If you are a resident of the State of California and would like a copy of our CA privacy notice, please email privacy@grubhub.com.

@@ -1,0 +1,30 @@
+Data Engineer (Python)
+
+The Fixed Income & Commodities Data team is looking for a Data Engineer that will work on the acquisition, accessibility, normalizing, and cataloging of large sets of data.
+
+Responsibilities:
+Create and maintain optimal data pipeline architecture.
+Extraction, transformation, and loading of data from a wide variety of data sources using Python, SQL and AWS technologies.
+Providing users access to datasets using REST and Python APIs
+Categorizing, cataloging, cleansing and normalizing of datasets
+Communicating with business users and technology stakeholders.
+Required skills/experience:
+Python and data analysis libraries (Pandas, NumPy, SciPy)
+Relational SQL database development
+Unix/Linux command-line experience
+3+ years experience with Masters or 5+ years with Bachelors degree in Computer Science, Statistics, Informatics, Information Systems or another quantitative field.
+Desirable skills/experience:
+Object-oriented languages: Java, C++, etc.
+AWS cloud services: EC2, EMR, RDS, Redshift, Athena, Lambda, etc.
+RDBMS: SQL Server and PostgreSQL
+Big data tools: Hadoop, Spark, Presto, Kafka, etc.
+Other: Elastic stack, RESTful APIs, Node.js
+Broad understanding of fixed income, derivatives, futures, FX, or other financial-services instruments
+Other Qualifications:
+Excellent listening, and communication (both oral and written) skills.
+Self-starter and critical thinker, takes ownership of own projects and makes improvement suggestions for the entire infrastructure.
+Proactive, assertive and attentive to details.
+Can work independently and in a collaborative environment.
+Can handle several projects with different priorities at the same time in a fast-paced environment.
+Excellent self-management and problem-solving skills.
+Quick learner

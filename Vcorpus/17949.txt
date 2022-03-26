@@ -1,0 +1,43 @@
+COMPANY OVERVIEW
+
+
+Recently named one of Entrepreneur magazine's Top 100 Cannabis Leaders, Cresco Labs is one of the largest vertically-integrated multi-state cannabis operators in the United States. Cresco is built to become the most important company in the cannabis industry by combining the most strategic geographic footprint with one of the leading distribution platforms in North America. Employing a consumer-packaged goods ("CPG") approach to cannabis, Cresco's house of brands is designed to meet the needs of all consumer segments and includes some of the most recognized and trusted national brands including Cresco, Remedi and Mindy's, a line of edibles created by James Beard Award-winning chef Mindy Segal. Sunnyside*, Cresco's national dispensary brand is a wellness-focused retailer designed to build trust, education and convenience for both existing and new cannabis consumers. Recognizing that the cannabis industry is poised to become one of the leading job creators in the country, Cresco has launched the industry's first national comprehensive Social Equity and Educational Development (SEED) initiative designed to ensure that all members of society have the skills, knowledge and opportunity to work in and own businesses in the cannabis industry.
+
+MISSION STATEMENT
+
+
+At Cresco, we aim to lead the nation's cannabis industry with a focus on regulatory compliance, product consistency, and customer satisfaction. Our operations bring legitimacy to the cannabis industry by acting with the highest level of integrity, strictly adhering to regulations, and promoting the clinical efficacy of cannabis. As Cresco grows, we will operate with the same level of professionalism and precision in each new market we move in to.
+
+JOB SUMMARY
+
+We build a scalable data platform that transforms data from various point of sale, accounting, ecommerce, and marketing systems into our data warehouse in snowflake. This system drives major marketing, sales, and business-related decisions for the larger organization. It is used daily by the Data Analytics team to deliver insights to the business.
+
+Our team of engineers is friendly, curious, driven, and highly collaborative. We support one another and regularly hold code reviews to facilitate learning and reduce friction during our releases. We strive for clean and readable code. Our engineers also work closely with other teams in the company, including data analytics, finance, and marketing.
+
+CORE JOB DUTIES
+Process data from many disparate systems depositing them into our snowflake data warehouse as the backbone for our analytical systems.
+Use fivetran to oversee the current ELT process
+Hands-on senior developer to design, develop and test our data platform and continuously improve the performance, availability and scalability of our products.
+Building and maintaining a scalable data platform which processes and transforms data.
+You have a strong sense of ownership which drives you to find ways to do things better, faster, and cheaper
+You look to find new and innovative ways to solve complex problems through rigorous experimentation
+You are open and transparent and work in tight collaboration with other teams at Cresco Labs
+Open to tasks beyond data engineering, for example, there will be occasional 2nd level support for our processes on a rotational basis
+REQUIRED EXPERIENCE, EDUCATION AND SKILLS
+Experience building both ETL based data pipelines, and ELT data pipelines
+Design and implement database and storage solutions that fits reporting needs
+Experience with distributed data storage systems/formats using parallel processes and/or columnar data stores such as Snowflake, or Redshift
+Experience maintaining a snowflake data warehouse
+Experience with Postgres
+Experience with S3
+Expert SQL knowledge is required
+Have worked with a major cloud provider such as AWS or Google Cloud
+Knowledge in data modeling, data access, and data storage techniques for big data platforms
+Exposure to Continuous Integration/Continuous Deployment & Test Driven Development preferred
+Bonus points for Machine Learning experience
+Bonus points for Unix/Linux experience
+Bonus points for Fivetran experience
+ADDITIONAL REQUIREMENTS
+Must be 21 years of age or older to apply
+Must comply with all legal or company regulations for working in the industry
+Cresco Labs is an Equal Opportunity Employer and all applicants will be considered without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran, or disability status.

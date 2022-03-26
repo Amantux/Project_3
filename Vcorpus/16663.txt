@@ -1,0 +1,31 @@
+We are EA
+
+And we make games how cool is that? In fact, we entertain millions of people across the globe with the most amazing and immersive interactive software in the industry. But making games is challenging work. Thats why we employ the most creative, passionate people in the industry.
+
+About the Role
+
+The Lead Data Scientist is an important position in our Data Science team within the EA Studios organization at Electronic Arts, tasked with driving excellence and pushing innovation across EA. You will use your expertise in applied machine learning and artificial intelligence to guide essential decisions in a cross-functional environment. Our lead data scientist will directly help our games by developing complex and scalable data products.
+
+As a technical lead, you will have opportunities for project management and mentoring of junior data scientists. The lead data scientist will work with producers across different game studios identifying new business opportunities, developing advanced customized algorithms to answer said questions, and conducting experiments to validate assumptions about said algorithms.
+
+Come use your data superpowers for good and join us!
+
+Responsibilities
+Develop meaningful relationships with partners throughout the studio organization to identify new opportunities for the team, both in addressing partners different pain points and proposing machine-learning-aided innovations to player experience.
+Research and build impactful data products that improve player experiences, driving them from conception, to experimentation, to productionization in-game.
+Contribute to the architecture and development of model deployment platforms, in particular providing guidance on automated model re-training, online training, scalability, failure recovery, updates with minimal downtime, model/pipeline versioning, performance monitoring.
+Stay up-to-date on latest developments in machine learning best practices, technologies, and research so as to expand the range of opportunities the team can handle.
+Guide technical projects and provide leadership through collaboration with game producers and central tech engineers.
+Technical Qualifications
+A PhD in Computer Science, Machine Learning, Artificial Intelligence, Statistics, or related quantitative field
+5+ years of experience applying data science/machine learning/deep learning methodologies to real-world problems
+Expertise in analyzing extremely large, complex, multi-dimensional data sets with a variety of tools, including Python, SQL, and Spark. Experience with big data technologies, distributed data query and computing engine.
+Programming experience in a system programming language such as C/C++ or Java.
+Familiarity with at least one scripting language: R, Python, or Scala
+Experience deploying machine learning systems using AWS, GCP, Virtual Machines, or Docker. Experience developing customizable, modular, and scalable deep learning algorithms in Keras/Pytorch/Tensorflow
+Research and design creative approaches to ambiguous problems, aiding in the implementation and scaling of these cutting edge systems
+Good tracking record on collaborating with business and engineering team on long-term projects, pushing excellence in the rest of the data science organization
+Personality Traits
+Hypothesis driven uses data to test ideas rigorously and objectively
+Willing to teach and mentor colleagues
+Eager to stay on the cutting edge of methodologies and technologies

@@ -1,0 +1,109 @@
+Duties
+
+Summary
+
+JOB DESCRIPTION: Data Scientists develop and apply methods to identify, collect, process, and analyze large volumes of data to build and enhance products, processes, and systems. They conduct data mining and retrieval, and apply statistical and mathematical analyses to identify trends, solve analytical problems, optimize performance, and gather intelligence. They visualize information using a range of tools (e.g.,
+
+Responsibilities
+
+ADDITIONAL INFORMATION: The National Geospatial-Intelligence Agency (NGA) serves as the world leader in providing timely, relevant, accurate and actionable geospatial intelligence (GEOINT). NGA's civilian, military and contract personnel evaluate imagery, maps, charts, multiple layers of foundation data - such as terrain, elevation and gravity - and the full spectrum of visible and invisible light in order to help users visualize what is happening at a particular place and time. Our intelligence officers go beyond describing 'what, where and when' to revealing 'how and why.' Our work enables decision advantage for our policymakers, warfighters, intelligence professionals and first responders. Data Scientists apply the application of programming, statistics and visualization to glean insights from large and disparate data sources. Data Scientists understand and utilize aspects of machine learning to solve and automate classification, regression, cluster analysis, anomaly detection, association discovery, and topic modeling tasks. Data Scientists understand and utilize solutions with predictive patterns from data into practical, intelligent applications that anyone can use. They can utilize rich toolsets to help users create, rapidly experiment, fully automate, and manage machine learning workflows to power intelligent applications. They produce intelligence using geospatial methodologies and spatio-temporal data derived from imagery, intelligence databases, and other classified and unclassified sources in support of national security. They are intelligence analysts who use their understanding of geographic information science and technology, spatial thinking, remote sensing, intelligence issues, spatial relationships and visualization techniques and the social and physical sciences to create information, characterize events, and discover relationships and trends. They produce descriptive and predictive analyses and communicate findings as written, visual, and/or oral geospatial intelligence. Other duties may include: * Develop and apply quantitative and qualitative analytic methods to identify, collect, process, and analyze large data sets for specified purposes; * Identify trends, solves analytical problems, optimizes performance, and develop results through appropriate data analysis techniques (e.g., data mining and retrieval); * Use applied statistics, build algorithms, and collaborating with domain experts to analyze large volumes of data to build and enhance products, processes, and systems * Possess the ability to think tactically and strategically; operate in a dynamic environment; and deliver interoperable corporate solutions. * They will have extensive experience in building and maintaining geodatabases and integrating and managing foundation, intelligence, and multi-INT data into structured geodatabases. * Seek out spatial data from classified and unclassified sources and utilize existing tools or develop methods to tie spatial information to datasets where necessary. * Builds and maintains professional relationships with other NGA offices and external partners to collaborate on effective data management, data dissemination, and online on-demand practices * Conduct data mining and retrieval and apply statistical and mathematical analysis to identify trends, solve analytic problems, optimize performance, and gather intelligence. * Develop scripts and algorithms (e.g. Python), create explanatory and predictive models and conduct comparative analyses to address complex military and intelligence problems. * Support the visualization of information using a range of tools (e.g. Tableau, R, and ESRI Arc-GIS 10.4 suite, including model builder). * Provide excellent customer support and interact with analytic units in a professional manner to help understand their challenges, incorporate their feedback, and provide quality solutions. This position is eligible for a RECRUITMENT INCENTIVE: The selected candidates may be offered a recruitment incentive as part of the offer of employment, based on budget availability. To receive the incentive, the selected candidate must sign a service agreement for up to 2 years depending on the approved amount of the incentive. If the employee leaves before the end of the service agreement, the employee may be required to repay a pro rata share amount of the incentive to the government.
+
+Travel Required
+
+25% or less - Travel Required 25% or Less
+
+Supervisory status
+
+No
+
+Promotion Potential
+
+3
+
+Job family (Series)
+
+1530 Statistics
+
+Requirements
+
+Requirements
+
+Conditions of Employment
+
+US Citizenship is required.
+
+Designated or Random Drug Testing required.
+
+Security Investigation
+
+SPECIAL INFO:
+
+As a condition of employment at NGA, persons being considered for employment must meet NGA fitness for employment standards.
+
+U.S. Citizenship Required
+
+Security Clearance (Top Secret/Sensitive Compartmented Information)
+
+Polygraph Test Required
+
+Position Subject to Drug Testing
+
+Two Year Probationary Period
+
+Direct Deposit Required
+
+SPECIAL REQUIREMENTS:
+
+You must be able to obtain and retain a Top Secret security clearance with access to Sensitive Compartmented Information. In addition, you are subject to a Counterintelligence Polygraph examination in order to maintain access to Top Secret information. All employees are subject to a periodic examination on a random basis in order to determine continued eligibility. Refusal to take the examination may result in denial of access to Top Secret information, SAP, and/or unescorted access to SCIFs.
+
+Employees with SCI access and who are under NGA cognizance are required to submit a Security Financial Disclosure Report, SF-714, on an annual basis in order to determine continued eligibility. Failure to comply may negatively impact continued access to Top Secret information, Information Systems, SAP, and/or unescorted access to SCIFs.
+
+NGA utilizes all processes and procedures of the Defense Civilian Intelligence Personnel System (DCIPS). Non-executive NGA employees are assigned to five distinct pay bands based on the type and scope of work performed. The employee's base salary is established within their assigned pay band based on their unique qualifications. A performance pay process is conducted each year to determine a potential base pay salary increase and/or bonus. An employee's annual performance evaluation is a key factor in the performance pay process. Employees on term or temporary appointments are not eligible to apply for internal assignment opportunity notices.
+
+This position is a DCIPS position in the Excepted Service under 10 U.S.C. 1601. DoD Components with DCIPS positions apply Veterans' Preference to preference eligible candidates as defined by Section 2108 of Title 5 USC, in accordance with the procedures provided in DoD Instruction 1400.25, Volume 2005, DCIPS Employment and Placement. If you are an external applicant claiming veterans' preference, as defined by Section 2108 of Title 5 U.S.C., you must self-identify your eligibility in our ERecruit application.
+
+Qualifications
+
+MANDATORY QUALIFICATION CRITERIA: For this particular job, applicants must meet all competencies reflected under the Mandatory Qualification Criteria to include education (if required). Online resumes must demonstrate qualification by providing specific examples and associated results, in response to the announcement's mandatory criteria specified in this vacancy announcement: 1. Demonstrated proficiency in applied programming and/or manipulation of data with a programing language such as Python, R, SQL or Java (others languages will be considered). 2. Demonstrated experience developing and deploying automated processes to identify, collect, process, and analyze large data sets. 3. Demonstrated expertise with the use of data visualizations for exploratory comparative analysis by way of scripts, algorithms, and/or predictive models. 4. Demonstrated experience cleaning, filtering, transforming data, and/or enriching data. EDUCATION REQUIREMENT: A. Education: Bachelor's degree in Applied Mathematics, Computer Science, Data Science, Geographic Information Science, Informatics and Computing, Information Science, Operations Research, Statistics, or a related discipline. -OR- B. Combination of Education and Experience: A minimum of 30 semester (45 quarter) hours of coursework in any area listed in option A plus experience that demonstrates the ability to successfully perform the duties associated with this work. As a rule, every 30 semester (45 quarter) hours of college work is equivalent to one year of experience. Candidates should show that their combination of education and experience totals 4 years. -OR- C. Experience: Six years of experience in working with large or complex data sets, including performing data mining, running complex queries, or performing tasks in related areas of work.
+
+DESIRABLE QUALIFICATION CRITERIA: In addition to the mandatory qualifications, experience in the following is desired: 1. Experience as a proven innovator and strategic problem solver. 2. Ability to communicate technically complex methods and solutions to non-technical audiences verbally or in writing. 3. Familiarity working with DoD analysts, such as geospatial and/or imagery analyst. 4. Familiarity with cloud services as applied in the DoD and IC. 5. Demonstrated expertise with visualization techniques and software tools (i.e. Tableau, matplotlib, etc). 6. Experience applying analytic techniques such as classification, regression, similarity matching, clustering, co-occurrence grouping, profiling, link prediction, data reduction, and causal modeling.
+
+Education
+
+Additional information
+
+How You Will Be Evaluated
+
+You will be evaluated for this job based on how well you meet the qualifications above.
+
+Applicants are not required to submit a cover letter. The entire cover letter cannot exceed the specified limits provided in the Cover Letter field (3,000 characters). Pages exceeding this limit will not be considered. THE COVER LETTER IS RECOMMENDED BUT IS NOT REQUIRED FOR EMPLOYMENT CONSIDERATION WITH THE NATIONAL GEOSPATIAL-INTELLIGENCE AGENCY.
+
+APPLICANT EVALUATION PROCESS: Applicants will be evaluated for this job opportunity in three stages: 1) All applicants will be evaluated using the Mandatory Qualification Criteria, 2) Qualified applicants will then be evaluated by an expert or panel of experts using a combination of qualification criteria to determine the best-qualified candidates, 3) Best-qualified applicants may then be further evaluated through an interview process. Military retiree applicants, if selected, may be impacted by the 180-day appointment restrictions of DODI 1402.01. HD personnel will provide additional information if applicable. Applicants are encouraged to carefully review the Assignment Description, Additional Information Provided By the Selecting Official, and the Qualification Requirements; and then construct their resumes to highlight their most relevant and significant experience and education for this job opportunity. This description should include examples that detail the level and complexity of the performed work. Applicants are encouraged to provide any education information referenced in the announcement. If education is listed as a mandatory requirement, only degrees obtained from an institution accredited by an accrediting organization recognized by the Secretary, US Department of Education will be accepted. As a condition of employment at NGA, persons being considered for employment must meet NGA fitness for employment standards. In accordance with section 9902(h) of title 5, United States Code, annuitants reemployed in the Department of Defense shall receive full annuity and salary upon appointment. They shall not be eligible for retirement contributions, participation in the Thrift Savings Plan, or a supplemental or redetermined annuity for the reemployment period. Discontinued service retirement annuitants (i.e., retired under section 8336(d)(1) or 8414(b)(1)(A) of title 5, United States Code) appointed to the Department of Defense may elect to be subject to retirement provisions of the new appointment as appropriate. (See DoD Instruction 1400.25, Volume 300, at http://www.dtic.mil/whs/directives.) All candidates will be considered without regard to race, color, religion, sex, national origin, age, marital status, disability, or sexual orientation. NGA provides reasonable accommodations to applicants with disabilities. Applications will only be accepted online. If you need a reasonable accommodation for any part of the application and hiring process, please notify us at recruitment@nga.mil. The decision on granting reasonable accommodation will be on a case-by-case basis.
+
+Background checks and security clearance
+
+Security clearance
+
+Sensitive Compartmented Information
+
+Drug test required
+
+Yes
+
+Required Documents
+
+Required Documents
+
+None
+
+If you are relying on your education to meet qualification requirements:
+
+Education must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from schools accredited by accrediting institutions recognized by the U.S. Department of Education .
+
+Failure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.
+
+Benefits
+
+Benefits
+
+Review our benefits

@@ -1,0 +1,31 @@
+Location: Omaha, Nebraska
+
+The core function of the Data Scientist role is to help build machine learning into our human trafficking prediction pipeline. This will involve applying a myriad of NLP, image processing, clustering, and classification problems to noisy, multi-sourced data. You will be working hand-in-hand with another data scientist and a small team of engineers/developers. Because data integration and machine learning are at the core of what this company does, you will have the opportunity to find creative solutions to an endless variety of problems.
+
+Responsibilities
+
+Designing, testing, and implementing architectures to solve various machine learning problems, such as NLP, images, clustering, classification
+
+Connecting the dots across sparse data to predict links/matches
+
+Selecting features, building and optimizing classifiers using machine learning techniques
+
+Enhancing data collection procedures to include information that is relevant for building analytic systems
+
+Processing, cleaning, and verifying the integrity of data used for analysis
+
+Automating the retraining/updating of production algorithms
+
+Skills Required
+
+Python, NumPy
+
+A machine learning framework such as Keras or TensorFlow
+
+Knowledge of machine learning algorithms
+
+Understanding of common machine learning problems, such as NLP, image processing, clustering, and classifications
+
+Knowledge of network analysis would be a useful but not necessary skillset
+
+We're not looking for specific degrees or years of experience; we're looking for lifelong learners who tackle projects with rigor and creativity. At HTI Labs, we believe our work is improved by working together. Being in the office together allows us to easily advance projects, bounce ideas off each other, and get and give feedback. For this reason, this position requires being located or relocating to Omaha Nebraska.

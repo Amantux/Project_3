@@ -1,0 +1,133 @@
+Company Background
+
+We are an early stage start-up developing technology and data intelligence
+
+underlying radically more efficient logistics businesses. Serving the $730bn US motor
+
+freight market, Haulistix has been developed with the ambition to create a hyper growth
+
+business. The company leverages the latest operations research, data and machine
+
+intelligence at scale to have a real-life impact on the operational and financial
+
+performance of hundreds of thousands of small and medium-sized trucking companies.
+
+To achieve this, we pay equal attention to developing cutting-edge technology,
+
+understanding real-life user behavior and creating innovative business models
+
+Using machine intelligence, we arrange single truck loads from across the freight
+
+market into highly profitable freight trips and sell them to small and medium-sized
+
+trucking companies.
+
+By doing this, we digitize the cognitively most challenging aspects of a motor
+
+carriers' dispatch function and attack their tremendous inefficiency at one of its
+
+root causes.
+
+Unlike with simple load bookings directly through brokers or expensive software
+
+solutions, we offer carriers and brokers access to cutting-edge technology whilst
+
+materially improving their profitability one business transaction at a time.
+
+Role
+
+We are currently hiring Data Scientists and Data Engineers to become part of the
+
+first ten employees of our company and core members of our early-stage team. Working
+
+directly with the founders, the data scientists/engineers will be interfacing cross-
+
+functionally with our technology development team, relevant academic advisers, our in-
+
+house operations team as well as external contractors and select clients. Key focus of
+
+our early-stage work will be on expanding the current algorithms to become a full-fledged
+
+model architecture, core to the functioning of our business, including but not limited to
+
+demand prediction, data-driven route optimization, pricing and revenue management
+
+modeling, etc.
+
+Responsibility
+
+Building demand prediction models for future shipping orders (in terms of both
+
+the volume and the price)
+
+Integrating the demand prediction model with our current route optimization
+
+model for truck drivers trip planning
+
+Building real-time and stochastic models for the events of traffic delay,
+
+warehouse loading delay, accidents, etc.
+
+Working closely with our scientific advisors in developing state-of-the-art models
+
+for routing planning, revenue management, and robust sequential decision
+
+making.
+
+Skills
+
+Critical Skills
+
+Currently has obtained, or is in the process of obtaining Masters or Ph.D. degree
+
+in highly quantitative field (CS, mathematics, statistics, operations research) or
+
+equivalent experience
+
+Experience applying various machine learning techniques on large-scale
+
+datasets in Python or R
+
+Experience in data visualization and exploratory data analysis
+
+Experience building optimization models and designing dynamic programming
+
+algorithms for real-world problems
+
+Development experience in at least one scripting language, Python, Perl, or R
+
+Thrive in the environment of a start-up, have a bias for action and be a thoughtful
+
+and highly dedicated contributor and collaborator,
+
+Have superior communication skills.
+
+Preferred Skills:
+
+Experience in web crawling and scrapping that ensure data integrity and create
+
+data pipelines
+
+Experience in route optimization and revenue management
+
+Understanding of the mathematical underpinnings of the learning and
+
+optimization models and algorithms, such as algorithms for convex, linear,
+
+integer programs and Markov Decision Processes/Reinforcement Learning.
+
+Strong programming skills in Java / Javascript
+
+Employment Type
+
+Full-time.
+
+We sponsor H1B visa for qualified candidates.
+
+Haulistix Inc is an equal employment opportunity employer. We celebrate diversity. We
+do not discriminate against employees or job applicants on the basis of race, culture,
+color, national origin, sex, sexual orientation, gender identity, gender expression,
+pregnancy, age, religion, marital status, height, weight, familial status, disability, military
+service, genetic information, or any other category protected by federal, state or local law.
+
+Powered by JazzHR

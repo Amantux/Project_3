@@ -1,0 +1,37 @@
+NVIDIA is looking for passionate data engineers to join our Cloud Software Engineering Team in GeForce NOW. In this role, you will play a significant part in helping to craft and guide the future of Cloud Gaming!
+
+GeForce NOW is NVIDIA's Cloud Gaming service streaming games at the highest quality to any and every user regardless of their device types and capabilities – low-end PCs, Macs, or mobile devices. Using the most advanced GPUs and software, GeForce NOW transforms the gaming experience with always up-to-date games on always the latest hardware, a streaming experience rivaling that of a local PC, and near-instant launch – just click and play! For more details see https://www.nvidia.com/en-us/geforce/products/geforce-now/
+
+As a data analyst at NVIDIA, you design, implement and maintain our cloud data systems for performance and reliability. You will be responsible for tuning and configuring our data platforms and writing sophisticated SQL queries that extract valuable statistics from millions of metrics. You will interact with other engineering teams who want to build services on your platform supporting them in the design and build phases.
+
+What you'll be doing:
+Build, design and implement scalable data solutions in SQL and NoSQL
+Write sophisticated and optimized SQL Queries that span millions of data points
+Craft reliable data ingestion Pipelines in Apache AirFlow for new data sources and post-processing existing data sets
+Build, develop and maintain data models, reporting systems, data automation systems, dashboards and performance metrics support that support key business decisions
+Work with multi-functional teams to prioritize work and drive system solutions by clearly articulating business needs
+Ensure that data is secure and handled responsibly with appropriate access controls and audit trails
+Prepare and maintain documentation detailing configuration of deployed solutions
+What we need to see:
+Bachelor’s Degree in Computer Science or relevant work experience
+3+ years experience with SQL query development, preferably Postgres
+2+ years of experience designing large-scale data platforms
+Experience with Prometheus metrics and architecting relevant Grafana dashboards that present data in a highly understandable UI
+Proficient in Python3 programming and developing AirFlow Directed Acyclic Graphs (DAGs)
+Experience building cloud scale data solutions in AWS or similar provider
+Experience with high throughput transactional systems
+Excellent interpersonal, and written communication skills
+Comfortable working in a multifaceted, highly collaborative environment
+Ways to stand out from the crowd:
+Savviness with complex SQL queries and knowledge of database technologies including window functions
+Show experience in building and managing metric systems, data lakes and transactional systems
+Experience with Python analytic libraries such as Pandas and NumPy
+Experience with TimeScaleDB
+Familiarity with logging solutions such as Splunk and SumoLogic
+Experience building SaaS/PaaS enterprise applications
+Experience supporting 24/7 services
+Experience with NoSQL DBs such as Cassandra and InfluxDB
+A track record of solving complex problems with elegant solutions
+NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and talented people in the world working for us. If you're creative, self-motivated and enjoy having fun, then what are you waiting for apply today.
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.

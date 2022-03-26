@@ -1,0 +1,41 @@
+The Data Team at ReSci is in a new phase of its evolution. We've scaled our predictive models to 350M+ users and we are looking for a Senior Machine Learning Engineer to help us innovate new models and improve our existing algorithms, to take our predictions to the next level! On our Data Team, you will work closely with other Data Scientists and Data Engineers to create the Machine learning backbone that powers our marketing automation platform ("Cortex") for commerce brands. Your expertise at algorithms will be paired closely with the software expertise of Data Engineers, and you will jointly own these ML systems.
+
+We are looking for a team player who loves to build data products and wants to be involved in the entire process: working with PMs in product ideation, R&D / prototyping of feature engineering and modeling approaches, to scaling models across hundreds of clients in production. You should have a passion and deep theoretical understanding of Machine learning and can discuss in depth their theory, strengths, and drawbacks. In addition to the fundamentals, you should have experience shipping and scaling ML algorithms.
+
+We ingest billions of user-level signals and use this as a basis for all our predictive models (recommenders, churn predictors, timing, price sensitivity, etc). Our model infrastructure is generalized to run for varieties of clients' data but at the same time tunable to provide clear and tailored results. Your day-to-day work will directly impact 100’s of your favorite brands and 100’s of millions of users!
+
+Responsibilities:
+
+Apply unsupervised and supervised machine learning for predictions that power our products: Cortex and Pocket Data
+Maintain and improve product recommendation models, churn predictors, LTV, timing, price sensitivity scoring, bandit models, etc
+Communicate methodology and results to technical and non-technical audiences
+Build and design ML infrastructure: including ML monitoring, AB testing, Data connectors
+Contribute to data pipelines and feature engineering layers for ML to flourish
+Design reporting and analytics for clients on key campaign results
+
+Qualifications:
+
+Minimum 5 years in shipping Machine learning or data products at scale
+Strong breadth of Machine learning techniques like classification, regression and clustering
+MS/PhD strongly preferred in Computer Science, EECS or relevant field (know the maths)
+Strong communication skills and able to speak to a non-technical audience about data science and AI
+Strong Python, Spark AND Scala are desired but not mandatory
+Experience with large-scale data processing tools: Spark, etc
+About Us:
+
+ReSci's mission is to make artificial intelligence accessible and usable for brands.
+
+Our values:
+
+Inspire with passion.
+Persevere with determination.
+Collaborate with unity.
+Grow without bounds.
+Create with impact.
+Lead with character.
+
+Based out of Santa Monica, CA, our team consists of serial entrepreneurs who have all made Retention Science a leader in AI marketing. Our SaaS platform, “Cortex” helps online businesses target, engage, and retain customers. The Cortex marketing platform uses machine-learning algorithms to predict customer behavior by analyzing massive sets of demographic, social, and behavioral data to generate 1-to-1 retention campaigns personalized to each customer. Cortex makes 3.5+ billion predictions per day and processes 5k+ events per second.
+
+Our founders have been recognized as the Ernst & Young Entrepreneurs of the Year, and our company was awarded Top 10 Big Data Startup of the Year by CRN, one of Fast Company's €œInnovation Agents€, Top 10 Software Company in Southern California from SocalTech, and identified by Inc. Magazine as one of the most innovative startups. Retention Science has also been featured in Forbes, the Wall Street Journal, TechCrunch, Bloomberg, and Reuters, among other notable publications. In addition, the most prestigious startup accelerator in LA (part of the TechStar Network), as well as many reputable angel investors and Venture Capital firms have provided their support and backing for our business.
+
+We're passionate about what we do and we put our people first! We are a close-knit family whose members drink too much coffee, work hard, and never cease to brainstorm creative new ways to improve our solutions. We foster a dynamic and exciting start-up environment that is conducive for innovative thought; join us if you are interested in working with our world-class team!

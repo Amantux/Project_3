@@ -1,0 +1,55 @@
+Meet CarGurus—the #1 visited online car shopping website in the US. At CarGurus, we're building the world's most trusted and transparent automotive marketplace where it's easy to find great deals from top-rated dealers.
+
+Founded in 2006 by Langley Steinert (co-founder of TripAdvisor), CarGurus is a technology company with a passion for data and its power to simplify every aspect of the car shopping experience. Using proprietary technology, search algorithms and innovative data analytics, we provide unbiased validation on pricing, dealer reputation and vehicle history.
+
+On the Algorithmic Traffic Acquisition team our goal is to extract insights from voluminous amounts of data and set the strategic course for online bidding. The general problems to solve are unconstrained; we are tasked with spending a large budget as efficiently as we can. How we achieve that is up to us. We are looking for entrepreneurial Data Scientists who can help continue to capture and retain unique visitors to our site from online search and social media platforms.
+
+What You'll Do:
+
+Analyze data, and design and implement data science or machine learning solutions
+
+Aid the engineers who will implement your solutions in production
+
+Communicate solutions to both a technical and a lay audience. E.g., what is it, how does it solve the problem, why is it reasonable, what could go wrong
+
+Estimate the long-term conversion rate of each of hundreds of millions of keywords, combinations of demographics, and other forms of targeting
+
+Analyze searches entered online and site activity to find new keywords and negative keywords
+
+For any given monthly spend target and measure of efficiency (e.g., CPL, ROI), estimate the efficiency metric which will result in the target spend.
+
+Measure the impact of television and radio advertising on online advertising
+
+Who You Are:
+
+You have owned Data Science for an organization
+
+Experience working with datasets, and strong interest in deep data analysis – with a desire to investigate large amounts of Data and generate insights
+
+Practical Experience in Python or R
+
+Deep understanding of numbers with strong business sense
+
+Understanding of the following principles:
+
+Time Series
+
+Classification Algorithms
+
+Clustering
+
+Regressions
+
+Recommender Systems
+
+Feature Engineering
+
+Data Manipulation & Cleaning
+
+Advanced Degree (or relevant experience) in one of the following: Statistics, Computer Science (ideally with a focus on machine learning) or any quantitative field which makes use of advanced statistical or machine learning techniques
+
+CarGurus Culture:
+
+At the core of our company culture is a spirit of innovation, curiosity and collaboration. True to our start-up roots, we're nimble, flexible and hardworking. We have a great respect for testing and learning and a healthy aversion to scheduling meetings to discuss meetings. Lunch is catered daily. Gym membership is free. Foosball and ping pong are played often. Now a publicly-traded company, we're as committed as ever to cultivating the culture that got us here.
+
+In addition to the US, CarGurus operates sites in Canada, the UK and Germany with other markets on the horizon. Our offices are located in Cambridge, MA, Detroit, MI and Dublin, Ireland. If you'd like to learn more, please visit our careers page ( https://careers.cargurus.com/ ).

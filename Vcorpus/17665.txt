@@ -1,0 +1,79 @@
+Job Details
+
+Job ID: 12030
+
+New ideas are all around us, but only a few will change the world. That’s our focus at JPL. We ask the biggest questions, then search the universe for answers—literally. We build upon ideas that have guided generations, then share our discoveries to inspire generations to come. Your mission—your opportunity—is to seek out the answers that bring us one step closer. If you’re driven to discover, create, and inspire something that lasts a lifetime and beyond, you’re ready for JPL.
+
+Located in Pasadena, California, JPL has a campus-like environment situated on 177 acres in the foothills of the San Gabriel Mountains and offers a work environment unlike any other: we inspire passion, foster innovation, build collaboration, and reward excellence.
+
+Responsibilities
+
+Do you have a passion for complex ontologies, data modeling and software development?
+
+We have a unique opportunity for a Planetary Data Engineer to join a hardworking multidisciplinary team and manage the richest collection of planetary science data in the Universe.
+
+The Planetary Data System (PDS) is the de facto archive of all data products returned from NASA’s planetary missions actively managed by planetary scientists to help ensure its usefulness and usability by the worldwide planetary science community.
+
+The Planetary Data Engineer will support the PDS Engineering Node (EN) and the PDS Cartography and Imaging Sciences Discipline Node (aka IMG or Imaging) and apply technical expertise in information architecture, data management, documentation, and data stewardship and curation approaches to remote sensing and Planetary science data systems.
+
+You will work as an apprentice to our Information Architect learning the ins-and-outs of the PDS4 Information Model, the generated artifacts, and associated standards and how they impact the PDS4 Information System.
+
+Daily responsibilities:
+Work with the PDS IMG and EN operations team and data providers to track and move datasets through the different stages of data publication.
+Design, develop, and implement the PDS4 metadata for new data deliveries and for migration of PDS3 archives.
+Extend and guide the PDS4 data model as needed by EN and IMG and its user community.
+Develop scripts and approaches for efficient and high-quality QA/QC of datasets ingested into the archive to build valuable data.
+Improve user experience and usability of the datasets, including documentation.
+Prepare scripts, tutorials, and workshops to enhance the use of PDS services and datasets at conferences (LPSC, AGU, PSIDA, etc.)
+Provide science and technical support for remote sensing data distribution tools and services.
+
+Qualifications
+
+Typically requires a Bachelor’s degree in Information Science, Computer Science or related discipline with a minimum of 6 years of related experience; or Master’s degree with 4+ years of related experience; or PhD with 2+ years related experience.
+Solid experience in information management, data management and archiving, particularly in the area of information modeling and architect
+Demonstrated experience with ontology/taxonomy design and background with information architecture and modeling
+Significant experience in building and coordinating the development of documentation for datasets and software tool/services.
+Proficiency with version control (i.e. GitHub) and Agile development practices.
+Familiarity and experience metadata standards (ISO11975) and conventions (e.g. JSON-LD). This also includes dataset access and discovery of data services through DOIs.
+Ability to analyze requirements and operational needs in line with the project/customer needs and constraints.
+Strong interpersonal and customer service skills and ability to work with the Earth science community and/or project management.
+Excellent data documentation skills and working effectively as a team member.
+Proficiency working in a UNIX/Linux command-line environment and shell scripting.
+Consistent record dealing with multiple issues, tasks, and priorities concurrently independently and in a dynamic team environment
+Excellent verbal, written, and presentation skills.
+Ability to solve critical problems on-the-fly with targeted execution in decision-making.
+Willingness to travel to science conferences and technical workshops.
+Preferred Skills:
+Knowledge of all phases of the design, development, system integration, test and operation of data systems (e.g. archives).
+Ability to work on project assignments without appreciable direction with accountability for technical performance.
+Experience with development and delivery of software documentation, such as requirements documents, test plans, and design description documents.
+Software engineering experience. Developing use cases, extracting/interpreting/managing software design requirements, modularized programming, data i/o, database i/o, information architecture, data management, configuration management, and containerized software deployment.
+Information Science experience. Understanding and applying ground breaking technologies for both data and metadata management in a complex workflow of observational or simulated data including: data acquisition, QA/QC, format transformation, data/metadata curation, interoperability, archival, dissemination, and user-tailored documentation.
+Demonstrated authorship/co-authorship of scientific or technical publications and presentations related to planetary processes and/or remote sensing at domestic/international conferences, workshops, and/or science team meetings.
+Experience in working with cloud vendors (e.g. Amazon AWS) and with cloud-based architectures.
+
+Work Authorization
+
+U.S. Citizen or Permanent Resident
+
+Connect with Us
+
+Not ready to apply? Connect with us for general consideration.
+
+JPL is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to sex, race, color, religion, national origin, citizenship, ancestry, age, marital status, physical or mental disability, medical condition, genetic information, pregnancy or perceived pregnancy, gender, gender identity, gender expression, sexual orientation, protected military or veteran status or any other characteristic or condition protected by Federal, state or local law.
+
+In addition, JPL is a VEVRAA Federal Contractor.
+
+EEO is the Law
+EEO is the Law Supplement
+Pay Transparency Nondiscrimination Provision
+
+The Jet Propulsion Laboratory is a federal facility. Due to rules imposed by NASA, JPL will not accept applications from citizens of designated countries or those born in a designated country unless they are Legal Permanent Residents of the U.S or have other protected status under 8 U.S.C. 1324b(a)(3). The Designated Countries List is available here.
+
+Print
+Share
+Facebook
+Twitter
+LinkedIn
+
+APPLY

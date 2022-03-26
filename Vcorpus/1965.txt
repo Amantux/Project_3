@@ -1,0 +1,54 @@
+Machine Learning Engineer
+
+At Temboo, we build software that people are using to fundamentally change the world around us. Our no-code platform for environmental engagement empowers organizations, cities, and residents to achieve sustainability goals, advance green infrastructure projects, and build more engaged and informed communities. We want you to join us as we grow and scale Temboo. A few highlights:
+Our customers are building a wide range of environmental monitoring applications, from tracking soil moisture in city tree beds to assessing pH levels in octopus farms!
+As reported by the New York Times, the software we build helps nonprofits promote policy changes, businesses assess their environmental impact, governments maintain green infrastructure, and citizens become more involved. Regardless of background or experience, we give people all the tools they need to measure, engage, inform, and advocate—for the future of their neighborhood, their city, their country, and the planet.
+Temboo's software comes pre-shipped in hardware development platforms for millions of devices from companies like Texas Instruments, Samsung, and Arduino.
+Temboo integrates with over 100 internal and external APIs and cloud services, and we work closely with API providers such as Amazon and Microsoft to make their APIs more accessible.
+Temboo has been adopted as a teaching tool by over 150 universities worldwide, in courses ranging from traditional CS and engineering, to digital art and urban data mining, and is a New York State approved provider of IoT instruction for professional licensed engineers.
+We’re looking for a curious, skillful engineer to employ machine learning techniques to develop new features and products at Temboo. You will be responsible for leveraging and advancing existing machine learning systems as you apply them to Temboo’s increasingly rich sensor data and device activity dataset. You will lead the design, prototyping and productization of machine learning-based features, and take responsibility for introducing other Temboo developers to machine learning projects.
+
+Your specific technical skill-set is less important to us than your all-around intelligence, problem-solving ability, and eagerness for new challenges. It will be your responsibility to identify and introduce new languages and tools to support your machine learning initiatives.
+
+What You'll Be Doing
+Identifying opportunities to apply machine learning techniques to develop new Temboo features, particularly those based on sequence mining
+Working with other Temboo engineers to implement machine learning algorithms in an efficient manner
+Shipping new features based on your research
+Continually observing and refining these features in production to improve behavior over time
+Taking responsibility for maintaining our data collection, storage and processing infrastructure
+
+What We're Looking For In You
+Proven experience with developing machine learning systems in a professional or academic environment
+A deep understanding of the mathematical foundations of machine learning algorithms
+Strong computer science fundamentals (notably algorithms and data structures, distributed systems and information retrieval)
+Experience with relational database technology e.g., MySQL, and distributed data storage and processing systems e.g., Hadoop
+You’re a strong programmer, with experience in both scripting languages and strongly typed programming languages
+A willingness to learn and use new technologies, strategies, tools, and components
+Strong written and verbal skills, with an ability to explain complex concepts to a varied audience
+Experience in a startup environment
+
+Why You Should Apply
+You’ll have a high-impact role working with transformative technologies like IoT and Machine Learning
+You'll work on exciting technical challenges like designing secure, optimized protocols for communicating with internet-connected hardware, iterating on our data models and supporting architecture to scale to masses of connected devices, and implementing predictive algorithms for generating insights on sensor data sets
+You’ll be writing software that people use to make a positive impact on the world
+You’ll get wide-ranging exposure to different aspects of the technology and business worlds since Temboo touches hardware & software, multiple layers of the technology stack, and a variety of industries
+You’ll be part of a committed, smart, respectful, and fun team
+We offer competitive compensation, a casual office environment, and respect for autonomy
+Our users are our customers, and they control their own data. We're not selling ads or user data.
+
+2019-08-01
+104 Franklin St.
+New York,
+NY
+10013
+
+Full-time
+
+Does this sound like you? If so, send us your resume and a note about why you're interested in working at Temboo. We're looking for people who have passionate interests outside of work as well, so please mention a few of yours in your cover letter.
+
+Check out a customer story that combines community activism and emerging technology to deal with climate change at the hyper-local level.
+
+How To Apply
+
+
+Email us at jobs@temboo.com, including your resume and a note about yourself (please use “Machine Learning Engineer” in the subject line).

@@ -1,0 +1,241 @@
+Read what people are saying about working here. 
+
+Technical Lead
+
+Qualification:
+
+Bachelors in science , engineering or equivalent
+
+Responsibility:
+
+Requirement Understanding and Analysis:
+
+Understand the functional/ nonfunctional requirements.
+
+Participate in client calls and prepare the clarification list to seek clarifications.
+
+Prepare the list of requirements and seek review inputs from the key stakeholders.
+
+Update requirements traceability matrix.
+
+Create impact analysis document (for simple change) to understand the impact on the existing functionality, as required.
+
+Design:
+
+Provide inputs to create the low level design for the module based on the understanding of the requirement and HLD.
+
+Identify the list of reusable assets that can be used and share inputs.
+
+Share the list of components with the Senior Developer/ other relevant stakeholders and seek inputs.
+
+Coding:
+
+Based on LLD , identify the component that needs to be created.
+
+Set up the environment for creating the component.
+
+Replicate the existing code to the environment.
+
+Establish connection to the databases.
+
+Conduct coding as per finalized technical specification document.
+
+Follow coding standards and best practices to check code quality.
+
+Generate code quality document for the code review through various tools (Informatica, Aqua).
+
+Share the developed code for review.
+
+Rework on the code based on inputs shared by the Sr Developer and Module Lead if required.
+
+Identify unit test case scenarios based on the design.
+
+Prepare unit test cases and test data under guidance.
+
+Merge code in the build environment and seek inputs from the Senior Developer.
+
+Conduct peer review for the other team members.
+
+Conduct technical troubleshooting if required.
+
+Testing Management:
+
+Conduct unit testing based on the identified test scenarios.
+
+Fix simple defects identified during unit testing.
+
+Prepare unit test document based on the test results and share the same for review.
+
+Integrate and conduct system integration testing.
+
+Address queries raised by QA team within defined timelines.
+
+Analyze and fix the defects identified during functional / non functional testing.
+
+Understand the impact/ criticality and priority of the defect.
+
+Conduct regression testing for QA testing.
+
+Report defect status as per project standard process within agreed timelines.
+
+Track the status of defects using the test management tool (ALM, QC ).
+
+Close the defect in test management tool once resolved.
+
+Configuration Management:
+
+Branch off the existing code in the version control tool (VSS, CSV).
+
+Identify configurable items.
+
+Maintain version control across different configurable items (documents component, data mapping clarification document etc).
+
+Deployment:
+
+Share the environment set up details with the deployment team.
+
+Provide inputs on instructions (in case standard).
+
+Create a deployment package under guidance of senior members in the team.
+
+Raise deployment request to deployment team to deploy the code in the integrated environment.
+
+Review the deployed component in the environment.
+
+Load the test data.
+
+Conduct smoke testing under guidance.
+
+Share notification with QA team post completion of testing.
+
+Service Support and Maintenance:
+
+Specific to production and maintenance support:
+
+Prioritize incidents based on criticality.
+
+Route the defects logged to the right stakeholder if required.
+
+Attend user calls, and capture required information and incident details for logging.
+
+Coordinate with the different stakeholders to resolve as per SLA.
+
+Run appropriate tests, once the defect is resolved.
+
+Track the status in the test management tool (QC, Alma etc).
+
+In case of any recurring incidents, prepare a learning document capturing the known errors.
+
+Provide inputs to module lead in creation of transition plan (project steps and milestones).
+
+Knowledge Management:
+
+Create specific artifacts for tasks allocated by Lead.
+
+Share artifact with supervisor for review.
+
+Upload article in the knowledge management repository.
+
+Search the knowledge repository for information to resolve problems.
+
+Apply best practices/ learning during the code development.
+
+Create reusable assets and their documentation.
+
+Create value addition documents (value added by team to the client) and share it with the team.
+
+People Management:
+
+Provide inputs in creation of training courses and supporting artifacts on the training server such as demo, presentation.
+
+Conduct training or knowledge sharing sessions (in case of niche technology).
+
+Technical Skills
+
+SNo
+
+Primary Skill
+
+Proficiency Level *
+
+Rqrd./Dsrd.
+
+1
+
+Scikit-Learn (Sklearn)
+
+PL2
+
+Required
+
+2
+
+NLTK
+
+PL2
+
+Required
+
+3
+
+3NF data modeling
+
+PL2
+
+Desired
+
+4
+
+Python
+
+PL2
+
+Required
+
+5
+
+PL/SQL
+
+PL2
+
+Desired
+
+Proficiency Legends
+
+Proficiency Level
+
+Generic Reference
+
+PL1
+
+The associate has basic awareness and comprehension of the skill and is in the process of acquiring this skill through various channels.
+
+PL2
+
+The associate possesses working knowledge of the skill, and can actively and independently apply this skill in engagements and projects.
+
+PL3
+
+The associate has comprehensive, in-depth and specialized knowledge of the skill. She / he has extensively demonstrated successful application of the skill in engagements or projects.
+
+PL4
+
+The associate can function as a subject matter expert for this skill. The associate is capable of analyzing, evaluating and synthesizing solutions using the skill.
+
+Employee Status : Full Time Employee
+
+Shift : Day Job
+
+Travel : No
+
+Job Posting : Mar 19 2019
+
+Cognizant US Corporation is an Equal Opportunity Employer Minority/Female/Disability/Veteran. If you require accessibility assistance applying for open positions in the US, please send an email with your request to CareersNA2@cognizant.com
+
+About Cognizant
+
+Cognizant is one of the world's leading professional services companies, transforming clients' business, operating and technology models for the digital era. Our unique industry-based, consultative approach helps clients envision, build and run more innovative and efficient businesses. Headquartered in the U.S., Cognizant, a member of the Nasdaq-100, is ranked 195 on the Fortune 500 and is consistently listed among the most admired companies in the world. Learn how Cognizant helps clients lead with digital at www.cognizant.com or follow us on Twitter: USJobsCognizant.
+
+Cognizant is recognized as a Military Friendly Employer and is a coalition member of the Veteran Jobs Mission. Our Cognizant Veterans Network assists Veterans in building and growing a career at Cognizant that allows them to leverage the leadership, loyalty, integrity, and commitment to excellence instilled in them through participation in military service.
+
+ Cognizant Technology Solutions remains mindful of the state of your technology. Cognizant provides application maintenance services, busi...

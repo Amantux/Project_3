@@ -1,0 +1,24 @@
+XMotors.ai provides autonomous self-driving features for the Xiaopeng EV vehicles in China market. We are looking for people passionate about self-driving vehicles to join in and help us build top class autonomous self-driving vehicles. We are building Data/Machine Learning pipeline and AI Algorithm Models to help us navigate all the challenges presented by the complex problems of autonomous driving. You will be working with a team of data platform for the big data analysis, AI model validation, report visualization and deployment of various systems.
+Responsibilities:
+Collaborate with algorithm designers to specify required data sets that include both training and testing of ML/DL/CV algorithms
+Analyze the data/results from AI algorithms and generate report
+Request specific data sets with various driving scenarios by adding requests to recording plan
+Responsible for quality of available data and maintenance of ground truth
+Work with algorithms team to test algorithms based on the collected data
+Experience and Skills:
+2+ years of working experience in big data / deep learning analysis and validation.
+Should have good Python programming skills, experience of vision libraries such as OpenCV will be a plus.
+Should have worked with data science and computer vision, machine learning/deep learning teams, especially in the areas of data acquisition, data pipeline and data management.
+Should have extensive experience with one or more of the following big data frameworks: Spark, Hadoop, HDFS, Kafka, DataBase, etc.
+Should have experience with DevOps tools (GitHub, JIRA, Jenkins)
+Experience in developing CV/ML algorithms is a plus.
+Should be willing to work as part of teams.
+Good communication skills
+Good written and spoken English is a requirement
+What do we provide:
+A fun, supportive and engaging environment
+Opportunities to pursue and work on cutting edge technologies.
+Snacks, lunches and fun activities.
+Competitive salary
+
+We are an Equal Opportunity Employer. It is our policy to provide equal employment opportunities to all qualified persons without regard to race, age, color, sex, sexual orientation, religion, national origin, disability, veteran status or marital status or any other prescribed category set forth in federal or state regulations.

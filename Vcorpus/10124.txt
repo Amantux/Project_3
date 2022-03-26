@@ -1,0 +1,55 @@
+The Hadlock lab at the Institute for Systems Biology (ISB) is seeking a Software Engineer or Data Scientist to implement innovative data science solutions. Our lab focuses on two areas of investigation: risk modeling for clinical decision support and improved patient outcomes, and new data science approaches to accelerate biomedical discovery. We have rare access to one of the largest collections of comprehensive electronic health records (EHRs) in the world, with longitudinal data for over 4,000,0000 patients from 50 hospitals across seven states. We also work with high-fidelity data from prospective studies that combine genomics, imaging, health-related social needs, and patient-reported outcomes.Our team collaborates with computer scientists, data scientists, systems biologists and physicians across the country. Current projects include pre-hospital risk prediction for sepsis, investigating neural imaging and biomarkers in adolescent behavioral health, and applying domain-agnostic similarity metrics to discover patterns in semi-structured EHR data. We are looking for an individual who is enthusiastic about rapid, early phase discovery of novel insights, and has the desire to design and implement open source tools for researchers worldwide. This position offers significant opportunities for growth and career advancement.
+
+Responsibilities
+
+Design, develop, and implement cloud software and novel pipelines to support machine learning on big data
+
+Work as part of a dynamic team of internal and external data scientists, data engineers, biomedical scientists and physicians
+
+Collaborate with groups within ISB and outside research institutions to develop tools and conduct data analysis for biomedical discovery and scalable research
+
+Connect cloud services, open source code and tools, and novel internal algorithms to integrate disparate systems
+
+Participate in writing grant proposals and scientific articles
+
+Maintain current knowledge of research literature and activity in machine learning for medical research
+
+Publish and present research results in journals and conferences
+
+Actively engage in a highly dynamic and collaborative environment
+
+Excellent organizational and communications skills, including knowledge of collaborative applications and tools
+
+Qualifications
+
+Applicants should hold (or shortly be awarded) an M.S. degree in Computer Science, Data Science, Applied Mathematics, or have comparable knowledge and skills from work experience
+
+Experience with collaborative software engineering projects from initial feature design through implementation and support
+
+Experience with at least two of the following:
+
+Software engineering using multiple languages, tools
+
+Machine learning: supervised and unsupervised
+
+Big data, Hadoop, Spark
+
+Computational analysis for real-world specific investigation
+
+Excellent organization, prioritization and communication skills
+
+Ability to work effectively with people in a diverse workforce, adapt to changing work requirements, and prioritize across multiple concurrent projects.
+
+Preferred candidates will also have experience with at least one of the following:
+
+Spark and Python, R or Scala
+
+Advanced skills in machine learning validity and understanding of challenges and opportunities with interpretability
+
+Semantic interoperability, ontologies, knowledge bases, graph theory or NLP
+
+Experience conducting or supporting research (in any field), or developing innovative technology.
+
+Please provide a CV and cover letter to be considered for this position.y
+
+ISB is an EOE (M/F/disabled/minority status/veteran status) employer.

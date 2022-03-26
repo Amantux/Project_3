@@ -1,0 +1,4 @@
+Elastic search - mandatory
+Grafana or Kibana - mandatory
+Mysql - mandatory
+Basic python scripting. - good to have

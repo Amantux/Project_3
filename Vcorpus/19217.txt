@@ -1,0 +1,34 @@
+At the intersection of technology, science, business and sports, Strivr offers an end-to-end, VR-based immersive learning platform that changes the way people around the world train, learn, and perform. With a mission to elevate performance through immersive experience, we are redefining an industry in real time and shaping the future of learning.
+
+Strivr was founded in 2015 out of Stanford University’s Virtual Human Interaction Lab, using the football field as our proving ground. Since then, we have quickly expanded from the athlete to the enterprise, partnering with leading Fortune 500 companies including Walmart, Verizon, and Fidelity to innovate and elevate employee development.
+
+At Strivr, our engineering teams develop immersive experience software and a cloud-based software platform that powers the creation, management, and experience of immersive learning with a unique level of insights and predictive analytics. The platform is scalable, secure, and compliant which is critical to making our customers and users successful on our platform. The engineering team is distributed and located in offices in Seattle and Palo Alto. In addition to the five company values of teamwork, grit, transparency, impact, and passion, we index on strong communication skills, a growth mindset, responsibility and ownership, and a collaborative and respectful work culture.
+
+We capture and analyze device, usage, sentiment, and assessment data, attention and engagement data based on spatial (gaze, hand) and voice data over tens of millions of in-headset immersive learning and training sessions. We are developing a streaming analytics platform that will allow us to process, join, aggregate, reform, and query data across these very large structured and unstructured datasets to produce immersive analytics with deep insights on learning sessions. Consumers include customers and external users for insights on their learning and training performance, and internal users like Data Scientists and Analysts who need access to raw and processed data from pipelines using notebooks and machine learning frameworks to develop, experiment with, and train learning models.
+
+We are hiring software engineers who are passionate about data engineering and analytics, and developing secure, scalable, and reliable data pipelines and platforms. As an engineer working on the Strivr’s data platform, you will have the opportunity to own the full cycle development of distributed services, data pipelines, and infrastructure that needs to scale to process petabytes of data and deliver insights and immersive analytics to hundreds of thousands of users and devices, all in real-time access. You will be expected to prioritize scalability, reliability, and security in your designs and implementation. You will work cross-functionally with other engineering teams, Product Managers and Data Scientists to deliver end-to-end user-facing functionality and experience.
+
+Your responsibilities:
+Systems architecture, design, implementation, and support of the following platform areas and capabilities:
+Real-time and batch processing pipelines to process data into logical data sets in data lakes and analytical databases
+Business and semantic layer services to transform data into reports, insights, and immersive analytics
+APIs for querying raw and processed data for consumption by user-facing visualizations and dashboards in web applications
+Tooling and infrastructure for machine learning frameworks, notebooks, and pipelines for querying raw and processed data for training and experimentation
+Tooling and infrastructure for data validation in the different phases of the pipeline and in the data stores
+Tooling and infrastructure to implement and enforce security and compliance policies for data protection and governance
+Write secure, reliable, and performant code and add monitoring for everything you develop
+Be data-driven, use instrumentation and monitoring to make improvements to the platform, functional or for-performance, or otherwise
+Be a visible technical leader in the organization. Influence engineers by advocating for and practicing a culture of engineering excellence. Mentor and coach lesser experienced engineers to make a positive impact on their career development
+Minimum Qualifications:
+5+ years of software engineering experience, specifically with development of data pipelines and platforms, and a solid background in software development with one or more of C#, Java, Go
+Experience with development and operationalization of large-scale data pipelines and distributed services for structured and unstructured data using streaming frameworks and systems like Kafka, Beam, Spark
+Strong database fundamentals including SQL and operational experience with relational (like Postgres) and non-relational databases (like Druid, BigQuery, Elastic)
+Experience with development of a data platform with tools and infrastructure for machine learning, training models, and experimentation
+Strong written and verbal communication skills, both technical and non-technical
+Ability to apply concepts from computer science, data-structures, and algorithms in order to solve problems in a pragmatic and efficient way
+Passion for writing secure, readable, modular, and maintainable code and a drive for shipping high quality software with an emphasis on testing, data validation, monitoring, and SLOs to ensure data accuracy with high availability
+Bachelors in Computer Science or related field, or equivalent experience
+Preferred Qualifications:
+Experience developing secure and scalable API services based on GraphQL or REST for web applications
+Experience developing on public cloud platforms (Google Cloud, AWS, or Azure) including experience with orchestration using Kubernetes and Docker
+Experience with one or more of the following: Natural Language Processing, text understanding, classification, pattern recognition, or similar

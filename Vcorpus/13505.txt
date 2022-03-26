@@ -1,0 +1,11 @@
+Sonos has mountains of data, but that data is only useful if it is collected, stored and presented accurately. As a Data Engineer, you will be responsible for creating custom data sets, discovering data anomalies, generating test data, and implementing data quality improvements while participating in an Agile environment. This is an exciting, high visibility position in a rapidly expanding team at the forefront of a shift to a data-driven business.Data engineers work on a cross-functional team as equal partners with our PMs, Data Scientists and Data Platform Engineers. The whole team is responsible for designing, developing, testing, delivering, and supporting our IoT data systems. In this role, you will:
+Building large scale batch or stream-processing systems, using solutions such as Apache Spark and AWS Kinesis
+Work with PMs and data scientists to integrate data from multiple data sources
+Work with different data storage techniques such as NoSQL databases, HBase, Cassandra, and Snowflake
+Define, document, and evangelize data instrumentation best practices. Support software team members on designing data instrumentation for new products.* 2+ yrs experience writing software code
+BS/BA in Computer Science, Software Engineering, Data Engineering, Data Science or equivalent
+Proficiency in Python or Java
+Knowledge of Spark, Github, SQL
+Understanding of data structures and big data.
+Working knowledge of AWS cloud architecture and associated technologies
+Passion and ability for solving intractable problems. Superior critical thinking skills.

@@ -1,0 +1,29 @@
+Do you want to be part of a growing data organization that is helping to shape the game experiences of millions of players? Niantic, the developer of Pokémon GO and Harry Potter: Wizards Unite is looking for a Senior Scientist with the creativity, leadership, and experience to develop meaningful Machine Learning science and game interventions for all our popular titles. Work closely with other scientists, engineers, and product managers to design and deploy machine learning models that elevate gameplay in Niantic's AR driven games where the real world becomes our game board.
+
+Responsibilities
+Conceive, design, lead the development, and bring into production new, end-to-end Machine Learning models and associated interventions for personalizing and tuning current and future global games.
+Apply a high degree of scientific rigor and real world pragmatism in all your work, particularly to quantify the impact of features on relevant engagement metrics.
+Mentor other scientists to grow their skills, create a collaborative environment, and employ tools and methodologies to test, revise, and improve models.
+Lead by example: promote deep scientific expertise, constant learning, attention to detail, and an intimate relationship with the data while always being friendly, humble, and open to challenging any assumptions.
+Collaborate with data engineers, product managers, and marketing to coordinate timely deployments from conception to release.
+Qualifications
+Successful candidate will have a PhD in Statistics, Machine Learning, Applied Mathematics, Computer Science, Economics, or a related field, or equivalent experience. A minimum of 4 years of real-world experience developing and deploying machine learning models, preferably in a gaming context.
+Strong command of statistics and the science underpinning machine learning techniques and able to defend choices with math as well as real-world tradeoffs.
+Expert in ML models for classification, regression, and clustering; experience with production neural networks.
+Demonstrated experience with large scale data processing (e.g. BigQuery, Spark, Hive, DataFlow/Beam).
+Flexible with tools and programming languages (Python, Java, Scala, Go) and able to learn new technologies quickly.
+Plus If...
+Knowledge of real-time optimization models with delayed reward (multi-armed bandits, reinforcement learning).
+Industry experience developing recommender systems for personalized game predictions or similar.
+Experience applying ML models in mobile games, particularly at scale.
+Experience working with business stakeholders - understanding and proving impact, resourcing, and schedules.
+Join the Niantic team!
+
+
+Niantic is the world's leading AR technology company, sparking creative and engaging journeys in the real world. Our products inspire outdoor exploration, exercise, and meaningful social interaction.
+
+Originally formed at Google in 2011, we became an independent company in 2015 with a strong group of investors including Nintendo, The Pokémon Company, and Alsop Louie Partners. Our current titles include pioneering global-control game Ingress, record-breaking AR game Pokémon GO, and recently released third title, Harry Potter: Wizards Unite.
+
+Niantic is an Equal Opportunity and Affirmative Action employer. We believe that cultivating a workplace where our people are supported and included is essential to creating great products our community will love. Our mission emphasizes seeking and hiring diverse voices, including those who are traditionally underrepresented in the technology industry, and we consider this to be one of the most important values we hold close.
+
+We're a hard-working, fun, and exciting group who value intellectual curiosity and a passion for problem-solving! We have growing offices located in San Francisco, Sunnyvale, Bellevue, Los Angeles, London, Tokyo, Hamburg, and Zurich.

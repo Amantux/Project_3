@@ -1,0 +1,45 @@
+Job Description
+
+ABOUT THE JOB
+
+The Decision Sciences team is part of the Enterprise Payments and Analytics organization. Its mission is to lead KeyBank’s journey to become an innovative, data driven enterprise by building advanced analytics solutions for solving business problems. Our experienced team of AI/ML and Data Science practitioners focuses on engaging, enabling, and empowering decision-makers across the enterprise by developing, managing and supporting advanced analytics products and scalable digital solutions, such as real time and on demand predictive models and prescriptive analytics, and continuously researching, specifying, and deploying next-generation analytics capabilities. We are an internal consulting and services organization that works directly with users across the firm, including Lines of Businesses and partners in Enterprise Strategy, Marketing, Data Analytics, and Enterprise Architecture, to facilitate the development of innovative solutions that help KeyBank compete and win with analytics.
+
+The Big Data ML Engineer fills a critical data, analytics, technology support, and innovation role for the business analytics and advanced analytics functions within the organization. The Engineer is primarily responsible for end-user product development, deployment in production framework, data analytics technical support as well as leveraging best tools and techniques, and end-user training of new emerging analytics open source technologies. S/he is also the primary conduit for identifying, researching, and evaluating new and innovative technologies that enhance the organization’s enterprise analytics and advanced analytics capabilities.
+ESSENTIAL JOB FUNCTIONS
+
+The ML Engineer works both independently and in collaboration with a cross-functional team of Data scientists and solution system architects to effectively develop, deploy, monitor, manage, and support AI/ML models and advanced analytics technology, data infrastructures, and underlying analytics use cases—primarily focused around open source technologies including cloud infrastructures. This individual evaluates short/long-term business needs required to support key business goals and priorities and works to ensure Advanced analytics solutions are built and deployed in an effective and efficient manner on Key Enterprise systems. Under the guidance of the Group’s Director and in cooperation with partners in decision science, technology, and data the Engineer will coordinate the development of on-premise and cloud-based analytical non-production and production infrastructure and tools providing computational and statistical capabilities to enhance business results and monetize on key data assets for business decision management solutions. The Engineer will be working closely with data scientists, data mining experts, and business partner supporting the design of experiments and analytics, data sampling and mining, verification of data quality and information integrity, and best practices around the development and deployment of predictive/prescriptive models, DevOps operational systems and practices, and data visualization solutions. The Engineer has responsibility for advising data scientists, Agile project teams, and solution architects in the integration of analytical models/methods into decision management solutions. The Engineer will assist peers in best practices and in the selection and integration of appropriate tools to support required analytic products in close coordination with the organization’s AI/AutoML analytics, digital intelligence engineers, solution/data architects, data integration developers, and data science community ensuring tight integration of functionality and toolsets.
+REQUIRED QUALIFICATIONS
+Bachelor's degree in computer science, electrical/electronic engineering or other engineering or technical discipline is required.
+Minimum of 8 years of experience in IT and Big data software development is required
+Minimum 3+ Predictive Analytics model implementation experience in production environments using ML/DL libraries like TensorFlow, H20, Pytorch, Sci-kit Learn.
+Experience in using NLP, Bi/Visual analytics, Graph Databases like Neo4j/Tiger Graph is preferred,
+Experiences in designing, developing, optimizing and troubleshooting complex data analytic pipelines and ML model applications using Spark, HDFS and other big data related technologies
+Programming in Python, R or Scala using distributed frameworks like PySpark, Spark, SparkR
+Working Knowledge in IDE environment/Tools like Jupyter, R Studio, GitHub, Docker, Jenkins
+Solid knowledge of data warehousing such as Hadoop, MapReduce, HIVE, Apache Spark, as well as cloud base data storage: Google Cloud Storage with various formats (Parquet, JSON, ORC, Avro, delimited)
+Solid understanding of databases such as DB2, Oracle, Teradata, MySQL, PostgreSQL
+Extensive Experience with R and Python including language-specific and data science-oriented packages required.
+Experience with Hadoop and Spark cluster, SparkSQL, Spark ML, and other third-party machine learning algorithms using Scala, PySpark and/or SparkR
+Experience with Linux/Unix required
+Exposure to Google Cloud services- GCP or any cloud environment.
+Working experience on Apache Airflow
+Experience in enterprise scale analytic solutions development and deployment with high performance, scalability, availability & reliability.
+Certified Professional Google Data Engineer preferred
+Candidate must be a self-starter and creative problem-solver with an innovative and curious mindset.
+Must have a working knowledge of advanced technology uses cases in financial services including machine learning, interactive data visualization, cloud computing, and streaming analytics.
+Strong communication skills and the ability to interact and collaborate with all levels of the organization.
+A broad, enterprise-wide view of the business and varying degrees of appreciation for strategy, processes and capabilities, enabling technologies, and governance
+The ability to recognize pain points within the organization, functional interdependencies and cross-silo redundancies. Those issues may exist in role alignment, process gaps and overlaps, and business capability maturity gaps
+The ability to apply architectural principles, methods, and tools to business challenges
+The ability to create capability portfolios and technical roadmaps addressing gaps
+The ability to understand and recognize the economics of technology and the business goals
+The ability to perform industry analysis and identify business and technology trends specific to the portfolio
+The ability to visualize and create high-level models that can be used in future analysis to extend and mature the business architecture
+The ability to assist business case creation and realization by aligning business goals to organizational capabilities
+Strong situational analysis and decision-making abilities
+Financial and/or Banking background preferred.
+FLSA STATUS:Exempt
+
+KeyCorp is an Equal Opportunity and Affirmative Action Employer committed to engaging a diverse workforce and sustaining an inclusive culture. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.
+
+42178BR

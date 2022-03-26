@@ -1,0 +1,81 @@
+COMPANY OVERVIEW:
+
+TIAA is the leading provider of financial services in the academic, research, medical, cultural and government fields. We offer a wide range of financial solutions, including investing, banking, advice and education, and retirement services.
+
+POSITION SUMMARY:
+
+Cybersecurity is seeking a Sr. Data Scientist to join the Cyber Analytics and Data Science team. This position will use machine learning, data engineering and Data Science principles to solve enterprise problems through the use of Machine Learning & AI systems. This role is a key contributor to our practice and will be directly responsible for design, development, deployment and automation. The successful candidate will work closely with key stakeholders to rapidly advance the use of predictive and prescriptive analytics for cybersecurity. We are seeking candidates with passion to lead the implementation of cutting-edge technology and methodologies while establishing strong partnerships with data owners and stakeholders across the firm. The Sr. Data Scientist will have demonstrated experience as a problem-solver, working alongside IT and business partners, and act as a trusted consultant.
+
+KEY RESPONSIBILITIES AND DUTIES:
+
+Structure business problems and drive viable, data-driven hypotheses in collaboration with business partners
+
+Ability to skillfully enumerate a business problem, quantify its impact, size relevant data, and document applicable sources
+
+Devise, develop and disseminate actionable intelligence from disparate data sources using advanced data analytics tools and techniques
+
+Ability to identify needs and opportunities for advancements in innovations and processes
+
+Able to work proactively and take initiative without being specifically directed
+
+Effectively measure data throughput from machine learning, and benchmark against KPIs to mitigate risks, provide transparency, and identify opportunities
+
+Take full accountability of data analysis and developed systems, and present a clear, accurate interpretation of results to stakeholders
+
+Effectively manages expectations with stakeholders throughout analysis and development
+
+Ability to extract & aggregate data from disparate data sources
+
+Ability to correlate findings of data
+
+Ability to perform in depth data analysis including but not limited to
+
+Machine Learning
+
+Classification
+
+Optimization
+
+Time Series analysis
+
+Pattern Recognition
+
+Ability to identify actionable intelligence from data analysis
+
+Establish and develop end-to-end automated processes (i.e.: data analyses, model development & implementation, manual processes, etc)
+
+Ability to communicate complex topics in an easy-to-understand manner when presenting to management
+
+Ability to visualize data and intelligence in easy to understand story telling
+
+QUALIFICATIONS:
+
+Required Skills
+
+B.S. in a Science, Technology, Engineering, Mathematics (STEM).
+
+3 or more years working with languages such as R and Python.
+
+3 or more years with at least one of the following data repository technologies; Oracle, Teradata, SQL Server, Hadoop, Splunk, or ELK.
+
+2 or more years applying statistics in data analyses leveraging at least two of the following; regression modeling, classification labeling, recommendation, parametric/non-parametric modeling, linear algebra, decision trees, random forests.
+
+2 or more years of Experience presenting and delivering results to business partners and leadership.
+
+2 or more years’ experience in data visualization with technologies such as (Tableau, PowerBI, D3, SAS, R and/or Python visualization libraries)
+
+Preferred
+
+M.S. or PhD in a Science, Technology, Engineering, Mathematics (STEM) or Economics related field of study.
+
+2 or more years with modern data engineering like kafka, spark, ETL, APIs, feedback loops, web triggers or tagging
+
+3 or more years working with languages such as SQL, and/or Java
+
+2 or more years working with advanced statistical methods such as regressions, classifiers, recommenders, anomaly detection, and optimization algorithms, tree methods, neural nets, etc.
+
+2 or more years practicing scientific research methodology such as DM-CRISP or SEMMA
+
+2 or more years using AWS cloud services (Lambda, DynamoDB, EC2, Lex, Rekognition, etc.)
+
+2 or more years applying agile SDLC

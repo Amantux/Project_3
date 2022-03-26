@@ -1,0 +1,83 @@
+Guideline is looking for a Senior Data Scientist to join the Data team.
+
+What you will be working on?
+
+You will develop, productize and maintain complex algorithmic solutions to the hardest numeric problems in operating small business 401(k) plans intelligently, at scale and compliant to retirement plan regulations.
+
+Traditionally these problems have been tackled manually on spreadsheets for decades using a trial-and-error approach, which is error-prone, slow, inconsistent and inefficient. Guideline takes a completely different and revolutionary approach. You will formulate the problems as models and develop modern and intelligent algorithmic solutions that are applied accurately, continuously, consistently and efficiently in the cloud to deliver critical value to clients.
+
+Responsibilities
+
+Make sound choices among alternative mathematical frameworks to formulate problems
+
+Develop algorithms/models prototypes
+
+Thoroughly understand input data, including signal and noise
+
+Thoroughly understand prototypes' performance and nuances in simulated or historical environments
+
+Productize algorithms/models in production environments on GCP
+
+Measure and monitor actual model performance in production environments, and use the learnings to iterate and improve
+
+Identify, adopt and improve frameworks, policies and tools to streamline the development process from prototyping to production
+
+Facilitate cross-functional collaboration
+
+Coach junior members
+
+Knowledge share within the team as well as to other teams
+
+The Team
+
+The Data Team is tasked to improve our 401(K) product offerings where we assist clients to make informed decisions on some of the most challenging aspects in saving for retirement, build and manage the company's data infrastructure and drive business effectiveness and efficiency by uncovering insights from proprietary data and public data.
+
+Required Qualifications
+
+Graduate degree (MS or Ph.D.) in quantitative disciplines from a reputable university
+
+5+ years of professional experience in a similar role in a technology company
+
+Extensive experience in applied statistics, applied machine learning and optimization
+
+Extensive experience of 1+ analysis-oriented programming languages (e.g. SQL, R, Python)
+
+Extensive experience of 1+ production-oriented programming languages (e.g. Python, Java, Scala)
+
+Experience of 1+ database technologies (e.g. transactional database, analytical data
+
+warehouse, key-value data store, document store)
+
+Experience of REST API development
+
+Experience in taking algorithm/model development projects from prototype to production on a major cloud platform
+
+Superb verbal and written communication skills. Able to communicate effectively to technical audience as well as non-technical audience
+
+Team player
+
+Driven to deliver high-quality work and make a business impact
+
+What is Guideline?
+
+At Guideline, we're helping people save for a better future. Guideline is the only 401(k) provider that doesn't charge participants any fees on investments, regardless of the value of their assets or retirement account balance. And for employers, Guideline charges a low, flat rate fee per participant, in contrast to the asset-based fee model predominant in the industry.
+
+With over 7,000 clients and hundreds of millions of dollars in assets under management, in just a couple of years of operations, we're well on our way to making smart retirement planning easy for everyone.
+
+We have raised $59M to date with top-tier investors.
+
+Employee Benefits
+
+Flexible Vacation Policy
+
+401(k) Matching
+
+100% coverage of Health / Vision / Dental
+
+Generous parental leave policy
+
+Daily lunch
+
+Commuter benefit
+
+Guideline provides equal employment opportunities to all employees and applicants for employment without regard to race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

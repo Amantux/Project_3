@@ -1,0 +1,57 @@
+Here at Discount Tire, we celebrate the spirit of our people with extraordinary pride and enthusiasm. As America's largest independent tire retailer, specializing in tires & wheels, we have over 1,000 store locations and continue to grow every year. Our consistent growth over the last 60 years, the loyalty of our customers and passion of our people makes Discount Tire a great place to work.Under general supervision, Data Engineer II supports Discount Tire's Data Science and Business Intelligence teams in developing advanced analytic solutions that support the enterprise's key strategic initiatives. This role is responsible for developing, testing and maintaining our cloud-based analytics platform, including data pipelines, Enterprise Data Warehouse and other Big Data technologies. Embodies IOOGA (Integrity, Our People, Our Customers, Growth and Attitude)
+
+Essential Duties and Responsibilities:
+
+• Develops high performance distributed data warehouse, distributed analytic systems and cloud architectures.
+• Participates in the development of relational and non-relational data models focusing on design for optimal storage and retrieval
+• Develops, tests and debugs batch and streaming, data pipelines (ETL/ELT) to populate databases and object stores from multiple disparate data sources; provides recommendations to improve data reliability, efficiency and quality.
+• Design and develop scalable solutions leveraging using technologies including Docker and Kubernetes
+• Working along side data scientists, supports the development and promotion of high-performance algorithms, models and prototypes.
+• Implements data quality metrics, standards, guidelines; automates data quality checks / routines as part of data processing frameworks; validates flow of information.
+• Ensures that Data Warehousing and Big Data systems meet business requirements and industry practices; including but not limited to, automation of system builds, security requirements, performance requirements and logging/monitoring requirements.
+• Troubleshoots data and performance related issues; implements adjustments, documents root cause and corrective measure; provides recommendations to stakeholders.
+• Documents technical specifications and participates with peers in design and code review sessions.
+• Employ a variety of scripting languages and tools to integrate data from multiple disparate data sources.
+• Use basic statistical and visualization techniques to analyze the resulting data sets of your processes
+• Learn and stay abreast of new technologies that can improve the efficacy of the analytics and data science teams
+• Stays current on the latest industry technologies, trends and strategies.
+• Other duties as assigned.
+
+Qualifications:
+
+• This position requires a minimum of five years of progressive database development and integration experience.
+• Strong knowledge of logical and physical data modeling is necessary, including but not limited to entity design, relationships, indexing and star schemas.
+• Ability to translate a logical data model into a relational or non-relational solution is necessary.
+• Understanding of multiple relational (RDMS) and non-relational (NoSQL) data platforms is needed.
+• SQL experience is required.
+• Scripting knowledge with SQL and Python.
+• Experience in SQL tuning, indexing, partitioning, data access patterns and scaling strategies is needed.
+• Experience with data integrations and data processing for business intelligence and analytics workloads is required.
+• Experience with AWS S3 or other distributed object stores, AWS Redshift, Elastic MapReduce a plus.
+• Hands-on experience in database development using views, SQL scripts and transformations is needed.
+• Proficient with Microsoft office, including skills with Word and Excel, is necessary.
+• Experience working with large complex data sets.
+• Understanding of Software Development Life Cycle (SDLC) methodologies such as Agile and Waterfall is needed.
+• Proven analytical problem solving and decision making skills is critical.
+• Ability to communicate across all levels of the organization is necessary; must be able to clearly articulate technical ideas to a non-technical audience both verbally and in writing.
+• Ability to work independently and in a team is vital.
+• Customer service skills including the ability to manage and respond to different customer situations while maintaining a positive and friendly attitude is essential.
+• The ability to multi-task, and manage multiple projects to meet various deadlines simultaneously is required.
+• The ability to work efficiently and accurately under pressure, meet deadlines and present a professional demeanor is essential.
+• In addition, troubleshooting and organizational skills with a can-do attitude and the ability to adjust to changing requirements are essential.
+
+Educational Requirements:
+
+This position requires a Bachelors Degree in Computer Science, Computer Information Systems or related or equivalent experience.
+
+Data or cloud related certifications are a plus.
+
+Work Days:
+
+Normal work days are Monday through Friday. Occasional Saturdays and Sundays may be necessary.
+
+Work Hours:
+
+Normal work hours are 8:00 a.m. to 5:00 p.m. Additional hours may be necessary.
+
+Job Requirements:

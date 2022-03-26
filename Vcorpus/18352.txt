@@ -1,0 +1,33 @@
+Title: Data Engineer I
+Location:Philadelphia, PA
+Type: Contract
+
+Our client is seeking a motivated Data Engineer who would help build data pipelines to ingest and transform the data into our Data platform (on-prem/cloud). Candidate should be passionate about Python coding.
+
+Key Accountabilities:
+Develop and enhance data pipelines, mostly batch (if necessary "streaming " processes.
+Apply best approaches for large scale data movement, capture data changes and apply incremental data load strategies.
+Build automated test pipelines to ensure data integrity and completion.
+Identify and improve current data pipelines through automation and optimization.
+Basic knowledge on structured operational processes, conformance with SLAs, and metrics-based reporting.2. Foundational knowledge in Change Control Mgt. processes3. Experience with process documentation and communication tools including MS Word, Project, Excel, Visio and PowerPoint.
+SQL and Database Knowledge Understanding SQL, Relational and Multidemensional Databases and Designs.
+Knowledge of relational database structures (tables, data types, data model schemas), SQL Syntax & SQL Functions, develop Views and SQL Optimization Moderate experience and proven use of one or more of the subject areas listed below:
+Tableau, Qliksense, Power PI, or any other data visualization application.
+Data Warehouse Support and Design.
+Creating/Maintaining Tables, views, & indexes &bull.
+Proficiency in appropriate Business Intelligence/Data Warehousing technology or subject domain.
+Required Skills:
+Understand and comply with all enterprise and IS departmental information security policies, procedures and standards.
+Support the integration of information security in the development, design, and implementation of Hospital Technology Resources that process, transmit, or store information.
+Support all compliance activities related to state, federal regulatory requirements, healthcare accreditation standards, and all other applicable regulations that govern the use and disclosure of patient, financial, or other confidential information.
+Soft Skills:
+Comfortable working in a collaborative environment.
+Ability to self-organize one's priorities and schedule.
+Have mindset to perform necessary documentation.
+Should be a self-starter to work independently or in a team.
+Preferred Experience:
+5+ years of experience with Python.
+3+ years of experience working with BigData platform, large and complex.
+3+ file types such as XML, JSON, AVRO, PARQUET, ORC etc.
+Should be comfortable using SQL, Git, JIRA, Docker, CI/CD for testing/deployment.
+10490677

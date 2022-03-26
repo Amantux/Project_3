@@ -1,0 +1,26 @@
+Machine Learning Engineer
+Our client, one of the largest banks in the US with wealth management, investment banking, and international business, is seeking a Machine Learning Engineer
+
+Location: New York, NY
+Position Type: Contract
+
+Responsibilities:
+
+-Design and develop scalable ML/AI solutions to solve diverse business challenges by deriving features from rich data sources, training, evaluating and deploying models to production using cutting edge technologies
+-Gather and analyze data to perform statistical analysis, identify key factors and build comprehensive visualizations to report findings
+-Utilize statistical methods to process, clean and validate data for uniformity and accuracy
+-Create and maintain end-to-end data pipelines and APIs according to business requirements
+-Communicate analytic solutions to stakeholders and implement improvements as needed to operational systems
+
+Requirements:
+
+-5+ years in a data science role with proven record of implementing end-to-end ML/AI solutions into production
+-5+ years of experience using statistical computer languages, such as R or Python (preferred)
+-2+ years of experience working with large data sets (> 1TB) and using big data solutions such as Hadoop, Hive, Spark, Storm, MongoDB etc.
+-1+ year of experience specifically with deep learning (e.g., CNN, RNN, LSTM) and NLP frameworks
+-Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, etc. and their real-world advantages/drawbacks
+-Rigorous understanding of statistics and ability to discern appropriate statistical techniques to problem-solve
+-Proficiency with writing SQL queries
+-Master’s degree or PhD in computer science, applied mathematics, or related technical/scientific field preferred
+-Experience with data visualization tools, such as Tableau, is a plus
+-Prior work experience in the financial industry is a plus

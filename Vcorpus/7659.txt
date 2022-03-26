@@ -1,0 +1,49 @@
+Cvent is a leading cloud-based enterprise event management company with more than 25,000 customers, 300,000 users, and 3,000 employees worldwide. Cvent offers software solutions to event planners for online event registration, venue selection, event management, mobile apps for events, email marketing, and web surveys. Cvent provides hoteliers with an integrated platform, enabling properties to increase group business demand through targeted advertising and improve conversion through proprietary demand management and business intelligence solutions. Cvent solutions optimize the entire event management value chain and have enabled clients around the world to manage hundreds of thousands of meetings and events..
+
+The Data Scientist position is part of the Data Analytics and Insights team that provides big data and machine learning services to various departments, including Software Development and Product Management teams. The Data Scientist will serve as a subject matter expert and drive thought leadership in the areas of machine learning, predictive analytics, statistics, and modeling. The Data Scientist will work as a member of the R&D team to support and enhance data analytics infrastructure. The Data Scientist will frequently be tasked with researching new tools and technologies and asked to come up with recommendations on how they can be used in Cvent applications.
+
+What You Will Do
+
+Work closely with product managers, product designers, and engineers to devise appropriate measurements and metrics
+
+Work with large amounts of data to identify opportunities that would help improve the experience for Cvent customers
+
+Create models and implement machine learning algorithms to uncover usage patterns and new opportunities
+
+Formulate experiments and conduct hypothesis validation to deliver meaningful insights and recommendations for better process and experience
+
+Play a leading role in supporting and enhancing the architecture and the framework of Cvent applications
+
+Help guide the technology direction through recommendations of specific technologies to pursue as well as suggestions for training and staff development activities
+
+Evaluate and prototype POC using the best technologies for the job
+
+Define and implement automated build, deployment, and testing procedures
+
+Improve system scalability and application isolation
+
+Requirements
+
+Ph.D. (preferred) or MS in Computer Science, Math, Statistics, Economics, or other quantitative fields
+
+Strong background in machine learning theory and best practices, data analytics and statistics
+
+Hands-on experience applying advanced machine learning techniques to different types of data.
+
+Working knowledge of ML frameworks: SciKit, TensorFlow (or Pytorch) is required.
+
+Experience working with RESTful APIs.
+
+Excellent command of Python and ability to work with R. Knowledge of other programming languages Java, Csharp, Scala, C++ are a plus.
+
+Familiarity with of AWS SageMaker to build and deploy ML models.
+
+Experience working with large datasets in a distributed computing environment such as Hadoop or Spark preferred.
+
+Ability to understand the business problem, identify the key challenges, formalize the problem algorithmically, and prototype solutions.
+
+Ability to clearly document, synthesize, and communicate results to stakeholders.
+
+Willingness to think through problems with others.
+
+EEO[/AA]Minorities/Females/Disabled/Veterans

@@ -1,0 +1,28 @@
+With NVIDIA’s rapidly growing suite and complexity of product offerings comes great analytics potential. As a Product Data Engineer, you will craft and develop infrastructure to store, process, and analyze large data sets. The product insights gained from these data sets will improve manufacturing and impact designs for future products.
+
+What you’ll be doing:
+Crafting and building a data platform to handle growth in data scale and analytics scope
+Working with Product Engineers to understand analytics use cases and develop data pipeline processes to support them
+Building tools for efficient product characterization during NPI
+Supporting the training and release of machine learning algorithms in product manufacturing
+What we need to see:
+Bachelors in Computer Science or equivalent experience
+2 - 4 years of proven experience
+Strong programming skills in Python, Java, Scala, or Go
+Advanced understanding of SQL
+Experience in building and maintaining data infrastructure to handle large datasets
+Experience with relational databases MySQL or PostgreSQL and data stores such as Hadoop, HBase, or Cassandra
+Background with compute frameworks and data warehouses like Hive, Redshift, Spark, and Dask
+Experience with cloud providers such as AWS or Azure
+Stellar partnership and interpersonal skills
+Ways to stand out from the crowd:
+Masters in CS or Computer Engineering
+Experience with ETL frameworks like Airflow and Luigi
+Familiarity with machine learning tools such as SVMs, Kernel Functions, gradient descent, back-propagation
+Display familiarity with chip and board testing data
+Experience with Tableau, Looker, Kibana or other data visualization platforms
+Hardworking and passionate about the industry
+Show willingness to collaborate with teams across the globe
+With competitive salaries and a generous benefits package, NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us and, due to unprecedented growth, our outstanding engineering teams are rapidly growing. If you're a creative and autonomous engineer with a real passion for technology, we want to hear from you.
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression , sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.

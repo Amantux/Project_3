@@ -1,0 +1,31 @@
+We are a team on a mission, to put accessible and affordable healthcare in the hands of every person on earth. Our mission is bold and ambitious, and it’s one that’s shared by our team who shares our values, to dream big, build fast and be brilliant.
+
+To achieve this, we’ve brought together one of the largest teams of scientists, clinicians, mathematicians and engineers to focus on combining the ever-growing computing power of machines, with the best medical expertise of humans, to create a comprehensive, immediate and personalized health service and make it universally available.
+
+At Babylon our people aren’t just part of a team, they’re part of something bigger. We’re a vibrant community of creative thinkers and doers, forging the way for a new generation of healthcare. We’re only as good as our people. So, finding the best people is everything to us.
+
+We serve millions, but we choose our people one at a time…
+
+What will you do?
+
+You will be an expert point of contact for data management and reporting for Analytics in the US.
+
+This involves:
+
+- Actively collaborating with Data Engineering to build scalable ETLs and warehouse data models using dbt and airflow
+- Building comprehensive reporting suites in Tableau by working closely with stakeholders in Marketing, Product and Commercial
+- Working effectively across different functions to ensure ingestion of external 3rd party data sources into Babylons central database
+- Building a deep understanding of Babylon's products and data estate in order to tell a compelling story with data that informs business strategy across Product, Marketing and Commercial.
+
+This role is suited for Analysts who enjoy a cross-functional role and love to problem-solve. We are looking for a down to earth, detail-orientated person who has a thirst for knowledge and is able to form their own fair, holistic judgement.
+What are we looking for?
+Degree in Computer Science, Engineering or a quantitative field
+Advanced SQL skills
+Previous experience in using Tableau / Looker or other industry standard visualisation tools to build automated reporting
+Previous experience building ETLs and data pipelines (ideally with dbt)
+A mindset for automation and driving data-self-serviceStrong communicator
+Experience working cross-functionally in a fast moving, client-delivery orientated environment
+Nice to have!
+Experience working in marketing and product domains preferably in fast-moving tech companies
+Experience in Python and BigQuery
+We look forward to hearing from you!

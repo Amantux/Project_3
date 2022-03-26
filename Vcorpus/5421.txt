@@ -1,0 +1,99 @@
+Read what people are saying about working here. 
+Data Scientist
+
+Position Description
+
+CGI is looking for a talented, driven Senior Data Scientist who has a passion for solving problems to join our team in Charlotte. At CGI you get to build solutions as a full time consultant with a world-class IT company. You will be involved in a mission critical project working with smart, dedicated people like yourself, and making an impact with both internal and client stakeholders. Tired of the same old thing? Take your talents to a company that inspires personal and professional growth and values your ideas.
+
+Your future duties and responsibilities
+
+You will be conducting business-consulting activities for the Analytics Services and Transformation group with a regional utility provider. You will focus on insights around determining non-technical line loss, customer usage patterns, asset protection, and power theft. Another goal of the program is to produce a multi-year load-forecasting model at the circuit level.
+
+The environment is very dynamic and provides for a very balanced workload. Any aspiring data scientist will enjoy the innovative environment with over 50+ data scientist, modern tech stack, and unique business challenges.
+
+Experience with time series modeling is necessary to be successful in this role. Utility experience is not required, but preferred.
+
+Serve as an expert in translating complex data into key strategy insights and valuable actions.
+
+Discover business narratives told by the data and present them to other scientists, business stakeholders, and managers at various levels.
+
+Developing ETL’s using a variety of scripting languages and ETL tools to ingest data into Hadoop; working collaboratively with customers and team members supporting large business initiatives
+
+Develop and test heuristics.
+
+Create and run models.
+
+Perform data exploration and data mining spanning a range of disciplines
+
+Work with highly dynamic team of data scientist, data engineers, SMEs and product owners to deliver insights
+
+Create business intelligence, dashboards, visualizations, and/or other advanced analytics reports to adequately tell the business narrative and offer recommendations that are practiced, actionable, and have material impact, in addition to being well-supported by analytical models and data.
+
+Required qualifications to be successful in this role
+
+Graduation from a four-year college or university with a degree in statistics, physics, mathematics, engineering, computer science, or management of information systems.
+
+3-5 years experience plus degree in Machine Learning and Data Analysis
+
+Masters degree in Data Science or Analytics (preferred)
+
+Strong programming experience in Python, R, SQL
+
+Experience with Statistical Techniques: Logistic Regression and Linear and Multiple Regression, Decision Trees, Clustering, Random Forest
+
+Working experience with Time Series Modeling (Required): Skills such as analysis of variance (ANOVA) and forecasting techniques using ARIMA, ARMA, NARX
+
+Expert knowledge of PySpark required
+
+Strong knowledge of statistical methods (regression, time series, hypothesis testing, A/B testing, ANOVA, randomized experiment), machine leaning, algorithms, data structures and data infrastructure
+
+Experience with R for statistical analysis
+
+Experience with Numpy packages, Pandas, Jupyter and Zeppelin notebooks
+
+SQL experience required
+
+Hands on development experience with Apache technologies such as Hadoop, Spark, Hbase, Hive, Pig, Solr, Sqoop, Kafka, Oozie, NiFi, etc. Working knowledge of statistics, programming and predictive modeling
+
+Experience designing data queries against data in the HDFS environment using tools such as Apache Hive and Apache HBase
+
+Experience working in data mining or natural language processing.
+
+Mastery of statistics, machine learning, algorithms and advanced mathematics.
+
+Hands-on development experience with one or more of Java, Python, Scala.
+
+Knowledge and experience in implementing Deep neural networks is a plus
+
+Consulting experience in an agile environment is a plus
+
+Experience with visualization utilizing PowerBI is a plus
+
+General Energy and Utility experience is a plus
+
+Utility forecasting, metering, GIS, distribution planning knowledge would be a plus
+
+Build your career with us.
+
+It is an extraordinary time to be in business. As digital transformation continues to accelerate, CGI is at the center of this change—supporting our clients’ digital journeys and offering our professionals exciting career opportunities.
+
+At CGI, our success comes from the talent and commitment of our professionals. As one team, we share the challenges and rewards that come from growing our company, which reinforces our culture of ownership. All of our professionals benefit from the value we collectively create.
+
+Be part of building one of the largest independent technology and business services firms in the world.
+
+Learn more about CGI at www.cgi.com.
+
+No unsolicited agency referrals please.
+
+CGI is an equal opportunity employer.
+
+Qualified applicants will receive consideration for employment without regard to their race, ethnicity, ancestry, color, sex, religion, creed, age, national origin, citizenship status, disability, medical condition, military and veteran status, marital status, sexual orientation or perceived sexual orientation, gender, gender identity, and gender expression, familial status, political affiliation, genetic information, or any other legally protected status or characteristics.
+
+CGI provides reasonable accommodations to qualified individuals with disabilities. If you need an accommodation to apply for a job in the U.S., please email the CGI U.S. Employment Compliance mailbox at US_Employment_Compliance@cgi.com. You will need to reference the requisition number of the position in which you are interested. Your message will be routed to the appropriate recruiter who will assist you. Please note, this email address is only to be used for those individuals who need an accommodation to apply for a job. Emails for any other reason or those that do not include a requisition number will not be returned.
+
+We make it easy to translate military experience and skills! Click here to be directed to our site that is dedicated to veterans and transitioning service members.
+
+All CGI offers of employment in the U.S. are contingent upon the ability to successfully complete a background investigation. Background investigation components can vary dependent upon specific assignment and/or level of US government security clearance held.
+
+CGI will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with CGI’s legal duty to furnish information.
+ We are CGI. You may not have heard of us before, but we are one of the world’s largest IT companies and work on projects across a range o...

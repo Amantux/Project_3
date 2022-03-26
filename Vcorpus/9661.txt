@@ -1,0 +1,43 @@
+VA Boston Healthcare System, Boston, Massachusetts
+
+Come join us in Boston at The VA Boston Healthcare System (VABHS), New England's premier referral center for Veterans' healthcare. VABHS is the largest recipient of VA research funds in the nation and ranked #3 among 146 VA facilities nationally for overall employee satisfaction. The Massachusetts Veterans Epidemiological Research and Information Center (MAVERIC) is an interdisciplinary research organization in VABHS. Its Informatics division is seeking a full-time Data Scientist who love working with data and want to use their data science skills to help VA researchers conduct high-impact research that expands our understanding of human health and improves healthcare outcomes for Veterans. You will join a strong, collegial, friendly, and talented team of computer scientists, statisticians, and clinicians at the VA.
+
+Core responsibilities
+
+Use advanced data analysis methods (from machine learning, artificial intelligence, applied statistics, etc) to assist in building predictive models of healthcare outcomes from the largest integrated medical records database in the United States, with comprehensive clinical information on over 22 million patients (2 trillion+ rows, 22,000+ columns of data), including large amounts of both structured and unstructured data
+
+Extract, clean, and validate data in preparation for analysis, starting from raw data in a large relational database
+
+Carry out exploratory analyses and prepare reports summarizing our analyses
+
+Collaborate with a range of researchers, including clinicians, computer scientists and statisticians to design and execute analyses
+
+Assist in developing improved data science methodology in relation to healthcare data
+
+Assist in publishing papers on our findings, systems, and methodology
+
+Qualifications
+
+MUST be a US Citizen and MUST clear a US government background check
+
+Undergraduate or graduate degree in a relevant field (computer science, statistics, informatics, physics, computational biology, etc.)
+
+Proficiency in programming with R and/or Python to carry out data analysis in large and complex datasets
+
+Experience working with relational databases using SQL or willingness to learn
+
+Ability to move projects forward independently with moderate support
+
+Ability to work effectively in multi-disciplinary teams
+
+Passion for advancing healthcare research through creative use of data
+
+Strong communication and collaborative research skills required
+
+Experience using version control and reproducible research (git, knitr, etc.) is preferred
+
+Experience with electronic medical record data or clinical databases preferred
+
+If providing care for our veterans is something that appeals to you while enjoying amazing benefits, in addition to working and living in an area rich in history, culture, and recreational opportunities, this position is for you!
+
+Applicants should submit a cover letter and CV or inquiries to Nathanael.Fillmore@va.gov by September 6th, 2019. Include “Data Scientist” in the e-mail subject line.

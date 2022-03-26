@@ -1,0 +1,34 @@
+About Sysco LABS
+
+Sysco LABS is a technology-focused division within Sysco, dedicated to reimagining foodservice through innovation. An extension of Sysco’s commitment to deliver exceptional products and services to the foodservice industry, Sysco LABS uses customer and market intelligence, data-driven insights and agile technology development to rethink the entire foodservice ecosystem.
+
+Our innovation will improve everything from the ordering process, inventory, pricing and automation to the in-restaurant customer experience. Operating with the mindset of a startup and backed by the authoritative expertise of an industry leader, Sysco LABS’ mission is to improve the Sysco customer experience and consistently deliver cost savings and new innovations through technology.
+
+About the Role
+
+As a Senior DevOps Engineer at Sysco labs, you will be a senior member of the DevOps team and instrumental in building and implementing our platform strategy from the ground up. You will help to automate and streamline our engineering operations, troubleshoot and resolve issues and design, develop, test and deploy solutions as required. This position will work closely with other engineers on the team in order to maintain seamless integration of data and streaming components with the entire platform. The ideal candidate is someone who loves building and maintaining reliable and scalable systems and automating cloud-based databases and platforms, while also possessing a strong fundamental grasp of database systems and architecture.
+
+What you’ll bring to the table:
+6+ years of experience in DevOps, automation, and infrastructure-as-code
+Extensive knowledge of relational and NoSQL databases (Aurora//Redis/MongoDB)
+Experience and understanding of working in AWS environments
+Experience supporting infrastructure for large multi-services applications
+Experience working with Jenkins or other infrastructure-as-code, CI/CD, and automated build tools
+Experience working with Docker and containerized applications
+Experience working with ECS, EKS, Kubernetes, or other container orchestration tools
+Experience working with streaming technologies (Kafka/Kinesis)
+Proficiency in Python (or similar language) and git
+Experience working with Linux and the Linux command line
+Experience building and maintaining automation scripts, modules and pipelines to make standing up infrastructure and systems repeatable.
+Strong knowledge with APM tools such as Dynatrace, New Relic, DataDog, and Nagios
+Experience working with configuration management tools
+Perks at Sysco LABS
+Competitive base & bonus packages
+Fun, casual, fast-paced work environment filled with talented colleagues
+Generous PTO policy
+Flexible work environment that encourages work/life balance
+Fully stocked break room & weekly catered lunch
+Excellent medical, dental and vision benefits and company 401(k) program
+At Sysco LABS you will be part of a team that values trust, learning, and working together to solve problems. Your efforts will help to build groundbreaking experiences for our customers. Come join us!
+
+We embrace diversity and equal opportunity in a serious way. We are committed to building a team that represents a variety of backgrounds, perspectives, and skills. The more inclusive we are, the better our work will be.

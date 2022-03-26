@@ -1,0 +1,31 @@
+Below skills are Mandatory.
+Expertise in Manual, Unix, PL/SQL, Oracle with store procedures, views, packages, Quality Center, Jira
+Automation python scripting is plus
+
+Title: QA Analyst
+Location: Chicago, IL
+Role: Fulltime
+Salary: 85 to 90k + Benefits.
+
+Inviting applications for the role of QA Analyst
+Skillset (Must have)
+Expertise in Manual, Unix, PL/SQL, Oracle with store procedures, views, packages, Quality Center, Jira
+Automation python scripting is plus
+
+Responsibilities ;
+Test Validations on following regular changes in
+Stored Procedure
+Packages that include multiple Stored procedures
+VIEWS
+DATA across tables that feed into target tables
+Defined Methods in Stored proc
+Defined Functions
+Creation of Build , testing of Builds and deployment of the same to various respective environments
+UC4 Job execution and creation , BL Package creation, testing.
+Maintain regression testcase using Quality Center
+Various Processes testing based on UNIX machines.
+JSON data File validations
+XML Data File validations
+Creation and review of testcases
+Organize Testcase review meeting for owned tickets with proper audience and get signoff
+Higher Environments validations on the respective changes

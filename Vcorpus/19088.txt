@@ -1,0 +1,17 @@
+In this role you will
+Design and implement software components for a distributed object storage system in a service-based architecture.
+Build highly performant scale-out data ingestion, data storage and retrieval and data processing pipelines using public cloud technologies.
+Implement benchmarking and tracing tools to analyze and fix scale and performance bottlenecks.
+Work on operational readiness and maintenance of these services.
+Work together in a highly motivated team of engineers.
+Requirements
+Highly motivated self-starter with a builder's mindset
+3+ years industry experience designing, implementing and supporting large-scale file or object storage systems
+Proficiency in one or more programming languages such as golang, Java, C++ etc. (but not limited to these)
+Bachelor's or Master's degree in Engineering or Science
+Preferred: degree in Computer Science
+Preferred: experience in public cloud technologies (AWS, Azure, GCP etc.)
+We hire at various levels of experience.
+Clumio provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.
+
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.

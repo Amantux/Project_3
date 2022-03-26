@@ -1,0 +1,45 @@
+All Microsoft services rely on Azure Active Directory and Microsoft Account to authenticate their users. The mission of the Identity Security and Protection team is to keep these users safe from fraud and account compromise.
+
+Every day, our machine learning algorithms evaluate more than 20 billion logins for more than 900 million users, stopping more than 30 million compromised logins and millions of fraudulent account sign-ups. Users on Office 365, Xbox, OneDrive, Outlook, Azure, and at millions of enterprise desks around the world rely on us to keep their identities and their data safe from cyber criminals. Our data science team is at the core of this mission, creating and improving the machine learning based detections that are used to find and block the malicious requests.
+
+We are looking for a talented data scientist who is passionate about big data, machine learning and cybersecurity. Your job would entail diving through mountains of data and extracting insights to help us understand the ever-changing environment of identity compromise and abuse. Take a blank canvas made of terabytes of information and create smart algorithms that can stop the bad actors while maximizing the good users’ productivity and usability.
+
+Do you love big data and the challenges it entails? Do you like the idea of applying your technical skills to protect millions of Microsoft customers from malicious hackers? Do you want be part of team of smart, talented and mission driven people? Then this job is for you!
+
+Responsibilities
+
+Create and maintain machine learning based detections to prevent identity compromise and abuse. Analyze new data sources and research new patterns and techniques that can be used in an automated detection.
+
+Set up and track metrics to assess the quality of our detections, so we can improve and adapt in real time.
+
+Collaborate with engineering and partner teams to build the Microsoft Security graph. Leverage data gathered by the different teams and services to build new detection algorithms.
+
+Qualifications
+
+Required qualifications
+
+A bachelor’s degree in computer science, engineering, math, statistics, or related technical field.
+
+5+ years of experience as a data scientist or ML engineer.
+
+Preferred qualifications
+
+MS/PhD in computer science, machine learning, statistics or quantitative domain
+
+Demonstrated expertise applying machine learning to big datasets.
+
+Knowledge of programming (C#, C++, Java) and data analytics languages (R, Python)
+
+Proficiency in querying languages/big data systems (SQL, Hadoop, Spark, etc.)
+
+Strong communication skills. Love for collaboration and teamwork
+
+Previous experience in any of the following: identity systems, security, threat intelligence, fraud or abuse.
+
+Cloud Background Screening Requirement:
+
+Ability to meet Microsoft, customer and/or government security screening requirements are required for this role. These requirements include, but are not limited to the following specialized security screenings: Microsoft Cloud Background Check: This position will be required to pass the Microsoft Cloud background check upon hire/transfer and every two years thereafter.
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.

@@ -1,0 +1,55 @@
+About Better.com
+
+We're one of the fastest growing homeownership companies in America. Why? Because we're making homeownership simpler, faster - and most importantly, more accessible for all Americans.
+
+By combining smarter technology with a desire to not just change one piece of the journey but the entire makeup of what it's like to buy and own a home in this country, we're building things that don't exist yet.
+
+Better.com by the numbers:
+We fund $600 million in home loans per month
+Nearly $5 billion in loans funded since our inception in 2016
+2 years running, we're one of Crain's "Best Places to work"
+We're #11 on Fortune's Best Places to Work in NYC
+And #964 on Inc.'s 2019 "5000 Fastest-Growing Companies"
+We've secured over $254 million from our investors to date
+...and counting
+We continue to outpace the industry at every turn. Our backers have helped build some of the most transformative tech and finance companies in history. Kleiner Perkins, Goldman Sachs, IA Ventures, Ally Bank, American Express, Citigroup, Activant Capital, and others have all invested in our vision of redefining the entire home buying journey.
+
+A Better Opportunity
+
+Help us hack a thirteen trillion dollar industry by building a product that will allow more people than the status quo to own a home and build wealth rather than rent for life. Our tech team is small, and you will be a big part of defining the technical direction and culture. We encourage proposals for projects off the beaten path, experimentation with different frameworks and libraries, and doing as you see fit to solve problems. We also offer above-market compensation and equity, as well as full benefits.
+
+The Data Team
+
+The data team is a small, but very quickly growing team of "full stack" data engineers/scientists/analysts. Their work spans across three different areas:
+Data Engineering: build pipelines that run in production, integrate new datasets, get everything into our data warehouse, build self-service platforms for the rest of the organization, etc.
+Data Analytics: work very closely with product managers or people in the business to understand how we can optimize the product, reduce user friction, improve user experience, optimize our acquisition budget, etc.
+Data Science: build models to predict conversion rates and use for lead scoring, optimizing ad spend, etc.
+Some projects in the data team:
+Work extremely closely with our product team to understand user behavior and come up with product ideas
+Present conclusions to the executive team that can impact the strategic direction of the company
+Build a lead scoring model to help our customer support team prioritize
+Model the time-lag of conversions using fun math like Gamma distributions
+Design experiments to understand causal impact
+Build web scrapers to track price data for competitors
+Build scalable infrastructure to deploy machine learning models and serve predictions
+Build infrastructure for ingesting data into our data warehouse continuously and as close to real-time as possible
+The Role
+
+We're looking for an inspiring leader that will steer the strategy of the Data team, elevate data to influence product and business decisions, shape and empower a growing team, and collaborate with internal teams to drive an actionable roadmap. The things we care about are:
+Most importantly, strong commercial instinct - understanding what's important for the business and how we can use data to get there
+A background as a People Manager, as well as, hands on experience as an individual contributor as a Data Engineer/Data Scientist
+Experience liaising and collaborating with cross-functional teams in a dynamic work environment
+Coding skills (Python and SQL) are also a must-have
+At least 4+ years of management experience of over 20 people
+5+ years of full-time work experience, at least 3+ in data
+Statistics or machine learning skills are a great bonus, but not strictly required
+Better Technology
+We do continuous deployment and we ship code 50-100 times every day
+The data stack is all in Python 3.7
+We use TypeScript and Python for services
+Redshift for our data warehouse, Postgres for the production databases
+For infrastructure we use AWS, Docker, and Kubernetes
+The Team
+The tech team is currently 70+ engineers but growing quickly
+The data team is 12 people but with the plan to grow it to 25 by the end of this year
+Erik Bernhardsson (CTO) used to run the data team and the music recommendation team at Spotify. He is the open source author of a few popular projects like Annoy and Luigi and writes a blog about (mostly) data

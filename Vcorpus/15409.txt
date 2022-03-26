@@ -1,0 +1,33 @@
+Duration & Type: 12 months Contract with a media & communications industry client
+
+Location: Philadelphia, PA
+
+No. of Positions: Multiple
+
+Responsibilities:
+Develop solutions to big data problems utilizing common tools found in the ecosystem.
+Develop solutions to real-time and offline event collecting from various systems.
+Develop, maintain, and perform analysis within a real-time architecture supporting large amounts of data from various sources.
+Analyze massive amounts of data and help drive prototype ideas for new tools and products.
+Design, build and support APIs and services that are exposed to other internal teams
+Employ rigorous continuous delivery practices managed under an agile software development approach
+Ensure a quality transition to production and solid production operation of the software
+Required:
+5+ years programming experience
+Bachelors or Masters in Computer Science, Statistics or related discipline
+Experience in one or more languages: Python, Scala/Java, Spark, Batch, Streaming, ML
+Experience with Python unit testing and code coverage frameworks
+Experienced in NoSQL / SQL, Microservice, RESTful API development
+Strong Experience with AWS Core such as Kinesis, Lambda, API Gateway, CloudFormation, CloudWatch
+Experienced with one of the Analytics tools – Presto / Athena, QuickSight, Tableau
+Strong Experience with Container technologies and Real-time Streaming (such as Kafka, Kinesis)
+Preferred:
+Test-driven development/test automation, continuous integration, and deployment automation experience
+Experience with Performance tuning at scale
+Experience working on big data platforms in the cloud or on traditional Hadoop platforms
+Experience working in agile/iterative development and delivery environments
+Enjoy working with data – data analysis, data quality, reporting, and visualization
+Great design and problem solving skills, with a strong bias for architecting at scale
+Excellent communication skills
+Experience in software development of large-scale distributed systems
+For consideration, please send resume to career@infoquestgroup.com

@@ -1,0 +1,41 @@
+Master’s or PhD degree in a quantitative field such as Machine Learning, Data Science, Statistics, Applied Mathematics, Physics, Computer Science, or Economics
+
+Fluency in a scripting or computing language (e.g. Python, Scala, C++, Java, etc.)
+
+2+ years of relevant working experience in an analytical role involving data extraction, analysis, statistical modeling, and communication
+
+2+ years of experience with data querying languages (e.g. SQL, Hadoop/Hive)
+
+Experience processing, filtering, and presenting large quantities (Millions to Billions of rows) of data from different product groups and business functions
+
+Experience working with Machine Learning/Deep Learning for real world problems
+
+Business/Team Introduction
+
+The Supply Chain Optimization Technologies (SCOT) team builds technology to automate and optimize Amazon’s supply chain of physical goods. We seek a Data Scientist with strong analytical and communication skills to join our team. SCOT manages Amazon's inventory under uncertainty of demand, pricing, promotions, supply, vendor lead times, and product life cycle. We optimize complex trade-offs between customer experience, inventory costs, fulfillment costs, fulfillment center capacity, etc. We develop sophisticated algorithms that involve learning from large amounts of data such as prices, promotions, similar products, and other data from our product catalog in order to automatically act on millions of dollars’ worth of inventory weekly and establish plans for tens of thousands of employees. As a Data Scientist, you will contribute to the research community, by working with other scientists across Amazon and our Supply Chain, as well as collaborating with academic researchers and publishing papers. SCOT also engages in cutting edge research that we try to share with the community. Recent work from SCOT includes papers presented at the NIPS 2017 Time Series Workshop, SSRN, KDD 2018 Time Series Workshop, and ICML 2018 Deep Generative Models Workshop.
+
+Data Scientist Responsibilities
+
+As a Data Scientist in SCOT, will be tasked to understand and work with bleeding edge research to enable the implementation of sophisticated models on big data. As a successful data scientist in the SCOT team, you are an analytical problem solver who enjoys diving into data from various businesses, is excited about investigations and algorithms, can multi-task, and can credibly interface between scientists, engineers and business stakeholders. Your expertise in synthesizing and communicating insights and recommendations to audiences of varying levels of technical sophistication will enable you to answer specific business questions and innovate for the future.
+
+Major responsibilities include:
+
+Analysis of large amounts of data from different parts of the supply chain and their associated business functions
+
+Improving upon existing machine learning methodologies by developing new data sources, developing and testing model enhancements, running computational experiments, and fine-tuning model parameters for new models
+
+Formalizing assumptions about how models are expected to behave, creating definitions of outliers, developing methods to systematically identify these outliers, and explaining why they are reasonable or identifying fixes for them
+
+Communicating verbally and in writing to business customers with various levels of technical knowledge, educating them about our research, as well as sharing insights and recommendations
+
+Utilizing code (Python, R, Scala, etc.) for analyzing data and building statistical and machine learning models and algorithms
+
+Expertise in forecasting, deep learning, reinforcement learning, or other related fields
+
+Natural curiosity and desire to learn, a passion for solving real world problems
+
+Demonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment
+
+Superior verbal and written communication skills with the ability to effectively advocate technical solutions to scientists, engineering teams and business audiences
+
+Depth and breadth in quantitative knowledge. Excellent machine learning, statistical analysis and problem-solving skills

@@ -1,0 +1,30 @@
+Job Summary
+
+
+The J. Paul Getty Trust is looking for an enthusiastic Data Engineer, with the experience and passion to carry out the execution of technical projects to enhance the institution's cultural heritage knowledge bases, through the application of machine learning and other data transformation techniques. Our aim is to provide a deeply connected and consistent experience for scholars, researchers, and enthusiasts as they explore the complex information held across the organization, and your participation is crucial for that to be successful.
+
+You will report to the Enterprise Semantic Architect, and interact with software engineers, data engineers and content specialists in the cultural heritage programs. Your work will improve the quality, reliability, connectedness, and consistency of our data by engineering project-specific data pipelines to produce new knowledge from existing internal and external data sources. You will have a hands-on role with content specialists in the programs, and be responsible for working with them to understand data requirements and then implement those requirements in software.
+
+The initial focus of this role is to assess and gather the necessary data to apply computer vision tools to a collection of more than half a million digitized photographs of paintings, drawings and prints. The aim of this work is to enhance our descriptions of these objects with high confidence metadata generated without expert curatorial intervention. The use of computer vision is a high priority in the institution's digital strategy and the success of this work will lead to further exciting projects that put the developed skills, transformation workflows and systems to good use.
+
+The Getty is among the most prestigious cultural heritage organizations in the world, dedicated to furthering the study of the history of art. You will work on an amazing campus amongst fabulous art, architecture, and information systems, collaborating with world-class scientists, curators, librarians, archivists, and academics. We offer paid vacation, personal and sick leave plus every other Friday off, excellent benefits, and a very strong commitment to balancing work and personal life.
+
+Major Job Responsibilities
+With the Semantic Architect, work with technical and content stakeholders to understand data-oriented project requirements
+With other Data Engineers, ensure high quality data transformation pipelines can migrate and enhance institutional managed collections
+Integrate external content services to enrich and reconcile our datasets
+Assess the feasibility of applying data enhancement tools and the quality of their results to determine their suitability for project requirements
+Work in an agile way, including supporting testing, continuous integration and deployment
+Assist software engineering teams by translating stakeholder requirements into feature requests
+Qualifications
+Bachelor's degree in a related field or a combination of education and relevant experience
+2-5 years software development experience
+Knowledge, Skills and Abilities
+Experience of data-oriented work within cultural heritage organizations
+Attention to detail combined with a focus on data usability
+Excellent verbal and written communication skills, especially when interacting with non-technical stakeholders
+Proficiency in Python, or willingness to translate experience in equivalent language
+Familiarity with machine learning techniques and/or tools
+Familiarity with cultural heritage data standards, such as Linked Open Data
+Familiarity with engineering tools such as git
+Familiarity with test driven and agile software development methodologies

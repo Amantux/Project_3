@@ -1,0 +1,107 @@
+MISSION: The Texas Education Agency (TEA) will improve outcomes for all public-school students in the state by providing
+leadership, guidance,
+and support to school systems.
+POSITION OVERVIEW: This position serves as the Texas Student Data System (TSDS) Data
+Quality Assurance (QA) Analyst in the Information Technology Services – Business
+Management Division of the Texas Education Agency (TEA). The TSDS Data Quality Assurance Analyst
+performs highly complex (senior-level) computer systems analysis and data
+quality assurance tasks associated with the TSDS application and its relational repositories through development and
+maintenance of SAS programs and other application tools to analyze and
+validate data passing through the TSDS application into final repositories as
+well as conducting impact analyses of changes to each TSDS collection to modify
+relational objects as necessary. This
+position is responsible for analyzing, creating, and maintaining TSDS data
+views and data documentation, ad hoc programming requests, and providing
+customer support to the TEA data user community.
+
+
+Please note that a resume and tailored cover letter are required attachments for applying
+to this
+position. Incomplete applications will not be considered.
+
+Applicants who are strongly being considered for employment
+must submit to a national criminal history background check.
+
+ESSENTIAL FUNCTIONS:
+
+Develop,
+maintain, and execute computer application programs to analyze and validate
+data integrity for all TSDS data collections based on evolving Texas Education
+Data Standards (TEDS) and TSDS data models as well as continuously improved
+programming skills. Evaluate any data
+anomalies and devise solutions, if necessary, then succinctly and thoroughly
+convey findings to the Data Quality and Policy Manager and other Business
+Management Division staff as appropriate.
+Maintain
+and update TSDS code reference tables based on annual changes to TEDS.
+Create
+data views through development and maintenance of Data Definition Language
+(SQL|DDL) scripts updated annually according to revisions to TEDS and to TSDS
+data models. Coordinate implementation
+with Database Administration personnel.
+Develop
+and maintain TSDS data documentation for all collections based on annual
+changes to TEDS. Provide technical
+support as a high-level resource for problem resolution, including reported
+data anomalies, to TEA TSDS data user community while following established
+Business Management Division guidelines.
+Produce
+ad hoc reports and special data analyses as required by the Business
+Management Division.
+MINIMUM QUALIFICATIONS:
+
+
+Education:
+
+Graduation from an accredited four-year college or university
+
+Experience:
+At least three (3) years of experience in computer systems
+analysis or design
+
+Substitutions:
+
+Each additional year of related experience above the required minimum may
+substitute for education on a year-for-year basis
+
+OTHER QUALIFICATIONS:
+Knowledge of
+relational database structures and access methods.
+Experience in systems
+analysis and design work.
+Skill in SAS
+programming language and data analysis techniques, including analyzing data
+for compliance with business rules.
+Ability to maintain
+good working relationships with a variety of people and groups.
+Ability to
+manage multiple, simultaneous tasks, develop solutions, and meet deadlines in
+a fast-paced environment in a positive and patient manner.
+Ability to
+process information logically with strong attention to detail.
+Ability to
+analyze technical documentation.
+A desire to
+self-reflect, give and receive feedback, and continuously improve.
+Ability to
+express ideas clearly, both verbally and in writing.
+Perform other
+related duties or tasks as assigned.
+May need to work
+outside normal work hours to accommodate other duties and tasks assigned.
+As an equal opportunity employer, we hire
+without consideration to race, religion, color, national origin, sex,
+disability, age or veteran status, unless an
+applicant is entitled to the veteran’s preference.
+
+Additional Military Crosswalk (occupational
+specialty code) information can be accessed here.
+
+This position requires the applicant
+to meet Agency standards and criteria which may include passing a
+pre-employment criminal background check, prior to being offered employment by
+the Agency.
+
+No phone calls or emails, please. Due to the high volume
+of applications, we do not accept telephone calls and cannot reply to all
+email inquiries. Only candidates selected for interview will be contacted.

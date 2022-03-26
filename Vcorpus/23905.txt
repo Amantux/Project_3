@@ -1,0 +1,21 @@
+Responsibilities and Duties:
+Partner with data analyst, Business and product owners, to better understand requirements, solution designs, finding bottlenecks, resolutions, etc.
+Understand clients business data environment.
+Research, Validate the Incoming tables and find any discrepancies in the data and giving the report to the business about the findings.
+Propose solutions to critical data issues through specific inquiries and consultation.
+Server Monitoring - Should be able to Analyze, Debug and Troubleshoot Server issues
+User Access Management He should be familiar with access management tools and how to enable/disable user accesses considering all the compliance policies and rules in the Org.
+Update and maintain project artifacts and documents. Assist in developing knowledge assets such as methodologies, templates, etc.
+Should be having good knowledge of Agile and Scrum
+Required Skills:
+6+ years Exp--Excellent Domain knowledge of maintaining data and validation
+6+ Years Exp--Must have strong SQL knowledge, understanding of Databases like SQL Server, Oracle, Netezza
+3+ Years --SAS Enterprise Guide 8.1
+2+ Years --Aginity (Workbench for Hadoop)
+2+ Years--Domain Knowledge of Business side.
+Good to have:
+Linux
+Putty
+Python
+Agile and SCRUM
+Reporting Tools like BO\Tableau

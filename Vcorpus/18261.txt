@@ -1,0 +1,28 @@
+Senior ADAS Test V&V Engineers
+Description
+
+
+The ADAS team is currently seeking test, validation and verification engineers to play a critical role in the development of our advanced safety and comfort features. Our ideal candidate will learn quickly, be the voice of the customer, and strive for perfecting the safest and most advanced vehicle on the market.
+
+Responsibilities
+Work in a fast-paced environment to plan and perform a wide range of ADAS tests including functionality, performance, reliability, and correlation
+Provide instructions and guidance to technicians and fellow test engineers
+Analyze large datasets utilizing data science tools and processes
+Coordinate with suppliers and external testing facilities to organize and execute testing
+Correlate testing data with vehicle & system-level requirements ensuring our ADAS meets specific targets and acceptance criteria
+Requirements
+6+ Years of experience in automotive or a related industry
+Bachelor’s degree in EE, ME, CE, or CS
+Programming proficiency (Python, C, C++)
+Strong data analysis and automation skills (Jupyter Lab, Spark, Tableau, Zeppelin)
+Testing SIL, HIL, VIL with Vector CANcase, CANalyzer, CANape, CANoe
+Experience with automated driving sensors: cameras, lidars, radars, and ultrasonic
+Experience with automotive electrical/electronic architectures, computers, vehicle networking and protocols
+Understanding of typical automotive interfaces: CAN, CAN FD, LIN, Automotive Ethernet
+Understanding of typical data logging equipment and the correct application
+Excellent oral and written technical communication skills
+Preferred
+8+ Years of experience in automotive or a related industry
+Master’s degree in EE, ME, CE, or CS
+Understanding of Functional Safety (ISO 26262) & Failure Mode Avoidance
+This position is not eligible for CPT or OPT

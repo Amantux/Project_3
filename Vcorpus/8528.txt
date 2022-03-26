@@ -1,0 +1,75 @@
+Location: Tampa, Florida, United States
+
+Company: Mercer
+
+Job ID R_065620-pt
+
+Data Scientist
+
+Location: Princeton, NJ or Remote
+
+Mercer is seeking an exceptional Data Science professional to leverage the vast amounts of data assets about our customers to develop powerful insights that drive the firm’s go-to-market effectiveness while delivering better value for our customers through insight-driven products, services and solutions that help them address current and anticipate future needs.
+
+This is a unique opportunity to join a new, multidisciplinary team of creative and passionate individuals tasked with developing a suite of next-gen insight-driven solutions utilizing the latest Big Data technology and innovative data science approaches including machine learning techniques.
+
+We’re a lean, flat and agile Big Data Analytics team combining data science and engineering to identify high-value with the greatest commercial impact. The team works in quick iterations, using the techniques and algorithms best suited for solving the challenging problems of clients.
+
+In this global role, your primary focus will be in applying data mining techniques, doing statistical analysis, automating scoring using machine learning techniques and building recommendation engines integrated with our products or internal business processes.
+
+The ideal candidate is passionate about asking and answering questions in large datasets, able to communicate that passion to product managers and engineers, and has a keen desire to solve business problems.
+
+Responsibilities
+
+Develop advanced analytics, predictive models and machine learning algorithms. Work with internal and external business stakeholders to uncover actionable insights from Mercer client and prospect data
+
+Design and build machine learning and algorithms; conduct analyses at the appropriate level of complexity to produce relevant results for the business. Build and maintain analytics data pipelines
+
+Partner with Digital Platform team to evolve a Mercer Hadoop Data Lake environment (branded as Knowledge Fabric) which encompasses all Mercer major data sources to be leveraged for commercialization and provides a computing environment on the top. Advise on data science use cases for Knowledge Fabric evolution. Advise on selection of technology suitable for Mercer business applications
+
+Provide analytical and data support to engineering teams for setting up data repository and transforming unstructured data
+
+Build business intelligence and visualization. Develop key business metrics and dashboards to support optimization of Mercer internal processes, as well as ROIs. Create visualization to present analysis findings to business stakeholders. Contribute to product development with graphic representation and insight interpretation tools
+
+Qualifications
+
+MS, or PhD (preferred) in Data Science, Computer Science, Mathematics, Statistics, Operations Research or other quantitative fields
+
+4+ years of experience building predictive and descriptive models
+
+2+ years of experience with Apache Hadoop and Spark ecosystems of open-source tools. Our data processing and modeling pipelines are built using Hortonworks platforms
+
+2+ years of hands-on BI development experience with major commercial BI tools
+
+Experience with NoSQL databases, such as HBase, Cassandra, MongoDB is a plus
+
+Experience working with Amazon Web Services is a big plus
+
+Hands-on experience with Python, R, Matlab, Scala, SAS, or other related analytical/programming tools or software
+
+Proficient in machine learning techniques (such as k-NN, Naive Bayes, SVM, Decision Forests, etc.) and their application in business areas
+
+Understanding of RDBMs and SQL programming skills, such as PostgreSQL, MySQL, MSSQL, Oracle SQL/PLSQL
+
+Experience with web services such as AWS S3, DigitalOcean, Redshift and Spark; ability to connect data using SOAP API, REST API, and web crawling techniques
+
+Firm grasp of Big-Data Platforms and modeling frameworks, especially Spark and Hadoop; comfortable dealing with large data sets within a distributed computing environment (Hadoop, Hive/PIG, HBase, etc.
+
+Knowledge of any data visualization and reporting tools, such as D3, Qlik (View or Sense), Tableau, MS PowerBI, SAP Business Objects, or MicroStrategy
+
+Ability to communicate complex analytical insights in a simple, concise manner and to build strong relationships with marketing and product teams to effectively convert insights into action
+
+Strong communication skills
+
+Excellent organization and prioritization skills
+
+Working knowledge of Apache NiFi for data ingestion is a plus
+
+Passionate about asking and answering questions in large datasets, and capable of communicating that passion to product managers and engineers
+
+Thrive in a fast paced, test-driven, collaborative and iterative engineering environment
+
+AWS Cloud Solution Architect certificate is a plus
+
+At Mercer, we make a difference in the lives of more than 110 million people every day by advancing their health, wealth, and careers. We’re in the business of creating more secure and rewarding futures for our clients and their employees — whether we’re designing affordable health plans, assuring income for retirement or aligning workers with workforce needs. Using analysis and insights as catalysts for change, we anticipate and understand the individual impact of business decisions, now and in the future. We see people’s current and future needs through a lens of innovation, and our holistic view, specialized expertise, and deep analytical rigor underpin each and every idea and solution we offer. For more than 70 years, we’ve turned our insights into actions, enabling people around the globe to live, work, and retire well. We embrace a culture that celebrates and promotes the many backgrounds, heritages and perspectives of our colleagues and clients. At Mercer, we say we Make Tomorrow, Today. Visit www.mercer.com for more information and follow us on LinkedIn and Twitter @Mercer.
+
+Mercer LLC and its separately incorporated operating entities around the world are part of Marsh & McLennan Companies, a publicly held company (ticker symbol: MMC). Marsh & McLennan Companies offers competitive salaries and comprehensive benefits. For more information about our company, please visit us at: http://www.mmc.com/. We embrace a culture that celebrates and promotes the many backgrounds, heritages and perspectives of our colleagues and clients. For more information, please visit us at: www.mmc.com/diversity. US ONLY: Marsh & McLennan Companies and its Affiliates are EOE Minority/Female/Disability/Vet/Sexual Orientation/Gender Identity employers.

@@ -1,0 +1,11 @@
+The RiceTec Data Scientist will need to Design strategies and implement algorithms to analyze and leverage data; assessing the effectiveness and accuracy of data sources to be used as inputs in data analysis; to implement visualization systems that make data readily available and simplify how insights are communicated.
+
+This analysis will be used for detection of crop response to sync management techniques, fertilizers and other crop production inputs; development of crop and pest management aids based on aerial images in large production fields; validation of small plot data collected by aerial sensors with established ground-based information.
+
+Analysis will also focus on identifying opportunities for new and existing weather models to create value in supply reliability; parent line production; crop management.
+
+Results should translate production problems into data-driven analytics / machine-learning tasks and building related products which automate the operational functions in production and manufacturing areas.
+
+Candidates should have experience in building advanced analytics models across one or more areas of Predictive/Prescriptive Analytics, and Image Processing; Expertise in analytical packages such as Python, R, Statistical packages like Statistica, Minitab; applied experience in various machine learning techniques (e.g. Neural Networks).
+
+Requirements: Masters in Statistics, Mathematics, Machine Learning, Agricultural Statistics or Climatology. PhD is Preferred.

@@ -1,0 +1,65 @@
+Job Description
+
+Important Note: During the application process, ensure your contact information (email and phone number) is up to date and upload your current resume when submitting your application for consideration. To participate in some selection activities you will need to respond to an invitation. The invitation can be sent by both email and text message. In order to receive text message invitations, your profile must include a mobile phone number designated as Personal Cell or Cellular in the contact information of your application.
+
+At Wells Fargo, we want to satisfy our customers financial needs and help them succeed financially. Were looking for talented people who will put our customers at the center of everything we do. Join our diverse and inclusive team where youll feel valued and inspired to contribute your unique skills and experience.
+
+Help us build a better Wells Fargo. It all begins with outstanding talent. It all begins with you.
+
+Wells Fargo Technology sets IT strategy; enhances the design, development, and operations of our systems; optimizes the Wells Fargo infrastructure footprint; provides information security; and enables continuous banking access through in-store, online, ATM, and other channels to Wells Fargos more than 70 million global customers.
+
+Corporate Risk helps all Wells Fargo businesses identify and manage risk. We focus on three key risk areas: credit risk, operational risk and market risk. We help our management and Board of Directors identify and monitor risks that may affect multiple lines of business, and take appropriate action when business activities exceed the risk tolerance of the company.
+We are seeking an Apps Systems Engineer 6 - Data & Reporting Lead to be part of a team that provides reporting for risk and compliance across all levels of the organization.
+
+Primary responsibilities for the individual in this role will be:
+Ability to create and manage Data Models supporting Operational and Reporting capabilities of a complex application
+Work with business analyst and business stakeholders to ensure data requirements are defined and delivered by application data model
+Management of logical and materialized views to deliver required data elements for downstream consumption in both historical and current periods.
+Coordinate with and support application developers in ensuring data model delivers capabilities required for functionality
+Complete Unit Testing to ensure low probability of defects and that data matches with backend systems
+Build, maintain and govern the MicroStrategy semantic reporting layer to ensure data consistency and single version of the truth
+Work with Technical Analysts to build reporting and dashboard objects to meet desired output
+Ensure reporting solutions are highly usable, scalable and maintainable
+Provide leadership to the reporting team resources
+Understand the impacts of reporting/semantic layer performance factors and collaborate with the Data Architect to implement mitigating physical modeling solutions
+Perform code and design reviews to ensure performance, maintainability, and standards
+Work with the Data Architect to define data security roles, groups and policies
+Responsible for defining and enforcing MicroStrategy design standards, reusable objects, tools, best practices and related development methodologies for the organization
+Partnering with Business Stakeholders and developers to ensure deliverables meet business expectations
+Suggest solutions for reporting or process improvement
+Must be comfortable working on multiple, complex issues and projects
+Design and implementation of MicroStrategy Report Caching, MicroStrategy Schedules and Subscriptions
+Design and building of MicroStrategy Reports, Dashboards, and Objects such as Attributes, Facts, Metrics, Filters, and Prompts
+Required Qualifications
+10+ years of application development and implementation experience
+8+ years of experience working with Relationship Database Management Systems (RDBMS) such as SQL Server, Oracle or MySQL
+6+ years of data modeling experience
+6+ years of business intelligence experience
+6+ years of data analysis experience
+6+ years of experience with end-to-end design and delivery of data warehouse applications
+4+ years of MicroStrategy experience
+3+ years of reporting experience, analytics experience or a combination of both
+3+ years of Agile experience
+Desired Qualifications
+Excellent verbal, written, and interpersonal communication skills
+4+ years of Hibernate experience
+4+ years of RESTful or SOAP web services
+Ability to take initiative, identify opportunities and implement change
+Outstanding problem solving skills
+Ability to work effectively in virtual environment where key team members and partners are in various time zones and locations
+Ability to partner as a team member resource
+Experience creating dashboards and reporting formats
+Ability to form a story through data analysis
+Ability to prioritize work, meet deadlines, achieve goals, and work under pressure in a dynamic and complex environment
+Experience delivering Business Intelligence (BI), analytics and reporting using API Services architecture
+Street Address
+
+NC-Charlotte: 300 S Brevard St - Charlotte, NC
+AZ-Chandler: 2600 S Price Rd - Chandler, AZ
+
+Disclaimer
+
+All offers for employment with Wells Fargo are contingent upon the candidate having successfully completed a criminal background check. Wells Fargo will consider qualified candidates with criminal histories in a manner consistent with the requirements of applicable local, state and Federal law, including Section 19 of the Federal Deposit Insurance Act.
+
+Relevant military experience is considered for veterans and transitioning service men and women.
+Wells Fargo is an Affirmative Action and Equal Opportunity Employer, Minority/Female/Disabled/Veteran/Gender Identity/Sexual Orientation.

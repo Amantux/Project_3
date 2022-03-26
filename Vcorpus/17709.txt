@@ -1,0 +1,32 @@
+Honey is a fast-growing startup based in Los Angeles. Our online shopping platform offers users a smarter way to shop. We open up instant access to exclusive savings, deals, rewards and discovery, all powered by the collective knowledge of Honey's community of online shoppers. We are helping millions save when they shop online, and we're hiring! We are seeking Backend Engineers to join our Los Angeles team to help us build and deliver excellent, user-first products via rapid iterations and peer review.
+
+As a Software Engineer, you will focus on increasing engagement, performance, and reliability for our price watching feature, Droplist. You can expect to work with other engineers, product managers, designers, and analysts to improve the scale and efficiency of our existing system as well as deliver new features.
+
+About You:
+
+If you're on the fence about whether you meet all of the requirements for this role, please apply!
+You write idiomatic JavaScript/Node.js, Golang, Java, Python, Scala, or Ruby
+You use a modern version-control system for your source code repository (Git, Mercurial, GitHub, BitBucket)
+You lint all your code or know you should
+You know what parts of your code require tests and you write those tests
+You know how to use a framework to create robust and reliable HTTP-based APIs
+You know it's important to monitor your production systems
+You know it's important to stage your systems before you deploy to production
+You know about continuous integration systems like Travis, Jenkins, or CircleCI (we use Circle)
+You're able and willing to deploy your systems to production and troubleshoot them if they fail
+You want to work with Docker and Kubernetes
+In this role, you'll:
+Work within a mission team (a cross-functional team focused on a specific, well-defined mission) on a given set of features and services
+Design, write and test code in a collaborative environment with 2-5 other software engineers
+Leverage your peers as multipliers for your skills to create excellent products and services for Honey's 10+ million users
+Build GraphQL-based APIs and resolvers using JavaScript
+Build large-scale, stand-alone tasks reading from Pubsub and processing millions of messages per day
+Build monitoring for all your services and tasks to ensure their reliability and health
+Work closely with a product manager for your mission team on product requirements and translate those requirements to technical solutions
+Bonus Points for:
+Experience with Google Cloud Platform, CircleCI, Node.js, NPM, Git, GitHub, Golang, Kubernetes, Docker
+Experience with a distributed SQL platform like CockroachDB or Google Spanner
+Experience with Hadoop, Map-Reduce, or other "Big Data" systems
+At Honey, we are committed to building a diverse and inclusive company. We seek to create a culture where everyone can belong because we believe that people do their best work when they can show up every day as their authentic selves. We welcome people of different backgrounds, experiences, abilities, and perspectives.
+
+Honey is an equal opportunity employer. We do not make hiring or employment decisions on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, veteran status, disability status or genetic information, in compliance with applicable federal, state and local law.

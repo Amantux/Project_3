@@ -1,0 +1,39 @@
+Description: The Data Analyst, Data Activation is responsible for the execution of the data activation capability within the enterprise data management organization (EDM). This role is responsible for data analysis, document processes, categorize, and rationalize the data sets that feed into the analytical and operational data pipelines. This role will partner with the business analytics and data science teams to understand their data needs and work with external vendors and internal application teams to define all aspects of the data requirements including format, cadence, quality, granularity and classification amongst other attributes. This roll will also educate data sourcing partners on data management best practices and build a feedback loop to manage data related issues.
+
+Job Duties/Responsibilities:
+Deliver the day to day activities and the broader goals of the Data Activation capability.
+Develop Data Sourcing processes to consistently and sustainably acquire data sets into the Lowes data ecosystem. Data sources could be from internal applications, external vendors and varying other data providers and formats.
+Develop data agreements with internal and external data sources in order to define the format, cadence, quality, SLAs, communication mechanisms and feedback loop for each data set.
+Assess the sustainability of data sources and provide a perspective on the long-term outcome and general risk. Drive data source improvements as needed to ensure long-term outcomes are achieved.
+Develop and maintain a data catalog to register key attributes about all data sources, enabling easy access and searchability for all relevant stakeholders.
+Understand the current data ecosystem and ensure data is rationalized, has a purpose and as necessary, integrated into production data pipelines or purged.
+Work with data governance team to develop data classification rules in terms of its sensitivity and its use cases.
+Properly classify data sets as a part of the data activation process and ensure the appropriate mechanisms are in place to manage the data based on its classification.
+Work with key stakeholders to develop a roadmap of needed data sources and help define if, when, and how those data sources will be ingested into the data ecosystem.
+Manage SLAs and contract related activities with internal and external data providers.
+Support Vendor Management as needed to develop SLAs and agreements with commercial data providers.
+Develop mechanisms to measure data spend and support data spend analysis across the enterprise.
+Work with the data and platform architecture teams to understand the broader data ecosystem and support the development of logical data models, aligning to the Data Activation roadmap.
+Educate business partners and source systems on data management best practices and ensure data ingested into the data ecosystem will be timely, consistent, sustainable and scalable.
+Minimum Experience:
+Bachelors degree in Business Administration, Computer Science, Engineering, or related field
+3 years of experience managing data, content, or business processes
+3 years of work experience requiring interaction with senior leadership
+3 years of experience collaborating cross-functionally
+Experience managing vendor/supplier relationships
+Preferred Experience/Skills:
+Masters degree in Computer Science, Engineering, or related field
+3 years of retail business operations experience, collaborating in a diverse, cross-functional corporate environment
+Core Competencies:
+Focus on Customers
+Deliver Results
+Take Action
+Show Courage
+Continue Learning
+About Lowes:
+Lowes Companies, Inc. (NYSE: LOW) is a FORTUNE® 50 home improvement company serving approximately 18 million customers a week in the United States and Canada. With fiscal year 2019 sales of $72.1 billion, Lowes and its related businesses operate or service more than 2,200 home improvement and hardware stores and employ approximately 300,000 associates. Based in Mooresville, N.C., Lowes supports its hometown Charlotte region and all communities it serves through programs focused on creating safe, affordable housing and helping to develop the next generation of skilled trade experts. For more information, visit Lowes.com.
+
+About Lowes in the Community:
+As a FORTUNE® 50 home improvement company, Lowes is committed to creating safe, affordable housing and helping to develop the next generation of skilled trade experts through nonprofit partnerships. Across every community we serve, Lowes associates donate their time and expertise through the Lowes Heroes volunteer program. For the latest news, visit Newsroom.Lowes.com or follow @LowesMedia on Twitter.
+
+Lowes is an equal opportunity affirmative action employer and administers all personnel practices without regard to race, color, religion, sex, age, national origin, disability, sexual orientation, gender identity or expression, marital status, veteran status, genetics or any other category protected under applicable law.

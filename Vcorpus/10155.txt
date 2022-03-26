@@ -1,0 +1,69 @@
+3+ years’ experience as a data scientist
+
+Degree in Statistics, Applied Mathematics, Econometrics, Computer Science, Operations Research, Engineering, closely related field or equivalent experience.
+
+Working experience with SQL, Tableau, Quicksite, or other visualization technology
+
+Experience coding & query development – SQL, PL/SQL, DDL, MDX, HiveSQL, SparkSQL, Scala.
+
+Experience coding in at least one scripting language (e.g., Python, Kornshell)
+
+The AWS Hardware Engineering team creates server designs for Amazon’s innovative web services. Our designs are industry leading in performance and operational excellence, and are critical to the success of the AWS business and the more than one million customers who use AWS today. Our BIEs solve challenging technology problems, and build architecturally sound, high-quality analytics to enable AWS to realize critical business strategies.
+
+The ideal candidate for this role will have a strong technical background, be detail driven, have excellent problem-solving abilities, have strong business judgment, and demonstrated experience leading cross-functional teams.You will have a deep understanding of big data tools and architecture details and will successfully represent the technical team to senior leadership and customers. Your technical expertise and operational excellence will influence the team’s decisions, drive secure and robust solutions and produce high quality products to delight our customers. We are looking for leaders with proven ability to execute both strategically and tactically, and someone who is excited to take on new, ambiguous projects. The candidate should be customer-focused with a passion for the cloud.
+
+What you will do:
+
+Own the design, development, and maintenance of scalable solutions for ongoing metrics, reports, analyses, dashboards, etc. to support analytical and business needs.
+
+Develop queries and visualizations for ad-hoc requests and projects, as well as ongoing reporting. Specifically, own all SQL, RMD / Shiny Applications – ad hoc, recurring, trouble-shooting.
+
+Quickly build a thorough understanding of Amazon tools, synching AWS Infrastructure Data best practices and leveraging internal processes from other functions as well.
+
+Work with team leadership to understand customer needs and concerns as well as define solutions.
+
+Translate basic business problem statements into analysis requirements. Work with internal customers to define best output based on expressed stakeholder needs.
+
+Use analytical and statistical rigor to solve complex problems and drive business decisions.
+
+Design and drive experiments, A/B testing, outlier deep dives and form actionable recommendations. Manage the implementation of those recommendations.
+
+Write queries and output efficiently, and have in-depth knowledge of the data available in area of expertise. Pull the data needed with standard query syntax; periodically identify more advanced methods of query optimization. Convert data to make it analysis-ready.
+
+Recognize and adopt best practices in reporting and analysis: data integrity, test design, analysis, validation, and documentation.
+
+Monitor and troubleshoot operational or data issues in the data pipelines.
+
+Serve as a senior SME and mentor for Analytic tools and SQL, including helping teams become more self-sufficient with scripted requests.
+
+Why it matters: Public cloud IT services represent the majority of growth in the overall IT services market and will continue to do so for several years to come. The scale of AWS, combined with an understanding of how our hardware is used, creates a unique opportunity for component customizations that will directly benefit customers.
+
+Why you will love it: You will work to build next-generation servers to operate at cloud scale. You will have a direct impact on our bottom line and the ability to deliver improvements for our teams. You will be part of a growing, fast paced and fun team. You will have ownership for the implementation of your work. You will see direct product improvements based on the results of your work.
+
+Knowledge of statistics and statistical models as applied to experimentation best practices.
+
+Experience with Perl and UNIX
+
+Strong skills with third party tools – MPP DBs (e.g. Redshift, Teradata, Netezza), DFS (e.g. Hadoop), NoSQL (e.g. DynamoDB, Cassandra), Data Modeling tools (e.g. ERWin, ERStudio), ETL Tools (e.g. Informatica, Ab Initio, SSIS), BI Tools (e.g. Tableau)
+
+Strong verbal/written communication & data presentation skills, including an ability to effectively communicate with both business and technical teams
+
+Master’s degree in Statistics, Engineering, Operations Research or MBA.
+
+Proven ability to solve complex quantitative business challenges.
+
+Desire to create and build new predictive/optimization tools that benefit the business and improve customer experience.
+
+Experience with modeling sequential data, statistical forecasting, and time series models.
+
+Experience with one or more of the statistical modeling languages/ toolboxes (R, SAS).
+
+Experience in scripting languages for parsing and data analysis.
+
+Sound business judgment, proven ability to influence others, strong attention to detail, excellent organization skills, and ability to manage multiple projects and responsibilities are critical to success in this position.
+
+Meets/exceeds Amazon’s leadership principles requirements for this role
+
+Meets/exceeds Amazon’s functional/technical depth and complexity for this role
+
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation

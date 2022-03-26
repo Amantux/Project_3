@@ -1,0 +1,61 @@
+As a member of the Cyber Analytics Engineering team, you will be responsible for modeling complex problems for IronNet. Your mathematical knowledge will be translated into identifying opportunities through the use of algorithmic, statistical, mining and visualization techniques. You will demonstrate initiative and creativity by proposing ways to address problems often with large or incomplete data sets and validate findings using an experimental and iterative approach. Other responsibilities include presenting findings to stakeholders and clients as needed and being able to trace results back to business requirements. You will work with an existing group of Data Scientists who have extensive experience creating and executing sophisticated algorithms on real data. The team operates under Agile development principles.
+
+Responsibilities
+
+Design and develop new analysis algorithms in conjunction with the existing data science team.
+
+Design for large-scale distributed computing in a Spark, Hadoop, Pig, MapReduce-based architectures (or competing technologies).
+
+Create prototype algorithms.
+
+Assist in optimizing algorithms for performance.
+
+Assist in writing thorough tests and documentation.
+
+Collaborate with multi-functional team in various physical locations.
+
+Provide front-line support to customers; Monitor the results of analytics on customers’ environments with an aim towards validating that anomalous activity and behaviors are being detected.
+
+Develop analytics based on the unique characteristics of an assigned customer or sector environment.
+
+Develop analytics using a special collection that is only available within a given customer or sector.
+
+Assist analytic development team by writing code that will be taken over by the analytic development team.
+
+Responsible for documentation and reporting of results.
+
+Job Qualifications Requirements
+
+Minimum of 1 year of OT experience (preference 3+ years OT experience)
+
+Bachelor degree in mathematics, statistics, computer science or related field.
+
+3-5 years of relevant quantitative and qualitative research and analytics experience.
+
+Situational understanding of cybersecurity and cyberspace operations.
+
+Solid knowledge of statistical techniques, understanding data architecture, cloud-based computing, and visualization.
+
+Strong programming skills (such as Hadoop MapReduce or other big data frameworks, Java), and statistical modeling (like SAS or R).
+
+Deliver solutions to business problems by leveraging pattern detection over large datasets.
+
+Proficiency in the use of statistical packages.
+
+Proficiency in statistical analysis, quantitative analytics, forecasting/predictive analytics, multivariate testing, and optimization of algorithms.
+
+Strong communication and interpersonal skills.
+
+Ability to collaborate, team and lead small groups in a distributed, interdisciplinary environment.
+
+Desirable
+
+Master degree preferred in relevant information science degree.
+
+Experience using machine learning algorithms.
+
+Knowledge of one or more business/functional areas.
+
+Understand current trends in vulnerabilities and attacks.
+
+Familiarity with agile development software development practices.

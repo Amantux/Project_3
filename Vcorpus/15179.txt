@@ -1,0 +1,43 @@
+Candidate Description
+
+Blue Rose Technologies (BRT) is actively seeking an experienced Lead Data Engineer, with AWS Big Data experience.
+
+Our ideal candidate needs to have demonstrated expertise in building data pipelines and data systems at scale, using Apache Open Source stack and Hadoop ecosystem.
+
+Candidates should have strong familiarity working in an AWS cloud environment, as well as, working with other data engineers, product managers, and product delivery teams when required.
+
+Qualifications & Experience
+
+Candidates with 6+ years’ experience in data engineering, who have either obtained a Graduate degree in the field of Computer Science or related field, or Bachelor's degree with 8+ years of relevant experience in the above fields.
+
+Key Responsibilities
+Provide technical solution leadership in data engineering team, driving technology decisions, mentoring others, and contributing significantly on an individual level
+Build frameworks to handle data at high scale using Apache Spark and data cataloging tools like Apache Hive, AWS Glue on top of a multi-tiered data lake storage
+Use exploration and analytic tools like AWS Athena/Presto to probe and validate data
+Build robust data processing pipelines using AWS Services and integrate with multiple data sources
+Collaborate with product owners and stakeholders to plan and define requirements
+Desired Skills
+AWS Services: RDS, AWS Lambda, AWS Glue, Apache Spark, Kafka, Hive, etc.
+SQL and NoSQL databases like MySQL, Postgres, and Elasticsearch
+AWS EMR
+Familiarity with Spark programming paradigms (batch and stream-processing)
+Strong programming skills in at least one of the following languages: Java, Scala. Familiarity with a scripting language like Python, as well as, Unix/Linux shells
+AWS Athena
+Strong analytical skills and advanced SQL knowledge, indexing, query optimization techniques.
+Good to have ETL skills
+Ability to translate data needs into detailed functional and technical designs for development, testing, and implementation
+Ability to serve as a liaison between technical, quality assurance, and non-technical stakeholders throughout the development and deployment process
+Project Duration: 12 months+ initiative, and All candidates will be required to work on-site at Tempe, AZ location.
+
+*** Salary/Benefits Details: This is an hourly W2 or 1099 contracting position with Blue Rose Technologies, with optional United Health Insurance packages.
+
+Job Types: Full-time, Contract
+
+Benefits:
+Dental Insurance
+Health Insurance
+Vision Insurance
+Experience:
+AWS: 6 years (Preferred)
+Work Remotely:
+Temporarily due to COVID-19

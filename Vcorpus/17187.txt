@@ -1,0 +1,124 @@
+Level-row">Level
+Experienced
+Job Location
+Irving, TX - , TX
+Position Type
+Full Time
+Education Level
+Graduate Degree
+Salary Range
+Undisclosed
+Travel Percentage
+Negligible
+Job Shift
+Undisclosed
+Job Category
+Science
+Description
+Title: Data Engineer
+
+Position Summary
+
+We are looking for a Data Engineer to join our growing team of Data Scientists.
+
+Caris Life Sciences is looking for a sharp, driven and goal-oriented Data Engineer to expand and optimize our data storage and data pipeline architecture, and to optimize data flow and collection for cross functional teams. The successful candidate will design, implement, and maintain data storage and data flow solutions for structured and non-structured multi-model data in support of data science and machine learning pipelines. The ideal candidate is an experienced data pipeline builder and data wrangler who enjoys optimizing data systems and building them from the ground up. They must be self-directed and comfortable supporting the data needs of multiple teams, systems and products. Must know and adhere to best practices and possess knowledge of current state of the art data platforms and solutions.
+
+Job Responsibilities
+Create and maintain optimal data pipeline architecture
+Assemble large, complex data sets that meet functional / non-functional business requirements
+Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
+Create data tools for analytics and data scientist team members that assist them in building and optimizing data science products
+Build processes supporting data transformation, data structures, metadata, dependency and workload management
+Requirements
+Masters in Computer Science, Engineering or a related field with exposure to cancer biology
+A successful history of manipulating, processing, and extracting value from large disconnected datasets.
+Experience building and optimizing ‘big data’ data pipelines, architectures and data sets
+Experience with relational SQL and NoSQL databases, including MongoDB, Cassandra, etc.
+Strong analytic skills related to working with unstructured datasets
+Experience with microservices architecture
+Experience with data pipeline and workflow management tools: Luigi, Airflow, etc.
+Experience with AWS cloud services: EC2, EMR, RDS, Redshift
+Experience with object-oriented/object function scripting languages: Python, Java, Scala, etc.
+Proficiency in Python, Pandas, PySpark, Dask, Ray, etc.
+Experience writing RESTful APIs
+Experience with big data tools: Hadoop, Spark, Kafka, etc.
+Proficient verbal and written communication skills to explain complex technical details in clear language
+Commitment to the successful achievement of team and organizational goals through a desire to participate with and help other members of the team
+Demonstrate a focus on listening to and understanding user needs and then delighting the customer by exceeding service and quality expectations
+This job description reflects management’s assignment of essential functions. Nothing in this job description restricts management’s right to assign or reassign duties and responsibilities to this job at any time.
+
+*Interested parties should apply on-line and email their Resume and Cover Letter to Dana Gingerich at dgingerich@carisls.com. #LI-DG1
+Qualifications
+
+Apply Now
+
+" class=" input--dark-grey" data-parsley-pattern="/^[ a-z0-9\-\.]*$/i" data-parsley-pattern-message="Only A-Z, 0-9, -, . and space characters are allowed." aria-label="First Name" minlength="1" required="required" value="">First Name*
+" class=" input--dark-grey" data-parsley-pattern="/^[ a-z0-9\-\.]*$/i" data-parsley-pattern-message="Only A-Z, 0-9, -, . and space characters are allowed." aria-label="Last Name" minlength="1" required="required" value="">Last Name*
+" class=" input--dark-grey" data-parsley-type="email" aria-label="Email" minlength="1" required="required" value="">Email*
+" data-parsley-pattern="/^\d*$/" data-parsley-pattern-message="Only numbers are allowed." aria-label="Phone" minlength="1" required="required" value="">Phone*
+" id="quick-apply-desktop__application-form__resume__input" accept=".bmp,.accdb,.xls,.xlsx,.gif,.html,.jpe,.jpg,.jpeg,.pdf,.png,.ppt,.pptx,.rtf,.tiff,.txt,.csv,.doc,.docx,.zip" required="required" style="width: 0; height: 0; opacity: 0; overflow: hidden; position: absolute; z-index: -1; " data-parsley-errors-container="#quick-apply-desktop__application-form__resume__errors-container">
+
+Attach Resume*
+Submit
+
+chevron_left
+
+Sign In
+
+Welcome !
+It looks like you have an account with this email.
+Please enter your password to complete your application.
+" class=" input--dark-grey" minlength="8" required="required" value="">Password*
+Sign In
+Forgot password?
+
+Thanks!
+
+An email has been sent to you with a password to access your account.
+Ready for the next step?
+
+Add your availability!
+
+View More Listings
+
+Apply
+Apply Now
+
+" class=" input--dark-grey" data-parsley-pattern="/^[ a-z0-9\-\.]*$/i" data-parsley-pattern-message="Only A-Z, 0-9, -, . and space characters are allowed." aria-label="First Name" minlength="1" required="required" value="">First Name*
+" class=" input--dark-grey" data-parsley-pattern="/^[ a-z0-9\-\.]*$/i" data-parsley-pattern-message="Only A-Z, 0-9, -, . and space characters are allowed." aria-label="Last Name" minlength="1" required="required" value="">Last Name*
+" class=" input--dark-grey" data-parsley-type="email" aria-label="Email" minlength="1" required="required" value="">Email*
+" data-parsley-pattern="/^\d*$/" data-parsley-pattern-message="Only numbers are allowed." aria-label="Phone" minlength="1" required="required" value="">Phone*
+" id="quick-apply-mobile__application-form__resume__input" accept=".bmp,.accdb,.xls,.xlsx,.gif,.html,.jpe,.jpg,.jpeg,.pdf,.png,.ppt,.pptx,.rtf,.tiff,.txt,.csv,.doc,.docx,.zip" required="required" style="width: 0; height: 0; opacity: 0; overflow: hidden; position: absolute; z-index: -1; " data-parsley-errors-container="#quick-apply-mobile__application-form__resume__errors-container">
+
+Attach Resume*
+Submit
+
+chevron_left
+
+Sign In
+
+Welcome !
+It looks like you have an account with this email.
+Please enter your password to complete your application.
+" class=" input--dark-grey" minlength="8" required="required" value="">Password*
+Sign In
+Forgot password?
+
+Thanks!
+
+An email has been sent to you with a password to access your account.
+Ready for the next step?
+
+Add your availability!
+
+View More Listings
+
+Terms of Use |
+Paycom Privacy Policy |
+© 2020 Paycom | All Rights Reserved.
+
+This website uses cookies to customize and improve your experience.
+If you are a California resident, you may be entitled to certain rights regarding your personal information.
+Additional information about our data collection practices and location specific notices is available on our privacy policy.
+
+Accept Cookies

@@ -1,0 +1,82 @@
+Work Location: Denver, CO 80203
+
+Duration: 06+ Months
+
+Job Description:
+
+Senior Database Programmer for SEEs (Grant Management) Pipeline Implementation
+
+INTRODUCTION
+
+1. The Education is contracting for an on-site, temporary, full-time contractor resource Sr. Database Programmer to analyze, develop, test and implement an enhanced SEEs application. The existing SEEs application is used by the Drop-out Prevention and Student Re-engagement unit to track grants.
+
+2. As part of this project, the new SEEs application will be incorporated into the Online Data Pipeline System (ODS). The Online Data Pipeline System is a standardized system, based on best practices. It is used for CDE data collections from the districts and schools. IMS has been migrating applications to the Online Data Pipeline System since its inception.
+
+CDE IMS has been actively performing business analysis functions to elicit business rules and requirements, as well as technical requirements from the CDE organization(s) currently using the existing SEEs application. The Sr. Database Programmer shall be contracted to:
+
+1. Review and analyze the resulting documentation, subsequently design, develop, test, document, and implement the new application.
+
+2. Incorporating the SEEs application into the data pipeline tool will also include storage of the collected data into the data warehouse. This provides all the best practices for data storage, back-up and recovery, data security, etc.
+
+3. Modernize the existing SEEs application to take advantage of the new features available in CDE’s current Oracle database version, 11g R2 running on the Oracle EXADATA platform. This includes using tables, views and PL/SQL (stored procedures and user defined functions).
+
+4. Java is used to manage web application control logic and to implement the web user interface.
+
+5. Optimize processing and run time.
+
+6. Explore integration of Cognos and/or Tableau BI reporting as part of the resulting new application.
+
+7. Additional enhancements to the SEEs application that need attention that have not been identified at this time.
+
+Requirements:
+
+1. Experience in application coding and in creating computer applications and/or databases
+
+2. 5+ years' experience using Oracle database
+
+3. 5+ years of PL/SQL development experience
+
+4. 5+ years Java application development
+
+5. At least three (5) years of current, professional IT experience in full life cycle development of custom web applications which must include Java/J2EE development experience; Oracle SQL development experience; and a strong understanding and experience with XML.
+
+6. Ability to work independently to research and problem solve issues
+
+7. Ability to work with end users to troubleshoot production issues
+
+8. Ability to document solutions/processes as needed
+
+Preferred: The following preferred qualifications must be demonstrated on application, if relevant.
+
+1. Oracle EXADATA.
+
+2. Oracle built in DBMS packages.
+
+3. 3+ years of Unix scripting
+
+4. Experience with Toad.
+
+5. Spring Framework, and Struts 2.
+
+6. JDeveloper as an Integrated Development Environment (IDE).
+
+7. Experience with WebLogic application server.
+
+8. Experience with Cognos BI Reporting.
+
+9. Experience with Tableau Reporting.
+
+10. Subversion (SVN) as a source control platform.
+
+11. Web services.
+
+12. Experience with UI technologies such as AJAX, JSTL, JSP, HTML, DHTML, JavaScript, and CSS.
+
+13. Experience with k-12 data/systems.
+
+Required Skills
+
+Required Experience
+
+Job Location
+Denver, CO,

@@ -1,0 +1,77 @@
+Read what people are saying about working here. 
+
+About Us
+
+VideoAmp’s mission is to bridge the gap between television and digital advertising with campaign measurement, planning and audience-targeting solutions that dramatically improve the performance and cost-efficiency of advertising investment. Our engineers, data scientists, designers and media strategists are inspired by tackling one of the most challenging problems in media and marketing — bridging the divide between TV and digital media.
+
+Responsibilities
+
+As a member of our Data Science team, you will be a fundamental force in shaping our company’s data strategy innovating the $85B digital and linear television advertising market. Your work will have an outsized impact on tools we’re building forecasting, planning, allocation, and audience behavior prediction.
+
+Technology We Use
+
+Python, Julia, SQL, Hadoop, Hive, and Apache Spark.
+
+Required Skills
+
+PhD in Data Science, Physics, Mathematics or other scientific field
+
+Experience building data models, and managing ML pipelines with tools such as Python, Julia, and Apache Spark
+
+SQL fluency and an understanding of relational data models.
+
+Comfortable in the Linux environment.
+
+A master of all trades mentality and an ability to embrace new challenges regularly.
+
+Eager and energized to work with some of the latest open source technologies.
+
+Authorized to work in the US
+
+Able to work on-site in Santa Monica
+
+Responsibilities
+
+Working with Pb-scale data sets representing the total US video and TV audiences.
+
+Building new, and scaling out existing models in support of audience segmenting.
+
+Working with the data-engineering team to productionize ML pipelines
+
+Coordinating data models with other engineering teams
+
+Bonus Points
+
+Experience with time series analysis, eg: LSTMs, ARIMA, Etc...
+
+Working with large Spark applications
+
+Domain experience with digital and/or linear tv advertising
+
+Perks
+
+Top compensation
+
+Comprehensive health benefits
+
+Meaningful equity
+
+401k
+
+Unlimited vacation with a stipend for travel and accommodations of $2000/year
+
+Unlimited in-office gym use with personal trainer
+
+Childcare stipend
+
+Plenty of snacks and beverages plus dinner every day
+
+Corporate support for Hackathons, lunch and learns, and attending conferences
+
+Personal and professional development
+
+VideoAmp is a rapidly growing start-up in the video & TV advertising space. We are the marketplace that enables advertisers and content owners to transact on a new cross screen currency. Our vision is to build the most comprehensive video and advanced TV advertising platform available and we’re quickly on our way to achieving that.
+
+The ideal candidate's best qualities are attention to detail and accountability. They need little coaching and excel in self-motivated environments. This is a place for people who want to make a large impact, who have an entrepreneurial spirit, and who are dedicated to personal and professional growth.
+
+ VideoAmp builds technology for cross-screen marketing. For the first time, advertisers are able to identify what devices their target aud...

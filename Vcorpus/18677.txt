@@ -1,0 +1,78 @@
+The Network Maintenance and Operations Team maintains performance of the complex data network and equipment for H-E-B, and ensures network improvements are successfully implemented and monitored to increase efficiency.
+
+As a Lead Network Engineer – Datacenter, you will lead strategy, analysis, design, installation, configuration and support network infrastructure and application availability and visibility across the Active-Active HEB Datacenters and different Public Clouds. You will analyze current processes and systems and assist in automating repetitive operational functions. You will also lead problem-management efforts for complex network outages.
+
+Once you're eligible, you'll become an Owner in the company, so we're looking for commitment, hard work, and focus on quality and Customer service. -Partner-owned- means our most important resources-People-drive the innovation, growth, and success that makes H-E-B The Greatest Retailing Company.
+
+Do you have a:
+HEART FOR PEOPLE... willingness to share your experience and knowledge, and develop training for others?
+HEAD FOR BUSINESS... ability to leverage your technical expertise to move H-E-B's networking toward automation and programmability?
+PASSION FOR RESULTS... adaptability and innovation, with a strong desire to bring possibilities to reality?
+
+We are looking for:
+a computer science degree; one or more network certifications
+8 years of experience designing and managing large enterprise distributed network environments
+an expert in data network analysis, design, engineering, and automation who will serve as a source of direction, training, and guidance for others
+analytical, problem-solving & communication skills
+What is the work?
+Network Design, Configuration, and Support:
+
+Leads infrastructure work related to datacenter networks / services
+Plans, designs, evaluates, configures, maintains, and selects network operating systems / firmware and related protocol suites
+Provides support to technical network systems
+Provides in-depth assessment of customers' networked application needs, provides network modeling and simulation consulting, and engineers appropriate solution
+Creates and updates network documentation and schematics
+Leads plans for hardware / resource provisioning per requirement projections and capacity forecasting
+Configures, updates, and manages VIP configurations on F5 load balancers for various mission-critical business applications
+Recommends, schedules, performs network enhancements and upgrades
+Reviews access control list (ACL) rules on Cisco ASA & Fortinet firewall platforms for troubleshooting purposes
+Performs Cisco ASA & Fortinet firewall replacements and upgrades
+Conducts routine network firewall/network infrastructure audits for compliance purposes
+Maintains network security through proper configuration of devices according to best practices
+Helps formulate and support technology roadmaps in designs and implementations
+Leads complex projects requiring additional specialized technical knowledge
+Coordinates with technical and non-technical employees and clients to determine requirements
+Based on defined standards, leads efforts related to internal and vendor service level agreements (SLAs); identifies / resolves SLA gaps; tracks circuits inventory (orders and disconnects), cost and related budgets; reports regularly
+Acts as technical Subject Matter Expert (SME) for cross-functional IT Teams, providing assistance and troubleshooting for network-related application issues and maintenance of complex network technology stacks
+Participates in weekly on-call rotation
+
+Troubleshooting / Analytics:
+
+Proactively identifies and assesses network issues, performs troubleshooting, researches solutions, focusing on root cause
+Monitors / responds to network incidents, triages, and resolves the problem
+Investigates and remediates network capacity-related issues
+Troubleshoots Datacenter, Public Cloud connectivity and Perimeter WAN issues
+Performs analysis and fine-tuning of tools designed for monitoring network and system availability and performance (packet loss, network utilization, traffic flows)
+Participates in research, recommendations & documentation of new technologies related to data network
+Performs advanced troubleshooting across multiple technologies and functional areas
+Conducts network assessments and recommends performance improvements for Datacenter technologies
+Implements/ tests/documents formal disaster recovery procedures for the network as required
+Leads and drives effort in assessments of new technical network system technologies
+Mentoring:
+Develops / monitors mentoring plans through on-the-job training for other team members
+Establishes and communicates common goals and direction for team
+Creates documentation on department standards/procedures; encourages others on adherence
+What is your background?
+Bachelor’s degree or higher in computer science, engineering, or related field, OR equivalent combination of education and work experience
+8 years of experience designing and managing large enterprise distributed network environments
+CCNP, CCIE, JNCIS, JNCIE, VCP-NV or similar network-based certifications
+Expertise in the following networking technologies and standards: IP Routing, Traffic engineering, QoS, Multicasting, Local Area Network (LAN), Wide Area Network (WAN), DCI (datacenter interconnect), DCI (datacenter interconnects), Overlay technologies
+Efficient with network monitoring, logging, packet captures and network tapping solutions (Gigamon)
+Expertise with DNS (managing zones), DHCP, IPAM and NTP services
+Expert knowledge and proven experience with Cisco routing (ISR, ASR, NCS), Cisco/Arista/Aruba data center switching (NX-OS, AOS, Aruba OS-CX) and routing protocols (BGP, EIGRP, OSPF)
+Proficient with data center technologies such as MPBGP-EVPN, VXLAN Overlay Networking, MLAG, VPC, Multicast and GRE
+Expert knowledge of Datacenter Firewalling, segmentation, micro-segmentation and VPN services with vendors like Cisco, Palo Alto, Fortinet
+Experience designing, managing and supporting 3 tier (Core, Agg, Access) & Spine-Leaf (CLOS) Datacenter Active -Active network fabric architectures (Arista, Cisco, Juniper, Cumulus etc.)
+Experience designing, configuring and troubleshooting virtual networking platforms such as VMware NSX/VMware VDS (SDDC)
+Proven experience deploying, configuring and troubleshooting F5 BIG-IP portfolio including LTM, ASM, GTM/DNS (or other load-balancing solutions)
+Experience in leveraging network automation tools, methodologies to streamline network operations processes and tasks: Git, Gerrit, Ansible, Puppet, YAML, JSON, Jinja2, Python, Jenkins, Batfish, Netmiko etc.
+Experience with Cloud Networking (AWS, GCP, Azure) - designing, deploying and troubleshooting VPCs, VPNs, Virtual-Routers over Cloud Exchange (GCP Partner-Interconnect, Azure ExpressRoute, AWS Direct-Connect), cloud certifications a plus.
+Preferred Key Competencies
+Reducing MTTR by leveraging various network troubleshooting tools and applying critical problem-solving skills
+Solid understanding of TCP/IP, Routing, Switching, load-balancing and firewall segmentation services
+Comfortable with an “API first” approach i.e. treating infrastructure as code
+Demonstrated analytical, problem-solving, communication, time-management skills
+Basic Project Management skills – Agile, Waterfall
+Ability to work efficiently in a fast-paced technical environment with increasing support demands and complexity
+Ability to prioritize and manage assigned tasks to meet deadlines and objectives
+ISA3232

@@ -1,0 +1,68 @@
+SiriusXM and Pandora have joined together to create the leading audio entertainment company in the U.S. Together, we are uniquely positioned to lead a new era of audio entertainment by delivering the most compelling subscription and ad-supported audio experiences to millions of listeners -- in the car, at home and on the go. Our talent, content, technology and innovation continue to be at the forefront, and we want you to be a part of it! Check out our current openings below and at http://www.siriusxm.com/careers">www.siriusxm.com/careers.
+
+Position Summary:
+
+The Senior Data Engineer is responsible for building and deploying streaming and batch data pipelines capable of processing and storing petabytes of data quickly and reliably. As a Senior Data Engineer, you will lead collaboration with product teams, data analysts and data scientists to design and build data-forward solutions. In this highly visible technical lead position, you will be responsible for providing Data Engineering leadership and support to ingest and integrate large volumes of disparate data from a variety of sources. This involves rapid innovation in large scale data pipeline design and development to ensure critical data sets are made available to our users and predictive models in a timely manner. We are looking for someone with strong hands on experience in all layers of the full stack involving data. The Senior Data Engineer plays a significant role in Agile planning, providing advice and guidance, and monitoring emerging technologies. This is not a junior programmer position and requires extensive hands on coding and design experience.
+
+Duties and Responsibilities:
+Build and deploy streaming and batch data pipelines capable of processing and storing petabytes of data quickly and reliably.
+Collaborate with product teams, data analysts and data scientists to design and build data-forward solutions.
+Gather and process all types of data including raw, structured, semi-structured, and unstructured data.
+Integrate with a variety of data providers ranging from marketing, web analytics, and consumer devices including IoT and Telematics.
+Build and maintain dimensional data warehouses in support of business intelligence tools.
+Develop data catalogs and data validations to ensure clarity and correctness of key business metrics.
+Design, code, test, correct and document programs and scripts using agreed standards and tools to achieve a well-engineered result.
+Derive an overall strategy of data management, within an established information architecture (including both structured and unstructured data), that supports the development and secure operation of existing and new information and digital services.
+Plan effective data storage, security, sharing and publishing within the organization.
+Ensure data quality and implement tools and frameworks for automating the identification of data quality issues.
+Collaborate with internal and external data providers on data validation providing feedback and making customized changes to data feeds and data mappings.
+Mentor and lead data engineers providing technical guidance and oversight.
+Provide ongoing support, monitoring, and maintenance of deployed products.
+Drive and maintain a culture of quality, innovation and experimentation.
+Supervisory Responsibilities:
+This is an individual contributor role without direct reports, however as a Senior level role we expect this candidate to coach, mentor, and help develop junior developers and engineers to inspire, motivate, grow, and help structure a high performance team.
+Minimum Qualifications:
+Advanced degree in relevant field of study strongly desirable, particularly in computer science or engineering level programs.
+5+ years professional experience working with data extract/manipulation logic.
+5+ years professional experience with object-oriented programming, functional programming, and data design.
+7+ years experience with Development, Engineering, R&D or Information Technology.
+3+ years working with a public cloud big data ecosystem (certification in AWS a plus).
+3+ years working with MPP databases, distributed databases, and/or Hadoop.
+Requirements and General Skills:
+Passion for data engineering, able to excite and lead by example and mentoring others.
+Hungry and eager to learn new systems and technologies.
+Self-directed and enjoys the challenge and freedom of deciding what is the most impactful thing to work on next.
+Ability to deliver exceptional results through iterative improvement rather than initial perfection.
+Excellent communication and presentation skills and ability to interact appropriately with all levels of the organization, including: business users, technical staff, senior level colleagues, vendors, and partners.
+An extensive track record that demonstrates effectiveness in driving business results through data and analytics.
+The ability to develop and articulate a compelling vision and generate necessary consensus.
+A successful history of translating business objectives and problems into analytic problems, and analytic solutions into actionable business solutions.
+A proven ability to influence decision making across large organizations.
+A proven ability to hire, develop, and effectively lead deeply technical resources.
+Demonstrate and foster a sense of urgency, strong commitment, and accountability while making sound decisions and achieving goals.
+Articulate, inspire, and engage commitment to a plan of action aligned with organizational mission and goals.
+Create an environment where people from diverse cultures and backgrounds work together effectively.
+Technical Skills:
+Experience deploying and running AWS-based data solutions and familiar with tools such as Cloud Formation, IAM, Athena, and Kinesis.
+Experience engineering big-data solutions using technologies like EMR, S3, Spark and an in-depth understanding of data partitioning and sharding techniques.
+Experience loading and querying both on premise and cloud-hosted databases such as Teradata and Redshift.
+Building streaming data pipelines using Kafka, Spark, or Flink.
+Familiarity with binary data serialization formats such as Parquet, Avro, and Thrift.
+Experience deploying data notebook and analytic environments such as Jupyter and Databricks.
+Knowledge of the Python data ecosystem using pandas and numpy.
+Experience building and deploying ML pipelines: training models, feature development, regression testing.
+Experience with graph-based data workflows using Apache Airflow.
+Expertise writing distributed, high-volume services in Python, Java or Scala.
+Expertise with high volume heterogeneous data, preferably with distributed systems.
+Knowledge of data modeling, data access, and data storage techniques.
+Appreciation of agile software processes, data-driven development, reliability, and responsible experimentation.
+Familiar with metadata management, data lineage, and principles of data governance.
+Strong and thorough knowledge of the following:
+ETL/ELT Tools
+BI tools
+MDM / Reference Data
+RDBMS, NoSQL and NewSQL
+MS Office Suite
+SiriusXM is an equal opportunity employer that does not discriminate on the basis of sex, race, color, age, national origin, religion, creed, physical or mental disability, medical condition, marital status, sexual orientation, gender identity or expression, citizenship, pregnancy, military or veteran status or any other status protected by applicable law.
+
+The requirements and duties described above may be modified or waived by the Company in its sole discretion without notice.

@@ -1,0 +1,33 @@
+About Snowflake
+
+Founded by industry experts and backed by strategic investors, our disruptive built-for-the-cloud architecture was designed to push the limitations of conventional data warehousing.
+
+Our teams breed ambition, challenge ordinary thinking, push the pace of innovation, in-service of the exploding demand for accessible data.
+
+Snowflake is growing fast and we're scaling our team to help enable and accelerate our growth. We're passionate about our people, our customers, our values and our culture! We're also looking for people with a growth mindset and the pragmatic insight to solve for today while building for the future. And as a Snowflake employee, you will be accountable for supporting and enabling diversity and belonging.
+
+Snowflake started with a clear vision: make modern data warehousing effective, affordable, and accessible to all data users. Because traditional on-premises and cloud solutions struggle with this, Snowflake developed an innovative product with a new built-for-the-cloud architecture that combines the power of data warehousing, the flexibility of big data platforms, and the elasticity of the cloud at a fraction of the cost of traditional solutions.
+
+We're growing and looking for a talented Data Scientist to come aboard and join our Data Science team in Finance. We are looking for someone who is passionate about analytics and is able to approach complex problems in an organized and detail-oriented manner. As Finance touches on all aspects of the business, you should be an intellectual athlete who has the desire to learn about customer behavior and the important drivers of various departments.
+
+As a Data Scientist at Snowflake you will:
+Build data products used to optimize the purchasing and monitoring of our cloud infrastructure across AWS, Microsoft Azure and Google Cloud.
+Work with large time-series datasets to forecast our infrastructure costs and product revenue, providing insight into our product margin.
+Build predictability and statistical confidence for the growth of our business and continue building a data-driven culture within Snowflake.
+Work closely with the product team to help develop features around user behavior that impact customer usage and growth within the product.
+Identify and build solutions for operational use casese.g., system monitoring and alerting, outlier detection, etc.
+Think creatively to find optimal solutions to our complex, typically unstructured problems.
+Our ideal candidate will have:
+BS/MS in a quantitative discipline (Math, Statistics, Operations Research, Economics, Engineering, or CS)
+Expert-level experience working with SQL and relational data (3+ years on a regular basis).
+3+ years of experience with Python, including scikit-learn, numpy, and pandas.
+Experience working with large-scale machine-generated data (e.g., log, application, or customer-usage data).
+Hands-on experience with MPP databases, such as Snowflake, Redshift, BigQuery, Vertica, etc.
+Ability to clearly present learnings to business leaders and technical stakeholders.
+The ability to thrive in a dynamic environment. That means being flexible and willing to jump in and do whatever it takes to be successful.
+
+We're looking for people who share our passion for ground-breaking technology and want to create a lasting future for you and Snowflake.
+
+Are you up for the challenge?
+
+Snowflake is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, color, gender identity or expression, marital status, national origin, disability, protected veteran status, race, religion, pregnancy, sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.

@@ -1,0 +1,32 @@
+HOVER uses patented technology making it possible for anyone with a smartphone camera to create an interactive 3D model, complete with detailed measurements and powerful design features. The data produced is extremely valuable as it generates a single source of truth for the physical world allowing for more veracity throughout the home improvement and insurance processes. We've found an incredibly strong product-market fit across exterior home improvement, insurance, and financial services. What's the secret sauce? Cutting edge technology, an exceptional culture, and a commitment to our values (Think. Do. Serve.).
+
+With our team of investors, including Google Ventures and Menlo Ventures, HOVER is committed to continuing our success and facilitating growth. We believe there is strength in diversity so we hire skilled and passionate people from a wide variety of backgrounds.
+
+Why HOVER wants you:
+
+HOVER is looking for a data expert who is equally comfortable with writing code and helping business stakeholders understand data. You'll help teammates and customers get the data they need that directly drives business and customer growth.
+
+The data team is made up of 8 data engineers, analysts, and scientists. We work cross-functionally and fullstack delivering data pipelines, scripting automation, building data models, and integrating data into 3rd party tools. You'll work with Python, SQL, GCP, Airflow, Tableau and help to select and implement our new ETL architecture to help business stakeholders understand data that will impact the company.
+
+You will contribute by:
+
+On a daily basis you'll write SQL and Python to build out data pipelines in Airflow. You'll manage our Snowflake data warehouse and Tableau. You'll become an in a suite of cloud tools for feature flagging and experimentation (split.io), data integration (Segment) and customer reporting (Matik & Snowflake Data Sharing). You'll write scripts to automate the management of those tools.
+
+Your background includes:
+Strong SQL writing skills
+Familiarity with Data Visualization tools such as Tableau, Looker, Superset. Tableau preferred.
+Scripting experience with expertise in at least one high-level
+programming language (preferably Python)
+Experience with cloud data tools such for logging, feature flagging, data integration, and analytics
+Experience with orchestration tools such as Airflow (preferred), Luigi, Ooozie
+Expertise building data pipelines with streaming and batch ETL patterns on complex datasets using Spark or other open-source frameworks
+Exceptional communication skills and desire to share your knowledge with clarity, patience, and empathy
+The ability to work independently and set your own priorities with careful attention to detail and deadlines
+A service mindset to business stakeholders
+Benefits:
+Compensation - Competitive salary and meaningful equity in a fast-growing company
+Healthcare - Comprehensive medical, dental, and vision coverage for you and dependents
+Paid Time Off - Unlimited and flexible vacation policy
+Paid Maternity/Paternity Leave - We support work/life balance and offer generous paid parental and new child bonding leave
+Learning - We encourage continued education and will help cover the cost of conferences, workshops, or certifications
+Transportation - Pre-tax commuter benefits and free parking

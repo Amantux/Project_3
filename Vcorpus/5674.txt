@@ -1,0 +1,72 @@
+Science and Technology on a Mission!   
+For more than 60 years, the Lawrence Livermore National Laboratory (LLNL) has applied science and technology to make the world a safer place. 
+
+   
+We have an opening for a data scientist with a background in machine learning for cybersecurity applications. You will contribute, provide subject matter expertise and lead research projects in the area of cybersecurity for critical infrastructure systems and civilian networks. This position is programmatically in Global Security’s E Program and administratively will report to the payroll supervisor of the hiring organization. 
+This position will be filled at either the SES.2 or SES.3 level depending on your qualifications. Additional job responsibilities (outlined below) will be assigned if you are selected at the higher level. 
+ Essential Duties  
+- Under limited direction, research, develop design and implement machine learning algorithms for cyber threat detection in operational technology environments. 
+- Identify data types that should be collected in OT environments to enable detection of cyber events. 
+- Test and validate developed algorithms on real OT data. 
+- Identify, define and scope moderately complex data analytics problems in cybersecurity domain. 
+- Develop cross-domain strategies for increased network security and resiliency of critical infrastructure, working with researchers in other disciplines. 
+- Perform other duties as assigned. 
+  
+ In Addition, at the SES.3 Level  
+- Lead multidisciplinary teams in the areas of modeling and simulation for critical infrastructure cyber security, information security, and network security. Continue building LLNL’s machine learning and data analytics capabilities. 
+- Pursue program development opportunities by co-authoring proposals and proposing ideas that will address sponsor needs. Identify program growth opportunities for existing customers, understanding the customer space and needs. 
+- Present results and provide subject matter expertise across multi-discipline projects engaging with sponsors on a regular basis. 
+  
+ Qualifications  
+- Master’s degree in computer science, computer engineering, or a related field or the equivalent combination of education and related experience. 
+- Experience developing software in Python, C++, or C. 
+- Comprehensive experience implementing a deep learning workflow using one or more of the following frameworks: Theano, Tensorflow, Pytorch, or Keras. 
+- Fundamental knowledge and/or experience in applying algorithms in one or more of the following Machine Learning areas: anomaly detection, one/few-shot learning, deep learning, unsupervised feature learning, ensemble methods, probabilistic graphical models, reinforcement learning. 
+- Broad knowledge of network protocols such as DNS, or HTTPS. 
+- Knowledge and/or experience of computer vulnerabilities such as buffer overflows, code injection, format string, etc.  
+- Ability to effectively manage concurrent technical tasks with contending priorities, as well as approaching difficult problems with enthusiasm and creativity to change focus when necessary. 
+- Ability to communicate comprehensive knowledge effectively across multi-disciplinary teams and to non-cyber experts and proficient interpersonal skills necessary to effectively collaborate in a team environment. 
+  
+ In Addition, at the SES.3 Level  
+- Lead multidisciplinary teams in the areas of machine learning and deep learning algorithms. 
+- Pursue program development opportunities by co-authoring proposals and proposing ideas that will address sponsor needs. Identify program growth opportunities for existing customers, understanding the customer space and needs. 
+- Present results and provide subject matter expertise across multi-discipline projects engaging with sponsors on a regular basis. 
+  
+ Desired Qualifications  
+- Ph.D. degree in computer science, computer engineering, or a related field. 
+- Experience with high performance computing, parallel programing, and/or cloud computing. Experience with Modbus, DNP3, IEC 104, or IEC 61850 protocols. Familiarity with full-stack software development. 
+- Knowledge and/or experience of the reverse engineering process using tools such as OllyDbg, IDA, or WinDbg. Knowledge of the following source code analysis representations: abstract syntax tree, control flow graphs, data dependency graphs. 
+
+   
+ Pre-Employment Drug Test:   External applicant(s) selected for this position will be required to pass a post-offer, pre-employment drug test.  This includes testing for use of marijuana as Federal Law applies to us as a Federal Contractor. 
+
+   
+ Security Clearance:   This position requires a Department of Energy (DOE) Q-level clearance. 
+If you are selected, we will initiate a Federal background investigation to determine if you meet eligibility requirements for access to classified information or matter. In addition, all L or Q cleared employees are subject to random drug testing.  Q-level clearance requires U.S. citizenship.  If you hold multiple citizenships (U.S. and another country), you may be required to renounce your non-U.S. citizenship before a DOE L or Q clearance will be processed/granted. 
+
+   
+ Note:    This is a Career Indefinite position. Lab employees and external candidates may be considered for this position. 
+
+   
+ About Us  
+Lawrence Livermore National Laboratory (LLNL), located in the San Francisco Bay Area (East Bay), is a premier applied science laboratory that is part of the National Nuclear Security Administration (NNSA) within the Department of Energy (DOE).  LLNL's mission is strengthening national security by developing and applying cutting-edge science, technology, and engineering that respond with vision, quality, integrity, and technical excellence to scientific issues of national importance.  The Laboratory has a current annual budget of about $2.1 billion, employing approximately 6,800 employees. 
+LLNL is an affirmative action/ equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, marital status, national origin, ancestry, sex, sexual orientation, gender identity, disability, medical condition, protected veteran status, age, citizenship, or any other characteristic protected by law. 
+
+Job Summary
+
+                             
+                     
+                         Location 
+                             Livermore, CA 94550 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         6490_105036

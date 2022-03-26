@@ -1,0 +1,31 @@
+Fidelity TalentSource is your destination for discovering your next temporary role at Fidelity Investments. We are currently sourcing for a Cloud Engineer to work in Westlake, Texas!
+
+The Fidelity Fund and Investment Operations (FFIO) Performance Attribution technology team is responsible for the production of daily transaction-based attribution analytics at the holding's level for use by the application’s consumers who include: Senior Investment Staff, Portfolio Managers, Chief Investment Officers, Research groups, Distribution Channels, Board of Trustees & Shareholders. The highly complex performance attribution system is continually improving in response to challenges posed by, among others, changes in investment management strategy, the introduction of new investment products, and changes to upstream or interfacing applications.
+
+The Expertise You Have
+Proven expertise in developing applications using Spring, Spark and AWS technologies like Lambda, EMR and developing CICD pipeline to migrate applications patterns like Web services, Angular
+Building and monitoring and alerting tools to report failure or potential performance degradation, providing post production support for applications
+Skills and Knowledge:
+
+Build technical solutions on AWS
+Automate CICD process using Jenkins, Java, uDeploy, Concourse, Docker & bitbucket
+Your SQL knowledge to query data from Oracle or Spark RDD
+The Value You Deliver:
+
+Building application using cloud technology for rapid acquisition of feeds
+Building CICD pipeline to migrate services to AWS
+Building robust alerting and monitoring for a stable environment
+Perform quick POC on new technology under guidance
+
+
+Company Overview
+
+
+Fidelity TalentSource, formerly Veritude, is the in-house temporary staffing provider for Fidelity Investments, one of the largest and most diversified global financial services firms in the industry. We recruit individuals from a variety of backgrounds, including technology and customer service, to fill assignments across Fidelity’s U.S.-based regional and investor center locations. If you would like to experience Fidelity’s diverse and inclusive workplace while expanding your skill set and developing your professional network, consider a role with Fidelity TalentSource. For information about working at Fidelity TalentSource, visit FTSJobs.com.
+
+Information about Fidelity Investments
+
+
+At Fidelity, we are focused on making our financial expertise broadly accessible and effective in helping people live the lives they want. We are a privately held company that places a high degree of value in creating and nurturing a work environment that attracts the best talent and reflects our commitment to our associates. We are proud of our diverse and inclusive workplace where we respect and value our associates for their unique perspectives and experiences. For information about working at Fidelity, visit FidelityCareers.com.
+
+Fidelity Investments and Fidelity TalentSource are equal opportunity employers.

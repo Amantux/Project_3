@@ -1,0 +1,47 @@
+At Datadog, we’re on a mission to build the best monitoring platform in the world. We operate at high scale—trillions of data points per day—and high availability, providing always-on alerting, visualization, and tracing for our customers' infrastructure and applications around the globe.
+
+Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way. We need you to design and build machine learning-powered products that help our customers learn from their data and make better decisions in real-time.
+
+You will have a fantastic team of data engineers to support you, a collaborative environment to encourage your work, and the best technologies for performing data science at high scale in your toolkit.
+
+Join us to build powerful, intelligent data systems. In a typical week as a Data Scientist, you might:
+
+Present the latest academic research papers to your team.
+
+Research and benchmark the latest algorithms that can be used for our particular use-cases.
+
+Apply machine learning algorithms and statistical techniques to build new product features.
+
+Deploy a new feature to production, instantly affecting customers with your work.
+
+Mentor other data scientists on your team.
+
+Explore and find meaning in extremely high volumes of data.
+
+Investigate and fix a production issue from a service your team owns.
+
+Requirements
+
+You have backend programming experience in one or more languages.
+
+You care about code simplicity and performance.
+
+You have mastered working with data in a language such as Python, R, or Julia.
+
+You can explain complex ideas and algorithms in understandable ways.
+
+You have significant experience applying machine learning to real business problems.
+
+You have a BS/MS/PhD in a scientific field or equivalent experience.
+
+You want to work in a fast, high-growth startup environment and thrive on autonomy.
+
+You are fluent with SQL / relational algebra.
+
+Bonus points
+
+You’ve done data science at high scale with tools like Hadoop and Spark.
+
+You’ve written production data pipelines.
+
+You’re familiar with time series analysis.

@@ -1,0 +1,23 @@
+Job description:
+
+The Data Scientist within the Strategic Analytics group at Echo is responsible for turning the vast amounts of internal and external data into value for the organization. This role will be tasked with developing full stack data science solutions, from building raw data sets to automation and deployment. The Data Scientist will work extensively with RDBMS and NoSQL graphs to wrangle operational data, then leverage those data via machine learning, predictive analytics, and statistical modeling techniques to implement ongoing production solutions communicate insights for the business.
+
+Job requirements:
+
+Undergrad or graduate degree in analytics, mathematics, statistics, engineering, computer science, or natural sciences such as physics or chemistry.
+
+Machine learning and predictive analytics experience using Python and R.
+
+Able to manipulate databases using SQL (for RDBMS) and Cypher (for graphs).
+
+Keen curiosity to pursue unanswered questions and quantify unexplored relationships in the data.
+
+Data visualization abilities and interpretation of complex outputs into straightforward business recommendations.
+
+Familiarity with Git for project management and versioning a plus.
+
+Experience deploying data science engineering a plus: Kubernetes, Docker, etc.
+
+Familiarity with statistical modeling techniques such as hierarchical models, time series forecasting, and causal analysis a plus.
+
+All qualified applicants will receive consideration for employment without regard to age, race, color, religion, sex, sexual orientation, gender identity, national origin, status as a qualified individual with a disability, or Vietnam era or other protected veteran.

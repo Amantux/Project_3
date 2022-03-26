@@ -1,0 +1,32 @@
+Klaviyo is looking for Senior Data Scientists to join our team which is still in its early days. You'll have a big impact on our direction and how we operate. You'll be central to upfront research and shipping products that help our customers learn and grow from their data.
+
+The ideal candidate has a background in data science, statistics and machine learning and has done work ranging from exploratory analysis to training and deploying models. We use a wide variety of data mining and machine learning algorithms. The right candidate will have both a solid fundamental understanding and deep practical experience with at least a few modeling and machine learning techniques.
+
+You should have experience building models that are used by people to make better decisions. We're focused on shipping early and often. We prefer iterative solutions that are incrementally better to the perfect solution.
+
+How you will make a difference:
+
+
+Analyze large data sets (we're collecting billions of individual actions every month).
+Build models and ship products that enable businesses to grow faster and communicate with their customers.
+Democratize and open up that technology to everyone (Our background as a team is building these models for the Fortune 50).
+Match the right assumptions and models to the right problem.
+Measure and know what impact your models had on the decisions people made -- e.g. did they outperform the previous best model or a human decision maker?
+
+Who You Are:
+
+
+Bachelor's or advanced degree in statistics, applied mathematics, computer science or other relevant quantitative discipline, or equivalent industry experience.
+Have worked in a data science role for 5+ years professionally or academically and can talk about your projects and the techniques you used.
+Have a strong fundamental understanding and deep experience with at least a few machine learning algorithms (e.g. regressions, decision trees, k-means clustering, neural networks).
+Understand Bayesian modeling techniques.
+Are capable of analyzing data and making rigorous statements about what can or cannot be concluded.
+Have experience designing and implementing model performance/validation assessments.
+Have a background in statistics and understand different distributions and the conditions under which they're valid.
+Know how code and have used data science tools and packages.
+Have demonstrated a measurable impact based on the models you've created. It's not always easy getting a model correct and we love talking about places we got stuck and working as a team to think through ideas that could unblock us.
+Have a desire to ship features powered by data science (in other words, you're excited by both upfront research and actually getting models into production at cloud scale).
+
+Get to know Klaviyo
+
+Klaviyo is the world's leading owned marketing platform known for accelerating revenue for online businesses using the channels they own like email, web, and mobile. Enabling companies to leverage these owned marketing channels, Klaviyo makes it easy to store, access, analyze and use transactional and behavioral data to power highly-targeted customer and prospect communications. And unlike other marketing platforms, Klaviyo doesn't force companies to compromise between advanced functionality or ease of use - so companies of all sizes are able to maximize their sales quickly. That's why over 28,000+ innovative companies like Unilever, Custom Ink and Eventbrite sell more with Klaviyo.

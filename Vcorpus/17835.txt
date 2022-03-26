@@ -1,0 +1,54 @@
+As a senior technical leader in the Data Pipelines engineering organization, you will technically guide a team chartered with ingesting and transforming agronomic data into canonical and post-canonical datasets. You will be accountable for the design and technical stewardship of existing and next-generation large scale data pipelines processing geospatial data acquired from a global farming user base. You will drive pipeline and capability architectures that facilitate the rapid integration of data science based agronomic, data quality, and imagery processing models directly into our data pipelines.
+
+What You Will Do:
+Lead technical direction and architectural evolution of our data pipelines and related digital farming platform capabilities.
+Partner with other architects and technical leads to collaborate, design and validate appropriate solutions and institute appropriate data governance mechanisms.
+Partner with Digital Farming Platform leads to establish and steward a multi-year Data Pipelines technical capabilities roadmap.
+Develop cloud-based pipeline architectures that enable massively scalable data processing, while maintaining less than linear operating cost profiles.
+Continuously assess next-generation geospatial data and imagery processing techniques to support use cases unique to the agriculture industry.
+Work with key leaders and subject matter experts in our Data Science and Product organizations to integrate and enable the latest agronomic data innovations and data quality algorithms.
+Evangelize and mentor others on topics such as data governance, data quality, and data management best practices and techniques.
+Basic Qualifications:
+BS, MS or equivalent in Computer Science or related technical field
+10+ years of software engineering with OOP languages
+7+ years of architectural experience developing scalable data pipelines and data processing frameworks in a cloud-native or distributed computing environment.
+3+ years serving as a lead data or pipeline architect in a large-scale, cloud-based, high-volume data processing organization or business division.
+Demonstrated experience writing architectural requirements and systems design documents.
+Experience designing and governing scalable cloud-native backend compute capabilities (REST APIs, microservices, distributed computing frameworks, geospatial processing and indexing, messaging frameworks and paradigms, data quality management).
+Expertise designing and deploying solutions on at least one cloud-based provider such as Amazon Web Services, Google Cloud Platform or Microsoft Azure.
+Preferred Qualifications:
+Excellent written and verbal communication including the presentation of complex engineering designs, concepts, and solutions in a clear and concise manner to technical and non-technical audiences alike.
+Expertise in processing and aggregating high-volume, geospatially-oriented IoT data.
+Expertise in imagery processing and feature extraction from satellite and aerial sources.
+Depth of knowledge in the Data Operations and Data Quality management space.
+Experience with layered geospatial data structures and data representations.
+Expertise designing and implementing highly scalable data-intensive distributed computing solutions using modern cloud-native processing frameworks.
+Experience with Amazon Web Services (EC2, S3, RDS, SQS, etc.) is strongly preferred
+Experience with a compiled JVM language, including Scala, is a plus
+Working knowledge of open-source and commercial data pipeline tooling (Apache NiFi, Cloudera, Informatica, etc) strongly preferred.
+What We Offer:
+
+Our teams are composed of industry experts, top scientists, and talented engineers. The environment is extremely engaging and fast-paced, with dozens of specialties coming together to provide the best possible products and experiences for our customers.
+
+We provide competitive salaries and some of the best perks in the industry, including:
+Superb medical, dental, vision, life, disability benefits, and a 401k matching program
+A stocked kitchen with a large assortment of snacks & drinks to get you through the day
+Encouragement to get out of the office and into the field with agents and farmers to see first-hand how our products are being used
+We take part and offer various workshops, conferences, meet-up groups, tech-talks, and hackathons to encourage participation and growth in both community involvement and career development
+We also hinge our cultural DNA on these five values:
+Inspire one another
+Innovate in all we do
+Leave a mark on the world
+Find the possible in the impossible
+Be direct and transparent
+Learn more about our team and our mission:
+
+The Climate Corporation - The Technology Behind Making A Difference
+
+https://youtu.be/c5TgbpE9UBI or visit https://climate.com/careers
+
+Climate aims to create a welcoming and collaborative environment for our employees in which a diverse set of perspectives and voices are represented and celebrated.
+
+As part of our dedication to the diversity of our workforce, The Climate Corporation is committed to Equal Employment Opportunity and does not discriminate based on race, religion, color, national origin, ethnicity, gender, sex (including pregnancy), protected veteran status, age, disability, sexual orientation, gender identity, gender expression, or any unlawful criterion existing under applicable federal, state, or local laws. If you need assistance or an accommodation due to a disability, you may contact us at accommodations@climate.com
+
+#LI-BW1

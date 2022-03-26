@@ -1,0 +1,49 @@
+PreCyte Inc. is a well-funded, dynamic, early-stage biotech startup with a vision to eliminate the burden of neurodegenerative diseases and cancer. We are working with scientists from the Seattle Children’s Research Institute to develop a novel diagnostic platform called the indicator cell assay platform (iCAP).  We are designing the iCAP to be a low-cost assay for early detection of disease signatures in patient’s blood. The platform uses a biosensor approach based on exposing standardized cultured cells to patient’s blood and using the transcriptional response of the cells as a disease indicator. This approach capitalizes on the exquisite sensitivity and specificity of cells to their environment and eliminates many hurdles faced by direct detection approaches. PreCyte offers generous benefits, stock options, and a healthy work-life balance centered in the vibrant South Lake Union area of Seattle. 
+Description 
+We are seeking a talented machine-learning specialist to develop and refine disease classifiers that lie at the core of the iCAP technology. You will work closely with a cross-disciplinary and highly collaborative team of life and data scientists to develop and apply the company's targeted blood-based diagnostic technology for early detection of Alzheimer's disease and lung cancer. This is an exciting opportunity to be involved in the development of a unique and potentially transformative tool to the diagnostics industry. The position demands an experienced and strongly motivated individual to strive for success by being innovative, acquiring and applying the necessary biological knowledge, and taking ownership of projects. Join us in shaping the culture and strategic direction of a young company, and make a significant impact on disease treatment through accurate and early diagnosis. 
+
+ 
+ Responsibilities:  
+·      With the lead systems biologist, be responsible for the success of PreCyte iCAP development studies.  
+·      Apply data science principles to iCAP data being mindful of special considerations required for biological applications. 
+·      Use and contribute to computational pipelines and toolsets developed by the computational biology team. 
+·      Employ coding best practices. 
+·      Select and create methods to identify differentially expressed genes using RNA expression data (RNA-seq, Nanostring™ and Fluidigm™). 
+·      Develop rigorous classifiers from the expression data to distinguish and stratify diseased patients.  
+·      Implement analytical protocols for assessing the robustness of the assay platform. 
+·      Work with life scientists to optimize and automate the iCAP, providing bioinformatic and statistical guidance. 
+·      Be responsible for large-scale data storage, backup, and security. 
+·      Build reports to effectively communicate analyses to development and research teams. 
+·      Mentor to junior-level bioinformaticians. 
+
+ 
+ Qualifications:   
+PhD and 2+ years working experience in bioinformatics/statistics (or similar quantitative fields).   
+4+ years of experience with analysis and integration of large biological datasets. 
+Demonstrated expertise in machine learning using R and/or Python. 
+Proficiency in R. 
+Strong background in statistical analysis and experimental design with respect to biological systems. 
+Ability to apply problem solving to complex issues and communicate in an interdisciplinary team. 
+Postdoctoral or industrial experience with preclinical or translational research. 
+Experience in a biotech setting is preferred.Successful track record participating in the development of clinical molecular diagnostic assays is a plus.   
+  
+Other Job Details: PreCyte is an equal opportunity employer to all employees and job applicants without regard to race, color, religion, sex, sexual orientation, age, gender identity or gender expression, national origin, disability or veteran status. PreCyte also complies with all applicable national, state and local laws governing nondiscrimination in employment as well as work authorization and employment eligibility verification requirements. PreCyte offers benefits and a healthy work-life balance in the South Lake Union area. 
+
+Job Summary
+
+                             
+                     
+                         Location 
+                             Seattle, WA 98164 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         7484_887482552

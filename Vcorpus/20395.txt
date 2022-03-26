@@ -1,0 +1,57 @@
+As a Sr. Data Analyst, you will work closely with both technical and non-technical stake-holders to build, deploy and administer self-service analytics capability across the organization. In this role, you will utilize the Plans diverse analytics tools to generate meaningful insights and carry out data literacy initiatives with the goal of creating a data-driven culture across the organization. You will support organizational strategic objectives by asessing reporting and analytics asks from business partners, contribute to task backlog, building and delivering data products and self-service capability for the end users within the Plans. You will spearhead trainings to socialize curated data and self-service capabilities while continuously analyzing gaps between new business asks and available curated data / worksheet.
+
+Essential job functions
+Lead engagements with business teams to understand business challenges, define analytics questions and apply analysis techniques to generate data products including interactive reports and dashboards
+Work closely with business stakeholders, scrum master and the rest of Analytics Team to deliver on key analytics projects. This will include design and review of data models, KPI definition, creation of data dictionaries, exploratory data analysis, data visualization and in some instances, machine learning and statistical modeling
+Drive the adoption of ThougtSpot analytics platform for operational reporting across multiple departments including Finance, Participant Services, Eligibility and Claims departments
+Perform gap analysis between data requirements and existing curated data models in ThougthSpot
+Validate data models to ensure they can support various self-serve capabilities including drill down/up; including integration testing
+Collaborate with data engineers and analysts to unify existing new data models with existing data models and to test their validity in providing additional self-service reporting capability
+Champion the application of analytics process– from business understanding, data understanding, data preparation, data modeling, evaluation, and deployment; lead by example and by training business stakeholders with varying technical and non-technical backgrounds
+Define, build, and maintain board dashboards, executive scorecards and operational reports for purposes of business intelligence
+Become front-line support for ThoughtSpot analytics platform and to handle related questions, issues and requests
+Engage with external partners including vendors and consultants on an ongoing basis to facilitate provisioning of data, and review of analysis findings
+Continuously advance your skills and those of others on the team through discussions, work assignments, training and mentoring
+Minimum qualifications
+Bachelor’s Degree in Computer Science, Information Systems, or other related field as well as equivalent work experience
+Minimum 8 years of either business intelligence, data engineering, data modeling or information architecture experience with a focus on enabling self-servcie analysis
+Minimum 8 years in a quantitative data analytics role with emphasis on data preparation and analysis
+Relevant experience designing and implementing business intelligence, data warehouse, owning data models and end-user handover processes
+Experience designing conceptual, logical and physical data models and maintaining data dictionary and capturing metadata
+Experience creating and maintaining automated data pipelines, data standards, and best practices to maintain integrity and security of the data; ensure adherence to developed standards
+Experience in developing and maintaining source to target mapping that includes extract requirements, derived field logic, domain values and data lineage
+Experience working in an Agile environment will also help you as you manage multiple projects in a fast-moving environment
+Preferred qualifications
+Previous work experience in the Healthcare industry preferred
+Experience building data models for analytics and reporting projects
+Previous work experience with agile framework preferred
+Competencies
+Customer focus - Gains insight into customer needs; identifies opportunities that benefit the customer; builds and delivers solutions that meet customer expectations; establishes and maintains effective customer relationships.
+Decision quality– Makes sound decisions, even in the absence of complete information; relies on a mixture of analysis, wisdom, experience, and judgment when making decisions; considers all relevant factors and uses appropriate decision-making criteria and principles; recognizes when a quick 80% solution will suffice.
+Communicates effectively– Is effective in a variety of communication settings: one-on-one, small and large groups, or among diverse styles and position levels; attentively listens to others; adjusts to fit the audience and the message; provides timely and helpful information to others across the organization; encourages the open expression of diverse ideas and opinions.
+Ensures accountability– follows through on commitments and makes sure others do the same; acts with a clear sense of ownership; takes personal responsibility for decisions, actions, and failures; establishes clear responsibilities and processes for monitoring work and measuring results; designs feedback loops into work.
+Instills trust– follows through on commitments; is seen as direct and truthful; keeps confidences; practices what he/she preaches; shows consistency between words and actions.
+Manages Ambiguity- Operating effectively, even when things are not certain or the way forward is not clear.
+Knowledge, skills and abilities
+Strong ability to blend and wrangle data, create logical data models to be used as a basis for analysis
+Proficiency in using enterprise analytics platforms, data visualization tools– Tableau, Alteryx, ThoughtSpot, Business Intelligence solutions or equivalent
+Knowledge of relational DBMS, preferably Oracle, and ability to script and execute SQL queries
+Understanding of the principles and tools of statistical analysis and machine learning is a plus
+Ability to frame unstructured, complex analytical problems
+Strong verbal and written communication skills with ability to articulate analytical findings to technical and non-technical audience
+Requirements
+Inspires teammates to follow them
+Works well as a member of a group
+Capable of carrying out a given task with all details necessary to get the task done well
+Devoted to a task or purpose with loyalty or integrity
+Inspired to perform well by the ability to contribute to the success of a project or the organization
+Previous work experience with agile framework preferred
+Building data models for analytics and reporting projects
+Previous work experience in the Healthcare industry preferred
+Working in an Agile environment will also help you as you manage multiple projects in a fast-moving environment
+Developing and maintaining source to target mapping that includes extract requirements, derived field logic, domain values and data lineage
+Creating and maintaining automated data pipelines, data standards, and best practices to maintain integrity and security of the data; ensure adherence to developed standards
+Designing conceptual, logical and physical data models and maintaining data dictionary and capturing metadata
+Relevant experience designing and implementing business intelligence, data warehouse, owning data models and end-user handover processes
+Quantitative data analytics role with emphasis on data preparation and analysis
+Either business intelligence, data engineering, data modeling or information architecture experience with a focus on enabling self-service analysis

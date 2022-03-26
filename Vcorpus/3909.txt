@@ -1,0 +1,73 @@
+Read what people are saying about working here. 
+
+Temporary, Internship
+
+Position is located in Lakewood, CO
+
+Position objective: Are you passionate about using data visualization for complex and interesting problems? Do you have experience working with cutting-edge visualization frameworks to make data science findings meaningful for non-technical users? If so, we would like to talk with you about joining the research team at ACT as a summer intern to help people achieve education and workplace success.
+
+ACT has an opening for a Research Data Scientist Summer Intern in our Data Science and Analytics group. This position will use their data visualization and machine learning expertise to prototype visualizations of the analytics results from ACT’s automated scoring engine, CRASE.
+
+Project Work Description: A common critique machine learning is that their processes cannot be understood; which is necessary for stakeholders to use them to make decisions and assessments. The Research Data Scientist Intern will use their data visualization and machine learning expertise to prototype methods to transform feature-level information used for score prediction by ACT’s automated scoring engine, CRASE, into human-readable graphical representations for both technical and non-technical audiences. The methods developed will add transparency to how/why CRASE assigns scores and increase the ability of people to use the results.
+
+Typical work-related activities include:
+
+Exploring the intricacies of the CRASE engine feature extraction
+
+Prototyping visualization libraries, plotting techniques, and data aggregation methods to automatically transform feature-level information into human-readable graphical representations for both technical and non-technical audiences
+
+Collaborating cross-functionally with team members to evaluate the effectiveness of methods
+
+Documenting and evaluating methods used
+
+Presenting findings to internal stakeholders
+
+Qualifications
+
+Minimum Qualifications:
+
+Education:
+
+Education Level: Pursuing Graduate or Doctoral degree
+
+Program(s) of Study: Human-Computer Interaction, Computer Science, Machine Learning, Data Science, or a Related Quantitative Discipline
+
+ Knowledge, Skills and Abilities:
+
+Required:
+
+Demonstrated success creating visualizations based in predictive modelling or complex statistical analysis in an academic or industry context
+
+Experience working with data visualization libraries such as Angular.js, d3.js, plotly.js
+
+Experience planning, designing, and building visualizations
+
+Strong grasp of Python including the pandas library
+
+Experience developing machine learning and deep learning algorithms
+
+Experience evaluating the effectiveness of machine learning and deep learning algorithms
+
+Experience preforming natural language processing in Python
+
+Exposure to machine learning and deep learning libraries in Python (like SciKit Learn, TensorFlow, etc.)
+
+Motivation to use machine learning and deep learning to address real issues
+
+Strong problem-solving capabilities
+
+Ability to communicate technical ideas clearly in written English
+
+Experience communicating technical information to both technical and non-technical audiences
+
+Willingness to work collaboratively to solve problems
+
+ Desired:
+
+Research expertise and scholarly contributions in human-computer interaction or data science preferred
+
+Experience working with Jupyter Notebooks
+
+Interest in automated scoring
+
+Experience or interest in the education industry

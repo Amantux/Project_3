@@ -1,0 +1,63 @@
+Worker Sub-Type:  Regular 
+  * Job Description:  *    
+ THE POSITION   
+Were looking for a Data Scientist to join the Cylance Data Science team. At Cylance, we develop state-of-the-art machine learning techniques to solve long-standing problems in computer security. We discover novel ML techniques and applications, build systems to handle petabytes of ludicrously high dimensional data, and protect people from bad guys. 
+With machine learning at the heart of all of Cylances products, the Data Science team is a critical, highly visible, and high-impact team within the company. The team brings together experts from machine learning, stats, computer science, computer security, and various applied sciences, with backgrounds including deep learning, Bayesian statistics, time-series modeling, topology, scalable data processing, and software engineering. 
+You dont need prior experience in security, although it helps. The right candidate will be able to gain domain expertise on the job, surrounded by some of the computer security industrys leading minds. 
+ WHAT YOU WILL DO    
+Invent novel machine learning techniques to solve important problems in computer security. 
+Improve upon existing machine learning techniques used within Cylance. 
+Write code that scales to very large datasets, often with millions of dimensions. 
+Discover ways to strengthen machine learning models against adversarial attacks. 
+Collaborate closely with internal product and engineering teams to help turn ML research prototypes into new products or features. 
+Publish papers and present research at conferences, including ML/AI/Stats conferences, as well as security conferences like Black Hat, DEFCON, and RSA. 
+Stay abreast of the latest publications and state-of-the-art techniques in relevant research communities (e.g., ML and stats). 
+Consult with other teams within Cylance on applications of data science. 
+Collaborate with other data scientists on the team to help accomplish all of the above.  
+ WHO WE ARE LOOKING  *FOR  *   
+Extensive knowledge of machine learning fundamentals. You dont just blindly call fit() in sklearn; you have a deep understanding of how many common ML algorithms work and are able to explain why they work the way they do. 
+Strong math skills in general, especially linear algebra and statistics. 
+Intermediate experience with python, at least to the point that youre able to implement common machine learning algorithms without much trouble. 
+A Masters degree or PhD in a relevant area can be substituted for equivalent years of experience.  
+ TECHNOLOGIES WE USE   
+Python, and libraries like sklearn, numpy, scipy, pytorch, and tensorflow. 
+Various other languages, including Scala, C/C++, C#, Java, and x86 assembly. 
+Git 
+Spark 
+Various AWS services, like EC2 and S3.  
+ ABOVE AND BEYOND    
+Excellent communication skills. You can clearly convey your ideas to others in speech and in writing. 
+Kindness, and a deep willingness to help and collaborate with others. 
+Five years minimum related experience with machine learning, computer science, and/or statistics. 
+Experience within Cyber Security  
+ WHAT WE NEED FROM YOU TO APPLY    
+Current resume  
+Cover letter/summary expressing:  
+Why you are interested in working at  Blackberry Cylance * OR Blackberry  * 
+
+The skills, strengths and expertise you will contribute to our diverse team of extraordinary talent and humble hearts  
+ Job Family Group Name:  Product Development 
+ Scheduled Weekly Hours:  40   
+We are BlackBerry, a global mobile communications leader who revolutionized the industry with its introduction in 1999. Today, BlackBerrys products and services, from messaging to enterprise mobility, are relied on by millions of individuals every day to securely and efficiently connect them to the content and people that matter most. At BlackBerry our instinct for innovation is relentless, so as we continue to push the boundaries of mobile experiences, we continue to drive the talent, passion and creativity of our employees. 
+2016 BlackBerry. All right reserved. BlackBerry and related trademarks, names, and logos are the property of BlackBerry Limited and are registered and/or used in the U.S. and countries around the world. 
+It is the policy of BlackBerry to ensure equal employment opportunity without discrimination or harassment on the basis of race, color, creed, religion, national origin, alienage or citizenship, status, age, sex, sexual orientation, gender identity or expression, marital or domestic/civil partnership status, disability, veteran status, genetic information, or any other basis protected by law. 
+EEO Minorities/Females/Protected Veteran/Disabled 
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Irvine, CA 92713 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         2365_ee5f8a9f68a6414bfdaad49d8c3c4091

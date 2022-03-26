@@ -1,0 +1,54 @@
+SUMMARY:
+
+The Cloud Engineer reports to the Director, Cloud Infrastructure and is responsible for systems support and configuration of operating systems, virtualization, storage, backup, replication, de-duplication, virtual desktop services such as VMware View, as well as related Identity Management technologies such as Active Directory, and other associated systems technologies. The Cloud Engineer provides expert level support in both incidents to restore service as soon as possible and problem management in preventing the reoccurrence of incidents. The Cloud Engineer provides guidance and training to other technical resources and plays a role in capacity and availability management ensure resources are appropriately monitored and managed to insure maximum availability for service levels. The Cloud Engineer also provides a key role in working directly with customers during design, implementation and ongoing support for the services provided.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES:
+Implementation, support, configuration and release management of physical and virtual servers, data center hardware, operating systems, hypervisors, storage systems, and associated systems management technologies insuring data and systems are secure and available.
+Provide expert level technical and operational support for day-to-day operations of a multi-tenant cloud infrastructure leveraging a multitude of delivery solutions including but not limited to Active Directory, VMware, SAN and NAS storage.
+Procure and analyze syslogs, error and support logs. Engaging vendor support as required.
+Provide expert, tier III level support for incidents to ensure operations systems are returned to service as soon as possible.
+Prevent the re-occurrence of incidents by supporting the problem management and knowledge management processes while working directly with customers, vendors and other personnel as appropriate.
+Follow security procedures, standards, and protocols related to stated technologies.
+Maintain standard monitoring thresholds for performance, capacity and availability management ensuring the highest level of service performance and availability.
+Adhere to standards for availability and business continuity and test related systems against the standard on a defined basis.
+Maintain documentation standards and ensure consistency as related to all infrastructure configurations.
+Support change and release management by having defined release plans, developing and implement changes requests, while having defined back out plans, and after-action reviews of failed changes.
+Train, mentor, and develop other engineers and support personnel where needed.
+Work directly with customers, utilizing excellent customer service skills, during all phases of the customer relationship.
+OTHER DUTIES AND RESPONSIBILITIES:
+Constant improvement of all services and processes
+Other duties as assigned
+MINIMUM QUALIFICATIONS: (To perform this job successfully, an individual must be able to perform each essential duty satisfactorily. The requirements listed below are representative of the minimum knowledge, skill, and/or ability required. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.)
+
+Experience:
+Qualified candidates will have five years or more of progressive experience in VMWare or Hyper-V virtual machine management supporting and configuring a combination of Microsoft or Linux Guest Operating Systems. Specific skill sets include but not limited to the demonstrated expertise in the advanced implementation, administration and management of:
+vSphere, VMWare vCenter Server, Distributed Resource Scheduling, vSphere Standard Switching, vSphere Virtual Distributed Switching, Host/Guest Networking, vSphere HA, ESXi Cluster administration, Datastore and RDM administration.
+Advanced practices and expertise of FC SAN, iSCSI and NAS storage required for this position.
+Four of more years advanced experience in a combination of cloud delivery solutions including but not limited to VMWare vSphere, Hyper-V, HP One View, HP Virtual Connect Manager and Cisco UCS Manager.
+Three or more years advanced experience installing, provisioning and supporting HP Blade Servers and Cisco UCS Blades.
+Three or more years of progressive experience in large enterprise health care systems including Meditech, Cerner, McKesson Health Information Systems, Medical Imaging, PACS, and/or Health Information Exchange is preferred for this position.
+Proficiency with storage systems, such as 3PAR and/or Nimble, strongly preferred.
+Proficient in cloud best practices and data center virtualization in multi-tenant environments.
+Background and experience with server hardening and security event prevention technologies such as Anti-Virus, SYSLOG server monitoring, etc preferred.
+Experienced with hyper-converged infrastructure is a plus
+Experience with VMWare VSAN is a plus
+Education or equivalent experience in ITIL, Cobit, and/or HIPAA preferred for this position.
+Education:
+Bachelors degree in information management, Computer Science, or other related field or an equivalent amount of experience is preferred for this position.
+Certifications or Licenses:
+Certifications in Microsoft Windows Server 2012 or newer, VMware VCP-DCV or higher, are considered a plus for this position.
+HPE ASE/ATP, Nimble Storage, and/or ISM v3 or equivalent certifications are considered a plus.
+ITIL Certification preferred.
+Special Knowledge, Skills and Abilities:
+Excellent customer service skills required.
+TRAVEL REQUIRED:
+
+Approximately 30% Travel
+
+PHYSICAL DEMANDS: (The physical demands and work environment described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.)
+Ability to work long hours at a desk using a PC, video conferencing, and phone usage.
+Ability to occasionally lift and move computer equipment if necessary.
+Moderate overnight travel by land or air.
+WORK ENVIRONMENT: (The physical demands and work environment described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions.)
+Ability to office at home if needed
+Extensive use of desktop computer, mobile technologies video conference, phone, cell phone is essential for this function.

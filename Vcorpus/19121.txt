@@ -1,0 +1,37 @@
+The Role
+
+We are looking for a Data Engineer to be part of our Applications Engineering team. This person will design, develop, maintain and support our Enterprise Data Warehouse & BI platform within Tesla using various data & BI tools, this position offers unique opportunity to make significant impact to the entire organization in developing data tools and driving data driven culture.
+
+Responsibilities:
+Work in a time constrained environment to analyze, design, develop and deliver Enterprise Data Warehouse solutions for Tesla's Finance and Accounting teams
+Work on ETL tools like SSIS and Informatica, Business Intelligence & Reporting tools like SSRS, SSAS and Tableau
+Work with systems that handle sensitive data with strict SOX controls and change management processes
+Develop collaborative relationships with key business sponsors and IT resources for the efficient resolution of work requests.
+Provide timely and accurate estimates for newly proposed functionality enhancements
+critical situation
+Communicate technical and business topics, as appropriate, in a 360 degree fashion, when required; communicate using written, verbal and/or presentation materials as necessary.
+Develop, enforce, and recommend enhancements to Applications in the area of standards, methodologies, compliance, and quality assurance practices; participate in design and code walkthroughs.
+Utilize technical and domain knowledge to develop and implement effective solutions; provide hands on mentoring to team members through all phases of the Systems Development Life Cycle (SDLC) using Agile practices.
+Qualifications:
+
+Minimum Qualifications:
+
+5+ years of experience in SSIS, Informatica 9.X/10.X on in large/medium scale implementations
+
+Must have strong experience in Data Warehouse ETL design and development, methodologies, tools, processes and best practices
+
+Experience in Finance functional areas like planning and budgeting, accounting, business intelligence, procure-to-pay, order-to-cash
+
+Understanding of SOX controls and audits procedures
+
+Strong experience in stellar dashboards and reports creation for C-level executives
+
+Preferred Qualifications:
+
+3+ years of development experience in Open Source technologies like Python, Java
+
+Experience in Big Data processing using Apache Hadoop/Spark ecosystem applications like Hadoop, Hive, Spark, Kafka and HDFS preferable
+
+Excellent query writing skill and communication skills
+
+Familiarity with common API's: REST, SOAP

@@ -1,0 +1,37 @@
+About Us
+
+MediaMath is a leading global independent advertising technology company, working with brands and agencies. We created the first software for real-time media buying in 2007 and today work with over two-thirds of the Fortune 500 and more than 3,500 brands and their agency partners to grow and deepen direct customer relationships.
+
+We have recently launched SOURCE by MediaMath which provides our clients with the most trusted, efficient, and effective way to connect their brands with consumers: real impressions on real media properties with policies and practices that respect the humans behind billions of screens and speakers every day.
+
+We need talent like you to fuel this next-generation ecosystem.
+
+About the role:
+
+We love data. We receive up to 10 million advertising opportunities per second, which we run through over several internal and partner enrichments to extract many targetable properties which we then match against 100s of thousands of advertising strategies to choose the best ad and we all this in less than 1/10th of a second.
+
+We are currently looking for a Data Scientist Ito support the ongoing development of MediaMath's proprietary algorithms and analytics. As part of our Data Science team, you will be working on the conception, design, development, testing, and deployment of real-world applications of models & data that impact billions of dollars of marketing spend. From optimizing real-time bidding auctions, to separating human from non-human web traffic, to building out a global cross-device graph across billions of users, you will have the opportunity to work on numerous cutting-edge problems and develop scalable, high-performance solutions to big data problems using state-of-the art technologies, languages and frameworks.
+
+You will:
+Design and develop Machine Learning models and algorithms that drive performance and provide insights, from prototyping to production deployment, across key areas of interest to the company (e.g., bidding optimization, messaging optimization, multi-touch attribution, fraud detection, device identification, cross-device association).
+Partner closely with Engineering on the architecture and implementation of modeling efforts to ensure performance and scalability.
+Work seamlessly with Product and Analytics to define concrete measures of success, including business level goals as well as improvement of client outcomes.
+Develop tools and processes to monitor performance of existing models and implement enhancements to improve scalability, reliability, and performance.
+You have:
+BS, Masters, or PhD degree in a quantitative discipline (e.g., Computer Science, Math, Physics, Statistics, Electrical Engineering, or similar).
+Experience in implementing projects in any of (or all of) the following ML toolkits: Tensorflow, scikit-learn, Pytorch.
+Previously participated in deploying Machine Learning Models all the way from research to production pipeline.
+Worked with large and highly imbalanced datasets and developed good intuition on tradeoffs between accuracy, training speed and deployment constraints.
+Related and adjacent experience with data architecture and engineering.
+At least a year of software development experience in Scala and/or Python. Experience with Golang a plus and something you will gain experience with here.
+You are:
+Hands-on with a passion "in-the-trenches" work with real-world datasets resulting in actual business outcomes and better client results.
+An influencer with strong communication skills, and the ability to effectively discuss models with other Data Scientists as well as business partners at the appropriate level of technical detail.
+Fast learner who is an analytic thinker and creative problem solver.
+Why We Work at MediaMath
+
+We are restless innovators, smart, passionate and kind. At the heart of our culture are six values that provide a framework for how we approach our work and the world: Teams Win, Scale + Innovation, Obsess Over Learning & Growth, Align then Execute, Do Good Better and Embrace the Journey. These values inform how we energize one another and engage with our clients. They get us amped to come to work. And, let's face it, so do the free snacks, great benefits, and unlimited vacation.
+
+We were named a Leader in both the 2018 and 2019 Gartner Magic Quadrants for Ad Tech, won four awards from the IAB for Sales, Service and Education Excellence, and received Best DMP in the 2019 Digiday Technology Awards. We have offices in 16 cities worldwide and are headquartered in New York City.
+
+MediaMath is committed to equal employment opportunity. It is a fundamental principle at MediaMath not to discriminate against employees or applicants for employment on any legally-recognized basis including, but not limited to: age, race, creed, color, religion, national origin, sexual orientation, sex, disability, predisposing genetic characteristics, genetic information, military or veteran status, marital status, gender identity/transgender status, pregnancy, childbirth or related medical condition, and other protected characteristic as established by law.

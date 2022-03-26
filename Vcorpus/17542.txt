@@ -1,0 +1,43 @@
+Job Description
+We are seeking a senior Data Engineer who will focus on creating and maintaining systems to collect and store data for reporting and analytics. This person will create solutions that compile heterogeneous data in various formats from multiple sources into a normalized data model which is consumed by a processing engine, applies business rules and provides reporting capabilities.
+The candidate should have excellent problem solving and communication skills. They should be able to articulate and document designs and concepts that will be utilized to solve complex data architecture problems, working with key stakeholders to prioritize needs.
+At Virtual Clarity, we are building sophisticated software tooling unrivaled in the marketplace. The ideal candidate will thrive in a fast-paced environment, driven by innovation, and the creation of tools that have already demonstrated disruption in the marketplace. You will demonstrate a special aptitude for rapidly understanding and solving complex problems and thrive on quickly implementing your solutions into executable code.
+Our customers are the worlds largest financial institutions, manufacturers, retail, hospitality providers and retailers. If you enjoy being part of an agile team that develops solutions at the speed of business, creating new software that solves problems now, and getting recognition for your efforts, this job is for you.
+Please review the following job requirements carefully. During the interview process, you will be expected to demonstrate mastery of required skills.
+Key objectives/Results:
+Deliver database solutions as an active (hands-on) part of a small multi-disciplinary team
+Develop and maintain databases which include: data repositories, reporting and analytical databases
+Deliver analysis of data from multiple sources and provide analytical results to target the business issues and engineer the data to fit the client needs
+Design and build robust and scalable solutions for managing structured and unstructured data using traditional databases
+Conduct end-to-end analysis which includes data gathering and requirements specification, analysis, ongoing scaled deliverables and presentations
+Coordinate, prepare and perform data analysis and transformations to align the data to business rules. Use this data to provide actionable information and business insights
+Work through early stages of software life cycle to profile data and to create conceptual, logical and physical data model designs with appropriate structure and relationships for optimal performance
+Provide gap analysis of available data against requirements to design future state solutions
+Deliver documentation including technical designs, data flows, ERDs, and mapping documents
+Responsibilities:
+Work with client data owners and functional designers to create technical specifications and execution methods
+Translation of business and technical requirements into scalable database solutions
+Participate in all aspects of the application lifecycle: requirements analysis & definition, system design, implementation, testing, deployment and sustainment
+Collaborate with the team's application architect to improve upon database and application designs and performance
+Work with Business SMEs to obtain a greater understanding of the needs of the business and the types of analysis that support business goals
+Interface with internal teams to extract, transform and load data from a wide variety of data sources with frequency varying from batch to on demand
+Provide technical expertise and capabilities in SQL query writing and use of DBMS technology
+Work closely with web development team in the ongoing development and maintenance of databases, applications or tools
+Desired Skills & Experience
+7+ years of database design and development work experience
+Detailed knowledge of development with MS SQL Server 2016 or later, including new database features and T-SQL enhancements
+Experience in ETL concepts and tools, including SSIS
+Extensive experience in SQL programming: Procedures, Functions, Triggers, and dynamic SQL
+Strong Skills in Data Modelling such as Star Schema, Snow Flake Schema, Fact and dimensional tables and loading data from multiple data sources
+Normalization/De-normalization concepts, database design methodology
+Experience in data analysis, data profiling, data transformation, data mapping from source to target database schemas and data cleansing
+Experience creating technical design documentation
+Solid understanding of data architecture, efficient database design, writing complex queries and query tuning and troubleshooting
+Our Company:
+Virtual Clarity is a Technology Consultancy business, with offices in the USA and Europe. Business leaders know that transforming I.T. into a Service is a shift that needs to happen. But many don't know how to get there. Getting our customers there simply, is simply all we do. We untangle their I.T., taking it from complex legacy, to a clear, cloud infrastructure, that will help make them and their business clean, lean and ready for a nimble future.
+We not only help customers refine their technology vision, but also help them sell it to the rest of their company, so that everyone can see the need for change, and most importantly, get excited about it. In fact, our remit goes beyond advisory services into the realms of getting things done. We are active participants in the task of creating I.T. as a Service.
+If I.T. is keeping customers awake, it's not working. Fundamental change can feel like stepping into the abyss. We know that CIOs and CTOs already have plenty of things keeping them awake at night - no one needs more! Thankfully, the benefits of moving to ITaaS far outweigh any reasons to stay as they are, and our current clients are sleeping all the better for making that move.
+Our Culture:
+We are an entrepreneurial business, where almost everyone comes into contact with the customer, at some point. We are informal unless required to be otherwise, by our customers, where, much of the time, we work on-site.
+We work with game changers, believers and visionaries. We give a damn; not everyone thinks its cool to care, but we do. We care about our customers and about our people. Were obsessed with return on energy and deliver return on investment. We are a collective of change makers and focused thinkers; we actually make it happen.
+The VC tone is SMART, RELEVANT & FUN. We are actively NOT corporate. Our intention is to offer all our people opportunities to produce, learn and teach, as well as a platform for taking their career to the next stage.

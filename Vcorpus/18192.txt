@@ -1,0 +1,41 @@
+Title: Data Engineer
+Location: Phoenix, AZ
+Duration: Contract
+
+Job Description:
+The data engineer will be primarily attached to the data management team and provide much needed support to migrate data (and reports) from an existing legacy system to a new enterprise application.
+In addition, this resource will be deeply involved in the designing, development and documentation of a new enterprise data warehouse.
+Roles & Responsibilities:
+Reverse engineering of existing reports to retrieve and document technical specifications (data source, column definitions, etc.).
+Data migration and mapping from legacy systems to a new transactional system.
+Building of a new data warehouse.
+Exposure to cross-functional teams to facilitate solutions to meet business needs.
+Assisting in the preparation of strategic analysis and findings for department leadership and key stakeholders.
+Developing metrics and creating ad-hoc reporting as needed. Assist internal customers with acceptance and adoption of implemented solutions.
+Adhering to best practices for problem analysis, concept evaluation, systems design, database development, modification, testing, and evaluation to ensure quality and consistency.
+Conducting training to various audiences for data related issues and technical applications as needed.
+Recommending solution options for data and reporting needs, and provide technical advice where needed to support companywide objectives and goals and resolve problems.
+Interact with the business to understand change in processes, data implications and potential reporting modifications.
+Documenting the types and structure of the business data (logical modeling).
+Analyzing and mining business data to identify correlations among the various data points.
+Mapping and tracing data from source to target systems in order to solve a given business or system problem.
+Designing and creating data reports and dashboards to help the business in their decision making.
+Perform statistical analysis of business data.
+Ability to perform root cause analysis.
+Required Skills:
+SQL Development
+Microsoft SQL Server, Microsoft Access, Microsoft Excel
+SQL Server Integration Services (SSIS)
+SQL Server Reporting Services (SSRS), Tableau
+
+Preferred Skills:
+OLTP and OLAP modelling and design
+Data warehousing concepts
+Power BI
+C#, PowerShell, DAX, MDX
+About our Company:
+Connecting people’s aptitude & ambitions with our opportunities to deliver results.
+22nd Century Staffing is a Minority & Woman Owned Business Enterprise (MWBE) that supports demanding staffing programs for Corporations and State and Local Government Agencies. Our journey began in 1997 by supporting large Federal contracts which nudged us in the direction of creating large candidate pools across the country. Over the last 20 years, we have built a strong business model that is carefully constructed to deliver on multiple facets. We have proven past performance of providing services that exceed our clients' expectations. Today 22nd Century supports clients in all 50 states and has grown to be a company that is trusted and sought for providing a complex mix of workforce solutions.
+Our Global Delivery model with over 110 recruiters, data miners and research analysts working across multiple time zones is backed by an internal database of 800,000 resources across all major industries.
+With a firm grip on the entire spectrum of staffing solutions, we have placed more than 500,000 skilled resources and delivered 15 million+ man-hours.
+“22nd Century Staffing is an Equal Opportunity Employer" and “US Citizens & all other parties authorized to work in the US are encouraged to apply.

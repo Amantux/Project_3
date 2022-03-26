@@ -1,0 +1,59 @@
+PURPOSE OF THE JOB
+
+The purpose of this job is to expertly analyze internal and external data sources in support of key business functions. This position exists to help drive business decisions by providing analysis and reporting which give insight into key performance indicators. This role exists to help develop predictive, descriptive modeling and identify areas of improvement for complex projects and business units.
+
+ESSENTIAL DUTIES AND RESPONSIBILITIES
+
+Conceptualizes and performs quantitative analysis for portfolio management decisions.
+Specifies and documents data mining techniques to discover patterns, insights, and trends in ICW data.
+Collaborates with other scientists and internal business units to ensure effective execution of data-driven initiatives.
+Collects, aggregates, and analyzes data from multiple internal and external sources for use in advanced analytics.
+Writes and maintains code to build and maintain data pipelines for production models utilizing programming such as R and Python.
+Develops high quality, replicable predictive and descriptive analytics for business use.
+Analyzes, refines, and documents functional requirements for complex modeling projects.
+Actively evaluates (tracks and validates) existing models to ensure optimal data-driven decisions.
+Drives insights into business performance optimization.
+Evaluates complex business and system requirements to create detailed business user requirements, system documentation, workflow procedures, and data modeling.
+Develops a strong understanding of the business issues and data challenges of the organization in order to provide meaningful insights.
+Communicates findings and insight to stakeholders and provides business strategy recommendations for optimizing business performance.
+Evaluates the business and end user data requirements and develops analytical and reporting solutions to address those needs.
+Understands and translates business requirements into functional requirements.
+Improves workflows and business processes throughout the department.
+Analyzes current business processes; makes recommendations to management for new, more efficient, workflows, and processes.
+Develops functional specifications and system design specifications for assigned projects.
+Utilizes and presents analytics and metrics to improve processes and provide data-driven forecasts of potential costs, risks, and profits of new business initiatives.
+Provides reporting solutions and responds to ad-hoc report requests across business areas and for enterprise wide projects.
+Acts as a subject matter expert for the department
+Assists with training staff and acts as a resource for colleagues in the department to answer questions and solve problems.
+Conceptualizes and proposes data solutions to business leaders throughout the organization.
+Provides training materials, documentation, and suggestions to Data Analytics leadership staff concerning data models and solutions as needed.
+Ensures data quality, adherence to departmental guidelines, profitability, business impact, and other risk-related metrics for self.
+SUPERVISORY RESPONSIBILITIES
+
+This role does not have supervisory responsibilities.
+
+EDUCATION AND EXPERIENCE
+
+Bachelor's degree from four-year college or university preferred with a major or emphasis in Mathematics, Data, Computer Science or related field. Minimum 5 years of related experience and/or training; or, equivalent combination of education and experience required. Or, Master’s degree in related field and 3 years of experience in a technical discipline. Insurance industry experience preferred.
+
+CERTIFICATES, LICENSES, REGISTRATIONS
+
+None required.
+
+KNOWLEDGE AND SKILLS
+
+Demonstrated experience with statistical modeling techniques, especially generalized linear models, cluster analysis, latent class analysis, and factor analysis. Demonstrated experience and knowledge of machine learning techniques, including random forests, gradient boosted machines, extreme gradient boosting, and support vector machines.
+
+Knowledge of and experience with contemporary model validation methods, including cross validation and nested cross validation. Knowledge of databases and database methodology; experience with SQL Server is a plus. NoSQL database experience is beneficial. Knowledge of data warehouse principles, data modeling, and other business intelligence architecture methods is desirable. Experience with contemporary reporting tools is desired. Demonstrated knowledge and experience with open source analytics platforms, such as Python and/or R is required. Working knowledge in analytic platforms such as Sagemaker, TensorFlow and Keras, a plus. Process and model documentation using Markdown or other electronic means, and experience using Git and GitLab are desired.
+
+PHYSICAL REQUIREMENTS
+
+Office environment– no specific or unusual physical or environmental demands and employees are regularly required to sit, walk, stand, talk, and hear.
+
+COMPETENCIES
+
+This position maps to the Individual Contributor level. Additional competencies required: None.
+
+WORK ENVIRONMENT
+
+This position operates in an office environment and requires the frequent use of a computer, telephone, copier, and other standard office equipment.

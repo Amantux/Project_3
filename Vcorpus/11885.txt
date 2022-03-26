@@ -1,0 +1,34 @@
+ASRC Federal Mission Solutions (AFMS), a subsidiary of ASRC Federal, is currently seeking a highly motivated Data Scientist in Moorestown, NJ. This role offers relocation assistance or remote work.   
+    
+  AFMS is currently developing a big data analytic framework that leverages the Hadoop Ecosystem components and other Apache and open source tools such as Storm, Spark, Accumulo, Ansible, Zookeeper, Map Reduce and more.  
+ We are looking for a data scientist that will help us discover the information hidden in vast amounts of data, and help us make smarter decisions to deliver even better products. Your primary focus will be in applying data mining techniques, doing statistical analysis, and building high quality analytical systems integrated with our products.  
+  Responsibilities:    
+  Essential Job Functions    
+ Selecting features, building and optimizing classifiers using machine learning techniques  
+ Data mining using state-of-the-art methods  
+ Identify relevant data sources and sets to mine for client business needs, and collect large structured and unstructured datasets and variables  
+ Extending company's data with third party sources of information when needed  
+ Enhancing data collection procedures to include information that is relevant for building analytic systems  
+ Processing, cleansing, and verifying the integrity of data used for analysis  
+ Doing ad-hoc analysis and presenting results in a clear manner  
+ Creating automated anomaly detection systems and constant tracking of its performance  
+ Implement analytical models into production by collaborating with software developers and data engineers    
+
+Job Summary
+
+                 
+                     
+                         Location 
+                             Morristown, NJ 07961 
+                     
+                 
+                             
+                     
+                         Posted 
+                         Today 
+                     
+                 
+                             
+                     
+                         Reference code 
+                         2365_d678a99fe4028d5c83fa88f3bf8c2e7f

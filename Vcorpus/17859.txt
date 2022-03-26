@@ -1,0 +1,51 @@
+Why VillageMD?
+
+VillageMD is changing the trajectory of healthcare by empowering primary care physicians to make informed decisions and engage patients in meaningful ways. We work with thousands of clinicians and healthcare disruptors across the country to build and contribute to our platform to improve patient health while driving down the cost to deliver it.
+
+We are a mission-oriented organization and are thrilled about the work that we do every day. We're transparent, collaborative, and relentless in pursuit of our mission, all while doing so with humility and a low ego. We believe that diverse backgrounds and experiences create the best opportunity for innovation and the community that we are creating is greater than any individual.
+
+We've built our technology using the best of cloud and open-source technologies to create an open, data-first platform that is enriched with analytical models and modernly connected to internal and external apps. These apps drive clinical decision support, patient engagement, and other facilitators of innovative, information-enriched health experiences.
+
+Full Stack Engineers at VillageMD develop software to enable our team to write analytics and craft workflows that improve clinical outcomes. We're in a unique position to impact everyone in primary care from independent, family-owned practices to premier health systems. We aggregate, process, and deliver rich datasets to improve the effectiveness of primary care for our doctors and patients.
+
+What are examples of work that Full-Stack Engineers have done at VillageMD?
+Built and implemented a windows agent that synchronizes data over a distributed network
+Built an event sourcing engine using Kafka that triggers automated workflows and user alerts
+Built an event processing pipeline that creates micro batches to load into our data platform
+What will make you successful here?
+A real passion for problem solving and learning new technology
+Vision to balance speed and maintainability in solution design
+Strong analytical and technical skills
+The ability to handle multiple, concurrent projects
+Excellent ability to create and implement requirements, keep projects on track, and engage partners
+Challenging the status quo to improve our processes and tools
+Communicate complex technical details in meaningful business context
+A low ego and humility; an ability to gain trust by doing what you say you will do
+What you might do in your first year:
+Build an automated integration that responds to inbound emails and fires algorithms that send notifications to clinical staff
+Write a react app that visualizes the chronology of a patient's clinical history
+Work with physicians to design the next generation of EMR interfaces
+Write a Python package to interact with our data platform
+The following experience is relevant to us:
+5+ years of full-time experience
+Experience with Java or Python is preferred (C# and Ruby can work too)
+Solid background in utilizing and integrating 3rd party integrations and application libraries with strict security requirements
+Knowledge in Rails, Django, Sinatra, Flask or Dropwizard
+Prior involvement in a project built in Angular, KnockoutJS, ReactJS or Vue
+AWS, Azure or GCP experience
+Multiple years of experience working in the Salesforce ecosystem using backend services and building custom front-end apps using Apex.
+Configuration management framework experience (Chef, Ansible, Puppet)
+NodeJS and Webpack skills would be a plus
+Exposure to containers and container orchestrations would be desired
+Experience with clinical and financial healthcare data highly preferred
+Track record of successfully executing projects with multiple partners
+BS/MS in computer science, math, engineering, or other related fields
+What can we offer you?
+Competitive salary, bonus, and health benefits
+Paid gym membership
+Fun, fast-paced, startup environment (with snacks)
+Pre-tax savings on commute expenses
+Remote flexibility
+A highly-collaborative, conscientious, forward-thinking environment that welcomes the impact you can make from Day 1.
+A clear link between our daily work on products and services and the improved quality of healthcare that this work facilitates for patients.
+At VillageMD, we see diversity and inclusion as a source of strength in transforming healthcare. We believe building trust and innovation are best achieved through diverse perspectives. To us, acceptance and respect are rooted in an understanding that people do not experience things in the same way, including our healthcare system. Individuals seeking employment at VillageMD are considered without regard to race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

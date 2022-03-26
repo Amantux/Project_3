@@ -1,0 +1,36 @@
+Join our team and experience Workday!
+
+It's fun to work in a company where people truly believe in what they're doing. At Workday, we're committed to bringing passion and customer focus to the business of enterprise applications. We work hard, and we're serious about what we do. But we like to have a good time, too. In fact, we run our company with that principle in mind every day: One of our core values is fun.
+
+Job Description
+
+About the Team
+
+The Software Development Engineer in Test team for Workday Analytics is a diverse group of engineers. We spend our time writing software to break software and increase development productivity. At the core, we are responsible for the quality of the software that we ship and we take pride in doing so. We build and scale our test infrastructure to match the growth of our product, keeping them fast, reliable and robust, from end to end. We use proprietary and open source automated testing tools to support our rapid and continuous development/test/deployment release cycles.
+
+We each bring a diverse set of skills to the team which makes our work meaningful and collaborative. We value innovation, integrity and we care about our customers. We want them to experience the best of class analytics product that we could possibly build, but we are also flexible, fair and considerate of our teammates. By joining the team, you can expect that you will make a meaningful contribution. You can expect an inclusive, diverse, and fun team that will challenge you, support you, and help you grow.
+
+Welcome to the Workday Big Data Analytics Cloud Infrastructure/Distributed Services System SDET team! Our mission is to build out a scalable and performant distributed platform capable of hosting our Analytics technologies for all Workday customers! We leverage the latest technologies and platforms, from AWS to Kubernetes, to enable us in hosting Analytic services with ability to support Auto-Scaling, Multi-tenancy and Zero Down Time. Become an expert on the Workday Cloud hosting technologies and part of a team that ensure the reliability of Analytic services to successfully operate at the scale of Workday Fortune 50 customers!
+
+Responsibilities:
+Gain understanding of product and business requirements and define necessary quality criteria for various levels of new release roll outs.
+Establish testing and automation strategies to ensure coverage is effectively conducted across all software stacks
+Work with teams to prioritize and establish release milestones and successfully deliver quality solutions within business timeline needs
+Thorough understanding of object oriented programming languages, such as Java and Python; Advocate of best programming design and practices; Strong ability to develop solutions in solving complex automation needs
+In-depth understanding of distributed computing services, such as Spark, Hadoop, YARN, Kubernates. Expert in optimizing system resources to improve system stability and performance
+Excellent ability to find product and system defects. Expert in debug and isolate problems in complex service stacks through use of shell based commands and product source code. Communicate and drive solution solving across Workday teams
+Build and improve automation infrastructures that will accurately represent deployment lifecycles, such as Upgrades, Patches and DR. Define testing that is representative of performance and scalability needed by largest Workday customers and deployments
+Well versed in CI/CD and experienced in building efficient, effective and reliable regression testing pipeline. Practitioner and team advocate of best practices in keeping pipeline healthy
+About you
+
+
+We are looking for an experienced candidate who is ready to take on new challenges. We value people who can speak their mind and can respectfully disagree. We put all ideas to rigorous challenges but always remember that we are here to do our best work together. You are comfortable to give and receive direct and constructive feedback on a regular basis. If you have read this and feel like you haven’t mastered everything listed, don’t worry, we do not believe in the ‘perfect’ candidate and are happy to figure out things together. You can expect to teach us and expect the same in return.
+You have an excellent coding background can utilize various languages. We focus and build tooling and automation using Python, bash script and Java.
+You have experience working with CI/CT such as Jenkins, TeamCity, GitLab, Bamboo etc to automatically test and release products.
+You are dedicated about quality and can elevate your team to do the right thing to ship quality software.
+You have an eye for detail and can break down complex product requirements into a clear and communicative test plan.
+Experience in building test frameworks and automations for multi-tenanted analytics platform in a Cloud environment
+Experience with parallel and distributed data processing techniques
+Experience with Big Data frameworks like Hadoop and Spark
+MS in Computer Science or related field and 5 years relevant software development experience or BS in Computer Science or related field and 8 years relevant software development experience
+We are a small but growing team with a diverse set of skills which makes our work meaningful and collaborative. This is an exciting area of growth at Workday that your contributions will have a direct impact on. Our team is keenly focused on several of Workday’s core values, including innovation, integrity, and employees. Here is one example of how Workday supports our value regarding employees.

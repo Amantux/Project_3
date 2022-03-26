@@ -1,0 +1,25 @@
+We are looking for a talented, passionate Data Engineer with the skill and desire to contribute to our team. In simplest terms, you'll be building the foundation upon which we grow our business.
+
+If you have experience working to extract knowledge and actionable information from multiple data sources, then we would love to talk with you. If you are the type of person who comes to work every day expecting to learn, contribute, teach, and have fun, then we think you will fit right in.
+
+About our Team
+
+We aim to derive meaning from our data, enabling us to run our business better, and also equip our clients to do the same. We believe in agile software development (lowercase 'a') and use elements from Scrum and Lean as a base for how we manage our work. 'Inspect & Adapt' is more than just a catchphrase to us. Most of our development work is done in Python and we use Airflow for orchestration of our data pipelines. We pair as-needed, but not as a rule. We are willing to have every problem under the sun exactly once, in exchange for never having the same problem twice.
+
+Core Responsibilities & Qualifications
+In this role, you will focus on the design, implementation, operation, and refactoring of data management systems to meet the Brads Deal's business needs. This includes designing how the data will be stored, consumed, and integrated into our systems.
+You will take business requirements, transform them into data models, and develop ETL processes to populate those models. We are a small (and growing) team so it's important that you enjoy working a project from end-to-end.
+You will identify, design, and implement internal improvements to how we process data. This could include automating manual processes, optimizing data delivery, and re-designing infrastructure for greater scalability.
+You should have hands-on experience with a variety of the data warehousing concepts and practices, covering both technical development as well as 'not-necessarily technical practices' such as data governance. This list of experiences includes data manipulation, database partitioning, data structures, data management, and best engineering practices.
+You should have advanced working SQL knowledge and experience working with relational databases, query authoring (SQL) as well as working familiarity with a variety of database platforms.
+You have a successful history of manipulating, processing and extracting value from large disconnected datasets.
+You have experience with scripting languages (We use Python).
+In addition to developing and implementing ETL processes, you have experience dealing with performance and scaling issues.
+You have at least 3+ years of end-to-end experience with data warehousing and BI systems. This includes data modeling, ETL architectures, OLAP, and Big Data tools (such as Hive).
+You have hands-on experience with AWS and the different data tools that are offered on that platform (Redshift, EMR, Kinesis, S3, etc).
+About Us
+
+Shop Smart, one of Forbes' 100 Most Promising Companies and a 101 Chicago Best and Brightest Organization, publishes deals and coupons from national retailers across a network of sites. The flagship, Brad's Deals, is the largest editorial-driven deal site with over 5m monthly unique visitors.
+
+Launched in 2002, the rapidly growing company has changed the way millions of consumers shop and is a leader in our space and in the Chicago technology community. We have relationships with over 2,500 top retailers (Amazon, Target, Dell, etc.), exposure to over 50M consumers a year and a consistent national media presence (USA Today, Today Show, WSJ, MSNBC).
+Please note: Due to the potential personal and business impacts of Covid-19, Brad's Deals is taking a proactive approach by allowing our employees to work from home. As such, our hiring teams will be conducting virtual interviews with potential candidates as we continue to monitor the effects of the pandemic across our local community.

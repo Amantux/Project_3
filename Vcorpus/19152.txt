@@ -1,0 +1,24 @@
+Posted: May 26, 2020
+Weekly Hours: 40
+Role Number:
+200172241
+Be at the forefront of the fight to improve health outcomes. Join the Health Strategic Initiatives (HSI) team as we explore novel ways to motivate and coach users to adopt healthier lifestyles. Our mission is to work with internal and external partners to deliver custom applications and campaigns to encourage, motivate, and reward our users to live their best healthy lives. We will develop cutting-edge ML pipelines to learn user behavior and how best to modify it in the areas of activity, sleep, nutrition, and wellness.
+
+As a data engineer, you will play a key role in architecting, implementing, and managing big data pipelines, ML and analytic functions, and experimentation frameworks.
+Key Qualifications
+Workflow scheduling/orchestration such as Airflow or Oozie
+Big data warehousing (RDB or MPP DB) such as Oracle, Teradata, Postgress, Hive
+Strong Python programming skills with an understanding of data analytics, linear algebra, and ML libraries such as Numpy, Scipy
+Experience with query APIs using JSON, ProtocolBuffers, or XML
+ML model deployment, serving, and performance monitoring
+Description
+As a data engineer, your day-to-day tasks will be the following.
+Design, implement, and maintain end-to-end data pipelines with an understanding of ML lifecycles
+Drive development of data products in collaboration with data scientists and analysts
+Education & Experience
+A background in computer science, mathematics, or similar quantitative field with a minimum of 2 years of professional experience; Masters preferred
+
+Experience with AI/ML modeling using classical or deep learning a plus
+Experience with on-device model deployment using CoreML or TFLite a plus
+iOS app development skills a plus
+Data visualization using Python, Tableau, or similar technologies a plus

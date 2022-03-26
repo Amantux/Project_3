@@ -1,0 +1,42 @@
+Posting Details
+
+Posting Number S02243P
+Position Title Research Scientist III (S02243P)
+Department Physics
+Location Arlington
+Job Family Research
+Position Status Full-time
+Work Hours Flexible
+Work Schedule
+
+Monday-Friday; 8:00am-5:00pm.
+Work location is CERN laboratory in Geneva, Switzerland
+Open to External and Internal
+FLSA
+Salary Salary is commensurate based on qualifications and relevant experience.
+Duration Funding expected to continue
+Pay Basis Monthly
+Benefits Eligible Yes
+Job Summary
+
+The ATLAS Experiment at the CERN Large Hadron Collider (LHC) in Geneva, Switzerland, has a vacancy for a database expert to take a leading role in the development and operation of their challenging relational database system, working closely with both the CERN-IT Oracle database support group, and the ATLAS software developers and physicist end-users. Databases are a crucial part of the ATLAS computing system, and must be highly performant, scalable, and replicated across the many participating Computing Centre. In addition to future development, data from past operations and current operations must be maintained and accessible for ongoing analysis.
+Essential Duties and Responsibilities
+
+Support of ATLAS applications development and operations to optimize the online and offline ATLAS database infrastructure. Assist CERN-IT DB experts in the process of Oracle version upgrades and other regular database maintenance interventions (patches, including security). Provide guidance and advice on change management processes related to the DB version patches, new features, security policies. Support development groups on the improvement and debugging of their application performance, e.g. data model design consultancy, implementation of specific solutions (indexing, partitioning). Monitoring and maintenance of the database scheduler jobs and other procedures for optimal performances of ATLAS applications. Use and improve existing web tools to spot bottlenecks in application-specific requests; help application developers to optimize requests based on use cases. Monitor database growth or supervise automatized data migration services (between varied data storage systems: e.g. from Hadoop to Oracle). Evolve and develop the ATLAS databases ecosystem in view of the High Luminosity LHC, which is due to begin operation in the late 2020s, for instance the new RESTful detector conditions service (CREST). Act as a liaison between ATLAS databases developers and CERN-IT to optimize satisfaction of use cases with the available infrastructure. Guide developers of new applications in the correct choices for the data storage to be used depending on their needs; maintain a good knowledge of services provided by the IT, such as alternative relational or non-relational platforms.
+Required Qualifications
+
+Bachelor’s degree in STEM fields. Oracle DBMS and DBA experience as well as an overview of other storage technologies where they apply. Familiarity with database monitoring tools like OEM. Oracle DBA certification training would be an advantage but might also be offered as part of the training for the role. Experience with relational database schema design principles and database application development methodologies. Proficiency with SQL (and PL/SQL) programming. English language proficiency and established written and verbal communication skills.
+Preferred Qualifications
+
+The successful candidate would have the following competencies and interests. Strong enthusiasm and motivation to work in a diverse, international and technically challenging environment. Strong interest in helping to maintain and optimize online and offline databases. Strong interest in managing operations for a largescale scientific experiment as it grows and evolves for the future. Strong interest in writing high-quality performant software, using languages such as C/C++, Python, Java. Strong interest in working with ATLAS detector experts (generally physicists) to develop extensions to existing systems or new systems which use a database storage back-end.
+Working Conditions
+Special Conditions for Eligibility
+EEO Statement
+
+UTA is an Equal Opportunity/Affirmative Action institution. Minorities, women, veterans and persons with disabilities are encouraged to apply. Additionally, the University prohibits discrimination in employment on the basis of sexual orientation. A criminal background check will be conducted on finalists. The UTA is a tobacco free campus.
+
+Number of Vacancies 1
+Desired Start Date
+Open Date
+Review Start Date
+Open Until Filled

@@ -1,0 +1,21 @@
+SNI Technology is currently recruting for a Systems Engineer role for a great local client on the North-Side of Jacksonville, FL. This will be a full-time/direct hire opportunity.Summary:
+
+The System Engineer will be responsible for designing, building, and maintaining highly available systems. Will design processes and procedures to monitor, backup, and react proactively to all systems issues. Will help to design, implement, maintain, and monitor all backup systems, and disaster recovery procedures, systems, and plans.
+
+Primary skills (in order of importance):
+
+Hyper-V with Microsoft clustering
+DFS+ replication
+Group policy
+Active directory
+SAN design, implementation, and maintenance/troubleshooting
+Azure / disaster recovery
+Data backup, verification, and restoration
+SQL setup/administration (not a hard requirement, but would be a big plus)
+Server / workstation imaging design and rollout
+
+Soft skills that are highly important:
+
+Dependability
+Problem solving
+Ability to organize, plan, and follow a plan

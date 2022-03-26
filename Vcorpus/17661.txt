@@ -1,0 +1,40 @@
+Our company is looking for a Senior Data Engineer to join our team! Our team utilizes and develops cutting-edge technology, in order to deliver unparalleled and creative content around the world. We work across multiple platforms to change the face of media.
+
+Please, only apply if you are able to work directly for a U.S. company for the next three years. We are not currently able to work with C2C, H1, or OPT for this position.
+
+Duties & Responsibilities:
+Construct data pipelines orchestration.
+Build and optimize performance of Hadoop/Spark batch jobs, Spark, Kafka, Cassandra, ELK, etc.
+Build and optimize performance of ElasticSearch cluster and relevance.
+Work with cross-functional teams and other software engineers.
+Design and architect high quality data-lake, data-warehouse, and data-marts data models.
+Facilitate Data Science workflows and advanced machine learning algorithms.
+Contribute to Open Source solutions and communities.
+Keep updated on current and emerging technologies and tools.
+Provide innovative ideas to a larger professional community.
+Demonstrate technologies, solutions, and leading practices.
+Balance resources, requirements, and complexity.
+Qualifications:
+BS in Computer Science or related field.
+5+ years experience as a Data Engineer.
+Passionate about coding. (You will be asked to code before or during the interview.)
+Understanding of distributed systems and computation.
+Working knowledge of Scala, Java, Python, and Go-Lang.
+Working knowledge of data Apache Hadoop/Spark ecosystem (Spark, Hive, Presto, Oozie, Pig, Hue, Zeppelin).
+Demonstrated working knowledge of data modeling.
+Excellent communication and interpersonal skills.
+Knowledge of the following, required:
+Unit, Integration, and Load testing.
+Developing REST APIs.
+Git.
+Ant, Maven, SBT, and/or Gradle.
+Unix/Linux.
+Docker containers building and deployment.
+Knowledge of the following, preferred:
+GraphQL knowledge
+Kubernetes knowledge
+Apache Spark MLlib
+Apache Spark GraphX
+Amazon AWS or other cloud Services
+Jenkins
+Powered by JazzHR

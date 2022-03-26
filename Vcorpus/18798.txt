@@ -1,0 +1,40 @@
+:
+World Wide Technology (WWT) is a global technology integrator and supply chain solutions provider. Through our culture of innovation we inspire, build and deliver business results, from idea to outcome. Based in St. Louis, WWT works closely with industry leaders such as Cisco, HPE, Dell EMC, NetApp, VMware and F5, focusing on three market segments: Fortune 500 companies, service providers and the public sector.
+
+Check us out: https://www.youtube.com/user/worldwidetechnology
+
+Take an ATC Tour: https://www.wwt.com/services/atc/
+
+World Wide Technology has an opportunity for a Infrastructure and Data Center Engineer to join our Government Services Department on the Navy -- NGEN Program. The mission the of WWTGS NEN Lab Team is to assist in the relevant phases of Leidos transition, design, modification and ultimately, the operation of the NEN Baseline Lab.
+
+Requirements:
+Assist the Government Lead in the daily engineering duties on systems.
+Implement and administer networked storage infrastructure and interconnected systems, capacity planning, and performance analysis and design of storage systems.
+Determine current levels of system and application resource utilization and performance. Construct analytical models and develop workload projection methodologies to estimate and describe utilization and performance at multiple levels.
+Utilize the capacity management tool set to perform workload sizing for new and existing applications.
+Plan and evaluate storage requirements.
+Support the implementation of hardware and software upgrades and analyze the impact of new technologies on processor and peripheral utilization and performance.
+Construct capacity plans, develop capacity reports, oversee storage of capacity and performance data, and conduct capacity management audits.
+Support disaster recovery sizing activities.
+Design, Develop and Integrate Storage Attached Network (SAN) Storage design, configuration, and integration including, but not limited to, NetApp and EMC storage solutions.
+Provide capacity and performance management, design, configuration, and integration.
+Design, Develop and Operate High Availability/ Disaster Recovery (HA/DR) solutions management to configure, integrate, and support virtualization, systems, and appliance storage.
+Complete tasks associated with Fiber Channel, IP Small Computer System Interface (iSCSI), Network Attached Storage (NAS) design, configuration, integration with switching fabric.
+Complete data de-duplication, mirroring and retention.
+Design storage devices based on analysis of capacity use and requirements.
+Execute installation and integration of storage device, system, and components.
+Develop, Configure and Integrate Virtual Storage Console for VMWare. Perform tasks associated with application networking ports and protocols, Information Assurance (IA), routing and Local Area Network (LAN).
+Execute tasks associated with storage security design and management.
+Configure and integrate NetApp Data on Tap 8.x design.
+Perform storage design supporting Microsoft Distributed File System (DFS), Exchange and Structured Query Language (SQL) and storage integration utilizing Logical Unit Numbers (LUNs), quota distribution and file sharing.
+Design, Develop and Operate storage integration with virtualization specifically, but not limited to, VMware and Hyper-V.
+Perform storage integration with SQL 2008 r2 and HBSS and integration and installation on various server hardware.
+Experience with SnapMirror, SnapDrive, SnapManager for Exchange/SQL Configuration.
+
+:
+Qualifications:
+Secret Security Clearance Required
+Bachelor's Degree in Computer Science, MIS, Business, or related field* with 10 years of relevant experience.
+Must have Information Assurance Technician (IAT) Level III
+Additional desired certifications
+NetApp Certified Data Administrator (NCDA)

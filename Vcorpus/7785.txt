@@ -1,0 +1,47 @@
+****In order to be considered for this role, please apply here: https://grnh.se/0849ecb41.****
+
+Data Scientist, Wireless Engineering
+
+At Cisco Meraki, we know that technology can connect, empower, and drive us. Our mission is to simplify technology so our customers can focus on what's most meaningful to them: their students, patients, customers, and businesses. We’re making networking easier, faster, and smarter with technology that simply works.
+
+Meraki is seeking a data scientist to build a next generation cloud-based analytics platform to troubleshoot wireless performance and connectivity issues in enterprise environments. Meraki's cloud-managed model offers a unique opportunity to draw upon data from hundreds of thousands of networks and millions of access points deployed across our wide ranging customer base. The goal is to leverage the rich telemetry data available from these devices and combine it with the power of Machine Learning and the cloud to build an analytics engine that can provide intuitive, yet detailed insights into the performance issues across our customer networks. Given the scale of Meraki’s deployment, this provides a unique engineering opportunity to build an impactful solution that can help enhance our customer experience at large.
+
+Responsibilities
+
+Design and implement a real time and highly scalable wireless network diagnostics solution.
+
+Collaborate with full stack web developers to define and build features for an effective and intuitive wireless analytics platform.
+
+Build a predictive analytics engine by applying machine learning techniques to data from customer networks.
+
+Use large datasets to explore descriptive and inferential statistical properties of data.
+
+Ship production-quality software in a dynamic environment.
+
+Requirements
+
+BS/MS or Ph.D. in Computer Science or a related field.
+
+Experience programming in Scala, Python, and/or Go.
+
+Experience working with algorithms for supervised and unsupervised learning.
+
+Experience using data processing and ML libraries such as Pandas, Scikit-Learn, Tensorflow, Keras, etc.
+
+Experience working with distributed computing engines like Apache Spark, Hadoop, etc. and real time data streaming services like Amazon Kinesis.
+
+Experience implementing and monitoring big data pipelines.
+
+Bonus qualifications
+
+Experience with a wireless or a networking analytics system.
+
+Knowledge of 802.11 wireless protocols and behavior.
+
+3+ years of relevant experience.
+
+At Cisco Meraki, we don’t just accept difference – it’s one of our key values. Everybody In means we listen to each other’s opinions. Everybody is accepted and valued here, and we are a team that works as one towards our goals. We recognize that diverse teams make the strongest teams, and we encourage people from all backgrounds to apply.
+
+Cisco is an Affirmative Action and Equal Opportunity Employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, gender, sexual orientation, national origin, genetic information, age, disability, veteran status, or any other legally protected basis. Cisco will consider for employment, on a case by case basis, qualified applicants with arrest and conviction records.
+
+****In order to be considered for this role, please apply here: https://grnh.se/0849ecb41.*****

@@ -1,0 +1,43 @@
+Job Description
+Position: Python Data Engineer
+Location: Philadelphia, PA
+Job Type: Contract
+Duration: 6 months to start
+
+Job Description
+
+We are looking for a motivated Data Engineer who would help build data pipelines to ingest and transform the data into our Data platform (on-prem/cloud). Candidate should be passionate about Python coding.
+
+Job Responsibilities:
+Develop and enhance data pipelines, mostly batch (if necessary " streaming" processes)
+Apply best approaches for large scale data movement, capture data changes and apply incremental data load strategies.
+Build automated test pipelines to ensure data integrity and completion.
+Identify and improve current data pipelines through automation and optimization.
+Skills:
+Understand and comply with all enterprise and IS departmental information security policies, procedures and standards.
+Support the integration of information security in the development, design, and implementation of Hospital Technology Resources that process, transmit, or store CHOP information.
+Support all compliance activities related to state, federal regulatory requirements, healthcare accreditation standards, and all other applicable regulations that govern the use and disclosure of patient, financial, or other confidential information.
+General
+Basic knowledge on structured operational processes, conformance with SLAs, and metrics based reporting.
+Foundational knowledge in Change Control Mgt. processes
+Experience with process documentation and communication tools including MS Word, Project, Excel, Visio and PowerPoint.
+Basic experience and proven use of one or more of the subject areas listed below:
+SQL and Database Knowledge – Understanding SQL, Relational and Multidemensional Databases and Designs
+Knowledge of relational database structures (tables, data types, data model schemas), SQL Syntax & SQL Functions, develop Views and SQL Optimization
+Moderate experience and proven use of one or more of the subject areas listed below:
+Tableau, Qliksense, Power PI, or any other data visualization application.
+Data Warehouse Support and Design
+Creating/Maintaining Tables, views, & indexes
+Proficiency in appropriate Business Intelligence/Data Warehousing technology or subject domain.
+Soft Skills:
+Comfortable working in a collaborative environment.
+Ability to self-organize one' s priorities and schedule.
+Have mindset to perform necessary documentation.
+Should be a self-starter to work independently or in a team.
+Education:
+Bachelor’ s degree in computer related field required.
+2-4 years of Business Intelligence/Data Warehousing experience, preferably in an academic research (Administration) environment.
+Preferred experience
+5+ years of experience with Python
+3+ years of experience working with BigData platform, large and complex file types such as XML, JSON, AVRO, PARQUET, ORC etc.,
+Should be comfortable using SQL, Git, JIRA, Docker, CI/CD for testing/deployment.

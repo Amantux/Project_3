@@ -1,0 +1,88 @@
+Cloud Hosting Provider Seeking Skilled Engineer!
+
+Cloudstar Consulting, a multi-national provider of virtual desktop hosting, hosted software and applications, custom-tailored IT infrastructure design, email encryption, managed services, IT security, and consulting to Regulated Industries across the United States, Canada, and South America, is looking for a full-time Systems Engineer to join our growing team. This position will be responsible for providing back end customer support for our cloud environment.
+
+This position will be based in Jacksonville, FL and requires the ability to be on call for emergencies and after-hours migrations.
+
+Position Responsibilities:
+Troubleshoot and maintain core networking hardware, data center to data center based connectivity, and client connectivity in an all Cisco / Fortinet environment
+Occasionally work with internet service providers to establish new service, subnet IPs and configure WAN / LAN connectivity
+Install, configure and troubleshoot Zerto and Veeam DR solutions. Restore files, folders and virtual machines as necessary. Monitor Zerto live replication and failover customer environments as needed
+Occasionally build new VMware clusters from scratch including but not limited to:
+o Installing server and networking hardware- Dell and HP hosts, CPUs, RAM and disk
+o Installing VMware ESXi on bare metal and configuring high availability VMware clusters
+o Configuring vcenter, vcenter HA, vswitch and redundant path storage connectivity to the cluster
+o Create vLans and VPNS as needed for single and multi Tennant connectivity cluster
+o Monitor and remediate VMware critical events
+Install, configure and troubleshoot Citrix Netscaler gateway, delivery controllers and storefront servers. Troubleshoot and maintain Citrix XenApp and XenDesktop environments.
+Oversee multiple active directory forests, domains, trusts and group policy objects
+Troubleshoot and manage Microsoft Exchange and Office 365
+Work with outside software and hardware vendors when troubleshooting problems
+Technical Skills:
+
+NETWORK
+NET+ required
+Strong knowledge of Fortigate/Sonic Wall – configure, troubleshoot, maintain and patch
+Cisco VLAN configuration, advanced routing, VPN
+Experience working with telco carriers to install and provision new circuits
+MICROSOFT ACTIVE DIRECTORY
+Ability to manage an enterprise active directory forest consisting of multiple sites, trusts, domains and domain controllers
+Ability to troubleshoot advanced active directory issues
+Create, deploy, link and troubleshoot Group Policy Objects
+MICROSOFT OFFICE 365
+Planning, provisioning and deploying all components
+Migrations from on-premises to online
+Powershell skills necessary
+MICROSOFT EXCHANGE
+Install, configure and troubleshoot mail flow in a multi-tenant environment
+Ability to configure HA/redundant database and client access servers
+Create and administer mailboxes, distribution groups, and other mailbox components including public folders
+MICROSOFT SERVER
+Solid knowledge of deploying, troubleshooting and maintain Windows Server 2000 – 2019
+RDP troubleshooting
+Basic SQL server knowledge (install, configure, and backup SQL databases)
+VMWARE
+Install, configure, troubleshoot and maintain VMware ESXi and vSphere: 5.5, 6.0 and 6.5 on high availability clusters
+Monitor and remediate critical events
+Configuring vCenter, vCenter HA, vSwitch and redundant path storage connectivity to the cluster
+Create vLans and VPNS as needed for single and multi-tenant connectivity cluster.
+Manage multiple sites and data centers
+Deploy and manage redundant storage path
+vSwitch
+Command shell troubleshooting
+CITRIX
+Install, configure and troubleshoot Citrix NetScaler gateway, delivery controllers and storefront servers in a multi-tenant environment
+Troubleshoot and maintain Citrix XenApp and XenDesktop environments.
+Manage licensing
+BACKUP AND DISASTER RECOVERY
+Install, configure and troubleshoot Zerto and Veeam DR solutions. Restore files, folders and virtual machines as necessary. Monitor Zerto live replication and failover customer environments as needed.
+STORAGE
+· Solid knowledge in configuring storage arrays, RAID, multi-path redundancy
+
+Non-Technical Skills:
+Comfortable interfacing with clients through phone and e-mail
+White glove/C-Suite experience
+Hardworking and ability to work as needed – self-motivated
+Works well in a team environment
+Job Type: Full-time
+
+Pay: $72,346.00 - $96,821.00 per year
+
+Benefits:
+Health Insurance
+Paid Time Off
+Schedule:
+On Call
+Experience:
+Citrix: 3 years (Preferred)
+Enterprise Level Networking: 3 years (Preferred)
+Microsoft Server: 3 years (Preferred)
+Fortigate: 3 years (Preferred)
+Systems Engineer: 1 year (Preferred)
+Active Directory: 3 years (Preferred)
+Work Location:
+One location
+Benefit Conditions:
+Only full-time employees eligible
+Work Remotely:
+No

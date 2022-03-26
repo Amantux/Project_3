@@ -1,0 +1,53 @@
+Primary Responsibility
+The Senior Data Scientist will turn raw data into insights using expertise in exploratory and predictive analytics. This hands-on analytical role will partner with scientists, bioinformaticians, IT specialists and clinicians to develop data models, perform complex data-driven analysis, create custom and template reports, and build repeatable data pipelines. Key responsibilities include:
+Hands-on interpret data and analyse results from multiple sources across research, manufacturing and clinical to inform T-cell product development and improve patient experience
+Design data analytics methods and other strategies that optimize data efficiency and quality across the enterprise
+Use highly specialized software tools and techniques to interpret data sets, paying particular attention to trends and patterns that could be valuable for descriptive, diagnostic and predictive analytics efforts
+Create statistical and machine learning algorithms and/or data pipelines, and assess their effectiveness through solid validation workflows
+Communicate data analysis results with sophisticated visualisation methods, traditional paper-write up and oral presentation
+The Senior Data Scientist will be highly visible and expected to significantly contribute to broader data analytic outcomes. This role blends a strong business sense with IT expertise, bioinformatics, immunology, and mathematics to provide insight scientific and clinical challenges with advancing T-cell therapy. IT infrastructure and enterprise architecture activities will be managed and supported by others.
+
+Key Responsibilities
+Develop and apply computational methods using computer programming, commercial analytical software, statistics and mathematics to solve problems using integrated data (60%)
+Interpretation and translation of findings (20%)
+Design and maintenance of relevant databases, data pipelines, operational data sets and records. Acquire data from primary or secondary data sources and maintain databases (10%)
+Partner with stakeholders to influence data generation, capture and analysis (10%)
+
+Qualifications & Experience
+Required
+Masters degree in Bioinformatics, Computational Biology, Information Technology, Biostatistics or related formal informatics training in healthcare/life sciences
+15 years relevant experience within industry
+Experienced in using multiple data science methodologies to solve complex business problems
+Expertise in algorithmic implementation, statistical programming and multi-mode data manipulation
+Strong troubleshooting and problem solving skills
+Thrive in a fast-paced, innovative environment
+Able to rapidly pivot between planned analysis and off-script / ad-hoc needs
+Basic immunological understanding
+Prior experience in complex biotechnology and / or pharmaceuticals industry
+Desirable
+Experience in Linux operation system, and comfortable using a variety of software programs
+Programming expertise with Python, R, Matlab, SAS, etc.
+
+Skills & Compentencies
+Required
+Strong foundation in mathematics, statistical analysis, programming, data mining, database management, database schema design, data security, data visualization, and applied data science
+Strong business sense and savvy to advance data science analysis within the company
+Expert in SQL and database schema design and container management
+Fluency in a scripting or computing language (e.g. Python, Scala, C++, Java, etc.)
+Provide solutions to highly complex problems and apply a high degree of ingenuity, creativity and innovation
+Experience manipulating data sets through commercial and open source software (e.g. R, SAS, Databricks, Tableau, Spotfire)
+Superior verbal and written communication skills with the ability to effectively advocate technical solutions to scientists, clinical teams and business audiences
+Demonstrable track record of dealing well with ambiguity, ability to self-motivate, prioritizing needs, and delivering results in a dynamic environment
+Knowledge of how to analyze and manage large data sets as well as strategies for visualizing and communicating results to solve business needs and make strategic decisions
+Demonstrated ability to understand data, apply appropriate techniques to interpret data, and summarize conclusions (orally and on paper)
+Recognize and act on solutions fit for purpose (e.g. early stage versus late state versus clinical)
+Passion and creativity to solve scientific problems through the lens of data analysis
+Excellent numeracy and English language skills (both written and verbal)
+Attention to detail, good time management skills, able to engage with urgency (when required)
+Able to work independently after training
+Desirable
+Experience in full AI/ML life-cycle from model development, training, deployment, testing, refining and iterating.
+Highly collaborative and supportive of business and of its ideals and strategies
+Vendor and technology neutral more interested in business outcomes than in personal preferences
+Practical in approach to decision making, recommendations and problem solving that is principle-based
+An understanding of the principles of oncology / immune oncology

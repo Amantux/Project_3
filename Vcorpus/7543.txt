@@ -1,0 +1,71 @@
+This position is part of the Global Payment and Fraud team. This is the business team responsible for Global Payment and Fraud strategy and execution at Starbucks. Millions of times a day customers interact with Starbucks payment systems across physical and digital platforms and customers expect to securely and seamlessly interact with Starbucks payment systems. Your role is to create tools and perform analytics that provide actionable insights that enable ongoing business optimization and innovation for Starbucks Fraud and Payment.
+
+You’ll be deeply embedded in the business where the output of your efforts will immediately improve Starbucks. You’ll help Starbucks figure out how we can make sure that we’re always reliable for our customers in an ever more complex environment. You'll build powerful new self-service tools to make it faster and easier to for your internal customers to act. Finally, you'll build tools that make it possible for us to find and fix problems quickly and efficiently.
+
+We are a fast-paced environment, using agile methodology and tailoring our designs and implementation to the maturity of the business. Currently we code in both Oracle PL/SQL and Microsoft BI platforms (SQL Server/Azure) and utilize Tableau as a visualization layer. This is always subject to change as new technologies emerge. Our supportive team culture encourages innovation and we expect developers and management alike to take a high level of ownership for the product vision, technical architecture and project delivery.
+
+Responsibilities:
+
+Develop a solid understanding of all the transaction management systems Starbucks utilizes to manage our global business including our Digital Stored Value Card program, Digital Payments as well as our physical Point of Sale. This role will need to understand the end to end Financial and Workflow systems/processes, back-end logging structure and the impacts on/relationship to the operational effectiveness and efficiency of the organizations
+
+Work with cross-functional teams of Product Owners, Operators, Data Scientists and technical source system teams to understand data as well as business performance drivers and architect data visualization tools to enable continuous improvement
+
+Create reporting artifacts tailored to varying customers from executive to operator
+
+Raise the analytics bar by acting as a subject matter expert to business and technical teammates and enable self-service analytics
+
+Work through the entire Software Development Life Cycle with little supervision
+
+Responsible for calibration efforts and testing of tools to insure highest levels of accuracy and dependability along with documentation and user training in support of self-service analytics
+
+Work with teammates to evaluate reporting requests, assess feasibility, develop prototypes, and implement a production/delivery plan in conjunction with Starbucks technology as required
+
+Utilize troubleshooting and advanced problem-solving skills to provide advanced support to systems developed by others.
+
+Utilize a variety of technologies including SQL Server, Oracle, Azure, AWS or other as needed
+
+Facilitate changes into production environment through appropriate teams via established change management processes
+
+Participate in large-scale Starbucks international system implementations requiring fraud or payment capabilities and integration with our global data architecture supporting fraud and payments
+
+Develop ad-hoc BI solutions as needed to solve emerging and complex business problems
+
+Qualifications
+
+Experience and education requirements:
+
+Bachelor's degree in computer engineering, electronics, business administration, communication and/or statistical analysis with data mining or related field or the foreign equivalent or relevant work experience.
+
+Master's degree preferred.
+
+Functional and technical skill requirements:
+
+Must be comfortable with writing SQL and have working knowledge of ETL processes used to streamline and automate the collection of data from source systems.
+
+Experience developing Business Intelligence solutions using Microsoft BI Stack - SQL Server, SSAS, SSRS, SSIS, Azure a plus with specific focus on data visualization tools like Tableau
+
+Experience performing Relational and Dimensional Data Modeling for data warehouse, data mart or decision support systems also a plus
+
+Other Qualifications:
+
+Excellent analytic, troubleshooting and problem solving skills, with proven ability to quickly understand a problem, determine significance of issue and identify a solution.
+
+Experience working with payment data and specifically supporting payment operations analytics tools a significant plus
+
+Focus on delivering results, and work ethic based on a strong desire to exceed expectations.
+
+Demonstrated understanding of financial database structure and design principles.
+
+Strong interpersonal skills, including written and oral communication skills.
+
+Ability to work within a team environment, networking and collaborating cross-functionally.
+
+Ability to remain flexible in a fast paced and rapidly changing environment.
+
+Commitment to continued improvement, and demonstrated ability to innovate
+
+Starbucks and its brands are an equal opportunity employer of all qualified individuals.
+
+We are committed to creating a diverse and welcoming workplace that includes partners with diverse backgrounds and experiences. We believe that enables us to better meet our mission and values while serving customers throughout our global communities. People of color, women, LGBTQIA+, veterans and persons with disabilities are encouraged to apply.
+
+Qualified applicants with criminal histories will be considered for employment in a manner consistent with all federal state and local ordinances. Starbucks Corporation is committed to offering reasonable accommodations to job applicants with disabilities. If you need assistance or an accommodation due to a disability, please contact us at 206-318-0660 or via email at applicantaccommodation@starbucks.com

@@ -1,0 +1,47 @@
+Want to help the largest global telecom enterprises derive business value through the adoption of Artificial Intelligence (AI) and Machine Learning (ML)? Excited to help customers define use cases for massive amounts of disparate data to develop ML models? Eager to learn to apply ML to a diverse array of telecom use cases? Thrilled to be a part of Amazon who has been pioneering and shaping the worlds AI/ML technology for decades?
+
+At Amazon Web Services (AWS), we are helping large enterprises build ML models on the AWS Cloud. We are applying predictive technology to large volumes of data and against a wide spectrum of problems.
+
+AWS Professional Services team members leverage their deep knowledge of AIML and AWS technologies in collaboration with our sales and partner teams to propose, architect, and implement transformational solutions for customers. Helping make customer success a reality using AIML as an enabler and seeing the impact in real-time drives our teams to explore new frontiers in leveraging AWS for our customers.
+
+The AIML Customer Delivery Architect (CDA) is a growth role within the Professional Services umbrella, and is principally oriented around a qualify-deliver-manage model. The CDA is responsible for partnering with Telecom Industry Professional Services leaders to dive deep into a customers business challenge, to collaboratively propose and qualify a particular set of outcomes, and lead a project/program to ensure high-value, predictable, and successful delivery.
+
+A successful candidate will be a person who enjoys diving deep into data, doing analysis, discovering root causes, and designing long-term solutions. It is an individual with a unique hybrid of AWS platform expertise and hands-on building, coupled with cross-industry business acumen, including a heavy dose of passion for continued knowledge acquisition and growth, obsession for customers, and their success using AWS that will align well with the desired outcomes to be produced.
+
+ROLE AND RESPONSIBILITIES
+· Participate in deep architectural discussions and design exercises to create world-class solutions built on AWS while ensuring solutions are designed for successful deployment in the cloud
+· Assist customers by being able to deliver a ML project from beginning to end, including understanding the business need, aggregating data, exploring data, building & validating predictive models, and deploying completed models with concept-drift monitoring and retraining to deliver business impact to the organization
+· Be familiar with AWS AI services (e.g., Personalize), ML platforms (SageMaker), and frameworks (e.g., MXNet, TensorFlow, PyTorch, SparkML, scikit-learn) to help our customers build ML models
+· Research and implement novel ML approaches, including hardware optimizations on platforms such as AWS Inferentia
+· Work with our other Professional Services consultants (Big Data, IoT, HPC) to analyze, extract, normalize, and label relevant data, and with our Professional Services engineers to operationalize customers models after they are prototyped
+· Author or otherwise contribute to AWS telecom customer-facing publications such as whitepapers and proof of concepts
+· Build deep relationships with senior technical individuals within customers to enable them to be cloud advocates
+· Capture and share best-practice knowledge, sales and delivery content amongst the AWS Professional Services community
+This is a customer-facing role and you will be required to travel to client locations and deliver professional services as needed.
+
+
+Basic Qualifications
+
+· Bachelors degree in a highly quantitative field (Computer Science, Machine Learning, Operational Research, Statistics, Mathematics, etc.) or equivalent professional or military experience
+· Experience with ML fields, e.g., natural language processing, computer vision, statistical learning theory
+· 6+ years of industry experience in predictive modeling, data science, and analysis
+· Experience in an ML engineer or data scientist role building ML models
+· Experience writing code in Python, R, Scala, Java, C++ with documentation for reproducibility
+· Experience handling terabyte size datasets, diving into data to discover hidden patterns, using data visualization tools, writing SQL, and working with GPUs to develop models
+
+
+Preferred Qualifications
+
+· Maters degree of PhD in a highly quantitative field (Computer Science, Machine Learning, Operational Research, Statistics, Mathematics, etc.)
+· Experience writing and speaking about technical concepts to business, technical, and lay audiences and giving data-driven presentations
+· Demonstrated ability to think strategically about business, product, and technical challenges
+· Customer facing skills to represent AWS well within the customers environment and drive discussions with senior personnel regarding trade-offs, best practices, project management and risk mitigation
+· Ability to develop strategic, baselined, data modeling processes; ability to accurately determine cause-and-effect relationships.
+· Publications or presentations in recognized ML journals or conferences
+· Deep technical skills, consulting experience, and business savvy to interface with all levels and disciplines within our customers organization
+· Demonstrable track record of dealing well with ambiguity, prioritizing needs, and delivering results in a dynamic environment
+· Experience architecting/operating solutions built on AWS
+· Ability to understand and articulate business impact of technical decisions
+· A proven track record of managing and delivering large-scale enterprise IT projects.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status. For individuals with disabilities who would like to request an accommodation, please visit https://www.amazon.jobs/en/disability/us.

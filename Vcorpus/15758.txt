@@ -1,0 +1,66 @@
+The Center for Sustainable Energy (CSE) is seeking a data scientist who will support our product, sales, leadership and marketing teams with insights gained from analyzing extensive company data. The ideal candidate is adept at using large data modeling techniques to find opportunities for product and process optimization and to test the effectiveness of different courses of action. They must have strong experience developing/designing databases, using a variety of data mining/data analysis methods, using a variety of data tools, building and implementing models, using/creating algorithms and creating/running simulations. They must have a proven ability to drive business results with their data-based insights. They must be comfortable working with a wide range of stakeholders and functional teams. The right candidate will have a passion for discovering solutions hidden in large data sets and working with stakeholders to improve business outcomes. The research will focus on the energy space, primarily electric vehicles, electric vehicle infrastructure, and distributed energy resources,
+
+The position will work under the Director of Strategic Research and Analytics. The Strategic Research and Analytics team is tasked with producing high quality, reliable research for business development and program optimization. The team often needs to work quickly and under significant time constraints, the ideal candidate should be comfortable with this environment.
+
+Essential Functions and Responsibilities:
+
+SKILLS
+
+· Develop, design, and manage databases to support the evaluation work of the Strategic Research and Analytics team. The successful candidate will work with a variety of stakeholders, both internal and external, to identify existing and new data sources, while assessing the effectiveness and accuracy of the data, as well as opportunities to leverage that data to drive business solutions and success.
+
+· Mine and analyze data to drive optimization and improvement of product development, marketing, and business strategies, as well as portfolio and program level evaluation.
+
+· Execute various mixed methods models, to identify new, interesting, and executable insights. Candidate should be an expert in machine learning tools and techniques such as as k-NN, Naive Bayes, SVM, Decision Forests, etc
+
+· Use predictive modeling to increase and optimize customer experiences, revenue generation, ad targeting and other business outcomes.
+
+· Effectively communicate findings to relevant stakeholders through professional, clear, and concise presentations, reports, and visualization of the data and results of any analyses. The ideal candidate can produce advanced visualizations that are accurate and audience specific.
+
+· Develop processes and tools to monitor and analyze model performance and data accuracy.
+
+QUALIFICATIONS
+
+Essential Knowledge, Skills and Abilities:
+
+Required
+Strong problem-solving skills with an emphasis on product development.
+Experience using statistical computer languages (R, Python, SLQ, etc.) to manipulate data and draw insights from large data sets.
+Experience working with and creating data architectures.
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+Excellent written and verbal communication skills for coordinating across teams.
+A drive to learn and master new technologies and techniques.
+Were looking for a PhD level quant with 7+ years of experience manipulating data sets and building statistical models. and familiar with the following software/tools:
+Coding knowledge and experience with several languages: C, C++, Java, JavaScript, etc.
+Knowledge and experience in statistical and data mining techniques: GLM/Regression, Random Forest, Boosting, Trees, text mining, social network analysis, etc.
+Experience querying databases and using statistical computer languages: R, Python, SLQ, etc.
+Experience creating and using advanced machine learning algorithms and statistics: regression, simulation, scenario analysis, modeling, clustering, decision trees, neural networks, etc.
+Experience analyzing data from 3rd party providers: Google Analytics, Site Catalyst, Coremetrics, Adwords, Crimson Hexagon, Facebook Insights, etc.
+Experience with distributed data/computing tools: Map/Reduce, Hadoop, Hive, Spark, Gurobi, MySQL, etc.
+Experience visualizing/presenting data for stakeholders using: Periscope, Business Objects, D3, ggplot, etc.
+Preferred
+
+· Knowledge of the electric vehicle and/or DER market and related policies and technologies
+
+· Experience with NoSQL databases, such as MongoDB, Cassandra, HBase
+
+Education:
+
+· Ph.D. in a relevant field (e.g. data science, statistics, economics, scenario analysis, forecasting, etc.).
+
+Experience:
+
+§ 7+ years of relevant experience
+
+Licenses, Certificates or Registrations:
+
+· None required
+
+Computer and/or Technical Skills:
+
+
+· Experience with common data science toolkits, such as R, Python, Weka, NumPy, MatLab, etc. Excellence in at least one of these is required
+
+· Demonstrated high-level abilities with programs such as (or comparable to) Excel, Word, PowerPoint and Outlook are required.
+
+· Familiarity with statistical and/or data visualization tools is required.

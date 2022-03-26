@@ -1,0 +1,27 @@
+Senior Data Scientist
+
+Avetta connects the worlds leading organizations with qualified suppliers, contractors, and vendors. We bring unmatched visibility to companies through cloud-based technology and human insight. As a result, we foster sustainable growth for businesses and their supply chains. Our SaaS subscription software is used by 85k+ active customers in over 100 countries.
+
+Position Summary:
+
+Reporting to VP of Analytics
+
+Candidate will support Avetta's SaaS Analytics platform and our sales/marketing teams with insights gained by analyzing our company data in conjunction with external data
+
+Job Responsibilities:
+Work with stakeholders across the organization to identify analytical opportunities using company and external data
+Mine company data to drive customer facing analytics solutions, internal process optimization and marketing analytics
+Work with dev team to extract data from Avettas diverse databases to a common storage (data lake), cleanse/curate data as necessary, perform data exploratory analysis, build/validate models and work with team to put models into production
+Develop processes to monitor model performance and ensure model is performing based on pre-defined metrics
+Develop processes to explain model performance and key drivers to non-technical users
+Identify project risks, communicate them to leadership/team and work with team to address risks in a timely manner
+Mentor junior data scientists
+Education/Experience:
+B.S. in Statistics, Mathematics, Computer Science or equivalent
+5-7 years of experience in applied data science. Candidate should be well versed in using various machine learning techniques (regression, decision trees, neural networks etc.) and understand when/why to use one or combination of techniques
+Strong knowledge of programming languages such as Python (for data science) and SQL (for data munging)
+Strong knowledge of visualization techniques to present results to stakeholders and clients
+Experience using Jupyter notebooks for the analytics development environment
+Experience working in AWS a plus
+Ability to work effectively in a distributed, collaborative, agile environment and deliver solutions on a regular cadence
+Powered by JazzHR

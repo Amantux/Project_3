@@ -1,0 +1,26 @@
+Position Title: Principal Data Scientist
+Location: San Francisco, CA
+Duration: Full time
+
+Job Description:
+Work with large scale dataset which includes transactional, click-stream, and telematics data;
+Build models, synthesize stories from data, and turn the stories into recommendations for building products that help our members to continuously improve on their driving;
+Help build econometric models to drive operational excellence;
+Work on data acquisition strategy to augment our dataset and drive value to our organization and members;
+Partner with cross-functional teams to execute product roadmap and ensure data is always a forethought in decision-making;
+Work with Data Engineers in building and maintaining near real-time data pipeline and machine learning infrastructure;
+Establish and maintain data dictionary;
+Own data quality controls and metrics;
+Build and mentor a team of awesome data scientists.
+Apply if you:
+Have 5+ years of programming experience (Python preferred);
+Have 3+ years of experience in developing models and productionizing it;
+Have 3+ years of experience in machine learning infrastructure and AWS data stack;
+Are an expert in statistical programming language (eg. Pandas, MATLAB, R);
+Have proficiency in visualization tools (eg. matplotlib, ggplot2, Tableau);
+Have worked on A/B testing, funnel optimization, cohort analysis, and user profiling;
+Can split the time between data science and data engineering;
+Have Bachelor's Degree (or higher) in Computer Science, Math, Statistics, Economics, or similar domain.
+Nice to have:
+Recent experience working in a startup;
+Worked on telematics dataset.

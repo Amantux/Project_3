@@ -1,0 +1,65 @@
+Our Mission: To connect all people in need and the programs that serve them (with dignity and ease).
+
+Aunt Bertha picks up where Uncle Sam leaves off by making it easy to find and apply for government and charitable social service programs. By organizing the world's human service program information, we make it easy for people in need and the people who help them to find help in seconds on www.auntbertha.com.
+
+We are looking for people who are driven to make the world a drastically better place and want to join our small group of thoughtful, committed citizens because they believe, as Margaret Mead said, "Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has."
+
+Please note: If our mission doesn't strike a chord with you that is OK. But please consider not applying. We are seeking people who come on fire after learning about what we do.
+
+What We Need Your Help Doing: The Lead Data Engineer is essential to helping Aunt Bertha design, build and maintain a world-class data platform. Data is core to our business, and you'll be a key player in driving our data strategy. In addition to managing existing Cloud SQL databases and ETLs, you'll help design and implement our next generation data architecture, data pipelines and BI backend.
+
+Key Responsibilities:
+You'll partner with a Product Manager as the technical leader of our data engineering team, and will lead 1-2 data engineers day-to-day
+Have 1:1 meetings with your team members each week
+Manage and optimize existing Cloud SQL databases (schema design, indexing, security)
+Drive strategies for improving data architecture and adopting new tooling in the service of solving problems and adding business value
+Design solutions to data-centric issues like performance, scalability and manageability
+Requirements:
+Expertise with MySQL / Google Cloud SQL databases and SQL query syntax
+Hands-on experience with ETLs or other data pipeline technologies
+Experience with data modeling, data warehousing / BI and scalable data design and architecture
+5+ years of professional software development experience
+1+ years of engineering leadership experience
+Excellent communication skills
+Nice-to-have skills:
+Hands-on experience with Google Cloud Platform and Cloud SQL
+Experience with large-scale databases like BigQuery, Redshift, Snowflake, etc
+Apply Now! We are selecting from a broad field of candidates. If you are interested in learning more and think you have what it takes to win, please respond to this job posting with:
+Your résumé
+A short cover letter in which you tell us who you are, what you want to achieve in life and how this job will help you get there, and why Aunt Bertha should strongly consider a deeper conversation with you.
+Your GitHub username, StackOverflow profile and/or links to any projects or other resources that provide the full picture of your experience and skill set, if available.
+A cover letter is required! We get a lot of applicants, and only those who are truly engaged with our company mission will likely move forward.
+
+Physical Demands & Work Environment: The physical demands described here are representative of those that must be met by an employee to successfully perform the essential functions of this job. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. Some travel may be required.
+
+We are building a company whose employees understand our users, through their own lived experiences. This means we strive to hire employees that are diverse by race, gender, gender identity, gender expression, age, religion, sexual orientation, physical abilities, and socio-economic upbringing.
+
+Job Type: Full-time
+
+Pay: $100,000.00 - $120,000.00 per year
+
+Benefits:
+401(k)
+Dental Insurance
+Disability Insurance
+Flexible Schedule
+Flexible Spending Account
+Health Insurance
+Life Insurance
+Paid Time Off
+Parental Leave
+Referral Program
+Vision Insurance
+Schedule:
+Monday to Friday
+Experience:
+Engineering Leadership: 1 year (Preferred)
+Data Engineering: 5 years (Required)
+Work Location:
+One location
+Visa Sponsorship Potentially Available:
+No: Not providing sponsorship for this job
+Company's website:
+www.auntbertha.com
+Work Remotely:
+Temporarily due to COVID-19

@@ -1,0 +1,79 @@
+Read what people are saying about working here. 
+
+Overview
+
+ERPi is currently seeking a full-time Data Scientist to provide onsite support at our Washington, DC site.
+
+ERPi is experiencing a period of tremendous growth, including the expansion of its core service offerings into the areas of data science, fraud prevention, and analytics. We are seeking candidates who combine a consulting background with expertise in data science, fraud prevention, or analytics to help build an analytics capability for the firm, as well as deliver associated services to clients in the Federal government. Within the Department of Veterans Affairs (VA), the Veterans Benefits Administration (VBA) is transforming its ability to serve Veterans, including the creation and stand-up of a new program and analytical capability to a) detect and prevent benefits fraud/waste/abuse, and b) address recurring data quality issues. VBA manages over $90B annually in benefits. In support of this effort, ERPi is looking for qualified Data Scientists with expertise in data quality and/or fraud/waste/abuse identification and prevention to:
+
+Responsibilities
+
+Design and develop data mining, data science tools, and models to predict and prevent fraudulent activity against Veterans, identify waste, and prevent abuse of taxpayer dollars
+
+Create machine learning, data mining, and statistical and graph-based algorithms via technologies like R and Python to provide real-time fraud/waste/abuse monitoring capabilities
+
+Support efforts to improve the policies, procedures, and tools the agency has at its disposal to prevent fraud/waste/abuse and improve data quality
+
+Design and develop analytic algorithms and techniques in support of robotic processing automation, machine learning, and/or other forms of artificial intelligence
+
+Reviewing application and enterprise data models (conceptual, logical, physical) to identify data quality problems;
+
+Configuring test and training data sets for use by team members;
+
+Analyzing VBA and external databases to identify data quality issues, identify fraud indicators, potential patterns of fraud/waste/abuse, identify vulnerable veterans, verify victims of fraud
+
+Performing root cause analysis to determine the cause of identified issues
+
+Working with VBA system owners to identify needed changes (i.e. technical, process, policy, etc.) to prevent future recurrence of identified issues
+
+Assisting in standing up and running a VBA data quality and fraud prevention governance programs
+
+Facilitating working sessions to understand the data quality and fraud/waste/abuse issues affecting VBA
+
+Guiding development of data quality algorithms, tools, models, and new processes to improve operational efficiency and make the VBA environment hostile to fraud
+
+Developing white papers, analyses, and position papers either describing/reviewing /analyzing specific issues, or providing justification or support for recommendations to affect change within VBA
+
+Creating briefings with impactful visualizations to share with leadership on indicators of data quality and fraud/waste/abuse issues
+
+BA/BS Degree in a quantitative discipline
+
+3 years minimum of relevant experience
+
+Experience using analytical tools, such as R/R Studio, Python, SAS, SQL, or advanced data quality/fraud analysis toolkits
+
+Good analytical skills with a focus on critical thinking, problem-solving, numeric reasoning, and creativity
+
+Familiarity with transaction, OLAP, and data warehouse data models
+
+Experience with data standardization and data governance processes
+
+Demonstrated strong communication and presentation skills (particularly to non-technical audiences)
+
+Good team player, able to manage multiple assignments, and adapt to changing client needs
+
+Ability to work in a dynamic, collaborative, results-driven environment
+
+ Desired Skills and Experience:
+
+MA/MS in related field (Data Science, Operations Research, Statistics, Applied Mathematics, etc.) preferred
+
+Experience designing and developing analytic algorithms and techniques in support of robotic processing automation, machine learning, and/or other forms of artificial intelligence
+
+Experience working with Veterans Affairs (VA), Veterans Benefits Administration (VBA), and/or Veterans Health Administration (VHA) preferred
+
+Experience working with data quality, fraud detection/prevention, and business improvement initiatives preferred
+
+Experience using data visualization tools such as Power BI or Tableau
+
+Experience with AWS is a plus
+
+About ERPi
+
+Enterprise Resource Performance Inc., a Service-Disabled Veteran Owned Business, is a professional services management ﬁrm that delivers strategic, advisory, technological, and implementation support services to Federal Agencies. ERPi offers talented candidates the opportunity to perform project management, strategic planning, process improvement, quality management, data analysis, and human capital planning on some of the Federal government’s largest and most complex business challenges. Our work environment is highly entrepreneurial and is staffed with some of the brightest and most capable, technical people in the industry. In addition to a comprehensive and flexible benefits program, our offerings include tuition reimbursement, 401(k) profit sharing, industry-leading health plans, generous paid parental leave and matched charitable donations. ERPi is committed to people development and providing opportunities to grow professionally. As an employee, you will work with highly motivated colleagues and have the advantage of a culture that is focused on bringing out the best in you.
+
+EEO Statement:
+
+It has been and will continue to be a fundamental policy of ERPi not to discriminate on the basis of race, color, religion, sex, gender, sexual orientation, gender identity or expression, pregnancy, parental status, marital status, citizenship, national origin, age, disability, genetic information, military status, veteran status, or any other protected category with respect to recruitment, hiring, training, promotion, and other terms and conditions of employment.
+
+ ERPi is an industry-leading, service-oriented professional management consulting firm with the capabilities of a large firm and the agili...

@@ -1,0 +1,32 @@
+Job Title
+Lead Data Engineer - Payment Services
+
+Job Information
+The lead Data Engineer is a critical role that will provide technical expertise, data engineering design and team leadership to the Payment Central ETL scrum team. They will help move this team from a traditional batch ETL architecture to a more real-time data streaming and API-integrated data services one. The lead will spend their time doing hands on development, designing future data processes, conducting data analysis, consulting with other teams and leading internal team improvements in an Agile scrum environment.
+
+Essential Functions / Principal Responsibilities
+Develops data pipelines in both batch ETL and real-time streaming architectures.
+Develops data models to define new or modify existing data structures in support of data integration initiatives.
+Provides expert technical knowledge of data solutions for business projects.
+Act as the lead analyst to provide source system analysis, data discovery and complex data requirement analysis, to understand information warehouse data requirements and anticipate user requirements.
+Facilitates data pipeline design reviews, code reviews, technical and functional approvals with source system developers, data engineers and functional subject matter experts.
+Architects effective data pipeline solutions to deliver business features.
+Assists in the creation of best practices for data movement, data quality, data profiling, data cleansing and other data pipeline related activities.
+Implements best practices, tuning and optimization for continuous improvement.
+Presents technical information in easily understood terms (written, verbal and visual).
+Communicates effectively within the Agile team and to external stakeholders and management.
+Follows Agile best practices and adheres to internal IT processes like change management and problem management.
+Skills that will Ensure Success:
+Specialist in ETL development with a demonstrated understanding of transactional data processing, streaming data and EDW best practices.
+Expertise in build, unit test, and deployment of Informatica ETL processes.
+Experience with real-time data pipeline platforms and REST API calls within data processes, preferably in the StreamSets or similar platform.
+Hands on with data streaming in Apache Kafka.
+Able to interpret business needs and turn them into a technical plan of attack with pros and cons of various approaches to the data processing options.
+Demonstrates a complete understanding of technical standards and processes related to batch and real-time data pipeline development.
+Excellent team player, able to work with source system technical developers, DBAs, system administrators, BI professional services, data warehouse operations and functional experts.
+Expertise in SQL query transactions and optimization, especially T-SQL.
+Understand nulls, cardinality, joins, data types to develop technical ETL specifications and technical metadata.
+Ability to integrate an application solution into the broader business and IT ecosystem in which it will operate.
+Firm understanding of quality assurance activities and automation in data pipeline and ETL processing.
+Desire experience working with financial transactions requiring compliance, balancing and integrity checks, especially payment-related data, PCI compliant data and banking industry formats such as NACHA.
+Desire a firm understanding of cloud data processing and data streaming architectures, especially in AWS.

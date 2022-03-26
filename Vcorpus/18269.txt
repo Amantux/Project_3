@@ -1,0 +1,81 @@
+Do you want your voice heard and your actions to count?
+
+Discover your opportunity with Mitsubishi UFJ Financial Group (MUFG), the 5th largest financial group in the world (as ranked by S&P Global, April 2018) with total assets of over $2.9 trillion (106.2 (JPY) as of March 30, 2018) and 150,000 colleagues in more than 50 countries. In the U.S., were 13,000 strong, working together to positively impact every customer, organization, and community we serve. We achieve this by delivering on our values, putting people first, fostering long-term relationships built on honesty and mutual understanding, and inspiring the best in each other. This is all part of our inclusive, high-performing culture supported by Total Rewards that include our cash balance pension plan. Join a team thats working to fulfill its vision to be the worlds most trusted financial group.
+Job Summary:
+
+The Database Security Engineer is responsible for implementing security systems that will provide detection, prevention, containment and deterrence mechanisms to protect and maintain the integrity of relational database systems, AWS cloud native databases, NoSQL and big data platforms. Using security principles and best practice, the engineer will work with a team of other database security SMEs to provide guidance and support to operational, business and regulatory teams and will perform expert level database security incident response and investigation.
+Major Responsibilities:
+
+The Database Security Engineer is a key position in providing protection and assurance on the controls safeguarding the banks information assets.
+Specifically, the position is responsible for:
+Designing, developing, testing, documenting, monitoring, and implementing information and database security solutions to enforce security strategies and support to new/existing systems in accordance with policies, standards, guidelines and procedures.
+Serve as a trusted partner to business, operations, development, risk and compliance teams providing database security subject matter expert (SME) guidance and analysis.
+Managing a database activity monitoring (DAM) platform for security and audit compliance, including policy creation, event and trend analysis, performance monitoring and infrastructure maintenance.
+Developing and maintaining database security standards, guidelines and procedures for hardening database configurations, users and roles, profiles, etc.
+Refining and enhancing existing controls, policies, standards, procedures, and guidelines to prevent the unauthorized use, release, modification, or destruction of data.
+Evaluating updates to new/existing database security controls by determining the strengths/weaknesses and coordinate the testing and implementation of the new/enhanced controls with all business partners that are affected.
+Identifying weak links in information security products and determine how to mitigate the control deficiencies.
+Enhancing preventive systems used to stop and/or deter security breaches.
+Evaluating database security patches from vendors and assesses potential risk and work with stakeholders to address vulnerabilities.
+Respond to security Incidents and assist with Tier-1 and Tier-2 incident investigations.
+Performing root cause analysis of security violations to determine if they are the result of misconfiguration or malfunction or if they are malicious, and taking appropriate action depending on circumstances.
+Evaluating new database releases/updates to ensure they are appropriately integrated into the security program and existing controls are effective with the updates.
+Working with database custodians at different levels of the organization to understand their respective security needs and assist with implementing practices and procedures consistent with the bank information security policy.
+Conducting and identifying database security compliance issues and ensure that any non-compliance to security baseline configurations are identified, tracked and assigned to stakeholders for remediation.
+Working with internal and external auditors to demonstrate and provide evidence of security controls are adherence to regulatory compliance.
+Executing and enhancing monitoring systems used to detect and report security violations.
+Requirements:
+
+Education
+Bachelor's degree in Cybersecurity, Computer Science, Information Technology, or Related Fields or relevant industry certifications and comparable experience
+Masters Degree (preferred)
+Experience
+Database security, monitoring and protection
+Database activity monitoring platforms such as Imperva Data Security and Data Risk Analytics (DRA), IBM Guardium and DataSunrise Database Security
+Imperva Data Security Specialist (IDSS) certification strongly preferred
+In-depth working knowledge of databases and database technologies
+Familiarity with AWS technologies and methods including RDS (Relational Database Service)
+Data protection
+Database Firewall
+Data Loss Prevention (DLP)
+Data Classification
+Vulnerability detection and mitigation
+Cybersecurity experience in regulated banking or financial environment
+Top 10 banking (Strongly preferred)
+Information security
+Penetration testing and attack forensics
+IT risk management
+IS audit
+GRC Tools & Processes
+Five to seven years of related experience
+Must-Have Skills
+Ability to understand security risks and controls, to analyze various methods of controlling information security problems, determine the strengths and weaknesses of each method and implement the best cost-justified solution.
+Detailed knowledge of major database platforms such as Oracle, SQLSERVER, MySQL, etc.
+Working knowledge of at least two or more operating systems and corresponding security systems in use at the Bank (Linux, Unix, Windows, etc.)
+Identify weak links in information security products and determine how to mitigate the control deficiencies.
+Maintain familiarity with industry trends and current security practices.
+Demonstrate ability to manage complex projects in an effective manner. This includes the ability to prepare detailed task plans outlining all requirements to complete the given assignment.
+Evaluate business process and application software, which effect the integrity, functionality, and reliability of the Bank's network and systems.
+Passionate, positive and driven attitude
+Good communication (written and verbal) and interpersonal skills
+Reliable time management and organization skills
+Demonstrates the ability to convey technical findings in simple language
+Proactive mindset and actions
+Aptitude to lead complex efforts with minimal supervision
+Willingness to collaborate across the organization
+Ability to lead complex efforts with minimal supervision
+Proven ability to work independently and as a team member
+Flexibility to work in varying business functions and capabilities
+Capability to adapt to new and changing environment and handle multiple priorities, including to learn quickly
+
+Preferred Certifications
+IDSS (Imperva Database Security Specialist)
+CISSP
+CISP
+CISA
+C/EH
+The above statements are intended to describe the general nature and level of the work being performed. They are not intended to be construed as an exhaustive list of all responsibilities, duties, and skills required of personnel so classified.
+
+We are proud to be an Equal Opportunity / Affirmative Action Employer and committed to leveraging the diverse backgrounds, perspectives, and experience of our workforce to create opportunities for our colleagues and our business. We do not discriminate in employment decisions on the basis of any protected category.
+
+A conviction is not an absolute bar to employment. Factors such as the age of the offense, evidence of rehabilitation, seriousness of violation, and job relatedness are considered in all employment decisions. Additionally, its the banks policy to only inquire into a candidates criminal history after an offer has been made. Federal law prohibits banks from employing individuals who have been convicted of, or received a pretrial diversion for, certain offenses.

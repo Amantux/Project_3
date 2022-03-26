@@ -1,0 +1,37 @@
+Elevate Labs is on a mission to improve people's minds.
+
+The ability to write well and speak eloquently deeply affects your trajectory in life, regardless of profession. Unfortunately, many people leave high school and even college extremely unprepared in these areas. We developed our flagship mobile app, Elevate, to help bridge this gap, through 35 games (and more on the way) that teach concrete cognitive skills. Elevate has over 30 million downloads and has received numerous accolades, including Apple’s App of the Year award.
+
+The Elevate app was just the beginning. We’ve recently launched Balance, a personalized meditation app, that helps people with their stress, sleep, focus, and much more. It’s a truly customized experience that makes meditation more accessible to millions of people.
+
+Join us in creating the future of products that help people live healthy, joyful, and productive lives.
+
+About the Elevate Data Team
+
+We are an iterative, data-driven team with an emphasis on impact. We are also lean and highly technical; always learning interesting new ways to automate our efforts so we don’t have to do the same work repeatedly or take on unnecessary overhead. We are responsible for all analysis, reporting, data quality, A/B test analysis, and our Looker level Persistent Derived Tables and logic. We are called on to do a number of predictive analyses and support other teams in their usage of self-service tools.
+
+About the Role
+
+We are looking for a temporary, all-remote, part-time contractor to join our Data Team as an analyst (20-28 hr/week). There is potential for the role to convert to a full time position in the future.
+
+About You
+
+Inquisitive, curious, and scrappy. Willing to dive into an existing spreadsheet or codebase and figure out how to improve it. Interested in automating manual reporting, exploratory analysis, and documenting what we build.
+What you’ll do here
+QA our current KPI metrics and dashboards
+Create technical documentation for the Data Team and lay person documentation for non-technical stakeholders
+Analyze trends over time or specific events related to: user behavior, revenue, ad spend, and other use cases
+Create new Persistently Derived Tables (PDT) and Dashboards in Looker for stakeholder teams (using SQL and LookML)
+Help implement third party systems for user flow analysis. Once running, analyze how users move through the apps.
+What we’re looking for
+20-28 hours a week
+Ability to communicate clearly with both technical and non-technical stakeholders - Document the underlying logic of Key Performance Indicators (KPIs) based on code. Clearly teach/explain to non-technical stakeholders.
+Analytical ability - Synthesize and distill large amounts of data or information into bite-sized, understandable insights.
+Google Sheets/Excel wizard - Keen eye to QA sheets that already exist and have errors. Can create self-service sheets for non-technical users.
+Strong SQL knowledge - CTE’s; CASE WHEN; Multiple levels of aggregation into a final table; Ability to QA SQL code
+Motivated to research and figure things out independently.
+Bonus Points
+Experience with Looker and LookML specifically
+Experience with reporting and KPIs at a mobile app company
+Analysis experience in R or Python
+At Elevate Labs we value diversity and are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.

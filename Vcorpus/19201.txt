@@ -1,0 +1,61 @@
+What You'll Do
+
+You’re deeply motivated and skilled Software developer and expected to deliver high quality software. You're super thrilled to be the one responsible for power-on and bringing life to the most advanced networking system in the world. You have a ‘I will figure it out’ attitude.
+
+· You will build very high quality, modular software adhering to the approved design, develop the automated unit test cases to test the written software and perform end to end integration testing.
+
+· Wireless background is required, specifically knowledge of 5G. Knowledge of interfaces between networking elements like 5G RAN, and 5G Core is required.
+
+· Understanding the interfaces between RAN and Packet Core is required
+Experience with implementing user plane forwarding is desirable
+Experience with programming on embedded systems is highly desirable.
+Experience with system integration of End-end system is desirable
+Experience with customer interaction for technical problem-solving is desirable.
+Responsibilities:
+
+Participate on a project team of engineers involved in the development of software for our next generation 5G solution. Design, and deliver new software and features for 5G systems. Day to day activities include building software by writing code, as well as modifying software to fix errors, adapt it to new hardware, improve its performance, or upgrade interfaces. You will also work closely with system test and validation engineers to help with system test and integration.
+
+Who You'll Work With
+
+The Wireless Networking Group (WNG) is the industry leader in enterprise WLAN with a proven track record in building innovative wireless solutions. We are looking for passionate and dedicated wireless system architect who can design, develop products based on intent based networking.
+
+Do you enjoy spearheading innovation through personal initiative? Would it excite you to be part of a highly motivated best of breed engineering team who is redefining and refreshing the software portfolio Cisco's Wireless access points? Would you like to challenge yourself in driving a key technology transition in the Wireless Industry while working the market leader? Would you cherish to develop code using the most modern development methods using a test-driven development focus? Can you demonstrates the ability to develop software with a system-level focus while understanding the impact of every component, work with minimal supervision, collaborate with a multi-functional team and demonstrates technical knowledge and project management experience to accomplish the goals.
+
+Who You Are
+
+Minimum Qualifications
+
+· 5+ years of experience with BS/MS in computer systems, software and architecture.
+
+· Experience in 5G Packet core Protocols
+
+· Experience in Netconf/YANG
+
+· Understanding of network layer protocols
+
+· You possess the aptitude to multi-task in fast-paced environment
+
+· You are good with writing distributed platform and system software
+
+· Good understanding of Linux and network resource management
+
+· You are an excellent C programmer and possess strong analytical and logical solving skills
+
+· You have a knowledge of the 5Gprotocol stack, including RLC/MAC/PDCP
+
+· S1AP/NGAP, SBI, GTP, PFCP and NAS protocols
+
+· Prefer strong skills in Python scripting
+
+Desired Skills:
+Self-motivated, strong sense of ownership, good teammate You should be able to own portions of the software from a technical perspective
+Handle multiple tasks at once
+Strong interpersonal and communication skills.
+team building skills. This role requires the ability to work across departments and with other teams
+Be open to continuous learning and committed to ongoing self-improvement.
+Initiate and participate in organizational efforts to improve overall group productivity and test effectiveness. Contribute to overall test strategies
+Why Cisco
+
+We connect everything: people, processes, data, and things. We innovate everywhere, taking bold risks to shape the technologies that give us smart cities, connected cars, and handheld hospitals. And we do it in style with rare personalities who aren’t afraid to change the way the world works, lives, plays and learns. We are leaders with vision, tech geeks, pop culture aficionados, and we even have a few purple haired rock stars. We celebrate the creativity and diversity that fuels our innovation. We are dreamers and we are doers.
+
+We Are Cisco.

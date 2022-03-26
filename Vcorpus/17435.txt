@@ -1,0 +1,26 @@
+Mark43's mission is to empower communities and their governments with new technologies that improve the safety and quality of life for all. We build powerful, scalable, and elegant software that sets a new standard for the tools upon which our first responders rely. Our users are diverse, and we are therefore committed to embracing diversity of thought and experience within our team.
+
+Mark43 is looking for a Data Engineer to help us build a next generation real-time crime analysis platform. Our Analytics product helps police departments draw better insights from their data, detectives to solve cases, and agency leadership to allocate department resources more efficiently. Working at Mark43, you'll be helping first responders save lives!
+
+We are looking for someone passionate about data - best ways to collect, organize, transform and present it. You have extensive experience architecting complex, highly available and optimized real-time data pipelines, know the pros and cons of different tools, and when to build your own vs use an off-the-shelf solution.
+
+What you can expect to work on
+Plan, design and build distributed, real time data pipelines for the next generation of our Analytics product
+Work with analytics product engineers to ensure performance, stability and availability of our MS SQL Server analytics databases
+Evangelize best data practices among the engineering team, help internal education
+Work together with DevOps engineers to improve our AWS data infrastructure
+What we expect from you
+BA/BS degree in Computer Science or a related technical field or equivalent practical experience
+Knowledge and at least a year of production experience working with streaming platforms such as AWS Kinesis, Kafka, and/or Kafka Connect
+Experience working with both MySQL and Microsoft SQL Server databases
+Data warehouse design and implementation experience
+Good knowledge of at least one scripting language
+Excellent communication skills, verbal and written
+Experience in a fast paced, agile startup environment
+What you can expect from us:
+
+
+Opportunities to learn and grow personally and professionally
+Building mission critical and socially responsible software to enable first responders to better serve their communities
+A workplace dedicated to supporting and bettering law enforcement, first responders, and other government agencies via mission critical software products
+Working towards a worthwhile mission with a team of friendly and intelligent coworkers

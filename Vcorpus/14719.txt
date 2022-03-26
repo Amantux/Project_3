@@ -1,0 +1,43 @@
+Job Description
+Are you passionate about data AND helping patients improve their health? Consider the position of Data Scientist, where your experience in advanced analytics and modeling will directly inform how CVS Health helps patients on their path to better health. As a key member of the Enterprise Analytics organization, you will work with a variety of business partners from across PBM and Specialty areas of the enterprise to both support the development of innovative programs to improve patient outcomes as well as reduce cost and improve efficiency across a variety of operational processes at CVS Health. The role of Data Scientist is primarily responsible for developing machine learning and other advanced models that drive business outcomes across CVS.
+
+Key job functions include, but are not limited to, the following:
+Consult with key internal and external stakeholders to determine how best to leverage machine learning and advanced analytic methods to support business objectives across CVS Health.
+Select several potential appropriate modeling approaches for a given analytic problem (machine learning methods such as ensemble models, decision trees; operations research; statistical modeling such as multivariate techniques).
+Efficiently implement the models in a variety of modeling tools, achieving highly accurate models.
+Collaborate with analytic, data engineering, business and clinical partners to deploy advanced analytic solutions into the operational environments.
+Apply understanding of the underlying statistical concepts and computational approaches that enable efficient execution of models and design and implement modifications and enhancements to the computations.
+Develop sound analytic plans based on available data sources, business partner needs, and required timelines.
+Apply innovative approaches to understand and predict what will happen across the business.
+Manage deliverables across multiple projects in a deadline-driven environment and project related to a wide variety of business settings and clinical needs.
+Present analytic findings in a variety of formats (reports, PPT, graphs, figures and tables), formulating recommendations, and effectively presenting the results to non-analytic audiences.
+Required Qualifications
+A minimum of 7 years of professional post-graduate experience in constructing, validating, and executing modeling and optimization solutions.
+Experience in translating business problems across disciplines into advanced analytic projects with measurable business value.
+Experience with theoretical modeling approaches and matching analytic modeling approaches to a wide range of business applications
+Fluent and recent hands-on experiences in R, Python, SAS, etc. Experience with computer development languages (Java, C++).
+Experience deploying capabilities across a wide range of business disciplines.
+Demonstrated effective project management and time management skills.
+A strong curiosity to explore and uncover hidden relationships in data, and a proactive desire to translate findings into actionable business insights.
+Familiarity with navigating in both a relational (Teradata-based) and non-relational (Hadoop) environment.
+Preferred Qualifications
+Practical experience developing large-scale decision support tools based on optimization technology (e.g., Linear Programming (LP), Mixed Integer Programming (MIP), Non-Linear Programming (NLP), etc.) for planning and execution support (e.g., staff scheduling, vehicle routing, and facility location).
+Experience working with administrative claims data
+Analytic experience in the healthcare administration industry
+Education
+PhD in Operation Research, Transportation Engineering, Industrial Engineering, Statistics, Applied Mathematics, Computer Science, or directly related field. Will also consider candidates with a Masters degree in these fields, plus 10+ years of relevant post graduate professional paid work experience with an outstanding track record of developing and deploying advanced quantitative analytics to support business objectives.
+
+Business Overview
+Its a new day in health care.
+
+Combining CVS Health and Aetna was a transformative moment for our company and our industry, establishing CVS Health as the nations premier health innovation company. Through our health services, insurance plans and community pharmacists, were pioneering a bold new approach to total health. As a CVS Health colleague, youll be at the center of it all.
+
+At CVS Health, we work every day to help people on their path to better health. Never has it been more important for us to deliver on our purpose to our valued customers, patients, members, and employees. With a presence in communities across the country, CVS Health colleagues are and will continue to be a critical piece of the countrys health care solution. The health and safety of our employees, patients, customers, and members is our top priority as we face the impact of COVID-19 together. If you would like to learn about the actions we are taking as a company as we learn more about COVID-19 and its spread, we encourage you to visit our COVID-19 resource center at https://cvshealth.com/covid-19
+
+We offer a diverse work experience that empowers colleagues for career success. In addition to skill and experience, we also seek to attract and retain colleagues whose beliefs and behaviors are in alignment with our core values of collaboration, innovation, caring, integrity and accountability.
+
+CVS Health is an equal opportunity/affirmative action employer. Gender/Ethnicity/Disability/Protected Veteran we highly value and are committed to all forms of diversity in the workplace. We proudly support and encourage people with military experience (active, veterans, reservists and National Guard) as well as military spouses to apply for CVS Health job opportunities. We comply with the laws and regulations set forth in the following EEO is the Law Poster: EEO IS THE LAW and EEO IS THE LAW SUPPLEMENT. Please note that we only accept applications for employment via this site.
+
+We provide reasonable accommodations to qualified individuals with disabilities. If you need to request an accommodation, a qualified interpreter, written information in other formats, translation or other services, please contact our Advice and Counsel Reasonable Accommodations team by emailing Advice and Counsel Reasonable Accommodations team or calling 877-805-9511.
+
+If technical issues are preventing you from applying to a position, contact Kenexa Helpdesk at 1-855-338-5609 or cvshealthsupport@us.ibm.com. For technical issues with the Virtual Job Tryout, contact the Modern Hire Help Desk at 1-877-451-1695 or cvs_support@modernhire.com.

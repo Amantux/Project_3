@@ -1,0 +1,87 @@
+Machine Learning Engineer, Sr.
+Location
+
+
+Simi Valley, CA
+
+Employment type
+
+
+Regular - Full Time
+
+ID
+
+652
+
+Apply Now
+
+We are currently seeking a Sr. Machine Learning Engineer to join our team.
+
+The AeroVironment Engineering Autonomy team is looking to add a Senior level Machine Learning Engineer. This Senior Machine Learning Engineer will have the opportunity to lead engineering development and work with our R&D Group to develop a variety of innovative capabilities - computer vision detection, classification, localization, and tracking solutions for defense and commercial applications. These development efforts will generally be small focused design teams which will require a senior machine learning engineer to use a range of skills and tools across traditional engineering, computer science, and mathematical disciplines including computer vision, machine learning, optimization, deep convolutional neural networks, and visual tracking. This position will work on, and lead, a variety of stages of development including requirements definition, concept design, prototyping, detailed design, test and evaluation, and validation and verification testing.
+
+Position Responsibilities
+Lead development of computer vision and machine learning algorithms capable of detection, classifying, localizing, and tracking objects-of-interest from a group 1 UAV using the existing gimballed camera payload.
+Write and test software to Lead integration of autonomy algorithms into aircraft (such as autopilots, payloads, or other functional components) or other robotic systems.
+Exploring and visualizing data to gain an understanding of it, then identifying differences in data distribution that could affect
+Implement Machine Learning systems and validate designs through a series of purpose-designed experiments.
+Create objectives and develop models that help to achieve them, along with metrics to track their progress
+Perform design and analysis tasks using AeroVironment and industry developed tools.
+Managing available resources such as hardware, data, and personnel so that deadlines are met
+Leading Analysis of ML algorithms to solve a given problem and ranking them by their success probability
+Performance when deploying the model in the real world
+Verifying data quality, and/or ensuring it via data cleaning
+Supervising the data acquisition process if more data is needed
+Finding available datasets online that could be used for training
+Understanding the preprocessing feature based engineering to be done on a given dataset
+Training models and tuning their hyper-parameters
+Analyzing the errors of the model and designing strategies to overcome them
+Deploying models to production
+Study and transform data science prototypes
+Research and implement appropriate ML algorithms and tools
+Other Matrixed Skills include:
+Proficiency with a deep learning framework such as TensorFlow or Keras
+Proficiency with Python and basic libraries for machine learning such as scikit-learn and pandas
+Expertise in visualizing and manipulating big datasets
+Proficiency with OpenCV
+Familiarity with Linux
+Ability to select hardware to run an ML model with the required latency
+Computational statistics
+Mathematical optimization
+Data mining
+Exploratory data analysis
+Predictive analytics
+Special Requirement
+U.S. Citizenship required
+
+Basic Qualifications (Required Skills & Experience)
+BS in Computer Vision and Machine Learning with qualifications in any of the following fields: Mathematics, Optimization, Computer Science/Engineering, Electrical Engineering, Aerospace, or Mechanical Engineering with a minimum of 8 years experience or MS/Ph.D. related degree with 4 years of experience.
+Familiarity with C/C++ and Matlab required.
+Demonstrated ability to troubleshoot complex systems.
+Excellent verbal and written skills.
+Must be a team player and collaborate effectively.
+Familiarity with office software and computer-based productivity tools.
+Must be willing to work on government contracts and the ability to obtain a security clearance.
+Able to excel in a fast-paced, deadline-driven environment.
+ITAR Requirement:
+
+This position requires the use of information which is subject to compliance with International Traffic Arms Regulations (ITAR). To conform to U.S. Government export regulations/ITAR, applicants must be a U.S. Citizen, lawful permanent resident of the U.S. (or, green card holder), protected individual as defined by 8 U.S.C. 1324b(a)(3). Applicants cannot be hired until they are qualified to have such access. Some positions due to U.S. Government contract requirements will require current U.S. Citizenship.
+
+Benefits: AV offers an excellent benefits package including medical, dental vision, 401K with company matching, a 9/80 work schedule and a paid holiday shutdown. For more information about our company benefit offerings please visit: http://www.avinc.com/myavbenefits.
+
+We also encourage you to review our company website at http://www.avinc.com to learn more about us.
+
+Principals only need apply. NO agencies please.
+
+Who We Are
+
+Based in California, AeroVironment (AVAV) is a global leader in unmanned aircraft systems (UAS) and tactical missile systems. Founded in 1971 by celebrated physicist and engineer, Dr. Paul MacCready, we’ve been at the leading edge of technical innovation for more than 45 years. Be a part of the team that developed the world’s most widely used military drones and created the first submarine-launched reconnaissance drone, and has seven innovative vehicles that are part of the Smithsonian Institution’s permanent collection in Washington, DC.
+
+Join us today in developing the next generation of small UAS and tactical missile systems that will deliver more actionable intelligence to our customers so they can proceed with certainty – and succeed.
+
+What We Do
+
+Building on a history of technological innovation, AeroVironment designs, develops, produces, and supports an advanced portfolio of unmanned aircraft systems (UAS) and tactical missile systems. Agencies of the U.S. Department of Defense and allied military services use the company’s hand-launched UAS to provide situational awareness to tactical operating units through real-time, airborne reconnaissance, surveillance, and target acquisition.
+
+AeroVironment Incorporated is an equal opportunity employer, M/F/D/V and works in compliance with both federal and state laws. We are committed to the concept regarding Equal Employment opportunity. Qualified candidates will be considered for employment regardless of race, color, religion, age, sex, national origin, marital status, medical condition nor disability, genetics, veteran and all others that may appy.
+
+To view our CCPA Privacy Policy click here: https://www.avinc.com/legal/ccpa-privacy-policy

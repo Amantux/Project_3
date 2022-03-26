@@ -1,0 +1,40 @@
+Our Mission
+
+Move people.
+
+Our Values
+
+We are independent. Creative. Gutsy. We aren’t afraid to dream big. We are accountable. To our customers. To our cities. To each other. We are humble. Human. Lighthearted. We take our work seriously, but not ourselves.
+
+Mobility is the lifeblood of urban environments and cities need affordable, emissions-free transportation options that are free of delays. We believe that shared electric mopeds will become an integral part of transit networks, filling gaps not served by bike share, car share, scooter share, or public transit.
+
+About the role
+
+We’re looking for a data scientist who can quickly and easily learn their way around a variety of data structures and technology. With access to warehouses of real-time geospatial data as well as business operations data, this role will work with the rest of the Data Science team to develop both predictive and descriptive reporting, visualize data, and automate associated processes. You will report to the Senior Analyst, Data Science and Analytics.
+
+Requirements
+
+Technical
+2-3 years experience working as a data scientist/data analyst
+An applied understanding of machine learning and other modeling techniques
+Experience working with large data sets - geospatial data is a plus
+Strong knowledge of R, Python and SQL, particularly Postgres and PostGIS
+Experience with data visualization tools
+Familiarity with AWS services such as Kinesis, S3, EC2, RDS, and Redshift
+Ability to quickly understand new technologies and data environments
+Experience with a Unix-based operating system
+Non-technical
+Strong written and verbal communication skills.
+Ability to summarize key findings into clear and actionable recommendations, and to interact with individuals at all levels.
+Strong project management skills and ability to plan and prioritize work in a fast-paced environment.
+Sense of urgency and an ability to multitask
+Team player and willing to pick up extra responsibilities as required
+You are enthusiastic, reliable, and hardworking
+You take your work seriously but not yourself
+Responsibilities
+Understand business needs across multiple tiers (for example, executive, operations and logistics, business strategy, customer acquisition and retention)
+Build deep knowledge of relevant internal and external data repositories
+Translate data into meaningful and insightful information for business users via appropriate tools
+Work collaboratively with operations, customer success, marketing, product, finance, and other departments to help answer questions and define KPIs
+Prioritize and respond to ad hoc requests for information from the business and productionalize as necessary
+Build and automate visualizations and reporting

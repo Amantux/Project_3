@@ -1,0 +1,40 @@
+By applying for this role, you could choose to work in the following locations:
+New York City
+San Francisco
+
+DATA ENGINEER - HEALTH DATA ENGINEERING TEAM
+
+Are you an engineer who’s passionate about defending online users against abuse, spam, and manipulation? Will you be proud to work on a real-time, scalable pipelines that process terabytes of data to enable training and analysis of Machine Learning models, product analysis, and experimentation? If so, you should join us. Health is Twitter’s top priority and we need your help!
+
+Who We Are
+
+
+The mission of the Health organization at Twitter is to keep our users safe from negative experiences in a highly adversarial environment. This aligns with our company's #1 priority: growing the collective health, openness, and civility of public conversation.
+
+The Health Data Engineering team is responsible for designing, implementing, and maintaining data pipelines powering the most fundamental datasets used by the entire Health organization at Twitter. This team is also in charge of the best practices around building scalable, production-ready data processing solutions, as well as researching and implementing the most efficient mechanisms for data access. Health Data Engineering team will be partnering closely with all the engineering teams in the Health org to understand and improve its data production and consumption needs. We work on some of the world’s most highly-scaled distributed systems, handling hundreds of millions of tweets, engagements, and model-driven decisions each day. This team is foundational to making the most out of the data we have.
+
+What You’ll Do
+
+
+Here are some examples of what you’ll find yourself doing daily:
+Directly contribute to the design and code of the data pipelines operating on production data
+Improve approaches to efficiently handle ever-increasing volumes of data
+Lead end-to-end design and implementation of common components that accelerate and improve our ability to write efficient and reliable data pipelines
+Maintain efficiency and reliability of production of the critical datasets
+Evaluate and propose the best tooling and processes for data access and analysis
+Provide design and review support to the engineering teams working on data processing
+Continuously evaluate team’s processes to maintain a positive and efficient engineering culture
+Who You Are
+You have experience working in an environment that supports data analysis, experimentation, and Machine Learning modeling or its integration into a product.
+You have a solid understanding of backend and distributed systems and strong experience working with MapReduce-based architectures.
+You have experience in working with large volumes of data.
+You have a broad knowledge of the data infrastructure ecosystem.
+You are familiar with standard software engineering methodology, e.g. unit testing, code reviews, design documentation.
+You enjoy working in a collaborative environment and interact effectively with others.
+You ground your decisions with data and reasoning and can adapt to new information to make informed choices.
+You bring thoughtful perspectives, empathy, creativity, and a positive attitude to solve problems at scale.
+Here’s all the legal good stuff:
+
+We are committed to an inclusive and diverse Twitter. Twitter is an equal opportunity employer. We do not discriminate based on race, ethnicity, color, ancestry, national origin, religion, sex, sexual orientation, gender identity, age, disability, veteran, genetic information, marital status or any other legally protected status.
+
+San Francisco applicants: Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.

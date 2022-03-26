@@ -1,0 +1,57 @@
+Job Description
+
+
+Wirecutter is seeking a Data Engineer to help build the infrastructure, data architecture, and pipelines that power our business. Data Engineers operate within a distributed, agile, cross-functional squad. The data squad has an organization-wide impact by providing the data to inform the user experience, product, editorial, growth, and financial decisions at Wirecutter. The squad is responsible for the ETL processes, architecture, storage, reliability, accuracy, monitoring, and infrastructure surrounding our internal data and analytics.
+
+Our data engineering tech stack consists of:
+Python and Apache Airflow for ETL pipelines
+PostgreSQL database and S3 data lake in AWS RDS
+BigQuery analytics data
+Looker BI tool
+In this role, you will:
+Help drive the optimization, testing, and tooling to improve data quality.
+Write, debug, and test complex ETL processes for new or existing data pipelines.
+Write and maintain database design and architecture documentation.
+Maintain an understanding of Wirecutter's data platforms as well as the data platforms of our parent company, the New York Times
+Uncover dependencies and leverage features and tools from both the Wirecutter and New York Times
+Collaborate with your squad leaders and stakeholders on the scoping, planning, prioritization, successful execution, and rollout of complex technical projects to provide the foundation for generating insights and address additional data for reporting needs.
+Create new data models that are appropriately scalable, standardized, performant, and reliable.
+Evolve our current data models from production services into readily consumable formats for all downstream data consumption.
+Support and maintain the integrity and security of our internal data.
+Provide insight into changing database storage and utilization requirements.
+Recommend solutions that best align with our product and business goals, as well as the quality, reliability, and secure storage and replication of our data.
+Improve our development workflow and infrastructure.
+Share knowledge and problem solving with other members of your squad and the engineering team.
+Contribute to engineering initiatives and culture as a member of Wirecutter’s engineering team.
+About You:
+You have 3+ years in software or data engineering and scaling large data sets.
+You can design & optimize queries, data sets, and data pipelines to organize, collect and standardize data that helps generate insights and addresses reporting needs.
+You understand the challenges of reliable data replication, optimizing for a data warehouse, and maintaining the integrity of a data lake.
+You have experience reliably integrating and handling data from multiple APIs.
+You have experience building ETLs at scale on any major cloud provider (AWS, GCP: Cloud Composer, Kubernetes, etc.)
+You are thoughtful, clear, and persuasive in writing and in person.
+You have strong problem-solving skills and critical thinking abilities.
+You have experience listening to analysts and other business users, and can translate their needs into actionable tasks.
+You are excited to play a pivotal role in Wirecutter’s mission, innovation, and growth.
+You are passionate and enthusiastic about what you do.
+You have experience with version control, shell scripting, the Unix filesystem, and automating deployments.
+Ideally, you have production experience with Python and Apache Airflow.
+Ideally, you have experience with BI tools and managing data sets for BI tools.
+Ideally, you have a basic understanding of statistics and sampling.
+Ideally, you have experience working with Google Tag Manager and analytics data sets
+Ideally, you’ve worked as a member of a distributed team.
+About Wirecutter:
+
+Founded five years ago by journalists fed up with the time and energy it takes to shop, Wirecutter developed a simpler approach to giving buying advice: just tell people exactly what to get in one single guide. The company’s purpose: to help people find great things, quickly and easily. Through rigorous testing, research, reporting, and whatever means necessary, they create straightforward recommendations that save readers from unnecessary stress, time, and effort. We then monetize these guides by enabling our readers to easily purchase the products they are interested in.
+
+Locations:
+
+Wirecutter’s main office is located in Long Island City, Queens, NY. We have another small office located in Los Angeles. Wirecutter remains a highly remote culture, and our engineering department is 100% remote.
+
+Right now, we are only eligible to hire in the following locations: AZ, CA, CO, CT, DC, FL, GA, HA, IA, IL, MA, ME, MI, MN, MO, NH, NJ, NY, OH, OR, PA, TX, VA, WA.
+
+#LI-AM1
+
+The New York Times is committed to a diverse and inclusive workforce, one that reflects the varied global community we serve. Our journalism and the products we build in the service of that journalism greatly benefit from a range of perspectives, which can only come from diversity of all types, across our ranks, at all levels of the organization. Achieving true diversity and inclusion is the right thing to do. It is also the smart thing for our business. So we strongly encourage women, veterans, people with disabilities, people of color and gender nonconforming candidates to apply.
+
+The New York Times Company is an Equal Opportunity Employer and does not discriminate on the basis of an individual's sex, age, race, color, creed, national origin, alienage, religion, marital status, pregnancy, sexual orientation or affectional preference, gender identity and expression, disability, genetic trait or predisposition, carrier status, citizenship, veteran or military status and other personal characteristics protected by law. All applications will receive consideration for employment without regard to legally protected characteristics. The New York Times Company will consider qualified applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local \"Fair Chance\" laws.

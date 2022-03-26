@@ -1,0 +1,20 @@
+Job Description
+Role: Data Scientist Contractor- 6 months (ext. not guaranteed) Location: Scottsdale (primary) or remote
+
+Data Science projects:
+Sales forecasting and revenue forecast – using multiple regression
+ML projects for Customer Success: Predict customer attrition; use several data points to predict attrition/ or will they renew
+ML project for Cloud team : Anomaly detection- Some products hosted on BY private cloud; DS to find patterns in data to predict when an application could go down (ex: SF hosts products to us; they will want to know when it goes down to avoid cost) for predictive maintenance or anomaly detection
+Models:
+Classification, Regression models primarily
+Key skills needed :
+Data cleaning, Data wrangling, Data Visualization, Intellectual Curiosity, Business acumen, Communication Skills, Probability and Statistics, Machine Learning
+Tools/Environment must haves:
+Azure Databricks environment/environment experience,
+Python Programming skills – 3 years (In-depth knowledge of Python, Pandas and its open-source ecosystem or similar)
+SQL – 2- 3 years
+Spark ML – domain knowledge
+Visualization tools: Power BI or similar
+
+Company Description
+GTN provides Scalable Technical Staffing solutions encompassing SOW, staff augmentation, and direct hire placement for Fortune 2000 companies, with niche service offerings in Cyber Security, Digital, Payroll Management, and Professional Services.

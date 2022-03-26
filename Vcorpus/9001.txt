@@ -1,0 +1,39 @@
+About AutoGrid Systems
+
+At AutoGrid, you will join a team helping to accelerate the world's transition to a clean, affordable and reliable energy system. We're a growing and award-winning clean-technology company driving the fundamental transformation of the electrical grid into a distributed, decarbonized and digitized network of connected assets. You will collaborate with a team of world-class software, data and energy experts working at the forefront of advanced data science, artificial intelligence, machine learning and high-performance computing. Our solutions give you an opportunity to make a real-world impact. If you are passionate about using technology to improve society and love a fun, fast-paced work culture with opportunities for continuous learning and advancement, you will love AutoGrid.
+
+Position Overview
+
+As a member of the data science team you will develop AutoGrid's predictive controls platform. This high-performance forecasting, optimization and real-time control engine is the core component responsible for intelligently and continuously managing complex energy networks.
+
+Responsibilities
+
+Develop and maintain forecasting and optimization algorithms for AutoGrid's machine learning and predictive control systems
+
+Implement and deploy your algorithms on big-data platforms, in production
+
+Benchmark and debug critical issues with the algorithms and software as they arise
+
+Prototype new methods and analyses on customer data sets
+
+Work closely with product management, engineering and QA teams to manage the full product lifecycle including requirements, architecture, algorithmics and QA
+
+About you
+
+MS. or Ph.D. in computer science, operations research, statistics or related field
+
+Exposure to very large forecasting and optimization problems and techniques, including large-scale time series forecasting and stochastic linear programming
+
+Good understanding of algorithms, data structures and performance optimization techniques
+
+Excellent programming skills in Python, Java or C++
+
+Nice to have
+
+Experience building production python applications. Specifically, knowledge of the Celery and Django frameworks is a plus
+
+Hands-on experience with the energy industry
+
+Understanding of and experience with Big Data / NoSQL frameworks, Spark, HBase, Hadoop / MapReduce, HDFS, etc.
+
+Knowledge of relational databases (SQL)

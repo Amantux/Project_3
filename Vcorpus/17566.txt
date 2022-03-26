@@ -1,0 +1,30 @@
+Vydias Data Engineering & Data Science efforts are an integral part of our success. Through our data, we nurture our artists, creators, partners, and internal users with insights to help them engage their audience.
+Our Extract-Load-Transform workflows promote quick analysis and richer, complex investigations all at once, and our data warehouse supports both data science and analytics. Of all the terabytes of data we gather, one-third is well-structured, with the remaining being mostly semi-structured and some wholly unstructured. And, it currently doubles every 5.3 months!
+The Role:
+As a Sr. Data Engineer, you will own Vydias multitude of data pipelines. You will design and implement our ELT workflows, which originate at partner APIs and conclude in the Warehouse. You will work closely with our data science, BI, and product teams in figuring out current and future needs.
+As a leader on the Data team, your responsibilities will include:
+Ensuring the availability and timely delivery of data, company-wide
+Modeling new data sets and crafting all new ELT workflows and pipelines
+Lead the orchestration of the workflows and contribute strongly to infrastructure decisions
+Improving on and monitoring of existing pipelines and oversight of our ELT workflow
+Maintaining a single version of truth for our data and working with others to implement continuous integration (CI) data quality tests
+Mentoring and guiding your junior colleagues and leading with vision, and with respect to the companys data strategy
+
+
+Requirements:
+While we are not married to any tool or technology we also look for those intimately familiar with Python and have previous experience using Airflow, Docker and Kubernetes.
+We use AWS S3 & EC2 extensively, our current DW is on Redshift and our app relies mostly on Postgres. We use Looker in-house for BI and Product Engineers work mostly in Ruby and Python, while our data scientists work in R.
+About You:
+We want to learn more about you. If you feel like you are the right fit for this role, let us know.
+In our mind, being a perfect fit means that you have the necessary hard skills and expertise, and the complimentary soft skills.
+You are a Python pro and have regularly used AWS or Google Cloud Platform to manage data and move it between applications
+Do you love APIs? When you encounter a new one, do you study it inside and out and learn every corner of it, as though you designed it yourself?
+Working with deeply-nested, complex JSON is a fun day at the office for you.
+You can articulate the merits and pitfalls of the different approaches in designing a pipeline.
+You are passionate about data quality control and know how and where to anticipate potential errors.
+Working in the cloud is not a point of distinction for you, it is a given.
+You understand what it means to work at a tech startup. Hopefully, this is what excites you more than anything else about working here.
+You intuitively know how to extract value and insights from data.
+You love the idea of building the data scene in NJ and being a leader in this community.
+You have orchestrated workflows using Airflow and are familiar with the challenges and how to overcome them.
+Critically, you're a person who thinks in data; you relate the real world to data, and vice-versa. You understand that data is not the end goal but a vehicle to help get us where we are going, and you see your role as the person most critical in making that happen.

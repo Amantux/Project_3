@@ -1,0 +1,39 @@
+At SailPoint, we do things differently. We understand that a fun-loving work environment can be highly motivating and productive. When smart people work on intriguing problems, and they enjoy coming to work each day, they accomplish great things together. With that philosophy, we’ve assembled the best identity team in the world that is passionate about the power of identity.
+
+As the fastest-growing, independent identity and access management (IAM) provider, SailPoint helps hundreds of global organizations securely and effectively deliver and manage user access from any device to data and applications residing in the data center, on mobile devices, and in the cloud. The company’s innovative product portfolio offers customers an integrated set of core services including identity governance, provisioning, and access management delivered on-premises or from the cloud (IAM-as-a-service).
+
+SailPoint is seeking a Sr/Staff Data Software Engineer to help build a new cloud-based identity analytics product incorporating real-time data pipelines, machine learning algorithms and multi-tenancy support. We are looking for well-rounded backend or full stack engineers who are passionate about building and delivering reliable, scalable microservices and infrastructure for SaaS products.
+
+Responsibilities
+Collaborate with peers on requirements, designs, code reviews, and testing
+Produce designs and rough estimates, and implement features based on product requirements
+Deliver efficient, maintainable, robust Java/Scala based microservices
+Produce unit and end-to-end tests to improve code quality and maximize code coverage for new and existing features
+Productize and operationalize machine learning algorithms
+Actively engage in technology discovery that can be applied to the product
+Requirements
+7-10 years of professional software development experience
+2+ years of data engineering or related experience
+Strong Java and/or Scala experience
+Experience with Agile development practices and continuous delivery
+Proficient understanding of distributed computing principles. microservice architectures and patterns
+Experience with integration of data from multiple data sources
+Experience writing unit and integration tests
+Great communication skills
+BS in Computer Science or a related experience
+Preferred
+Experience with Cloud computing architectures (AWS, Google Cloud)
+Experience with Kafka, Flink/Spark, Elasticsearch technologies or related
+Experience integrating data pipelines for machine learning
+Experience with container technologies (Docker, Kubernetes, etc.)
+Experience with NoSQL databases, such as Redshift, Cassandra, DynamoDB
+Experience instrumenting code for gathering production performance metrics
+Compensation and benefits
+Experience a Small-company Atmosphere with Big-company Benefits
+Competitive pay, 401(k) and comprehensive medical, dental and vision plans
+Recharge your batteries with a flexible vacation policy and paid holidays
+Grow with us with both technical and career growth opportunities
+Enjoy a healthy work-life balance with flexible hours, family-friendly company events and charitable work
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.
+k
+All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or veteran status.

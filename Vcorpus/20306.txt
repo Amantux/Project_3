@@ -1,0 +1,112 @@
+Data Analyst I
+
+Job Category:
+
+Information Technology
+
+Department:
+
+Population Health Management
+
+Location:
+
+Los Angeles, CA, US, 90017
+
+#job-location.job-location-inline {
+display: inline;
+}
+
+Position Type:
+
+Full Time
+
+Requisition ID:
+
+5984
+
+Established in 1997, L.A. Care Health Plan is an independent public agency created by the state of California to provide health coverage to low-income Los Angeles County residents. We are the nation’s largest publicly operated health plan. Serving more than 2 million members in five health plans, we make sure our members get the right care at the right place at the right time.
+
+Mission: L.A. Care’s mission is to provide access to quality health care for Los Angeles County's vulnerable and low-income communities and residents and to support the safety net required to achieve that purpose.
+Job Summary
+The Data Analyst I supports quality and process improvement activities by producing healthcare outcome measurements that are used for internal and external reporting, the tasks including data quality assurance, process programming, specification documentation and report developing. The position applies technical skills to design, develop, and generate ad hoc or production reports that may evolve into complex data analysis/data integration projects that this position may be responsible for maintaining. The complex data analysis/integration projects are those which may require periodic maintenance on a weekly, monthly, quarterly, biannual, or annual basis. The position works with Information Systems analysts when ongoing reports can be accurately transferred for production.
+
+The position interprets and documents both written and verbal specifications. The position takes basic instructions or specifications and interviews the client for complete details sufficient for writing data queries based for ad hoc and ongoing health care measures. The position must comprehend the relationships between the field elements in encounters and claims, membership, and provider databases. Must be able to apply and/or develop technical specifications for health care measures such as those used by NCQA HEDIS and CDC. Must demonstrate appropriate SAS skills in developing programs and procedures for analytics and quality assurance. Working knowledge of basic to medium SAS programming skills are highly preferred.
+
+The Data Analyst I is a key resource to the HOA department on application use. The position supports the functions related to quality improvement activities inclusive of quarterly reports that demonstrate health care outcomes in comparison to targets or national averages/percentiles published by recognized organizations such as NCQA and CDC.
+Duties
+Investigate and document organizational data flow and sources.
+Provide thorough documentation regarding current 1) data sources 2) data flow 3) current process and procedures to code, group, QC, link and seed the data.
+
+Develop SAS procedures to create, maintain, QC the clinical data schema/data warehouse.
+
+Develop analytical programs, databases, routine procedures using SAS programming language.
+
+Design, develop, and generate ad hoc/production reports.
+
+Maintains complex ongoing data projects. Produce accurate analysis as allowed by resources. Identifies and creates work-arounds to create valid results that meet the intent of the client's specifications. Produces periodic results as scheduled.
+
+Communicate with stakeholders/clients/collaborators regarding project details and plans.
+
+Educate/Tutor clients on maintenance/usage of database/solutions designed.
+
+Perform other duties as assigned.
+Education Required
+Associate's Degree
+In lieu of degree, equivalent education and/or experience may be considered.
+Education Preferred
+Bachelor's Degree in Information Systems or Statistics
+Experience
+Required:
+A minimum of 4 Years of demonstrated ability to use relational databases for the purpose of generating ad hoc reports.
+
+Preferred:
+Previous experience with report generation using health care data with focus on elements from encounter/claims, membership, and provider data.
+
+At least two years work experience in health plan.
+
+Past work with membership, provider, and claims encounter/claims.
+
+Demonstrated ability to take responsibility for making sure requested projects meet the client's needs with respect to data accuracy, format, and timeliness.
+Skills
+Required:
+Basic SAS programming skills.
+
+Able to apply critical thinking in evaluating priorities/solutions.
+
+Analytic skills include the ability to identify data aberrations and recognize data patterns that impact quality.
+
+Must be able to present data in a format that is appropriate for analysis. This includes the ability to determine select the correct information for calculating basic rates, table configuration, and graphical presentations.
+
+Must demonstrate an aptitude in learning and expanding abilities to use new applications with basic training.
+
+Must be a self-starter and multi-tasked who takes charge of projects assigned.
+
+Must be able to make recommendations to the clients that demonstrate strengths and limitations of the organization's ability to meet the request.
+
+Working knowledge of MS Access, Excel, and Word software.
+
+The ability to work well in a team setting with positions having professional backgrounds in the technical and/or clinical fields.
+
+Must demonstrate the ability to work independently and seek solutions proactively.
+
+Persuasion Skills: In a situation where discrepancy occurs between two sets of queries, the data analyst should be able to review both sets of queries and explain which set is accurate and why. Errors found in reference databases need to be referred up to IS for correction. The analyst must convince the appropriate party why the error must be corrected.
+
+Preferred:
+Medium SAS programming skills.
+Licenses/Certifications Required
+Licenses/Certifications Preferred
+Project Management Professional (PMP)
+Required Training
+Additional Information
+
+L.A. Care offers a wide range of benefits including
+Paid Time Off (PTO)
+Tuition Reimbursement
+Retirement Plans
+Medical, Dental and Vision
+Wellness Program
+Volunteer Time Off (VTO)
+
+Nearest Major Market: Los Angeles
+Job Segment:
+Medical, Claims, Public Health, Healthcare, Insurance

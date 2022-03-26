@@ -1,0 +1,33 @@
+Our client is a health tech startup in NYC hiring a senior data
+engineer. The ideal candidate has experience with Python,
+airflow, and BigQuery. Experience with data modeling and
+building data pipelines is required
+
+Some responsibilities include:
+
+Design
+creative data architectures that align with business objectives
+
+Collaborate
+with team to ensure new sources of data / events are accounted
+for within our databases
+
+Deliver high
+performance data pipelines that package data in a consumable
+format for data
+analysts
+
+Requirements
+3-4
+experience as a Data Engineer / Analytics Engineer
+Experience
+with MongoDB & Bigquery / GCP
+Deep
+technical knowledge of and experience with Airflow
+Ability to
+translate business requirements into robust technical design
+Ability to write
+production quality ELT code with an eye towards performance and
+maintainability
+
+If interested please send resume to kevin@ingenium.agency

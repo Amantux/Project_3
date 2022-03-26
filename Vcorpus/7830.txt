@@ -1,0 +1,31 @@
+Master's degree in Computer Science, Computer or Electrical Engineering, Mathematics, Physics, Statistics, Economics or a related field
+
+5+ years of experience producing models and analytics for business applications
+
+Breadth of experience in standard machine-learning and statistical modeling tools and techniques (e.g. random forests, gradient-boosted regression, LASSO, logistic regression)
+
+Experience in programming in R, Python, Scala or similar languages and maintaining code repositories in git
+
+Experience with data visualization and presentation, turning complex analysis into insight
+
+The IMDb TV team is shaping the future of digital video entertainment. Our mission is to build earth’s most customer centric ad supported premium free video service and make it trivially easy for hundreds of millions of customers to enjoy. Our team is re-inventing how to find content and building a new video destination.
+
+We need to make agile decisions based on what content creates the most value for our customers and pursue the most efficient content acquisition strategies for our desired outcomes. We are seeking an innovative Data Scientist to predict and measure the benefit of different IMDb TV titles and their impact on customer engagement as well as advertiser value. This position will be responsible for designing and building the suite of models that will predict content performance as well as the interface used by our content acquisition team to assess content for use in real time deal evaluations.
+
+This role requires a team member with strong quantitative modeling skills and the ability to apply statistical/machine learning methods to large amounts of customer and title level data. The candidate should have strong communication skills, be able to work closely with stakeholders and translate data-driven findings into actionable insights. The successful candidate will be a self-starter comfortable with ambiguity, with strong attention to detail and an ability to work in a fast-paced and ever-changing environment. This person will also be proficient in communicating their recommendations directly to advertising and video leadership.
+
+This position will be part of the Prime Video Content Research team, which includes a diverse scientific team of computer scientists and economists as well as other data scientists who build statistical models using world-class data systems and partner directly with the business to implement the solutions. We use detailed customer behavioral data (e.g. streaming history) and detailed information about content (e.g. IMDb-sourced characteristics) to predict and understand what customers like to watch. As a Data Scientist at Amazon, you will have the opportunity to work on one of the world's largest consumer data sets and influence the long term evolution of our analytics capability.
+
+This is very much Day 1 for IMDb TV. You would be joining an entrepreneurial and pioneering team working to reinvent ad supported television.
+
+Excellent quantitative modeling, statistical analysis skills and problem-solving skills. Sophisticated user of statistical tools
+
+Experience collaborating with software development teams, data scientists, business intelligence or other technical roles
+
+Excellent communication including direct correspondence with senior leadership
+
+Demonstrable track record dealing well with ambiguity, prioritizing needs, and delivering results in an agile, dynamic environment
+
+Experience with AWS features (S3, Redshift, Sagemaker)
+
+Amazon is an Equal Opportunity-Affirmative Action Employer – Minority / Female / Disability / Veteran / Gender Identity / Sexual Orientation

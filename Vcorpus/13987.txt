@@ -1,0 +1,31 @@
+About Foursquare:
+
+Foursquare is the leading independent location technology platform, powering business solutions and consumer products through a deep understanding of location. Over 1,000 clients—including more than 50% of the Fortune 100—choose Foursquare.
+
+Foursquare's toolkit includes Placed powered by Foursquare, Audiences powered by Factual and Proximity powered by Factual, Analytics Solutions, Places, Pilgrim SDK and Pinpoint. Together, these products empower brands to measure foot traffic lift via multi-touch attribution; deliver proximity-based advertising; analyze and identify trends; drive deeper engagement via Foursquare's industry-leading developer tools, which have been selected by 200,000 developers including AccuWeather, Apple, Samsung, Microsoft, Snapchat, Twitter and Uber; and optimize advertising campaigns across hundreds of audiences. Over 14 billion consumer-verified place visit confirmations help us keep our map and models fresh and up-to-date.
+
+Foursquare has more than 400 employees based in New York headquarters with offices in Seattle, Los Angeles, San Francisco, Chicago, Singapore and London. In 2019 Foursquare acquired Placed from Snap Inc, and then in 2020 merged with Factual. Foursquare is proud to be funded by The Raine Group, Simon Ventures, Naver, Union Square Ventures, Andreessen Horowitz, DFJ Growth, Morgan Stanley Alternative Investment Partners and more.
+
+About our Senior Data Scientist Role:
+
+As a member of Foursquare's data science team, you'll be responsible for owning important methodological components of our leading foot traffic measurement platform. The methodologies we employ are varied which creates a rich environment for the application of data science technology. This is not just a machine learning job. We look for data scientists who are excited by the challenge of solving problems using a wide array of modeling and quantitative techniques.
+
+To be successful, you'll have to have a deep technical understanding of data science concepts across the disciplines of research methods, causal modeling, applied statistics and machine learning. You'll also have the ability to build large-scale prototypes of your novel methodologies from the ground up.
+
+The ideal Senior Data Scientist will also want to grow the impact that they have across the organization by taking on increasing responsibilities.
+
+Responsibilities of the role:
+Build supervised and unsupervised learning systems to extract visitation behavior from sensor data.
+Drive feature engineering and experimentation to improve performance of our various algorithms
+Collaborate with engineering teams on implementing and deploying large scale data processing pipelines
+Build internal tools for monitoring and investigation purposes
+Lead cross-team cooperation and mentor junior scientists
+Qualifications
+5+ years of work or educational experience in data science, machine learning, and statistics.
+PhD degree or comparable research experience in a quantitative field
+Proven track record of delivering on products and/or practical research endeavors
+Experience with the Python science stack and/or Scala required
+Experience with Hadoop, Spark, or similar frameworks is a plus
+Foursquare is proud to foster an inclusive environment that is free from discrimination. We strongly believe in order to build the best products, we need a diversity of perspectives and backgrounds. This leads to a more delightful experience for our users and team members. We value listening to every voice and we encourage everyone to come be a part of building a company and products we love.
+
+Foursquare is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, protected Veteran status, or any other characteristic protected by law.

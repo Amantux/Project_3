@@ -1,0 +1,54 @@
+Data Science at Policygenius...
+
+Policygenius continues to disrupt the insurance industry by delivering innovative technology-driven experiences. We are advancing our tech capabilities and learning to leverage our hordes of data to develop innovative machine learning applications. We are relentless in our drive to reliably deliver outstanding products at scale. We are growing fast, but we can go further faster with experienced, collaborative, challenge-seeking data engineers like yourself.
+
+Our data science team builds machine learning applications that are embedded into our consumer facing applications or power our processes to make us more efficient. We partner with Product, Design, Engineering and numerous stakeholders across the company to develop deeper predictors of behavior and build solutions to optimize our internal and external experiences.
+
+In this role, you will…
+Take complicated algorithms, code review, optimize for production and integrate into product features or process flows.
+Design data architecture that is simple, fault tolerant and requires little overhead.
+Design data pipelines utilizing ETL tools, event driven software or cloud functions and other streaming software.
+Partner with both data scientists and engineers to bring our amazing concepts to reality. This requires learning to speak the language of statisticians as well as software engineers.
+Work directly with stakeholders to ingest new sources of data, but also work to manage our self service data model.
+Develop internal data science specific tooling for solutions such as A/B testing, learning sharing and analysis repositories and machine learning components.
+Ensure ultimate reliability in data pipelines and enforce data governance, security and protection of our customer's information.
+Mentor data engineering team members and even data scientists in architecture and coding techniques.
+We'd love to hear from you if…
+You have 3-5+ years of experience as a software engineer or data engineer coding in Python and using SQL.
+You are acquainted with designing custom machine learning pipelines that integrate into production environments that are customer facing.
+You understand life is not all machine learning and simple pipelining is often extremely relevant to add business value.
+You are obsessed with reducing lag, building scalable systems, optimizing performance, automating things and solving complex problems!
+You have some awareness of machine learning concepts.
+You have 3-5+ years of experience working in a consumer facing business.
+You have experience working on product teams, but also collaborating with other data science team members.
+You have a background in computer science or related.
+You can communicate with a team and articulate ideas to both team members and non-technical stakeholders.
+You have a drive to learn and master new technologies and techniques.
+You have experience with relational cloud databases like Redshift, BigQuery, Snowflake, but also comfortable working with unstructured files and datasets.
+You can expect...
+Company-paid health, dental, vision, life & disability insurance
+401(k) plan, FSA & commuter benefits
+Generous PTO
+Training, mentorship and coaching from leadership
+The opportunity to grow alongside a company shaking up a big, old-fashioned industry
+Fun, diverse, open-minded coworkers
+Dog companionship!!!
+Technologies You Will Use
+Python for data pipelining and automation.
+Google Cloud Platform: Kubernetes, Cloud SQL, Cloud Functions, PubSub, BigQuery, DataStore, and more: we keep adopting new tools as we grow!
+Airflow for data pipelining.
+Tableau for data visualization and consumer facing dashboards.
+Many more to come!
+About Policygenius
+
+Policygenius is America's leading online insurance marketplace. Since 2014, our mission has been to help people get the financial protection they need (and feel good about it). We make it easy for our customers to understand their options, compare quotes, and buy insurance, all in one place. To date, we've helped more than 30 million people shop for all types of insurance and placed over $45 billion in coverage.
+
+At Policygenius, we're proud of building an environment that encourages our teammates to bring their authentic selves to work. Despite rapid growth (we've doubled in size year over year!), we've continuously maintained our inclusive culture through humility, hard-work, and humor, and we're looking for more people with grit, collaborative attitudes, and creative problem-solving skills to join our team. Come see why we've been voted one of Inc. Magazine's "Best Workplaces" two years in a row!
+
+Diversity at Policygenius
+
+Policygenius believes differences should be celebrated and is committed to building a team as diverse as the customers we serve. We welcome different perspectives and opinions to foster innovation, authenticity, and excellence across all parts of our company, and are committed to providing employees with a work environment free of discrimination and harassment.
+
+As an Equal Opportunity Employer, Policygenius highly encourages applicants from all walks of life. All employment decisions at Policygenius are based on business needs, job requirements and individual qualifications without regard to actual or perceived race, color, sex, pregnancy, sexual orientation, gender identity or expression, age, national origin, political affiliation or belief, religion, disability, uniformed service, marital status or any other status protected by law.
+
+Come join the team!

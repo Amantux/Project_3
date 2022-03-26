@@ -1,0 +1,70 @@
+Overview:
+
+WHATS THE REAL TITLE?
+
+The Data Architect - Sherlock Holmes
+
+WHO ARE WE?
+
+Nomi Health is the modern payment system for employee healthcare. We sidestep the middlemen, and connect employers providers and families directly at scale to cut healthcare costs by 30% across America. We will do this by eliminating high cost out of network charges, making the process all digital with easy access to real data and understandable actions.
+
+The company is in stealth mode right now and has raised over $10M in seed funding which will be used to hire and develop the product, technology and go-to-market team.
+
+Nomi Health is led by Mark Newman (Founder/CEO) , Josh Walker (Co-Founder, COO) and Boe Hartman (Co-Founder, CTO). Both Mark, Josh and Boe have a proven track record in the HR Tech, Health Tech, Health plans, Pharmacy and Financial Service industries. Mark, previously Founder/CEO of HireVue where he scaled the company from 0 to $40m ARR with a successful exit of over $500M. Josh, comes with 18+ years of experience in healthcare as COO at Imagine Health, Upwell and OptumInsight where he has first-hand experience in international and domestic healthcare markets leading and expanding business growth. Boe has served in multiple senior positions across global banking for over 25 years. Most recently, at Goldman Sachs as a Partner, where he led the firms launch of its digital consumer bank; Marcus By Goldman Sachs and the firm's entry into the consumer credit card market.
+
+:
+
+WHICH LEADER IS RESPONSIBLE FOR YOUR GROWTH AND DEVELOPMENT?
+
+Chief Technology Officer
+
+WHY IS THIS ROLE CRITICAL?
+
+We are looking for a Data Science Architect who can pave the way for more work in the data field and start by analyzing our current needs and use data to generate value with Nomi Healths end goal in mind. From this goal, you will design the architecture and the analytics pipelines while taking into account appropriate time frames, and costs.
+
+Since we are early in our journey and we will be soon dealing with a lot of data, this person will set the stage for future work of data scientists and data engineers. This person will also be responsible to create a solid data strategy and help instill a data driven culture.
+
+WHAT IS A DAY IN THE LIFE?
+
+As a Data Science Architect you will provide deep technical and domain subject knowledge to the company and future customers. You should be able to know how to examine new data systems requirements and implement migration models. You will also spend a good deal of time problem solving, analyzing architecture and assessing architect models, reviewing data migrations, selecting platforms and on-boarding of data management solutions that meet the technical and operational needs of the business. You must be hands-on with tools and code.
+
+Requirements:
+
+OK, HOW ABOUT A FEW SPECIFIC RESPONSIBILITIES?
+Lead the development of the ML capabilities for the NoMi Health
+Develop and implement data models to guide business decisions
+Mapping data sources, including descriptions of the business meaning of the data, its uses, its quality, the applications that maintain it and the database technology in which it is stored. Documentation of a data source must describe the semantics of the data so that the occasional subtle differences in meaning are understood.
+Documenting interfaces and data movement by recording how mapped data is moved around the virtual enterprise. This includes the frequency of movement, the source and destination of each step, how the data is transformed as it moves, and any aggregation or calculations.
+Designing the movement of data through the enterprise, including sources of data and how the data is moved around in order to be improved.
+Defining integrative views of data to draw together data from across the enterprise. Some views will use a database of extracted data and others will bring together data in near real time, considering data currency, availability, response times and data volumes. Designing canonical data views to limit technical debt as data flows from point-to-point transformation.
+Defining technical standards and guidelines. Assess and document when and how to use the architected producers and consumers, the technologies to be used for various purposes, and models of selected entities, objects and processes. The guidelines should encourage reuse of existing data stores, as well as address issues of security, timeliness and quality.
+Investigate and participate in emerging technologies and new release Proofs of Concept (PoCs).
+Leveraging existing [core] data assets.
+Managing related metadata to include business descriptions of the data, details of any calculations or summaries, descriptions of the sources of the data, and indications of data quality and currency.
+Communicating the data architecture across the enterprise.
+Ensuring a focus on data quality by working effectively with data stewards so they can understand data semantics and identify opportunities for improving data quality.
+Data Science Architect requirements are:
+Bachelor's degree in Computer Science, Computer Engineering or relevant field.
+A minimum of 3 years' experience in a similar role.
+Must have AWS or Azure experience. (Snowflake, Databricks, S3 desirable)
+Must have ELT experience
+Must have coding experience (python, JAVA, R),
+Familiarity of system concepts and tools within an enterprise architecture framework.
+Knowledge of various modern data formats, tools, and methodologies. (Infomatics desirable)
+Excellent organizational and analytical abilities.
+Outstanding problem solver.
+Good written and verbal communication skills.
+Nomi Health is offering a highly competitive compensation package with an attractive base salary as well as a significant equity stake into the company at an early stage.
+
+Benefits:
+
+Health, Dental, Vision, 401k with match, Commuter benefits with Great Pay, plus Equity.
+
+Company Introduction:
+You are the real payer in healthcare.
+
+We are sick and tired of how expensive healthcare in America is. We believe a healthcare system should exist where you can go to the same doctor, receive the same care and it costs you 30% less with everyone that matters - you, your employer, and the provider all beyond happy.
+
+Nomi Health is working on a way to simplify the mess of paying for healthcare in America. Its time for a revolution in 2020. Join the fight.
+
+We are looking for amazing software engineers, data scientists, evangelizers, go to market and healthcare experts who are sick of the status quo to join our team to fight how much healthcare costs in America.

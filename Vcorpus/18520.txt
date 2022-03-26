@@ -1,0 +1,44 @@
+Overview
+
+goPuff is seeking a developer responsible for designing, building, and operating our software to provide a world class customer experience. Your primary responsibility will be to continually improve web-based cloud-native systems as you add features critical to our customer experience. A commitment to collaborative problem solving, elegant design, and a quality product is essential. We are biased towards action and a feature is considered ‘Done’ once it is shipped and confidently running in production.
+
+Responsibilities
+Participate in cross-functional projects in a lean environment
+Implement automated unit and integration tests (TDD preferred)
+Translate verbal requirements into written use cases and testable stories
+Design, build, and maintain efficient, reusable, and reliable code in a cloud environment
+Code maintainability and clarity is desired over performance
+Identify bottlenecks and bugs, and devise solutions to mitigate and address these issues
+Operationally support the system for correctness of the business
+Monitor analytics to ensure the health of the system
+Qualifications
+Understanding of modern web, front end and server, and cloud applications
+Production experience using Javascript and node
+Experience working with meaningful Continuous Integration systems
+Experience deploying on unix in a production setting
+Knowledge of with SQL
+Understanding of message based, async processing
+Experience with a variety of web services including REST and HTTP cache-semantics
+Production experience with either Azure or AWS
+Familiar with cloud data storage solutions, S3, Azure Storage Accounts
+Familiar with Azure, specifically Function apps
+Understanding of the npm ecosystem and best practices
+Familiar with functional programming concepts
+Familiar with various design and architectural patterns including concurrency patterns
+Understanding of fundamental design principles for building a scalable application
+Effective communication skills and ability to document technical designs
+Experience creating data models and database schemas that represent and support business processes
+Experience implementing automated testing platforms and unit tests
+Proficient understanding of code versioning tools, Git and Github preferred
+6+ years as a professional software developer
+About Us
+
+The only predictable thing about life is that it’s wildly unpredictable. That’s where we come in.
+
+When life does what it does best, customers turn to goPuff to deliver their everyday essentials, and to get through their day & night, work day and weekend.
+
+We’re assembling a team of thinkers, dreamers & risk-takers...the kind of people who know the value of peace of mind in an unpredictable world. (And people who love snacks.)
+
+Like what you’re hearing? Welcome to goPuff.
+
+The goPuff Fam is committed to an inclusive workplace where we do not discriminate on the basis of race, sex, gender, national origin, religion, sexual orientation, gender identity, marital or familial status, age, ancestry, disability, genetic information, or any other characteristic protected by applicable laws. We believe in diversity and encourage any qualified individual to apply. We are an equal employment opportunity employer.

@@ -1,0 +1,31 @@
+Role Background:
+
+Were looking for agreat Data Engineer for our growing Analytics team. Youll be responsiblefor all things data: building out our streaming and batch ETL pipelines,curating and anonymizing data thats being generated from various sources,designing and building the data warehouse, and so on.
+
+Well expect you to havean in-depth knowledge of distributed systems and data flows. Combinedwith an understanding of business intelligence and performance requirements,youll breathe life into data and help make it an invaluable part of theplatform and business.
+
+If you are aself-starter, excited about building a culture around data-driven decisions,motivated by making an impact, and pushing the boundaries of your knowledge,you will excel here and do great things!
+
+The Role
+Design, implement, and maintain an ever-growing ETL pipeline using state-of-the-art technology
+Use best practices and standards for managing large collections of data for analytics
+Discover and integrate new heterogeneous data sources
+Work closely with data analysts, data scientists, and product managers enabling them to provide insight into key performance metrics of the business
+Help to improve data reliability, efficiency, and quality
+Your Qualifications:
+4+ years of experience designing and developing a data warehouse on a distributed database platforms, such as Snowflake or Redshift
+Experience designing, developing, and maintaining high-throughput and low-latency ETL pipelines
+Experience with data modeling, data access, and data storage techniques
+Experience with big data tools such as Apache Spark
+Proficient in SQL and Python
+Proficient with at least one RDBMS (MySQL or Postgres preferred)
+Successfully implemented data pipelines in the public cloud, especially Amazon Web Services
+Strong analytical and interpersonal skills
+Enthusiastic, highly motivated and ability to learn quick
+Benefits & Perks
+Robust health benefits packages including access to a 401k and various medical, dental and vision plans, and $100/month fitness reimbursement
+Full support for remote work during COVID-19
+Daily lunch delivery credit and other goodies sent to home
+Regular company-wide social events (even virtually!)
+Generous annual education stipend toward job-related external learning opportunities
+An extremely enthusiastic team that appreciates collaboration

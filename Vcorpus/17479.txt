@@ -1,0 +1,28 @@
+Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.
+
+The Capital Engineering team is responsible for building systems central to financial activity at Affirm. We are passionate about building robust, fault tolerant and highly scalable systems which enable us to be on-time and precisely accurate in every financial interaction we have.
+
+Under the larger umbrella of Capital Engineering, the Investor Experience (IX) Engineering team in particular partners with the Capital Markets business team, to implement innovative ways to fund loans taken out by the consumers. Funding strategies include debt-warehouses, loan buying institutions and other more complex ones.
+
+The IX engineering team is building a robust platform that will allow us to report on investor portfolios, transaction histories, transmission of information to 3rd party counterparties and investors. The team is also building frontends for visibility into portfolios, transactions and reporting documents to internal stakeholders. We also build modules which help in servicing our investors, relating to fees, balances, and historical calculations. The IX team is a high visibility team, as it is core to funding the business, deals with large volumes and works in an environment where we need to build systems that can deliver robust, creative and adaptable systems in a dynamic funding landscape. We are also looking to re-write some of our core modules and look at it in a holistic manner across Capital Engineering, so architecturally it is a very exciting time to join the team.
+
+What you'll do
+Design and build an industry-leading platform which executes on our capital markets strategy and enables us to easily grow funding capacity by on-boarding new investors.
+Design and build a new platform which manages self service deal life cycles for capital markets
+Enhance and refactor core modules of the IX platform to make it more extensible, robust and performant.
+Engineer robust instrumented data pipelines which can scale to handle Affirm's future growth and adhere to strict SLAs.
+Collaborate with engineers across our SF and NYC offices.
+Partner cross-functionally with product and business teams such as Capital Markets and Treasury to understand requirements and translate them into scalable and robust solutions.
+What we look for
+Passion to drive the change in consumer banking for the better.
+Strong proficiency writing production-quality code and solid CS fundamentals.
+Experience building robust scalable data pipelines.
+Experience building real time web services.
+Solid communication skills.
+Finance experience - ABS, warehouse financing, forward flow.
+
+If you got to this point, we hope you're feeling excited about the job description you just read. Even if you don't feel that you meet every single requirement, we still encourage you to apply. We're eager to meet people that believe in Affirm's mission and can contribute to our team in a variety of ways not just candidates who check all the boxes.
+
+At Affirm, "People Come First" is a core value and that's why diversity and inclusion are vital to our priorities as an equal opportunity employer. You can learn more about our D&I efforts here.
+
+By clicking "Apply for this job," I acknowledge that I have read the Affirm Employment Privacy Policy, and hereby consent to the collection, processing, use, and storage of my personal information as described therein.

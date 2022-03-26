@@ -1,0 +1,25 @@
+Trace Data is developing a ground breaking product to help companies monitor and secure their data. We're integrating the world of security, observability and connectivity. We're looking for people with a strong background or interest in building successful products and systems; you're comfortable in dealing with lots of moving pieces; you have exquisite attention to detail; and love learning new technologies and systems.
+
+As our Data Scientist, you will:
+Develop large scale machine learning algorithms that support monitoring, privacy and security capabilities.
+Own the machine learning algorithms that power core features in the product such as the identification of sensitive data, automated data classification and anomaly detection using unsupervised and deep learning techniques ranging from computer vision algorithms for pattern recognition to variational auto-encoders to NLP.
+Design, build, and launch efficient & reliable new data models, schemas and pipelines to enable analysis, modeling and machine learning.
+Partner with product managers, designers, and engineers to prototype and productize data mining features.
+Advise on best practices and statistical methods for measuring and evaluating experiments.
+You may be fit for this role if you:
+Have experience of building products from the ground up.
+Have a Bachelor's/Master's degree or higher in a technical field such as Computer Science, Statistics, Economics, Operations Research, Math, Physics or Engineering.
+Have a deep theoretical understanding of modern machine learning algorithms, statistical models or optimization.
+Have experience with data tools such as Python, R, SAS, SQL, etc and strong skills in data analysis, data visualization and engineering.
+Have the ability to own your modeling work from model development all the way to launching into production with minimal help from engineers.
+Have experience with MapReduce, Spark, Hive, HBase, Google BigQuery, BigTable is a plus. Experience ML frameworks like Tensorflow, PyTorch, Spark MLlib, XGBoost, and Scikit-Learn is a plus.
+You're a strong communicators; explaining complex technical concepts to product managers, data analysts, and other engineers shouldn't be a problem for you.
+About Trace Data
+
+Trace Data is an early stage startup founded in 2019 and headquartered in Oakland, California. We're backed by top tier investors including Accel and Kleiner Perkins.
+
+We're a highly cross-functional organization and encourage as much collaboration as possible. We have a culture of transparency that we carry through to internal communication, ensuring everyone has the information they need to make great decisions. We value humility, respect and diversity. We look for people who are curious, want to grow and have impact every day.
+
+Trace Data provides equal employment opportunities (EEO). All applicants are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, or sexual orientation.
+
+]]>

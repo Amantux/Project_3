@@ -1,0 +1,51 @@
+About Veracyte
+
+
+Veracyte (Nasdaq: VCYT) is a leading genomic diagnostics company that improves patient care by providing trustworthy and actionable answers to challenging clinical questions. The company's products uniquely combine advanced genomic technology, clinical science and machine learning to provide answers that give patients and physicians a clear path forward, informing both diagnosis and treatment decisions without the need for costly, risky surgeries that are often unnecessary. Since its founding in 2008, Veracyte has commercialized seven genomic tests and is transforming the diagnosis of thyroid cancer, lung cancer, idiopathic pulmonary fibrosis and breast cancer.
+
+The Position
+
+
+We are seeking a strong technical leader to serve as the Data Science Associate Director who will lead the algorithm development and all analytical aspects of our machine-learning based diagnostic products. This person will lead a team of data scientists to bring analytical rigor and statistical methods to the challenges of modeling large, diverse and complex data sets. This leader position will focus on computational biology with an emphasis on deep genomic sequencing analysis and machine learning within Research and Development. More specifically, the role will work on cross-disciplinary integrative data analytics and modeling. This individual will report to the SVP of Bioinformatics & Data Science.
+
+This is a hands-on role that will apply expertise in cutting-edge computational technologies as well as leverage extensive data on deep genomic sequencing, biomedical imaging, clinical features, and demographic factors to deepen our understanding of complex diseases. This effort will enhance our power in machine learning and data mining towards the diagnosis of important medical conditions. This position is a core team member of discovery leadership and participates in portfolio and stage gate reviews, shaping and implementing strategies that support R&D growth. In an intensely collaborative and fast-paced environment, this individual will experience the swift implementation of their hard work towards products that will transform patient lives.
+
+Roles / Responsibilities
+Provide strategic input and leadership to help build analytical capabilities in diagnostic development
+Build and manage a team of 3-4 computational scientists, including recruiting/hiring, motivation, performance management, and maintaining a high level of technical excellence and positive teamwork
+Lead algorithm development for feature extraction, classification, and model evaluation. Sources of data will include deep next generation sequencing, demographic, clinical, and imaging data from patients.
+Near term goals include:
+Develop algorithms to extract, process, and combine the most relevant features from expression signals, DNA alterations, biomedical imaging, clinical information, and demographic characteristics to reach high-performance classification of the nasal product development.
+Maintain keen awareness of advances in the field and evaluate applicability of new machine/deep learning methods while continuously expanding our computational technologies to most efficiently utilize available data and develop the optimal diagnostic tools.
+Provide mentoring and guidance to team members on computation and machine learning development. Mentor and manage junior members.
+Who You Are
+
+The successful candidate should be motivated by the opportunity to contribute to clinically vital diagnostic tests that dramatically improve patient outcome. You should be a creative problem solver who loves working in a multidisciplinary team of statisticians, bioinformatics scientists, BioIT staff, and wet lab biologists. You are a pragmatic leader with a focus on value-creating activities and a track record of creativity, innovation, and delivery of real-world value. You are skilled in active listening, welcome feedback from others, and constantly strives for improvement to better serve the team’s needs. As a senior leader you demonstrate a positive “can-do” attitude and fast adaptation to change.
+
+The incumbent should be familiar with emerging approaches for analyzing and modeling clinical, molecular, and other complex data types. These include traditional bioinformatics and statistical methods as well as data mining and machine learning approaches. We are looking for a leader who can collaborate effectively across multiple domains internally and externally to drive our diagnostic development strategy forward.
+
+Technical Requirements
+A Ph.D. degree in statistics, c omputational biology, bioinformatics, computer science or equivalent field with a minimum of 10 years applicable professional experience, with five of those years in an industry setting
+3 years of people management experience leading teams of computational biologists/statisticians/bioinformatics/data scientists in industry
+Technical proficiency in languages such as R, Matlab, Python, Java, JavaScript, and C++
+Hands-on advanced proficiency in handling and analyzing large data sets such as next-generation sequencing data
+Experience with medical imaging analysis such as usage of CAFFE and other deep learning methodologies on GPU operating system is a plus
+Highly experienced with the information technology aspects of data collection, organization, and integration
+Deep knowledge in optimal computational environment required for data processing, mining, and machine learning
+Experience with big data technologies and HPC such as the Hadoop ecosystem
+Expertise in dimensionality reduction techniques
+Excellent written and verbal communication and presentation skills are required. Highly experienced in writing peer-reviewed scientific manuscripts
+Ability to translate complex computational concepts in such a way that scientifically trained individuals in other disciplines can readily understand their significance
+Experience with the development of IVD molecular diagnostics and regulatory requirements are highly desired
+What We Can Offer You
+
+Veracyte is a growing company that offers significant career opportunities if you are curious, driven, customer-oriented and aspire to help us build a great company. We work collaboratively, offering you the opportunity to constantly learn from your colleagues – even those outside of your area of expertise. Here at Veracyte, we find fun, little ways to make it a great place to work – participate in our annual Halloween costume contest, treat yourself to the endless supply of PB&J sandwiches, and toast with colleagues as we celebrate milestones. We also offer conveniences such as an on-site workout room and free shuttle service from both BART and CalTrain. We are a company with a heart and believe in positively impacting the world beyond our doors by providing our product to those who cannot afford it through a financial assistance program. Veracyte seeks the best employees and works to create an environment where they can thrive, expand their knowledge and contribute at the highest level.
+About Veracyte
+
+Veracyte, Inc. is a leading genomic diagnostics company that is fundamentally improving patient care by resolving diagnostic uncertainty with evidence that is trustworthy and actionable. The Company’s products uniquely combine genomic technology, clinical science and machine learning to provide answers that give physicians and patients a clear path forward without risky, costly surgery that is often unnecessary. Since its founding in 2008, Veracyte has commercialized three genomic tests, which are transforming the diagnosis of thyroid cancer, lung cancer and idiopathic pulmonary fibrosis and collectively target a $2 billion market opportunity.
+
+At Veracyte, we are more than just a diagnostics company. We are redefining diagnostic truth and changing patient care as we know it. We are improving the lives of patients by enabling the evolution of evidence-based clarity from scientific discovery. Our team embraces challenges - the more complex, the better. We are laser-focused and know how to prioritize. We act with a sense of urgency, because when it comes to advancing patient care, every minute matters. We take ownership of our work and are deeply committed to the success of our team. And, above all, we value integrity - in our work and how we treat all of our stakeholders, including each other.
+
+Our accomplishments and innovation have earned us widespread recognition, from appearing on The Wall Street Journal Next Big Thing list to receiving the 2016 Edison Award, which honors product innovation and excellence. Yet the honor we are proudest of is being named a Top Workplace by the Bay Area News group four years in a row, based solely on feedback from our employees.
+
+Veracyte affords equal employment opportunities to all qualified persons, regardless of race, color, religion, national origin, age, sex, disability, sexual orientation, gender expression, veteran or marital status. Veracyte participates in E-Verify in the United States

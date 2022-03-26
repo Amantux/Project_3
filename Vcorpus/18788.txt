@@ -1,0 +1,26 @@
+Posted: Jun 17, 2020
+Role Number:
+200171389
+The Video Computer Vision org is a centralized applied research and engineering organization responsible for developing real-time on-device Computer Vision and Machine Perception technologies across Apple products. We balance research and product to deliver Apple quality, state-of-the-art experiences, innovating through the full stack, and partnering with HW, SW and ML teams to influence the sensor and silicon roadmap that brings our vision to life. Examples include FaceID, Animoji/Memoji, Scene Understanding, People Understanding and Positional Tracking (VIO/SLAM).
+Key Qualifications
+Experience developing and deploying large-scale distributed systems in Python (preferably Django) or other languages (Go, Scala, Java, etc).
+Frontend experience using a SPA framework (such as React)
+Experience with REST API design, SQL and NoSQL DB's (such as Postgres, Redshift, and Cassandra)
+Experience deploying systems using orchestration (such as Kubernetes or Nomad)
+Good verbal and written communication skills
+Description
+We are looking for an enthusiastic and dedicated engineer with experience in cloud technologies, who can build services to process data from a wide range of computer vision systems. As an engineer on our team, your work provides the data foundation for a highly collaborative team of hardware, user experience, and deep learning experts. We are looking for engineers that have a high attention to detail, and who can abstract these details into framework- level software solutions. This position requires someone who has a passion for data integrity and is privacy-minded.
+
+RESPONSIBILITIES:
+Build scalable data platforms that our machine learning teams will use daily
+
+Contribute to the entire stack, including the frontend, backend, CI, and deployment
+
+Write libraries and core infrastructure software that can be utilized throughout our organization
+Education & Experience
+BS/MS in Computer Science or equivalent experience
+
+Experience using distributed data frameworks like Kafka, Spark, and Presto
+Experience with cloud platforms such as AWS/GCE/Azure
+Familiarity with training and evaluation of machine learning models
+Knows when and where testing is appropriate to deliver a reliable product

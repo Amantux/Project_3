@@ -1,0 +1,56 @@
+NTT DATA Services strives to hire exceptional, innovative and passionate individuals who want to grow with us. If you want to be part of an inclusive, adaptable, and forward-thinking organization, apply now.
+
+We are currently seeking a Sr Data Engineer Hadoop to join our team in Plano, Texas (US-TX), United States (US).
+
+Job Responsibilities
+Support the data platform.
+Write well designed, testable, efficient code.
+Ensure designs are in compliance with specifications.
+Support continuous improvement by investigating alternatives and technologies.
+Perform all other duties as needed.
+Develop data mappings to existing data sources.
+Develop data requirements for new data sources.
+Define new business data models.
+Provide technical leadership on data protection technologies to the development team by designing solutions and blueprints for large data protection projects and guiding them on their day to day work
+Recommends programming and development, standards and procedures for application teams.
+Create data models in both traditional and in Big Data technologies
+Provide strategic and architectural direction to address unique business problems.
+Researches and maintains knowledge in emerging technologies and possible application to the business.
+Work on large data sets and interpret meaningful inferences.
+Implementation of security and data protection
+Skills & Experience
+Undergraduate Degree or Technical Certificate.
+7 years of IT experience with 5 years' experience as a Data engineer
+1 year of experience working on the Hadoop platform
+1 year of Development experience Scala & SPARK
+Expertise managing large datasets
+SQL and UNIX scripting skills.
+Experience with Cloudera and Hortonworks data platforms
+Experience in working with EDW, Data masking, Data migration kind of projects
+Data model analysis of large databases with up to 1000 tables and Sensitive data analysis for larger and different Databases, Files.
+Experience with Bigdata technologies and tools such as Apache Hadoop/Cloudera/MapR/HortonWorks, HDFS, MapReduce, Spark, Big Data querying tools (such as Pig, Hive, Impala), NoSQL databases (such as HBase, Cassandra, MongoDB)
+Exposure to cloud technology like Azure, Google
+Nice to have skills:
+Experience with IntelliJ
+Experience with Mongo
+python & pyspark
+Implement tokenization and encryption solutions using various Protegrity protector components such as Application Protector, File Protector, Database Protector, Bigdata Protectors, etc.
+Experience in Health Care Payer Domain
+Experience Protegrity is added advantage
+Understanding of payer domain business process and application (custom or packaged application) to support testing activity like enrollment, quote to card, claim processing and payment etc.
+Hands-on experience with scripting languages like python
+Basic Qualifications:
+Undergraduate Degree or Technical Certificate.
+7 years of IT experience with 5 years' experience as a Data engineer
+1 year of experience working on the Hadoop platform
+1 year of Development experience Scala & SPARK
+About NTT DATA Services
+
+NTT DATA Services is a global business and IT services provider specializing in digital, cloud and automation across a comprehensive portfolio of consulting, applications, infrastructure and business process services. We are part of the NTT family of companies, a partner to 85 % of the Fortune 100.
+
+NTT DATA Services is an equal opportunity employer and will consider all qualified applicants for employment without regard to race, gender, disability, age, veteran-status, sexual orientation, gender identity, or any other class protected by law.
+
+Nearest Major Market: Plano
+Nearest Secondary Market: Dallas
+Job Segment:
+Database, Consulting, SQL, Unix, Technology

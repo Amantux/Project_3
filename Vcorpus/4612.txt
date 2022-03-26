@@ -1,0 +1,55 @@
+Read what people are saying about working here. 
+
+Adobe Advertising Cloud, is an independent, end-to-end platform for managing advertising across traditional TV and digital formats. It gives you a single programmatic solution for delivering TV, search, display, and social advertising across any screen, in any format.
+
+The Challenge:
+
+As part of the Machine Learning and Optimization team in the Adobe Advertising Cloud, you will be working on cutting edge R&D to drive performance optimization for advertisers as part of Adobe’s DSP (Demand Side Platform) with 100s billions of auctions per day. You will help build the next generation of predictive models and optimization algorithms that power the RTB (real time bidding) platform that are used by hundreds of clients across the world in a fast paced environment.
+
+What will you do:
+
+Develop classifiers, predictive models and multi variate optimization algorithms on large-scale datasets using advanced statistical modeling, machine learning and data mining.
+
+Design and implement scalable models in TensorFlow that can work with large-scale datasets (billions of records) in production systems
+
+R&D will revolve around a few key focus areas such as predictive models for conversion optimization, Bidding algorithms for pacing & optimization, User segmentation/modeling.
+
+What you require:
+
+Ability to be a self starter, and work closely with other data scientists and software engineers to design, test and build production ready ML and optimization models and distributed algorithms running on large scale data sets
+
+Strong DNN background with proven experience in TensorFlow building real world solutions on large scale data sets.
+
+Knowledge of machine learning, NLP, Word2Vec, classifiers, statistical modeling and multivariate optimization techniques
+
+TensorFlow, R, scikit, pandas.
+
+Programming skills: Python, Java/Scala, SQL, Hive, Spark
+
+Good to have - Git, Basel, Docker, Kubernetes
+
+Able to own and solve core data science / ML problems around user modeling and Conversion optimization.
+
+General understanding of data structures, algorithms, multi threading, and distributed computing concepts
+
+Strong analytical, quantitative problem solving, and communication skills
+
+Proven ability to work well in a high performing team with agile development approaches and technology
+
+Translate high level requirements to actionable tasks/deliverables and creative problem solving a must
+
+Ability to work cross-functionally with various teams including: site reliability engineers, project managers, product managers, and other teams
+
+Ideal Candidate Profile:
+
+PHD in Computer Science/Electrical Engineering/Statistics or relevant field with 2+ years of experience
+
+Experience with Real Time Bidding / Ad Tech background preferred
+
+At Adobe, you will be immersed in an exceptional work environment that is recognized throughout the world on Best Companies lists . You will also be surrounded by colleagues who are committed to helping each other grow through our unique Check-In approach where ongoing feedback flows freely.
+
+If you’re looking to make an impact, Adobe's the place for you. Discover what our employees are saying about their career experiences on the Adobe Life blog and explore the meaningful benefits we offer.
+
+Adobe is an equal opportunity employer. We welcome and encourage diversity in the workplace regardless of race, gender, religion, age , sexual orientation, gender identity, disability or veteran status.
+
+ Adobe is the global leader in digital marketing and digital media solutions. Our tools and services allow our customers to create groundb...

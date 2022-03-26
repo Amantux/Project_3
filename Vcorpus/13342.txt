@@ -1,0 +1,49 @@
+West Creek 4 (12074), United States of America, Richmond, Virginia
+
+At Capital One, were building a leading information-based technology company. Still founder-led by Chairman and Chief Executive Officer Richard Fairbank, Capital One is on a mission to help our customers succeed by bringing ingenuity, simplicity, and humanity to banking. We measure our efforts by the success our customers enjoy and the advocacy they exhibit. We are succeeding because they are succeeding.
+
+Guided by our shared values, we thrive in an environment where collaboration and openness are valued. We believe that innovation is powered by perspective and that teamwork and respect for each other lead to superior results. We elevate each other and obsess about doing the right thing. Our associates serve with humility and a deep respect for their responsibility in helping our customers achieve their goals and realize their dreams. Together, we are on a quest to change banking for good.
+
+Sr. Manager, Data Engineer
+Ideal candidate:
+Strong verbal and written communication skills.
+Curiosity. You ask why, you explore, you're not afraid to demonstrate your crazy idea.
+Do-er. You have a bias toward action, you are not afraid to try things out.
+Fearless. Big, undefined problems don't frighten you.
+On any given day you will:
+Be involved in design and build end-to-end engineering solutions for our Enterprise Data Pipeline initiative that powers multi-millions of events a day for different business functionalities.
+Tenaciously keep the Data Pipeline infrastructure (Kafka and peripheral tools) operational across AWS Cloud based environments.
+Work closely with cross functional team members such as developers, operations, product managers, and other stakeholders, architects on projects from idea to implementation.
+Leverages DevOps techniques and practices like Continuous Integration, Continuous Deployment, Test Automation, Build Automation, and Test Driven Development
+Respond to customer and operations-reported application issues and incidents.
+Automate Infrastructure tasks so that they can be achieved consistently, quickly, and at the scale our business needs demand.
+Bring in new ideas, whether it's a new tool or technology, which will help us massively innovate.
+Develop tools that will improve platform availability and engineers ability to respond to incidents
+Create automation solutions for our infrastructure platform to achieve a hands-free environment
+Be a part of our weekly 24x7 on-call rotation and conduct incident reviews
+Build CI/CD pipelines using technologies such as Jenkins in a containerized environment
+Troubleshoot and resolve issues in development, test and production environments
+Develop full stack solutions and continuous delivery frameworks that improve the ability of the IT delivery teams to efficiently deliver solutions with quality and reduced time to market.
+Write complex code, building infrastructure as code, work with immutable "cloud based environments, and build the supporting automated tool sets necessary to support the continuous delivery pipeline.
+Integrate Open Source & COTS products across the continuous delivery pipeline to provide a comprehensive automated system from epic definition, development, test and deploy of Companies applications within our data center and Amazon.
+Design, develop and implement automated solutions, based on a set of standards and processes which establish consistency across the enterprise, reduce risk, and promote efficiencies in support of the organization's goals and objectives.
+Provide support (coaching and mentoring) for teammate's work activities on a regular basis
+
+
+Basic Qualifications:
+Bachelors Degree
+At least 3 years of experience administrating Kafka platform
+At least 1 year of experience in managing multi-node Kafka cluster environments residing on Amazon Web Services
+At least 3 years of experience with Cloud Technologies
+At least 2 years of experience with DevOps, Site Reliability Engineering, or Automation Engineering
+At least 4 years of experience with Data Technology Platform Administration, Engineering, and Operational Support
+
+Preferred Qualifications:
+Masters Degree in quantitative discipline ( Math, Computer Science, Engineering)
+8+ years of total technology industry experience
+6+ years experience in building Automation frameworks for management of complex platforms.
+6+ years experience with Operational tools such as CloudFormation, Terraform, ELK or Grafana, Git, Docker, or ansible
+6+ years experience with Python, Java (or other Scala, go, etc.)
+
+
+Capital One will consider sponsoring a new qualified applicant for employment authorization for this position.

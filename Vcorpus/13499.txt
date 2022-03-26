@@ -1,0 +1,16 @@
+Pyramid is looking for a versatile technical Data Scientist capable of supporting all phases of the data and analytics lifecycle. This is a strategic role within Pyramid Labs, our corporate sponsored Incubation as-a Service platform, made available to our customers to promote innovation and development of high value solutions and capabilities.
+
+Roles and Responsibilities
+Develop strategies to mine, analyze and capitalize large volumes of business and operations data to derive deeper insights, predict outcomes and prescribe actions
+Develop, test and deploy Machine Learning (ML) models using open source technologies and tools and cloud platforms such as AWS and Azure
+Formulate data science and analytics pipelines to instill discipline and rigor in model development process
+Integrate ML/AI models with full-stack web applications
+Cross-train with the engineering team, by learning and improving knowledge on cloud development practices and teaching data science concepts to rest of the team
+
+Required Skills
+Deep hands-on knowledge and practical experience developing and operationalizing machine learning models
+Strong fluency in various statistical and clustering algorithms
+Good hands-on experience in basic web application development using JavaScript. Microsoft or Open Source technologies
+Familiarity and experience with at least one cloud provider such as AWS or Azure is highly desired
+Hands-on experience dealing with large sets of complex and unstructured datasets and analyzing them through tools such as Jupyter Notebooks
+Strong hands-on expertise in Python and related ML/AI libraries

@@ -1,0 +1,22 @@
+"0","```r
+get_top5 <- function(x) {
+    top5 <-sandy_call_breakdown %>% 
+    filter(date == x) %>%
+    arrange(desc(Call_percentage)) %>%
+    head(5)
+    return(top5)
+}
+
+
+year_start = 2012
+year_end = 2017
+df_test <- get_top5(year_start)
+if ((year_end-year_start)> 1){
+  for (i in (year_start+1):year_end) {
+     #print()
+     df_test <- union (df_test, get_top5(i))
+  }
+}
+all_top5 <- df_test
+head(all_top5)
+```"

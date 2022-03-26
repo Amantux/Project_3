@@ -1,0 +1,55 @@
+Overview
+
+Who we are…
+
+Ciox Health, a health technology company, is dedicated to improving U.S. health outcomes by transforming clinical data into actionable insights. With an unmatched network offering ubiquitous access, Ciox Health can release, acquire, enhance and deliver medical records and discrete clinical data from anywhere across the United States.
+
+What we offer…
+
+At Ciox Health we offer all employees a place to grow and expand their current skills so that they can not only help build Ciox Health into the greatest health technology company but create a career that you can be proud of. We offer you complete training and long-term career goals. Our environment is what most of our employees are the proudest of and our IT Group is comprised of some of the brightest and talented individuals. Give us just a few moments to explain why we need you and hope you will help us change how the health Industry manages its’ medical records. Ciox Health is looking for experienced Data Scientists to lead large-scale Machine Learning and NLP initiatives and deliver end to end in a cloud native environment.
+
+Purpose of this role...
+
+The Data Scientist’s primarily purpose is to develop AI/ML models to solve complex problems in the healthcare domain ranging from clinical text extraction, document identification and cohort selection for clinical data abstraction.
+
+Responsibilities
+
+What you will do...
+
+Data exploration and discovery of potential usage of Ciox Data Assets such as Provider Data, EMR Data Feeds, Electronic Health Records and Medical Record Documents
+
+Develop AI/ML/NLP models for Operational Forecasting, Search Optimization and Clinical Text Extraction from unstructured medical record documents
+
+Partner with Business and Product Management to identify new data assets in order to improve the efficacy and efficiency of our existing ML Models and develop new ML Models
+
+Work in close partnership with Ciox clinical data abstractors and other subject matter experts to identify opportunities and develop machine learning models to improve Cohort Selection and Document Identification for clinical trials
+
+Partner closely with ML Engineers and Application Developers to help operationalize the NLP and ML models to execute at scale in Production environment
+
+Develop hypothesis and Model Training pipelines to continuously evaluate, explain and improve the performance and efficacy of the models
+
+Perform data analysis using ML packages and frameworks such as Spark, Python, PyTorch, TensorFlow, AWS Sagemaker etc and visualization tools such as Tableau
+
+Keep abreast and up to date with the latest trends and techniques in AI, ML and Deep Learning space
+
+Qualifications
+
+Skills and Education of Our Team...
+
+6 or more years of work experience in practicing ML and data science in healthcare domain, with more than 10 years of overall IT experience
+
+Strong quantitative knowledge, problem solving and critical thinking
+
+Data Visualization, presentation and communication skills to clearly articulate the problem statement, proposed hypothesis, solution and explanation of machine learning models to business and technology leaders
+
+Experience using NLP Tools and Techniques with exposure to Clinical Ontologies
+
+Proficient in Python, SQL, Java and Shell with strong data wrangling skills utilizing packages such as pandas, numpy etc
+
+Strong experience using ML Packages and Tools such as scikit-learn, Keras, TensorFlow, OpenNLP, AWS Sagemaker, Jupyter Notebooks, Zeppelin etc.
+
+Experience with Predictive Analytics algorithms such as Linear Regression, Logistic Regression, Decision Trees, Random Forest, xgboost etc
+
+Training/Education...
+
+Master’s degree or higher in a quantitative or relevant field (Statistics, Math, Economics, Engineering, Computer Science, Business Analytics, Data Science)

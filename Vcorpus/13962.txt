@@ -1,0 +1,61 @@
+Senior Data Scientist
+
+
+Job Ref: 55708
+Category: Information Technology
+Department: ANALYTICS AND REPORTING
+Location:
+
+160 Water St. #3, New York, NY
+Job Type: Regular
+Employment Type: Full-Time
+Hire In Rate: $100,000.00
+Salary Range: $100,000.00 - $115,000.00
+Marketing Statement
+MetroPlus Health Plan provides the highest quality healthcare services to residents of Bronx, Brooklyn, Manhattan, Queens and Staten Island through a comprehensive list of products, including, but not limited to, New York State Medicaid Managed Care, Medicare, Child Health Plus, Exchange, Partnership in Care, MetroPlus Gold, Essential Plan, etc. As a wholly-owned subsidiary of NYC Health + Hospitals, the largest public health system in the United States, MetroPlus’ network includes over 27,000 primary care providers, specialists and participating clinics. For more than 30 years, MetroPlus has been committed to building strong relationships with its members and providers to enable New Yorkers to live their healthiest life.
+
+Position Overview
+
+The desired Senior Data Scientist candidate will lead the design, development, and management of advanced analytics solutions that innovate and help us make smarter decisions to deliver even better care to our members. This includes data exploration / data mining, model building, performance & program evaluation, and related testing and recommendations. S/he will help drive several large, cross-functional initiatives within various departments, MetroPlus at large, and other initiatives in partnership with NYC Health + Hospitals, and Home and Community Based Services.
+
+Under the Chief administrative Officer and the Head of Health Analytics, the
+
+Senior Data Scientist is expected to build / implement data science solutions at scale, and to provide thought leadership & give presentations as a Subject Matter Expert in advanced statistical techniques and mathematical analyses. S/he needs to be comfortable and experienced with leading highly complex projects involving multiple internal & external resources and tasks.
+
+The successful candidate can work both independently with little supervision or guidance & collaboratively with many stakeholders and SME’s, leading advanced data analysis and data modeling projects, from project design & iteration w/ internal clients, to the reception / processing of data and analyses and or modeling, and to the delivery of final reports/presentations, communication of results and implementation support. Teamwork is essential as this role requires collaborating with various subject matter experts, management, and other industry leaders. This position requires an analytical-minded individual who enjoys and thrives working in a fast-paced, nebulous, challenging, but rewarding environment.
+
+Comprehensive knowledge of healthcare insurance industry, products, systems, business strategies and products is highly desired. Strong understanding of Quality, Care and Utilization Management and Measurement reporting is also highly preferred, along with experience working with healthcare claims data.
+Job Description
+Based on project requirements, determine, extract and aggregate appropiate data sets.
+Analyze healthcare data and using quantitative methods to create actionable and timely information across the Medical Management teams, and up and down the MetroPlus business hierarchy.
+Create meaningful data visualizations & presentations to communicate findings and relate them back to how they create business impact.
+Develop sophisticated algorithms / predictive models to evaluate scenarios to make predictions of future outcomes, and or evaluate future impact of changes
+Apply data mining techniques to create statistical models and solutions detecting patterns, relationships across available data sets (e.g. NHWS, Electronic Health Records (EHR), claims data, or these data sets linked together) using machine learning methodologies & tools.
+Build high performing predictive systems that empower cross-functional Medical Management teams (and MetroPlus at large) to more effectively, efficiently target care & utilization management initiatives across our membership population and provider networks
+Lead the design, development, and delivery of proactive linked data studies w/ internal teams and SME’s; direct or perform these linked data studies and build out studies using new linked data sets. Drive conversations with internal stakeholders and leaders on product design, data specification, model implementations
+Provide thought leadership on advanced statistical / mathematical analyses and related strategic insights to various internal stakeholders and key decision makers.
+Tests new statistical analysis methods, software and data sources for continual improvement of quantitative solutions. Drive proof of concept tests of new data, software and technologies.
+Collaborate with other Health Analytics team members and other departments & SME’s to understand company needs and devise possible solutions including data integrity / data governance solutions to remove joint obstacles to timely and high-quality data analytics
+Optimize joint development efforts through appropriate database use and project design
+Assures compliance with regulatory and privacy requirements during design and implementation of modeling and analysis projects. Communicate, as needed, with the NYS or NYC Departments of Health on relevant analyses
+Perform other duties as required
+Minimum Qualifications
+Master’s or PhD degree in Statistics, Biostatistics, Math, Computer Science, Health Economics, Epidemiology, Healthcare Informatics, or Data Science.
+3+ years’ of workingl experience with healthcare claims data.
+5+ years related experience with healthcare data analytics.
+Strong practical experience with SQL and Pthon is required; experiences in R, Hadoop, NoSQL is a plus.
+Strong expertise in statistical modeling techniqures such as linear regression, logistic regression, survival analysis, GLM, tree models (Random Forests and GBM), cluster analysis, prinicpal components, feature creation, and validation.
+Strong expetise in regularization techniques (Ridge, Lasso, elastic nets), variable selection techniques, feature creation (trasnformation, binning, high level categorical reduction, etc.) and validation (hold-outs, CV, bootstrap).
+Experience with business intelligence platforms (e.g. Tableau, NicroStrategy, SAP) is a plus.
+Excellent problem solving skills, critical thinking and conceptual thinking abilities
+Strong organizational, management and leadership skills
+Strong ability to communicate technical, statistical concepts and implications to non-technical teams and leaders across the business and in the external health care environment.
+Excellent pattern recognition and predictive modeling skills
+Excellent communication skills
+Extensive knowledge on health care industry, products, systems, business strategies and products and experience in healthcare industry is highly desired.
+Ability to work independentley and collabortively.
+Professional Competencies
+Integrity and Trust
+Customer Focus
+Functional/Technical skills
+Written/Oral Communication

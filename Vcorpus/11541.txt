@@ -1,0 +1,49 @@
+Company Overview
+
+Fanatics is the global leader in licensed sports merchandise and changing the way fans purchase their favorite team apparel and jerseys. Through an innovative, tech-infused approach to making and selling fan gear in today's on-demand culture, Fanatics operates more than 300 online and offline stores, including the e-commerce business for all major professional sports leagues (NFL, MLB, NBA, NHL, NASCAR, MLS, PGA), major media brands (NBC Sports, CBS Sports, FOX Sports) and more than 200 collegiate and professional team properties, which include several of the biggest global soccer clubs (Manchester United, Real Madrid, Chelsea, Manchester City). Fanatics offers the largest collection of timeless and timely merchandise whether shopping online, on your phone, in stores, in stadiums or on-site at the world's biggest sporting events.
+
+About the Team
+
+Fanatics is first and foremost a technology company. We are powered by cutting-edge tech created by our small agile teams using the latest tools and technologies under our highly analytical, forward thinking, and open-minded leadership. As the global leader in licensed sports merchandise, we challenge ourselves by improving our new fully responsive NodeJS cloud commerce platform, Elasticsearch engine, and deep data science capabilities while building the best-in-class retail manufacturing and supply chain technologies. Our tech teams work together to revolutionize data science and engineering initiatives, provide highly scalable real-time and streaming platforms, and create secure e-commerce and in-stadium fan experience products. Our own e-commerce platform transacts in over 190 countries, 17 languages, and 14 currencies. Our motto is “#GSD”—get stuff done—and we do just that. If you want to be at the nexus of sports, commerce, and technology, come be a part of our industry-leading team here at Fanatics Tech.
+
+What You’ll Do:
+
+Create data-science and machine learning products in supply-chain and inventory space,
+
+Build & deploy production scale models on large-scale datasets using machine learning (or) deep learning technologies for Supply Chain research,
+
+Work with cross-functional teams to implement and deploy data science products,
+
+Leverage large scale data processing such as Spark, Hive into the data-science products,
+
+Provide analysis using mathematical modeling tools to improve business processes and decisions,
+
+Define creative solutions to business problems using advanced mathematical algorithms,
+
+Communicate with senior management and cross-functional teams, and
+
+Facilitate deep technical discussions with end-users and partners.
+
+What You’ll Need:
+
+1.Masters (or) PhD in Computer Science, Statistics, Operations Research, Economics, or other quantitative discipline strongly preferred,
+
+2.Experience in research and development. Conference papers at reputed AI/ML platforms (ICML, NIPS, AAAI) will be a big plus,
+
+3.Experience in Time series modeling (classical methods like ARIMA, STL Forecast). Understanding and implementing active research in Time series forecasting (Bayesian Forecasting, Hierarchical Forecasting),
+
+4.Hands on experience in implementing Deep learning models with textual data/ time series data (CNN, LSTM’s) will be a great plus,
+
+5.Expertise in SCALA (or) functional programming paradigm/ Python / R,
+
+6.Experience in big data technologies like Spark, Hive, Hadoop,
+
+7.Experience in understanding business needs and translating to a data-science problem,
+
+8.Knowledge of the supply chain process – demand forecasting, inventory optimization, sell-through, reorder quantity, recommended buy, and allocation process,
+
+9.Great communication skills, organized, able to multitask and be a team player, and
+
+10.Excellent written and oral communication skills on both technical and non-technical topics.
+
+Tryouts are open at Fanatics! Our team is passionate, talented, unified, and charged with creating the fan experience of tomorrow. The ball is in your court now.

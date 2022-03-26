@@ -1,0 +1,89 @@
+NBCUniversal, the global media company that brought you some of the world’s most iconic television and film franchises, including: The Tonight Show, Saturday Night Live, Keeping Up With The Kardashians, The Real Housewives, Mr. Robot, The Voice, This Is Us, The Fast & The Furious, Jurassic Park, Minions, and more - is launching an all-new video streaming service. It will seamlessly bring together the breadth and depth of NBCU’s broadcast and cable television series, movie titles, premier sporting events, and renowned news reporting... all in one destination… all in one app.
+
+Are you ready to go beyond classic predictive analytics to the new areas like deep learning and reinforcement learning? Do you want to be a part of the team that builds and advanced recommender engine, active leaning platform, personalized solutions for marketing and advertisement? Join the world-class international team of smart, hungry and fearless professionals who are working at the cutting edge of technology and science at the epicenter of content, technology and culture.
+
+Position Overview:
+
+As part of the Direct-to-Consumer Decision Sciences team, the Lead Data Scientist will be responsible for creating analytical solutions for one or more verticals of NBCU’s video streaming service including, but not limited to, the recommender system, automated marketing, personalized advertisement, commerce and revenue optimization systems, customer journey and CRM solutions.
+
+In this role, the Lead Data Scientist will use advanced data science methodologies including collaborative filtering, deep learning, reinforcement learning, on-line modeling etc. and work closely with business owners, teammates and engineers to build a state-of-the-art real-time video streaming service.
+
+Responsibilities include, but are not limited to:
+
+Lead a group of data scientists in the development of analytical models using statistical, machine learning and data mining methodologies. Advise, help to resolve issues and handle non-standard cases.
+
+Define procedures for cleansing, discretization, imputation, selection, generalization etc. to create high quality features for the modeling process.
+
+Work with business stakeholders to define business requirements including KPI and acceptance criteria.
+
+Use big data, relational and non-relational data sources to access data at the appropriate level of granularity for the needs of specific analytical projects. Maintains up to date knowledge of the relevant data set structures and participate in defining necessary upgrades and modifications.
+
+Collaborate with software and data architects in building real-time and automated batch implementations of the data science solutions and integrating them into the streaming service architecture.
+
+Drive work on improving the codebase and machine learning lifecycle infrastructure.
+
+Qualifications/Requirements
+
+Advanced (Master or PhD) degree with specialization in Statistics, Computer Science, Data Science, Economics, Mathematics, Operations Research or another quantitative field or equivalent.
+
+5+ years of combined experience in advanced analytics in industry or research.
+
+Experience in leading small teams or/and being a lead data scientist on large commercial projects.
+
+Deep knowledge of statistical methods and machine learning with special emphasis on the advanced algorithms like neural networks, SVM, random forests, bagging, gradient boosting machines, k-means++, deep learning or reinforcement learning. Expert level in 5+ classes of algorithms.
+
+Experience implementing scalable, distributed, and highly available systems using Google Cloud.
+
+Experience with data visualization tools and techniques.
+
+Understanding of algorithmic complexity of model training and testing, particularly for real-time and near real-time models.
+
+Proficient in at least one statistical (R, Python) and one programming (Julia, Java, Scala or similar) languages.
+
+Strong skills in data processing using SQL and PySpark.
+
+Desired Characteristics
+
+Working experience with commercial recommender systems or a lead role in an advanced research recommender system project.
+
+Experience with reinforcement learning based systems.
+
+Working experience with deep learning, particularly in the areas different form the computer vision.
+
+Experience with multi-billion record datasets and leading projects that span the disciplines of data science and data engineering
+
+Knowledge of enterprise-level digital analytics platforms (e.g. Adobe Analytics, Google Analytics, etc.)
+
+Experience with television ratings and digital measurement tools (Nielsen, Rentrak, ComScore etc.)
+
+Experience building streaming data pipelines using Kafka, Spark or Flink
+
+Experience with large-scale video assets
+
+Team oriented and collaborative approach with a demonstrated aptitude and willingness to learn new methods and tools
+
+Pride and ownership in your work and confident representation of your team to other parts of NBCUniversal
+
+Sub-Business
+
+Direct-to-Consumer
+
+Career Level
+
+Experienced
+
+City
+
+New York
+
+State/Province
+
+New York
+
+Country
+
+United States
+
+About Us
+
+At NBCUniversal, we believe in the talent of our people. It’s our passion and commitment to excellence that drives NBCU’s vast portfolio of brands to succeed. From broadcast and cable networks, news and sports platforms, to film, world-renowned theme parks and a diverse suite of digital properties, we take pride in all that we do and all that we represent. It’s what makes us uniquely NBCU. Here you can create the extraordinary. Join us.

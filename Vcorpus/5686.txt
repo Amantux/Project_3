@@ -1,0 +1,45 @@
+About Care/of
+
+Care/of (takecareof.com ( https://takecareof.com/ )) is a fast-growing, venture-backed wellness startup. We make it easier and more enjoyable to shop for vitamins (and maybe even a little fun, too). Our technology makes it possible for people to get custom vitamin recommendations based on their diets and health goals, which we deliver in convenient daily packs with a touch of joy. We aim to help people feel empowered to make the right choices for their health by being transparent about the research backing up our recommendations and the quality of our products. Care/of launched in 2016 and is based in New York City. (And we're excited to meet you.)
+
+About the job
+
+Care/of strongly believes that data science is a key part of our product differentiation and long-term innovation. Our data science team is in a special position to tackle problems across digital product (web and app analytics, recommendations), operations research (inventory), and general behavioral prediction (probabilistic models, time series analysis). The data around our e-commerce products will interact richly with granular measures of users' health and wellness, a domain where machine learning is only recently starting to gain traction.
+
+We are interested in hiring data scientists who specialize in machine learning, as well as highly technical analysts who are comfortable with modern tools of data analysis and the scale of data at a tech company. A data scientist should be able to view an ambiguously defined business problem, iterate on hypotheses, and formalize solutions through a wide variety of quantitative methods.
+
+As part of a small team at a young company, Care/of's data scientists also work closely with engineering to guide the instrumentation of new events and data sources. You will help establish a solid foundation for the data stack at Care/of and build a culture of rigorous analysis across our different departments. It is a truly interdisciplinary role with end-to-end functions from engineering implementations to high-impact business strategy.
+
+Responsibilities
+
+Perform deep analyses into product performance and customer behavior, with an emphasis on machine learning prediction
+
+Manage high-dimensional datasets, including with clustering and dimensionality reduction
+
+Clean and wrangle data from a heterogeneous mix of sources
+
+Create and maintain data pipelines for scalable reporting and productionized models
+
+Clearly convey findings through visualization, written communication, presentations, and/or internal tools
+
+Collaborate cross-functionally to directly impact business metrics, including improving retention and customer lifetime value
+
+Work closely with the head of data science and executives to inform strategic decisions in marketing, operations, and product
+
+Qualifications
+
+Bachelor's degree in a quantitative field (math, statistics, computer science, economics, physics). Graduate degree a plus
+
+3+ years of analytical experience at a tech startup or finance firm
+
+Proficiency with Python and the scientific Python suite (numpy, pandas, scikit-learn, matplotlib, Jupyter notebooks)
+
+Proficiency with SQL
+
+A solid foundation in statistics (probability distributions, maximum likelihood estimation) and undergraduate math (multivariable calculus, linear algebra)
+
+Familiarity with deep learning (TensorFlow, Keras, or PyTorch)
+
+An excellent teacher and storyteller
+
+Bonus: familiarity with engineering tools (GitHub, Heroku, Docker)

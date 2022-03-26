@@ -1,0 +1,32 @@
+PDI is seeking a Data Engineer to join our team working in an exciting, high volume retail data ecosystem with over $100 billion of transaction log data. The candidate will benefit from a rich knowledge of software development practices and will need to apply those practices daily. Mastering the relationship between client data and our ecosystem will be an important element for this position.
+
+This position plays a critical role at PDI and for both the retailer and their vendor partners to realize the most value from their data. The overarching responsibilities for this role are (i) on-boarding successfully and efficiently new clients, (ii) maintaining the data and ecosystem on an ongoing basis and introducing & implementing improvements as needed. The successful applicant will be joining an open and diverse team with a "Can Do" attitude, and a strong desire to make an impact in a start-up organization.
+
+RESPONSIBILITIES & TASKS
+Onboard new customers' data into the PDI data warehouse and platform, writing and installing the required ETLâs
+Optimize and manage existing clientsâ data pipelines
+Monitor, maintain, and, if needed rectify, various clientsâ data integrity
+Develop and/or enhance automated processes to proactively identify any data related issues and/or simplify process
+Gather technical requirements from multiple sources for new data-oriented features, integrating new solutions within a developed Java solution base
+Participate as a key member of our agile development team
+Collaborate with team members to automate queries as needed
+REQUIRED QUALIFICATIONS
+Bachelor's degree in Math, Statistics, Computer Science or equivalent technical field.
+Working and practical knowledge of programming principles, techniques, standards and analytical ability
+Strong proficiency in Java
+Proven experience with complex SQL query design and optimization
+Experience with Bash scripting
+Experience in data cleansing, curation, parsing, integration, semantic mapping, or editing
+Experience with analytics systems (data warehouses, dimensional models, etc.)
+Organizational skills and ability to balance multiple priorities in a dynamic and fast-paced environment
+Strong team player with a passion for data and problem solving
+Excellent oral and written communication skills
+PREFERRED QUALIFICATIONS
+Degree in Computer Science, Computer Engineering, Management Information Systems or related field
+1-3 years of applied data engineering-related experience
+Strong competence in Python
+Experience with Google Cloud
+Experience with Linux/Unix
+PDIâs employee-oriented culture provides a supportive and dynamic work environment for high achievers. PDI seeks individuals who value continuous learning, hold high ethical standards, and are top performers in their respective fields. We offer competitive wages, professional development, great culture, and a competitive benefits package. For more information about PDI, please visit our website at www.pdisoftware.com. PDI is an Equal Opportunity Employer. We verify employment eligibility for all new hires using e-Verify.
+
+Powered by JazzHR

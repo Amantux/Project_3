@@ -1,0 +1,51 @@
+Job Description:
+
+At EmployBridge, we are seeking a Senior Data Analyst to support the design, development, integration and implementation of an analytic environment. Your talents, perspectives, and efforts will contribute directly to the production of valuable intelligence to facilitate positive change across the company. This position is for people who looking for exciting, fast-paced, and dynamically evolving data and analytics field, including data warehousing, reporting/dashboarding, machine learning and emerging technologies. Senior Data Analysts are obsessed with getting their hands on data from across the enterprise and providing intuitive analysis and visualizations that will be used to solve business problems by enabling data-driven decision-making. This role works both independently and with a dedicated team.
+
+Responsibilities:
+Drive an understanding and adherence to the principles of data quality management including metadata, lineage, and business definitions
+Work collaboratively with appropriate teams to manage security and data access governance
+Build well-managed data solutions, tools, and capabilities to enable self-service frameworks for data consumers
+Partner with the business to translate the business needs to design and develop tools, techniques, metrics, and dashboards for insights and data visualization
+Understand, facilitate, and influence data domain processes.
+Recommend improvements to data architectures to maximize business capabilities
+Partner with Data Engineering to create dimensional models for data warehousing and provide data for dashboards and reporting
+Work collaboratively with others within and outside of his or her function to achieve goals, improve processes, and optimize system design
+Curate a large body of reports in internal reporting application, designing new SQL queries per business requirements and updating existing reports
+Collaborate with stakeholders such as business leaders, project leads to gather data requirements and deliver projects on time
+Very strong in SQL, writing complex queries for reporting and maintaining database objects
+Experience in Python, R or other scripting languages
+Advanced knowledge of data architecture patterns for data warehousing, and familiarity with data modeling for applications
+Leverage Data Mining techniques to find key business insights
+Collaborate with Product Managers to explore new product ideas or enhancements
+Build reporting to measure progress in key initiatives
+Have team first mentality by demonstrating personal commitment to the team by being cooperative, collaborative, and flexible
+Qualifications, Education and Experience:
+Bachelor of Science in Computer Science or technical equivalent; Master’s preferred
+Knowledge of industry leading data management practices
+Basic knowledge of cloud platforms such as Azure, AWS
+4+ years using modern BI tools (Power BI, Tableau, Qlik, MicroStrategy)
+Experience with ETL/ELT tools (Informatica, Talend)
+Experience with modern, various databases& data store tools (Oracle, Microsoft SQL Server, DB2, Redshift, RDS, DocumentDB, S3)
+Experience with database administration and data warehousing
+Experience with leveraging data governance frameworks and establishing methodologies
+Experience in related data applications and tools such as SAS, Informatica
+High degree of initiative and capacity to lead multiple priorities of significant scope in a fast-paced environment
+Knowledge of data architecture and technology solutions
+Job Skills:
+Proficient in SQL, Oracle, and/or Microsoft SQL Server
+Familiar with UNIX/LINUX shell scripting
+Strong skills with DAX and MDX in support of business solutions
+Hands-on experience with leading analytic tools and methods
+Experience in developing data pipelines and familiar with Cloud technologies
+Experience and familiarity with statistical techniques and models
+Strong experience with data modeling, data lineage, data warehousing and data marts
+Proficient personal organization, productivity, and time management skills
+Demonstrable confidence and enthusiasm about technology, innovation and problem solving
+Strong team player and mindset
+Desire to acquire and share new knowledge, skills, and abilities
+Who are we?
+
+At EmployBridge, we are America's Workforce Specialists. We're the largest light industrial staffing company in the United States and a preeminent resource for professional staffing. We offer local expertise and service through our nearly 600 branches and provide a full range of employment solutions to companies nationwide!
+
+EmployBridge/Select Staffing is an equal opportunity employer. We evaluate qualified applicants without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, and other legally protected characteristics.

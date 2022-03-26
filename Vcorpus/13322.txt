@@ -1,0 +1,25 @@
+As a Data Scientist at SentiLink, you will be responsible for developing and maintaining our core product: models that identify fraudsters and synthetic identities. You will also interface with teams across the company to develop new products, provide analysis to support different business needs (product management, business development, risk operations), and help to productionalize insights and ensure their scalability.
+
+This is a full-stack data science role, involving model development, analysis, and writing tested, production-quality code. Candidates should have previous data science work experience and be interested in a fast-moving company where deep domain understanding drives development.
+Responsibilities
+Be responsible for SentiLink’s fraud detection models through the model development lifespan - from data acquisition decisions through featurization, focusing labeling resources, model training, productionalization, and monitoring
+Work with product and engineering teams to develop new identity verification products
+Write production-ready code that can be relied on for real-time decision making by our partners
+Perform analyses that will inform data acquisition, product development, risk operations priorities, and sales efforts
+Work with engineering to access necessary data, maintain data quality, and support data access for other teams
+Dig deep to identify new trends in fraud and update our models to capture them
+Work Experience
+A graduate degree in a technical field and 1+ years relevant work experience OR 3+ years relevant work experience (e.g. data scientist, machine learning engineer)
+Interest in developing domain expertise for product-focused work - a background in fraud is not required, but willingness to learn is
+Understanding of different machine learning models and their trade-offs
+Ability to perform statistical analysis
+Experience writing production code and tests
+Detail oriented and thoughtful -- someone we can rely on to make business-changing decisions
+Ability and desire to take initiative and drive projects to completion
+Bonus for familiarity with: fintech or adjacent industries; identity solutions; distributed computing frameworks; data engineering; AWS; SQL
+Perks
+Work culture that gives you the time, space, and support required to build great things
+Awesome co-workers and cool team activities (go-karting, scuba diving, blacksmithing, etc.)
+Insurance (medical/dental/vision) for you and your dependents
+401k with matching
+Unlimited PTO

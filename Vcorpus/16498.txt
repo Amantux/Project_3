@@ -1,0 +1,35 @@
+Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.The Small Business Group (SBG) contributes directly to Facebooks mission by connecting small businesses with their customers and helping them grow through solutions like pages, advertising, and offers. We succeed when we help our customers grow their business. The SBG team is searching for a Data Scientist. The Data Scientist will use data analysis to understand customer profiles, produce reports to track our business, build models to provide insight into the Small Business customer base, identify opportunities, and impact the strategy of our Product, Marketing, and Sales teams. Ideal candidates love breaking down problems, building solutions, delivering actionable and data-driven insights, and working in a fast-paced, dynamic environment.
+
+Responsibilities:
+
+Take advantage of massive amounts of structured data to understand how our customers interact with our product and service offerings
+Proactively identify opportunities to improve the experience of businesses on the Facebook family of apps using data science
+Lead the design, analysis, and interpretation of projects from data requirement gathering to data processing, modeling, and recommendations
+Partner with cross-functional teams to identify new opportunities requiring the use of modern analytical and modeling techniques
+Design and execute experiments (e.g., A/B testing, multi-armed bandit)
+Effectively communicate insights and recommendations to business leads and influence strategic decision-making
+Frequently switch between on-the-ground tactical execution and 30k foot strategy
+Mininum Qualifications:
+
+BA/BS in a quantitative discipline like Math, Statistics, Economics, Computer Science, Physics, Engineering, Operations Research, or equivalent training
+2+ years of experience in a data science capacity in a business strategy, marketing, finance, engineering, or analytics organization
+Experience with data querying and manipulation using SQL, Python, or R
+Experience with experimental design
+Experience with data analysis and statistical modeling using the R or Python ecosystems, with packages such as pandas, statsmodels, scikit-learn, tidyverse (dplyr, ggplot2, etc.)
+Communication and presentation skills
+Preferred Qualifications:
+
+An MBA or Masters or Doctorate degree in a quantitative discipline like Math, Statistics, Economics, Computer Science, Physics, Engineering, Operations Research
+Self-starter, comfortable with ambiguity, ability to initiate and drive projects with minimal oversight and guidance
+Proven track record of leveraging data to deliver business value and present data-driven insights to business audiences
+Experience building cross functional relationships across a variety of functions to launch projects to drive business value
+Experience communicating with and influencing technical and non-technical audiences (engineers, data scientists, program managers, marketers)
+Experience developing data pipelines via SQL and Python-based ETL framework
+Experience shipping code into production
+Experience writing testable code
+Comfortable using version control tools such as git or mercurial
+Experience with Small Business landscape and/or online marketing and advertising
+Experience working with or in support of diverse communities
+Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.
+
+Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.
