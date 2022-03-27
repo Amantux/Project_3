@@ -1,0 +1,5 @@
+"0","sum(soft_skills_dtm$analytics != 0, na.rm=TRUE)"
+"1","[1]"
+"1"," 9161"
+"1","
+"

@@ -1,0 +1,2 @@
+"0",""
+"0","finalizedSoftList <- index_df_soft[index_df$Count !=0,]"
