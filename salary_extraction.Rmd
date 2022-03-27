@@ -1,0 +1,79 @@
+---
+title: "salary-cleanup"
+author: "Ahmed Elsaeyed"
+date: "3/26/2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(RMariaDB)
+library(DBI)
+library(bcputility)
+library(tm)
+library(dplyr)
+library(stringr)
+```
+
+
+```{r}
+#DB Set up 
+con <- dbConnect(RMariaDB::MariaDB(), username="ahmed", password="buckets123!@#", dbname ="basic", host="localhost")
+dbListTables(con)
+```
+
+```{r}
+df <- dbReadTable(con, "listings2019_2022")
+df
+```
+
+
+```{r}
+
+
+getMoney <- function(str1, str2) {
+  extractboi1 <- str_extract(str1,"\\d+")
+  extractboi2 <- str_extract(str2,"\\d+")
+  myextract = ''
+  
+  #check the first string, if its empyty then use the second
+  if(is.na(extractboi1)){
+    myextract=extractboi2
+  }
+  else{
+    myextract=extractboi1
+  }
+
+  
+  cleanboi = ''
+  if(nchar(myextract) == 5){
+    cleanboi=substr(myextract, 1,2)
+  }
+  else if(nchar(myextract) >= 6){
+    cleanboi=substr(myextract, 1,3)
+  }
+  else if(nchar(myextract) == 3 || nchar(myextract == 2)){
+    cleanboi=myextract
+  }
+  as.integer(cleanboi)
+}
+
+full_time <- df %>% filter(workType == "Full Time") %>% 
+  filter(salary_string != '') %>% 
+  filter(grepl("\\d", salary_string)) %>% 
+  separate(salary_string, c('min','max') ,'-') %>% 
+  rowwise() %>%
+  mutate(`min_cleaned` = getMoney(min, max)) %>%
+  mutate(`max_cleaned` = getMoney(max, min)) %>%
+  filter(min_cleaned >= 50 && max_cleaned >= 50) 
+
+full_time
+
+```
+```{r write to maria}
+dbWriteTable(con, "australia_rectified", full_time)
+```
