@@ -1,0 +1,53 @@
+---
+title: "Proj3_Data_Clean"
+author: "Carlos Alvarez"
+date: "March 26, 2022"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(tidyr)
+library(dplyr)
+library(naniar)
+library(stringr)
+```
+
+```{r}
+glassdoor <- read.csv("C:\\Users\\Carlos\\Documents\\GitHub\\Project_3\\Data_Sets\\Glassdoor USA Dataset.csv")
+```
+
+```{r}
+glassdoordf <- separate(data = glassdoor, col = Salary.Estimate, into = c("Salary_Min", "Salary_Max"), sep = "-")
+```
+```{r}
+table(glassdoordf$Salary_Min, useNA = 'always')
+```
+
+
+Removing all characters after K (thousand). Results with just $ are records with an hourly rate ($17 - $23 Per Hour)
+```{r}
+glassdoordf$Salary_Max = sub('\\ .*', '', glassdoordf$Salary_Max)
+glassdoordf$Salary_Max = sub('\\(.*', '', glassdoordf$Salary_Max)
+glassdoordf$Salary_Min[glassdoordf$Salary_Min == "$ 17"] <- "0"
+```
+
+Replacing all values smaller than length of 4 (Example: Anything with less characters than $60k) with NA.
+```{r}
+glassdoordf$Salary_Max[nchar(glassdoordf$Salary_Max) < 4] <- NA
+glassdoordf$Salary_Min[nchar(glassdoordf$Salary_Min) < 4] <- NA
+```
+
+```{r}
+table(glassdoordf$'Salary_Max', useNA = 'always')
+```
+
+If the record doesn't have a range, salary_Min will have the salary for the job posting. If this is the case, we'll be applying that value to Salary_Max as well.
+```{r}
+glassdoordf %>%
+  mutate(Salary_Max = ifelse(is.na(Salary_Max), Salary_Min, Salary_Max))
+```
+
