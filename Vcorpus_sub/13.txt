@@ -1,0 +1,86 @@
+Group Description
+
+Client Group Technology creates and supports business innovating technology for the Client Group. The team is responsible for business innovation, project and relationship management, data and business intelligence, vendor management, and software development as it relates to the tools used by the over 500 Client Group staff globally.
+
+The Client Group has a presence in the Americas, Europe, Asia and Australia, and is composed of five main areas:
+Sales & Client Services works with financial intermediaries and institutions to offer diversified investment solutions that help clients build and preserve their wealth
+Business Development is a conduit to the firm’s investment teams and supports our clients and internal business partners through investment-platform and product content, messaging, competitive analysis and education
+Product Strategy & Development designs, develops and manages the firm’s global lineup of investment services and considers clients’ evolving needs to identify new opportunities
+Marketing promotes the firm and its services by creating, packaging and distributing content and messaging to engage diverse audiences through digital platforms and initiatives, strategic campaigns, and events
+Business Transformation looks to evolve and scale our business, leveraging digital and data, to drive top-line growth and improve profitability
+Describe the role:
+The role of the developer will be database developer / Analyst with excellent knowledge of Relational databases including Microsoft SQL Server, Sybase.
+Analyze Internal/external, alternative data sources and provide recommendations for integration and enrichment of existing data.
+Assist in management front/middle office requests to ensure alternative data is properly evaluated, implemented, and risk assessed.
+Responsible for the new development and on-going support and maintenance of the various data feeds from external vendors, transfer agents and Platform sales.
+Help drive continuous improvements to data quality procedures and a consistent approach to how data quality is measured, monitored and reported.
+Work with stakeholders within the organization to refine and improve knowledge and processes.
+Participate in corporate strategy initiatives which includes advanced data queries and coordinating with management staff on other business management efforts.
+Examine and identify database structural necessities by evaluating client operations, applications, and programming.
+Build automated process to aid in system performance by performing regular tests, troubleshooting and integrating new features.
+Recommend solutions to improve new and existing database systems.
+Educate staff members through training and individual support.
+Offer support by responding to system problems in a timely manner.
+Assist in our data Analytics / data science efforts
+Deliver well-commented, maintainable code to team standard, including unit and system tests
+Liaison with technical team and Business Analysts within AB and in some cases external vendors to understand and gather requirements and deliver results based on the requirements.
+Responsible for the new development and on-going support and maintenance of the various data feeds from external vendors, transfer agents and Platform sales.
+Responsible for application unit testing, troubleshooting, problem definition and resolution.
+Responsibilities also include documenting system enhancements and production turnover and documentation of new features.
+Supporting production jobs, by providing on-call support and expeditiously resolving data, performance and other issues as and when required.
+Fulfilling adhoc requests from power users. Typically, this call for specialized processing that includes extracting specific data from the production database, mass moves of data between different entities, comparing data between Dev and PROD environments.
+Describe the applications and business or enterprise functions the role supports:
+
+The Dealer Marketing System (DMS) is the database used by all retail mutual fund applications. HighLine Datawarehouse a brand-new database being built by sourcing data from different systems/applications which will be the backbone of building new application that will sit on top of this Datawarehouse. Dealer Marketing System (DMS) is the database used by all retail mutual fund applications along with Customer Relationship application Salesforce (CRM), one point (data integrity maintenance), Business Intelligence Reports in MicroStrategy and SIMON (Mobile sales force application). It is the system of Record for domestic retail mutual funds sales, asset and transaction data.
+
+Some of the key operations done by DMS are:
+Receiving and processing financial transaction data feeds (purchases, redemptions, exchanges) from domestic and international transfer agencies (DST, Omnibus, CORFAX), Broker Dealer Omnibus and Recordkeeper files
+Client specific Data are ingested such as Demographic data; data packs; Market Share and Recordkeeper files
+Generating aggregates used by downstream applications (Salesforce, SIMON etc.)
+Distributing data to all linked sites and systems: Domestic and international advisor Websites, Wholesaler portal.
+Allowing members of the Sales Data Management team to manage sales territory definitions, move trades from one region to another etc.
+The key job responsibilities include, but are not limited to:
+Directly responsible for the development, maintenance, and support of new and/or existing software applications.
+Analyze Business requirements and design reports using stored procedure to support business requirements
+Develop, maintain and support SSIS Packages related to the ETL process with SQL Server Integration Service (SSIS)
+Work with SQL and T-SQL/ANSI SQL to create & alter tables, stored procedures, functions, indexing.
+Work with SQL for query performance tuning, finding and resolving technical issues and developing SQL statements and reports.
+The developer will also be responsible for shell scripting for batch processing, ETL based integrations in Informatica and few reporting-based applications.
+Directly work with offshore team members and allocate work and get it completed.
+What makes this role unique or interesting?
+
+This role is targeted to individuals that enjoy building software solutions that are data focused with an emphasis on supporting the sales and marketing process and building your expertise in warehouse, ETL, Business intelligence and data analytics.
+
+What is the professional development value of this role?
+
+This role provides the opportunity to learn the investment business as well as providing the opportunity to advance one’s technical skills with a focus on business intelligence, data and learn more on predictive and prescriptive analytics. Here are just a few of the technical areas this role will focus on: Building predictive & Prescriptive models & visualizations, Relational Database (SQL), Columnar database using Sybase IQ, Unstructured Data (NoSQL), ETL using Informatica & SSIS, using Data Analysis (Python).
+
+Job Qualifications
+
+Qualifications, Experience, Education:
+BS in Computer Science/Engineering, Finance, Mathematics/Statistics or a related major
+Skills:
+7+ years of strong development experience on Microsoft SQL Server related Products in Datawarehouse environment supporting various upstream and downstream applications.
+The role requires in-depth knowledge of SQL Server (up to the latest versions -SQL Server 2016 and 2017)
+Strong experience writing SQL queries using multi-dimensional joins, triggers and stored procedures in SQL Server.
+Experience with object-oriented analysis and design (OOAD), layered software architecture and web technologies.
+Experience creating ETL design and mapping documentation using Informatica, SSIS.
+Experience in shell scripting/PowerShell for batch processes is needed.
+Some database experience in Sybase ASE/Sybase IQ is a plus
+Scripting in languages such as Python programing and Azure Cloud experience is a plus
+System administration server experience with configuration and support of Microsoft Windows Server, OLEDB/ODBC setups.
+Experience with consuming/creating web services/rest API will be a plus.
+DevOps (CI/CD)
+Proven ability to work with multiple cross-functional teams including development, QA and business analysis professionals
+Solid analytical and trouble-shooting skills coupled with experience supporting production environments
+Strong experience on working on multiple projects part of a offshore team within an onsite-offshore model with emphasis on processes, methodologies and structure to manage expectations of US based clients
+Must possess a strong work ethics well as ability to give directions to and manage results of a strong team of .NET and SQL developers
+Excellent business communication skills both written and verbal
+Strong onsite-offshore coordination skills and ability to work with US managers on priorities
+SQL server certified engineer a plus.
+Experience in financial industry with experience working building data interfaces with internal and external vendors and/or banking back office knowledge a plus.
+Experience working with formal project methodologies like waterfall/agile.
+Ability to work independently with minimal supervision.
+Exposure to test methodologies
+Ability to write technical documentation
+Nashville, Tennessee

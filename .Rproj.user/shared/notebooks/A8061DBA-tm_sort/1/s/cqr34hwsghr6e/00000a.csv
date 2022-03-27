@@ -1,4 +1,0 @@
-"0","x <- loadcorpus(files = ""all"", corpus.dir = ""./corpus"", encoding = ""UTF-8"")"
-"2","Error in loadcorpus(files = ""all"", corpus.dir = ""./corpus"", encoding = ""UTF-8"") : 
-  could not find function ""loadcorpus""
-"

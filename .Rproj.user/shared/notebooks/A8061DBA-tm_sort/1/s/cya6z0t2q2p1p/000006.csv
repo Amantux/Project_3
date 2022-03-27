@@ -1,3 +1,0 @@
-"0","index_df <- data.frame(matrix(ncol = 2, nrow = 0))"
-"0","colnames(index_df) <-c(""Skill"", ""Count"")"
-"0",""

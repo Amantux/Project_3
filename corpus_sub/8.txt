@@ -1,0 +1,96 @@
+Overview
+
+
+Analysis Group is one of the largest international economics consulting firms, with more than 1,000 professionals across 14 offices in North America, Europe, and Asia. Since 1981, we have provided expertise in economics, finance, health care analytics, and strategy to top law firms, Fortune Global 500 companies, and government agencies worldwide. Our internal experts, together with our network of affiliated experts from academia, industry, and government, offer our clients exceptional breadth and depth of expertise.
+
+We are currently seeking a Data Scientist to join our team. The ideal candidate should be passionate about working on cutting edge research and analytical services for Fortune 500 companies, global pharma/biotech firms and leaders in industries such as finance, energy and life sciences. The Data Scientist will be a contributing member to client engagements and have the opportunity to work with our network of world-class experts and thought leaders.
+
+Job Functions and Responsibilities
+
+The candidate Data Scientist will help develop, maintain and teach new tools and methodologies related to data science and high performance computing. This position will also help Analysis Group in maintaining our leadership position in terms of advancing methodology and data analytics. The Data Scientist will be responsible for staying abreast of new developments in technology relating to data science, to share more broadly with Analysis Group.
+
+Key responsibilities for this position will include:
+Working with project teams to address data science/computing challenges
+Identifying opportunities for technology to enhance service offerings
+Acting as a resource and participating in client engagements and research as part of the project team
+Maintaining up-to-date knowledge of computing tools, providing technical training and helping to grow the in-house knowledge base, specifically in a Linux environment
+Presenting research at selected conferences
+Examples of activities for the Data Scientist will include:
+Developing data engineering and machine learning production systems for full stack data science projects
+Using natural language processing methodologies to work with EMR data, social media data and other unstructured data
+Optimizing procedures for managing and accessing large databases (e.g., insurance claims, electronic health records, financial transactions)
+Creating interactive analytics portals and data visualizations (e.g., using R/Shiny, Python/Flask, D3)
+Building and maintaining high performance computing (HPC) tools on grid and cloud computing environments
+Developing and reviewing software and packages in R, Python and other Object Oriented Languages
+Establishing optimized procedures for repetitive or computationally intensive tasks (C, C++, Cuda-C)
+Qualifications
+Strong credentials and experience in database management and data visualization
+Significant experience working within a Linux environment required
+Background in Statistics/Econometrics or Biostatistics
+Ideally PhD in Computer Science, Mathematics, Statistics, Economics or other relevant scientific degree with relevant experience. Other candidates with at least one year of experience in the field may also be considered
+Excellent written and verbal communication skills
+Project experience with R and/or Python
+Familiar with online/cloud computing/storage (e.g., AWS)
+Demonstrated experience working on project teams and collaborating with others
+SCIENTIFIQUE DES DONNÉES
+
+*L’utilisation du genre masculin sert uniquement à alléger le texte et est utilisé ici en tant que genre neutre
+
+Survol
+
+Groupe d’analyse ltée est l’une des plus grandes firmes de services-conseils en économie, comptant plus de 950 professionnels répartis dans 14 bureaux en Amérique du Nord, en Europe et en Asie. Depuis 1981, nous offrons notre expertise en matière de stratégie, d’économie, de finance et d’analyse dans le domaine des soins de santé aux grands cabinets d’avocats, aux sociétés Fortune Global 500 et aux agences gouvernementales du monde entier. Nos professionnels en poste conjugués à notre réseau de spécialistes affiliés issus d’universités, d’industries spécifiques et d’organismes gouvernementaux procurent à notre clientèle un savoir-faire d’une portée et d’une profondeur exceptionnelles.
+
+Nous sommes présentement à la recherche d'un Scientifique des données (« Data Scientist ») pour se joindre à notre équipe. Le candidat idéal devrait être passionné par la recherche de pointe et les services analytiques pour les entreprises Fortune 500, les entreprises pharmaceutiques et biotechnologiques mondiales et les chefs de file dans des secteurs de la finance, l'énergie et les sciences de la vie. Le Scientifique des données sera un membre contributeur aux mandats des clients et aura l'occasion de travailler avec notre réseau d'experts et de leaders d'opinion de classe mondiale.
+
+Description du poste et des responsabilités
+
+Le scientifique des données aidera à développer, maintenir et enseigner de nouveaux outils et méthodologies liés à la science des données (« Data Science ») et au HPC. Ce poste aidera également le Groupe d'analyse à maintenir sa position de chef de file en ce qui a trait à l'avancement de la méthodologie et de l'analyse des données. Le scientifique des données sera chargé de se tenir au courant des nouveaux développements technologiques liés à la science des données, afin de les partager plus largement avec le Groupe d'analyse.
+
+Les principales responsabilités de ce poste comprendront:
+
+- Collaborer avec les consultants pour relever les défis de la science des données et de sciences informatiques
+
+- Agir à titre de ressource et participer aux mandats et à la recherche en tant que membre de l'équipe de projet
+
+- Maintenir à jour les connaissances sur les outils informatiques, fournir une formation technique et aider à développer la base de connaissances interne, notamment dans un environnement Linux
+
+- Présenter la recherche à des conférences choisies
+
+Exemples de tâches du scientifique des données :
+
+- Développement de systèmes de production en ingénierie des données ainsi qu’en apprentissage machine pour des projets de science des données full stack
+
+- Utiliser des méthodologies NLP pour travailler avec les données médicales électroniques, les données des médias sociaux et d'autres données non structures
+
+- Optimiser les procédures de gestion et d'accès aux grandes bases de données (ex. réclamations d'assurance, dossiers de santé électroniques, transactions financières)
+
+- Création de portails d'analyse interactifs et de visualisations de données (par exemple, en utilisant R/Shiny, Python/Flask, D3)
+
+- Construire et maintenir des outils de calcul de haute performance (HPC).
+
+- Développement et révision de codes en R, Python et autres langages
+
+- Mise en place de procédures optimisées pour les tâches répétitives ou intensives en calcul (C, C++, Cuda-C)
+
+Qualifications requises
+
+- Solides références et expérience dans la gestion de bases de données et de la visualisation de données
+
+- Expérience de travail significative dans un environnement Linux requise
+
+- Expérience antérieure en statistique/économétrie ou bio-statistique
+
+- Idéalement, être titulaire d'un doctorat en sciences informatiques, en mathématiques, en statistique, en économie ou d'un autre diplôme scientifique pertinent et posséder une expérience pertinente. Les candidats ayant au moins un an d'expérience dans le domaine peuvent également être considérés.
+
+- Excellentes aptitudes de communication écrite et verbale
+
+- Expérience de projet avec R et/ou Python
+
+- Familiarité avec l'informatique en ligne/info nuagique et le stockage (AWS)
+
+- Expérience de travail démontrée au sein d'équipes de projet et de collaboration avec d'autres personnes
+
+­
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities.
+Please view Equal Employment Opportunity Posters provided by OFCCP here.
+The contractor will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. However, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the contractor's legal duty to furnish information. 41 CFR 60-1.35(c)
