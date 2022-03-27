@@ -8,116 +8,131 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-```{r}
+```{r, cache=TRUE}
 library(RMariaDB)
 library(DBI)
 library(bcputility)
 library(tm)
 library(dplyr)
 library(stringr)
+library(tidytext)
 ```
 
-
-```{r}
+<H1> Data Read In </H1>
+```{r, cache=TRUE}
 #DB Set up 
 con <- dbConnect(RMariaDB::MariaDB(), username="root", password="TestCase123.", dbname ="basic", host="localhost")
 dbListTables(con)
 ```
 
-```{r}
+```{r, cache=TRUE}
 df <- dbReadTable(con, "Rectified_Total")
 ```
-```{r}
+```{r, cache=TRUE}
 new_df <- data.frame( doc_id = 1:nrow(df), text =df$Job_Description )
 
 ```
 
+<H1> Corpus Creation </H1>
 
-```{r}
-df$sla80
-```
-
-
-
-
-```{r}
+```{r, cache=TRUE}
 (ds <- DataframeSource(new_df))
 x <- VCorpus(ds)
 
 ```
-```{r}
+```{r, cache=TRUE}
 writeCorpus(x, path = "./Vcorpus")
 ```
 
-```{r}
+```{r, cache=TRUE}
 x <- Corpus(DirSource("./corpus"), readerControl = list(language="lat"))
 ```
+
 Start Here if you are pulling from git
+<H1> Let's Tidy it up and clean it </H1>
 
-```{r}
-x <- loadcorpus(files = "all", corpus.dir = "./corpus", encoding = "UTF-8")
-```
-
-```{r}
+```{r, cache=TRUE}
 inspect(x[1:2])
 ```
-```{r}
+```{r, cache=TRUE}
 x <- tm_map(x, content_transformer(tolower))
 x <- tm_map(x, removeWords, stopwords("english"))
 ```
 
-```{r}
+<H1> Let's see how our stripped instances are </H1>
+
+```{r, cache=TRUE}
 inspect(x[1:2])
 ```
+<H1> Now Let's Create DTM </H1>
 
-
-```{r}
+```{r, cache=TRUE}
 dtm <- DocumentTermMatrix(x)
 ```
 
-```{r}
+```{r, cache=TRUE}
 inspect(dtm)
 ```
+<H1> Fun Little Tidbits </H1>
 
-```{r}
+Let's find the words asociated to other words that we are interested in! It could be all kinds of useful!
+
+```{r, cache=TRUE}
 findAssocs(dtm, "data", 0.40)
 ```
 
-```{r}
+<H1> Let's Grab Technical Skills </H1>
+
+<H2> The Master List </H2>
+
+First things first, lets grab a master list of coding languages. 
+
+```{r, cache=TRUE}
 url.data <- "https://raw.githubusercontent.com/jamhall/programming-languages-csv/master/languages.csv"
 raw <- read.csv(url(url.data), header = TRUE,)
 programming_list <- tolower(raw$name)
 ```
 
+<H2> Technical Skill data <H2>
 
-```{r}
+Now lets see which jobs match which roles
+
+```{r, cache=TRUE}
 programming_list_dtm <- DocumentTermMatrix(x, list(dictionary = c(programming_list)))
 ```
-```{r}
-library(tidytext)
-```
 
-
-
-```{r}
+```{r, cache=TRUE}
 programming_list_df <- as.data.frame(as.matrix(programming_list_dtm), stringsAsFactors=False)
 ```
 
-```{r}
-Programming_Skills = new
-```
 
-<H1> Let Get Counts </H1>
 
-```{r}
+<H2> Let Get Better Metrics Counts </H2>
+
+Let's first test a routine, we're going to try and count the number of rows that exist for python.
+
+
+```{r, cache=TRUE}
 sum(programming_list_df$python != 0, na.rm=TRUE)
 ```
-<H1> Now Let's Iterate </H1>
+<H2> Now Let's Apply it elsewhere </H2>
 
-```{r}
+Now let make a new dataframe. First things first, let's use this as a way to get skills and counts. 
+
+```{r, cache=TRUE}
 index_df <- data.frame(matrix(ncol = 2, nrow = 0))
 colnames(index_df) <-c("Skill", "Count")
 
+```
+
+From there, let's populate it
+
+```{r, cache=TRUE}
+list_holder <- list()
+for(i in 1:ncol(programming_list_df)) {       # for-loop over columns
+  index_df[i,] <- c(colnames(programming_list_df)[i], (sum(programming_list_df[, i] != 0, na.rm=TRUE)))
+}
+index_df
 ```
 
 ```{r, cache=TRUE}
@@ -127,67 +142,101 @@ for(i in 1:ncol(programming_list_df)) {       # for-loop over columns
 }
 index_df
 ```
-```{r}
-index_df <- index_df[index_df$Count != 0, ]
+Now let's remove everything that is useless. 
+
+```{r, cache=TRUE}
+
+finalizedProgramList <- index_df[index_df$Count !=0,]
 ```
 
-```{r}
-list_test <- findAssocs(dtm, "data", 0.40)
-list_test
-```
-```{r}
-list_test
-test_me_123 <- (unlist(list_test))
-test_me_123
-test_me_1234 <- str_remove(names(unlist(list_test)), "data.")
-test_me_1234
+And finally, lets view our data. Its a lot smaller!
+
+
+```{r, cache=TRUE}
+finalizedProgramList
 ```
 
-```{r}
-index_df$Skill[1,]
+<H1> The Non-techncial skills <H1>
+
+First things first, lets grab a master list of coding languages. 
+
+```{r, cache=TRUE}
+url.data <- "https://raw.githubusercontent.com/Amantux/Project_3/main/Data_Skills.csv"
+raw <- read.csv(url(url.data), header= TRUE,)
+head(raw)
+soft_skills <- tolower(raw$ï..Skills) #Very confused at the column name, but I'm just rolling with it
 ```
 
+<H2> Non-Technical Skill data <H2>
 
-```{r}
-index_df$Asociations = "None" 
-for(i in 1:nrow(index_df)) {
-    associations <-  findAssocs(dtm, index_df$Skill[i], 0.40)
-    if (!is.null(associations)) {
-      if(!is.null(names(unlist(associations)))){
-        if (!is.null(dataWordList)){
-          index_df[i, index_df$Asociations] = str_remove(names(unlist(associations)), "data.")
-        }
-      }
-  }
-}
-```
-```{r}
-index_df[2]
+Now lets see which jobs match which roles
+
+```{r, cache=TRUE}
+soft_skills_dtm <- DocumentTermMatrix(x, list(dictionary = c(soft_skills)))
 ```
 
-
-
-```{r}
-head(colnames(programming_list_df)[5])
-programming_list_df.colindex.names[2]
+```{r, cache=TRUE}
+soft_skills
 ```
 
 
-```{r}
-print(list_holder)
+```{r, cache=TRUE}
+inspect(soft_skills_dtm)
 ```
 
 
 
 ```{r, cache=TRUE}
-tail(DF)
-```
-```{r}
-library(e1071)
+soft_skills_dtm <- as.data.frame(as.matrix(soft_skills_dtm), stringsAsFactors=False)
 ```
 
-```{r}
-dat = data.frame(x, y = as.factor(y))
-svmfit = svm(y ~ ., data = dat, kernel = "linear", cost = 10, scale = FALSE)
+
+
+<H2> Let Get Better Metrics Counts </H2>
+
+Let's first test a routine, we're going to try and count the number of rows that exist for python.
+
+
+```{r, cache=TRUE}
+sum(soft_skills_dtm$analytics != 0, na.rm=TRUE)
+```
+<H2> Now Let's Apply it elsewhere </H2>
+
+Now let make a new dataframe. First things first, let's use this as a way to get skills and counts. 
+
+```{r, cache=TRUE}
+index_df_soft <- data.frame(matrix(ncol = 2, nrow = 0))
+colnames(index_df_soft) <-c("Skill", "Count")
+
 ```
 
+From there, let's populate it
+
+```{r, cache=TRUE}
+list_holder <- list()
+for(i in 1:ncol(soft_skills_dtm)) {       # for-loop over columns
+  index_df_soft[i,] <- c(colnames(soft_skills_dtm)[i], (sum(soft_skills_dtm[, i] != 0, na.rm=TRUE)))
+}
+index_df_soft
+```
+
+```{r, cache=TRUE}
+list_holder <- list()
+for(i in 1:ncol(soft_skills_dtm)) {       # for-loop over columns
+  index_df_soft[i,] <- c(colnames(soft_skills_dtm)[i], (sum(soft_skills_dtm[, i] != 0, na.rm=TRUE)))
+}
+index_df_soft
+```
+Now let's remove everything that is useless. 
+
+```{r, cache=TRUE}
+
+finalizedSoftList <- index_df_soft[index_df$Count !=0,]
+```
+
+And finally, lets view our data. Its a lot smaller!
+
+
+```{r, cache=TRUE}
+finalizedSoftList
+```
