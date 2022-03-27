@@ -13,6 +13,8 @@ library(RMariaDB)
 library(DBI)
 library(bcputility)
 library(tm)
+library(dplyr)
+library(stringr)
 ```
 
 
@@ -124,6 +126,43 @@ for(i in 1:ncol(programming_list_df)) {       # for-loop over columns
   index_df[i,] <- c(colnames(programming_list_df)[i], (sum(programming_list_df[, i] != 0, na.rm=TRUE)))
 }
 index_df
+```
+```{r}
+index_df <- index_df[index_df$Count != 0, ]
+```
+
+```{r}
+list_test <- findAssocs(dtm, "data", 0.40)
+list_test
+```
+```{r}
+list_test
+test_me_123 <- (unlist(list_test))
+test_me_123
+test_me_1234 <- str_remove(names(unlist(list_test)), "data.")
+test_me_1234
+```
+
+```{r}
+index_df$Skill[1,]
+```
+
+
+```{r}
+index_df$Asociations = "None" 
+for(i in 1:nrow(index_df)) {
+    associations <-  findAssocs(dtm, index_df$Skill[i], 0.40)
+    if (!is.null(associations)) {
+      if(!is.null(names(unlist(associations)))){
+        if (!is.null(dataWordList)){
+          index_df[i, index_df$Asociations] = str_remove(names(unlist(associations)), "data.")
+        }
+      }
+  }
+}
+```
+```{r}
+index_df[2]
 ```
 
 
