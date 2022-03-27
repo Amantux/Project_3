@@ -70,7 +70,10 @@ full_time <- df %>% filter(workType == "Full Time") %>%
   mutate(`min_cleaned` = getMoney(min, max)) %>%
   mutate(`max_cleaned` = getMoney(max, min)) %>%
   filter(min_cleaned >= 50 && max_cleaned >= 50) 
+
 full_time
 
 ```
-
+```{r write to maria}
+dbWriteTable(con, "australia_rectified", full_time)
+```
