@@ -1,0 +1,597 @@
+---
+title: Data607 Project 3 - Most Valued Data Science Skills
+author: "MEAO - A. Moyse, A. Elsaeyed, C. Alvarez, P. O'Flaherty"
+date: '2022-03-22'
+output: 
+  html_document:
+    df_print: paged
+    toc: true
+    toc_float: true
+---
+
+<!--
+Project – Data Science Skills
+This is a project for your entire class section to work on together, since being able to work effectively on a virtual team is a key “soft skill” for data scientists. Please note especially the requirement about making a presentation during our first meetup after the project is due.
+
+Please use data to answer the question, “Which are the most valued data science skills?” Consider your work as an exploration; there is not necessarily a “right answer.”
+
+Grading rubric:
+ + You will need to determine what tool(s) you’ll use as a group to effectively collaborate, share code and any project documentation (such as motivation, approach, findings).
+ + You will have to determine what data to collect, where the data can be found, and how to load it.
+ + The data that you decide to collect should reside in a relational database, in a set of normalized tables.
+ + You should perform any needed tidying, transformations, and exploratory data analysis in R.
+ + Your deliverable should include all code, results, and documentation of your motivation, approach, and findings.
+ + As a group, you should appoint (at least) three people to lead parts of the presentation.
+ + While you are strongly encouraged (and will hopefully find it fun) to try out statistics and data models, your grade will not be affected by the statistical analysis and modeling performed (since this is a semester one course on Data Acquisition and Management).
+ + Every student must be prepared to explain how the data was collected, loaded, transformed, tidied, and analyzed for outliers, etc. in our Meetup. This is the only way I’ll have to determine that everyone actively participated in the process, so you need to hold yourself responsible for understanding what your class-size team did! If you are unable to attend the meet up, then you need to either present to me one-on-one before the meetup presentation, or post a 3 to 5 minute video (e.g. on YouTube) explaining the process. Individual students will not be responsible for explaining any forays into statistical analysis, modeling, data mining, regression, decision trees, etc.
+
+One example graph: Top Forest Ranger Skills (based on number of resumes with specified skills). You are
+encouraged to come up with your own approach that may use different kinds of data sources.
+-->
+
+<br>
+
+* * *
+
+# Getting Started
+
+## Instructions
+
+Use data to answer the question, “Which are the most valued data science skills?”
+
+<br>
+
+* * *
+
+## Proposed Implementation
+
+Our preliminary goal was to use multiple data sets from Kaggle to:
+
+ + create a rough association between job titles and pay bands
+ + identify skill sets in job listings using a codex
+ + assign a value to individual skill sets using the above
+
+Our actual implementation was to:
+
+ + create a tidied and stripped corpus from job descriptions
+ + view words associated with 'data' using a 'Document Term Matrix'
+ + extract and rank programming languages based on frequency in the cleaned corpus
+ + extract and rank soft skills based on frequency in the cleaned corpus
+
+<br>
+
+* * *
+
+## Libraries
+
+**Here we load our libraries.**
+
+```{r, message=FALSE}
+# Install new packages
+#install.packages('RMariaDB')
+#install.packages('bcputility')
+#install.packages('tm')
+
+# Load packages --------------------------------------
+library(RMariaDB) # For accessing our SQL data
+library(DBI)
+library(bcputility)
+library(tm) # Our star package with a host of functionality for working with corpora
+library(dplyr)
+library(stringr)
+library(tidytext)
+```
+
+<br>
+
+* * *
+
+# Data
+
+## Source Data
+
+**Our underlying data comes from four kaggle databases that we have unified to total nearly 26,000 data science-focused job listings.**
+
+NICOLAE RIGHERIU (2020) *"10000 Data Scientist Job Postings from the USA"*  
+[https://www.kaggle.com/nrigheriu/data-scientist-job-postings/data](https://www.kaggle.com/nrigheriu/data-scientist-job-postings/data)
+
+RASHIK RAHMAN (2021) *"Data Science Job Posting on Glassdoor"*  
+[https://www.kaggle.com/rashikrahmanpritom/data-science-job-posting-on-glassdoor](https://www.kaggle.com/rashikrahmanpritom/data-science-job-posting-on-glassdoor)
+
+MICHAEL BRYANT (2022) *"Data Science Job Postings and Salaries"*  
+[https://www.kaggle.com/michaelbryantds/california-salaries-in-data-science](https://www.kaggle.com/michaelbryantds/california-salaries-in-data-science)
+
+KAJAL YADAV (2021) *"Glassdoor Pre-pandemic Dataset for USA"*  
+[https://www.kaggle.com/techykajal/glassdoor-prepandemic-dataset-for-usa](https://www.kaggle.com/techykajal/glassdoor-prepandemic-dataset-for-usa)
+
+<br>
+
+* * *
+
+## Data Manipulation, Ex 1
+
+**Here we memorialize how salary information from one of the data sets was cleaned.  After a fork in the project we no longer needed to use Salary information but document it here for completeness.**  
+
+```{r, eval=FALSE}
+library(tidyr)
+library(dplyr)
+library(naniar)
+library(stringr)
+
+glassdoor <- read.csv("C:\\Users\\Carlos\\Documents\\GitHub\\Project_3\\Data_Sets\\Glassdoor USA Dataset.csv")
+
+glassdoordf <- separate(data = glassdoor, col = Salary.Estimate, into = c("Salary_Min", "Salary_Max"), sep = "-")
+
+table(glassdoordf$Salary_Min, useNA = 'always')
+
+# Removing all characters after K (thousand). Results with just $ are records with an 
+# hourly rate ($17 - $23 Per Hour)
+glassdoordf$Salary_Max = sub('\\ .*', '', glassdoordf$Salary_Max)
+glassdoordf$Salary_Max = sub('\\(.*', '', glassdoordf$Salary_Max)
+glassdoordf$Salary_Min[glassdoordf$Salary_Min == "$ 17"] <- "0"
+
+# Replacing all values smaller than length of 4 (Example: Anything with less characters than $60k) with NA.
+glassdoordf$Salary_Max[nchar(glassdoordf$Salary_Max) < 4] <- NA
+glassdoordf$Salary_Min[nchar(glassdoordf$Salary_Min) < 4] <- NA
+
+table(glassdoordf$'Salary_Max', useNA = 'always')
+
+# If the record doesn't have a range, salary_Min will have the salary for the job posting. If this
+# is the case, we'll be applying that value to Salary_Max as well.
+glassdoordf %>%
+  mutate(Salary_Max = ifelse(is.na(Salary_Max), Salary_Min, Salary_Max))
+```
+
+<br>
+
+* * *
+
+## Data Manipulation, Ex 2
+
+**Here we memorialize how salary information from another data set was cleaned.  After a fork in the project we no longer needed to use Salary information but document it here for completeness.** 
+
+```{r, eval=FALSE}
+library(RMariaDB)
+library(DBI)
+library(bcputility)
+library(tm)
+library(dplyr)
+library(stringr)
+
+#DB Set up 
+con <- dbConnect(RMariaDB::MariaDB(), username="ahmed", password="buckets123!@#", dbname ="basic", host="localhost")
+dbListTables(con)
+
+df <- dbReadTable(con, "listings2019_2022")
+df
+
+getMoney <- function(str1, str2) {
+  extractboi1 <- str_extract(str1,"\\d+")
+  extractboi2 <- str_extract(str2,"\\d+")
+  myextract = ''
+  
+  #check the first string, if its empyty then use the second
+  if(is.na(extractboi1)){
+    myextract=extractboi2
+  }
+  else{
+    myextract=extractboi1
+  }
+  
+  
+  cleanboi = ''
+  if(nchar(myextract) == 5){
+    cleanboi=substr(myextract, 1,2)
+  }
+  else if(nchar(myextract) >= 6){
+    cleanboi=substr(myextract, 1,3)
+  }
+  else if(nchar(myextract) == 3 || nchar(myextract == 2)){
+    cleanboi=myextract
+  }
+  as.integer(cleanboi)
+}
+
+full_time <- df %>% filter(workType == "Full Time") %>% 
+  filter(salary_string != '') %>% 
+  filter(grepl("\\d", salary_string)) %>% 
+  separate(salary_string, c('min','max') ,'-') %>% 
+  rowwise() %>%
+  mutate(`min_cleaned` = getMoney(min, max)) %>%
+  mutate(`max_cleaned` = getMoney(max, min)) %>%
+  filter(min_cleaned >= 50 && max_cleaned >= 50) 
+
+full_time
+
+# write to maria}
+dbWriteTable(con, "australia_rectified", full_time)
+```
+
+<br>
+
+* * *
+
+## Project Fork
+
+Having all of this wonderful data, we wanted to make a salary predictor based on location, job title, and skills mentioned in the job description.  As a flex we could use that predictor to assign a value to each individual skill based on expected pay (holding location and job title constant).
+
+Where we were able to meet the objectives of the project was in analyzing the job descriptions, so in our following Analysis section we rely just on job descriptions from each job listing.
+
+<br>
+
+* * *
+
+# Analysis
+
+## Data Read in
+
+**Here we read in our aggregated data.**
+
+Code Summary  
+ + SQL connection set up  
+ + Read our aggregated data to a dataframe  
+ + Restrict data based on memory as a limiting factor
+
+```{r, message = FALSE}
+# SQL connection set up
+con <- dbConnect(RMariaDB::MariaDB(), username="root", password="TestCase123.", dbname ="basic", host="127.0.0.1")
+dbListTables(con)
+```
+
+```{r}
+# Read our aggregated data to a dataframe
+df <- dbReadTable(con, "Rectified_Total")
+```
+
+```{r}
+# Restrict data based on memory as a limiting factor
+sub_length = 100
+new_df <- data.frame( doc_id = 1:sub_length, text =df$Job_Description[1:sub_length] )
+```
+
+**Note, this file was knit using "4 GB 1600 MHz DDR3" Memory.  You can reproduce the results using a sub_length greater than 100.  Since the corpus is held dynamically in memory, memory becomes a limiting factor in running these results.**
+
+<br>
+
+* * *
+
+## Corpus Creation
+
+### Corpus Creation, Option 1
+
+**Here we create the corpora**
+
+Code summary  
+ + Create the corpora  
+ + Write the corpora to file  
+
+```{r, results='hide'}
+# Create the corpora
+ds <- DataframeSource(new_df)
+v <- VCorpus(ds)
+x <- Corpus(ds)
+```
+
+**Note, the function Corpus() from the `tm` package generates either a Virtual Corpus or a Simple Corpus based on context.  Both are fully kept in memory, the difference being that a simple corpus is optimized for the most common tasks required of the `tm` package.  Going forward we will use the simple corpus, `x`; However we create and store a Virtual Corpus as well in case a future project requires that flexibility.**
+
+```{r, cache=TRUE, eval=FALSE}
+# Write the corpus to file, not evaluated for our purposes
+writeCorpus(v, path = "./Vcorpus_sub")
+writeCorpus(x, path = "./corpus_sub")
+```
+
+**Note, this step allows us to create the corpus once to be read into multiple projects.  The code to read an already created corpus is in the next section.**
+
+<br>
+
+* * *
+
+### Load the Corpus, Option 2
+
+**Assuming we've already created our corpus we can read it directly into a given project.**
+
+```{r, eval=FALSE}
+# Load the corpus as an option instead of recreating, not evaluated for our purposes
+x <- Corpus(DirSource("./corpus_sub"), readerControl = list(language="lat"))
+```
+
+<br>
+
+* * *
+
+### Tidy and Clean Corpus
+
+**Here we tidy and strip our corpus.**
+
+Code Summary  
+ + Transform content to lower case  
+ + Remove filler words  
+ + Inspect one element of the corpus, equivalent to one job description, before cleaning  
+ + Inspect the same element of the corpus, after cleaning  
+
+**Notice how after the cleaning connector words are gone and everything is lower case.**  
+
+**Also note, the job descriptions are long.  The output is not hidden so you can see the difference between the corpus before and after cleaning for one job description.  Instead of scrolling you can navigate between sections using the Table of Contents.**
+
+```{r}
+# Transform content to lower case
+xc <- tm_map(x, content_transformer(tolower))
+```
+
+```{r}
+# Remove filler words
+xc <- tm_map(xc, removeWords, stopwords("english"))
+```
+
+```{r}
+# Inspect one element of the corpus, equivalent to one job description, before cleaning
+inspect(x[2])
+```
+
+```{r}
+# Inspect the same element of the corpus, after cleaning
+inspect(xc[2])
+```
+
+<br>
+
+* * *
+
+## Demonstrate the DTM
+
+**Here we demonstrate the Document Term Matrix.  This is a grid where terms are listed on both the x and the y-axis.  Where the word is equal to itself, along the diagonal from top-left to bottom-right, the value is not applicable.  In all of the other cells a value is assigned based on how often the two different words are close to each other.**
+
+Code Summary  
+ + Create the Document Term Matrix (DTM)  
+ + View summary details of the DTM  
+ + Find the words associated with the word 'data'  
+
+```{r}
+# Create the Document Term Matrix
+dtm <- DocumentTermMatrix(xc)
+```
+
+```{r}
+# View summary details of the DTM
+inspect(dtm)
+```
+
+**Note, we set the association level to '0.45'.  By lowering the association level we would produce more results.**
+
+```{r}
+# Find the words associated with the word 'data' 
+findAssocs(dtm, "data", 0.45)
+```
+
+<br>
+
+* * *
+
+## Programming Languages
+
+**Here we apply a series of manipulations to arrive at a list of programming languages ranked by frequency in the corpus.**
+
+### The Master List
+
+**Here we grab a list of programming languages.** 
+
+The data is a [list of programming languages from Wikipedia](https://github.com/jamhall/programming-languages-csv) collected in 2015 by github user, Jamhall.
+
+```{r}
+# Grab a list of programming languages
+url.data <- "https://raw.githubusercontent.com/jamhall/programming-languages-csv/master/languages.csv"
+raw <- read.csv(url(url.data), header = TRUE,)
+programming_list <- tolower(raw$name)
+```
+
+<br>
+
+* * *
+
+### Technical Skills Data
+
+**Here we use the power of the Document Term Matrix to find instances of the programming languages in the corpus of job descriptions.**
+
+```{r}
+# Produce the DTM using the list of programming languages
+programming_list_dtm <- DocumentTermMatrix(xc, list(dictionary = c(programming_list)))
+```
+
+```{r}
+# Convert the DTM into a dataframe for ease of use
+programming_list_df <- as.data.frame(as.matrix(programming_list_dtm), stringsAsFactors=False)
+```
+
+<br>
+
+* * *
+
+### Test Metrics for Count
+
+**Here we test a routine.  We're trying to count the number of rows that exist for the skill 'python'.**
+
+```{r}
+# Count the number of rows that exist for the skill 'python'
+sum(programming_list_df$python != 0, na.rm=TRUE)
+```
+
+<br>
+
+* * *
+
+### Skills and Counts Dataframe
+
+**Here we make a new dataframe with skills and counts.**
+
+Code Summary  
+ + Create a raw dataframe  
+ + Populate the dataframe with counts of programming languages  
+ + Remove the programming languages with a count of zero  
+
+```{r}
+# Create a raw dataframe ready to be populated
+index_df <- data.frame(matrix(ncol = 2, nrow = 0))
+colnames(index_df) <-c("Skill", "Count")
+```
+
+```{r}
+# Populate the raw dataframe similarly using the methodology in the preceding 
+# section to count 'python' but now for all programming languages
+list_holder <- list()
+for(i in 1:ncol(programming_list_df)) {       # for-loop over columns
+  index_df[i,] <- c(colnames(programming_list_df)[i], (sum(programming_list_df[, i] != 0, na.rm=TRUE)))
+}
+index_df
+```
+
+```{r}
+# Remove all programming languages with a count of zero
+finalizedProgramList <- index_df[index_df$Count !=0,]
+```
+
+<br>
+
+* * *
+
+### Programming Languages Ranked
+
+**Here we display the programming languages ranked by frequency in the corpus.  While all of the words are associated with programming languages there are results whose counts are conflated with non-programming language uses of the word, such as "make".**
+
+```{r}
+finalizedProgramList$Count <- as.integer(finalizedProgramList$Count)
+arrange(finalizedProgramList, desc(Count))
+```
+<br>
+
+* * *
+
+## Soft Skills
+
+**Here we repeat the preceding series of manipulations to arrive at a list of soft skills ranked by frequency in the corpus.**
+
+### The Master List
+
+**Here we grab a list of soft skills.** 
+
+The list of soft skills was compiled by combining the following three lists:  
+ + [https://simplicable.com/en/data-science-skills](https://simplicable.com/en/data-science-skills)  
+ + [https://simplicable.com/new/soft-skills](https://simplicable.com/new/soft-skills)  
+ + [https://simplicable.com/new/communication-skills](https://simplicable.com/new/communication-skills)  
+
+```{r}
+# Grab a list of soft skills
+url.data <- "https://raw.githubusercontent.com/Amantux/Project_3/main/Data_Skills.csv"
+raw <- read.csv(url(url.data), header= TRUE,)
+head(raw)
+soft_skills <- tolower(raw$ï..Skills)
+```
+
+<br>
+
+* * *
+
+### Non-Technical Skills Data
+
+**Here we use the power of the Document Term Matrix to find instances of the soft skills in the corpus of job descriptions.**
+
+```{r}
+# Produce the DTM using the list of soft skills
+soft_skills_dtm <- DocumentTermMatrix(xc, list(dictionary = c(soft_skills)))
+```
+
+```{r}
+# Convert the DTM into a dataframe for ease of use
+soft_skills_dtm <- as.data.frame(as.matrix(soft_skills_dtm), stringsAsFactors=False)
+```
+
+<br>
+
+* * *
+
+### Test Metrics for Count
+
+**Here we test a routine.  We're trying to count the number of rows that exist for the skill 'analytics'.**
+
+```{r}
+# Count the number of rows that exist for the skill 'analytics'
+sum(soft_skills_dtm$analytics != 0, na.rm=TRUE)
+```
+
+<br>
+
+* * *
+
+### Skills and Counts Dataframe
+
+**Here we make a new dataframe with skills and counts.**
+
+Code Summary  
+ + Create a raw dataframe  
+ + Populate the dataframe with counts of soft skills  
+ + Remove the soft skills with a count of zero  
+
+```{r}
+# Create a raw dataframe ready to be populated
+index_df_soft <- data.frame(matrix(ncol = 2, nrow = 0))
+colnames(index_df_soft) <-c("Skill", "Count")
+```
+
+```{r}
+# Populate the raw dataframe similarly using the methodology in the preceding 
+# section to count 'analytics' but now for all soft skills
+list_holder <- list()
+for(i in 1:ncol(soft_skills_dtm)) {       # for-loop over columns
+  index_df_soft[i,] <- c(colnames(soft_skills_dtm)[i], (sum(soft_skills_dtm[, i] != 0, na.rm=TRUE)))
+}
+index_df_soft
+```
+
+```{r}
+# Remove all soft skills with a count of zero
+finalizedSoftList <- index_df_soft[index_df$Count !=0,]
+```
+
+<br>
+
+* * *
+
+### Soft Skills Ranked
+
+**Here we display the soft skills ranked by frequency in the corpus.  While all of the words are associated with soft skills there are results whose counts are conflated by other, generic use, such as the word "using".**
+
+```{r}
+finalizedSoftList$Count <- as.integer(finalizedSoftList$Count)
+arrange(finalizedSoftList, desc(Count))
+```
+
+<br>
+
+* * *
+
+# Concluding Remarks
+
+## Decisions made
+
+**Data**
+Initially we wanted to scrape job listings from job boards like Indeed and LinkedIn; However we ran into issues with being able to collect data at scale.  The kaggle datasets allowed us to pursue our lines of analysis as a proof of concept.  The natural progression of the project would be to duplicate it using current, scraped job listings.
+
+**Predictors**
+Because we have so much data from the job listings, an interesting project would be to create salary predictors based on location, job title, and required skills.
+
+<br>
+
+* * *
+
+## Resources
+
+ + Here is a tutorial for web scraping in  [RSelenium](http://joshuamccrain.com/tutorials/web_scraping_R_selenium.html)  
+ + [Trello](https://trello.com) is a way to collective track and prioritize elements of a project  
+ + [neo4j](https://neo4j.com/developer/get-started/) is database system which organizes data based on association  
+ + [docker](https://docs.docker.com/compose/gettingstarted/) is a way to create instances of an environment to run your code.  It's a best in practice because any docking container you create would be identical across computers.  
+ + [tm](https://cran.r-project.org/web/packages/tm/vignettes/tm.pdf), or text miner, is a package for working with corpora  
+ + [MariaDB](https://mariadb.org/) is a SQL language that works well with docker containers.  
+<br>
+
+* * *
+
+
